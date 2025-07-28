@@ -1,0 +1,88 @@
+style_guide:
+  naming:
+    variables: camelCase
+    functions: camelCase
+    classes: PascalCase
+    interfaces: PascalCase
+    constants: UPPER_SNAKE_CASE
+  formatting:
+    indentation: 2
+    max_line_length: off
+    semicolons: true
+    quotes: double
+    trailing_commas: never
+  eslint:
+    disabled_rules:
+      - no-plusplus
+      - no-console
+      - no-underscore-dangle
+      - no-param-reassign
+    warning_rules:
+      - no-unused-vars
+      - no-trailing-spaces
+      - import/order
+      - prefer-template
+
+architecture:
+  frontend:
+    framework: Svelte
+    language: TypeScript
+    style: file-based routing with SvelteKit
+    preferred_file_structure:
+      - src/routes/
+      - src/components/
+      - src/lib/
+    state_management: Svelte context + reactive stores
+    avoid:
+      - deeply nested props
+      - unnecessary state duplication
+
+code_generation:
+  extract_common_logic: true
+  avoid_nested_if: true
+  prefer_early_return: true
+  prefer_util_method_for_validation: true
+  comment_style: inline where needed
+  comment_language: Korean
+
+documentation:
+  use_swagger: true
+  comment_format: Javadoc for Java, /** */ for TS
+
+i18n:
+  base_path: '/packages/naon-webapp/static/resources/i18n'
+  supported_languages:
+    - ko: 한국어 (기본)
+    - en: 영어
+    - ja: 일본어
+    - vi: 베트남어
+    - zh: 중국어
+  file_naming:
+    pattern: '{namespace}Messages_{lang}.json'
+    example: 'emlMessages_ko.json'
+  key_format:
+    pattern: '{namespace}.{type}.{key}'
+    types:
+      - label: UI 라벨, 버튼 텍스트
+      - text: 본문, 메시지, 안내문
+      - error: 에러 메시지
+      - guide: 도움말, 가이드
+    example: 'eml.label.mailTransfer'
+  best_practices:
+    - 모든 다국어 키는 해당 네임스페이스의 모든 언어 파일에 동일하게 존재해야 함
+    - 번역 누락을 방지하기 위해 한국어(ko) 파일을 기준으로 다른 언어 파일 동기화
+    - 키 이름은 영문 camelCase 사용
+    - 실제 사용되는 경로의 파일을 수정 (src/lib/i18n이 아닌 static/resources/i18n)
+    - 다국어 키 추가 시 모든 지원 언어 파일에 동시 적용
+
+ignore_patterns:
+  - node_modules/
+  - .git/
+  - dist/
+  - build/
+  - .husky/
+  - ai-instructions/
+  - .vscode/
+  - 1.txt
+  - 2.txt
+  - rebel.xml
