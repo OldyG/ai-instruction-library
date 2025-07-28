@@ -8,10 +8,16 @@
 - 기술 문서 및 참조 자료 관리
 
 ## 하위 폴더 구조
-- `svelte5-ts/` - Svelte5, TypeScript 관련 지식
-- `java/` - Java 관련 지식
+- **`svelte5-with-ts/`** - Svelte5 + TypeScript 관련 지식 (4개 파일)
+- **`java/`** - Java 관련 지식 (추후 추가 예정)
+
+## 현재 보유 지식 현황
+- **Svelte5 + TypeScript**: 4개 전문 지침 보유
+  - 코딩 스타일, 아키텍처, 컨벤션 규칙 등
+- **Java**: 추후 확장 예정
 
 ## 추가 가능한 기술 스택
 - `react/` - React 관련 지식
-- `python/` - Python 관련 지식
+- `python/` - Python 관련 지식  
 - `database/` - 데이터베이스 관련 지식
+- `devops/` - DevOps 및 인프라 관련

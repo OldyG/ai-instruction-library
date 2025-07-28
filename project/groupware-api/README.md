@@ -7,8 +7,11 @@
 - API 설계 및 보안 가이드라인
 - 그룹웨어 도메인 특화 개발 규칙
 
-## 예시 파일들
-- `api-security.md` - API 보안 가이드
-- `domain-modeling.md` - 그룹웨어 도메인 모델링
-- `integration.md` - 외부 시스템 연동 가이드
-- `performance.md` - 성능 최적화 가이드
+## 포함된 파일들
+현재 파일이 없습니다. 추후 그룹웨어 API 개발 지침이 추가될 예정입니다.
+
+## 예상 파일 패턴
+- `-security`: API 보안 규칙
+- `-domain`: 도메인 모델링 가이드
+- `-integration`: 외부 시스템 연동 규칙
+- `-performance`: 성능 최적화 지침
