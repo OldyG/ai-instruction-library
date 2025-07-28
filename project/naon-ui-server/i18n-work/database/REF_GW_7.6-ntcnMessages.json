@@ -1,0 +1,3410 @@
+{
+  "게시답변채택" : {
+    "en" : "Post Reply Selected",
+    "ja" : "ポスト返信採用",
+    "vi" : "Chọn câu trả lời cho bài viết",
+    "zh" : "答复采纳"
+  },
+  "자세히 보기" : {
+    "en" : "View more",
+    "ja" : "詳しく見る",
+    "vi" : "Xem thêm",
+    "zh" : "仔细看"
+  },
+  "알림 태그" : {
+    "en" : "Notification Tag",
+    "ja" : "通知タグ",
+    "vi" : "Tag thông báo",
+    "zh" : "提醒标签"
+  },
+  "정기 업무가 등록될 때 알림" : {
+    "en" : "Notification when a regular task is registered.",
+    "ja" : "定期業務が登録された時の通知",
+    "vi" : "Thông báo khi công việc định kỳ được đăng",
+    "zh" : "当定期任务被注册时通知。"
+  },
+  "결재승인(의견)" : {
+    "en" : "Approval Granted (with comment)",
+    "ja" : "決済承認（意見）",
+    "vi" : "Phê duyệt (ý kiến)",
+    "zh" : "审批批准（意见）"
+  },
+  "결재문서 내용이 수정될 때 결재자에게 알림" : {
+    "en" : "Alert the approver when the content of the approval document is modified.",
+    "ja" : "決裁文書の内容が修正された際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi nội dung của tài liệu phê duyệt được sửa đổi.",
+    "zh" : "当审批文档内容被修改时向审批人发送提醒。"
+  },
+  "페이지등록반려" : {
+    "en" : "Page Registration Rejected",
+    "ja" : "ページ登録却下",
+    "vi" : "Từ chối thêm trang",
+    "zh" : "拒绝页面注册"
+  },
+  "별표" : {
+    "en" : "Star",
+    "ja" : "スター",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "완료하기" : {
+    "en" : "Complete",
+    "ja" : "完了する",
+    "vi" : "Hoàn thành",
+    "zh" : "完了"
+  },
+  "예약등록취소" : {
+    "en" : "Reservation Cancellation",
+    "ja" : "予約登録キャンセル",
+    "vi" : "Hủy thêm lịch hẹn",
+    "zh" : "取消预订注册"
+  },
+  "승인자가 연장근로 신청을 반려할 때 신청자에게 알림" : {
+    "en" : "Alert the requester when the approver rejects the overtime work request.",
+    "ja" : "承認者が残業申請を返戻した際に申請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi người phê duyệt từ chối yêu cầu làm thêm giờ.",
+    "zh" : "当审批人拒绝加班申请时向申请者发送提醒。"
+  },
+  "발송자 IP" : {
+    "en" : "Sender IP",
+    "ja" : "送信者IP",
+    "vi" : "IP người gửi",
+    "zh" : "发送人IP"
+  },
+  "근태계획반려" : {
+    "en" : "Attendance Plan Rejected",
+    "ja" : "勤怠計画却下",
+    "vi" : "Từ chối kế hoạch thời gian làm việc",
+    "zh" : "拒绝考勤计划"
+  },
+  "결재접수인계반송" : {
+    "en" : "Approval Handover Rejected",
+    "ja" : "決済受付引継ぎ返送",
+    "vi" : "Trả lại bàn giao tiếp nhận duyệt",
+    "zh" : "转交审批接收"
+  },
+  "결재의견 요청을 부결할 때 요청자에게 알림" : {
+    "en" : "Alert the requester when an approval opinion request is rejected.",
+    "ja" : "決裁意見の要請が否決された際に要請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu ý kiến phê duyệt bị từ chối.",
+    "zh" : "当拒绝审批意见请求时向请求者发送提醒。"
+  },
+  "등록자가 캘린더를 공유할 때 공유자에게 알림" : {
+    "en" : "Alert sharers when the registrant shares the calendar.",
+    "ja" : "登録者がカレンダーを共有する際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi người đăng ký chia sẻ lịch.",
+    "zh" : "当登记者共享日历时向共享者发送提醒。"
+  },
+  "새로운 쪽지가 도착할 때 수신자에게 알림" : {
+    "en" : "Alert recipients when a new memo arrives.",
+    "ja" : "新しいメモが届いた際に受信者に通知",
+    "vi" : "Thông báo cho người nhận khi có tin nhắn mới.",
+    "zh" : "当有新便笺到达时通知收件人"
+  },
+  "결재접수변경" : {
+    "en" : "Approval Reception Altered",
+    "ja" : "決済受付変更",
+    "vi" : "Thay đổi việc tiếp nhận duyệt",
+    "zh" : "修改审批接收"
+  },
+  "유통문서 수신될 때 외부문서 담당자에게 알림" : {
+    "en" : "Alert the external document handler when a circulation document is received.",
+    "ja" : "流通文書が受信された際に外部文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu bên ngoài khi nhận được tài liệu lưu thông.",
+    "zh" : "当收到流通文件时向外部文档负责人发送提醒。"
+  },
+  "쪽지 용량" : {
+    "en" : "Message Storage Limit",
+    "ja" : "メッセージ容量",
+    "vi" : "Dung lượng tin nhắn",
+    "zh" : "私信容量"
+  },
+  "이미지 설정" : {
+    "en" : "Image settings",
+    "ja" : "画像設定",
+    "vi" : "Cài đặt hình ảnh",
+    "zh" : "图片设置"
+  },
+  "SMTP 발송횟수 초과한 사용자를 관리자에게 알림" : {
+    "en" : "Notify the administrator of users who have exceeded the SMTP sending limit.",
+    "ja" : "SMTP送信制限を超えたユーザーを管理者に通知してください。",
+    "vi" : "Thông báo cho quản trị viên về những người dùng đã vượt quá giới hạn gửi SMTP.",
+    "zh" : "通知管理员超过SMTP发送次数的用户"
+  },
+  "발송자는 자신으로 처리되며, 메일 수신 알림은 제외됩니다." : {
+    "en" : "The sender will be treated as yourself, and email reception notifications will be excluded.",
+    "ja" : "送信者は本人に設定され、メール受信通知は除外されます。",
+    "vi" : "Người gửi sẽ được đặt là chính bạn và thông báo nhận email sẽ bị loại trừ.",
+    "zh" : "发件人将被设置为自己，并且将不会收到电子邮件接收通知。"
+  },
+  "예약알림" : {
+    "en" : "Reservation Notification",
+    "ja" : "予約通知",
+    "vi" : "Thông báo lịch hẹn",
+    "zh" : "预订提醒"
+  },
+  "결재불가(회수)" : {
+    "en" : "Non-approvable (Retrieval)",
+    "ja" : "決裁不可（回収）",
+    "vi" : "Không thể phê duyệt (thu hồi)",
+    "zh" : "审批不可（回收）"
+  },
+  "할일삭제" : {
+    "en" : "Task Deleted",
+    "ja" : "タスク削除",
+    "vi" : "Xóa công việc cần làm",
+    "zh" : "任务删除"
+  },
+  "지연" : {
+    "en" : "Delay",
+    "ja" : "遅延",
+    "vi" : "Hoãn",
+    "zh" : "延迟"
+  },
+  "근태연장승인" : {
+    "en" : "Overtime Approval",
+    "ja" : "勤怠時間延長承認",
+    "vi" : "Phê duyệt gia hạn thời gian làm việc",
+    "zh" : "批准延长考勤时间"
+  },
+  "예약을 수정할 때 공유자에게 알림" : {
+    "en" : "Alert sharers when a reservation is modified.",
+    "ja" : "予約を修正する際共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi có sự thay đổi về lịch hẹn.",
+    "zh" : "修改预约时通知共享者"
+  },
+  "파일실행알림" : {
+    "en" : "File Execution Notification",
+    "ja" : "ファイル実行通知",
+    "vi" : "Thông báo chạy tập tin",
+    "zh" : "通知文件执行"
+  },
+  "일감 담당자로 등록될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when assigned to a work item.",
+    "ja" : "仕事の担当者として登録された際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi được giao một công việc.",
+    "zh" : "当有人被登记为工作项的负责人时向负责人发送提醒。"
+  },
+  "좌측하단" : {
+    "en" : "Bottom left",
+    "ja" : "左下段",
+    "vi" : "Góc dưới bên trái",
+    "zh" : "左下"
+  },
+  "결재접수인계" : {
+    "en" : "Approval Handover",
+    "ja" : "決済受付引き継ぎ",
+    "vi" : "Bàn giao tiếp nhận duyệt",
+    "zh" : "移交审批"
+  },
+  "커뮤니티개설승인" : {
+    "en" : "Community Creation Approved",
+    "ja" : "コミュニティ設立承認",
+    "vi" : "Phê duyệt mở cộng đồng",
+    "zh" : "社区创建批准"
+  },
+  "공유자가 캘린더 공유를 수락할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a sharer accepts the calendar sharing.",
+    "ja" : "共有者がカレンダー共有を承認した際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người chia sẻ chấp nhận chia sẻ lịch.",
+    "zh" : "当共享者接受日历共享时向登记者发送提醒。"
+  },
+  "업무 내용이 수정될 때 알림" : {
+    "en" : "Notification when task content is modified",
+    "ja" : "業務内容が変更されたときの通知",
+    "vi" : "Nhận thông báo khi nội dung công việc được chỉnh sửa",
+    "zh" : "工作内容修改时通知我"
+  },
+  "대여 반납될 때 대여자에게 알림" : {
+    "en" : "Alert the borrower when a rental is returned.",
+    "ja" : "返却された際に貸与者に通知",
+    "vi" : "Thông báo cho người thuê khi một việc thuê được trả lại.",
+    "zh" : "当租借资源被归还时向租借者发送提醒。"
+  },
+  "게시신청승인" : {
+    "en" : "Post Approved",
+    "ja" : "ポスト申請承認",
+    "vi" : "Phê duyệt đăng ký viết bài",
+    "zh" : "批准发布请求"
+  },
+  "이미지" : {
+    "en" : "Image",
+    "ja" : "画像",
+    "vi" : "Hình ảnh",
+    "zh" : "图像"
+  },
+  "결재자 권한 변경으로 결재가 불가할 때 기안자에게 알림" : {
+    "en" : "Notification to the drafter when the approval is not possible due to changes in approver authority.",
+    "ja" : "決裁者の権限変更により決裁が不可能な場合、起案者に通知",
+    "vi" : "Khi quyền của người phê duyệt thay đổi và không thể phê duyệt, thông báo cho người soạn thảo",
+    "zh" : "当审批者权限更改导致无法审批时，通知起草者。"
+  },
+  "이미지 크기 {0}, gif, jpg, png 형식" : {
+    "en" : "Image size is {0} and Image format in gif, jpg, png only.",
+    "ja" : "白い背景のロゴ画像は、画像サイズ{0}、gif、jpg、png形式",
+    "vi" : "Kích cỡ hình ảnh {0}, loại file gif, jpn, png",
+    "zh" : "图像大小 {0}, gif, jpg, png 形式"
+  },
+  "게시등록" : {
+    "en" : "Post Registered",
+    "ja" : "ポスト登録",
+    "vi" : "Thêm bài viết",
+    "zh" : "发布注册"
+  },
+  "스페이스 생성이 반려될 때 책임자에게 알림" : {
+    "en" : "Alert the responsible person when the creation of a space is rejected.",
+    "ja" : "スペースの作成が返戻された際に責任者に通知",
+    "vi" : "Thông báo cho người chịu trách nhiệm khi việc tạo không gian bị từ chối.",
+    "zh" : "当空间创建被拒绝时向负责人发送提醒。"
+  },
+  "평가가 완료될 때 참여자에게 알림" : {
+    "en" : "Alert participants when an evaluation is completed.",
+    "ja" : "評価が完了した際に参加者に通知",
+    "vi" : "Thông báo cho người tham gia khi một đánh giá hoàn thành.",
+    "zh" : "当评估完成时向参与者发送提醒。"
+  },
+  "보고가 승인 등록될 때 알림" : {
+    "en" : "Alert when a report is registered as approved.",
+    "ja" : "報告が承認登録される際に通知",
+    "vi" : "Thông báo khi một báo cáo được đăng ký chấp thuận.",
+    "zh" : "当报告被批准登记时发送提醒。"
+  },
+  "메일발송요청" : {
+    "en" : "Email Sending Request",
+    "ja" : "メール送信要請",
+    "vi" : "Yêu cầu gửi thư",
+    "zh" : "请求发送邮件"
+  },
+  "알림목록" : {
+    "en" : "Notification list",
+    "ja" : "通知リスト",
+    "vi" : "Danh sách thông báo",
+    "zh" : "通知列表"
+  },
+  "업무에 책임자로 등록될 때 책임자에게 발송" : {
+    "en" : "Alert the person in charge when assigned as a responsible party for a task.",
+    "ja" : "業務の責任者として登録された際に責任者に通知送信",
+    "vi" : "Thông báo cho người phụ trách khi được chỉ định là người chịu trách nhiệm cho một nhiệm vụ.",
+    "zh" : "当有人被登记为业务的主管时向主管发送提醒。"
+  },
+  "판매자가 구매 신청 취소할 때 구매자에게 알림" : {
+    "en" : "Alert the buyer when the seller cancels the purchase request.",
+    "ja" : "販売者が購入申請をキャンセルする際に購入者に通知",
+    "vi" : "Thông báo cho người mua khi người bán hủy yêu cầu mua hàng.",
+    "zh" : "当卖家取消购买申请时向买家发送提醒。"
+  },
+  "SMTP IP차단" : {
+    "en" : "SMTP IP Blocked",
+    "ja" : "SMTP IPブロック",
+    "vi" : "Chặn IP SMTP",
+    "zh" : "SMTP IP封锁"
+  },
+  "할일기한" : {
+    "en" : "Task Deadline",
+    "ja" : "タスク期限",
+    "vi" : "Hạn chót công việc cần làm",
+    "zh" : "任务截止日期"
+  },
+  "모듈을 선택해 주세요." : {
+    "en" : "Please select a module.",
+    "ja" : "モジュールを選択してください。",
+    "vi" : "Vui lòng chọn một mô-đun.",
+    "zh" : "请选择模块。"
+  },
+  "할일 댓글" : {
+    "en" : "Task Comment",
+    "ja" : "タスクコメント",
+    "vi" : "Bình luận công việc",
+    "zh" : "任务评论"
+  },
+  "메일용량" : {
+    "en" : "Email Storage Limit",
+    "ja" : "メール容量",
+    "vi" : "Dung lượng thư",
+    "zh" : "邮件容量"
+  },
+  "적용범위" : {
+    "en" : "Application Scope",
+    "ja" : "適用範囲",
+    "vi" : "Phạm vi ứng dụng",
+    "zh" : "适用范围"
+  },
+  "포스트 삭제" : {
+    "en" : "Delete",
+    "ja" : "ポスト削除",
+    "vi" : "Xóa bài viết",
+    "zh" : "删除帖子"
+  },
+  "아이콘" : {
+    "en" : "Icon",
+    "ja" : "アイコン",
+    "vi" : "Biểu tượng",
+    "zh" : "图标"
+  },
+  "모듈관리" : {
+    "en" : "Module Management",
+    "ja" : "モジュール管理",
+    "vi" : "Quản lý mô-đun",
+    "zh" : "模块管理"
+  },
+  "진행" : {
+    "en" : "Progress",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "대여반납취소" : {
+    "en" : "Rental Return Canceled",
+    "ja" : "レンタル返却キャンセル",
+    "vi" : "Hủy hoàn trả",
+    "zh" : "取消租赁归还"
+  },
+  "결재승인" : {
+    "en" : "Approval Granted",
+    "ja" : "決済承認",
+    "vi" : "Phê duyệt",
+    "zh" : "审批批准"
+  },
+  "포스트 삭제될 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a post is deleted.",
+    "ja" : "ポストが削除される際に登録者に通知",
+    "vi" : "Thông báo cho người đăng khi một bài đăng bị xóa.",
+    "zh" : "当帖子被删除时向登记者发送提醒。"
+  },
+  "실패(완료)" : {
+    "en" : "Failed (Completed)",
+    "ja" : "失敗（完了）",
+    "vi" : "Thất bại (Đã hoàn thành)",
+    "zh" : "失败（已完成）"
+  },
+  "공유 받은 일정이 삭제될 때 공유자에게 알림" : {
+    "en" : "Alert sharers when a shared schedule is deleted.",
+    "ja" : "共有されたスケジュールが削除された際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi lịch trình chia sẻ bị xóa.",
+    "zh" : "当共享接收的日程被删除时向共享者发送提醒。"
+  },
+  "게시구매요청" : {
+    "en" : "Post Purchase Request",
+    "ja" : "ポスト購入要請",
+    "vi" : "Yêu cầu mua bài viết",
+    "zh" : "请求购买发布"
+  },
+  "스페이스가입승인" : {
+    "en" : "Space Membership Approved",
+    "ja" : "スペース参加承認",
+    "vi" : "Phê duyệt tham gia không gian làm việc",
+    "zh" : "批准加入空间"
+  },
+  "예약취소대기" : {
+    "en" : "Reservation Pending Cancellation",
+    "ja" : "予約キャンセル待機",
+    "vi" : "Chờ hủy lịch hẹn",
+    "zh" : "等待取消预订"
+  },
+  "문서등록반려" : {
+    "en" : "Document Registration Rejected",
+    "ja" : "文書登録却下",
+    "vi" : "Yêu cầu thêm tài liệu bị từ chối",
+    "zh" : "拒绝文档注册"
+  },
+  "포스트 수정" : {
+    "en" : "Edit",
+    "ja" : "ポスト修正",
+    "vi" : "Sửa bài viết",
+    "zh" : "修改帖子"
+  },
+  "게시구매취소" : {
+    "en" : "Post Purchase Canceled",
+    "ja" : "ポスト購入キャンセル",
+    "vi" : "Hủy mua bài viết",
+    "zh" : "取消购买发布"
+  },
+  "업무정기등록" : {
+    "en" : "Regular Task Registration",
+    "ja" : "業務定期登録",
+    "vi" : "Thêm định kì công việc",
+    "zh" : "定期工作注册"
+  },
+  "기안자가 결재문서를 회수할 때 결재자에게 알림" : {
+    "en" : "Alert the approver when the drafter retracts the approval document.",
+    "ja" : "起案者が決裁文書を回収する際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi người soạn thảo rút lại tài liệu phê duyệt.",
+    "zh" : "当起草人撤回审批文档时向审批人发送提醒。"
+  },
+  "등록승인 설정된 주제에 등록한 요청이 승인될 때 요청자에게 알림" : {
+    "en" : "Notification to the requester when a request submitted under a topic with approved registration is granted.",
+    "ja" : "登録承認が設定されたテーマに対する要請が承認された際、要請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu đăng ký được phê duyệt",
+    "zh" : "当注册在设定主题的请求获得批准时，通知请求者。"
+  },
+  "연동이력" : {
+    "en" : "Integration History",
+    "ja" : "連動履歴",
+    "vi" : "Lịch sử tích hợp",
+    "zh" : "互连历史记录"
+  },
+  "통합알림 관리자" : {
+    "en" : "Unified Notification Administrator",
+    "ja" : "統合通知管理者",
+    "vi" : "Quản trị viên thông báo hợp nhất",
+    "zh" : "综合通知管理员"
+  },
+  "게시대여반려" : {
+    "en" : "Post Rental Rejected",
+    "ja" : "ポスト貸し出し却下",
+    "vi" : "Từ chối mua bài viết",
+    "zh" : "拒绝发布租赁"
+  },
+  "이슈 등록될 때 조치자에게 알림" : {
+    "en" : "Alert the action taker when an issue is registered.",
+    "ja" : "イシューが登録された際に担当者に通知",
+    "vi" : "Thông báo cho người giải quyết khi một vấn đề được thêm",
+    "zh" : "当有新的问题被登记时向处理者发送提醒。"
+  },
+  "이미지를 선택해 주세요." : {
+    "en" : "Select image file.",
+    "ja" : "画像を選択してください。",
+    "vi" : "Chọn file hình ảnh.",
+    "zh" : "请选择图像。"
+  },
+  "수신 알림 팀즈로 받기" : {
+    "en" : "Receive notifications via Teams.",
+    "ja" : "受信通知をTeamsで受信",
+    "vi" : "Nhận thông báo qua Teams.",
+    "zh" : "接收通知以通过 Teams 收到"
+  },
+  "기안자가 기결재 통과로 재상신할 때 알림" : {
+    "en" : "Alert when the drafter resubmits for reapproval after initial approval.",
+    "ja" : "起案者が既決裁で再上申する際に通知",
+    "vi" : "Thông báo khi người soạn thảo nộp lại để yêu cầu phê duyệt lại sau lần phê duyệt ban đầu.",
+    "zh" : "当起草人因审批通过重新提交时发送提醒。"
+  },
+  "특정 IP에서 SMTP 인증 다수 실패로 SMTP발송 제한자를 메일관리자에게 알림" : {
+    "en" : "Alert the email administrator when a specific IP fails multiple SMTP authentications, leading to SMTP dispatch restrictions.",
+    "ja" : "特定のIPからSMTP認証の多数失敗によるSMTP発送の制限者をメール管理者に通知",
+    "vi" : "Thông báo cho quản trị viên email khi một IP cụ thể thất bại trong nhiều lần xác thực SMTP, dẫn đến hạn chế gửi SMTP.",
+    "zh" : "当特定IP地址下多次SMTP认证失败，向邮件管理员发送SMTP发送受限者提醒。"
+  },
+  "결재문서수정" : {
+    "en" : "Approval Document Modification",
+    "ja" : "決済文書修正",
+    "vi" : "Sửa đổi tài liệu duyệt",
+    "zh" : "修改审批文件"
+  },
+  "보고등록" : {
+    "en" : "Report Submission",
+    "ja" : "報告登録",
+    "vi" : "Thêm báo cáo",
+    "zh" : "报告注册"
+  },
+  "결재접수요청" : {
+    "en" : "Approval Reception Requested",
+    "ja" : "決済受付要請",
+    "vi" : "Yêu cầu tiếp nhận duyệt",
+    "zh" : "提交审批请求"
+  },
+  "근태시간조정" : {
+    "en" : "Attendance Time Adjustment",
+    "ja" : "勤怠時間調整",
+    "vi" : "Điều chỉnh thời gian làm việc",
+    "zh" : "调整考勤时间"
+  },
+  "승인자가 근무계획표를 승인할 때, 신청자에게 알림" : {
+    "en" : "Alert the requester when the approver approves the work schedule.",
+    "ja" : "承認者が勤務計画表を承認した際申請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi người phê duyệt chấp nhận lịch làm việc.",
+    "zh" : "当审批人批准工作计划表时向申请者发送提醒。"
+  },
+  "새로운 알림이 없습니다." : {
+    "en" : "No new notifications.",
+    "ja" : "新しい通知はありません。",
+    "vi" : "Không có thông báo mới.",
+    "zh" : "没有新的通知。"
+  },
+  "업무에 참조자로 등록될 때 참조자에게 발송" : {
+    "en" : "Send notifications to the referenced individuals when they are added to a task.",
+    "ja" : "業務の参照者として登録された際に参照者に通知送信",
+    "vi" : "Gửi thông báo cho những người được tham chiếu khi họ được thêm vào một nhiệm vụ.",
+    "zh" : "当有人被登记为业务的参考人时向参考人发送提醒。"
+  },
+  "결재완료" : {
+    "en" : "Approval Completed",
+    "ja" : "決済完了",
+    "vi" : "Hoàn thành phê duyệt",
+    "zh" : "完成审批"
+  },
+  "결재선에서 제외될 때 제외된 사용자에게 알림" : {
+    "en" : "Alert excluded users when they are removed from the approval line.",
+    "ja" : "決裁線から除外される際に除外された利用者に通知",
+    "vi" : "Thông báo cho người dùng bị loại khi họ bị loại khỏi dòng phê duyệt.",
+    "zh" : "当用户从审批流程中被移除时向被移除的用户发送提醒。"
+  },
+  "제외 알림 설정" : {
+    "en" : "Exclusion Notification Settings",
+    "ja" : "除外通知設定",
+    "vi" : "Cài đặt thông báo loại trừ",
+    "zh" : "排除通知设置"
+  },
+  "결재반려" : {
+    "en" : "Approval Rejected",
+    "ja" : "決済却下",
+    "vi" : "Từ chối duyệt",
+    "zh" : "审批拒绝"
+  },
+  "조치자가 이슈 조치 완료할 때 이슈 등록자에게 알림" : {
+    "en" : "Alert the issue registrant when the action taker completes issue resolution.",
+    "ja" : "措置者がイシューに措置を完了した際にイシュー登録者に通知",
+    "vi" : "Thông báo cho người thêm vấn đề khi người giải quyết hoàn thành việc giải quyết vấn đề.",
+    "zh" : "当处理者处理完问题时向问题登记者发送提醒。"
+  },
+  "노무수령거부 대상자" : {
+    "en" : "Refusal recipient for labor collection.",
+    "ja" : "労務受領拒否対象者",
+    "vi" : "Đối tượng từ chối nhận lao động",
+    "zh" : "拒绝接听者"
+  },
+  "Chat에서 그룹웨어 앱을 설치해야 합니다." : {
+    "en" : "You need to install the Groupware app in Chat.",
+    "ja" : "Chatにグループウェアアプリをインストールする必要があります。",
+    "vi" : "Bạn cần cài đặt ứng dụng Groupware trong Chat.",
+    "zh" : "您需要在Chat中安装群件应用程序。"
+  },
+  "시스템 관리" : {
+    "en" : "System Management",
+    "ja" : "システム管理",
+    "vi" : "Quản lý hệ thống",
+    "zh" : "系统管理"
+  },
+  "결재접수반송" : {
+    "en" : "Approval Rejected and Returned",
+    "ja" : "決済受付返送",
+    "vi" : "Trả lại yêu cầu tiếp nhận duyệt",
+    "zh" : "退回审批接收"
+  },
+  "결재승인취소" : {
+    "en" : "Approval Cancellation",
+    "ja" : "決済承認キャンセル",
+    "vi" : "Hủy phê duyệt",
+    "zh" : "取消审批批准"
+  },
+  "문서가 수정될 때 사용자에게 알림" : {
+    "en" : "Alert users when a document is modified.",
+    "ja" : "文書が修正された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi một tài liệu được chỉnh sửa.",
+    "zh" : "当文档被修改时向用户发送提醒。"
+  },
+  "할일이 기한이 등록/수정될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when a deadline for a task is set or modified.",
+    "ja" : "タスクの期限が登録・修正された際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi hạn chót của một nhiệm vụ được thiết lập hoặc sửa đổi.",
+    "zh" : "当工作项的截止日期被登记或修改时，向负责人发送提醒。"
+  },
+  "도착한 결재문서가 패스될 때 결재자에게 알림" : {
+    "en" : "Alert the approver when an incoming approval document is passed.",
+    "ja" : "届いた決裁文書がパスされる際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi một tài liệu phê duyệt được gửi đến.",
+    "zh" : "当到达的审批文件通过时向审批人发送提醒。"
+  },
+  "결재의견 요청 등록될 때 대상자에게 알림" : {
+    "en" : "Alert the target individual when an approval opinion request is registered.",
+    "ja" : "決裁意見の要請が登録される際に対象者に通知",
+    "vi" : "Thông báo cho đối tượng tương ứng khi một yêu cầu ý kiến phê duyệt được thêm.",
+    "zh" : "当注册审批意见请求时向目标对象发送提醒。"
+  },
+  "할일등록" : {
+    "en" : "Task Registered",
+    "ja" : "タスク登録",
+    "vi" : "Thêm công việc cần làm",
+    "zh" : "任务注册"
+  },
+  "대여 신청이 등록될 때 대여관리자에게 알림" : {
+    "en" : "Alert the rental manager when a rental application is registered.",
+    "ja" : "貸与申請が登録された際に貸与管理者に通知",
+    "vi" : "Thông báo cho người quản lý khi có lượt đăng ký thuê.",
+    "zh" : "当有新的租借申请被登记时向租借管理员发送提醒。"
+  },
+  "할일이 복원될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when a task is restored.",
+    "ja" : "タスクが復元された際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi một nhiệm vụ được khôi phục.",
+    "zh" : "当工作项被恢复时，向负责人发送提醒。"
+  },
+  "포스트 댓글 등록" : {
+    "en" : "Register comments",
+    "ja" : "ポストにコメント登録",
+    "vi" : "Thêm bình luận",
+    "zh" : "注册帖子评论"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "우측하단" : {
+    "en" : "Bottom right",
+    "ja" : "右下段",
+    "vi" : "Góc dưới bên phải",
+    "zh" : "右下"
+  },
+  "일감에 요청자로 등록될 때 요청자에게 알림" : {
+    "en" : "Alert the requester when added as a requester to a work item.",
+    "ja" : "仕事の依頼者として登録された際に依頼者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi được thêm trở thành người yêu cầu của một công việc.",
+    "zh" : "当有人被登记为工作项的请求者时向请求者发送提醒。"
+  },
+  "접수문서 담당자가 인계반송할 때 문서담당자에게 알림" : {
+    "en" : "Alert the document handler when the handler of a received document transfers it back.",
+    "ja" : "受付文書の担当者が文書を引き継ぎ返送する際に文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu khi người phụ trách tiếp nhận của một tài liệu bàn giao lại.",
+    "zh" : "当文件负责人退回交接时向文档负责人发送提醒。"
+  },
+  "출근시간 조정이 승인될 때 신청자에게 알림" : {
+    "en" : "Alert the requester when the adjustment of arrival time is approved.",
+    "ja" : "出勤時間の調整が承認された際に申請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi việc điều chỉnh thời gian chấm công được chấp thuận.",
+    "zh" : "当上班时间调整获批准时向申请者发送提醒。"
+  },
+  "결재문서에 의견이 등록될 때 기안자에게 알림" : {
+    "en" : "Alert the drafter when a comment is registered on the approval document.",
+    "ja" : "決裁文書に意見が登録された際に起案者に通知",
+    "vi" : "Thông báo cho người soạn thảo khi một bình luận được thêm trên tài liệu phê duyệt.",
+    "zh" : "当审批文档有新意见登记时向起草人发送提醒。"
+  },
+  "승인자가 문서 반려할 때 사용자에게 알림" : {
+    "en" : "Alert users when an approver rejects a document.",
+    "ja" : "承認者が文書を返戻する際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi người phê duyệt từ chối tài liệu.",
+    "zh" : "当审批人拒绝文档时向用户发送提醒。"
+  },
+  "근태촉진통보" : {
+    "en" : "Attendance Promotion Notification",
+    "ja" : "勤怠促進通知",
+    "vi" : "Thông báo thúc đẩy thời gian làm việc",
+    "zh" : "通知考勤激励"
+  },
+  "선택한 시스템의 상태를 중지로 변경하면 알림 연동이 되지 않습니다. 중지로 변경하시겠습니까?" : {
+    "en" : "Changing the selected system's status to stop will disable notification integration. Do you want to change it to stop?",
+    "ja" : "選択したシステムの状態を停止に変更すると、通知が連動されません。停止に変更しますか？",
+    "vi" : "Thay đổi trạng thái hệ thống đã chọn thành dừng sẽ vô hiệu hóa tích hợp thông báo. Bạn có muốn thay đổi nó thành dừng không?",
+    "zh" : "将所选系统状态更改为停止后，将无法与通知互连。您确定要更改为停止吗？"
+  },
+  "복사하기" : {
+    "en" : "Copy",
+    "ja" : "コピーする",
+    "vi" : "Sao chép",
+    "zh" : "复制"
+  },
+  "쪽지 미도착" : {
+    "en" : "Unread Message",
+    "ja" : "メッセージ未到着",
+    "vi" : "Tin nhắn chưa tới nơi",
+    "zh" : "私信未到达"
+  },
+  "결재접수담당변경" : {
+    "en" : "Approval Reception Responsibility Changed",
+    "ja" : "決済受付担当変更",
+    "vi" : "Thay đổi người chịu trách nhiệm tiếp nhận duyệt",
+    "zh" : "更改审批负责人"
+  },
+  "업무검토반려" : {
+    "en" : "Task Review Rejected",
+    "ja" : "業務検討却下",
+    "vi" : "Từ chối rà soát công việc",
+    "zh" : "工作审查被拒绝"
+  },
+  "접수문서 담당자가 인계반송을 취소할 때 문서담당자에게 알림" : {
+    "en" : "Alert the document handler when the transfer back of a received document is canceled.",
+    "ja" : "受付文書の担当者が引き継ぎ返送をキャンセルする際に文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu khi việc bàn giao tài liệu tiếp nhận bị hủy bỏ.",
+    "zh" : "当文件负责人取消退回交接时向文档负责人发送提醒。"
+  },
+  "근태시간회수" : {
+    "en" : "Attendance Time Reclaimed",
+    "ja" : "勤怠時間回収",
+    "vi" : "Thu hồi thời gian làm việc",
+    "zh" : "扣除考勤时间"
+  },
+  "프로젝트에 공유자로 추가한 사용자에게 알림" : {
+    "en" : "Notification to users added as collaborators to the project.",
+    "ja" : "プロジェクトに共有者として追加されたユーザーへ通知",
+    "vi" : "Thông báo cho người dùng được thêm làm người chia sẻ trong dự án",
+    "zh" : "通知被添加为项目共享者的用户。"
+  },
+  "링크 추가 정보" : {
+    "en" : "Additional Link Information",
+    "ja" : "リンク追加情報",
+    "vi" : "Thông tin thêm đường dẫn",
+    "zh" : "链接附加信息"
+  },
+  "메일발송승인불가" : {
+    "en" : "Mail Sending Approval Not Possible",
+    "ja" : "メール送信承認不可",
+    "vi" : "Không thể phê duyệt gửi mail",
+    "zh" : "邮件发送审批不可"
+  },
+  "메일발송검토" : {
+    "en" : "Email Sending Review",
+    "ja" : "メール送信検討",
+    "vi" : "Kiểm tra gửi thư",
+    "zh" : "审核发送邮件"
+  },
+  "태그 관리" : {
+    "en" : "Tag Management",
+    "ja" : "タグ管理",
+    "vi" : "Quản lý thẻ",
+    "zh" : "标签管理"
+  },
+  "삭제 시 해당 태그를 이용하는 알림은 실패할 수 있습니다. 삭제하시겠습니까?" : {
+    "en" : "Deleting this tag may result in failed notifications that use it. Do you want to delete it?",
+    "ja" : "削除時、関連タグを利用する通知が失敗する可能性があります。削除しますか？",
+    "vi" : "Xóa thẻ này có thể dẫn đến việc thông báo không thành công do sử dụng nó. Bạn có muốn xóa nó không?",
+    "zh" : "删除时，与该标签相关的通知可能会失败。您要删除吗？"
+  },
+  "일감이슈조치" : {
+    "en" : "Task Issue Action",
+    "ja" : "タスク問題対処",
+    "vi" : "Xử lý vấn đề công việc",
+    "zh" : "处理工作热点"
+  },
+  "승인자가 메일 발송을 반려할 때 사용자에게 알림" : {
+    "en" : "Alert users when the approver rejects the email dispatch.",
+    "ja" : "承認者がメール送信を返戻した際に利用者に通知",
+    "vi" : "Thông báo cho người dùng khi người phê duyệt từ chối việc gửi email.",
+    "zh" : "当审批者驳回邮件发送时，向用户发送通知。"
+  },
+  "대여요청" : {
+    "en" : "Rental Request",
+    "ja" : "レンタル要請",
+    "vi" : "Yêu cầu mượn",
+    "zh" : "租赁请求"
+  },
+  "관리자가 확정근무계획표를 등록할 때 대상자에게 알림" : {
+    "en" : "Alert the target individuals when the administrator registers a confirmed work schedule.",
+    "ja" : "管理者が確定勤務計画表を登録する際に対象者に通知",
+    "vi" : "Thông báo cho đối tượng tương ứng khi quản trị viên đăng ký một lịch làm việc đã xác nhận.",
+    "zh" : "当管理员登记确认的工作计划表时向相关人员发送提醒。"
+  },
+  "실패" : {
+    "en" : "Failure",
+    "ja" : "失敗",
+    "vi" : "Thất bại",
+    "zh" : "失败"
+  },
+  "결재공유요청" : {
+    "en" : "Approval Sharing Request",
+    "ja" : "決済共有要請",
+    "vi" : "Yêu cầu chia sẻ phê duyệt",
+    "zh" : "请求审批共享"
+  },
+  "일감상태변경" : {
+    "en" : "Task Status Changed",
+    "ja" : "タスク状態変更",
+    "vi" : "Thay đổi trạng thái công việc",
+    "zh" : "任务状态更改"
+  },
+  "결재의견 요청을 보류할 때 요청자에게 알림" : {
+    "en" : "Alert the requester when an approval opinion request is put on hold.",
+    "ja" : "決裁意見の要請が保留された際の要求者への通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu ý kiến phê duyệt bị hoãn lại.",
+    "zh" : "当审批意见请求被搁置时向请求者发送提醒。"
+  },
+  "범위" : {
+    "en" : "Range",
+    "ja" : "範囲",
+    "vi" : "Phạm vi",
+    "zh" : "范围"
+  },
+  "모듈 설정" : {
+    "en" : "Module settings",
+    "ja" : "モジュール設定",
+    "vi" : "Cài đặt mô-đun",
+    "zh" : "模板设置"
+  },
+  "문서수정" : {
+    "en" : "Document Modified",
+    "ja" : "文書編集",
+    "vi" : "Sửa tài liệu",
+    "zh" : "修改文档"
+  },
+  "유통문서발송실패" : {
+    "en" : "Document Distribution Failed",
+    "ja" : "流通文書送信失敗",
+    "vi" : "Gửi tài liệu phân phối không thành công",
+    "zh" : "分发文件发送失败"
+  },
+  "접수문서를 담당자가 인수할 때 접수자에게 알림" : {
+    "en" : "Alert the recipient when the handler takes over a received document.",
+    "ja" : "受付文書を担当者が引き継ぐ際に受付者に通知",
+    "vi" : "Thông báo cho người nhận khi người xử lý tiếp nhận một tài liệu.",
+    "zh" : "当文件负责人接收文件时向接收者发送提醒。"
+  },
+  "대외문서 재발송 요청할 때  외부문서 담당자에게 알림" : {
+    "en" : "Alert the external document handler when there is a request to resend an external document.",
+    "ja" : "対外文書の再発送要請する際に外部文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu bên ngoài khi có yêu cầu gửi lại tài liệu bên ngoài.",
+    "zh" : "当请求重新发送外部文件时向外部文档负责人发送提醒。"
+  },
+  "결재불가" : {
+    "en" : "Non-approvable",
+    "ja" : "決裁不可",
+    "vi" : "Không thể phê duyệt",
+    "zh" : "审批不可"
+  },
+  "일감상태만 변경될 때 알림" : {
+    "en" : "Alert when only the status of a work item is changed.",
+    "ja" : "仕事の状態が変更された際に通知",
+    "vi" : "Chỉ thông báo khi trạng thái công việc thay đổi.",
+    "zh" : "当仅工作项状态发生变更时发送提醒。"
+  },
+  "문서삭제" : {
+    "en" : "Document Deleted",
+    "ja" : "文書削除",
+    "vi" : "Xóa tài liệu",
+    "zh" : "删除文档"
+  },
+  "관리자가 대여 반납완료 처리할 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when the administrator completes the return process of a rented resource.",
+    "ja" : "管理者が資源の返却完了処理を行う際に予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi quản trị viên hoàn thành quá trình trả lại tài nguyên đã thuê.",
+    "zh" : "当管理员处理租借资源归还完成时向预约人发送提醒。"
+  },
+  "승인자가 메일 발송을 승인할 때 사용자에게 알림" : {
+    "en" : "Alert users when the approver approves the email dispatch.",
+    "ja" : "承認者がメール送信を承認した際に利用者に通知",
+    "vi" : "Thông báo cho người dùng khi người phê duyệt chấp thuận việc gửi email.",
+    "zh" : "当审批人批准邮件发送时向用户发送提醒。"
+  },
+  "일정대리자등록" : {
+    "en" : "Event Proxy Assigned",
+    "ja" : "スケジュール代理者登録",
+    "vi" : "Thêm người ủy nhiệm cho lịch trình",
+    "zh" : "注册日程代理者"
+  },
+  "수신 알림 메일로 받기" : {
+    "en" : "Receive as a notification email",
+    "ja" : "受信通知をメールで受け取る",
+    "vi" : "Nhận qua email thông báo",
+    "zh" : "以电子邮件接收通知"
+  },
+  "업무책임등록" : {
+    "en" : "Task Responsibility Registered",
+    "ja" : "業務責任者登録",
+    "vi" : "Thêm người chịu trách nhiệm công việc",
+    "zh" : "工作责任注册"
+  },
+  "게시신청요청" : {
+    "en" : "Post Requested",
+    "ja" : "ポスト申請要求",
+    "vi" : "Yêu cầu đăng ký viết bài",
+    "zh" : "申请发布请求"
+  },
+  "일감이 수정될 때 알림" : {
+    "en" : "Alert when a work item is modified.",
+    "ja" : "仕事内容が修正された際に通知",
+    "vi" : "Thông báo khi một công việc được sửa đổi.",
+    "zh" : "当工作项被修改时发送提醒。"
+  },
+  "게시댓글등록" : {
+    "en" : "Post Comment Registered",
+    "ja" : "ポストコメント登録",
+    "vi" : "Thêm bình luận bài viết",
+    "zh" : "注册发布评论"
+  },
+  "할일배정" : {
+    "en" : "Task Assignment",
+    "ja" : "タスク割り当て",
+    "vi" : "Phân công công việc",
+    "zh" : "任务分配"
+  },
+  "대여 요청이 등록될 때 관리자에게 알림" : {
+    "en" : "Alert the administrator when a rental request is registered.",
+    "ja" : "レンタルリクエストが登録された際管理者に通知",
+    "vi" : "Thông báo cho quản trị viên khi có yêu cầu thuê.",
+    "zh" : "当租借请求被登记时向管理员发送提醒。"
+  },
+  "결재접수배부반송" : {
+    "en" : "Approval Distribution Rejected",
+    "ja" : "決済受付配布返送",
+    "vi" : "Trả lại yêu cầu tiếp nhận duyệt",
+    "zh" : "退回审批接收分发"
+  },
+  "페이지삭제" : {
+    "en" : "Page Deleted",
+    "ja" : "ページ削除",
+    "vi" : "Xóa trang",
+    "zh" : "删除页面"
+  },
+  "평가 등록승인 요청 받은 승인자에게 알림" : {
+    "en" : "Alert approvers when they receive a review registration approval request.",
+    "ja" : "評価登録承認のリクエストを受けた承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi nhận yêu cầu phê duyệt đăng ký đánh giá.",
+    "zh" : "当接收到评估登记批准请求时向审批人发送提醒。"
+  },
+  "발송문서의 접수자가 변경될 때 기안자에게 알림" : {
+    "en" : "Alert the drafter when the recipient of the sent document changes.",
+    "ja" : "発送文書の受付者が変更された際に起案者に通知",
+    "vi" : "Thông báo cho người soạn thảo khi người tiếp nhận của tài liệu đã gửi được thay đổi.",
+    "zh" : "当发出文件的接收者变更时向起草人发送提醒。"
+  },
+  "모듈설정" : {
+    "en" : "Module Configuration",
+    "ja" : "モジュール設定",
+    "vi" : "Cấu hình mô-đun",
+    "zh" : "模块设置"
+  },
+  "결재패스예정" : {
+    "en" : "Approval Bypass Scheduled",
+    "ja" : "決済パス予定",
+    "vi" : "Dự kiến bỏ qua phê duyệt",
+    "zh" : "预计审批跳过"
+  },
+  "메모 용량 임계치 도달한 대상자에게 알림" : {
+    "en" : "Alert individuals when they reach the memo capacity threshold.",
+    "ja" : "メッセージ容量の限界値到達した対象者に通知",
+    "vi" : "Thông báo cho cá nhân khi họ đạt ngưỡng dung lượng ghi chú.",
+    "zh" : "当备忘录容量达到阙值时向相关对象发送提醒。"
+  },
+  "보고승인등록" : {
+    "en" : "Report Approval Requested",
+    "ja" : "報告承認登録",
+    "vi" : "Thêm phê duyệt báo cáo",
+    "zh" : "批准报告审批注册"
+  },
+  "게시글에 댓글이 등록될 때 알림" : {
+    "en" : "Alert when a comment is added to a post.",
+    "ja" : "ポストにコメントが登録された際に通知",
+    "vi" : "Thông báo khi một bình luận được thêm vào một bài đăng.",
+    "zh" : "当帖子有新留言时发送提醒。"
+  },
+  "알림 메시지" : {
+    "en" : "Notification Message",
+    "ja" : "通知メッセージ",
+    "vi" : "Thông báo",
+    "zh" : "通知消息"
+  },
+  "일감담당자" : {
+    "en" : "Task Assigned",
+    "ja" : "タスク担当者",
+    "vi" : "Người phụ trách công việc",
+    "zh" : "任务负责人"
+  },
+  "등록승인 설정된 주제에 등록한 요청이 반려될 때 요청자에게 알림" : {
+    "en" : "Alert the requester when a registration request on a topic set for approval is rejected.",
+    "ja" : "登録承認が設定されたテーマに登録した要請が返戻された際に要請者要に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu đăng ký về chủ đề được thiết lập để phê duyệt bị từ chối.",
+    "zh" : "当注册审批设定的主题中的请求被驳回时，向请求者发送提醒。"
+  },
+  "반복설정 있음" : {
+    "en" : "Repeat Setting Available",
+    "ja" : "繰り返し設定あり",
+    "vi" : "Cài đặt lặp lại có sẵn",
+    "zh" : "存在重复设置"
+  },
+  "요청자" : {
+    "en" : "Requested by",
+    "ja" : "要請者",
+    "vi" : "Người đề nghị",
+    "zh" : "邀请人"
+  },
+  "페이지수정" : {
+    "en" : "Page Modified",
+    "ja" : "ページ編集",
+    "vi" : "Chỉnh sửa trang",
+    "zh" : "修改页面"
+  },
+  "승인자가 문서 승인할 때 사용자에게 알림" : {
+    "en" : "Alert users when an approver approves a document.",
+    "ja" : "承認者が文書を承認する際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi người phê duyệt chấp nhận tài liệu.",
+    "zh" : "当审批人批准文档时向用户发送提醒。"
+  },
+  "로그는 수신을 기준으로 {0}개월 까지만 보관 합니다." : {
+    "en" : "Logs are retained for up to {0} months based on reception.",
+    "ja" : "ログは受信を基準に{0}ヶ月まで保管されます。",
+    "vi" : "Nhật ký được giữ trong khoảng {0} tháng dựa trên thời gian nhận.",
+    "zh" : "日志从接收日起，仅保存 {0} 个月。"
+  },
+  "결재접수배부취소" : {
+    "en" : "Approval Distribution Canceled",
+    "ja" : "決済受付配布キャンセル",
+    "vi" : "Hủy yêu cầu tiếp nhận duyệt",
+    "zh" : "取消审批接收分发"
+  },
+  "판매자가 구매 신청 대기로 변경할 때 구매자에게 알림" : {
+    "en" : "Alert the buyer when the seller changes the purchase request status to pending.",
+    "ja" : "販売者が購入申請を保留に変更する際に購入者に通知",
+    "vi" : "Thông báo cho người mua khi người bán thay đổi trạng thái yêu cầu mua hàng thành chờ xử lý.",
+    "zh" : "当卖家将购买申请改为待定时向买家发送提醒。"
+  },
+  "스프레드시트 업무함 업무에 댓글이 등록될 때 업무함 관리자에게 알림" : {
+    "en" : "Notification to the task manager when a comment is posted on a task in the spreadsheet task box.",
+    "ja" : "スプレッドシート業務箱の業務にコメントが登録された際、業務箱管理者へ通知",
+    "vi" : "Thông báo cho quản trị viên khi có bình luận được thêm trong hòm công việc trên bảng tính",
+    "zh" : "当电子表格工作箱中的工作有新评论注册时，通知工作箱管理员。"
+  },
+  "설문 미참여자에게  참여요청 알림" : {
+    "en" : "Alert non-participants with a participation request for the survey.",
+    "ja" : "アンケートの未参加者に参加リクエストの通知",
+    "vi" : "Thông báo yêu cầu tham gia khảo sát tới người chưa làm khảo sát",
+    "zh" : "向未参与问卷调查的人发送参与请求提醒。"
+  },
+  "대외문서재발송" : {
+    "en" : "External Document Resent",
+    "ja" : "外部文書再送信",
+    "vi" : "Gửi lại tài liệu từ bên ngoài",
+    "zh" : "重新发送外部文件"
+  },
+  "여기까지 읽으셨습니다." : {
+    "en" : "You have read up to this point.",
+    "ja" : "ここまで読みました。",
+    "vi" : "Bạn đã đọc đến đây.",
+    "zh" : "您已阅读到这里。"
+  },
+  "일감댓글등록" : {
+    "en" : "Task Comment Registered",
+    "ja" : "タスクへのコメント登録",
+    "vi" : "Thêm bình luận công việc",
+    "zh" : "任务评论注册"
+  },
+  "게시대여승인" : {
+    "en" : "Post Rental Approved",
+    "ja" : "ポスト貸し出し承認",
+    "vi" : "Phê duyệt mượn bài viết",
+    "zh" : "批准发布租赁"
+  },
+  "수신일 기준으로 1년 후 자동 삭제됩니다." : {
+    "en" : "Automatically deleted one year after the date of receipt.",
+    "ja" : "受信日を基準にして1年後に自動削除されます。",
+    "vi" : "Tự động xóa sau một năm kể từ ngày nhận.",
+    "zh" : "从接收日起，1年后自动删除。"
+  },
+  "신청자가 근무계획표 신청을 취소할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when the requester cancels the work schedule request.",
+    "ja" : "申請者が勤務計画表の申請をキャンセルする際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi người yêu cầu hủy bỏ yêu cầu lịch làm việc.",
+    "zh" : "当申请者取消工作计划表申请时向审批人发送提醒。"
+  },
+  "SMTP 발송횟수 초과한 사용자에게  알림" : {
+    "en" : "Alert users who exceed the SMTP dispatch limit.",
+    "ja" : "SMTP発送回数を超過した利用者に通知",
+    "vi" : "Thông báo cho người dùng vượt quá giới hạn gửi SMTP.",
+    "zh" : "当用户发送SMTP的次数超出限制时，向其发送提醒。"
+  },
+  "스페이스가입요청" : {
+    "en" : "Space Membership Request",
+    "ja" : "スペース参加要求",
+    "vi" : "Yêu cầu tham gia không gian làm việc",
+    "zh" : "请求加入空间"
+  },
+  "그룹웨어 모바일" : {
+    "en" : "Groupware Mobile",
+    "ja" : "グループウェアモバイル",
+    "vi" : "Ứng dụng di động của Groupware",
+    "zh" : "Groupware移动"
+  },
+  "예약수정" : {
+    "en" : "Reservation Modified",
+    "ja" : "予約修正",
+    "vi" : "Sửa lịch hẹn",
+    "zh" : "修改预订"
+  },
+  "평가등록반려" : {
+    "en" : "Evaluation Registration Rejected",
+    "ja" : "評価登録却下",
+    "vi" : "Yêu cầu thêm đánh giá bị từ chối",
+    "zh" : "拒绝评分注册"
+  },
+  "등록한 답변이 채택될 때 알림" : {
+    "en" : "Alert when a registered response is selected.",
+    "ja" : "登録された回答が採択された際に通知",
+    "vi" : "Thông báo khi phản hồi đã thêm được chọn.",
+    "zh" : "当发布的回复被采纳时发送提醒。"
+  },
+  "업무검토 요청이 반려될 때 요청자에게 알림" : {
+    "en" : "Alert the requester when a task review request is rejected.",
+    "ja" : "業務の検討依頼が返戻された際に依頼者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu xem xét nhiệm vụ bị từ chối.",
+    "zh" : "当业务审核请求被拒绝时向请求者发送提醒。"
+  },
+  "결재할 문서가 도착할 때 알림" : {
+    "en" : "Alert when a document requiring approval arrives.",
+    "ja" : "決裁すべき文書が届いた際に通知",
+    "vi" : "Thông báo khi một tài liệu cần phê duyệt được gửi đến.",
+    "zh" : "当需要审批的文档到达时发送提醒"
+  },
+  "노무수령거부" : {
+    "en" : "Labor Receipt Refusal",
+    "ja" : "労務受領拒否",
+    "vi" : "Từ chối nhận lao động",
+    "zh" : "拒绝接收劳动通知"
+  },
+  "모듈 관리" : {
+    "en" : "Module Management",
+    "ja" : "モジュール管理",
+    "vi" : "Quản lý mô-đun",
+    "zh" : "模块管理"
+  },
+  "시스템 코드" : {
+    "en" : "System Code",
+    "ja" : "システムコード",
+    "vi" : "Mã hệ thống",
+    "zh" : "系统代码"
+  },
+  "메일도착" : {
+    "en" : "Email Received",
+    "ja" : "メール到着",
+    "vi" : "Thư đến",
+    "zh" : "邮件接收"
+  },
+  "근태연장회수" : {
+    "en" : "Overtime Reclaimed",
+    "ja" : "勤怠延長回収",
+    "vi" : "Thu hồi gia hạn thời gian làm việc",
+    "zh" : "扣除考勤时间延期"
+  },
+  "대여 등록될 때 대여자에게 알림" : {
+    "en" : "Alert the borrower when a rental is registered.",
+    "ja" : "貸与登録時に貸与者に通知",
+    "vi" : "Thông báo cho người thuê khi việc thuê được đăng ký.",
+    "zh" : "当租借被登记时向租借者发送提醒。"
+  },
+  "알림 설정에 따라 설정한 메일 계정으로 발송합니다." : {
+    "en" : "Notifications will be sent to the email account specified in the notification settings.",
+    "ja" : "通知設定に従って設定したメールアカウントに送信されます。",
+    "vi" : "Thông báo sẽ được gửi đến tài khoản email được chỉ định trong cài đặt thông báo.",
+    "zh" : "根据通知设置，将发送到设置的电子邮件帐户。"
+  },
+  "예약삭제" : {
+    "en" : "Reservation Deleted",
+    "ja" : "予約削除",
+    "vi" : "Xóa lịch hẹn",
+    "zh" : "预订删除"
+  },
+  "선택한 모듈로 알림 발송을 하지 못합니다. 삭제하시겠습니까?" : {
+    "en" : "You cannot send notifications with the selected module. Do you want to delete it?",
+    "ja" : "選択したモジュールで通知を送信できません。削除しますか？",
+    "vi" : "Bạn không thể gửi thông báo bằng mô-đun đã chọn. Bạn có muốn xóa nó không?",
+    "zh" : "无法使用所选模块发送通知。您确定要删除吗？"
+  },
+  "스페이스핫승인" : {
+    "en" : "Space Hot Approved",
+    "ja" : "スペースホット承認",
+    "vi" : "Phê duyệt không gian làm việc",
+    "zh" : "批准空间"
+  },
+  "요청자가 페이지 등록/수정 요청할 때 주제관리자에게 알림" : {
+    "en" : "Notification to the topic manager when a requester submits a page registration/modification request.",
+    "ja" : "要請者がページ登録/修正要請する際管理者に通知",
+    "vi" : "Thông báo cho quản trị viên khi có người yêu cầu đăng/sửa đổi trang",
+    "zh" : "当请求者要求注册/编辑页面时通知主题管理员"
+  },
+  "설문 등록승인 요청 받은 승인자에게 알림" : {
+    "en" : "Alert approvers when they receive a survey registration approval request.",
+    "ja" : "アンケート登録承認のリクエストを受けた承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi nhận yêu cầu phê duyệt đăng ký khảo sát.",
+    "zh" : "当接收到问卷调查登记批准请求时向审批人发送提醒。"
+  },
+  "게시예약반려" : {
+    "en" : "Post Reservation Rejected",
+    "ja" : "ポスト予約却下",
+    "vi" : "Từ chối đặt lịch đăng bài",
+    "zh" : "拒绝发布预订"
+  },
+  "게시등록승인" : {
+    "en" : "Post Approved",
+    "ja" : "ポスト登録承認",
+    "vi" : "Phê duyệt thêm bài viết",
+    "zh" : "批准发布注册"
+  },
+  "근태계획신청" : {
+    "en" : "Attendance Plan Request",
+    "ja" : "勤怠計画申請",
+    "vi" : "Đăng ký kế hoạch làm việc",
+    "zh" : "申请考勤计划"
+  },
+  "문서등록승인" : {
+    "en" : "Document Registration Approved",
+    "ja" : "文書登録承認",
+    "vi" : "Yêu cầu thêm tài liệu được phê duyệt",
+    "zh" : "文档注册批准"
+  },
+  "예약등록승인" : {
+    "en" : "Reservation Approved",
+    "ja" : "予約登録承認",
+    "vi" : "Phê duyệt thêm lịch hẹn",
+    "zh" : "批准预订"
+  },
+  "일정캘린더거절" : {
+    "en" : "Calendar Rejected",
+    "ja" : "スケジュールカレンダー拒否",
+    "vi" : "Từ chối lịch trình",
+    "zh" : "拒绝日程日历"
+  },
+  "결재의견부결" : {
+    "en" : "Approval Opinion Denied",
+    "ja" : "決済意見補完",
+    "vi" : "Từ chối ý kiến",
+    "zh" : "拒绝审批意见"
+  },
+  "보고가 반려될 때 보고자에게 알림" : {
+    "en" : "Alert the reporter when the report is rejected.",
+    "ja" : "報告が返戻された際に報告者に通知",
+    "vi" : "Thông báo cho người báo cáo khi báo cáo bị từ chối.",
+    "zh" : "当报告被拒绝时向报告者发送提醒。"
+  },
+  "일감수정" : {
+    "en" : "Task Modification",
+    "ja" : "タスク編集",
+    "vi" : "Sửa công việc",
+    "zh" : "修改任务"
+  },
+  "페이지공유" : {
+    "en" : "Page Shared",
+    "ja" : "ページ共有",
+    "vi" : "Chia sẻ trang",
+    "zh" : "共享页面"
+  },
+  "업무가 삭제될 때 사용자에게 알림" : {
+    "en" : "Alert users when a task is deleted.",
+    "ja" : "業務が削除される際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi một nhiệm vụ bị xóa.",
+    "zh" : "当业务被删除时向用户发送提醒。"
+  },
+  "게시글여 의견이 등록될 때 사용자에게 알림" : {
+    "en" : "Alert users when a comment is made on a post.",
+    "ja" : "ポストに意見が登録された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi có bình luận trên một bài đăng.",
+    "zh" : "当帖子有新评论时向用户发送提醒。"
+  },
+  "알림 설정한 개수 이상 파일을 다운로드한 사용자가 있을 때 관리자에게 알림" : {
+    "en" : "Alert the administrator when a user downloads more files than the set notification threshold.",
+    "ja" : "設定した数以上のファイルをダウンロードしたユーザーがいる際に管理者に通知",
+    "vi" : "Thông báo cho quản trị viên khi một người dùng tải xuống nhiều tệp hơn ngưỡng thông báo đã đặt.",
+    "zh" : "当有用户下载超过设定数量的文件时向管理员发送提醒。"
+  },
+  "웹 알림 알림 팝업위치" : {
+    "en" : "Web Notifications Notification Popup Location",
+    "ja" : "ウェブ通知 通知ポップアップ位置",
+    "vi" : "Vị trí hiển thị thông báo Popup trực tuyến",
+    "zh" : "Web通知通知弹出位置"
+  },
+  "문서댓글등록" : {
+    "en" : "Document Comment Registered",
+    "ja" : "文書へのコメント登録",
+    "vi" : "Thêm bình luận tài liệu",
+    "zh" : "添加文档评论"
+  },
+  "게시예약대기" : {
+    "en" : "Post Reservation Pending",
+    "ja" : "ポスト予約待機",
+    "vi" : "Đang chờ đặt lịch viết bài",
+    "zh" : "待发布预订"
+  },
+  "일감이 삭제될 때 알림" : {
+    "en" : "Alert when a work item is deleted.",
+    "ja" : "仕事が削除された際に通知",
+    "vi" : "Thông báo khi một công việc bị xóa.",
+    "zh" : "当工作项被删除时发送提醒。"
+  },
+  "일감삭제" : {
+    "en" : "Delete task.",
+    "ja" : "仕事の取消",
+    "vi" : "Xóa nhiệm vụ.",
+    "zh" : "删除任务"
+  },
+  "대여자원" : {
+    "en" : "Rented Resource",
+    "ja" : "レンタルリソース",
+    "vi" : "Tài sản được mượn",
+    "zh" : "租赁资源"
+  },
+  "예약을 삭제할 때 공유자에게 알림" : {
+    "en" : "Alert sharers when a reservation is deleted.",
+    "ja" : "予約を削除する際共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi lịch hẹn được xóa.",
+    "zh" : "删除预约时通知共享者"
+  },
+  "문서등록" : {
+    "en" : "Document Registered",
+    "ja" : "文書登録",
+    "vi" : "Thêm tài liệu",
+    "zh" : "注册文档"
+  },
+  "페이지를 수정할 때 주제 관리자에게 알림" : {
+    "en" : "Alert the topic administrators when a page is modified.",
+    "ja" : "ページを修正する際にテーマ管理者に通知",
+    "vi" : "Thông báo cho quản trị viên chủ đề khi một trang được chỉnh sửa.",
+    "zh" : "当页面被修改时，向主题管理员发送提醒。"
+  },
+  "대리예약등록" : {
+    "en" : "Proxy Reservation Registered",
+    "ja" : "代理予約登録",
+    "vi" : "Đặt lịch hẹn hộ",
+    "zh" : "代理预订注册"
+  },
+  "공유자가 일정 공유요청 수락할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a sharer accepts a schedule sharing request.",
+    "ja" : "共有者がスケジュールの共有リクエストを承認した際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người chia sẻ chấp nhận yêu cầu chia sẻ lịch trình.",
+    "zh" : "当共享者接受日程共享请求时向登记者发送提醒。"
+  },
+  "페이지등록" : {
+    "en" : "Page Registered",
+    "ja" : "ページ新規登録",
+    "vi" : "Thêm trang",
+    "zh" : "页面注册"
+  },
+  "업무 단계만 변경될 때 알림" : {
+    "en" : "Alert when only the stage of a task is changed.",
+    "ja" : "業務の段階のみが変更された際に通知",
+    "vi" : "Chỉ thông báo khi có thay đổi về giai đoạn nhiệm vụ.",
+    "zh" : "当仅业务阶段发生变更时发送提醒。"
+  },
+  "게시예약승인" : {
+    "en" : "Post Reservation Approved",
+    "ja" : "ポスト予約承認",
+    "vi" : "Phê duyệt đặt lịch đăng bài",
+    "zh" : "批准发布预订"
+  },
+  "승인자가 근무계획표를 반려할 때, 신청자에게 알림" : {
+    "en" : "Alert the requester when the approver rejects the work schedule.",
+    "ja" : "承認者が勤務計画表を却下した際申請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi người phê duyệt từ chối lịch làm việc.",
+    "zh" : "当审批人拒绝工作计划表时向申请者发送提醒。"
+  },
+  "결재자가 결재를 완료할 때 알림" : {
+    "en" : "Alert when an approver completes the approval.",
+    "ja" : "決裁者が決裁を完了した際に通知",
+    "vi" : "Thông báo khi người phê duyệt hoàn thành việc phê duyệt.",
+    "zh" : "当审批人完成审批时发送提醒。"
+  },
+  "페이지를 삭제할 때 주제 관리자에게 알림" : {
+    "en" : "Alert the topic administrators when a page is deleted.",
+    "ja" : "ページを削除する際にテーマ管理者に通知",
+    "vi" : "Thông báo cho quản trị viên chủ đề khi một trang bị xóa.",
+    "zh" : "当页面被删除时，向主题管理员发送提醒。"
+  },
+  "결재선변경" : {
+    "en" : "Approval Chain Altered",
+    "ja" : "決済ライン変更",
+    "vi" : "Thay đổi dãy duyệt",
+    "zh" : "修改审批流程"
+  },
+  "문서가 삭제될 때 사용자에게 알림" : {
+    "en" : "Alert users when a document is deleted.",
+    "ja" : "文書が削除された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi một tài liệu bị xóa.",
+    "zh" : "当文档被删除时向用户发送提醒。"
+  },
+  "연동오류가 발생할 때 알림 대상자에게 알림" : {
+    "en" : "Alert the designated recipient when an integration error occurs.",
+    "ja" : "連動エラーが発生した際に通知受信者に通知",
+    "vi" : "Thông báo cho đối tượng tương ứng khi xảy ra lỗi tích hợp.",
+    "zh" : "当发生联动错误时向通知对象发送提醒。"
+  },
+  "업무참조등록" : {
+    "en" : "Task Referenced",
+    "ja" : "業務参照登録",
+    "vi" : "Thêm người tham chiếu công việc",
+    "zh" : "工作参考注册"
+  },
+  "확정근무계획표" : {
+    "en" : "Confirmed Work Schedule",
+    "ja" : "確定勤務計画表",
+    "vi" : "Lịch làm việc đã xác định",
+    "zh" : "确认工作计划"
+  },
+  "할일 완료처리가 취소될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when the completion of a task is undone.",
+    "ja" : "タスクの完了処理がキャンセルされた際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi việc hoàn thành một nhiệm vụ bị hủy bỏ.",
+    "zh" : "当工作项的完成状态被取消时，向负责人发送提醒。"
+  },
+  "업무담당등록" : {
+    "en" : "Task Assignment Registered",
+    "ja" : "業務担当者登録",
+    "vi" : "Thêm người phụ trách công việc",
+    "zh" : "工作负责人注册"
+  },
+  "게시답변등록" : {
+    "en" : "Post Reply Registered",
+    "ja" : "ポスト返信登録",
+    "vi" : "Gửi câu trả lời cho bài viết",
+    "zh" : "注册发布答复"
+  },
+  "도착한 결재 문서 결재 패스 예정을 결재자에게 알림" : {
+    "en" : "Alert the approver about the scheduled pass of an incoming approval document.",
+    "ja" : "届いた決裁文書の決裁パス予定を承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt về việc chuyển tiếp dự kiến của một tài liệu phê duyệt.",
+    "zh" : "当到达的审批文件预定通过审批时向审批人发送提醒。"
+  },
+  "페이지를 등록할 때 공유자에게 알림" : {
+    "en" : "Alert the sharers when a page is registered.",
+    "ja" : "ページを登録する際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi một trang được thêm.",
+    "zh" : "当页面被创建时，向共享者发送提醒。"
+  },
+  "예약 공유자로 등록될 때 공유자에게 알림" : {
+    "en" : "Alert sharers when they are registered as scheduled sharers.",
+    "ja" : "予約共有者として登録された際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi họ được thêm là người chia sẻ lịch hẹn.",
+    "zh" : "当作为预约共享者被注册时通知共享者"
+  },
+  "포스트 삭제될 때 회원에게 알림" : {
+    "en" : "Notify members when posts are deleted",
+    "ja" : "投稿削除時に会員に通知",
+    "vi" : "Thông báo cho thành viên khi bài đăng bị xóa",
+    "zh" : "帖子被删除时通知会员"
+  },
+  "새로운 문서가 등록될 때 알림" : {
+    "en" : "Alert when a new document is registered.",
+    "ja" : "新しい文書が登録された際に通知",
+    "vi" : "Thông báo khi một tài liệu mới được thêm.",
+    "zh" : "当新文档被登记时发送提醒。"
+  },
+  "게시등록요청" : {
+    "en" : "Post Registration Request",
+    "ja" : "ポスト登録要請",
+    "vi" : "Yêu cầu thêm bài viết",
+    "zh" : "发布注册请求"
+  },
+  "상품 구매신청 완료할 때 구매자에게 알림" : {
+    "en" : "Alert the buyer when the product purchase request is completed.",
+    "ja" : "商品購入申請が完了した際に購入者に通知",
+    "vi" : "Thông báo cho người mua khi yêu cầu mua sản phẩm được hoàn tất.",
+    "zh" : "当商品购买申请完成时向买家发送提醒。"
+  },
+  "시스템 정보" : {
+    "en" : "System Information",
+    "ja" : "システム情報",
+    "vi" : "Thông tin hệ thống",
+    "zh" : "系统信息"
+  },
+  "페이지 삭제요청을 승인할 때  요청자에게 알림" : {
+    "en" : "Alert the requester when a page deletion request is approved.",
+    "ja" : "ページの削除要請を承認する際に要請要者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu xóa trang được chấp thuận.",
+    "zh" : "当页面删除请求被批准时，向请求者发送提醒。"
+  },
+  "로그인할 때 인증 활동을 사용자에게 알림" : {
+    "en" : "Alert users about authentication activity when they log in.",
+    "ja" : "ログインする際ユーザーへの認証活動通知",
+    "vi" : "Thông báo cho người dùng về hoạt động xác thực khi họ đăng nhập.",
+    "zh" : "当登录时，向用户发送关于认证活动的提醒。"
+  },
+  "일감열람자" : {
+    "en" : "Task Viewer",
+    "ja" : "タスク閲覧者",
+    "vi" : "Người xem công việc",
+    "zh" : "任务阅览者"
+  },
+  "게시수정" : {
+    "en" : "Post Modified",
+    "ja" : "ポスト修正",
+    "vi" : "Chỉnh sửa bài viết",
+    "zh" : "发布修改"
+  },
+  "접수문서 담당자를 변경할 때 이전 담당자에게 알림" : {
+    "en" : "Alert the previous handler when changing the handler of a received document.",
+    "ja" : "受付文書の担当者を変更する際に以前の担当者に通知",
+    "vi" : "Thông báo cho người xử lý trước đó khi thay đổi người xử lý của một tài liệu đã tiếp nhận.",
+    "zh" : "当更改接收文件的负责人时向前任负责人发送提醒。"
+  },
+  "한 개 이상 선택하세요." : {
+    "en" : "Select one or more.",
+    "ja" : "1つ以上を選択してください。",
+    "vi" : "Chọn một hoặc nhiều.",
+    "zh" : "请选择一个或多个。"
+  },
+  "할일이 배정될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when a task is assigned.",
+    "ja" : "タスクが割り当てられた際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi một nhiệm vụ được giao.",
+    "zh" : "当工作项被分配时，向负责人发送提醒。"
+  },
+  "보고가 승인될 때 보고자에게 알림" : {
+    "en" : "Alert the reporter when the report is approved.",
+    "ja" : "報告が承認された際に報告者に通知",
+    "vi" : "Thông báo cho người báo cáo khi báo cáo được chấp thuận.",
+    "zh" : "当报告被批准时向报告者发送提醒。"
+  },
+  "모듈명" : {
+    "en" : "Module name",
+    "ja" : "モジュール名",
+    "vi" : "Tên Mô-đun",
+    "zh" : "模块名"
+  },
+  "파일폴더공유" : {
+    "en" : "File Folder Shared",
+    "ja" : "ファイルフォルダー共有",
+    "vi" : "Chia sẻ thư mục tập tin",
+    "zh" : "文件夹共享"
+  },
+  "공동작성 보고가 완료될 때 알림" : {
+    "en" : "Alert when a co-authored report is completed.",
+    "ja" : "共同作成の報告が完了した際に通知",
+    "vi" : "Thông báo khi một báo cáo đồng tác giả được hoàn thành.",
+    "zh" : "当共同撰写的报告完成时发送提醒。"
+  },
+  "게시삭제" : {
+    "en" : "Post Deleted",
+    "ja" : "ポスト削除",
+    "vi" : "Xóa bài viết",
+    "zh" : "删除电子公告"
+  },
+  "승인자가 신청 반려할 때 알림" : {
+    "en" : "Alert when an approver rejects an application.",
+    "ja" : "承認者が申請を返戻する際に通知",
+    "vi" : "Thông báo khi người phê duyệt từ chối một lượt đăng ký.",
+    "zh" : "当审批人拒绝申请时发送提醒。"
+  },
+  "스페이스핫반려" : {
+    "en" : "Space Hot Rejected",
+    "ja" : "スペースホット却下",
+    "vi" : "Từ chối không gian làm việc",
+    "zh" : "拒绝空间"
+  },
+  "승인할 메일이 도착할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when an email requiring approval arrives.",
+    "ja" : "承認すべきのメールが届いた際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi có email cần phê duyệt được gửi đến.",
+    "zh" : "当有邮件需要审批时向审批人发送提醒。"
+  },
+  "예약등록" : {
+    "en" : "Reservation Registered",
+    "ja" : "予約登録",
+    "vi" : "Thêm lịch hẹn",
+    "zh" : "注册预订"
+  },
+  "포스트가 수정될 때 회원에게 알림" : {
+    "en" : "Alert members when a post is modified.",
+    "ja" : "ポストが修正された際に会員に通知",
+    "vi" : "Thông báo cho các thành viên khi một bài đăng được chỉnh sửa.",
+    "zh" : "当帖子被修改时向会员发送提醒。"
+  },
+  "업무에 댓글이 등록될 때 알림" : {
+    "en" : "Notification when a comment is registered on a task",
+    "ja" : "仕事にコメントが登録されたときの通知",
+    "vi" : "Nhận thông báo khi có bình luận được thêm trong nội dung công việc",
+    "zh" : "工作内容有回帖时提醒我"
+  },
+  "DESKTOP 알림을 지원하는 브라우저에서는 팝업을 대체합니다." : {
+    "en" : "It will replace pop-ups in a browser that supports DESKTOP notifications.",
+    "ja" : "デスクトップ通知をサポートするブラウザではポップアップを代替します。",
+    "vi" : "Các trình duyệt hỗ trợ thông báo DESKTOP thay thế cửa sổ bật lên.",
+    "zh" : "在支持DESKTOP通知的浏览器中代替弹窗。"
+  },
+  "승인자가 없을 때 승인메일 작성자에게 알림" : {
+    "en" : "Notification to the approval email writer when there is no approver.",
+    "ja" : "承認者が不在の場合、承認メールの作成者に通知",
+    "vi" : "Thông báo cho người viết email phê duyệt khi không có người phê duyệt",
+    "zh" : "当没有审批者时，向审批邮件的编写者发送通知。"
+  },
+  "페이지삭제요청" : {
+    "en" : "Page Deletion Requested",
+    "ja" : "ページ削除要請",
+    "vi" : "Yêu cầu xóa trang",
+    "zh" : "请求删除页面"
+  },
+  "일감요청자" : {
+    "en" : "Task Requester",
+    "ja" : "タスクリクエスター",
+    "vi" : "Người yêu cầu công việc",
+    "zh" : "任务请求者"
+  },
+  "일정수락요청" : {
+    "en" : "Event Acceptance Request",
+    "ja" : "スケジュール承認要請",
+    "vi" : "Yêu cầu chấp nhận lịch trình",
+    "zh" : "请求日程接受"
+  },
+  "갱신하기" : {
+    "en" : "Renew",
+    "ja" : "更新する",
+    "vi" : "Làm mới",
+    "zh" : "刷新"
+  },
+  "할일완료취소" : {
+    "en" : "Task Completion Canceled",
+    "ja" : "タスク完了キャンセル",
+    "vi" : "Hủy hoàn thành công việc cần làm",
+    "zh" : "取消任务完成"
+  },
+  "결재자 권한 변경으로 결재가 불가할 때 이전 결재자에게 알림" : {
+    "en" : "Notification to the previous approver when the approval is not possible due to changes in approver authority.",
+    "ja" : "決裁者の権限変更により決裁が不可能な場合、以前の決裁者に通知",
+    "vi" : "Khi không thể phê duyệt do quyền của người phê duyệt thay đổi, thông báo cho người phê duyệt trước",
+    "zh" : "当审批者权限更改导致无法审批时，通知之前的审批者。"
+  },
+  "업무검토 요청이 승인될 때 요청자에게 알림" : {
+    "en" : "Alert the requester when a task review request is approved.",
+    "ja" : "業務の検討依頼が承認された際に依頼者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu xem xét nhiệm vụ được chấp thuận.",
+    "zh" : "当业务审核请求被批准时向请求者发送提醒。"
+  },
+  "접수문서 담당자로 지정될 때 담당자에게 알림" : {
+    "en" : "Alert the assigned handler when designated as the handler of a received document.",
+    "ja" : "受付文書の担当者に指名された際に担当者に通知",
+    "vi" : "Thông báo cho người xử lý được chỉ định khi được chỉ định là người xử lý một tài liệu tiếp nhận.",
+    "zh" : "当被指定为接收文件的负责人时向负责人发送提醒。"
+  },
+  "결재문서가 후결될 때 후결자에게 알림" : {
+    "en" : "Alert the subsequent approver when an approval document is passed for later approval.",
+    "ja" : "決裁文書が後決される際に後決者に通知",
+    "vi" : "Thông báo cho người phê duyệt tiếp theo khi tài liệu phê duyệt được chuyển cho việc phê duyệt tiếp.",
+    "zh" : "当审批文档被后审批时向后审批者发送提醒。"
+  },
+  "일감이슈수정" : {
+    "en" : "Task Issue Modified",
+    "ja" : "タスク問題修正",
+    "vi" : "Sửa đổi vấn đề công việc",
+    "zh" : "任务问题修改"
+  },
+  "결재후결" : {
+    "en" : "Post-Approval",
+    "ja" : "決済後承認",
+    "vi" : "Sau khi duyệt",
+    "zh" : "审批后续"
+  },
+  "승인자가 설문을 승인할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when the approver approves the survey.",
+    "ja" : "承認者がアンケートを承認する際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người phê duyệt chấp nhận khảo sát.",
+    "zh" : "当审批人批准问卷调查时向登记者发送提醒。"
+  },
+  "승인자가 설문을 반려할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when the approver rejects the survey.",
+    "ja" : "承認者がアンケートを返戻する際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người phê duyệt từ chối khảo sát.",
+    "zh" : "当审批人拒绝问卷调查时向登记者发送提醒。"
+  },
+  "스페이스 생성할 때 관리자에게 알림" : {
+    "en" : "Notify administrator when creating a space",
+    "ja" : "スペースの作成時に管理者に通知する。",
+    "vi" : "Thông báo cho quản trị viên khi tạo không gian",
+    "zh" : "创建空间时通知管理员"
+  },
+  "태그를 선택해 주세요." : {
+    "en" : "Select a tag.",
+    "ja" : "タグを選択してください。",
+    "vi" : "Hãy chọn tag",
+    "zh" : "请选择标记。"
+  },
+  "회원 가입 초대를 대상자가 거절할 때 책임자에게 알림" : {
+    "en" : "Alert the responsible person when a membership invitation is declined by the target individual.",
+    "ja" : "会員登録の招待を対象者が拒否した際に責任者に通知",
+    "vi" : "Thông báo cho người phụ trách khi lời mời tham gia bị đối tượng từ chối.",
+    "zh" : "当目标对象拒绝会员邀请时向负责人发送提醒。"
+  },
+  "근태연장취소" : {
+    "en" : "Overtime Cancellation",
+    "ja" : "勤怠延長キャンセル",
+    "vi" : "Hủy gia hạn thời gian làm việc",
+    "zh" : "取消考勤时间延期"
+  },
+  "결재자 권한 변경으로 회수가 가능할 때 기안자에게 알림" : {
+    "en" : "Notification to the drafter when retrieval is possible due to changes in approver authority.",
+    "ja" : "決裁者の権限変更により回収が可能な場合、起案者に通知",
+    "vi" : "Khi quyền của người phê duyệt thay đổi và có thể thu hồi, thông báo cho người soạn thảo",
+    "zh" : "当审批者权限更改使得可以回收时，通知起草者。"
+  },
+  "일감등록" : {
+    "en" : "Task Registered",
+    "ja" : "タスク登録",
+    "vi" : "Thêm công việc",
+    "zh" : "任务注册"
+  },
+  "결재접수완료" : {
+    "en" : "Approval Reception Completed",
+    "ja" : "決済受付完了",
+    "vi" : "Hoàn thành tiếp nhận duyệt",
+    "zh" : "审批接收完成"
+  },
+  "스페이스에 회원으로 초대받을 때 대상자에게 알림" : {
+    "en" : "Alert the target individual when invited as a member to a space.",
+    "ja" : "スペースに会員として招待された際に対象者に通知",
+    "vi" : "Thông báo cho đối tượng tương ứng khi được mời làm thành viên của một không gian.",
+    "zh" : "当被邀请成为空间成员时向目标对象发送提醒。"
+  },
+  "연장근로 신청이 등록될 때 승인자에게 알림" : {
+    "en" : "Alert approvers when an overtime work request is registered.",
+    "ja" : "残業申請が登録された際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi yêu cầu làm thêm giờ được đăng ký.",
+    "zh" : "当提交加班申请时向审批人发送提醒。"
+  },
+  "연동 이력" : {
+    "en" : "Integration History",
+    "ja" : "連動履歴",
+    "vi" : "Lịch sử tích hợp",
+    "zh" : "互连历史记录"
+  },
+  "결재의견보류" : {
+    "en" : "Approval Opinion Deferred",
+    "ja" : "決済意見保留",
+    "vi" : "Bảo lưu ý kiến phê duyệt",
+    "zh" : "保留审批意见"
+  },
+  "발송자" : {
+    "en" : "Sender",
+    "ja" : "送信者",
+    "vi" : "Người gửi",
+    "zh" : "发送人"
+  },
+  "성공 여부" : {
+    "en" : "Whether Successful or Not",
+    "ja" : "成否",
+    "vi" : "Thành công/Không thành công",
+    "zh" : "成功与否"
+  },
+  "업무검토승인" : {
+    "en" : "Task Review Approved",
+    "ja" : "業務レビュー承認",
+    "vi" : "Phê duyệt rà soát công việc",
+    "zh" : "批准业务审查"
+  },
+  "대여 자원 반납이 지연될 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when the return of a rented resource is delayed.",
+    "ja" : "資源の返却が遅れた際に予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi việc trả lại tài nguyên thuê bị hoãn.",
+    "zh" : "当租借资源归还延迟时向预约人发送提醒。"
+  },
+  "게시대여반납" : {
+    "en" : "Post Rental Returned",
+    "ja" : "ポスト貸し出し返却",
+    "vi" : "Hoàn trả bài viết mượn",
+    "zh" : "归还发布租赁"
+  },
+  "쪽지도착" : {
+    "en" : "Message Received",
+    "ja" : "メッセージ到着",
+    "vi" : "Tin nhắn đã tới nơi",
+    "zh" : "私信到达"
+  },
+  "보고작성요청" : {
+    "en" : "Report Writing Request",
+    "ja" : "報告作成要請",
+    "vi" : "Yêu cầu tạo báo cáo",
+    "zh" : "请求报告编写"
+  },
+  "태그 설명은 300자까지 가능합니다." : {
+    "en" : "Tag descriptions can be up to 300 characters long.",
+    "ja" : "タグ説明は300字まで入力可能です。",
+    "vi" : "Mô tả thẻ có thể dài tối đa 300 ký tự.",
+    "zh" : "标签描述最多300字。"
+  },
+  "png, jpg, gif 만 가능합니다." : {
+    "en" : "Only png,jpg,gif files can be attached.",
+    "ja" : "png、jpg、gifのみ可能です。",
+    "vi" : "Chỉ có thể sử dụng đuôi png, jpg, gif.",
+    "zh" : "只能使用png,jpg,gif。"
+  },
+  "알림 태그 설정" : {
+    "en" : "Notification Tag Settings",
+    "ja" : "通知タグの設定",
+    "vi" : "Cài đặt thẻ thông báo",
+    "zh" : "通知标签设置"
+  },
+  "게시등록반려" : {
+    "en" : "Post Rejected",
+    "ja" : "ポスト登録却下",
+    "vi" : "Từ chối thêm bài viết",
+    "zh" : "拒绝发布注册"
+  },
+  "근태계획수정" : {
+    "en" : "Attendance Plan Modified",
+    "ja" : "勤怠計画修正",
+    "vi" : "Sửa đổi kế hoạch thời gian làm việc",
+    "zh" : "修改考勤计划"
+  },
+  "공유 문서가 도착할 때 알림" : {
+    "en" : "Alert when a shared document arrives.",
+    "ja" : "共有文書が届いた際に通知",
+    "vi" : "Thông báo khi một tài liệu chia sẻ được gửi đến.",
+    "zh" : "当收到共享文档时发送提醒。"
+  },
+  "접수문서가 회수될 때 접수자에게 알림" : {
+    "en" : "Alert the recipient when a received document is retracted.",
+    "ja" : "受付文書が回収された際に受領者に通知",
+    "vi" : "Thông báo cho người nhận khi một tài liệu đã tiếp nhận được rút lại.",
+    "zh" : "当接收文件被撤回时向接收者发送提醒。"
+  },
+  "메일 용량 임계치 도달한 사용자에게 알림" : {
+    "en" : "Alert users when they reach the email capacity threshold.",
+    "ja" : "メール容量の限界値に到達した利用者に通知",
+    "vi" : "Thông báo cho người dùng khi họ đạt ngưỡng dung lượng email.",
+    "zh" : "当用户的邮件容量达到阈值时，向其发送提醒。"
+  },
+  "일감 열람자로 등록될 때 열람자에게 알림" : {
+    "en" : "Alert the viewer when added as a viewer to a work item.",
+    "ja" : "仕事の閲覧者として登録された際に閲覧者に通知",
+    "vi" : "Thông báo cho người xem khi được thêm vào là người xem một công việc.",
+    "zh" : "当有人被登记为工作项的查看者时向查看者发送提醒。"
+  },
+  "보고작성완료" : {
+    "en" : "Report Completed",
+    "ja" : "報告作成完了",
+    "vi" : "Hoàn tất tạo báo cáo",
+    "zh" : "完成报告编写"
+  },
+  "수신 알림 Chat으로 받기" : {
+    "en" : "Receive notifications via Chat",
+    "ja" : "受信通知をChatで受け取るには、",
+    "vi" : "Nhận thông báo qua Chat",
+    "zh" : "通过Chat接收通知"
+  },
+  "알림태그" : {
+    "en" : "Notification Tags",
+    "ja" : "通知タグ",
+    "vi" : "Thẻ thông báo",
+    "zh" : "通知标签"
+  },
+  "페이지삭제승인" : {
+    "en" : "Page Deletion Approved",
+    "ja" : "ページ削除承認",
+    "vi" : "Phê duyệt xóa trang",
+    "zh" : "批准删除页面"
+  },
+  "문서등록요청" : {
+    "en" : "Request for Document Registration",
+    "ja" : "文書登録要請",
+    "vi" : "Yêu cầu thêm tài liệu",
+    "zh" : "批准文档注册"
+  },
+  "일정 공유자로 등록될 때 공유자에게 알림" : {
+    "en" : "Alert sharers when registered as schedule sharers.",
+    "ja" : "日程共有者として登録された際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi được thêm là người chia sẻ lịch trình.",
+    "zh" : "当作为日程共享者被登记时向共享者发送提醒。"
+  },
+  "결재접수반송취소" : {
+    "en" : "Approval Rejection Canceled",
+    "ja" : "決済受付返送キャンセル",
+    "vi" : "Hủy trả lại yêu cầu tiếp nhận duyệt",
+    "zh" : "取消审批接收退回"
+  },
+  "게시글이 수정될 때 사용자에게 알림" : {
+    "en" : "Alert users when a post is modified.",
+    "ja" : "ポストが修正された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi một bài đăng được chỉnh sửa.",
+    "zh" : "当帖子被修改时向用户发送提醒。"
+  },
+  "우측상단" : {
+    "en" : "Upper right corner",
+    "ja" : "右上段",
+    "vi" : "Góc trên bên phải",
+    "zh" : "右上"
+  },
+  "양식연동오류" : {
+    "en" : "Form Integration Error",
+    "ja" : "フォーム連携エラー",
+    "vi" : "Lỗi tích hợp biểu mẫu",
+    "zh" : "表单集成错误"
+  },
+  "일정공유거절" : {
+    "en" : "Event Share Rejected",
+    "ja" : "スケジュール共有拒否",
+    "vi" : "Chia Sẻ Sự Kiện Bị Từ Chối",
+    "zh" : "拒绝日程共享"
+  },
+  "파일관리알림" : {
+    "en" : "File Management Notification",
+    "ja" : "ファイル管理通知",
+    "vi" : "Thông báo quản lý tập tin",
+    "zh" : "通知文件管理"
+  },
+  "할일완료" : {
+    "en" : "Task Completed",
+    "ja" : "タスク完了",
+    "vi" : "Hoàn thành công việc cần làm",
+    "zh" : "任务完成"
+  },
+  "평가등록승인" : {
+    "en" : "Evaluation Registration Approved",
+    "ja" : "評価登録承認",
+    "vi" : "Yêu cầu thêm đánh giá được phê duyệt",
+    "zh" : "评分注册批准"
+  },
+  "일정 대리자로 등록된 사용자에게 알림" : {
+    "en" : "Alert users registered as schedule delegates.",
+    "ja" : "日程代理者として登録されたユーザーに通知",
+    "vi" : "Thông báo cho người dùng được đăng ký là người đại diện lịch trình.",
+    "zh" : "向被登记为日程代理人的用户发送提醒。"
+  },
+  "추가정보를 설정 하기위해서 변수를 설정 해야 합니다. 변수명을 입력해 주세요." : {
+    "en" : "To set up additional information, you need to set up a parameter. Please enter a parameter name.",
+    "ja" : "追加情報を設定するために変数を設定します。変数名を入力してください。",
+    "vi" : "Bạn cần cài đặt nhiều biến thông tin bổ sung. Nhập tên biến.",
+    "zh" : "为了设置附加信息，需设置变量。请输入变量名称。"
+  },
+  "설문등록반려" : {
+    "en" : "Survey Registration Rejected",
+    "ja" : "アンケート登録却下",
+    "vi" : "Yêu cầu thêm khảo sát bị từ chối",
+    "zh" : "请求评分注册"
+  },
+  "근태시간승인" : {
+    "en" : "Attendance Time Approval",
+    "ja" : "勤怠時間承認",
+    "vi" : "Phê duyệt thời gian làm việc",
+    "zh" : "考勤时间批准"
+  },
+  "새로운 게시글이 등록될 때 알림" : {
+    "en" : "Alert when a new post is registered.",
+    "ja" : "新しいポストが投稿された際に通知",
+    "vi" : "Thông báo khi một bài đăng mới được thêm.",
+    "zh" : "当新帖子被登记时发送提醒。"
+  },
+  "설문참여요청" : {
+    "en" : "Request for Survey Participation",
+    "ja" : "アンケート参加要請",
+    "vi" : "Yêu cầu tham gia khảo sát",
+    "zh" : "请求文档注册"
+  },
+  "업무검토요청" : {
+    "en" : "Request for Task Review",
+    "ja" : "業務検討要請",
+    "vi" : "Yêu cầu rà soát công việc",
+    "zh" : "请求业务审查"
+  },
+  "결재의견요청" : {
+    "en" : "Approval Opinion Request",
+    "ja" : "決済意見要請",
+    "vi" : "Yêu cầu ý kiến phê duyệt",
+    "zh" : "请求审批意见"
+  },
+  "커뮤니티전체메시지" : {
+    "en" : "Community-wide Message",
+    "ja" : "コミュニティ全体メッセージ",
+    "vi" : "Tin nhắn tổng cộng đồng",
+    "zh" : "社区全员消息"
+  },
+  "기결재통과" : {
+    "en" : "Final Approval Granted",
+    "ja" : "既決済通過",
+    "vi" : "Thông qua phê duyệt đã định",
+    "zh" : "预审批通过"
+  },
+  "신규 보고가 등록될 때 알림" : {
+    "en" : "Alert when a new report is registered.",
+    "ja" : "新規報告が登録された際に通知",
+    "vi" : "Thông báo khi một báo cáo mới được thêm.",
+    "zh" : "当新的报告被登记时发送提醒。"
+  },
+  "일정캘린더수락" : {
+    "en" : "Calendar Acceptance",
+    "ja" : "スケジュールカレンダー承認",
+    "vi" : "Chấp nhận lịch trình",
+    "zh" : "接受日程日历"
+  },
+  "보고승인요청" : {
+    "en" : "Report Approval Registered",
+    "ja" : "報告承認要求",
+    "vi" : "Yêu cầu phê duyệt báo cáo",
+    "zh" : "请求报告审批"
+  },
+  "관리자가 예약을 승인할 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when the administrator approves the reservation.",
+    "ja" : "管理者が予約を承認した際予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi quản trị viên chấp thuận.",
+    "zh" : "当管理员批准预约时向预约人发送提醒。"
+  },
+  "메일발송반려" : {
+    "en" : "Email Sending Rejected",
+    "ja" : "メール送信却下",
+    "vi" : "Từ chối gửi thư",
+    "zh" : "拒绝发送邮件"
+  },
+  "이슈가 수정될 때 알림" : {
+    "en" : "Alert when an issue is modified.",
+    "ja" : "イシューが修正された際に通知",
+    "vi" : "Thông báo khi một vấn đề được sửa đổi.",
+    "zh" : "当问题被修改时发送提醒。"
+  },
+  "근태연장신청" : {
+    "en" : "Overtime Request",
+    "ja" : "勤怠時間延長申請",
+    "vi" : "Đăng ký gia hạn thời gian làm việc",
+    "zh" : "申请延长考勤时间"
+  },
+  "긴급" : {
+    "en" : "Urgent",
+    "ja" : "緊急",
+    "vi" : "Khẩn cấp",
+    "zh" : "紧急"
+  },
+  "커뮤니티개설신청" : {
+    "en" : "Community Creation Request",
+    "ja" : "コミュニティ設立申請",
+    "vi" : "Yêu cầu mở cộng đồng",
+    "zh" : "社区创建申请"
+  },
+  "수신일" : {
+    "en" : "Date received",
+    "ja" : "受信日",
+    "vi" : "Ngày gửi",
+    "zh" : "收信日"
+  },
+  "평가 미참여자에게 참여요청 알림" : {
+    "en" : "Alert non-participants with a participation request for the evaluation.",
+    "ja" : "評価の未参加者に参加リクエストの通知",
+    "vi" : "Thông báo yêu cầu tham gia đánh giá tới người chưa đánh giá.",
+    "zh" : "向未参与评估的人发送参与请求提醒。"
+  },
+  "스페이스생성" : {
+    "en" : "Space creation",
+    "ja" : "スペースの作成",
+    "vi" : "Tạo không gian",
+    "zh" : "创造空间"
+  },
+  "보고등록승인" : {
+    "en" : "Report Submission Approved",
+    "ja" : "報告登録承認",
+    "vi" : "Phê duyệt thêm báo cáo",
+    "zh" : "批准报告注册"
+  },
+  "결재완료(의견)" : {
+    "en" : "Approval Completed (with comment)",
+    "ja" : "決済完了（意見）",
+    "vi" : "Hoàn thành phê duyệt (ý kiến)",
+    "zh" : "完成审批（意见）"
+  },
+  "태그명" : {
+    "en" : "Tag Name",
+    "ja" : "タグ名",
+    "vi" : "Tên tag",
+    "zh" : "标记名"
+  },
+  "공유자가 일정 공유요청 거절할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a sharer declines a schedule sharing request.",
+    "ja" : "共有者がスケジュールの共有リクエストを拒絶した際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người chia sẻ từ chối yêu cầu chia sẻ lịch trình.",
+    "zh" : "当共享者拒绝日程共享请求时向登记者发送提醒。"
+  },
+  "결재자변경" : {
+    "en" : "Approver Change",
+    "ja" : "決済者変更",
+    "vi" : "Thay đổi người duyệt",
+    "zh" : "更换审批人员"
+  },
+  "예약취소를 요청할 때 관리자에게 알림" : {
+    "en" : "Alert administrators when a reservation cancellation is requested.",
+    "ja" : "予約キャンセルを要請する際管理者に通知",
+    "vi" : "Thông báo cho quản trị viên khi có yêu cầu hủy lịch hẹn.",
+    "zh" : "当请求取消预约时向管理员发送提醒。"
+  },
+  "핫클릭 등록이 반려될 때  신청자에게 알림" : {
+    "en" : "Alert the applicant when a Hot Click registration is rejected.",
+    "ja" : "ホットクリックの登録が返戻された際に申請者に通知",
+    "vi" : "Thông báo cho người nộp đơn khi đăng ký Hot Click bị từ chối.",
+    "zh" : "当热点点击登记被拒绝时向申请者发送提醒。"
+  },
+  "스페이스초대거절" : {
+    "en" : "Space Invitation Declined",
+    "ja" : "スペース招待拒否",
+    "vi" : "Từ chối lời mời tham gia không gian làm việc",
+    "zh" : "拒绝空间邀请"
+  },
+  "문서반입" : {
+    "en" : "Document Imported",
+    "ja" : "文書取り込み",
+    "vi" : "Nhập tài liệu",
+    "zh" : "导入文档"
+  },
+  "좌측상단" : {
+    "en" : "Top left corner",
+    "ja" : "左上段",
+    "vi" : "Góc trên bên trái",
+    "zh" : "左上"
+  },
+  "스페이스승인" : {
+    "en" : "Space approval",
+    "ja" : "スペース承認",
+    "vi" : "Phê duyệt không gian",
+    "zh" : "空间批准"
+  },
+  "결재자가 결재문서 승인을 취소할 때 알림" : {
+    "en" : "Alert when an approver cancels the approval of an approval document.",
+    "ja" : "決裁者が決裁文書の承認をキャンセルした際に通知",
+    "vi" : "Thông báo khi người phê duyệt hủy bỏ việc phê duyệt một tài liệu đã phê duyệt.",
+    "zh" : "当审批人取消文档审批批准时发送提醒。"
+  },
+  "SMTP 발송 제한자" : {
+    "en" : "SMTP Send Limitations",
+    "ja" : "SMTP送信制限者",
+    "vi" : "Người hạn chế gửi thư SMTP",
+    "zh" : "SMTP发送限制人员"
+  },
+  "승인자가 게시글 반려할 때 사용자에게 알림" : {
+    "en" : "Alert users when an approver rejects a post.",
+    "ja" : "承認者がポストを返戻する際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi người phê duyệt từ chối một bài đăng.",
+    "zh" : "当审批人拒绝帖子时向用户发送提醒。"
+  },
+  "근태계획취소" : {
+    "en" : "Attendance Plan Cancellation",
+    "ja" : "勤怠計画キャンセル",
+    "vi" : "Hủy kế hoạch thời gian làm việc",
+    "zh" : "取消考勤计划"
+  },
+  "일감이슈등록" : {
+    "en" : "Task Issue Registered",
+    "ja" : "タスク問題提起",
+    "vi" : "Thêm vấn đề công việc",
+    "zh" : "任务问题注册"
+  },
+  "일감 댓글 등록될 때 알림" : {
+    "en" : "Alert when a comment is registered on a work item.",
+    "ja" : "仕事にコメントが登録された際に通知",
+    "vi" : "Thông báo khi một bình luận được thêm trên một công việc.",
+    "zh" : "当工作项有新评论时发送提醒。"
+  },
+  "발송문서를 접수자가 반송할 때 기안자에게 알림" : {
+    "en" : "Alert the drafter when the recipient returns the sent document.",
+    "ja" : "発送文書を受付者が返送した際に起案者に通知",
+    "vi" : "Thông báo cho người soạn thảo khi người nhận trả lại tài liệu đã gửi.",
+    "zh" : "当接收者退回发出的文件时向起草人发送提醒。"
+  },
+  "공유받은 일정이 취소될 때 공유자에게 알림" : {
+    "en" : "Alert sharers when a shared schedule is canceled.",
+    "ja" : "共有されたスケジュールがキャンセルされた際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi lịch trình chia sẻ bị hủy.",
+    "zh" : "当共享接收的日程被取消时向共享者发送提醒。"
+  },
+  "변수설정" : {
+    "en" : "Variable Settings",
+    "ja" : "変数の設定",
+    "vi" : "Thiết lập thông số",
+    "zh" : "设定变数"
+  },
+  "팀즈에서 그룹웨어 앱을 설치해야 합니다." : {
+    "en" : "You need to install the Groupware app in Teams.",
+    "ja" : "Teamsからグループウェアアプリをインストールする必要があります。",
+    "vi" : "Bạn cần cài đặt ứng dụng Groupware trong Teams.",
+    "zh" : "您必须安装团队应用程序才能从 Teams 中接收通知。"
+  },
+  "연장근로 신청을 취소할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when an overtime work request is canceled.",
+    "ja" : "残業申請のキャンセルする際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi yêu cầu làm thêm giờ bị hủy bỏ.",
+    "zh" : "当取消加班申请时向审批人发送提醒。"
+  },
+  "승인자가 신청 승인할 때 알림" : {
+    "en" : "Alert when an approver approves an application.",
+    "ja" : "承認者が申請を承認する際に通知",
+    "vi" : "Thông báo khi người phê duyệt chấp nhận một lượt đăng ký.",
+    "zh" : "当审批人批准申请时发送提醒。"
+  },
+  "제외취소" : {
+    "en" : "Cancel exclusion",
+    "ja" : "除外キャンセル",
+    "vi" : "Hủy loại bỏ",
+    "zh" : "取消排除"
+  },
+  "시스템명" : {
+    "en" : "System name",
+    "ja" : "システム名",
+    "vi" : "Tên hệ thống",
+    "zh" : "系统名"
+  },
+  "연차 사용시기가 통보될 때 알림" : {
+    "en" : "Alert when the annual leave usage period is communicated.",
+    "ja" : "有休の使用時期が通報された際の通知",
+    "vi" : "Thông báo khi thời gian sử dụng nghỉ phép hàng năm được công bố.",
+    "zh" : "当通知年假使用时期时发送提醒。"
+  },
+  "페이지등록요청" : {
+    "en" : "Request for Page Registration",
+    "ja" : "ページ登録要請",
+    "vi" : "Yêu cầu thêm trang",
+    "zh" : "请求页面注册"
+  },
+  "일정알림" : {
+    "en" : "Event Notification",
+    "ja" : "スケジュール通知",
+    "vi" : "Thông báo lịch trình",
+    "zh" : "日程提醒"
+  },
+  "관심 업무함에 업무가 신규 등록될 때 알림" : {
+    "en" : "Alert when a new task is added to the Focused Task Folder.",
+    "ja" : "気に入りの業務トレイに新しい業務が登録された際に通知",
+    "vi" : "Thông báo khi một nhiệm vụ mới được thêm vào Thư Mục Nhiệm Vụ Quan Tâm.",
+    "zh" : "当关注的工作业务箱中有新登记的业务时发送提醒。"
+  },
+  "게시글 승인 요청할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when a request for post approval is made.",
+    "ja" : "ポストの承認リクエストの際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi có yêu cầu phê duyệt bài đăng.",
+    "zh" : "当请求批准帖子时向审批人发送提醒。"
+  },
+  "결재회수" : {
+    "en" : "Approval Reclaimed",
+    "ja" : "決済回収",
+    "vi" : "Thu hồi quyết định duyệt",
+    "zh" : "撤销审批"
+  },
+  "관리자가 확정근무계획표를 수정할 때 대상자에게 알림" : {
+    "en" : "Alert the target individuals when the administrator modifies a confirmed work schedule.",
+    "ja" : "管理者が確定勤務計画表を修正する際に対象者に通知",
+    "vi" : "Thông báo cho đối tượng tương ứng khi quản trị viên sửa đổi một lịch làm việc đã xác nhận.",
+    "zh" : "当管理员修改确认的工作计划表时向相关人员发送提醒。"
+  },
+  "일정캘린더공유" : {
+    "en" : "Shared Calendar Event",
+    "ja" : "スケジュールカレンダー共有",
+    "vi" : "Chia sẻ lịch làm việc",
+    "zh" : "日历日程共享"
+  },
+  "결재접수인수" : {
+    "en" : "Approval Acceptance",
+    "ja" : "決済受付引き取り",
+    "vi" : "Nhận bàn giao tiếp nhận duyệt",
+    "zh" : "接管审批"
+  },
+  "예약등록대기" : {
+    "en" : "Reservation Pending Approval",
+    "ja" : "予約登録待機",
+    "vi" : "Chờ thêm lịch hẹn",
+    "zh" : "等待预订注册"
+  },
+  "신청자가 출근부 수정신청을 회수할 때 관리자에게 알림" : {
+    "en" : "Alert administrators when the requester retracts an attendance record modification request.",
+    "ja" : "申請者が勤務表の修正申請を回収する際管理者に通知",
+    "vi" : "Thông báo cho quản trị viên khi người yêu cầu rút lại yêu cầu sửa đổi bản ghi chấm công.",
+    "zh" : "当申请者撤回考勤记录修改申请时向管理员发送提醒。"
+  },
+  "포스트가 등록될 때 회원에게 알림" : {
+    "en" : "Alert members when a post is registered.",
+    "ja" : "ポストが登録された際に会員に通知",
+    "vi" : "Thông báo cho các thành viên khi một bài đăng được thêm.",
+    "zh" : "当帖子被登记时向会员发送提醒。"
+  },
+  "평가채점요청" : {
+    "en" : "Request for Evaluation Scoring",
+    "ja" : "評価採点リクエスト",
+    "vi" : "Yêu cầu đánh giá và chấm điểm",
+    "zh" : "请求评分"
+  },
+  "접수문서가 배부 반송될 때 문서담당자에게 알림" : {
+    "en" : "Alert the document handler when the distribution of a received document is returned.",
+    "ja" : "受付文書が配布返送される際に文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu khi việc phân phối một tài liệu bị từ chối.",
+    "zh" : "当接收文件被退回时向文档负责人发送提醒。"
+  },
+  "시스템을 선택해 주세요." : {
+    "en" : "Please select a system.",
+    "ja" : "システムを選択してください。",
+    "vi" : "Vui lòng chọn một hệ thống.",
+    "zh" : "请选择系统。"
+  },
+  "대리자가 예약을 등록할 때 알림" : {
+    "en" : "Alert when a proxy makes a reservation.",
+    "ja" : "代理人が予約を登録する際に通知",
+    "vi" : "Thông báo khi một người đại diện thêm lịch hẹn.",
+    "zh" : "当代理人登记预约时发送提醒。"
+  },
+  "결재 완료 기한을 결재자에게 알림" : {
+    "en" : "Alert the approver of the completion deadline for the approval.",
+    "ja" : "決裁完了期限を承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt về thời hạn hoàn thành phê duyệt.",
+    "zh" : "当通知审批人审批完成截止日期时发送提醒。"
+  },
+  "결재의견 요청에 응답이 등록될 때 요청자에게 알림" : {
+    "en" : "Alert the requester when a response is registered for an approval opinion request.",
+    "ja" : "決裁意見要請に応答が登録されたときに要求者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi một phản hồi được thêm vào yêu cầu ý kiến phê duyệt.",
+    "zh" : "当对审批意见请求的回应被登记时向请求者发送提醒。"
+  },
+  "폴더활동로그" : {
+    "en" : "Folder activity log.",
+    "ja" : "フォルダ活動ログ",
+    "vi" : "Nhật ký hoạt động của thư mục.",
+    "zh" : "文件夹活动日志"
+  },
+  "보고등록반려" : {
+    "en" : "Report Submission Rejected",
+    "ja" : "報告登録却下",
+    "vi" : "Từ chối thêm báo cáo",
+    "zh" : "拒绝报告注册"
+  },
+  "결재자가 결재의견을 작성하여 결재를 완료할 때 알림" : {
+    "en" : "Alert when an approver writes an opinion and completes the approval.",
+    "ja" : "決裁者が決裁意見を記入して決裁を完了した際に通知",
+    "vi" : "Thông báo khi người phê duyệt viết ý kiến và hoàn thành việc phê duyệt.",
+    "zh" : "当审批人撰写审批意见后完成审批时发送提醒。"
+  },
+  "승인자가 평가 반려할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when the approver rejects the evaluation.",
+    "ja" : "承認者が評価を返戻する際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người phê duyệt từ chối đánh giá.",
+    "zh" : "当审批人拒绝评估时向登记者发送提醒。"
+  },
+  "접수문서가 도착할 때 접수자에게 알림" : {
+    "en" : "Alert the recipient when a received document arrives.",
+    "ja" : "受付文書が届いた際に受領者に通知",
+    "vi" : "Thông báo cho người nhận khi một tài liệu tiếp nhận được gửi đến.",
+    "zh" : "当接收文件到达时向接收者发送提醒。"
+  },
+  "평가등록요청" : {
+    "en" : "Request for Evaluation Registration",
+    "ja" : "評価登録要請",
+    "vi" : "Yêu cầu thêm đánh giá",
+    "zh" : "批准评分注册"
+  },
+  "실패 사유" : {
+    "en" : "Reason for Failure",
+    "ja" : "失敗の理由",
+    "vi" : "Lý do thất bại",
+    "zh" : "失败原因"
+  },
+  "결재선이 변경될 때 기안자에게 알림" : {
+    "en" : "Alert the drafter when the approval line changes.",
+    "ja" : "決裁線が変更された際に起案者に通知",
+    "vi" : "Thông báo cho người soạn thảo khi dòng phê duyệt thay đổi.",
+    "zh" : "当审批流程变更时向起草人发送提醒。"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "문서에 댓글이 등록될 때 사용자에게 알림" : {
+    "en" : "Alert users when a comment is added to a document.",
+    "ja" : "文書にコメントが登録された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi có bình luận được thêm vào tài liệu.",
+    "zh" : "当文档有新评论时向用户发送提醒。"
+  },
+  "자원 예약 취소될 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when a resource reservation is canceled.",
+    "ja" : "資源の予約がキャンセルされた際に予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi việc hẹn đặt tài nguyên bị hủy.",
+    "zh" : "当资源预约被取消时向预约人发送提醒。"
+  },
+  "페이지를 공유할 때 주제관리자에게 알림" : {
+    "en" : "Alert the topic administrators when a page is shared.",
+    "ja" : "ページを共有する際にテーマ管理者に通知",
+    "vi" : "Thông báo cho quản trị viên chủ đề khi một trang được chia sẻ.",
+    "zh" : "当页面被共享时，向主题管理员发送提醒。"
+  },
+  "승인자가 예약 신청을 대기로 변경할 때 대여자에게 알림" : {
+    "en" : "Alert the renter when the approver changes the reservation status to pending.",
+    "ja" : "承認者が予約申請を保留に変更する際に貸与者に通知",
+    "vi" : "Thông báo cho người thuê khi người phê duyệt thay đổi trạng thái đặt lịch thành chờ xử lý.",
+    "zh" : "当审批人将预约申请改为待定时向租借者发送提醒。"
+  },
+  "결재기한" : {
+    "en" : "Approval Deadline",
+    "ja" : "決済期限",
+    "vi" : "Hạn chót phê duyệt",
+    "zh" : "审批截止日期"
+  },
+  "버튼" : {
+    "en" : "Button",
+    "ja" : "ボタン",
+    "vi" : "Nút",
+    "zh" : "按钮"
+  },
+  "업무단계변경" : {
+    "en" : "Task Stage Modified",
+    "ja" : "業務段階変更",
+    "vi" : "Thay đổi giai đoạn công việc",
+    "zh" : "工作阶段更改"
+  },
+  "받지 않음" : {
+    "en" : "Do not receive",
+    "ja" : "受信しない",
+    "vi" : "Không nhận",
+    "zh" : "不接收"
+  },
+  "결재기결재통과" : {
+    "en" : "Approval Granted in Final Review",
+    "ja" : "決済最終承認通過",
+    "vi" : "Thông qua phê duyệt",
+    "zh" : "审批通过"
+  },
+  "예약등록반려" : {
+    "en" : "Reservation Rejected",
+    "ja" : "予約登録却下",
+    "vi" : "Từ chối thêm lịch hẹn",
+    "zh" : "拒绝预订注册"
+  },
+  "별표한 알림을 제외한 모든 알림을 삭제했습니다." : {
+    "en" : "All notifications except starred ones have been deleted.",
+    "ja" : "星付きの通知以外のすべての通知を削除しました。",
+    "vi" : "Tất cả các thông báo ngoại trừ những thông báo được đánh dấu đã bị xóa.",
+    "zh" : "删除了除星号提醒之外的所有提醒。"
+  },
+  "공유 받은 일정이 수정될 때 공유자에게  알림" : {
+    "en" : "Alert sharers when a shared schedule is modified.",
+    "ja" : "共有されたスケジュールが変更された際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi lịch trình chia sẻ bị sửa đổi.",
+    "zh" : "当共享接收的日程被修改时向共享者发送提醒。"
+  },
+  "모두" : {
+    "en" : "All",
+    "ja" : "すべて",
+    "vi" : "Tất cả",
+    "zh" : "全部"
+  },
+  "결재의견 요청을 승인할 때 요청자에게 알림" : {
+    "en" : "Alert the requester when an approval opinion request is approved.",
+    "ja" : "決裁意見の要請が承認された際に要請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu ý kiến phê duyệt được chấp thuận.",
+    "zh" : "当批准审批意见请求时向请求者发送提醒。"
+  },
+  "보고 승인 요청이 있을 때 수신자에게 알림" : {
+    "en" : "Alert recipients when there is a report approval request.",
+    "ja" : "報告の承認依頼がある際に受信者に通知",
+    "vi" : "Thông báo cho người nhận khi có yêu cầu phê duyệt báo cáo.",
+    "zh" : "当有报告审批请求时向接收者发送提醒。"
+  },
+  "업무 댓글 등록" : {
+    "en" : "Register task comment",
+    "ja" : "業務コメント登録",
+    "vi" : "Thêm bình luận công việc",
+    "zh" : "上传工作回帖"
+  },
+  "신청 게시물이 등록될 때 승인자에게 알림" : {
+    "en" : "Alert approvers when an application post is registered.",
+    "ja" : "申請ポストが投稿された際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi bài viết đăng ký được thêm.",
+    "zh" : "当有新的申请帖子被登记时向审批人发送提醒。"
+  },
+  "기존 이미지 삭제" : {
+    "en" : "Delete existing images",
+    "ja" : "既存の画像を削除",
+    "vi" : "Xóa hình ảnh hiện tại",
+    "zh" : "删除基本图象"
+  },
+  "발송문서가 반송될 때 기안자에게 알림" : {
+    "en" : "Alert the drafter when the sent document is returned.",
+    "ja" : "発送文書が返送される際に起案者に通知",
+    "vi" : "Thông báo cho người soạn thảo khi tài liệu đã gửi bị trả lại.",
+    "zh" : "当发出的文件被退回时向起草人发送提醒。"
+  },
+  "게시구매완료" : {
+    "en" : "Post Purchase Completed",
+    "ja" : "ポスト購入完了",
+    "vi" : "Hoàn thành mua bài viết",
+    "zh" : "完成购买发布"
+  },
+  "일정등록" : {
+    "en" : "Event Registered",
+    "ja" : "スケジュール登録",
+    "vi" : "Sự Kiện Đã Được Thêm",
+    "zh" : "注册日程"
+  },
+  "등록자가 공유한 캘린더를 삭제할 때 공유자에게 알림" : {
+    "en" : "Alert sharers when the registrant deletes a shared calendar.",
+    "ja" : "登録者が共有したカレンダーを削除した際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi người đăng ký xóa lịch đã chia sẻ.",
+    "zh" : "当登记者删除共享的日历时向共享者发送提醒。"
+  },
+  "미작성 정기보고가 등록될 때  보고자에게 알림" : {
+    "en" : "Alert the reporter when an unwritten regular report is registered.",
+    "ja" : "未作成の定期報告が登録された際に報告者に通知",
+    "vi" : "Thông báo cho người báo cáo khi một báo cáo định kỳ chưa viết được thêm.",
+    "zh" : "当未撰写的定期报告被登记时向报告者发送提醒。"
+  },
+  "근태시간반려" : {
+    "en" : "Attendance Time Rejection",
+    "ja" : "勤怠時間却下",
+    "vi" : "Từ chối thời gian làm việc",
+    "zh" : "考勤时间拒绝"
+  },
+  "일정캘린더삭제" : {
+    "en" : "Calendar Deleted",
+    "ja" : "スケジュールカレンダー削除",
+    "vi" : "Xóa lịch trình",
+    "zh" : "取消日程日历"
+  },
+  "보고에 댓글이 등록될 때 알림" : {
+    "en" : "Alert when a comment is registered on a report.",
+    "ja" : "報告にコメントが登録された際に通知",
+    "vi" : "Thông báo khi một bình luận được thêm trên một báo cáo.",
+    "zh" : "当报告有新评论时发送提醒。"
+  },
+  "문서가 반입될 때 반출자에게 알림" : {
+    "en" : "Notification to the exporter when a document is imported.",
+    "ja" : "文書が搬入される際、搬出者に通知",
+    "vi" : "Thông báo cho người xuất khi tài liệu được nhập",
+    "zh" : "当文档被带入时，通知带出者。"
+  },
+  "알림이 재설정 되었습니다." : {
+    "en" : "Notifications have been reset.",
+    "ja" : "通知がリセットされました。",
+    "vi" : "Thông báo đã được đặt lại.",
+    "zh" : "通知已重置。"
+  },
+  "커뮤니티게시글의견등록" : {
+    "en" : "Community Post Opinion Registered",
+    "ja" : "コミュニティ投稿意見登録",
+    "vi" : "Thêm ý kiến bài viết cộng đồng",
+    "zh" : "在社区帖子中发表评论"
+  },
+  "할일이 완료 처리될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when a task is marked as completed.",
+    "ja" : "タスクが完了処理された際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi một nhiệm vụ được đánh dấu là hoàn thành.",
+    "zh" : "当工作项处理完成时，向负责人发送提醒。"
+  },
+  "알림 연동 정보" : {
+    "en" : "Notification Integration Information",
+    "ja" : "通知連動情報",
+    "vi" : "Thông tin tích hợp thông báo",
+    "zh" : "通知互连信息"
+  },
+  "예약이 등록될 때 자원관리자에게 알림" : {
+    "en" : "Alert resource managers when a reservation is made.",
+    "ja" : "予約が登録された際資源管理者に通知",
+    "vi" : "Thông báo cho người quản lý tài nguyên khi có lịch hẹn được thêm.",
+    "zh" : "当预约被登记时向资源管理员发送提醒。"
+  },
+  "쪽지 용량 임계치 초과한 사용자에게 알림" : {
+    "en" : "Alert users who exceed the memo capacity threshold.",
+    "ja" : "メッセージ容量の限界値を超えたユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi vượt ngưỡng dung lượng tin nhắn",
+    "zh" : "当用户的便笺容量超过阈值时通知用户"
+  },
+  "승인자가 예약 승인할 때 대여자에게 알림" : {
+    "en" : "Alert the renter when the approver approves the reservation.",
+    "ja" : "承認者が予約を承認する際に貸与者に通知",
+    "vi" : "Thông báo cho người thuê khi người phê duyệt chấp nhận đặt lịch.",
+    "zh" : "当审批人批准预约时向租借者发送提醒。"
+  },
+  "포스트에 댓글이 등록될 때  등록자에게 알림" : {
+    "en" : "Alert the registrant when a comment is registered on a post.",
+    "ja" : "ポストにコメントが登録された際に登録者に通知",
+    "vi" : "Thông báo cho người đăng khi một bình luận được thêm trên bài đăng.",
+    "zh" : "当帖子有新评论时向登记者发送提醒。"
+  },
+  "설문등록승인" : {
+    "en" : "Survey Registration Approved",
+    "ja" : "アンケート登録承認",
+    "vi" : "Yêu cầu thêm khảo sát được phê duyệt",
+    "zh" : "批准调查注册"
+  },
+  "결재의견승인" : {
+    "en" : "Approval Opinion Approved",
+    "ja" : "決済意見決済",
+    "vi" : "Phê duyệt ý kiến",
+    "zh" : "批准审批意见"
+  },
+  "연장근로 신청을 회수할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when an overtime work request is retracted.",
+    "ja" : "残業申請を回収する際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi yêu cầu làm thêm giờ được rút lại.",
+    "zh" : "当撤回加班申请时向审批人发送提醒。"
+  },
+  "문서 조회" : {
+    "en" : "View documents",
+    "ja" : "文書照会",
+    "vi" : "Xem tài liệu",
+    "zh" : "查询文件"
+  },
+  "게시구매대기" : {
+    "en" : "Post Purchase Pending",
+    "ja" : "ポスト購入待機",
+    "vi" : "Đang chờ mua bài viết",
+    "zh" : "待购买发布"
+  },
+  "쪽지 용량 초과로 쪽지가 수신되지 않을 때 사용자에게 알림" : {
+    "en" : "Alert users when memos are not received due to exceeding memo capacity.",
+    "ja" : "メッセージの容量超過でメッセージが受信されない場合ユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi không nhận được tin nhắn do vượt quá dung lượng tin nhắn.",
+    "zh" : "当便笺容量超过限制而无法接收时通知用户"
+  },
+  "웹 알림" : {
+    "en" : "Web Notifications",
+    "ja" : "ウェブ通知",
+    "vi" : "Thông báo trực tuyến",
+    "zh" : "Web通知"
+  },
+  "커뮤니티개설반려" : {
+    "en" : "Community Creation Rejected",
+    "ja" : "コミュニティ設立却下",
+    "vi" : "Từ chối mở cộng đồng",
+    "zh" : "拒绝社区创建"
+  },
+  "발송문서가 접수완료될 때 기안자에게 알림" : {
+    "en" : "Alert the drafter when a sent document is successfully received.",
+    "ja" : "発送文書が受付完了した際に起案者に通知",
+    "vi" : "Thông báo cho người soạn thảo khi một tài liệu đã gửi được nhận thành công.",
+    "zh" : "当发出的文件被接收完成时向起草人发送提醒。"
+  },
+  "결재의견등록" : {
+    "en" : "Approval Opinion Registered",
+    "ja" : "決済意見登録",
+    "vi" : "Thêm ý kiến phê duyệt",
+    "zh" : "记录审批意见"
+  },
+  "근무계획표 신청, 적용기간 변경 요청할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when a request to change the application period of the work schedule is made.",
+    "ja" : "勤務計画表の申請、適用期間の変更を要求した際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi có yêu cầu thay đổi thời hạn áp dụng của lịch làm việc.",
+    "zh" : "当申请工作计划表或申请更改应用期间时向审批人发送提醒。"
+  },
+  "시스템명을 입력하세요." : {
+    "en" : "Please enter the system name.",
+    "ja" : "システム名を入力してください。",
+    "vi" : "Hãy nhập tên hệ thống.",
+    "zh" : "请输入系统名称。"
+  },
+  "근태지정통보" : {
+    "en" : "Designated Attendance Notification",
+    "ja" : "勤怠指定通知",
+    "vi" : "Thông báo xác định thời gian làm việc",
+    "zh" : "通知考勤指定"
+  },
+  "메일발송승인" : {
+    "en" : "Email Sending Approved",
+    "ja" : "メール送信承認",
+    "vi" : "Phê duyệt gửi thư",
+    "zh" : "批准发送邮件"
+  },
+  "관리자가 예약을 반려할 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when the administrator rejects the reservation.",
+    "ja" : "管理者が予約を返戻した際予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi quản trị viên từ chối.",
+    "zh" : "当管理员拒绝预约时向预约人发送提醒。"
+  },
+  "평가참여요청" : {
+    "en" : "Request for Evaluation Participation",
+    "ja" : "評価参加リクエスト",
+    "vi" : "Yêu cầu tham gia đánh giá",
+    "zh" : "请求参与评分"
+  },
+  "페이지댓글등록" : {
+    "en" : "Page Comment Registered",
+    "ja" : "ページへのコメント登録",
+    "vi" : "Thêm bình luận trang",
+    "zh" : "添加页面评论"
+  },
+  "일정기념일" : {
+    "en" : "Event Anniversary",
+    "ja" : "スケジュール記念日",
+    "vi" : "Sự kiện trong lịch",
+    "zh" : "日程纪念日"
+  },
+  "결재요청" : {
+    "en" : "Approval Request",
+    "ja" : "決済要請",
+    "vi" : "Yêu cầu duyệt",
+    "zh" : "提交审批请求"
+  },
+  "편집자가 페이지 편집 초대 시 발송 되는 알림" : {
+    "en" : "Notification sent when the editor invites you to edit the page",
+    "ja" : "編集者がページ編集招待時に送信される通知",
+    "vi" : "Thông báo được gửi khi người chỉnh sửa mời chỉnh sửa trang",
+    "zh" : "编辑者在邀请页面编辑时发送的通知"
+  },
+  "게시글이 삭제될 때 사용자에게 알림" : {
+    "en" : "Alert users when a post is deleted.",
+    "ja" : "ポストが削除された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi một bài đăng bị xóa.",
+    "zh" : "当帖子被删除时向用户发送提醒。"
+  },
+  "알림 이미지 선택" : {
+    "en" : "Select Notification Image",
+    "ja" : "通知画像を選択",
+    "vi" : "Chọn hình ảnh thông báo",
+    "zh" : "选择通知图像"
+  },
+  "관리자가 대여자원 반납을 취소할 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when the administrator cancels the return of a rented resource.",
+    "ja" : "管理者が資源の返却をキャンセルする際に予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi quản trị viên hủy bỏ việc trả lại tài nguyên đã thuê.",
+    "zh" : "当管理员取消租借资源归还时向预约人发送提醒。"
+  },
+  "모듈 순서" : {
+    "en" : "Module Order",
+    "ja" : "モジュールの順序",
+    "vi" : "Thứ tự mô-đun",
+    "zh" : "模块顺序"
+  },
+  "담당자" : {
+    "en" : "Manager",
+    "ja" : "担当者",
+    "vi" : "Người phụ trách",
+    "zh" : "负责人"
+  },
+  "평가채점완료" : {
+    "en" : "Completed Evaluation Scoring",
+    "ja" : "評価採点完了",
+    "vi" : "Hoàn thành đánh giá và chấm điểm",
+    "zh" : "评分完成"
+  },
+  "승인자가 예약 반려할 때 대여자에게 알림" : {
+    "en" : "Alert the renter when the approver rejects the reservation.",
+    "ja" : "承認者が予約を返戻する際に貸与者に通知",
+    "vi" : "Thông báo cho người thuê khi người phê duyệt từ chối đặt lịch.",
+    "zh" : "当审批人拒绝预约时向租借者发送提醒。"
+  },
+  "업무에 담당자로 등록될 때 담당자에게 알림 발송" : {
+    "en" : "Send a notification to the assignee when assigned to a task.",
+    "ja" : "業務の担当者として登録された際に該当担当者に通知送信",
+    "vi" : "Gửi thông báo cho người được phân công khi được giao nhiệm vụ.",
+    "zh" : "当有人被登记为业务的负责人时向负责人发送提醒。"
+  },
+  "중간 결재자가 결재 승인할 때 알림" : {
+    "en" : "Alert when an intermediate approver approves a document.",
+    "ja" : "中間決裁者が決裁を承認した際に通知",
+    "vi" : "Thông báo khi một người phê duyệt trung gian chấp thuận một tài liệu.",
+    "zh" : "当中间审批人批准审批时发送提醒。"
+  },
+  "승인자가 게시글 승인할 때 사용자에게 알림" : {
+    "en" : "Alert users when an approver approves a post.",
+    "ja" : "承認者がポストを承認する際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi người phê duyệt chấp nhận một bài đăng.",
+    "zh" : "当审批人批准帖子时向用户发送提醒。"
+  },
+  "등록자가 일정 알림을 설정한 시간에 등록자 공유자에게 알림" : {
+    "en" : "Alert registrants and sharers at the set time for a schedule reminder.",
+    "ja" : "登録者がスケジュール通知を設定した時間に登録者、共有者に通知",
+    "vi" : "Thông báo cho người đăng ký và người chia sẻ vào thời gian đã đặt để nhắc nhở lịch trình.",
+    "zh" : "当登记者设置日程提醒时向登记者和共享者发送提醒。"
+  },
+  "결재불가(결재취소)" : {
+    "en" : "Non-approvable (Approval Cancellation)",
+    "ja" : "決裁不可（決裁取消）",
+    "vi" : "Không thể phê duyệt (hủy phê duyệt)",
+    "zh" : "审批不可（审批取消）"
+  },
+  "폴더 공유할 때 공유자에게 알림" : {
+    "en" : "Alert sharers when a folder is shared.",
+    "ja" : "フォルダを共有する際に共有者に通知",
+    "vi" : "Thông báo cho người chia sẻ khi một thư mục được chia sẻ.",
+    "zh" : "当文件夹被共享时向共享者发送提醒。"
+  },
+  "게시의견등록" : {
+    "en" : "Post Opinion Registered",
+    "ja" : "ポスト意見登録",
+    "vi" : "Thêm ý kiến bài viết",
+    "zh" : "注册发布评论"
+  },
+  "접수문서가 배부 취소될 때 문서담당자에게 알림" : {
+    "en" : "Alert the document handler when the distribution of a received document is canceled.",
+    "ja" : "受付文書の配布がキャンセルされた際に文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu khi việc phân phối một tài liệu bị hủy bỏ.",
+    "zh" : "当接收文件被取消分配时向文档负责人发送提醒。"
+  },
+  "페이지초대" : {
+    "en" : "Page Invitation",
+    "ja" : "ページ招待",
+    "vi" : "Lời mời trang",
+    "zh" : "页面邀请"
+  },
+  "근태계획승인" : {
+    "en" : "Attendance Plan Approved",
+    "ja" : "勤怠計画承認",
+    "vi" : "Phê duyệt kế hoạch thời gian làm việc",
+    "zh" : "批准考勤计划"
+  },
+  "일정공유수락" : {
+    "en" : "Event Share Accepted",
+    "ja" : "スケジュール共有承認",
+    "vi" : "Chia Sẻ Sự Kiện Được Chấp Nhận",
+    "zh" : "接受日程共享"
+  },
+  "자원반납지연" : {
+    "en" : "Resource Return Delayed",
+    "ja" : "リソース返却遅延",
+    "vi" : "Dời ngày hoàn trả",
+    "zh" : "资源归还延迟"
+  },
+  "승인자가 연장근로 신청을 승인할 때 신청자에게 알림" : {
+    "en" : "Alert the requester when the approver approves the overtime work request.",
+    "ja" : "承認者が残業申請を承認した際に申請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi người phê duyệt chấp nhận yêu cầu làm thêm giờ.",
+    "zh" : "当审批人批准加班申请时向申请者发送提醒。"
+  },
+  "게시대여신청" : {
+    "en" : "Post Rental Request",
+    "ja" : "ポスト予約要請",
+    "vi" : "Yêu cầu mượn bài viết",
+    "zh" : "申请发布租赁"
+  },
+  "일정을 다시 공유 받은 사용자에게 알림" : {
+    "en" : "Alert users who have re-received a shared schedule.",
+    "ja" : "スケジュールを再共有されたユーザーに通知",
+    "vi" : "Thông báo cho người dùng đã nhận lại lịch trình chia sẻ.",
+    "zh" : "当用户重新接收共享日程时发送提醒。"
+  },
+  "알림이 수신 되지 않으면 다시 설치해야 합니다." : {
+    "en" : "If you're not receiving notifications, you need to reinstall.",
+    "ja" : "通知が届かない場合は、再インストールする必要があります。",
+    "vi" : "Nếu bạn không nhận được thông báo, bạn cần cài đặt lại.",
+    "zh" : "如果未收到通知，则必须重新安装。"
+  },
+  "삭제 시 해당 이미지를 이용하는 알림은 실패할 수 있습니다. 삭제하시겠습니까?" : {
+    "en" : "Deleting this image may result in failed notifications that use it. Do you want to delete it?",
+    "ja" : "削除時、関連画像を利用する通知が失敗する可能性があります。削除しますか？",
+    "vi" : "Xóa hình ảnh này có thể dẫn đến thông báo không thành công do sử dụng nó. Bạn có muốn xóa nó không?",
+    "zh" : "删除时，与该图像相关的通知可能会失败。您要删除吗？"
+  },
+  "간단히 보기" : {
+    "en" : "Quick view",
+    "ja" : "簡単に見る",
+    "vi" : "Xem nhanh",
+    "zh" : "简单看"
+  },
+  "프로젝트공유" : {
+    "en" : "Project Sharing",
+    "ja" : "プロジェクト共有",
+    "vi" : "Chia sẻ dự án",
+    "zh" : "共享项目"
+  },
+  "모듈" : {
+    "en" : "Module",
+    "ja" : "モジュール",
+    "vi" : "Mô-đun",
+    "zh" : "模块"
+  },
+  "노무수령 거부됨을 계획 연차일에 출근한 사용자가 로그인할 때  알림" : {
+    "en" : "Alert when users who logged in on a planned annual leave day receive a labor receipt refusal alert.",
+    "ja" : "労務受領拒否されることを計画有休日に出勤した使用者がログインする際に通知",
+    "vi" : "Thông báo khi người dùng đăng nhập vào một ngày nghỉ hàng năm theo kế hoạch nhận được cảnh báo từ chối lao động",
+    "zh" : "当在计划年假日出勤的用户登录时向其发送拒绝劳务受领的提醒。"
+  },
+  "페이지등록승인" : {
+    "en" : "Page Registration Approved",
+    "ja" : "ページ登録承認",
+    "vi" : "Phê duyệt thêm trang",
+    "zh" : "批准页面注册"
+  },
+  "페이지삭제반려" : {
+    "en" : "Page Deletion Rejected",
+    "ja" : "ページ削除却下",
+    "vi" : "Từ chối xóa trang",
+    "zh" : "拒绝删除页面"
+  },
+  "모듈명을 입력하세요." : {
+    "en" : "Please enter a module name.",
+    "ja" : "モジュール名を入力してください。",
+    "vi" : "Vui lòng nhập tên mô-đun.",
+    "zh" : "请输入模块名称。"
+  },
+  "스페이스초대" : {
+    "en" : "Space Invitation",
+    "ja" : "スペース招待",
+    "vi" : "Mời tham gia không gian làm việc",
+    "zh" : "邀请加入空间"
+  },
+  "일감이 신규 등록될 때 알림" : {
+    "en" : "Alert when a new work item is registered.",
+    "ja" : "新しい仕事が登録された際に通知",
+    "vi" : "Thông báo khi một công việc mới được thêm.",
+    "zh" : "当新的工作项被登记时发送提醒。"
+  },
+  "채점할 평가가 있을 때 평가자에게 알림" : {
+    "en" : "Alert evaluators when there is an evaluation to grade.",
+    "ja" : "採点する評価がある際に評価者に通知",
+    "vi" : "Thông báo cho người đánh giá khi có đánh giá cần chấm điểm.",
+    "zh" : "当有评估需要打分时向评估者发送提醒。"
+  },
+  "스프레드시트 업무 댓글등록" : {
+    "en" : "Spreadsheet Task Comment Registration",
+    "ja" : "スプレッドシート業務のコメント登録",
+    "vi" : "Thêm bình luận công việc trên bảng tính",
+    "zh" : "电子表格工作评论注册"
+  },
+  "기념일에 알림 설정한 시간에  알림" : {
+    "en" : "Alert at the set time for anniversaries.",
+    "ja" : "記念日に設定された時間に通知",
+    "vi" : "Thông báo vào thời gian đã đặt cho các dịp kỷ niệm.",
+    "zh" : "在设定的纪念日提醒时间发送提醒。"
+  },
+  "핫클릭 등록이 승인될 때  신청자에게 알림" : {
+    "en" : "Alert the applicant when a Hot Click registration is approved.",
+    "ja" : "ホットクリックの登録が承認された際に申請者に通知",
+    "vi" : "Thông báo cho người nộp đơn khi đăng ký Hot Click được chấp thuận.",
+    "zh" : "当热点点击登记被批准时向申请者发送提醒。"
+  },
+  "알림제외" : {
+    "en" : "Exclude notifications",
+    "ja" : "通知除外",
+    "vi" : "Loại bỏ thông báo",
+    "zh" : "排除通知"
+  },
+  "시스템관리" : {
+    "en" : "System Management",
+    "ja" : "システム管理",
+    "vi" : "Quản lý hệ thống",
+    "zh" : "系统管理"
+  },
+  "스페이스가입거부" : {
+    "en" : "Space Membership Denied",
+    "ja" : "スペース参加拒否",
+    "vi" : "Từ chối tham gia không gian làm việc",
+    "zh" : "拒绝加入空间"
+  },
+  "새로운 메일이 도착할 때 수신자에게 알림" : {
+    "en" : "Alert recipients when a new email arrives.",
+    "ja" : "新しいメールが届いた際に受信者に通知",
+    "vi" : "Thông báo cho người nhận khi có email mới đến.",
+    "zh" : "当有新邮件到达时向收件人发送提醒。"
+  },
+  "일정캘린더공유취소" : {
+    "en" : "Calendar Share Cancellation",
+    "ja" : "スケジュールカレンダー共有キャンセル",
+    "vi" : "Hủy chia sẻ lịch trình",
+    "zh" : "取消日程日历共享"
+  },
+  "예약에 알림 설정한 시간에 등록자 공유자에게 알림" : {
+    "en" : "Alert registrants and sharers at the set time for a reservation reminder.",
+    "ja" : "設定された予約の通知時間に登録者、共有者に通知",
+    "vi" : "Thông báo cho người đăng ký và người chia sẻ vào thời gian đã đặt để nhắc nhở về lịch hẹn.",
+    "zh" : "在设置的预约提醒时间通知预约注册者和共享者。"
+  },
+  "보고 공동 작성을 요청받은 사용자에게 알림" : {
+    "en" : "Alert users who receive a co-authoring request for a report.",
+    "ja" : "報告の共同作成を依頼されたユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi nhận yêu cầu đồng tác giả cho một báo cáo.",
+    "zh" : "当用户收到共同撰写报告请求时发送提醒。"
+  },
+  "일정삭제" : {
+    "en" : "Event Deleted",
+    "ja" : "スケジュール削除",
+    "vi" : "Sự Kiện Đã Bị Xóa",
+    "zh" : "取消日程"
+  },
+  "팝업 알림 설정" : {
+    "en" : "Popup Notification Settings",
+    "ja" : "ポップアップ通知設定",
+    "vi" : "Cài đặt thông báo Popup",
+    "zh" : "弹出通知设置"
+  },
+  "요청자가 페이지 삭제 요청할 때 주제관리자에게 알림" : {
+    "en" : "Alert the topic administrator when a requester requests page deletion.",
+    "ja" : "要請者がページ削除を要請する際にテーマ管理者に通知",
+    "vi" : "Thông báo cho quản trị viên chủ đề khi có người yêu cầu xóa trang.",
+    "zh" : "当请求者申请删除页面时，向主题管理员发送提醒。"
+  },
+  "일정수정" : {
+    "en" : "Event Modified",
+    "ja" : "スケジュール修正",
+    "vi" : "Sự Kiện Đã Được Chỉnh Sửa",
+    "zh" : "修改日程"
+  },
+  "게시신청반려" : {
+    "en" : "Post Rejected",
+    "ja" : "ポスト申請却下",
+    "vi" : "Từ chối đăng ký viết bài",
+    "zh" : "拒绝发布请求"
+  },
+  "대외문서수신" : {
+    "en" : "External Document Received",
+    "ja" : "外部文書受信",
+    "vi" : "Nhận tài liệu từ bên ngoài",
+    "zh" : "外部文件接收"
+  },
+  "페이지 삭제요청을 반려할 때  요청자에게 알림" : {
+    "en" : "Alert the requester when a page deletion request is rejected.",
+    "ja" : "ページの削除要請を返戻する際の要請者への通知",
+    "vi" : "Thông báo cho người yêu cầu khi yêu cầu xóa trang bị từ chối.",
+    "zh" : "当页面删除请求被驳回时，向请求者发送提醒。"
+  },
+  "업무등록" : {
+    "en" : "Task Registered",
+    "ja" : "業務新規登録",
+    "vi" : "Thêm công việc",
+    "zh" : "工作注册"
+  },
+  "스프레드시트 업무함 업무가 수정될 때 업무함 관리자에게 알림" : {
+    "en" : "Notification to the task manager when a task in the spreadsheet task box is modified.",
+    "ja" : "スプレッドシート業務箱の業務が更新された際、業務箱管理者へ通知",
+    "vi" : "Khi công việc trong hộp công việc bảng tính được sửa đổi, thông báo cho quản lý hộp công việc",
+    "zh" : "当电子表格工作箱中的工作被修改时，通知工作箱管理员。"
+  },
+  "업무검토 요청을 받은 사용자에게 알림" : {
+    "en" : "Alert users who receive a task review request.",
+    "ja" : "業務の検討依頼を受けたユーザーに通知",
+    "vi" : "Thông báo cho người dùng nhận yêu cầu xem xét nhiệm vụ.",
+    "zh" : "当用户收到业务审核请求时发送提醒。"
+  },
+  "메모 수정" : {
+    "en" : "Edit Memo",
+    "ja" : "メモの編集",
+    "vi" : "Chỉnh sửa ghi chú",
+    "zh" : "编辑备忘录"
+  },
+  "일정공유취소" : {
+    "en" : "Event Share Canceled",
+    "ja" : "スケジュール共有キャンセル",
+    "vi" : "Hủy chia sẻ lịch trình",
+    "zh" : "取消日程共享"
+  },
+  "스페이스반려" : {
+    "en" : "Space Rejected",
+    "ja" : "スペース却下",
+    "vi" : "Từ chối không gian làm việc",
+    "zh" : "拒绝空间"
+  },
+  "결재문서가 반려될 때 알림" : {
+    "en" : "Alert when an approval document is rejected.",
+    "ja" : "決裁文書が返戻された際に通知",
+    "vi" : "Thông báo khi một tài liệu phê duyệt bị từ chối.",
+    "zh" : "当审批文档被驳回时发送提醒。"
+  },
+  "승인자가 평가 승인할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when the approver approves the evaluation.",
+    "ja" : "承認者が評価を承認する際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người phê duyệt chấp nhận đánh giá.",
+    "zh" : "当审批人批准评估时向登记者发送提醒。"
+  },
+  "유통문서 발송 실패할 때  외부문서 담당자에게 알림" : {
+    "en" : "Alert the external document handler when the dispatch of a circulation document fails.",
+    "ja" : "流通文書の送信が失敗した際に外部文書担当者に通知",
+    "vi" : "Thông báo cho người xử lý tài liệu bên ngoài khi việc gửi tài liệu lưu thông thất bại.",
+    "zh" : "当流通文件发送失败时向外部文档负责人发送提醒。"
+  },
+  "게시글에 답변이 등록될 때 사용자에게 알림" : {
+    "en" : "Alert users when a response is posted on a post.",
+    "ja" : "ポストに回答が登録された際にユーザーに通知",
+    "vi" : "Thông báo cho người dùng khi có phản hồi được đăng trên một bài đăng.",
+    "zh" : "当帖子有新回复时向用户发送提醒。"
+  },
+  "근태연장반려" : {
+    "en" : "Overtime Rejection",
+    "ja" : "勤怠時間延長却下",
+    "vi" : "Từ chối gia hạn thời gian làm việc",
+    "zh" : "拒绝延长考勤时间"
+  },
+  "메모 삭제" : {
+    "en" : "Delete Memo",
+    "ja" : "メモの削除",
+    "vi" : "Xóa ghi chú",
+    "zh" : "删除备忘录"
+  },
+  "할일에 댓글이 등록될 때 담당자에게 알림" : {
+    "en" : "Notification to the responsible person when a comment is posted on a task",
+    "ja" : "タスクにコメントが登録された際、担当者に通知",
+    "vi" : "Thông báo cho người phụ trách khi có bình luận được thêm trong công việc",
+    "zh" : "当待办事项有新评论时通知负责人"
+  },
+  "코드를 입력하세요." : {
+    "en" : "Please enter a code.",
+    "ja" : "コードを入力してください。",
+    "vi" : "Hãy nhập mã.",
+    "zh" : "请输入编码"
+  },
+  "출근부 수정을 신청할 때 관리자에게 알림" : {
+    "en" : "Alert administrators when a request to modify the attendance record is made.",
+    "ja" : "勤務表の修正を申請した際に管理者に通知",
+    "vi" : "Thông báo cho quản trị viên khi có yêu cầu sửa đổi bản ghi chấm công.",
+    "zh" : "当申请修改考勤记录时向管理员发送提醒。"
+  },
+  "아이콘 선택" : {
+    "en" : "Select icon.",
+    "ja" : "アイコン選択",
+    "vi" : "Chọn biểu tượng.",
+    "zh" : "选择图标"
+  },
+  "문서 승인 요청할 때 승인자에게 알림" : {
+    "en" : "Alert approvers when a document approval request is made.",
+    "ja" : "文書の承認をリクエストする際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi có yêu cầu phê duyệt tài liệu.",
+    "zh" : "当请求文档审批时向审批人发送提醒。"
+  },
+  "할일이 삭제될 때 담당자에게 알림" : {
+    "en" : "Alert the assignee when a task is deleted.",
+    "ja" : "タスクが削除された際に担当者に通知",
+    "vi" : "Thông báo cho người được phân công khi một nhiệm vụ bị xóa.",
+    "zh" : "当工作项被删除时，向负责人发送提醒。"
+  },
+  "삭제 시 알림 연동이 되지 않으며, 모듈정보가 같이 삭제 됩니다. 삭제 하시겠습니까?" : {
+    "en" : "Deleting it will not trigger notifications, and module information will also be deleted. Do you want to delete it?",
+    "ja" : "削除時、通知連動が行われず、モジュール情報も一緒に削除されます。削除しますか？",
+    "vi" : "Xóa nó sẽ không kích hoạt thông báo và thông tin mô-đun cũng sẽ bị xóa. Bạn có muốn xóa nó không?",
+    "zh" : "删除时，通知与模块信息将一同删除，且无法与通知互连。您确定要删除吗？"
+  },
+  "구매자가 상품 구매 요청할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a buyer requests to purchase a product.",
+    "ja" : "購入者が商品購入をリクエストする際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi có người mua yêu cầu mua sản phẩm.",
+    "zh" : "当买家请求购买商品时向登记者发送提醒。"
+  },
+  "관리자가 자원을 대여할 때 예약자에게 알림" : {
+    "en" : "Alert the reservation maker when the administrator rents out a resource.",
+    "ja" : "管理者が資源をレンタルする際に予約者に通知",
+    "vi" : "Thông báo cho người tạo lịch hẹn khi quản trị viên cho thuê tài nguyên.",
+    "zh" : "当管理员处理资源租借时向预约人发送提醒。"
+  },
+  "출근시간 조정 반려될 때 신청자에게 알림" : {
+    "en" : "Alert the requester when the adjustment of arrival time is rejected.",
+    "ja" : "出勤時間の調整が返戻された際に申請者に通知",
+    "vi" : "Thông báo cho người yêu cầu khi việc điều chỉnh thời gian chấm công bị từ chối.",
+    "zh" : "当上班时间调整被拒绝时向申请者发送提醒。"
+  },
+  "연동 데이터" : {
+    "en" : "Integration Data",
+    "ja" : "連動データ",
+    "vi" : "Dữ liệu tích hợp",
+    "zh" : "互连数据"
+  },
+  "할일복원" : {
+    "en" : "Task Restored",
+    "ja" : "タスク復元",
+    "vi" : "Khôi phục công việc cần làm",
+    "zh" : "任务恢复"
+  },
+  "일정공유삭제" : {
+    "en" : "Event Share Deleted",
+    "ja" : "スケジュール共有削除",
+    "vi" : "Chia Sẻ Sự Kiện Đã Bị Xóa",
+    "zh" : "取消日程共享"
+  },
+  "보고댓글등록" : {
+    "en" : "Report Comment Registered",
+    "ja" : "報告コメント登録",
+    "vi" : "Thêm bình luận báo cáo",
+    "zh" : "注册报告评论"
+  },
+  "메모용량" : {
+    "en" : "Memo Storage",
+    "ja" : "メモ容量",
+    "vi" : "Dung lượng ghi chú",
+    "zh" : "备忘录容量"
+  },
+  "계획 연차 일에 출근한 사용자가 노무수령 거부 알림을 확인한 출근자를 연차촉진 담당자에게 알림" : {
+    "en" : "Alert the annual leave acceleration officer when users who check the labor receipt refusal alert work on a planned annual leave day.",
+    "ja" : "計画有休日に出勤した使用者が労務受領拒否通知を確認した出勤者のことを有休促進担当者に通知",
+    "vi" : "Thông báo cho cán bộ thúc đẩy nghỉ phép hàng năm khi người dùng kiểm tra thông báo từ chối nhận công và làm việc vào ngày nghỉ phép hàng năm được lên kế hoạch.",
+    "zh" : "将在计划年假日出勤并已确认拒绝劳务受领的出勤者告知年假催促负责人"
+  },
+  "스페이스 생성 승인을 신청자에게 알림" : {
+    "en" : "Notify applicant of space creation approval",
+    "ja" : "スペース作成承認を申請者に通知する。",
+    "vi" : "Thông báo cho người xin phê duyệt về việc tạo không gian được chấp nhận",
+    "zh" : "通知申请人空间创建已获批准"
+  },
+  "대여 신청이 반려될 때 대여자에게 알림" : {
+    "en" : "Alert the borrower when a rental application is rejected.",
+    "ja" : "貸与申請が返戻された際に貸出者に通知",
+    "vi" : "Thông báo cho người thuê khi việc đăng ký bị từ chối.",
+    "zh" : "当租借申请被拒绝时向租借者发送提醒。"
+  },
+  "스프레드시트 업무 수정" : {
+    "en" : "Spreadsheet Task Modification",
+    "ja" : "スプレッドシート業務の修正",
+    "vi" : "Sửa đổi công việc trên bảng tính",
+    "zh" : "电子表格工作修改"
+  },
+  "전체 모듈" : {
+    "en" : "All Modules",
+    "ja" : "全体モジュール",
+    "vi" : "Tất cả các mô-đun",
+    "zh" : "所有模块"
+  },
+  "보고작성" : {
+    "en" : "Report Written",
+    "ja" : "報告作成",
+    "vi" : "Tạo báo cáo",
+    "zh" : "报告编写"
+  },
+  "결재선제외" : {
+    "en" : "Approval Chain Exclusion",
+    "ja" : "決済ライン除外",
+    "vi" : "Loại trừ khỏi dãy duyệt",
+    "zh" : "排除审批流程"
+  },
+  "게시예약신청" : {
+    "en" : "Post Reservation Request",
+    "ja" : "ポスト予約要請",
+    "vi" : "Yêu cầu đặt lịch đăng bài",
+    "zh" : "申请发布预订"
+  },
+  "설문등록요청" : {
+    "en" : "Request for Survey Registration",
+    "ja" : "アンケート登録要請",
+    "vi" : "Yêu cầu thêm khảo sát",
+    "zh" : "请求调查注册"
+  },
+  "중간 결재자가 결재 의견을 작성하여 승인할 때 알림" : {
+    "en" : "Alert when an intermediate approver writes an opinion and approves a document.",
+    "ja" : "中間決裁者が決裁意見を記入して承認した際に通知",
+    "vi" : "Thông báo khi một người phê duyệt trung gian viết ý kiến và chấp thuận một tài liệu.",
+    "zh" : "当中间审批人撰写审批意见后批准时发送提醒。"
+  },
+  "알림태그에 문구가 하나라도 포함되면 알림을 받지 않습니다." : {
+    "en" : "If any text is included in the notification tags, you will not receive notifications.",
+    "ja" : "通知タグにテキストが含まれている場合、通知を受け取りません。",
+    "vi" : "Nếu bất kỳ văn bản nào được bao gồm trong các thẻ thông báo, bạn sẽ không nhận thông báo.",
+    "zh" : "如果通知标签中包含任何文本，则不会收到通知。"
+  },
+  "대여 신청이 승인될 때 대여자에게 알림" : {
+    "en" : "Alert the borrower when a rental application is approved.",
+    "ja" : "貸与申請が承認された際に貸与者に通知",
+    "vi" : "Thông báo cho người thuê khi việc đăng ký được chấp thuận.",
+    "zh" : "当租借申请被批准时向租借者发送提醒。"
+  },
+  "연차 촉진제 통보 등록을 대상자에게 알림" : {
+    "en" : "Alert the target individual when an annual leave acceleration notification is registered.",
+    "ja" : "有休促進剤の通報登録を対象者に通知",
+    "vi" : "Thông báo cho đối tượng tương ứng khi công bố thúc đẩy việc nghỉ phép hàng năm được đăng ký.",
+    "zh" : "向年假催促通知对象发送登记提醒。"
+  },
+  "웹 알림 DESKTOP 알림" : {
+    "en" : "Web Notifications DESKTOP Notifications",
+    "ja" : "ウェブ通知 DESKTOP通知",
+    "vi" : "Thông báo trực tuyến thông báo trên MÁY TÍNH ĐỂ BÀN",
+    "zh" : "Web通知 DESKTOP通知"
+  },
+  "예약 신청 게시물이 등록될 때 승인자에게 알림" : {
+    "en" : "Alert approvers when a reservation request post is registered.",
+    "ja" : "予約申請のポストが投稿された際に承認者に通知",
+    "vi" : "Thông báo cho người phê duyệt khi một bài đăng yêu cầu đặt lịch được thêm.",
+    "zh" : "当预约申请帖子被登记时向审批人发送提醒。"
+  },
+  "방식" : {
+    "en" : "Method",
+    "ja" : "方法",
+    "vi" : "Phương pháp",
+    "zh" : "方式"
+  },
+  "책임자가 회원가입을 승인할 때 신청자에게 알림" : {
+    "en" : "Alert the applicant when the responsible person approves the membership.",
+    "ja" : "責任者が会員登録を承認した際に申請者に通知",
+    "vi" : "Thông báo cho người đăng ký thành viên khi người phụ trách chấp thuận.",
+    "zh" : "当负责人批准会员加入时向申请者发送提醒。"
+  },
+  "태그명을 입력하세요." : {
+    "en" : "Please enter a tag name.",
+    "ja" : "タグ名を入力してください。",
+    "vi" : "Vui lòng nhập tên thẻ.",
+    "zh" : "请输入标签名称。"
+  },
+  "이미지관리" : {
+    "en" : "Image Management",
+    "ja" : "画像管理",
+    "vi" : "Quản lý hình ảnh",
+    "zh" : "图像管理"
+  },
+  "폴더 Activity 설정한 폴더에 활동로그가 있을 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when there is an activity log in the folder set for Folder Activity.",
+    "ja" : "フォルダアクティビティで設定したフォルダに活動ログがある際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi có nhật ký hoạt động trong thư mục được thiết lập cho Hoạt Động Thư Mục.",
+    "zh" : "当设定Activity的文件夹有活动日志时向登记者发送提醒。"
+  },
+  "공유자가 일정을 삭제할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a sharer deletes the schedule.",
+    "ja" : "共有者がスケジュールを削除した際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người chia sẻ xóa lịch trình.",
+    "zh" : "当共享者删除日程时向登记者发送提醒。"
+  },
+  "결재의견" : {
+    "en" : "Approval Opinion",
+    "ja" : "決済意見",
+    "vi" : "Ý kiến phê duyệt",
+    "zh" : "审批意见"
+  },
+  "포스트 등록" : {
+    "en" : "Register",
+    "ja" : "ポスト投稿",
+    "vi" : "Thêm bài viết",
+    "zh" : "发布帖子"
+  },
+  "미완료" : {
+    "en" : "Incomplete",
+    "ja" : "未完了",
+    "vi" : "Chưa hoàn thành",
+    "zh" : "未完成"
+  },
+  "팝업 알림 허용 시간" : {
+    "en" : "Allow Popup Notifications for",
+    "ja" : "ポップアップ通知許可時間",
+    "vi" : "Cho phép thông báo Popup cho",
+    "zh" : "弹出通知允许时间"
+  },
+  "태그관리" : {
+    "en" : "Tag Management",
+    "ja" : "タグ管理",
+    "vi" : "Quản lý thẻ",
+    "zh" : "标签管理"
+  },
+  "추가정보 설정" : {
+    "en" : "Additional Information Settings",
+    "ja" : "追加情報の設定",
+    "vi" : "Thiết lập thông tin",
+    "zh" : "设定追加信息"
+  },
+  "공유자가 캘린더 공유를 거절할 때 등록자에게 알림" : {
+    "en" : "Alert the registrant when a sharer declines the calendar sharing.",
+    "ja" : "共有者がカレンダー共有を拒絶した際に登録者に通知",
+    "vi" : "Thông báo cho người đăng ký khi người chia sẻ từ chối chia sẻ lịch.",
+    "zh" : "当共享者拒绝日历共享时向登记者发送提醒。"
+  },
+  "업무삭제" : {
+    "en" : "Task Deleted",
+    "ja" : "業務削除",
+    "vi" : "Xóa công việc",
+    "zh" : "删除工作"
+  },
+  "알림이 제외 되었습니다." : {
+    "en" : "Notifications have been excluded.",
+    "ja" : "通知が除外されました。",
+    "vi" : "Thông báo đã được loại bỏ.",
+    "zh" : "通知已排除。"
+  },
+  "책임자가 회원가입을 거부할 때 신청자에게 알림" : {
+    "en" : "Alert the applicant when the responsible person denies the membership.",
+    "ja" : "責任者が会員登録を拒否した際に申請者に通知",
+    "vi" : "Thông báo cho người đăng ký thành viên khi người phụ trách từ chối.",
+    "zh" : "当负责人拒绝会员加入时向申请者发送提醒。"
+  },
+  "페이지  댓글이 등록될 때 알림" : {
+    "en" : "Alert when a comment is registered on a page.",
+    "ja" : "ページへのコメントが登録される際に通知",
+    "vi" : "Thông báo khi một bình luận được thêm trên một trang.",
+    "zh" : "当页面有新评论时，发送提醒。"
+  },
+  "실패상태 모두 완료처리" : {
+    "en" : "Mark all failed statuses as completed",
+    "ja" : "失敗状態をすべて完了処理",
+    "vi" : "Đánh dấu tất cả trạng thái thất bại là đã hoàn thành",
+    "zh" : "失败状态全部完成处理"
+  },
+  "결재접수회수" : {
+    "en" : "Approval Reclaimed",
+    "ja" : "決済受付回収",
+    "vi" : "Thu hồi tiếp nhận duyệt",
+    "zh" : "重新接收审批"
+  },
+  "승인자에게 메일 발송을 요청할 때 메일 작성자에게 알림" : {
+    "en" : "Alert the email author when requesting mail dispatch from an approver.",
+    "ja" : "承認者にメール送信を要請した際にメール作成者に通知",
+    "vi" : "Thông báo cho người viết email khi yêu cầu gửi email tới người phê duyệt.",
+    "zh" : "当请求审批人发送邮件时向邮件撰写者发送提醒。"
+  },
+  "게시대여등록" : {
+    "en" : "Post Rental Registered",
+    "ja" : "ポスト貸し出し登録",
+    "vi" : "Thêm bài viết mượn",
+    "zh" : "注册发布租赁"
+  },
+  "업무수정" : {
+    "en" : "Modify task",
+    "ja" : "業務修正",
+    "vi" : "Chỉnh sửa công việc",
+    "zh" : "修改工作内容"
+  },
+  "신청자가 회원 가입을 요청할 때 책임자에게 알림" : {
+    "en" : "Alert the responsible person when an applicant requests membership.",
+    "ja" : "申請者が会員登録を要求した際に責任者に通知",
+    "vi" : "Thông báo cho người phụ trách khi có người nộp đơn đăng ký thành viên.",
+    "zh" : "当申请者请求加入会员时向负责人发送提醒。"
+  },
+  "대여반납완료" : {
+    "en" : "Rental Return Completed",
+    "ja" : "レンタル返却完了",
+    "vi" : "Hoàn trả xong",
+    "zh" : "租赁已归还"
+  },
+  "결재패스" : {
+    "en" : "Approval Bypass",
+    "ja" : "決済パス",
+    "vi" : "Bỏ qua phê duyệt",
+    "zh" : "审批跳过"
+  }
+}

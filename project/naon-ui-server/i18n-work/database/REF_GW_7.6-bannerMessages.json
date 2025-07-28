@@ -1,0 +1,842 @@
+{
+  "세로배너 포틀릿을 설정합니다." : {
+    "en" : "Create a portrait banner portlet.",
+    "ja" : "縦のバナーポートレットを設定します。",
+    "vi" : "Cài đặt portlet banner dọc",
+    "zh" : "设定坚网幅广告portlet。"
+  },
+  "배너이미지" : {
+    "en" : "Banner Image",
+    "ja" : "バナー画像",
+    "vi" : "Hình ảnh banner",
+    "zh" : "Banner图象"
+  },
+  "이미지 형식 (gif, jpg, png)" : {
+    "en" : "Image Format (gif, jpg, png)",
+    "ja" : "画像形式 (gif、jpg、png)",
+    "vi" : "loại file (gif, jpg, png)",
+    "zh" : "图象形式 (gif, jpg, png)"
+  },
+  "조회" : {
+    "en" : "View",
+    "ja" : "照会",
+    "vi" : "Xem",
+    "zh" : "查询"
+  },
+  "메인화면의 하단 배너를 설정합니다." : {
+    "en" : "You can set up the bottom banner on the main screen.",
+    "ja" : "メイン画面の下段バナーを設定します。",
+    "vi" : "Cài đặt banner dưới của màn hình chính",
+    "zh" : "设置定主画面的下端Banner"
+  },
+  "삭제 되었습니다" : {
+    "en" : "Successfully deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã xóa",
+    "zh" : "已删除"
+  },
+  "메인 하단 배너" : {
+    "en" : "Main Bottom Banner",
+    "ja" : "メインの下部バナー",
+    "vi" : "Banner chính dưới",
+    "zh" : "主页下端网幅广告"
+  },
+  "매일" : {
+    "en" : "Daily",
+    "ja" : "毎日",
+    "vi" : "Hàng ngày",
+    "zh" : "每日"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Would you like to delete?",
+    "ja" : "完全に削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要完全删除吗?"
+  },
+  "예) Copyright" : {
+    "en" : "Example) Copyright",
+    "ja" : "例）Copyright",
+    "vi" : "Ví dụ) Copyright",
+    "zh" : "例) Copyright"
+  },
+  "맨위로" : {
+    "en" : "To the top",
+    "ja" : "Topへ",
+    "vi" : "Phía trên cùng",
+    "zh" : "最上边"
+  },
+  "삭제 되었습니다." : {
+    "en" : "Already deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã xóa",
+    "zh" : "删除了。"
+  },
+  "변경할 배너를 선택하세요." : {
+    "en" : "Please select a banner to change.",
+    "ja" : "変更するバナーを選択してください。",
+    "vi" : "Hãy chọn banner để thay đổi.",
+    "zh" : "请选择要变更的加框广告。"
+  },
+  "삭제" : {
+    "en" : "delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "사용 여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Có sử dụng hay không",
+    "zh" : "样式类型"
+  },
+  "이메일" : {
+    "en" : "email",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "RSS검사" : {
+    "en" : "RSS Check",
+    "ja" : "RSS検査",
+    "vi" : "Kiểm tra RSS",
+    "zh" : "RSS检查"
+  },
+  "경로" : {
+    "en" : "Path",
+    "ja" : "経路",
+    "vi" : "đường dẫn",
+    "zh" : "路径"
+  },
+  "통합에서 링크게시로 유형 변경할때 기능이 제한됩니다." : {
+    "en" : "When you change the type from Integration to Post Link, the function will be restricted.",
+    "ja" : "統合掲示からリンク掲示にタイプ変更は機能が制限されます。",
+    "vi" : "Chức năng bị hạn chế khi thay đổi kiểu từ tích hợp sang đăng liên kết",
+    "zh" : "在整合变更为链接公告类型时功能会有限制。"
+  },
+  "로그인 로고" : {
+    "en" : "Login logo",
+    "ja" : "ログインロゴ",
+    "vi" : "Logo đăng nhập",
+    "zh" : "登录标志"
+  },
+  "배너 이미지" : {
+    "en" : "Banner Image",
+    "ja" : "バナー画像",
+    "vi" : "Hình ảnh banner",
+    "zh" : "网幅广告图像"
+  },
+  "이미지" : {
+    "en" : "Image",
+    "ja" : "画像",
+    "vi" : "Hình ảnh",
+    "zh" : "图像"
+  },
+  "하단 프레임" : {
+    "en" : "Bottom frame",
+    "ja" : "下段フレーム",
+    "vi" : "Khung dưới",
+    "zh" : "下端框架"
+  },
+  "로그인 화면 로고와 브라우저 파비콘을 및 바닥글을 등록하고 관리합니다." : {
+    "en" : "Register and manage login screen logos, browser favicons, and footers.",
+    "ja" : "ログイン画面のロゴ、ブラウザのファビコンとフッターを登録および管理します。",
+    "vi" : "Đăng ký và quản lý logo màn hình đăng nhập, biểu ngữ trình duyệt và chân trang.",
+    "zh" : "管理登录界面的标志、浏览器图标和页脚。"
+  },
+  "이미지 크기 {0}, gif, jpg, png 형식" : {
+    "en" : "Image size {0}, gif, jpg, png format",
+    "ja" : "画像サイズ{0}、gif、jpg、png形式",
+    "vi" : "Kích thước hình ảnh {0}, định dạng gif, jpg, png",
+    "zh" : "图像大小 {0}, gif, jpg, png 形式"
+  },
+  "이미지 크기 16*16, ico, png 형식" : {
+    "en" : "Image size 16*16, ico and png type",
+    "ja" : "画像サイズ16*16、ico、png形式",
+    "vi" : "Kích thước hình ảnh 16 * 16, định dạng ico, png",
+    "zh" : "图像大小16*16, ico,png 形式"
+  },
+  "배너 수정" : {
+    "en" : "Modify banner",
+    "ja" : "バナー修正",
+    "vi" : "Sửa banner",
+    "zh" : "Banner修改"
+  },
+  "메인상단 배너" : {
+    "en" : "Main top banner",
+    "ja" : "メイン上段バナー",
+    "vi" : "Banner chính trên",
+    "zh" : "主上端Banner"
+  },
+  "중복된 도메인 명은 추가하실 수 없습니다." : {
+    "en" : "You cannot add a duplicate domain name.",
+    "ja" : "重複したドメイン名は追加できません。",
+    "vi" : "Bạn không thể thêm tên miền trùng lặp.",
+    "zh" : "不能添加重复的域名。"
+  },
+  "등록된 배너가 없습니다." : {
+    "en" : "No banner has been registered.",
+    "ja" : "登録されたバナーがありません。",
+    "vi" : "Không có banner nào được đăng ký",
+    "zh" : "没有登录的网幅广告。"
+  },
+  "배너 유형" : {
+    "en" : "Banner Type",
+    "ja" : "バナータイプ",
+    "vi" : "Loại Banner",
+    "zh" : "标语类型"
+  },
+  "대상시스템URL" : {
+    "en" : "Target System URL",
+    "ja" : "対象システムURL",
+    "vi" : "Đối tượng URL hệ thống",
+    "zh" : "对象系统URL"
+  },
+  "로그인 화면의 배너를 등록하고 관리합니다." : {
+    "en" : "Register/Manage the banner of the login screen.",
+    "ja" : "ログイン画面のバナーを登録して管理します。",
+    "vi" : "Đăng ký và quản lý banner màn hình đăng nhập.",
+    "zh" : "登录而管理登录画面的网幅广告。"
+  },
+  "로그인 타이틀" : {
+    "en" : "Login title",
+    "ja" : "ログインタイトル",
+    "vi" : "Tiêu đề đăng nhập",
+    "zh" : "登录名"
+  },
+  "파일함" : {
+    "en" : "File box",
+    "ja" : "ファイルBox",
+    "vi" : "Hộp file",
+    "zh" : "文件箱"
+  },
+  "작업" : {
+    "en" : "Work",
+    "ja" : "作業",
+    "vi" : "Thao tác",
+    "zh" : "作业"
+  },
+  "이미지명" : {
+    "en" : "Image Name",
+    "ja" : "画像名",
+    "vi" : "Tên hình ảnh",
+    "zh" : "图像名"
+  },
+  "배너 추가" : {
+    "en" : "Add banner",
+    "ja" : "バナー追加",
+    "vi" : "Thêm banner",
+    "zh" : "追加Banner"
+  },
+  "댓글등록시 알림" : {
+    "en" : "Send a notification when a new comment is added.",
+    "ja" : "コメント登録時の通知",
+    "vi" : "Thông báo khi đăng bình luận",
+    "zh" : "有回帖时提示"
+  },
+  "가로배너 포틀릿을 설정합니다." : {
+    "en" : "Create a landscape banner portlet.",
+    "ja" : "横のバナーポートレットを設定します。",
+    "vi" : "Cài đặt portlet banner ngang",
+    "zh" : "设定横网幅广告portlet。"
+  },
+  "화면 유형" : {
+    "en" : "Screen type",
+    "ja" : "画面タイプ",
+    "vi" : "Loại màn hình",
+    "zh" : "画面类型"
+  },
+  "질문답변" : {
+    "en" : "Q&A",
+    "ja" : "質問回答",
+    "vi" : "Trả lời câu hỏi",
+    "zh" : "提问答复"
+  },
+  "메인 상단배너 관리" : {
+    "en" : "Manage main top banners",
+    "ja" : "メイン上段バナー管理",
+    "vi" : "Quản lý banner chính trên",
+    "zh" : "主上端Banner管理"
+  },
+  "삭제 하시면 복구 하실 수 없습니다. 그래도 삭제 하시겠습니까?" : {
+    "en" : "Once you delete it, it cannot be restored. Are you sure you want to proceed?",
+    "ja" : "削除すると復旧できません。削除してもよろしいですか？",
+    "vi" : "Sau khi xóa thì bạn không thể khôi phục. Bạn có muốn xóa phải không?",
+    "zh" : "删除的话不可复原。还是要删除吗？"
+  },
+  "로그인화면의 배너를 설정합니다." : {
+    "en" : "You can set up the banner on the login screen.",
+    "ja" : "ログイン画面のバナーを設定します。",
+    "vi" : "Cài đặt Banner của màn hình đăng nhập",
+    "zh" : "设定登录画面的横幅广告"
+  },
+  "매주 월요일" : {
+    "en" : "Every Monday",
+    "ja" : "毎週月曜日",
+    "vi" : "Thứ 2 hàng tuần",
+    "zh" : "每周一"
+  },
+  "랜덤" : {
+    "en" : "Random",
+    "ja" : "ランダム",
+    "vi" : "Ngẫu nhiên",
+    "zh" : "随机"
+  },
+  "저장 되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "도메인 정보를 삭제하시겠습니까?  해당 도메인으로 등록한 모든 로고, 배너 및 로그인공지가 같이 삭제됩니다." : {
+    "en" : "Do you want to delete domain information? All logos, banners, and login notices registered with this domain will be deleted as well.",
+    "ja" : "ドメイン情報を削除しますか？ このドメインで登録されたすべてのロゴ、バナー、ログイン通知も一緒に削除されます。",
+    "vi" : "Bạn có muốn xóa thông tin tên miền không? Tất cả logo, biểu ngữ và thông báo đăng nhập đã đăng ký cùng với tên miền này cũng sẽ bị xóa.",
+    "zh" : "您要删除域名信息吗？删除后，与该域名关联的所有标志、横幅和登录通知都将被删除。"
+  },
+  "로그인 배너" : {
+    "en" : "Login banner",
+    "ja" : "ログインバナー",
+    "vi" : "Đăng nhập banner",
+    "zh" : "登录Banner"
+  },
+  "로그인 화면" : {
+    "en" : "Login page",
+    "ja" : "ログイン画面",
+    "vi" : "Màn hình đăng nhập",
+    "zh" : "登录画面"
+  },
+  "이미지 크기 509*140, 형식 gif, jpg, png" : {
+    "en" : "Image size 509*140, Format gif, jpg, png",
+    "ja" : "画像サイズ 509*140, 形式 gif, jpg, png",
+    "vi" : "Kích cỡ hình ảnh 509*140, định dạng gif, jpg, png",
+    "zh" : "图象大小 509*140, 形式 gif, jpg, png"
+  },
+  "선택된 게시판 템플릿과 동일한 게시판을 생성합니다." : {
+    "en" : "You can use the template of the selected bulletin board to create a bulletin board with a same template.",
+    "ja" : "選択された掲示板のテンプレートと同じ掲示板を生成します。",
+    "vi" : "Tạo bảng tin thống nhất với mẫu bảng tin đã được chọn",
+    "zh" : "建立跟选择的布告栏模板同样的布告栏。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "메인 상단 배너" : {
+    "en" : "Main Top Banner",
+    "ja" : "メインの上部バナー",
+    "vi" : "Banner chính trên",
+    "zh" : "主页上端网幅广告"
+  },
+  "새창" : {
+    "en" : "New window",
+    "ja" : "新しいウィンドウ",
+    "vi" : "Cưa số mới",
+    "zh" : "新窗口"
+  },
+  "맨아래" : {
+    "en" : "To the Bottom",
+    "ja" : "最下部",
+    "vi" : "Phía dưới cùng",
+    "zh" : "最下边"
+  },
+  "이미지 크기 130*45, 형식 gif, jpg, png" : {
+    "en" : "Image size 130*45, Format gif, jpg, png",
+    "ja" : "画像サイズ130*45、形式 gif、jpg、png",
+    "vi" : "Kích cỡ hình ảnh 130*45, định dạng gif, jpg, png",
+    "zh" : "图象大小130*45, 形式 gif, jpg, png"
+  },
+  "이미지는 최대 10개까지 등록 가능합니다." : {
+    "en" : "You can register up to 10 images.",
+    "ja" : "画像は最大10個まで登録可能です。",
+    "vi" : "Có thể đăng ký tối đa 10 hình ảnh",
+    "zh" : "图像最多可以登录10个。"
+  },
+  "공통" : {
+    "en" : "Common",
+    "ja" : "共通",
+    "vi" : "Chung",
+    "zh" : "共同"
+  },
+  "배너명" : {
+    "en" : "Banner name",
+    "ja" : "バナー名",
+    "vi" : "Tên Banner",
+    "zh" : "网幅广告名"
+  },
+  "이미지 크기 156*40, gif, jpg, png 형식" : {
+    "en" : "Image size is 156*40 and Image format in gif, jpg, png only.",
+    "ja" : "画像サイズ156*40、gif、jpg、png形式",
+    "vi" : "Kích cỡ hình ảnh 156*40, định dạng gif, jpg, png",
+    "zh" : "图像大小 156*40, gif, jpg, png 形式"
+  },
+  "메인 로고" : {
+    "en" : "Main logo",
+    "ja" : "メインロゴ",
+    "vi" : "Logo chính",
+    "zh" : "主标志"
+  },
+  "슬라이드 간격값은 3자리까지 입력 가능합니다." : {
+    "en" : "The slide interval value may be entered up to 3 digits.",
+    "ja" : "スライドの間隔値は3桁まで入力できます。",
+    "vi" : "Giá trị khoảng thời gian xê dịch có thể được nhập tối đa 3 chữ số.",
+    "zh" : "幻灯片间隔值可输入3位数。"
+  },
+  "로그인배너 관리" : {
+    "en" : "Manage login banner",
+    "ja" : "ログインバナー管理",
+    "vi" : "Quản lý banner đăng nhập",
+    "zh" : "登录横幅广告管理"
+  },
+  "구매하기" : {
+    "en" : "Purchase",
+    "ja" : "購入する",
+    "vi" : "Mua",
+    "zh" : "购买"
+  },
+  "화면의 바닥글을 입력하십시오. (한글 1000자 미만)" : {
+    "en" : "Please enter footer. (Max. 1,000 Korean chars.)",
+    "ja" : "画面フッターを入力してください。(ハングル1000文字未満)",
+    "vi" : "Hãy nhập Footer của màn hình (dưới 1000 chữ tiếng Hàn)",
+    "zh" : "请输入画面的Footer (不超过韩文1000字)"
+  },
+  "교체 주기" : {
+    "en" : "Replacement Cycle",
+    "ja" : "入れ替え周期",
+    "vi" : "Chu kì thay thế",
+    "zh" : "交换周期"
+  },
+  "파비콘 등록" : {
+    "en" : "Add favicons",
+    "ja" : "ファビコン登録",
+    "vi" : "Thêm biểu tượng yêu thích",
+    "zh" : "登录favicon"
+  },
+  "미조회자" : {
+    "en" : "People who haven't viewed",
+    "ja" : "未照会者",
+    "vi" : "Chưa có người xem",
+    "zh" : "未查询者"
+  },
+  "배너 관리" : {
+    "en" : "Manage Banner",
+    "ja" : "バナー管理",
+    "vi" : "Quản lý banner",
+    "zh" : "网幅广告管理"
+  },
+  "화면 바닥글" : {
+    "en" : "Footer",
+    "ja" : "画面フッター",
+    "vi" : "Footer trên màn hình",
+    "zh" : "画面Footer"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "URL을 입력하세요." : {
+    "en" : "Enter URL.",
+    "ja" : "URLを入力してください。",
+    "vi" : "Hãy nhập tên Banner",
+    "zh" : "请输入URL。"
+  },
+  "파비콘" : {
+    "en" : "Favicon",
+    "ja" : "パビコン",
+    "vi" : "Biểu tượng trang (Favicon)",
+    "zh" : "网页图标"
+  },
+  "도메인 명은 필수입니다" : {
+    "en" : "Domain name is mandatory.",
+    "ja" : "ドメイン名は必須です",
+    "vi" : "Tên miền là bắt buộc.",
+    "zh" : "域名是必填项。"
+  },
+  "메인 화면의 상단 배너를 등록하고 관리합니다." : {
+    "en" : "Register/Manage the top banner of the main screen.",
+    "ja" : "メイン画面の上部バナーを登録して管理します。",
+    "vi" : "Đăng ký và quản lý banner trên của màn hình chính",
+    "zh" : "登录而管理主页的上端网幅广告。"
+  },
+  "이미지 밝기를 설정하세요." : {
+    "en" : "Set the brightness of an image.",
+    "ja" : "画像の明るさを設定してください。",
+    "vi" : "Đặt độ sáng của hình ảnh.",
+    "zh" : "请设置照片亮度。"
+  },
+  "배너 이미지의 정보를 수정합니다." : {
+    "en" : "Modify the banner image information.",
+    "ja" : "バナー画像の情報を修正します。",
+    "vi" : "Sửa thông tin hình ảnh banner",
+    "zh" : "修改横幅广告图像信息"
+  },
+  "로그인 화면, 메인 화면의 회사 로고와 브라우저 파비콘 및 화면 바닥글을 등록하고 관리합니다." : {
+    "en" : "Register/Manage the company logo in the login screen & main screen, browser favicon, and the footer.",
+    "ja" : "ログイン画面、メイン画面の会社ロゴとブラウザファビコンと画面のフッターを登録して管理します。",
+    "vi" : "Bạn có thể thêm và quản lý logo công ty, biểu tượng yêu thích trong trình duyệt và phần footer của trang đăng nhập và trang chủ.",
+    "zh" : "登录而管理登录画面，主页的公司标志和浏览器收藏夹图标及画面页脚。"
+  },
+  "이미지 수정" : {
+    "en" : "Modify Image",
+    "ja" : "画像変更",
+    "vi" : "Sửa hình ảnh",
+    "zh" : "修改图像"
+  },
+  "화면 바닥글은 다음 로그인시 적용됩니다." : {
+    "en" : "The footer will be applied when you login next time.",
+    "ja" : "画面フッターは次のログイン時に適用されます。",
+    "vi" : "Footer trên màn hình được áp dụng sau khi đăng nhập",
+    "zh" : "画面Footer从新登录时适用"
+  },
+  "수정 되었습니다." : {
+    "en" : "Modified.",
+    "ja" : "修正されました。",
+    "vi" : "Đã sửa",
+    "zh" : "修改了。"
+  },
+  "메인배너 사용" : {
+    "en" : "Use main banner",
+    "ja" : "メインバナー使用",
+    "vi" : "Sử dụng Banner chính",
+    "zh" : "使用主Banner"
+  },
+  "사용자 갤러리" : {
+    "en" : "User's gallery",
+    "ja" : "ユーザーギャラリー",
+    "vi" : "Gallery người dùng",
+    "zh" : "使用者画廊"
+  },
+  "세로형" : {
+    "en" : "Portrait",
+    "ja" : "縦型",
+    "vi" : "Chân dung",
+    "zh" : "竖形"
+  },
+  "배너포틀릿(세로)" : {
+    "en" : "Banner Portlet (Vertical)",
+    "ja" : "バナーポートレット(縦)",
+    "vi" : "Banner Portlet (Dọc)",
+    "zh" : "Banner Portlet(竖)"
+  },
+  "변경된 내용을 저장하였습니다." : {
+    "en" : "Changes have been saved.",
+    "ja" : "変更された内容を保存しました。",
+    "vi" : "Đã lưu nội dung được thay đổi",
+    "zh" : "保存已变更的内容"
+  },
+  "가로형" : {
+    "en" : "Landscape",
+    "ja" : "横型",
+    "vi" : "Đặt ngang",
+    "zh" : "横形"
+  },
+  "이미지 추가" : {
+    "en" : "Add an image",
+    "ja" : "画像追加",
+    "vi" : "Thêm ảnh",
+    "zh" : "追加图像"
+  },
+  "로그인 화면 배너를 등록하고 관리합니다. 단, 그룹웨어 도메인이 동일하면 대표회사의 로그인 배너로 조회됩니다." : {
+    "en" : "Register and manage banners on the login screen. Note that if the groupware domain is the same, the login banner of the parent company will be displayed.",
+    "ja" : "ログイン画面のバナーを登録および管理します。ただし、グループウェアのドメインが同じ場合、代表会社のログインバナーが表示されます。",
+    "vi" : "Đăng ký và quản lý biểu ngữ trên màn hình đăng nhập. Lưu ý, nếu tên miền groupware giống nhau, biểu ngữ đăng nhập của công ty mẹ sẽ được hiển thị.",
+    "zh" : "管理登录界面的横幅。但是，如果Groupware域名相同，则将显示代表公司的登录横幅。"
+  },
+  "닫기" : {
+    "en" : "close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "關閉"
+  },
+  "배너포틀릿(가로)" : {
+    "en" : "Banner Portlet (Horizontal)",
+    "ja" : "バナーポートレット(横)",
+    "vi" : "Banner Portlet (Ngang)",
+    "zh" : "Banner Portlet(横)"
+  },
+  "저장" : {
+    "en" : "save",
+    "ja" : "保存",
+    "vi" : "Lưu",
+    "zh" : "存储"
+  },
+  "배너관리" : {
+    "en" : "Manage banners",
+    "ja" : "バナー管理",
+    "vi" : "Quản lý banners",
+    "zh" : "Banner管理"
+  },
+  "ico, png 만 가능합니다." : {
+    "en" : "Only ico and png types are applicable.",
+    "ja" : "ico、pngのみ可能です。",
+    "vi" : "Chỉ có thể sử dụng ico, png.",
+    "zh" : "只能进行ico, png。"
+  },
+  "위로" : {
+    "en" : "up",
+    "ja" : "上へ",
+    "vi" : "Phía trên",
+    "zh" : "往上边"
+  },
+  "URL을 확인하세요." : {
+    "en" : "Check the URL.",
+    "ja" : "URLを確認してください。",
+    "vi" : "Hãy kiểm tra URL",
+    "zh" : "请确认以下URL。"
+  },
+  "[사용안함]으로 설정할 경우 메인 상단 배너가 표시되지 않습니다." : {
+    "en" : "Check [Don't Use] to make the top banner on the main page disappear.",
+    "ja" : "[使用しない]に設定した場合、メインの上部バナーが表示されません。",
+    "vi" : "Trong trường hợp cài đặt là [Không sử dụng] thì banner chính trên không hiển thị",
+    "zh" : "设定为[不使用]的话不表示出主页上端网幅广告。"
+  },
+  "로고 이미지" : {
+    "en" : "Logo Image",
+    "ja" : "ロゴ画像",
+    "vi" : "Hình ảnh logo",
+    "zh" : "标志图象"
+  },
+  "도메인 추가" : {
+    "en" : "Add Domain",
+    "ja" : "ドメインを追加",
+    "vi" : "Thêm tên miền",
+    "zh" : "添加域名"
+  },
+  "메인화면의 상단 배너를 설정합니다." : {
+    "en" : "You can set up the top banner on the main screen.",
+    "ja" : "メイン画面の上段バナーを設定します。",
+    "vi" : "Cài đặt Banner trên của màn hình chính",
+    "zh" : "设定主画面的上端Banner"
+  },
+  "사용여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Có sử dụng hay không",
+    "zh" : "是否使用"
+  },
+  "레이아웃" : {
+    "en" : "Layout",
+    "ja" : "レイアウト",
+    "vi" : "Bố cục",
+    "zh" : "布局"
+  },
+  "배너명을 입력하세요." : {
+    "en" : "Enter the banner name.",
+    "ja" : "バナー名を入力してください。",
+    "vi" : "Hãy nhập tên Banner",
+    "zh" : "请输入网幅广告名"
+  },
+  "로그인 화면의 배너를 등록하고 관리합니다. 단, 그룹웨어 도메인이 동일하면 대표회사의 로그인 배너로 조회됩니다." : {
+    "en" : "Register/Manage the banners on the login screen. However, if the Groupware domain is identical, the login banner of the representative company will be searched.",
+    "ja" : "ログイン画面のバナーを登録して管理します。ただし、グル-プウェアドメインが同一すると、代表会社のログインバナーで照会されます。",
+    "vi" : "Đăng ký và quản lý các biểu ngữ trên màn hình đăng nhập. Tuy nhiên, nếu tên miền nhóm giống hệt nhau, biểu ngữ đăng nhập của công ty đại diện sẽ được tìm kiếm.",
+    "zh" : "登录页面的横幅进行登记和管理。 但是,如果群发网域名相同,可以查询到代表公司的登录页面。"
+  },
+  "이미지 크기 695*140, 형식 gif, jpg, png" : {
+    "en" : "Image size 695*140, Format gif, jpg, png",
+    "ja" : "画像サイズ695*140、形式 gif、jpg、png",
+    "vi" : "Kích cỡ hình ảnh 695*140, định dạng gif, jpg, png",
+    "zh" : "图象大小 695*140, 形式 gif, jpg, png"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "로그인화면과 메인화면의 로고를 설정합니다." : {
+    "en" : "You can set up the login and main screen logo.",
+    "ja" : "ログイン画面とメイン画面のロゴを設定します。",
+    "vi" : "Cài đặt màn hình đăng nhập và logo của màn hình chính",
+    "zh" : "设定登录画面和主画面的Logo"
+  },
+  "아래" : {
+    "en" : "down",
+    "ja" : "下へ",
+    "vi" : "Phía dưới",
+    "zh" : "往下边"
+  },
+  "[사용안함]으로 설정할 경우 메인 하단 배너가 표시되지 않습니다." : {
+    "en" : "Check [Don't Use] to make the bottom banner on the main page disappear.",
+    "ja" : "[使用しない]に設定した場合、メインの下部バナーが表示されません。",
+    "vi" : "Trong trường hợp cài đặt là [Không sử dụng] thì banner chính dưới không hiển thị",
+    "zh" : "设定为[不使用]的话不表示出主页下端网幅广告。"
+  },
+  "새로운 배너 이미지를 추가합니다." : {
+    "en" : "Add a new banner image.",
+    "ja" : "新しいバナー画像を追加します。",
+    "vi" : "Thêm hình ảnh banner mới",
+    "zh" : "追加新横幅广告图像"
+  },
+  "메인하단 배너" : {
+    "en" : "Main bottom banner",
+    "ja" : "メイン下段バナー",
+    "vi" : "Banner chính dưới",
+    "zh" : "主下端Banner"
+  },
+  "게시글을 이동하였습니다." : {
+    "en" : "The article has been moved.",
+    "ja" : "掲示物を移動しました。",
+    "vi" : "Đã di chuyển bài đăng",
+    "zh" : "公告内容移动完了。"
+  },
+  "소셜 로그인" : {
+    "en" : "Social login",
+    "ja" : "SNSログイン",
+    "vi" : "Đăng nhập mạng xã hội",
+    "zh" : "社交登录"
+  },
+  "메인 하단배너 관리" : {
+    "en" : "Manage main bottom banners",
+    "ja" : "メイン下段バナー管理",
+    "vi" : "Quản lý banner chính dưới",
+    "zh" : "主下端Banner管理"
+  },
+  "배너 클릭시 입력된 URL로 이동합니다." : {
+    "en" : "Go to the URL entered when the banner is clicked.",
+    "ja" : "バナークリックの際、入力されたURLへ移動します。",
+    "vi" : "Chuyển đến URL được nhập khi nhấp vào biểu ngữ.",
+    "zh" : "点击横幅时移动至输入的URL。"
+  },
+  "갤러리 포틀릿에 사용할 이미지를 등록 합니다." : {
+    "en" : "Register an image that will be used for the gallery portlet.",
+    "ja" : "ギャラリーポートレットに使用する画像を登録します。",
+    "vi" : "Đăng ký hình ảnh sẽ sử dụng trong Gallery Portlet",
+    "zh" : "登录在画廊portlet上要使用的图像。"
+  },
+  "메인 화면의 하단 배너를 등록하고 관리합니다." : {
+    "en" : "Register/Manage the bottom banner of the main screen.",
+    "ja" : "メイン画面の下部バナーを登録して管理します。",
+    "vi" : "Đăng ký và quản lý banner dưới của màn hình chính",
+    "zh" : "登录而管理主页的下端网幅广告。"
+  },
+  "수정" : {
+    "en" : "modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "메인 화면" : {
+    "en" : "Main page",
+    "ja" : "メイン画面",
+    "vi" : "Màn hình chính",
+    "zh" : "主页"
+  },
+  "도메인을 입력해주세요" : {
+    "en" : "Please enter a domain.",
+    "ja" : "ドメインを入力してください。",
+    "vi" : "Vui lòng nhập tên miền.",
+    "zh" : "请输入域名"
+  },
+  "로고 관리" : {
+    "en" : "Manage logo",
+    "ja" : "ロゴ管理",
+    "vi" : "Quản lý logo",
+    "zh" : "Logo管理"
+  },
+  "게시글을 복사하였습니다." : {
+    "en" : "The article has been copied.",
+    "ja" : "掲示物をコピーしました。",
+    "vi" : "Đã sao chép bài đăng",
+    "zh" : "公告内容拷贝完了。"
+  },
+  "배너 이미지를 선택하세요." : {
+    "en" : "Please select a banner image.",
+    "ja" : "バナー画像を選択してください。",
+    "vi" : "Hãy chọn hình ảnh banner",
+    "zh" : "请选择加框图像。"
+  },
+  "이미지 크기 165*45, gif, jpg, png 형식" : {
+    "en" : "Image size is 165*45 and Image format in gif, jpg, png only.",
+    "ja" : "画像サイズ165*45、gif、jpg、png形式",
+    "vi" : "Kích cỡ hình ảnh 165*45, loại file gif, jpn, png",
+    "zh" : "图像大小 165*45, gif, jpg, png 形式"
+  },
+  "테마색 배경의 로고 이미지, 이미지 크기 165*45, gif, jpg, png 형식" : {
+    "en" : "Theme color background logo image, image size 165*45, gif, jpg, png format",
+    "ja" : "テーマの色、背景のロゴ画像は、画像サイズ165 * 45、gif、jpg、png形式",
+    "vi" : "Hình ảnh logo nền màu phông nền, kích cỡ 165*45, định dạng gif, jpg, png",
+    "zh" : "主题色背景的标志形象，形象大小 165*45, gif, jpg, png形式"
+  },
+  "이미지 크기 670*250, 형식 gif, jpg, png" : {
+    "en" : "Image size 670*250, Format gif, jpg, png",
+    "ja" : "画像サイズ670*250、形式 gif、jpg、png",
+    "vi" : "Kích cỡ hình ảnh 670*250, định dạng gif, jpg, png",
+    "zh" : "图象大小 670*250, 形式 gif, jpg, png"
+  },
+  "새로운 이미지를 추가합니다." : {
+    "en" : "Add a new Image.",
+    "ja" : "新しい画像を追加します。",
+    "vi" : "Thêm hình ảnh mới",
+    "zh" : "追加新的图像。"
+  },
+  "한글 기준 1000자, 화면 바닥글은 다음 로그인시 부터 적용됩니다." : {
+    "en" : "Max. 2,000 Korean chars. Footer will come into effect after your next login.",
+    "ja" : "ハングル基準1000文字、画面のフッターには、次のログイン時から適用されます。",
+    "vi" : "Tiêu chuẩn chữ tiếng Hàn 1000 chữ, Footer màn hình được áp dụng sau khi đăng nhập",
+    "zh" : "韩文为准 1000字, 画面底面文章的话下次登录开始适用。"
+  },
+  "이미지 크기 225*250, 형식 gif, jpg, png" : {
+    "en" : "Image size 225*250, Format gif, jpg, png",
+    "ja" : "画像サイズ 225*250, 形式 gif, jpg, png",
+    "vi" : "Kích cỡ hình ảnh 225*250, định dạng gif, jpg, png",
+    "zh" : "图象大小 225*250, 形式 gif, jpg, png"
+  },
+  "슬라이드 간격값을 입력해주세요." : {
+    "en" : "Enter a slide interval value.",
+    "ja" : "スライドの間隔値を入力してください。",
+    "vi" : "Nhập giá trị khoảng thời gian xê dịch.",
+    "zh" : "请输入幻灯片间隔值。"
+  },
+  "로그인 화면, 메인 화면의 회사 로고와 화면 바닥글을 등록하고 관리합니다." : {
+    "en" : "Register/Manage the company logo and footer on the login screen & main screen.",
+    "ja" : "ログイン画面、メイン画面の会社ロゴと画面のフッターを登録して管理します。",
+    "vi" : "Đăng ký và quản lý màn hình đăng nhập, logo công ty của màn hình chính, Footer màn hình.",
+    "zh" : "登录而管理登录画面，主页的公司徽标和低面文章。"
+  },
+  "매월 1일" : {
+    "en" : "1st of Every Month",
+    "ja" : "毎月 1日",
+    "vi" : "Ngày 1 hàng tháng",
+    "zh" : "每月 1日"
+  },
+  "흰색 배경의 로고 이미지, 이미지 크기 165*45, gif, jpg, png 형식" : {
+    "en" : "White background logo image, image size 165*45, gif, jpg, png format",
+    "ja" : "白い背景のロゴ画像は、画像サイズ165 * 45、gif、jpg、png形式",
+    "vi" : "Hình ảnh logo nền trắng, kích cỡ hình ảnh 165*45, định dạng gif, jpg, png",
+    "zh" : "白色背景的标志形象，形象大小 165*45, gif, jpg, png形式"
+  },
+  "로고/바닥글" : {
+    "en" : "Logo/Footer",
+    "ja" : "ロゴ/フッター",
+    "vi" : "Logo/ Footer",
+    "zh" : "徽标/低面文章"
+  },
+  "교체주기" : {
+    "en" : "Replacement Cycle",
+    "ja" : "交換サイクル",
+    "vi" : "Chu kì thay thế",
+    "zh" : "交换周期"
+  },
+  "폴더" : {
+    "en" : "Folder",
+    "ja" : "フォルダ",
+    "vi" : "Thư mục",
+    "zh" : "文件夹"
+  },
+  "종료" : {
+    "en" : "finish",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  },
+  "화면 유형 1, 2 인 경우에만 URL 링크 기능을 제공합니다." : {
+    "en" : "URL link features will be provided only in cases of screen type 1 and 2.",
+    "ja" : "画面タイプ1、２の場合のみURL機能を提供します。",
+    "vi" : "Các tính năng liên kết URL sẽ chỉ được cung cấp trong trường hợp loại màn hình 1 và 2.",
+    "zh" : "只有画面类型是1,2时，才提供URL链接功能。"
+  }
+}

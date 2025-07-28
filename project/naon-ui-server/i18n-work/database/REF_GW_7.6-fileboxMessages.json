@@ -1,0 +1,3098 @@
+{
+  "다운로드" : {
+    "en" : "Download",
+    "ja" : "ダウンロード",
+    "vi" : "Tải về",
+    "zh" : "下载"
+  },
+  "비밀번호는 4~12자로 입력하세요." : {
+    "en" : "Enter 4~12 characters for password.",
+    "ja" : "パスワードは4~12文字で入力してください。",
+    "vi" : "Hãy nhập mật khẩu từ 4~12 ký tự.",
+    "zh" : "密码输入为 4~12字。"
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi mail",
+    "zh" : "发送邮件"
+  },
+  "비밀번호 확인" : {
+    "en" : "Confirm password",
+    "ja" : "パスワード確認",
+    "vi" : "Xác nhận mật khẩu",
+    "zh" : "确认密码"
+  },
+  "기본 용량" : {
+    "en" : "Default storage",
+    "ja" : "基本容量",
+    "vi" : "Dung lượng mặc định",
+    "zh" : "基本用量"
+  },
+  "외부사용자 이메일에 특수문자(\\\\ / : * ? \\\" < > | )는 입력할 수 없습니다." : {
+    "en" : "You can't use special characters (\\\\ / : * ? \\\" < > | ) for the e-mail address of external users.",
+    "ja" : "外部ユーザーの電子メールに特殊文字(\\\\ / : * ? \\\" < > | )を入力することができません。",
+    "vi" : "Không thể nhập ký tự đặc biệt (\\\\ / : * ? \\\" < > | ) cho email người dùng bên ngoài.",
+    "zh" : "外部使用者邮件上不可输入特殊文字(\\\\ / : * ? \\\" < > | )。"
+  },
+  "공유해준 폴더" : {
+    "en" : "Sharing folders",
+    "ja" : "共有したフォルダ",
+    "vi" : "Thư mục chia sẻ",
+    "zh" : "提供共有的文件夹"
+  },
+  "저장하였습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu",
+    "zh" : "保存完了。"
+  },
+  "이동 하시겠습니까?" : {
+    "en" : "Do you want to move it?",
+    "ja" : "移動しますか？",
+    "vi" : "Bạn có muốn di chuyển không?",
+    "zh" : "要移动吗？"
+  },
+  "대상 폴더에 쓰기권한이 없습니다.쓰기권한이 있는 폴더만 복사할 수 있습니다." : {
+    "en" : "You don't have permission to write in the target folder. \nYou can only copy folders for which you have write permission.",
+    "ja" : "対象フォルダに対する書き込み権限がありません。書き込み権限のあるフォルダのみをコピーすることができます。",
+    "vi" : "Bạn không có quyền ghi đối với thư mục này. Bạn chỉ có thể sao chép các thư mục mà bạn có quyền được ghi.",
+    "zh" : "在对象文件夹没有写权限。只能拷贝有写权限的文件夹。"
+  },
+  "개체" : {
+    "en" : "items",
+    "ja" : "現在フォルダーの容量",
+    "vi" : "Mục",
+    "zh" : "个体"
+  },
+  "종류순" : {
+    "en" : "by type",
+    "ja" : "タイプ順",
+    "vi" : "Theo loại",
+    "zh" : "种类顺"
+  },
+  "첨부파일 용량 제한" : {
+    "en" : "Attachment size limit",
+    "ja" : "添付ファイル容量制限",
+    "vi" : "Giới hạn kích thước đính kèm",
+    "zh" : "控制附件用量"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "용량이 부족합니다. <br>관리자에게 문의하여 주세요." : {
+    "en" : "Not enough space. <br>Please contact the administrator.",
+    "ja" : "容量が不足しています。<br>管理者にお問い合わせください。",
+    "vi" : "Thiếu dung lượng. <br> Xin hãy liên hệ với người quản lý.",
+    "zh" : "不够容量。<br>请向管理者询问。"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "File chọn",
+    "zh" : "选择的文档"
+  },
+  "첨부파일 허용 갯수" : {
+    "en" : "Number of attachments allowed",
+    "ja" : "添付ファイル許容個数",
+    "vi" : "Số file đính kèm được cho phép",
+    "zh" : "附件允许个数"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Tình trạng",
+    "zh" : "状态"
+  },
+  "문서를 등록하였습니다." : {
+    "en" : "The document has been registered.",
+    "ja" : "文書を登録しました。",
+    "vi" : "Đã đăng tài liệu.",
+    "zh" : "文件登录完了。"
+  },
+  "공유정보" : {
+    "en" : "Share Information",
+    "ja" : "共有情報",
+    "vi" : "Thông tin chia sẻ",
+    "zh" : "共有信息"
+  },
+  "{0} (영문기준)최대 {1}자,(한글기준)최대 {2}자 까지 입력할 수 있습니다." : {
+    "en" : "You can type up to maximum {1} (English) characters and {2} (Korean) characters.",
+    "ja" : "%s (英文基準)最大%s文字、(ハングル基準)最大%s文字まで入力できます。",
+    "vi" : "Bạn có thể nhập tối đa %s chữ (tiêu chuẩn tiếng Anh), %s chữ (tiêu chuẩn tiếng Hàn) để mở rộng phần giới hạn tải lên.",
+    "zh" : "{0}(英文为基准)可以输入最多 {1}字,(韩文为基准)最多{2}字。"
+  },
+  "폴더명은" : {
+    "en" : "The folder name is",
+    "ja" : "フォルダ名は",
+    "vi" : "Tên thư mục là",
+    "zh" : "文件夹名"
+  },
+  "파일함으로 돌아가기" : {
+    "en" : "Go back to Filebox",
+    "ja" : "ファイルBoxに戻る",
+    "vi" : "Quay lại hộp file",
+    "zh" : "回到文件箱"
+  },
+  "개인폴더 사용불가 상태에서는 외부폴더나, 개인공유를 사용할 수 없습니다." : {
+    "en" : "When the personal folder is unavailable, you cannot use external folders of Personal Share.",
+    "ja" : "個人フォルダの使用不可状態では、外部フォルダや個人共有の使用ができません。",
+    "vi" : "Thư mục cá nhân ở trạng thái không thể sử dụng, do đó, không thể sử dụng thư mục bên ngoài hoặc chia sẻ cá nhân.",
+    "zh" : "不可使用个人文件夹状态时不可使用外部文件夹或个人共有。"
+  },
+  "파일을 선택하세요." : {
+    "en" : "Select a file.",
+    "ja" : "ファイルを選択してください。",
+    "vi" : "Hãy chọn file.",
+    "zh" : "请选择文件。"
+  },
+  "외부폴더 사용" : {
+    "en" : "Use external folder",
+    "ja" : "外部フォルダ使用",
+    "vi" : "Sử dụng thư mục bên ngoài",
+    "zh" : "使用外部文件夹"
+  },
+  "공유받은 폴더는 공유할 수 없습니다." : {
+    "en" : "You cannot share a shared folder.",
+    "ja" : "共有されたフォルダは共有できません。",
+    "vi" : "Không thể chia sẻ thư mục đã được chia sẻ.",
+    "zh" : "不可共有接收共有的文件夹。"
+  },
+  "대상폴더가 선택되지 않았습니다.\\n검색결과 상에서는 생성, 삭제, 이동 ,복사, 이름변경, 공유가 불가능합니다." : {
+    "en" : "The target folder hasn't been selected.<br><br> You can't create, delete, move, copy, rename or share on the search results.",
+    "ja" : "対象フォルダが選択されていません。<br><br>検索結果上では、生成、削除、移動、コピー, 名前変更, 共有できません。",
+    "vi" : "Thư mục đích chưa được chọn. Trên kết quả tìm kiếm <br><br> không thể tạo, xóa, di chuyển, sao chép, thay đổi tên, chia sẻ.",
+    "zh" : "没有选择对象文件夹。<br><br>搜索结果上不可新建、删除、移动、拷贝、变更名字、共有。"
+  },
+  "{0}의 [외부폴더] {1}을(를) <font color='red'>다운로드</font>했습니다." : {
+    "en" : "{0}'s [external folder] {1} was <font color='red'> downloaded </font>.",
+    "ja" : "{0}の[外部フォルダ] {1}を<font color='red'>ダウンロード</font>しました。",
+    "vi" : "Đã <font color='red'>download</font>  [Thư mục bên ngoài] {1} của {0}",
+    "zh" : "把{0}的 [外部文件夹] {1} <font color='red'>下载</font>了。"
+  },
+  "생성되었습니다." : {
+    "en" : "has been created.",
+    "ja" : "生成されました。",
+    "vi" : "Đã tạo",
+    "zh" : "新建完了。"
+  },
+  "기본환경설정" : {
+    "en" : "Basic Preferences",
+    "ja" : "基本環境設定",
+    "vi" : "Cài đặt môi trường cơ bản",
+    "zh" : "设定基本环境"
+  },
+  "공용" : {
+    "en" : "Public",
+    "ja" : "供用",
+    "vi" : "Chung",
+    "zh" : "公用"
+  },
+  "{0}의 {1} 하위에 &#39;{2}&#39;을(를) <font color='red'>업로드</font>했습니다." : {
+    "en" : "&#39;{2}&#39; was <font color='red'> uploaded</font> in {1} of {0} .",
+    "ja" : "{0}の{1} 下位に&#39;{2}&#39;を <font color='red'>アップロード</font>しました。",
+    "vi" : "Đã <font color='red'>tải lên</font> &#39;{2}&#39; xuống dưới {1} của {0}",
+    "zh" : "{0}的 {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>上载</font>了。"
+  },
+  "현재 폴더에 새폴더를 생성합니다." : {
+    "en" : "Create a new folder in the current folder.",
+    "ja" : "現在のフォルダに新しいフォルダを生成します。",
+    "vi" : "Tạo thư mục mới trong thư mục hiện tại.",
+    "zh" : "在当前文件夹中创建一个新的文件夹."
+  },
+  "웹메일로 보내기" : {
+    "en" : "Send as webmail",
+    "ja" : "Webメールで送信",
+    "vi" : "Gửi bằng webmail",
+    "zh" : "为网络邮件发送"
+  },
+  "공유받은 폴더 중 최상위 폴더만 표시됩니다." : {
+    "en" : "Only the top-level folder is displayed among the shared folders.",
+    "ja" : "共有されたフォルダのうち、最上位フォルダのみ表示されます。",
+    "vi" : "Trong số các thư mục được chia sẻ, chỉ có thư mục cao nhất được hiển thị.",
+    "zh" : "在被共享的文件夹中，仅表示最上级文件夹。"
+  },
+  "{0} 반드시 입력해야 합니다." : {
+    "en" : "You must type {0} .",
+    "ja" : "{0}必須入力事項です。",
+    "vi" : "Nhất định phải nhập.",
+    "zh" : "必须得输入{0} 。"
+  },
+  "로그조회" : {
+    "en" : "View Logs",
+    "ja" : "ログ照会",
+    "vi" : "Xem nhật ký",
+    "zh" : "查询登录"
+  },
+  "작업" : {
+    "en" : "Task",
+    "ja" : "作業",
+    "vi" : "Thao tác",
+    "zh" : "制作"
+  },
+  "검색어 입력" : {
+    "en" : "Enter Search Keyword",
+    "ja" : "検索ワード入力",
+    "vi" : "Nhập từ khóa tìm kiếm",
+    "zh" : "输入关键词"
+  },
+  "Activity 알림" : {
+    "en" : "Activity Notification",
+    "ja" : "アクティビティのお知らせ",
+    "vi" : "Thông báo hoạt động",
+    "zh" : "Activity通知"
+  },
+  "공용폴더 최상위에는 폴더를 생성할 수 없습니다." : {
+    "en" : "You can't create a folder on the highest common (public) folder.",
+    "ja" : "共用フォルダの最上位にはフォルダを生成できません。",
+    "vi" : "Không thể tạo thư mục mới trong thư mục được chia sẻ thuộc thư mục cao nhất",
+    "zh" : "在公用文件夹的最上位不可做文件夹。"
+  },
+  "회사폴더 추가" : {
+    "en" : "Add public folder",
+    "ja" : "共用フォルダ追加",
+    "vi" : "Thêm thư mục chung",
+    "zh" : "追加公用文件夹"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "사용자별 개인폴더 용량을 설정합니다." : {
+    "en" : "You can set up the personal folder (My folder) space by user.",
+    "ja" : "ユーザー別の個人フォルダ(マイフォルダ)の容量を設定します。",
+    "vi" : "Cài đặt dung lượng thư mục cá nhân theo từng người dùng (thư mục của tôi)",
+    "zh" : "设定各个使用者的个人文件夹（我的文件夹）用量。"
+  },
+  "변경시 전체 스페이스의 할당 용량이 일괄적으로 변경됩니다.(개별설정을 적용한 스페이스는 제외)" : {
+    "en" : "When change is applied, the available capacity for the entire space gets changed (spaces with individual configurations are excluded from this rule).",
+    "ja" : "変更すると全体スペースに与えられた容量が一括変更されます。(個別設定を適用したスペースを除く)",
+    "vi" : "Khi có thay đổi, dung lượng phân bổ của toàn bộ không gian sẽ đồng loạt thay đổi. (trừ không gian áp dụng cài đặt cá nhân)",
+    "zh" : "若更改，空间所分配容量将一并更改。（个别已应用特别设置的空间除外）"
+  },
+  "사용하지 않도록 변경 하시겠습니까?" : {
+    "en" : "Would you like to change to 'Don't Use'?",
+    "ja" : "使用しないように変更しますか？",
+    "vi" : "Bạn có muốn thay đổi để không sử dụng không?",
+    "zh" : "要变更为不可以使用吗？"
+  },
+  "공유폴더 최상위에는 업로드할 수 없습니다." : {
+    "en" : "You cannot upload files to the highest shared folder.",
+    "ja" : "共有フォルダの最上位にはアップロードできません。",
+    "vi" : "Không thể tải lên vị trí trên cùng của thư mục được chia sẻ.",
+    "zh" : "共有文件夹最上位不可上载。"
+  },
+  "삭제된 폴더입니다." : {
+    "en" : "It is a deleted folder.",
+    "ja" : "削除されたフォルダです。",
+    "vi" : "Đây là thư mục đã bị xóa.",
+    "zh" : "已经删除的文件夹。"
+  },
+  "파일폴더를 공유했습니다." : {
+    "en" : "File folder has been shared.",
+    "ja" : "ファイルフォルダを共有しました。",
+    "vi" : "Thư mục tệp đã được chia sẻ.",
+    "zh" : "已分享文件夹。"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name.",
+    "ja" : "フォルダ名を入力してください。",
+    "vi" : "Hãy nhập tên thư mục.",
+    "zh" : "请输入文件夹名。"
+  },
+  "시스템계정" : {
+    "en" : "System account",
+    "ja" : "システムアカウント",
+    "vi" : "Tài khoản hệ thống",
+    "zh" : "系统帐号"
+  },
+  "파일관리" : {
+    "en" : "Manage files",
+    "ja" : "ファイル管理",
+    "vi" : "Quản lý tệp",
+    "zh" : "管理文档"
+  },
+  "추가기능" : {
+    "en" : "Additional Function",
+    "ja" : "追加機能",
+    "vi" : "Chức năng thêm",
+    "zh" : "追加技能"
+  },
+  "상위 폴더 공유 시, 하위 폴더도 함께 공유됩니다" : {
+    "en" : "When sharing a parent folder, the subfolders are also shared.",
+    "ja" : "上位フォルダを共有すると、下位フォルダも一緒に共有になります。",
+    "vi" : "Khi chia sẻ thư mục mẹ, thư mục con cũng sẽ được chia sẻ",
+    "zh" : "若共享上级文件夹，其下级文件夹将被一同共享"
+  },
+  "안내" : {
+    "en" : "Guide",
+    "ja" : "案内",
+    "vi" : "Hướng dẫn",
+    "zh" : "介绍"
+  },
+  "내려받기" : {
+    "en" : "Download",
+    "ja" : "タウンロード",
+    "vi" : "Tải xuống",
+    "zh" : "下载"
+  },
+  "비밀번호 확인은" : {
+    "en" : "Confirming Password is",
+    "ja" : "パスワード確認は",
+    "vi" : "Xác nhận mật khẩu là",
+    "zh" : "确认密码"
+  },
+  "크기순" : {
+    "en" : "by size",
+    "ja" : "サイズ順",
+    "vi" : "Theo kích thước",
+    "zh" : "大小顺"
+  },
+  "&#39;{0}&#39;확장자는 업로드하실 수 없습니다." : {
+    "en" : "Files with the extension &#39;{0}&#39; cannot be uploaded.",
+    "ja" : "&#39;{0}&#39;拡張子はアップロードできません。",
+    "vi" : "Không thể tải lên phần mở rộng {0}",
+    "zh" : "&#39;{0}&#39;文件扩展名不可上载。"
+  },
+  "검색값을 입력하세요." : {
+    "en" : "Enter the search value.",
+    "ja" : "検索値を入力してください。",
+    "vi" : "Hãy nhập giá trị tìm kiếm",
+    "zh" : "请输入搜索值。"
+  },
+  "사이드 메뉴 열기" : {
+    "en" : "Open Side Menu",
+    "ja" : "サイドメニューを開く",
+    "vi" : "Mở side menu",
+    "zh" : "打开边线菜单"
+  },
+  "개별설정" : {
+    "en" : "Individual Configuration",
+    "ja" : "個別設定",
+    "vi" : "Cài đặt riêng",
+    "zh" : "单独设置"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "첨부하실 파일을 선택해 주십시오." : {
+    "en" : "Select the file to attach",
+    "ja" : "添付するファイルを選択してください。",
+    "vi" : "Hãy chọn file để đính kèm.",
+    "zh" : "请选择要附加的文件。"
+  },
+  "5. 로그삭제주기에 걸리는 로그를 backup 및 삭제" : {
+    "en" : "5. Logs are backed up or deleted according to the deletion cycle.",
+    "ja" : "5. ログ削除周期にかかるログをバックアップおよび削除",
+    "vi" : "5. Nhật ký được sao lưu hoặc xóa theo chu kỳ xóa.",
+    "zh" : "5。运行记录删除周期时需要的运行记录backup及删除"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "남은용량" : {
+    "en" : "Remaining space",
+    "ja" : "残り容量",
+    "vi" : "Dung lượng còn lại",
+    "zh" : "剩下的用量"
+  },
+  "파일함 로그인" : {
+    "en" : "Filebox Login",
+    "ja" : "ファイルログイン",
+    "vi" : "Đăng nhập hộp file",
+    "zh" : "文件箱登录"
+  },
+  "아이디는 4~12자의 영문, 숫자와 특수문자(_-.) 만 사용할 수 있습니다. \\n\\n아이디를 다시 입력하세요." : {
+    "en" : "ID must be between 4-12 characters. You can only use English, numbers, and special characters (_ - .) when creating an ID.\\n\\nPlease enter your ID again.",
+    "ja" : "IDは4〜12文字の英文、数字と特殊文字（_-.）のみを使用することができます。 \\ n \\ n名を再入力してください。",
+    "vi" : "Bạn chỉ có thể sử dụng 4~12 chữ tiếng Anh, số và ký tự đặc biệt (_-.) ở ID. Hãy nhập lại ID.",
+    "zh" : "用户名只能使用4~12字英文，数字和特殊文字(_-.) 。请再输入\\n\\n用户名。"
+  },
+  "파일함 전체 용량이 부족합니다." : {
+    "en" : "Not enough space in the filebox.",
+    "ja" : "ファイルの全体容量が不足しています。",
+    "vi" : "Hộp file không còn nhiều dung lượng.",
+    "zh" : "文件箱的全体用量不够。"
+  },
+  "이름순" : {
+    "en" : "by name",
+    "ja" : "名前順",
+    "vi" : "Theo tên",
+    "zh" : "按名字顺"
+  },
+  "공용폴더" : {
+    "en" : "public folder",
+    "ja" : "共用フォルダ",
+    "vi" : "Thư mục chung",
+    "zh" : "公用文件夹"
+  },
+  "선택된 폴더를 내부 사용자에게 공유합니다." : {
+    "en" : "Share the selected folder to internal users.",
+    "ja" : "選択したフォルダを内部ユーザーに共有します。",
+    "vi" : "Chia sẻ tới người dùng nội bộ thư mục đã chọn",
+    "zh" : "分享所选文件夹内部用户."
+  },
+  "해당 공유받은 폴더의 설정된 용량이 없습니다." : {
+    "en" : "There is no storage set for the shared folder.",
+    "ja" : "該当共有されたフォルダの設定した容量がありません。",
+    "vi" : "Không có dung lượng được cài đặt cho thư mục được chia sẻ tương ứng.",
+    "zh" : "有关接收共有的文件夹没有设定的用量。"
+  },
+  "회사폴더 관리" : {
+    "en" : "Manage public folders",
+    "ja" : "共用フォルダ管理",
+    "vi" : "Quản lý thư mục chung",
+    "zh" : "管理公用文件夹"
+  },
+  "폴더설명은" : {
+    "en" : "Folder description is",
+    "ja" : "フォルダ説明は",
+    "vi" : "Mô tả thư mục là",
+    "zh" : "文件夹名"
+  },
+  "이동중 오류가 발생하였습니다.<br><br>관리자에게 문의하여 주십시오." : {
+    "en" : "An error has occurred while moving.<br><br> Please, contact the administrator.",
+    "ja" : "移動中にエラーが発生しました。<br><br>管理者にお問い合わせください。",
+    "vi" : "Đã phát sinh lỗi khi di chuyển. <br><br> xin hãy liên hệ với người quản lý.",
+    "zh" : "移动中发生了错误。请给<br><br>管理者询问。"
+  },
+  "새로운 이름을 입력하세요." : {
+    "en" : "Enter a new name.",
+    "ja" : "新しい名前を入力してください。",
+    "vi" : "Hãy nhập tên mới",
+    "zh" : "请输入新的名字。"
+  },
+  "외부폴더 최상위폴더는 이동할 수 없습니다." : {
+    "en" : "The highest external folder cannot be moved.",
+    "ja" : "外部フォルダの最上位フォルダは移動できません。",
+    "vi" : "Không thể di chuyển thư mục trên cùng thư mục bên ngoài.",
+    "zh" : "外部文件夹最上位文件夹不可移动。"
+  },
+  "신규 사용자에게 부여되는 메일 기본 용량입니다" : {
+    "en" : "It is the default mail size that is given to a new user.",
+    "ja" : "新規ユーザーに付与されているメールの基本容量です。",
+    "vi" : "Đây là dung lượng mail mặc định được cài đặt cho người dùng mới.",
+    "zh" : "对新的使用者提供的邮件基本用量。"
+  },
+  "공유받은 폴더에 새폴더를 생성할 수 없습니다." : {
+    "en" : "You cannot create a new folder in a shared folder.",
+    "ja" : "共有されたフォルダに新しいフォルダを生成できません。",
+    "vi" : "Bạn không thể tạo thư mục mới trong thư mục được chia sẻ.",
+    "zh" : "在接受共有的文件夹不可生成新的文件夹。"
+  },
+  "용량설정" : {
+    "en" : "Space (Capacity) Settings",
+    "ja" : "容量設定",
+    "vi" : "Cài đặt dung lượng",
+    "zh" : "设定用量"
+  },
+  "선택폴더" : {
+    "en" : "Selected Folder",
+    "ja" : "選択フォルダ",
+    "vi" : "thư mục chọn",
+    "zh" : "选择文件夹"
+  },
+  "공유폴더 최상위 폴더는 이름을 변경할 수 없습니다." : {
+    "en" : "Can't edit the name of highest (parent) shared folder.",
+    "ja" : "共有フォルダの最上位フォルダの名前は変更できません。",
+    "vi" : "Không thể thay đổi thư mục trên cùng của thư mục được chia sẻ",
+    "zh" : "共有文件夹最上位文件夹不可变更名字。"
+  },
+  "입력하신 폴더(파일)명은 존재합니다." : {
+    "en" : "The folder (file) name that you entered already exists.",
+    "ja" : "入力したフォルダ(ファイル)名が存在します。",
+    "vi" : "Tồn tại tên thư mục (file) đã nhập.",
+    "zh" : "您输入的文件夹（文件）名已经存在。"
+  },
+  "입력한 아이디는 사용 중인 아이디입니다.\\n새로운 아이디를 입력하세요." : {
+    "en" : "The entered ID is already in use.\\nPlease enter a new ID.",
+    "ja" : "入力したIDは使用中のIDです。<br><br>新しいIDを入力してください。",
+    "vi" : "ID đã nhập bị trùng lặp. Hãy nhập ID mới <br><br>",
+    "zh" : "您输入的用户名是使用中的用户名。请输入<br><br>新的用户名"
+  },
+  "메일발송 사용" : {
+    "en" : "Use 'Send by Mail'",
+    "ja" : "メール送信使用",
+    "vi" : "Sử dụng gửi mail",
+    "zh" : "使用发送邮件"
+  },
+  "{0}을(를) [회사폴더] {1} 로 <font color='red'>복사</font>했습니다." : {
+    "en" : "{0} has been <font color='red'>copied</font> to [Public Folder] {1}.",
+    "ja" : "{0}を[共用フォルダ] {1}に<font color='red'>コピー</font>しました。",
+    "vi" : "{0} đã được <font color = 'red'> sao chép </font> vào [thư mục chung] {1}.",
+    "zh" : "把{0}复制到[公用文件夹] {1}  <font color='red'></font>了。"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "원본폴더와 이동(복사) 대상폴더가 같습니다." : {
+    "en" : "The original folder and the target folder to move(copy) are the same.",
+    "ja" : "原本フォルダと移動(コピー)対象フォルダが同じです。",
+    "vi" : "thư mục gốc và thư mục đích di chuyển (sao chép) là giống nhau.",
+    "zh" : "原本文件夹和移动（拷贝）对象文件夹一样。"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "쓰기권한이 있는 폴더만 이동할 수 있습니다." : {
+    "en" : "You can only move folders that you have the permission to write.",
+    "ja" : "書き込み権限のあるフォルダのみ移動できます。",
+    "vi" : "Chỉ có thể di chuyển thư mục có quyền hạn ghi.",
+    "zh" : "只能移动有写权限的文件夹。"
+  },
+  "파일함에 확인하지않은 activity가 있습니다." : {
+    "en" : "There is an activity in the Filebox that you haven't checked.",
+    "ja" : "ファイルに確認していないアクティビティがあります。",
+    "vi" : "Có hoạt động chưa kiểm tra ở hộp file.",
+    "zh" : "文件箱上有没有确认的Activity。"
+  },
+  "{0}에서 파일함을 공유하였습니다." : {
+    "en" : "**{0}** has shared a file folder.",
+    "ja" : "{0} からファイルボックスを共有しました。",
+    "vi" : "**{0}** đã chia sẻ một thư mục tệp.",
+    "zh" : "已从 {0} 共享文件夹。"
+  },
+  "비밀번호" : {
+    "en" : "Password",
+    "ja" : "パスワード",
+    "vi" : "Mật khẩu",
+    "zh" : "密码"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "キャンセル",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "[회사폴더] {0} 하위에 &#39;{1}&#39; 폴더를 <font color='red'>생성</font>했습니다." : {
+    "en" : "&#39;{1}&#39; folder has been <font color='red'>created</font> below the [Public Folder] {0}.",
+    "ja" : "[共用フォルダ] {0}下位へ&#39;{1}&#39;フォルダを<font color='red'>生成</font>しました。",
+    "vi" : "Đã tạo <font color='red'> thư mục &#39;{1}&#39; bên trong {0} của [Thư mục chung].",
+    "zh" : "已生成[公用文件夹] {0} 下位的 &#39;{1}&#39;  <font color='red'></font>文件夹。"
+  },
+  "스페이스 폴더 최상위에는 폴더를 생성할 수 없습니다." : {
+    "en" : "You cannot create folders in the top Space folder.",
+    "ja" : "スペースフォルダの最上位にはフォルダを作成することができません。",
+    "vi" : "Không thể tạo thư mục trong thư mục Space lớn nhất.",
+    "zh" : "无法生成空间文件夹最上级文件夹。"
+  },
+  "스페이스 폴더 최상위폴더는 복사할 수 없습니다." : {
+    "en" : "The top Space folder cannot be copied.",
+    "ja" : "スペースフォルダの最上位フォルダはコピーすることができません。",
+    "vi" : "Không thể sao chép thư mục lớn nhất trong thư mục Space.",
+    "zh" : "无法复制空间文件夹最上级文件夹。"
+  },
+  "파일함확인" : {
+    "en" : "Check Filebox",
+    "ja" : "ファイルを確認",
+    "vi" : "Kiểm tra hộp file.",
+    "zh" : "确认文件箱"
+  },
+  "{0}개체" : {
+    "en" : "{0} items",
+    "ja" : "%s個体",
+    "vi" : "% mục",
+    "zh" : "{0}个体"
+  },
+  "폴더설명" : {
+    "en" : "Folder description",
+    "ja" : "フォルダ説明",
+    "vi" : "Mô tả thư mục",
+    "zh" : "文件夹说明"
+  },
+  "비밀번호에는 공백을 넣을 수 없습니다. \\n비밀번호를 다시 입력하세요." : {
+    "en" : "You cannot include spaces in your password. \\nPlease enter your password again.",
+    "ja" : "パスワードにはスペースを使えません。\\n\\n パスワードをもう一度入力してください。",
+    "vi" : "Không thể để dấu cách trong mật khẩu. Hãy nhập lại mật khẩu.",
+    "zh" : "密码上不可使用空白。 请再输入\\n\\n密码。"
+  },
+  "이동대상폴더의 용량이 부족합니다. <br>관리자에게 문의하여 주십시오." : {
+    "en" : "The target folder to move doesn't have enough space left. <br> Please, contact the administrator.",
+    "ja" : "移動対象フォルダの容量が不足しています。\n 管理者にお問い合わせください。",
+    "vi" : "Thư mục đích để di chuyển không có nhiều dung lượng. <br> Vui lòng liên hệ với quản trị viên.",
+    "zh" : "移动对象文件夹的容量不够。 <br>请向管理者询问。"
+  },
+  "하루동안" : {
+    "en" : "If you have",
+    "ja" : "一日の間",
+    "vi" : "Nếu tải xuống nhiều hơn",
+    "zh" : "一天下载"
+  },
+  "공유설정" : {
+    "en" : "Share Settings",
+    "ja" : "容量設定",
+    "vi" : "Cài đặt chia sẻ",
+    "zh" : "设定共有"
+  },
+  "공유정보(개인폴더)" : {
+    "en" : "Share Details (Personal Folder)",
+    "ja" : "共有情報(個人フォルダ)",
+    "vi" : "Thông tin chia sẻ (thư mục cá nhân)",
+    "zh" : "共有信息（个人文件夹）"
+  },
+  "공유" : {
+    "en" : "Sharing Folder",
+    "ja" : "共有されたフォルダ",
+    "vi" : "thư mục chia sẻ",
+    "zh" : "接收共有的文件夹"
+  },
+  "선택한 사용자(아이디)는 외부폴더 사용자입니다. \\n사용자 정보를 제공하지 않습니다." : {
+    "en" : "The user (ID) you selected is an external folder user. \\n The user's information is not available.",
+    "ja" : "選択したユーザー（ID）は、外部フォルダのユーザーです。\\nユーザー情報を提供していません。",
+    "vi" : "Người dùng (ID) đã chọn là người dùng thư mục bên ngoài. Không cung có thông tin người dùng.",
+    "zh" : "选择的使用者（用户名）是外部文件夹使用者。\\n不提供使用者信息。"
+  },
+  "메일발송을 사용할 수 없게 설정되어있습니다. 관리자에게 문의하세요." : {
+    "en" : "It has been set to not use 'Send Mail'. Please contact the administrator.",
+    "ja" : "メール送信を使用できないように設定されています。管理者にお問い合わせください。",
+    "vi" : "Đã bị cài đặt không thể gửi mail. Xin hãy liên hệ với quản trị viên.",
+    "zh" : "设定为不可发送邮件了。请给管理者询问。"
+  },
+  "선택하신폴더의 쓰기권한이 없습니다." : {
+    "en" : "You don't have permission to write for the selected folder.",
+    "ja" : "選択したフォルダの書き込み権限がありません。",
+    "vi" : "Không có quyền viết vào thư mục đã chọn.",
+    "zh" : "选择的文件夹您没有写权限。"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "검색선택의 종료일자를 입력해주세요." : {
+    "en" : "Enter a finish date for search.",
+    "ja" : "検索選択の終了日付を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc tìm kiếm",
+    "zh" : "请输入选择搜索结束日子。"
+  },
+  "선택하신 폴더나 파일의 쓰기권한이 없습니다.<BR>확인후 다시 시도하여주십시오." : {
+    "en" : "You don't have permission to write for the selected folder or file.<BR> Please, check and try again.",
+    "ja" : "選択したフォルダやファイルの書き込み権限がありません。<BR>ご確認後、もう一度お試しください。",
+    "vi" : "Không có quyền viết file hoặc thư mục đã chọn",
+    "zh" : "选择的文件夹或文件您没有写权限。请<BR>确认后再试试。"
+  },
+  "최근1주" : {
+    "en" : "Past 1 week",
+    "ja" : "最近1週",
+    "vi" : "1 tuần gần đây",
+    "zh" : "最近1周"
+  },
+  "수정일" : {
+    "en" : "Date modified",
+    "ja" : "修正日",
+    "vi" : "Ngày sửa",
+    "zh" : "修改日"
+  },
+  "외부폴더" : {
+    "en" : "External folder",
+    "ja" : "外部フォルダ",
+    "vi" : "Thư mục bên ngoài",
+    "zh" : "外部文件夹"
+  },
+  "{0}을(를) [스페이스 폴더] {1} 로 <font color='red'>이동</font>했습니다." : {
+    "en" : "You moved {0} to [Space Folder] {1} <font color='red'> </font>.",
+    "ja" : "{0}を[スペースフォルダ]{1}に<fontcolor='red'>移動</font>しました。",
+    "vi" : "Đã</font>di chuyển<font color='red'>{0}làm [Thư mục Space] {1}.",
+    "zh" : "已将{0移动于 [空间文件夹] {1} 中 <font color='red'></font>。"
+  },
+  "스페이스 폴더 최상위폴더는 이동할 수 없습니다." : {
+    "en" : "The top Space folder cannot be moved.",
+    "ja" : "スペースフォルダの最上位フォルダは移動することができません。",
+    "vi" : "Không thể di chuyển thư mục lớn nhất trong thư mục Space.",
+    "zh" : "无法移动空间文件夹最上级文件夹。"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "There are duplicate users in space so those users will be excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、当該のユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong Space, người dùng này sẽ được loại trừ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "다음" : {
+    "en" : "Next",
+    "ja" : "次",
+    "vi" : "Tiếp theo",
+    "zh" : "后一个"
+  },
+  "공유 설정" : {
+    "en" : "Share Settings",
+    "ja" : "共有設定",
+    "vi" : "Cài đặt chia sẻ",
+    "zh" : "共享设置"
+  },
+  "{0}의 [공유폴더] {1} 하위에 &#39;{2}&#39; 폴더를 <font color='red'>생성</font>했습니다." : {
+    "en" : "&#39;{2}&#39; folder was <font color='red'> created </font> in {0}'s [shared folder] {1}.",
+    "ja" : "{0}の[共有フォルダ] {1}下位に&#39;{2}&#39; フォルダを<font color='red'>生成</font>しました。",
+    "vi" : "Đã <font color='red'>tạo</font> Folder &#39;{2}&#39; dưới [Folder chia sẻ] {1} của {0}",
+    "zh" : "{0}的 [共享文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>新建</font>了。"
+  },
+  "폴더설명에 특수문자(\\\\ / : * ? \\\" < > | )는 입력할 수 없습니다." : {
+    "en" : "You can't use special characters (\\\\ / : * ? \\\" < > | ) for the folder description.",
+    "ja" : "フォルダ説明に特殊文字(\\\\ / : * ? \\\" < > | )を入力することができません。",
+    "vi" : "Không thể nhập ký tự đặc biệt (\\\\ / : * ? \\\" < > | ) cho mô tả thư mục",
+    "zh" : "文件夹说明上不可输入特殊文字(\\\\ / : * ? \\\" < > | )。"
+  },
+  "검색결과" : {
+    "en" : "Search results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "접속 아이디와 패스워드를 확인하여주십시오." : {
+    "en" : "Please check your ID and password.",
+    "ja" : "IDとパスワードを確認してください。",
+    "vi" : "Xin hãy kiểm tra ID và mật khẩu tiếp cận.",
+    "zh" : "请确认连接用户名和密码。"
+  },
+  "입력하신 폴더명은 존재합니다." : {
+    "en" : "The folder name that you entered already exists.",
+    "ja" : "入力したフォルダ名が存在しません。",
+    "vi" : "Tồn tại tên thư mục đã nhập.",
+    "zh" : "您输入的文件夹名已经存在。"
+  },
+  "쪽지로 알림" : {
+    "en" : "a notification message will be sent to the admin.",
+    "ja" : "メッセージでお知らせ",
+    "vi" : "Thông báo bằng lời nhắn",
+    "zh" : "用纸条提醒"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator setting",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "실사용량" : {
+    "en" : "Used space",
+    "ja" : "実使用量",
+    "vi" : "Dung lượng sử dụng",
+    "zh" : "实使用量"
+  },
+  "폴더명에 특수문자(\\\\ / : * ? \\\" < > | )는 입력할 수 없습니다." : {
+    "en" : "You can't use special characters such as (\\\\ / : * ? \\\" < > | ) for folder name.",
+    "ja" : "フォルダ名に特殊文字(\\\\ / : * ? \\\" < > | )を入力することができません。",
+    "vi" : "Không thể nhập ký tự đặc biệt (\\\\ / : * ? \\\" < > | ) cho tên thư mục.",
+    "zh" : "文件夹名上不可输入特殊文字(\\\\ / : * ? \\\" < > | )。"
+  },
+  "붙여넣기" : {
+    "en" : "Paste",
+    "ja" : "貼り付け",
+    "vi" : "Dán",
+    "zh" : "粘贴"
+  },
+  "접속아이디" : {
+    "en" : "Access ID",
+    "ja" : "接続ID",
+    "vi" : "ID tiếp cận",
+    "zh" : "连接用户名"
+  },
+  "공유 정보" : {
+    "en" : "Share Information",
+    "ja" : "共有情報",
+    "vi" : "Thông tin chia sẻ",
+    "zh" : "共有信息"
+  },
+  "발송" : {
+    "en" : "send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "공유자가 공유를 제한한 상태입니다." : {
+    "en" : "The sharer has restricted sharing.",
+    "ja" : "共有者が共有を制限しています。",
+    "vi" : "Người chia sẻ hạn chế chia sẻ.",
+    "zh" : "共有者制限共有的状态。"
+  },
+  "공유 폴더가 없습니다." : {
+    "en" : "There are no folders that other people are sharing with you.",
+    "ja" : "共有されたフォルダがありません。",
+    "vi" : "Không có thư mục được chia sẻ.",
+    "zh" : "没有接收共有的文件夹。"
+  },
+  "파일이 없습니다.<br><br>관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "There is no file.<br><br> Please, contact the administrator.",
+    "ja" : "ファイルがありません。<br><br>管理者にお問い合わせください。",
+    "vi" : "Không có file. <br><br> Xin hãy liên hệ với người quản lý.",
+    "zh" : "没有文件。请给<br><br>管理者询问。"
+  },
+  "선택하세요." : {
+    "en" : "Please select.",
+    "ja" : "選択してください。",
+    "vi" : "Hãy chọn",
+    "zh" : "请选择。"
+  },
+  "이동메뉴" : {
+    "en" : "Move menu",
+    "ja" : "移動メニュー",
+    "vi" : "Menu di chuyển",
+    "zh" : "移动项目"
+  },
+  "퇴사" : {
+    "en" : "Resign",
+    "ja" : "退社",
+    "vi" : "Nghỉ việc",
+    "zh" : "退出公司"
+  },
+  "상위폴더" : {
+    "en" : "Upper (Parent) Folder",
+    "ja" : "上位フォルダ",
+    "vi" : "thư mục trên",
+    "zh" : "上位文件夹"
+  },
+  "전체" : {
+    "en" : "Total",
+    "ja" : "全体",
+    "vi" : "Toàn bộ",
+    "zh" : "全部"
+  },
+  "대상폴더가 없습니다." : {
+    "en" : "No target folder.",
+    "ja" : "対象フォルダがありません。",
+    "vi" : "Không có thư mục đích",
+    "zh" : "没有对象文件夹。"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "{0}의 [공유폴더] {1} 하위에 &#39;{2}&#39;을(를) {3}으로 <font color='red'>변경</font>했습니다." : {
+    "en" : "&#39;{2}&#39;, which locates in {0}'s [shared folder] {1}, has been <font color='red'>modified</font> to {3}.",
+    "ja" : "{0}の[共有フォルダ] {1} 下位の&#39;{2}&#39;を<font color='red'>変更</font>しました。",
+    "vi" : "Đã <font color='red'>thay đổi</font> &#39;{2}&#39; dưới [Thư mục chia sẻ]{1} của {0} sang {3}",
+    "zh" : "{0}的 [共享文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>变更</font>了。"
+  },
+  "상세현황" : {
+    "en" : "Detailed Status",
+    "ja" : "詳細現況",
+    "vi" : "Tình trạng chi tiết",
+    "zh" : "详细现况"
+  },
+  "3. 회사폴더 activity를 공유자에게 메일, 쪽지로 알림" : {
+    "en" : "3. Activity in the public folder is notified to the sharer by mail or a message.",
+    "ja" : "3. 共有フォルダのアクティビティを共有者にメールとメッセージで通知",
+    "vi" : "3. Thông báo bằng mail, lời nhắn tới người chia sẻ hoạt động thư mục chung.",
+    "zh" : "3。把公用文件夹activity用邮件、纸条给共有者提醒"
+  },
+  "대상 폴더를 선택하세요." : {
+    "en" : "Select the target folder.",
+    "ja" : "対象フォルダを選択してください。",
+    "vi" : "Chọn thư mục đích",
+    "zh" : "请选择对象文件夹。"
+  },
+  "선택하신 항목을 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete the selected item?",
+    "ja" : "選択した項目を削除しますか？",
+    "vi" : "Bạn có muốn xóa mục đã chọn không?",
+    "zh" : "要删除选择的项目吗？"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登记"
+  },
+  "공유자 설정" : {
+    "en" : "Sharer settings.",
+    "ja" : "共有者設定",
+    "vi" : "Cài đặt người chia sẻ",
+    "zh" : "设定共有者"
+  },
+  "공용폴더를 설정합니다." : {
+    "en" : "You can set up public folders.",
+    "ja" : "共用フォルダを設定します。",
+    "vi" : "Cài đặt thư mục chung.",
+    "zh" : "设定公用文件夹。"
+  },
+  "파일첨부" : {
+    "en" : "Attachment",
+    "ja" : "ファイル添付",
+    "vi" : "File đính kèm",
+    "zh" : "附加文件"
+  },
+  "비밀번호를 입력해주세요." : {
+    "en" : "Please enter a password.",
+    "ja" : "パスワードを入力してください。",
+    "vi" : "Hãy nhập mật khẩu",
+    "zh" : "请输入密码。"
+  },
+  "권한" : {
+    "en" : "Permission",
+    "ja" : "権限",
+    "vi" : "Quyền hạn",
+    "zh" : "权限"
+  },
+  "대상 폴더에 쓰기권한이 없습니다. \\n쓰기 권한이 있는 폴더만 복사할수 있습니다." : {
+    "en" : "You don't have permission to write in the target folder. \\nYou can only copy folders that you have write permission.",
+    "ja" : "対象フォルダに書き込み権限がありません。\\n書き込み権限があるフォルダのみコピーすることができます。",
+    "vi" : "Bạn không có quyền ghi đối với thư mục này. \\n Bạn chỉ có thể sao chép các thư mục mà bạn có quyền được ghi.",
+    "zh" : "在对象文件夹没有写权限。\\n只能拷贝有写权限的文件夹。"
+  },
+  "이 폴더에 올리기" : {
+    "en" : "Upload to this folder",
+    "ja" : "このフォルダにアップロード",
+    "vi" : "Tải lên thư mục này",
+    "zh" : "在这个文件夹上上载"
+  },
+  "스페이스 파일함" : {
+    "en" : "Space File Box",
+    "ja" : "スペースのファイルボックス",
+    "vi" : "Hòm tệp tin không gian trống",
+    "zh" : "空间文件夹"
+  },
+  "하나의 파일만 선택하세요." : {
+    "en" : "Please select only one file.",
+    "ja" : "1つのファイルのみを選択してください。",
+    "vi" : "Vui lòng chỉ chọn một tệp.",
+    "zh" : "请仅选择一个文件。"
+  },
+  "모두펼침" : {
+    "en" : "Expand all",
+    "ja" : "全て開く",
+    "vi" : "Mở tất cả",
+    "zh" : "全部打开"
+  },
+  "등록된 외부폴더가 없습니다." : {
+    "en" : "There are no registered external folders.",
+    "ja" : "登録された外部フォルダがありません。",
+    "vi" : "Không có thư mục bên ngoài được đăng ký.",
+    "zh" : "没有登录的外部文件夹。"
+  },
+  "접속주소" : {
+    "en" : "Access address",
+    "ja" : "接続アドレス",
+    "vi" : "Địa chỉ tiếp cận",
+    "zh" : "连接地址"
+  },
+  "[스페이스 폴더] {0} 하위에 &#39;{1}&#39; 폴더를 <font color='red'>생성</font>했습니다." : {
+    "en" : "[Space Folder] {0} under &#39;{1}&#39; Folder <font color='red'>Created</font>.",
+    "ja" : "[スペースフォルダ]{0}の下位に&#39;{1}&#39;フォルダを<fontcolor='red'>作成</font>しました。",
+    "vi" : "Đã</font>tạo<font color='red'>thư mục <font color='red'> trong mục dưới [Thư mục Space] {0}",
+    "zh" : "[空间文件夹] {0} 下级的 &#39;{1}&#39; 文件 <font color='red'>已生成</font>。"
+  },
+  "쓰기권한이 없어서 새폴더 추가가 불가합니다." : {
+    "en" : "A new folder cannot be added because you don't have write permission.",
+    "ja" : "書き込み権限がないため、新しいフォルダを追加できません。",
+    "vi" : "Không thể thêm thư mục mới bởi vì bạn không có quyền ghi.",
+    "zh" : "没有写权限而不可追加新的文件夹。"
+  },
+  "용량이 부족합니다. \\n관리자에게 문의하여 주세요." : {
+    "en" : "Not enough space.\\nPlease contact the administrator.",
+    "ja" : "容量が不足しています。 \\ n管理者に連絡してください。",
+    "vi" : "Thiếu dung lượng. Hãy liên hệ với người quản lý",
+    "zh" : "不够用量。请向\\n管理者咨询。"
+  },
+  "공유 항목이 존재하여 이동/복사할 수 없습니다. <br>공유 해제 후 다시 시도해주세요" : {
+    "en" : "Cannot move/copy due to the existence of shared items. <br>Please try again after removing/deleting it.",
+    "ja" : "共有項目が存在するため、移動およびコピーできません。<br>共有を解除してから、もう一度試してください。",
+    "vi" : "Tồn tại mục chia sẻ nên không thể di chuyển/sao chép. <br> Vui lòng thử lại sau khi gỡ chia sẻ.",
+    "zh" : "因有共享项目，无法进行移动/复制。请将<br>共享解除后重试。"
+  },
+  "공유 폴더를 설정합니다." : {
+    "en" : "You can set up the shared folders.",
+    "ja" : "共有フォルダを設定します。",
+    "vi" : "Cài đặt thư mục chia sẻ.",
+    "zh" : "设定共有文件夹。"
+  },
+  "미등록" : {
+    "en" : "Unregistered",
+    "ja" : "未登録",
+    "vi" : "Chưa đăng ký",
+    "zh" : "未注册"
+  },
+  "변경시 기본용량을 할당받은 전체 스페이스의 할당용량이 일괄적으로 변경됩니다." : {
+    "en" : "When changed, the allocation capacity of all the basic capacity users will be collectively changed.",
+    "ja" : "変更する時に基本容量を割り当てられた全スペースーの割り当て容量が一括で変更されます。",
+    "vi" : "Khi thay đổi, dung lượng phân bổ của toàn bộ Space nhận được dung lượng cơ bản sẽ thay đổi đồng loạt.",
+    "zh" : "若进行更改，则一同更改所有安排基本容量的空间容量。"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "用户"
+  },
+  "외부폴더는 공유기능을 사용할 수 없습니다." : {
+    "en" : "The Sharing option is not available for an external folder.",
+    "ja" : "外部フォルダは共有機能を使用できません。",
+    "vi" : "Không thể sử dụng chức năng chia sẻ của thư mục bên ngoài.",
+    "zh" : "外部文件夹不可使用共有功能。"
+  },
+  "외부사용자명에 특수문자(\\\\ / : * ? \\\" < > | )는 입력할 수 없습니다." : {
+    "en" : "You can't use the special characters (\\\\ / : * ? \\\" < > | ) in an external user name.",
+    "ja" : "外部ユーザー名に特殊文字(\\\\ / : * ? \\\" < > | )を入力することができません。",
+    "vi" : "Không thể nhập ký tự đặc biệt (\\\\ / : * ? \\\" < > | ) cho tên người dùng bên ngoài.",
+    "zh" : "外部使用者名上不可输入特殊文字(\\\\ / : * ? \\\" < > | )。"
+  },
+  "외부폴더 관리" : {
+    "en" : "Manage external folders",
+    "ja" : "外部フォルダ管理",
+    "vi" : "quản lý thư mục bên ngoài",
+    "zh" : "管理外部文件夹"
+  },
+  "종류" : {
+    "en" : "Type",
+    "ja" : "種類",
+    "vi" : "Loại",
+    "zh" : "种类"
+  },
+  "외부폴더 사용자" : {
+    "en" : "External folder user",
+    "ja" : "外部フォルダのユーザー",
+    "vi" : "Người dùng thư mục bên ngoài",
+    "zh" : "外部使用者"
+  },
+  "폴더 활동로그가 있습니다." : {
+    "en" : "There is a folder activity log.",
+    "ja" : "フォルダの活動ログがあります。",
+    "vi" : "Có nhật ký hoạt động thư mục.",
+    "zh" : "存在文件夹活动日志。"
+  },
+  "{0}을(를) {1}의 [외부폴더] {2} 로 <font color='red'>이동</font>했습니다." : {
+    "en" : "{0} has been <font color='red'>  moved </font> to {1}'s [external folder] {2}",
+    "ja" : "{0}を{1}の[外部フォルダ] {2} に<font color='red'>移動</font>しました。",
+    "vi" : "Đã <font color='red'>di chuyển</font> {0} sang [Thư mục bên ngoài] {2} của {1}",
+    "zh" : "把{0} <font color='red'>移动</font>到{1}的[ 外部文件夹] {2}上了。"
+  },
+  "4. 외부폴더의 activity를 외부공유자에게 메일, 폴더주인에게 쪽지로 알림" : {
+    "en" : "4. Activity in the external folder is informed to the external sharer by mail and to the folder owner by message.",
+    "ja" : "4. 外部フォルダのアクティビティを外部共有者にメールで通知または、フォルダの所有者にメッセージで通知",
+    "vi" : "4. Thông báo bằng lời nhắn tới chủ nhân thư mục, mail",
+    "zh" : "4。把外部文件夹activity用邮件给外公有者、用纸条给文件夹主人提醒"
+  },
+  "{0}의 {1} 하위에 &#39;{2}&#39;을(를) <font color='red'>삭제</font>했습니다." : {
+    "en" : "&#39;{2}&#39; was <font color='red'> deleted </font> from {1} of {0} .",
+    "ja" : "{0}の{1}下位の&#39;{2}&#39;を<font color='red'>削除</font>しました。",
+    "vi" : "Đã <font color='red'>xóa</font> {2} dưới {1} của {0}",
+    "zh" : "{0}的 {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>删除</font>了。"
+  },
+  "발송 종류를 선택하세요." : {
+    "en" : "Select type of sending",
+    "ja" : "送信タイプを選択してください。",
+    "vi" : "Hãy chọn loại để gửi",
+    "zh" : "请选择发送种类。"
+  },
+  "스페이스 폴더 남은 용량이 부족합니다." : {
+    "en" : "There is not enough capacity remaining in the space folder.",
+    "ja" : "スペースフォルダの空き容量が足りません。",
+    "vi" : "Dung lượng còn lại của thư mục Space không đủ.",
+    "zh" : "空间文件夹剩余容量不足。"
+  },
+  "문서등록" : {
+    "en" : "Add document",
+    "ja" : "文書登録",
+    "vi" : "Thêm văn bản",
+    "zh" : "登录文件"
+  },
+  "업로드제한" : {
+    "en" : "Limit uploading",
+    "ja" : "アップロード制限",
+    "vi" : "Hạn chế tải lên",
+    "zh" : "上载制限"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "외부폴더를 수정합니다." : {
+    "en" : "You can modify external folders.",
+    "ja" : "外部フォルダを修正します。",
+    "vi" : "Bạn có thể sửa thư mục bên ngoài.",
+    "zh" : "修改外部文件夹。"
+  },
+  "파일함으로 이동 하시겠습니까?" : {
+    "en" : "Do you want to move to the Filebox?",
+    "ja" : "ファイルに移動しますか？",
+    "vi" : "Bạn có muốn di chuyển tới hộp file không?",
+    "zh" : "要移动到文件箱吗？"
+  },
+  "2. 개인공유폴더의 activity를 공유자에게 쪽지로 알림" : {
+    "en" : "2. Activity in the personal shared folder is informed to the sharer via a message.",
+    "ja" : "2. 個人共有フォルダのアクティビティを共有者にメッセージで通知",
+    "vi" : "2. Thông báo bằng lời nhắn tới người chia sẻ về hoạt động của thư mục cá nhân chia sẻ.",
+    "zh" : "2。把个人共有文件夹的activity用纸条给共有者提醒"
+  },
+  "[스페이스 폴더] {0}을(를) <font color='red'>다운로드</font>했습니다." : {
+    "en" : "[Space Folder] {0} to <font color='red'>downloaded</font>.",
+    "ja" : "[スペースフォルダ]{0}を<font color='red'>ダウンロード</font>しました。",
+    "vi" : "Đã </font> tải xuống <font color='red'>[Thư mục Space] {0}.Đã</font>tải xuống<font color='red'> (...) [Thư mục Space] {0}",
+    "zh" : "已将[空间文件夹] {0}  <font color='red'>下载</font>。"
+  },
+  "이동되었습니다." : {
+    "en" : "moved",
+    "ja" : "移動しました。",
+    "vi" : "Đã di chuyển.",
+    "zh" : "移动完了。"
+  },
+  "아이디는 4~12자로 입력하세요." : {
+    "en" : "ID must be between 4-12 characters.",
+    "ja" : "IDは4~12文字で入力してください。",
+    "vi" : "Hãy nhập ID từ 4~12 ký tự",
+    "zh" : "用户名输入为 4~12字。"
+  },
+  "권한없음" : {
+    "en" : "No permission",
+    "ja" : "権限なし",
+    "vi" : "Không có quyền hạn",
+    "zh" : "没有权限"
+  },
+  "날짜 형식을 입력 하세요." : {
+    "en" : "Enter the date format.",
+    "ja" : "日付の形式を入力してください。",
+    "vi" : "Nhập định dạng ngày.",
+    "zh" : "请输入日子形式"
+  },
+  "Result" : {
+    "en" : "Result",
+    "ja" : "結果",
+    "vi" : "Kết quả",
+    "zh" : "结果"
+  },
+  "공유 삭제 하시겠습니까?<br>하위 폴더도 공유 삭제 됩니다. 진행 하시겠습니까?" : {
+    "en" : "Would you like to delete the shared item?<br> Deleting the item will also delete it from any subfolders. Do you want to proceed with deletion?",
+    "ja" : "共有を削除しますか？<br>下位フォルダも共有が削除されます。実行しますか？",
+    "vi" : "Bạn muốn xóa chia sẻ?<br>Thư mục con cũng sẽ được xóa chia sẻ. Bạn chắc chắn chứ?",
+    "zh" : "是否删除共享？<br>下级文件夹共享也将被删除，是否进行？"
+  },
+  "아이디는 4~12자 이내 영문이나 숫자 또는 특수문자(_-.)로 입력합니다." : {
+    "en" : "The ID should be 4~12 letters long, and must only include alphanumeric or special characters (_-.).",
+    "ja" : "アカウントは4～12字以内の英文や数字又は特殊文字(_-.)入力します。",
+    "vi" : "ID phải từ 4 ~ 12 chữ cái, chữ và số hoặc ký tự đặc biệt (_-.).",
+    "zh" : "ID请输入4~12字以内的英文，数字或特殊文字(_-.)。"
+  },
+  "권한 적용 범위" : {
+    "en" : "Permission Application Range",
+    "ja" : "権限適用範囲",
+    "vi" : "Phạm vi áp dụng quyền hạn",
+    "zh" : "权限适用范围"
+  },
+  "{0}을(를) {1}의 [외부폴더] {2} 로 <font color='red'>복사</font>했습니다." : {
+    "en" : "{0} was <font color='red'> copied to </font> {1}'s [external folder] {2}.",
+    "ja" : "{0}を{1}の[外部フォルダ] {2}に<font color='red'>コピー</font>しました。",
+    "vi" : "Đã sao <font color='red'>chép</font> {0} sang [Folder bên ngoài] {2} của {1}",
+    "zh" : "把{0} <font color='red'>复制</font>到{1}[ 外部文件夹] {2}上了。"
+  },
+  "폴더 선택" : {
+    "en" : "Select Folder",
+    "ja" : "フォルダ選択",
+    "vi" : "Chọn thư mục",
+    "zh" : "选择文件夹"
+  },
+  "이 폴더와 하위 폴더에 모두 적용" : {
+    "en" : "Apply to this folder and all sub-folder(s)",
+    "ja" : "このフォルダと下位フォルダに全て適用",
+    "vi" : "Áp dụng với cả thư mục này và thư mục dưới",
+    "zh" : "这个文件夹和下位文件夹上全部适用"
+  },
+  "선택된 폴더 또는 파일을 이동합니다." : {
+    "en" : "Move the selected folder or file.",
+    "ja" : "選択したフォルダまたはファイルを移動します。",
+    "vi" : "Di chuyển file hoặc thư mục đã chọn.",
+    "zh" : "将选定的文件或文件夹."
+  },
+  "등록" : {
+    "en" : "Add",
+    "ja" : "登録",
+    "vi" : "Đăng ký",
+    "zh" : "登录"
+  },
+  "외부폴더 사용자로 설정된 사용자들은 외부폴더를 사용할 수 있습니다." : {
+    "en" : "Users who are set up as an external folder user can use the external folders.",
+    "ja" : "外部フォルダのユーザーに設定されたユーザーは、外部フォルダを使用することができます。",
+    "vi" : "Người dùng được thiết lập làm người dùng thư mục bên ngoài có thể sử dụng các thư mục bên ngoài.",
+    "zh" : "设定为外部文件夹使用者的使用者可以使用外部文件夹。"
+  },
+  "공용폴더 최상위폴더는 복사할 수 없습니다." : {
+    "en" : "You can't copy the highest (parent) common (public) folder.",
+    "ja" : "共用フォルダの最上位フォルダはコピーできません。",
+    "vi" : "Không thể sao chép trong thư mục được chia sẻ thuộc thư mục cao nhất",
+    "zh" : "公用文件夹的最上位文件夹不可拷贝。"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete content",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa nội dung nhập",
+    "zh" : "删除输入内容"
+  },
+  "입력한 공유정보가 성공적으로 저장되었습니다." : {
+    "en" : "The sharing information that you just entered has been successfully saved.",
+    "ja" : "入力した共有情報の保存に成功しました。",
+    "vi" : "Thông tin chia sẻ được nhập đã được lưu thành công.",
+    "zh" : "您输入的共有信息保存完了。"
+  },
+  "파일명" : {
+    "en" : "File Name",
+    "ja" : "ファイル名",
+    "vi" : "Tên file",
+    "zh" : "文件名"
+  },
+  "변경된 권한정보를" : {
+    "en" : "The changed permission information",
+    "ja" : "変更された権限情報を",
+    "vi" : "thông tin quyền hạn thay đổi",
+    "zh" : "把变更完的权限信息"
+  },
+  "최상단 공유폴더의 용량을 공유합니다." : {
+    "en" : "Share the space of the Shared Folder in the uppermost corner.",
+    "ja" : "最上段の共有フォルダの容量を共有します。",
+    "vi" : "Chia sẻ dung lượng của thư mục được chia sẻ nàm ở góc trên cùng.",
+    "zh" : "共有最上端共有文件夹的用量。"
+  },
+  "비밀번호는 반드시 입력해야 합니다. \\n비밀번호를 입력하세요." : {
+    "en" : "You MUST enter a password.\\nPlease enter a password.",
+    "ja" : "パスワードは必須入力項目です。\\n\\n パスワードを入力してください。",
+    "vi" : "Bạn nhất định phải nhập mật khẩu. Hãy nhập mật khẩu.",
+    "zh" : "密码必须得输入。 请再输入\\n\\n密码。"
+  },
+  "공유 목록" : {
+    "en" : "Share List",
+    "ja" : "共有リスト",
+    "vi" : "Danh sách chia sẻ",
+    "zh" : "共享列表"
+  },
+  "특수문자( / : * ? \" ' < > | )는 입력할 수 없습니다." : {
+    "en" : "Unable to use special characters ( / : * ? \" ' < > | ).",
+    "ja" : "特殊文字（/：*？\" '<>|）を入力できません。",
+    "vi" : "Bạn không thể nhập ký tự đặc biệt  ( / : * ? \" ' < > | )",
+    "zh" : "不可输入特殊文字( / : * ? \" ' < > | )"
+  },
+  "다운로드할 파일이 없습니다." : {
+    "en" : "There is no file to download.",
+    "ja" : "ファイルをダウンロードするファイルがありません。",
+    "vi" : "Không có file để tải về.",
+    "zh" : "没有文件下载。"
+  },
+  "파일함 이동" : {
+    "en" : "Move File Inbox",
+    "ja" : "ファイルボックスを移動",
+    "vi" : "Di chuyển hòm file",
+    "zh" : "移动文件箱"
+  },
+  "대상 폴더 선택" : {
+    "en" : "Select a target folder.",
+    "ja" : "対象フォルダを選択",
+    "vi" : "Chọn thư mục đích",
+    "zh" : "请选择对象文件夹。"
+  },
+  "공유명" : {
+    "en" : "Shared folder name",
+    "ja" : "共有フォルダ名",
+    "vi" : "Tên thư mục chia sẻ",
+    "zh" : "共有文件夹名"
+  },
+  "등록된 폴더가 없습니다." : {
+    "en" : "There are no registered folders.",
+    "ja" : "登録されたフォルダがありません。",
+    "vi" : "Không có thư mục được đăng ký",
+    "zh" : "没有登录的文件夹。"
+  },
+  "같은 폴더로 이동할 수 없습니다." : {
+    "en" : "Cannot move to the same folder.",
+    "ja" : "同じフォルダに移動できません。",
+    "vi" : "Không thể di chuyển sang cùng một thư mục.",
+    "zh" : "不可移动到一样的文件夹上。"
+  },
+  "위로" : {
+    "en" : "Up",
+    "ja" : "上へ",
+    "vi" : "Trên",
+    "zh" : "往上"
+  },
+  "첨부" : {
+    "en" : "Attach",
+    "ja" : "添付",
+    "vi" : "Đính kèm",
+    "zh" : "附加"
+  },
+  "삭제시 오류가 발생하였습니다." : {
+    "en" : "An error has occurred when deleting.",
+    "ja" : "削除の際にエラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi khi xóa.",
+    "zh" : "删除时发生了错误。"
+  },
+  "{0}({1})님이 총 {2}회 다운로드 하였습니다." : {
+    "en" : "{0}({1}) has downloaded total {2} times.",
+    "ja" : "{0}({1})さんが計{2}回ダウンロードしました。",
+    "vi" : "Anh/chị {0}({1}) đã {2} lần tải xuống.",
+    "zh" : "{0}({1})先生、女士总下载 {2}回。"
+  },
+  "아이디는 대소문자 구분 없으나 비밀번호는 대소문자 구분합니다." : {
+    "en" : "ID is not case-sensitive but Password is case-sensitive.",
+    "ja" : "IDは大小文字を区分しません。パスワードの場合には大小文字を区分します。",
+    "vi" : "ID không phân biệt chữ viết hoa viết thường, tuy nhiên mật khẩu thì phân biệt viết hoa viết thường.",
+    "zh" : "用户名没有大小文字的区分可是密码得区分大小文字。"
+  },
+  "비밀번호는 4~12자의 영문과 숫자, 특수문자(_-.)만 사용할 수 있습니다. \\n비밀번호를  다시 입력하세요." : {
+    "en" : "Passwords should be between 4~12 characters. You can only enter English characters, numbers, and special characters (_-.).\\nPlease enter the password again.",
+    "ja" : "パスワードは4~12文字の英文(小文字)と数字、特殊文字(_-.)のみ使用できます。\\n\\nもう一度パスワードを入力してください。",
+    "vi" : "Bạn chỉ có thể sử dụng 4~12 chữ theo ký tự tiếng Anh, số và ký tự đặc biệt (_-.) ở mật khẩu. Hãy nhập lại mật khẩu.",
+    "zh" : "密码只能使用 4~12字英文小文字和数字 。请再输入\\n\\n密码。"
+  },
+  "회사폴더 사용" : {
+    "en" : "Use public folders",
+    "ja" : "共用フォルダ使用",
+    "vi" : "Sử dụng thư mục chung",
+    "zh" : "使用公用文件夹"
+  },
+  "{0}의 [공유폴더] {1} 하위에 &#39;{2}&#39;을(를) <font color='red'>업로드</font>했습니다." : {
+    "en" : "&#39;{2}&#39; was <font color='red'> uploaded </font> in {0}'s [shared folder] {1}.",
+    "ja" : "{0}の[共有フォルダ] {1}下位に&#39;{2}&#39;を <font color='red'>アップロード</font>しました。",
+    "vi" : "Đã <font color='red'>upload</font> &#39;{2}&#39; xuống dưới [Thư mục chia sẻ] {1} của {0}",
+    "zh" : "{0}的 [共有文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>上载</font>了。"
+  },
+  "비밀번호는 4~12자 이내 영문이나 숫자 또는 특수문자(_-.)로 입력합니다." : {
+    "en" : "The password should be 4~12 letters long, and it must include only alphanumeric or special characters (_-.).",
+    "ja" : "暗証番号は4～12字以内の英文や数字又は特殊文字(_-.)入力します。",
+    "vi" : "Mật khẩu phải dài 4 ~ 12 chữ cái, chữ và số hoặc ký tự đặc biệt (_-.).",
+    "zh" : "密码请输入4~12字以内的英文，数字或特殊文字(_-.)。"
+  },
+  "1. 일일허용량이상 다운로드시 관리자에게 쪽지발송" : {
+    "en" : "1. If the user downloads more files than what is allowed for a day, an alert message will be sent to the administrator.",
+    "ja" : "1. 一日許容量以上をダウンロードする場合、管理者にメッセージ送信",
+    "vi" : "1.Nếu tải tệp xuống nhiều hơn số lượng cho phép trong một ngày, thông báo cảnh báo sẽ được gửi đến quản trị viên.",
+    "zh" : "1。一天许可量以上下载时给管理者发送纸条"
+  },
+  "등록일" : {
+    "en" : "Date (Added)",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "넓게" : {
+    "en" : "Wide",
+    "ja" : "広く",
+    "vi" : "Rộng",
+    "zh" : "宽大"
+  },
+  "{0}의 [외부폴더] {1} 하위에 &#39;{2}&#39; 폴더를 <font color='red'>생성</font>했습니다." : {
+    "en" : "&#39;{2}&#39; folder was <font color='red'> created </font> in {0}'s [external folder] {1}.",
+    "ja" : "{0}の[外部フォルダ] {1}下位に&#39;{2}&#39;フォルダを<font color='red'>生成</font>しました。",
+    "vi" : "Đã <font color='red'>tạo</font> Folder &#39;{2}&#39; dưới [Thư mục bên ngoài] {1} của {0}",
+    "zh" : "{0}的 [外部文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>新建</font>了。"
+  },
+  "공유할 이메일 주소를 추가하세요." : {
+    "en" : "Please add the email address you want to share.",
+    "ja" : "共有する電子メールアドレスを追加してください。",
+    "vi" : "Vui lòng thêm địa chỉ email mà bạn muốn chia sẻ.",
+    "zh" : "请添加要共享的电子邮件地址。"
+  },
+  "등록된 공유 정보가 없습니다." : {
+    "en" : "No registered Share Information.",
+    "ja" : "登録された共有情報がありません。",
+    "vi" : "Chưa đăng ký chia sẻ thông tin.",
+    "zh" : "无已登记的共享信息。"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Tùy chọn",
+    "zh" : "选项"
+  },
+  "등록된 파일이 없습니다." : {
+    "en" : "There are no registered files.",
+    "ja" : "登録されたファイルがありません。",
+    "vi" : "Không có file được đăng ký.",
+    "zh" : "没有登录的文档"
+  },
+  "업로드할 폴더를 선택하세요." : {
+    "en" : "Select the folder to upload.",
+    "ja" : "アップロードするフォルダを選択してください。",
+    "vi" : "Hãy chọn thư mục để tải lên",
+    "zh" : "请选择要上载的文件夹。"
+  },
+  "저장중 오류가 발생하였습니다." : {
+    "en" : "An error has occurred while saving.",
+    "ja" : "保存中にエラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi khi lưu.",
+    "zh" : "保存中发生了错误。"
+  },
+  "메일을 성공적으로 전송하였습니다." : {
+    "en" : "The email has been successfully sent.",
+    "ja" : "メールを正常に送信しました。",
+    "vi" : "Email đã được gửi thành công.",
+    "zh" : "邮件已成功发送。"
+  },
+  "회사폴더없음" : {
+    "en" : "No Shared Folder",
+    "ja" : "共用フォルダなし",
+    "vi" : "Không có thư mục được chia sẻ",
+    "zh" : "没有公用文件夹"
+  },
+  "이름변경중 오류가 발생하였습니다." : {
+    "en" : "An error has occurred while renaming.",
+    "ja" : "名前の変更中にエラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi khi thay đổi tên.",
+    "zh" : "变更名字中发生了错误。"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã được xóa.",
+    "zh" : "删除完了。"
+  },
+  "스페이스 폴더 최상위 폴더는 이름을 변경할 수 없습니다." : {
+    "en" : "Top Space folder name cannot be changed.",
+    "ja" : "スペースフォルダの最上位フォルダは名前を変更することができません。",
+    "vi" : "Không thể đổi tên thư mục lớn nhất trong  thư mục Space.",
+    "zh" : "无法改变空间文件夹最上级文件夹名称。"
+  },
+  "검색값을 입력해주십시오." : {
+    "en" : "Enter the search value.",
+    "ja" : "検索値を入力してください。",
+    "vi" : "Hãy nhập giá trị tìm kiếm.",
+    "zh" : "请输入搜索值。"
+  },
+  "{0}을(를) {1}의 [공유폴더] {2} 로 <font color='red'>이동</font>했습니다." : {
+    "en" : "{0} has been <font color='red'>  moved </font> to {1}'s [shared folder] {2}",
+    "ja" : "{0}を{1}の[共有フォルダ] {2} に<font color='red'>移動</font>しました。",
+    "vi" : "Đã <font color='red'>di chuyển</font> {0} sang [Thư mục chung] {2} của {1}",
+    "zh" : "把{0} <font color='red'>移动</font>到{1}的[ 共享文件夹] {2}上了。"
+  },
+  "알림" : {
+    "en" : "Notification",
+    "ja" : "通知",
+    "vi" : "Thông báo",
+    "zh" : "提醒"
+  },
+  "선택된 첨부파일이 없습니다." : {
+    "en" : "No attachment selected.",
+    "ja" : "選択された添付ファイルがありません。",
+    "vi" : "Không có file đính kèm được chọn.",
+    "zh" : "没有被选择的附件。"
+  },
+  "하나의 폴더(파일)만 선택하세요." : {
+    "en" : "Select only one(1) folder (file).",
+    "ja" : "一つのフォルダ(ファイル)のみを選択してください。",
+    "vi" : "Hãy chọn chỉ một thư mục (file)",
+    "zh" : "请选泽一个文件夹（文件）。"
+  },
+  "파일" : {
+    "en" : "File",
+    "ja" : "ファイル",
+    "vi" : "Tệp tin",
+    "zh" : "文件"
+  },
+  "현재폴더권한" : {
+    "en" : "Current Folder Permission",
+    "ja" : "現在フォルダ権限",
+    "vi" : "Quyền hạn thư mục hiện tại",
+    "zh" : "现在文件夹权限"
+  },
+  "핫라인 사용자" : {
+    "en" : "Hotline user",
+    "ja" : "ホットラインユーザー",
+    "vi" : "Người dùng đường dây nóng",
+    "zh" : "hotline使用者"
+  },
+  "{0}을(를) {1}의 [공유폴더] {2} 로 <font color='red'>복사</font>했습니다." : {
+    "en" : "{0} was <font color='red'> copied to </font> {1}'s [shared folder] {2}.",
+    "ja" : "{0}を{1}の[共有フォルダ] {2} に<font color='red'>コピー</font>しました。",
+    "vi" : "Đã sao <font color='red'>chép</font> {0} sang [Thư mục chung] {2} của {1}",
+    "zh" : "把{0} <font color='red'>复制</font>到{1}的[ 共享文件夹] {2}上了。"
+  },
+  "접근하려는 공유폴더가 존재하지 않습니다.<br>관리자에게 문의하여주십시오." : {
+    "en" : "The shared folder which you are trying to access does not exist.<br> Please, contact the administrator.",
+    "ja" : "アクセスしようとする共有フォルダが存在しません。<br>管理者にお問い合わせください。",
+    "vi" : "Không tồn tại thư mục chung bạn muốn tiếp cận.<br> xin hãy liên hệ với người quản lý.",
+    "zh" : "不存在您要接近的共享文件夹。<br>请向管理者询问。"
+  },
+  "회사폴더" : {
+    "en" : "Company Folder",
+    "ja" : "会社フォルダ",
+    "vi" : "Thư mục công ty",
+    "zh" : "公司文件夹"
+  },
+  "이름변경" : {
+    "en" : "Rename",
+    "ja" : "名前変更",
+    "vi" : "Đổi tên",
+    "zh" : "变更名字"
+  },
+  "관리자권한" : {
+    "en" : "Admin Permission",
+    "ja" : "管理者権限",
+    "vi" : "Quyền hạn người quản lý",
+    "zh" : "管理者权限"
+  },
+  "검색된 결과가 없습니다." : {
+    "en" : "No search results found",
+    "ja" : "検索された結果がありません。",
+    "vi" : "Không có kết quả tìm kiếm",
+    "zh" : "没有搜索的结果。"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Mô tả",
+    "zh" : "说明"
+  },
+  "폴더" : {
+    "en" : "folder",
+    "ja" : "フォルダ",
+    "vi" : "Thư mục",
+    "zh" : "文件夹"
+  },
+  "사용자 기본용량" : {
+    "en" : "User default space",
+    "ja" : "ユーザー基本容量",
+    "vi" : "Dung lượng mặc định của người dùng",
+    "zh" : "使用者基本用量"
+  },
+  "공유폴더 최상위 폴더는 공유할 수 없습니다." : {
+    "en" : "The highest shared folder cannot be shared.",
+    "ja" : "共有フォルダの最上位フォルダは共有できません。",
+    "vi" : "Không thể chia sẻ thư mục trên cùng của thư mục được chia sẻ",
+    "zh" : "共有文件夹最上位文件夹不可共有。"
+  },
+  "선택하신 폴더나 파일(하위폴더 포함)의 쓰기권한이 없습니다." : {
+    "en" : "You don't have permission to write for the selected folder or file (including sub folders).",
+    "ja" : "選択したフォルダやファイル(下位フォルダを含む)の書き込み権限がありません。",
+    "vi" : "Không có quyền hạn viết lên file hoặc thư mục đã chọn (bao gồm thư mục dưới).",
+    "zh" : "选择的文件夹或文件（包括下位文件夹）您没有写权限。"
+  },
+  "사이드 메뉴 접기" : {
+    "en" : "Hide Side Menu",
+    "ja" : "サイドメニューを閉じる",
+    "vi" : "Đóng side menu",
+    "zh" : "折叠边线菜单"
+  },
+  "용량은 숫자만 입력 가능 합니다." : {
+    "en" : "You can only enters for setting space.",
+    "ja" : "容量は数字のみ入力可能です。",
+    "vi" : "Chỉ có thể nhập số vào dung lượng.",
+    "zh" : "用量只能输入数字。"
+  },
+  "전송" : {
+    "en" : "Send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "{0}일이 지난 로그는 <strong>자동 삭제</strong> 처리됩니다." : {
+    "en" : "A log from more than {0} days ago will be <strong>automatically deleted</strong>.",
+    "ja" : "{0}日が経過したログは<strong>自動削除</strong>処理されます。",
+    "vi" : "Nhật ký quá {0} ngày thì sẽ bị xử lý </strong> xóa <strong>tự động",
+    "zh" : "经过{0}日的登录会被<strong>自动删除</strong> 处理。"
+  },
+  "등록승인 사용자" : {
+    "en" : "Approved Users (Registration)",
+    "ja" : "登録承認のユーザー",
+    "vi" : "Phê duyệt cho người dùng đăng",
+    "zh" : "登录承认使用者"
+  },
+  "이동대상폴더에 쓰기권한이 없습니다.<BR>확인후 다시 시도하여주십시오." : {
+    "en" : "You don't have permission to write for the target folder. <BR> Please, check and try again.",
+    "ja" : "移動対象フォルダの書き込み権限がありません。<BR>ご確認後、もう一度お試しください",
+    "vi" : "Bạn không có quyền ghi vào thư mục cần di chuyển. Vui lòng kiểm tra và thử lại.",
+    "zh" : "移动对象文件夹上您没有写权限。请<BR>确认后再试试。"
+  },
+  "대여 관리자" : {
+    "en" : "Admin (Rent/Borrow)",
+    "ja" : "貸し出し管理者",
+    "vi" : "Người quản lý cho vay mượn",
+    "zh" : "出租管理者"
+  },
+  "공유폴더 최상위폴더는 이동할 수 없습니다." : {
+    "en" : "The highest shared folder cannot be moved.",
+    "ja" : "共有フォルダの最上位フォルダは移動できません。",
+    "vi" : "Không thể di chuyển vị trí trên cùng của thư mục được chia sẻ.",
+    "zh" : "共有文件夹最上位文件夹不可移动。"
+  },
+  "부서 혹은 사용자그룹이 공유하는 회사폴더를 관리합니다." : {
+    "en" : "You can manage public folders that are shared by departments and user groups.",
+    "ja" : "部署あるいはユーザーグループが共有する共用フォルダを管理します。",
+    "vi" : "Quản lý thư mục chung do nhóm người dùng hoặc bộ phận chia sẻ.",
+    "zh" : "管理部门或使用者组织共有的公用文件夹。"
+  },
+  "비밀번호는 4~12자 이어야 합니다. \\n비밀번호를  다시 입력하세요." : {
+    "en" : "Password should be between 4~12 characters. \\n\\n Please, re-enter Password.",
+    "ja" : "パスワードは4~12文字です。\\n\\nもう一度パスワードを入力してください。",
+    "vi" : "Mật khẩu phải từ 4~12 chữ. Hãy nhập lại mật khẩu.",
+    "zh" : "密码得4~12字。请再输入\\n\\n密码。"
+  },
+  "읽기/쓰기" : {
+    "en" : "Read/Write",
+    "ja" : "読む/書く",
+    "vi" : "Đọc/ Viết",
+    "zh" : "读/写"
+  },
+  "[회사폴더] {0} 하위에 &#39;{1}&#39;을(를) <font color='red'>업로드</font>했습니다." : {
+    "en" : "&#39;{1}&#39; has been <font color='red'>uploaded</font> to [Public Folder] {0}.",
+    "ja" : "[共用フォルダ] {0}下位へ&#39;{1}&#39;を<font color='red'>アップロード</font>しました。",
+    "vi" : "Đã tải lên <font color='red'> &#39;{1}&#39; vào bên trong {0} của [Thư mục chung].",
+    "zh" : "[公用文件夹] {0} 下位的 &#39;{1}&#39;上传至 <font color='red'></font>完毕。"
+  },
+  "메일 클라이언트로 보내기" : {
+    "en" : "Send from mail client",
+    "ja" : "メールクライアントで送信",
+    "vi" : "Gửi bằng mail client",
+    "zh" : "为邮件客户发送"
+  },
+  "외부폴더를 추가합니다." : {
+    "en" : "You can add external folders.",
+    "ja" : "外部フォルダを追加します。",
+    "vi" : "Thêm thư mục bên ngoài",
+    "zh" : "追加外部文件夹。"
+  },
+  "클릭하시면 파일함으로 이동합니다." : {
+    "en" : "Click to move to Filebox.",
+    "ja" : "クリックするとファイルに移動します。",
+    "vi" : "Nếu nhấn vào sẽ di chuyển tới hộp file.",
+    "zh" : "点击的话会移动到文件箱。"
+  },
+  "상위 폴더 공유 시, 하위 폴더는 공유 정보를 변경할 수 없습니다" : {
+    "en" : "When sharing a parent folder, the shared information of subfolders cannot be changed.",
+    "ja" : "上位フォルダを共有している場合、下位フォルダの共有情報は変更できません。",
+    "vi" : "Khi chia sẻ thư mục mẹ, không thể thay đổi thông tin chia sẻ ở thư mục con",
+    "zh" : "若共享上级文件夹，则无法修改其下级文件夹共享信息"
+  },
+  "아이디는" : {
+    "en" : "ID is",
+    "ja" : "IDは",
+    "vi" : "ID là",
+    "zh" : "用户名"
+  },
+  "관리자 권한이 없습니다." : {
+    "en" : "You have no admin permission.",
+    "ja" : "管理者権限がありません。",
+    "vi" : "Không có quyền hạn quản trị viên.",
+    "zh" : "没有管理者权限。"
+  },
+  "이동하시겠습니까?" : {
+    "en" : "Do you want to move it?",
+    "ja" : "移動しますか？",
+    "vi" : "Bạn có muốn di chuyển không?",
+    "zh" : "要移动吗？"
+  },
+  "{0}을(를) [스페이스 폴더] {1} 로 <font color='red'>복사</font>했습니다." : {
+    "en" : "You copied {0} to [Space Folder] {1} <font color='red'> </font>.",
+    "ja" : "{0}を[スペースフォルダ]{1}に<font color='red'>コピー</font>しました。",
+    "vi" : "Đã</font>sao chép<font color='red'>{0}làm [Thư mục Space] {1}.",
+    "zh" : "已将{0}复制于 [空间文件夹] {1} 中 <font color='red'></font>。"
+  },
+  "파일 올리기" : {
+    "en" : "Upload File",
+    "ja" : "ファイルアップロード",
+    "vi" : "Tải file lên",
+    "zh" : "上载文档"
+  },
+  "할당용량" : {
+    "en" : "Space quota",
+    "ja" : "割当容量",
+    "vi" : "Hạn ngạch dung lượng",
+    "zh" : "分配用量"
+  },
+  "기능메뉴" : {
+    "en" : "Option menu",
+    "ja" : "機能メニュー",
+    "vi" : "Menu chức năng",
+    "zh" : "功能项目"
+  },
+  "{0} 방식" : {
+    "en" : "{0} format",
+    "ja" : "{0}方式",
+    "vi" : "Phương thức {0}",
+    "zh" : "{0} 方式"
+  },
+  "파일목록" : {
+    "en" : "List of files",
+    "ja" : "ファイルリスト",
+    "vi" : "Danh sách file",
+    "zh" : "文件目录"
+  },
+  "대상 폴더에 쓰기권한이 없습니다. \\n쓰기 권한이 있는 폴더만 이동할수 있습니다." : {
+    "en" : "You don't have permission to write in the target folder. \\nYou can only move folders that you have write permission.",
+    "ja" : "対象フォルダに対する書き込み権限がありません。\\n書き込み権限があるフォルダのみ移動することができます。",
+    "vi" : "Bạn không có quyền ghi đối với thư mục này. \\n Bạn chỉ có thể sao chép các thư mục mà bạn có quyền được ghi.",
+    "zh" : "在对象文件夹没有写权限。\\n只能移动有写权限的文件夹。"
+  },
+  "쪽지로 보내기" : {
+    "en" : "Send as message",
+    "ja" : "メッセージで送信",
+    "vi" : "Gửi bằng lời nhắn",
+    "zh" : "为纸条发送"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Khởi tạo",
+    "zh" : "初始化"
+  },
+  "사용자 추가" : {
+    "en" : "Add a user",
+    "ja" : "ユーザー追加",
+    "vi" : "Thêm người dùng",
+    "zh" : "追加使用者"
+  },
+  "필수 파일함명을 입력하세요." : {
+    "en" : "Type a required file box name.",
+    "ja" : "必須ファイル名を入力してください。",
+    "vi" : "Hãy nhập tên hộp file bắt buộc",
+    "zh" : "请输入必须文档箱名。"
+  },
+  "선택된 폴더 또는 파일의 이름을 변경합니다." : {
+    "en" : "Change the name of the selected folder or file.",
+    "ja" : "選択したフォルダまたはファイルの名前を変更します。",
+    "vi" : "Thay đổi tên file hoặc thư mục đã chọn.",
+    "zh" : "改变所选择的文件夹或文件的名称."
+  },
+  "복사" : {
+    "en" : "Copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "拷贝"
+  },
+  "비밀번호를 확인하세요.\\n비밀번호와 비밀번호 확인이 일치하지 않습니다." : {
+    "en" : "Check the password.<br><br> Password does not match with Confirm Password.",
+    "ja" : "パスワードを確認してください。<br><br>パスワードとパスワード確認が一致しません。",
+    "vi" : "Hãy kiểm tra lại mật khẩu.<br><br> Mật khẩu và Xác nhận mật khẩu không giống nhau.",
+    "zh" : "请确认密码。<br><br>密码跟确认密码不一致。"
+  },
+  "스페이스 폴더없음" : {
+    "en" : "No Space Folder",
+    "ja" : "スペースフォルダなし",
+    "vi" : "Không có thư mục Space",
+    "zh" : "无空间文件夹"
+  },
+  "공유할 폴더는 하나만 선택하세요." : {
+    "en" : "You have to select only one(1) folder to share.",
+    "ja" : "共有するフォルダを一つだけ選択してください。",
+    "vi" : "Hãy chỉ chọn một thư mục để chia sẻ.",
+    "zh" : "请选择一个要共有的文件夹。"
+  },
+  "새폴더" : {
+    "en" : "Folder",
+    "ja" : "新しいフォルダー",
+    "vi" : "Folder mới",
+    "zh" : "新文件夹"
+  },
+  "[스페이스 폴더] {0} 하위에 &#39;{1}&#39;을(를) <font color='red'>업로드</font>했습니다." : {
+    "en" : "[Space Folder] {0} under &#39;{1}&#39; to <font color='red'>upload</font>.",
+    "ja" : "[スペースフォルダ]{0}の下位に&#39;{1}&#39;を<fontcolor='red'>アップロード</font>しました。",
+    "vi" : "Đã</font>tải lên<font color='red'> (...) <font color='red'> trong mục dưới [Thư mục Space] {0}",
+    "zh" : "文件[空间文件夹] {0} 下级的 &#39;{1}&#39; <font color='red'>上传</font>。"
+  },
+  "파일함" : {
+    "en" : "Filebox",
+    "ja" : "ファイル",
+    "vi" : "Tên file",
+    "zh" : "文件箱"
+  },
+  "읽기" : {
+    "en" : "Read",
+    "ja" : "読む",
+    "vi" : "Đọc",
+    "zh" : "读"
+  },
+  "스페이스 파일함명" : {
+    "en" : "Space File Box Name",
+    "ja" : "スペースファイルボックス名",
+    "vi" : "Tên hòm tệp tin Space",
+    "zh" : "空间文件夹名"
+  },
+  "파일함 전체용량보다 값이 클 수 없습니다." : {
+    "en" : "The value cannot be greater than the total storage size of the filebox.",
+    "ja" : "ファイルの全体容量より値を大きくすることはできません。",
+    "vi" : "Giá trị không thể lớn hơn toàn bộ dung lượng hộp file.",
+    "zh" : "值无法大于文档箱全体容量。"
+  },
+  "공유폴더" : {
+    "en" : "Shared Folder",
+    "ja" : "共有フォルダ",
+    "vi" : "Thư mục chia sẻ",
+    "zh" : "共享文件夹"
+  },
+  "개인폴더 용량수정" : {
+    "en" : "Modify personal folder space",
+    "ja" : "個人フォルダの容量修正",
+    "vi" : "Cài đặt dung lượng thư mục cá nhân",
+    "zh" : "修改个人文件夹用量"
+  },
+  "복사중 오류가 발생하였습니다.<br><br>관리자에게 문의하여 주십시오." : {
+    "en" : "An error has occurred while copying.<br><br> Please, contact the administrator.",
+    "ja" : "コピー中にエラーが発生しました。<br><br>管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi trong quá trình sao chép. Hãy liên hệ với người quản lý <br><br>.",
+    "zh" : "拷贝中发生了错误。请给<br><br>管理者询问。"
+  },
+  "외부폴더 공유 설정 정보를 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete the external folder sharing configuration information?",
+    "ja" : "外部フォルダーの共有設定情報を削除しますか？",
+    "vi" : "Bạn có muốn xóa thông tin cấu hình chia sẻ thư mục bên ngoài không?",
+    "zh" : "您是否要删除外部文件夹的共享设置信息？"
+  },
+  "파일함 전체 용량" : {
+    "en" : "Filebox Total Space",
+    "ja" : "ファイルBox全体容量",
+    "vi" : "Toàn bộ dung lượng hộp file",
+    "zh" : "文件箱全体用量"
+  },
+  "해당 공용폴더의 설정된 용량이 없습니다." : {
+    "en" : "No set space (capacity) for this common (public) folder.",
+    "ja" : "この共用フォルダに設定された容量がありません。",
+    "vi" : "Không có dung lượng thiết lập cho thư mục cụ thể được chia sẻ",
+    "zh" : "有关公用文件夹上没有设定的用量。"
+  },
+  "Activity는 PC버전에서 확인하실 수 있습니다." : {
+    "en" : "You can view activities in the PC version.",
+    "ja" : "ActivityはPC版で確認できます。",
+    "vi" : "Hoạt động có thể được kiểm tra ở PC",
+    "zh" : "Activity可以在 PC版本确认。"
+  },
+  "폴더 Activity 알림" : {
+    "en" : "Folder Activity Notification",
+    "ja" : "フォルダのアクティビティ通知",
+    "vi" : "Thông báo hoạt động thư mục",
+    "zh" : "提醒文件夹 Activity"
+  },
+  "로그아웃" : {
+    "en" : "Logout",
+    "ja" : "ログアウト",
+    "vi" : "Thoát",
+    "zh" : "推出"
+  },
+  "현재 외부폴더 공유자가 외부폴더를 사용할 수 없는 상태입니다.<br>관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "Currently, the external folder sharer cannot use the external folder.<br> Please contact the administrator.",
+    "ja" : "現在、外部フォルダの共有者が外部フォルダの使用ができない状態です。<br>管理者にお問い合わせください。",
+    "vi" : "Hiện tại người chia sẻ thư mục bên ngoài không thể sử dụng thư mục bên ngòai. <br> Xin hãy liên hệ với người quản lý.",
+    "zh" : "现在是外部文件夹共有者不可使用外部文件夹的状态。"
+  },
+  "로그 삭제 주기" : {
+    "en" : "Log Deletion Cycle",
+    "ja" : "ログ削除周期",
+    "vi" : "Chu kì xóa nhật ký",
+    "zh" : "删除登录"
+  },
+  "대상폴더를 선택하세요." : {
+    "en" : "Select the target folder.",
+    "ja" : "対象フォルダを選択してください。",
+    "vi" : "Chọn thư mục đích.",
+    "zh" : "请选择对象文件夹。"
+  },
+  "오류가 발생하였습니다." : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi.",
+    "zh" : "发生了错误。"
+  },
+  "공용폴더 최상위폴더는 이동할 수 없습니다." : {
+    "en" : "The highest common (public) cannot be moved.",
+    "ja" : "共用フォルダの最上位フォルダは移動できません。",
+    "vi" : "Không thể di chuyển thư mục được chia sẻ thuộc thư mục cao nhất",
+    "zh" : "公用文件夹的最上位文件夹不可移动。"
+  },
+  "스캔보관함" : {
+    "en" : "scan folder",
+    "ja" : "スキャンフォルダ",
+    "vi" : "Hộp lưu giữ Scan",
+    "zh" : "浏览文件夹"
+  },
+  "목록 설정" : {
+    "en" : "List settings",
+    "ja" : "リスト設定",
+    "vi" : "Thiết lập danh sách",
+    "zh" : "列表设置"
+  },
+  "실제 사용 용량과 할당용량을 표시합니다." : {
+    "en" : "Displaying the actual usage and allocation capacity.",
+    "ja" : "実際の使用容量と割り当て容量を表示します。",
+    "vi" : "Hiển thị dung lượng sử dụng thực tế và dung lượng được phân phối.",
+    "zh" : "标出实际使用容量与安排容量。"
+  },
+  "업로드" : {
+    "en" : "Upload",
+    "ja" : "アップロード",
+    "vi" : "Tải lên",
+    "zh" : "上载"
+  },
+  "아이디를 입력해주세요." : {
+    "en" : "Please enter an ID.",
+    "ja" : "IDを入力してください。",
+    "vi" : "Hãy nhập ID.",
+    "zh" : "请输入用户名。"
+  },
+  "쓰기 권한이 없는 폴더 내에서는 폴더(파일)명을 변경할 수 없습니다." : {
+    "en" : "You can't rename the folder(file) in a folder where you don't have permission to write.",
+    "ja" : "書き込み権限のないフォルダ内ではフォルダ(ファイル)名は変更できません。",
+    "vi" : "Không thể thay đổi tên thư mục (file) trong thư mục không có quyền hạn viết.",
+    "zh" : "没有写权限的文件夹内不可变更文件夹（文件）名。"
+  },
+  "이 폴더에만 적용" : {
+    "en" : "apply to this folder only",
+    "ja" : "このフォルダと下位フォルダに全て適用フォルダにのみ適用",
+    "vi" : "Chỉ áp dụng vào thư mục này",
+    "zh" : "只适用在这个文件夹上"
+  },
+  "접근할 수 있는 권한이 없습니다." : {
+    "en" : "You do not have the access permission.",
+    "ja" : "アクセス権限がありません。",
+    "vi" : "Không có quyền tiếp cận.",
+    "zh" : "无访问权限。"
+  },
+  "{0}의 [외부폴더] {1} 하위에 &#39;{2}&#39;을(를) <font color='red'>업로드</font>했습니다." : {
+    "en" : "&#39;{2}&#39; was <font color='red'> uploaded </font> in {0}'s [external folder] {1}.",
+    "ja" : "{0}の[外部フォルダ] {1}下位に&#39;{2}&#39;を<font color='red'>アップロード</font>しました。",
+    "vi" : "Đã <font color='red'>tải lên</font> &#39;{2}&#39; xuống dưới [Thư mục bên ngoài] {1} của {0}",
+    "zh" : "{0}的 [外部文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>上传</font>了。"
+  },
+  "공유폴더를 수정합니다." : {
+    "en" : "You can modify shared folders.",
+    "ja" : "共有フォルダを修正します。",
+    "vi" : "Bạn có thể sửa thư mục được chia sẻ.",
+    "zh" : "修改共有文件夹。"
+  },
+  "파일함 전체용량" : {
+    "en" : "Filebox Total Space",
+    "ja" : "ファイルの全体容量",
+    "vi" : "Dung lượng toàn bộ hộp file",
+    "zh" : "文件箱全体用量"
+  },
+  "{0}을(를) [회사폴더] {1} 로 <font color='red'>이동</font>했습니다." : {
+    "en" : "{0} has been  <font color='red'> moved </font> to [Public Folder] {1}.",
+    "ja" : "{0}を[共用フォルダ] {1}へ<font color='red'>移動</font>しました。",
+    "vi" : "Đã di chuyển <font color='red'> {0} đến {1} của [Thư mục chung].",
+    "zh" : "将{0}移动至[公用文件夹] {1} <font color='red'></font>完毕。"
+  },
+  "폴더 관리" : {
+    "en" : "Folder Management",
+    "ja" : "フォルダーを管理する",
+    "vi" : "Quản lý thư mục",
+    "zh" : "管理文件夹"
+  },
+  "대상폴더의 소유자가 외부폴더 사용 권한이 없습니다." : {
+    "en" : "The target folder's owner has no permission to use the external folders.",
+    "ja" : "対象フォルダの所有者は外部フォルダの使用権限を持っていません。",
+    "vi" : "Người sở hữu thư mục đích không có quyền hạn sử dụng thư mục bên ngoài.",
+    "zh" : "对象文件夹的所有者没有外部文件夹使用权限。"
+  },
+  "사용 중 궁금한 사항은 관리자에게 문의 바랍니다." : {
+    "en" : "Please contact the administrator if you have any questions.",
+    "ja" : "使用中、気になる点がございましたら、管理者にお問い合わせください。",
+    "vi" : "Xin hãy liên hệ với người quản lý nếu có thắc mắc trong quá trình sử dụng.",
+    "zh" : "使用中有问题的话请给管理者询问。"
+  },
+  "변경식 전체 사용자의 할당 용량이 일괄적으로 변경됩니다.(개별 설정을 적용한 사용자는 제외)" : {
+    "en" : "The allocated capacity for all users will be changed collectively. (Users with individual settings will be excluded.)",
+    "ja" : "変更式のユーザー全体の割り当て容量が一括変更されます（個別設定を適用したユーザーを除く）",
+    "vi" : "Sức chứa được phân bổ cho tất cả người dùng sẽ được thay đổi đồng loạt. (Người dùng có cài đặt riêng sẽ không bị ảnh hưởng.)",
+    "zh" : "变更式全体用户的配额容量将批量变更。（应用个别设定的用户除外）"
+  },
+  "공유안함" : {
+    "en" : "Don't Share",
+    "ja" : "共有しない",
+    "vi" : "Không chia sẻ",
+    "zh" : "不共有"
+  },
+  "공유정보(회사폴더)" : {
+    "en" : "Share Details (Public Folder)",
+    "ja" : "共有情報(共用フォルダ)",
+    "vi" : "Thông tin chia sẻ (thư mục chung)",
+    "zh" : "共有信息（公用文件夹）"
+  },
+  "회사폴더 남은 용량이 부족합니다." : {
+    "en" : "There is not enough space in the public folder.",
+    "ja" : "共用フォルダの残り容量が不足しています。",
+    "vi" : "Dung lượng còn lại của thư mục chung bị thiếu.",
+    "zh" : "公用文件夹剩下的用量不够。"
+  },
+  "외부폴더 최상위에는  폴더를 생성할 수 없습니다." : {
+    "en" : "You can't create a folder on the highest external folder.",
+    "ja" : "外部フォルダの最上位にはフォルダを生成できません。",
+    "vi" : "Không thể tạo thư mục trên cùng thư mục bên ngoài.",
+    "zh" : "外部文件夹最上位不可新建文件夹。"
+  },
+  "공용폴더 최상위 폴더는 이름을 변경할 수 없습니다." : {
+    "en" : "Can't edit the name of highest (parent) common (public) folder.",
+    "ja" : "共用フォルダの最上位フォルダの名前は変更できません。",
+    "vi" : "Không thể chỉnh sửa tên thư mục được chia sẻ thuộc thư mục cao nhất",
+    "zh" : "公用文件夹的最上位文件夹名字不可变更。"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "Danh sách lựa chọn",
+    "zh" : "选择目录"
+  },
+  "외부폴더 사용자설정" : {
+    "en" : "External folder users settings",
+    "ja" : "外部フォルダのユーザー",
+    "vi" : "Cài đặt người dùng thư mục bên ngoài",
+    "zh" : "设定外部文件夹使用者"
+  },
+  "최상위 폴더 공유 삭제 시, 하위 폴더를 포함한 공유도 삭제됩니다." : {
+    "en" : "When the shared information for the top-level folder is deleted, the shared information, including the subfolders, is also deleted.",
+    "ja" : "最上位フォルダの共有を削除すると、下位フォルダを含む共有も削除されます。",
+    "vi" : "Khi xóa chia sẻ thư mục cao nhất, chia sẻ bao gồm cả thư mục con cũng được xóa.",
+    "zh" : "若删除最上级文件夹共享，包括于其下级文件夹中的共享也将被删除。"
+  },
+  "올바른 검색값을 입력하세요.\\n\\\".\\\" 으로는 검색할 수 없습니다." : {
+    "en" : "Enter a proper search value.\\nYou can't search with \\\".\\\".",
+    "ja" : "正しい検索値を入力してください。<br>.では検索できません。",
+    "vi" : "Hãy nhập giá trị tìm kiếm đúng. Không thể tìm kiếm bằng <br>\\\".\\\"",
+    "zh" : "请输入正确的搜索值。不可用<br>\\\".\\\" 进行搜索。"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "외부폴더 추가" : {
+    "en" : "Add External Folder",
+    "ja" : "外部フォルダーの追加",
+    "vi" : "Thêm thư mục bên ngoài",
+    "zh" : "添加外部文件夹"
+  },
+  "열기" : {
+    "en" : "Open",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "폴더위치" : {
+    "en" : "Folder location",
+    "ja" : "フォルダ位置",
+    "vi" : "Vị trí thư mục",
+    "zh" : "文件夹位置"
+  },
+  "파일함 수" : {
+    "en" : "File Box Count",
+    "ja" : "ファイルボックスの数",
+    "vi" : "Số lượng hòm tệp tin",
+    "zh" : "文件夹数"
+  },
+  "[회사폴더] {0} 하위에 &#39;{1}&#39;을(를) {2}으로 <font color='red'>변경</font>했습니다." : {
+    "en" : "&#39;{1}&#39;, which locates in [Shared Folder] {0}, has been <font color='red'>modified</font> to {2}.",
+    "ja" : "[共用フォルダ] {0}下位へ&#39;{1}&#39;を{2}へ<font color='red'>変更</font>しました。",
+    "vi" : "Đã thay đổi <font color='red'> &#39;{1}&#39; thành {2} trong {0} của [Thư mục chung].",
+    "zh" : "[公用文件夹] {0} 下位 &#39;{1}&#39; {2}变更至 <font color='red'></font>完毕。"
+  },
+  "외부 사용자가 파일함에 접속시 사용할 아이디, 비밀번호를 입력합니다." : {
+    "en" : "Enter ID and password that external users can use when they access the filebox.",
+    "ja" : "外部ユーザーがファイルに接続時、使用するIDとパスワードを入力します。",
+    "vi" : "Hãy nhập ID, mật khẩu sẽ sử dụng khi người dùng bên ngoài tiếp cận hộp file.",
+    "zh" : "外部使用者连接文件箱时输入要使用的用户名、密码。"
+  },
+  "공유자 추가" : {
+    "en" : "Add sharers",
+    "ja" : "共有者追加",
+    "vi" : "Thêm người chia sẻ",
+    "zh" : "追加共有人"
+  },
+  "{0}의 [외부폴더] {1} 하위에 &#39;{2}&#39;을(를) {3}으로 <font color='red'>변경</font>했습니다." : {
+    "en" : "&#39;{2}&#39;, which locates in {0}'s [external folder] {1}, has been <font color='red'>modified</font> to {3}.",
+    "ja" : "{0}の[外部フォルダ] {1}下位の&#39;{2}&#39;を<font color='red'>変更</font>しました。",
+    "vi" : "Đã <font color='red'>thay đổi</font> &#39;{2}&#39; dưới [Thư mục bên ngoài]{1} của {0} sang {3}",
+    "zh" : "{0}的 [外部文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>变更</font>了。"
+  },
+  "{0}byte 이하로 입력하세요." : {
+    "en" : "Please enter {0}byte or less.",
+    "ja" : "{0}byte以下で入力してください。",
+    "vi" : "Hãy nhập dưới 200byte.",
+    "zh" : "请输入为{0}byte 以下。"
+  },
+  "공유폴더를 설정합니다." : {
+    "en" : "You can set up shared folders.",
+    "ja" : "共有フォルダを設定します。",
+    "vi" : "Bạn có thể cài đặt thư mục được chia sẻ.",
+    "zh" : "设定共有文件夹。"
+  },
+  "외부폴더 수정" : {
+    "en" : "Edit External Folder",
+    "ja" : "外部フォルダーの編集",
+    "vi" : "Sửa thư mục bên ngoài",
+    "zh" : "修改外部文件夹"
+  },
+  "파일함 폴더" : {
+    "en" : "Filebox folder",
+    "ja" : "ファイルBoxフォルダ",
+    "vi" : "Thư mục hộp file",
+    "zh" : "文档箱文件夹"
+  },
+  "공유 폴더" : {
+    "en" : "Shared folders",
+    "ja" : "共有されたフォルダ",
+    "vi" : "thư mục được chia sẻ",
+    "zh" : "接收共有的文件夹"
+  },
+  "용량 변경" : {
+    "en" : "Change Storage",
+    "ja" : "容量変更",
+    "vi" : "Thay đổi dung lượng",
+    "zh" : "变更用量"
+  },
+  "제한 용량을 초과하였습니다." : {
+    "en" : "It has exceeded the size limit.",
+    "ja" : "制限容量を超過しました。",
+    "vi" : "Đã vượt quá dung lượng hạn chế.",
+    "zh" : "超过了限制用量。"
+  },
+  "외부 관리" : {
+    "en" : "Manage external folders",
+    "ja" : "外部フォルダ管理",
+    "vi" : "Quản lý thư mục bên ngoài",
+    "zh" : "管理外部文件夹"
+  },
+  "개인" : {
+    "en" : "My folder",
+    "ja" : "Myフォルダ",
+    "vi" : "thư mục của tôi",
+    "zh" : "我的文件夹"
+  },
+  "변경시 기본용량을 할당받은 전체 사용자들의 기본용량이 일괄적으로 변경됩니다." : {
+    "en" : "If you click the Change button, the default space allocated to all users will be changed at one time.",
+    "ja" : "変更の際、基本容量の割当を受けた全体ユーザーの基本容量が一括変更されます。",
+    "vi" : "Khi thay đổi, dung lượng mặc định của toàn bộ người dùng nhận hạn ngạch dung lượng mặc định sẽ được thay đổi một cách nhất quán.",
+    "zh" : "变更时接收基本分配用量的全体使用者的基本用量也会被批量变更。"
+  },
+  "[스페이스 폴더] {0} 하위에 &#39;{1}&#39;을(를) {2}으로 <font color='red'>변경</font>했습니다." : {
+    "en" : "[Space Folder] {0} under &#39;{1}&#39; to {2} <font color='red'>changed</font>.",
+    "ja" : "[スペースフォルダ]{0}の下位に&#39;{1}&#39;を{2}に<fontcolor='red'>変更</font>しました。",
+    "vi" : "Đã</font>thay đổi<font color='red'> (...) thành {2} <font color='red'> trong mục dưới [Thư mục Space] {0}",
+    "zh" : "已将[空间文件夹] {0} 下级的 &#39;{1}&#39;更改为 {2} <font color='red'></font>。"
+  },
+  "[파일함]대량 다운로드 알림입니다." : {
+    "en" : "[Filebox] Large-size downloading notification.",
+    "ja" : "[ファイル]大量ダウンロード通知です。",
+    "vi" : "Đây là thông báo tải [file] dung lượng lớn",
+    "zh" : "提醒[文件箱]大量下载。"
+  },
+  "이동할 폴더나 파일을 선택하세요." : {
+    "en" : "Select the folder or file to move.",
+    "ja" : "移動するフォルダやファイルを選択してください。",
+    "vi" : "Hãy chọn file hoặc thư mục để di chuyển.",
+    "zh" : "请选择要移动的文件夹或文件。"
+  },
+  "공유폴더 추가" : {
+    "en" : "add share folders",
+    "ja" : "共有フォルダ追加",
+    "vi" : "Thêm thư mục chia sẻ",
+    "zh" : "共有文件夹"
+  },
+  "날짜순" : {
+    "en" : "By date",
+    "ja" : "日付順",
+    "vi" : "Theo ngày",
+    "zh" : "日子顺"
+  },
+  "[회사 폴더] {0}을(를) <font color='red'>다운로드</font>했습니다." : {
+    "en" : "[Company Folder] Downloaded {0} <font color='red'>file</font>.",
+    "ja" : "[会社フォルダ] {0}を<font color='red'>ダウンロード</font>しました。",
+    "vi" : "[Thư mục Công ty] Tải xuống {0} <font color='red'>tệp</font>.",
+    "zh" : "[公司文件夹]{0}已<font color='red'>下载</font>。"
+  },
+  "중지" : {
+    "en" : "Suspend",
+    "ja" : "中止",
+    "vi" : "Dừng",
+    "zh" : "停止"
+  },
+  "선택된 폴더가 없습니다.\\n확인 후 다시 시도하세요." : {
+    "en" : "No folder selected.<br> Please, check and try again.",
+    "ja" : "選択されたフォルダがありません。<br>ご確認後、再度お試しください。",
+    "vi" : "Không có thư mục được chọn. Xin hãy kiểm tra <br> và thử lại.",
+    "zh" : "没有选择的文件夹。请<br>确认后再试试。"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "全て閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "{0} 확장자는 등록할 수 없습니다." : {
+    "en" : "Extension {0} cannot be registered.",
+    "ja" : "{0} 拡張子は登録できません。",
+    "vi" : "Không thể thêm phần mở rộng {0}",
+    "zh" : "{0} 文件扩展名不可登录."
+  },
+  "{0}개 이상의 파일 다운로드시 관리자에게" : {
+    "en" : "downloaded more than {0} files for an entire day, report to the admin",
+    "ja" : "{0}個以上のファイルのダウンロード時、管理者に",
+    "vi" : "Khi nhiều hơn {0} tệp được tải xuống,",
+    "zh" : "{0}下载个以上的文档时对管理者"
+  },
+  "첨부파일 확장자 제한" : {
+    "en" : "Attachment extension limit",
+    "ja" : "添付ファイルの拡張子制限",
+    "vi" : "Giới hạn phần mở rộng của file đính kèm",
+    "zh" : "限制附件扩展名"
+  },
+  "공유해준 폴더가 없습니다." : {
+    "en" : "There are no folders that you are sharing with other people.",
+    "ja" : "共有したフォルダがありません。",
+    "vi" : "Không có thư mục chia sẻ.",
+    "zh" : "没有提供共有的文件夹。"
+  },
+  "파일함 사용현황" : {
+    "en" : "File Box Detailed Status",
+    "ja" : "ファイルボクスの使用状況",
+    "vi" : "Tình trạng sử dụng hòm tệp tin",
+    "zh" : "文件夹使用现况"
+  },
+  "현재폴더권한 : 읽기/쓰기" : {
+    "en" : "Current Permission (Folder) : Read/Write",
+    "ja" : "現在フォルダ権限 : 読む/書く",
+    "vi" : "Quyền hạn của thư mục hiện tại: Đọc/ Viết",
+    "zh" : "现在文件夹权限：读/写"
+  },
+  "{0}의 {1}을(를) <font color='red'>다운로드</font>했습니다." : {
+    "en" : "{1} of {0} was <font color='red'> downloaded </font>.",
+    "ja" : "{0}の{1}を<font color='red'>ダウンロード</font>しました。",
+    "vi" : "Đã <font color='red'>tải về</font> {1} của {0}",
+    "zh" : "把{0}的 {1} <font color='red'>下载</font>了。"
+  },
+  "복사할 수 있는 권한이 없습니다." : {
+    "en" : "You have no permission to copy.",
+    "ja" : "コピー権限がありません。",
+    "vi" : "Không có quyền sao chép",
+    "zh" : "没有可以拷贝的权限。"
+  },
+  "현재폴더용량" : {
+    "en" : "Current Folder Storage Space",
+    "ja" : "現在のフォルダ容量",
+    "vi" : "Dung lượng thư mục hiện tại",
+    "zh" : "现在文件夹用量"
+  },
+  "업로드할 파일을 선택해주세요." : {
+    "en" : "Please select a file to upload.",
+    "ja" : "アップロードするファイルを選択してください。",
+    "vi" : "Vui lòng chọn một tập tin để tải lên.",
+    "zh" : "请选择要上传的文件。"
+  },
+  "개인폴더 사용" : {
+    "en" : "Use personal folders",
+    "ja" : "個人フォルダ使用",
+    "vi" : "Sử dụng thư mục cá nhân",
+    "zh" : "使用个人文件夹"
+  },
+  "파일전송" : {
+    "en" : "Send file",
+    "ja" : "ファイル送信",
+    "vi" : "Gửi file",
+    "zh" : "发送文件"
+  },
+  "상위폴더에 권한이 없는 사용자가 존재합니다." : {
+    "en" : "There is a user who doesn't have permission for the upper (parent) folder.",
+    "ja" : "There is a user who doesn't have permission for the upper folder.",
+    "vi" : "Tồn tại người dùng không có quyền trên thư mục trên.",
+    "zh" : "上位文件夹上存在没有权限的使用者。"
+  },
+  "이동" : {
+    "en" : "Move",
+    "ja" : "移動",
+    "vi" : "Di chuyển",
+    "zh" : "移动"
+  },
+  "첨부파일을 선택하세요." : {
+    "en" : "Select an attachment .",
+    "ja" : "添付ファイルを選択してください。",
+    "vi" : "Chọn file đính kèm.",
+    "zh" : "请选择附件。"
+  },
+  "공용폴더가 아닙니다. 공용폴더만 공유가 가능합니다." : {
+    "en" : "It is not a common (public) folder. Only common (public) folders can be shared.",
+    "ja" : "共用フォルダではありません。共用フォルダのみ共有できます。",
+    "vi" : "Đây không phải thư mục chung. Chỉ có thể chia sẻ thư mục chung.",
+    "zh" : "不是共有文件夹。只有共有文件夹才能共有。"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全体期间"
+  },
+  "선택된 폴더나 파일이 없습니다." : {
+    "en" : "You haven't selected a file (or folder).",
+    "ja" : "選択したフォルダやファイルがありません。",
+    "vi" : "Không có thư mục hoặc file đã chọn.",
+    "zh" : "没有选择的文件夹或文件。"
+  },
+  "폴더형" : {
+    "en" : "Folder type",
+    "ja" : "フォルダタイプ",
+    "vi" : "Loại thư mục",
+    "zh" : "文件夹区分"
+  },
+  "이전" : {
+    "en" : "Previous",
+    "ja" : "前",
+    "vi" : "Trước",
+    "zh" : "前一个"
+  },
+  "등록된 로그가 없습니다." : {
+    "en" : "There are no registered logs.",
+    "ja" : "登録されたログがありません。",
+    "vi" : "Không có logo được đăng ký.",
+    "zh" : "没有登录的运行记录"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト型",
+    "vi" : "Loại danh sách",
+    "zh" : "目录形"
+  },
+  "선택된  폴더가 없습니다." : {
+    "en" : "There is no folder selected.",
+    "ja" : "選択されたフォルダがありません。",
+    "vi" : "Không có thư mục được chọn.",
+    "zh" : "没有选择的文件夹。"
+  },
+  "로그인" : {
+    "en" : "Log in",
+    "ja" : "ログイン",
+    "vi" : "Đăng nhập",
+    "zh" : "登录"
+  },
+  "공유관리" : {
+    "en" : "Manage shared folders",
+    "ja" : "共有フォルダ管理",
+    "vi" : "Quản lý thư mục chia sẻ",
+    "zh" : "管理共有文件夹"
+  },
+  "최근1달" : {
+    "en" : "Past 1 month",
+    "ja" : "最近1ヶ月",
+    "vi" : "1 tháng gần đây",
+    "zh" : "最近1个月"
+  },
+  "폴더는 등록할 수 없습니다." : {
+    "en" : "Folders can not be registered.",
+    "ja" : "フォルダは登録できません。",
+    "vi" : "Không thể đăng ký thư mục.",
+    "zh" : "文件夹不可登录。"
+  },
+  "개인폴더 관리" : {
+    "en" : "Manage personal folders",
+    "ja" : "個人フォルダ管理",
+    "vi" : "Quản lý thư mục cá nhân",
+    "zh" : "管理个人文件夹"
+  },
+  "파일의 확장자가 여러 개일 경우 쉼표(,)로 구분하세요." : {
+    "en" : "If there are several file extensions, separate them by comma (,).",
+    "ja" : "ファイルの拡張子が複数の場合、コンマ(,)で区分してください。",
+    "vi" : "Trong trường hợp có phần mở rộng của file, hãy phân biệt bằng dấu phẩy (,).",
+    "zh" : "文件扩展名多数的话请用逗号(,)来区分。"
+  },
+  "내폴더" : {
+    "en" : "My folder",
+    "ja" : "Myフォルダ",
+    "vi" : "Thư mục của tôi",
+    "zh" : "我的文件夹"
+  },
+  "삭제할 수 있는 권한이 없습니다." : {
+    "en" : "You have no permission to delete.",
+    "ja" : "削除権限がありません。",
+    "vi" : "Không có quyền xóa.",
+    "zh" : "没有权限删除。"
+  },
+  "사용하도록 변경 하시겠습니까?" : {
+    "en" : "Would you like to change to 'Use'?",
+    "ja" : "使用するように変更しますか？",
+    "vi" : "Bạn có muốn thay đổi để sử dụng không?",
+    "zh" : "要变更为可以使用吗？"
+  },
+  "경로" : {
+    "en" : "Path",
+    "ja" : "経路",
+    "vi" : "Đường dẫn",
+    "zh" : "路径"
+  },
+  "선택된 폴더 또는 파일을 삭제합니다." : {
+    "en" : "Delete the selected folder or file.",
+    "ja" : "選択したフォルダまたはファイルを削除します。",
+    "vi" : "Xóa file hoặc thư mục đã chọn",
+    "zh" : "删除选中的文件夹或文件."
+  },
+  "상위폴더 공유정보가 없습니다." : {
+    "en" : "There is no upper (parent) folder shared information.",
+    "ja" : "上位フォルダの共有情報がありません。",
+    "vi" : "Không có thông tin chia sẻ thư mục trên.",
+    "zh" : "没有上位文件夹共有信息。"
+  },
+  "공유해준 사용자" : {
+    "en" : "Shared by (User)",
+    "ja" : "共有してくれたユーザー",
+    "vi" : "Người dùng sẽ chia sẻ",
+    "zh" : "提供共有的使用者"
+  },
+  "사용자의 개인폴더 남은 용량이 부족합니다." : {
+    "en" : "There is not enough space in the user's personal folder.",
+    "ja" : "ユーザーの個人フォルダの残り容量が不足しています。",
+    "vi" : "Thư mục cá nhân của người dùng không còn nhiều dung lượng.",
+    "zh" : "使用者的个人文件夹剩下的用量不够。"
+  },
+  "파일명을 입력하세요." : {
+    "en" : "Enter a file name.",
+    "ja" : "ファイル名を入力してください。",
+    "vi" : "Nhập tên file",
+    "zh" : "请输入文件名夹名。"
+  },
+  "실제 사용 용량을 표시합니다." : {
+    "en" : "It shows the actual space available.",
+    "ja" : "実際の使用容量を表示します。",
+    "vi" : "Hiển thị dung lượng sử dụng thực tế.",
+    "zh" : "表示实际使用用量"
+  },
+  "스페이스 할당용량보다 값이 클 수 없습니다." : {
+    "en" : "The value cannot be larger than the Space capacity.",
+    "ja" : "スペースの割当て容量より値を大きくすることはできません。",
+    "vi" : "Giá trị không thể lớn hơn dung lượng Space được phân phối.",
+    "zh" : "数值不可比空间文件容量大。"
+  },
+  "읽기/쓰기/삭제(관리자설정)" : {
+    "en" : "Read/Write/Delete(Admin settings)",
+    "ja" : "読む/書く/削除(管理者設定）",
+    "vi" : "Đọc/ Viết/ Xóa (Cài đặt người quản lý)",
+    "zh" : "读/写/删除(管理者设定)"
+  },
+  "변경시 기본용량을 할당받은 전체 사용자들의 할당용량이 일괄적으로 변경됩니다." : {
+    "en" : "When changed, the allocation capacity of all the basic capacity users will be collectively changed.",
+    "ja" : "変更する時に基本容量を割り当てられた全ユーザーの割り当て容量が一括で変更されます。",
+    "vi" : "Khi thay đổi, dung lượng phân bổ của toàn bộ người sử dụng nhận được dung lượng cơ bản sẽ thay đổi đồng loạt.",
+    "zh" : "若进行更改，则一同更改所有安排基本容量的空间容量。"
+  },
+  "선택하신 폴더에 쓰기 권한이 없습니다." : {
+    "en" : "You don't have permission to write for the selected folder.",
+    "ja" : "選択したフォルダの書き込み権限がありません。",
+    "vi" : "Không có quyền viết thư mục đã chọn",
+    "zh" : "选择的文件夹您没有写权限。"
+  },
+  "삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の終了日は開始日より未来の日付を設定してください。",
+    "vi" : "Ngày bắt đầu của khoảng thời gian chọn không thể muộn hơn ngày kết thúc.",
+    "zh" : "选择期间的开始日子不可大于结束日子。"
+  },
+  "쓰기" : {
+    "en" : "Write",
+    "ja" : "書き込む",
+    "vi" : "Viết",
+    "zh" : "写"
+  },
+  "복사본" : {
+    "en" : "Copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "拷贝本"
+  },
+  "크기" : {
+    "en" : "Size",
+    "ja" : "サイズ",
+    "vi" : "Kích cỡ",
+    "zh" : "大小"
+  },
+  "기간선택" : {
+    "en" : "Select a period",
+    "ja" : "期間選択",
+    "vi" : "Chọn khoảng thời gian",
+    "zh" : "选择期间"
+  },
+  "공유함" : {
+    "en" : "Share",
+    "ja" : "共有する",
+    "vi" : "Chia sẻ",
+    "zh" : "共有"
+  },
+  "특수문자는 입력할 수 없습니다." : {
+    "en" : "Special characters cannot be used.",
+    "ja" : "特殊文字は入力できません。",
+    "vi" : "Không thể nhập ký tự đặc biệt.",
+    "zh" : "特殊文字不可输入"
+  },
+  "파일함 관리" : {
+    "en" : "Manage Filebox",
+    "ja" : "ファイル管理",
+    "vi" : "Quản lý hộp file",
+    "zh" : "管理文件箱"
+  },
+  "쪽지 발송" : {
+    "en" : "Send message",
+    "ja" : "メッセージ送信",
+    "vi" : "Gửi lời nhắn",
+    "zh" : "发送纸条"
+  },
+  "공유폴더 최상위에는 폴더를 생성할 수 없습니다." : {
+    "en" : "You can't create a folder on the highest shared folder.",
+    "ja" : "共有フォルダの最上位にはフォルダを生成できません。",
+    "vi" : "Không thể tạo thư mục trên cùng thư mục được chia sẻ.",
+    "zh" : "共有文件夹最上位不可新建文件夹。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "같은 폴더로 복사할 수 없습니다." : {
+    "en" : "You cannot copy it to the same folder.",
+    "ja" : "同じフォルダにコピーすることはできません。",
+    "vi" : "Không thể sao chép cùng một thư mục.",
+    "zh" : "不可拷贝到同一个文件夹。"
+  },
+  "검색결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果がありません。",
+    "vi" : "Không có kết quả được tìm thấy.",
+    "zh" : "没有搜索结果。"
+  },
+  "공유폴더 최상위로는 복사 혹은 이동할 수 없습니다." : {
+    "en" : "You can't copy or move files to the highest (parent) common (public) folder.",
+    "ja" : "共有フォルダの最上位にはコピーまたは移動できません。",
+    "vi" : "Không thể di chuyển hoặc sao chép vị trí trên cùng của thư mục được chia sẻ.",
+    "zh" : "不可往共有文件夹最上位拷贝或移动。"
+  },
+  "설정을 변경하시겠습니까?" : {
+    "en" : "Do you want to change the settings?",
+    "ja" : "設定を変更しますか？",
+    "vi" : "Bạn có muốn thay đổi cài đặt không?",
+    "zh" : "要变更设定吗？"
+  },
+  "[회사폴더] {0} 하위에 &#39;{1}&#39;을(를) <font color='red'>삭제</font>했습니다." : {
+    "en" : "&#39;{1}&#39; folder has been <font color='red'>deleted</font> below the [Public Folder] {0}.",
+    "ja" : "[共用フォルダ] {0}下位へ&#39;{1}&#39;を<font color='red'>削除</font>しました。",
+    "vi" : "Đã xóa <font color='red'>, &#39;{1}&#39; cho thư mục con {0} của [Thư mục chung].",
+    "zh" : "[公用文件夹] {0} 下位的 &#39;{1}&#39;文件 <font color='red'>=</font>已删除。"
+  },
+  "개 이상의 파일 다운로드시 관리자에게" : {
+    "en" : "When more than {0} files are downloaded,",
+    "ja" : "個以上のファイルのダウンロード時、管理者に",
+    "vi" : "Khi nhiều hơn {0} tệp được tải xuống,",
+    "zh" : "下载个以上的文档时对管理者"
+  },
+  "외부폴더 최상위에는 업로드할 수 없습니다." : {
+    "en" : "You cannot upload files to the highest external folder.",
+    "ja" : "外部フォルダの最上位にはアップロードできません。",
+    "vi" : "Không thể tải lên vị trí trên cùng của thư mục bên ngoài",
+    "zh" : "外部文件夹最上位不可上载。"
+  },
+  "다운로드할 파일을 선택하세요." : {
+    "en" : "Select the file to download.",
+    "ja" : "ダウンロードするファイルを選択してください。",
+    "vi" : "Hãy chọn file để tải xuống.",
+    "zh" : "请选择要下载的文件。"
+  },
+  "이동할 수 있는 권한이 없습니다" : {
+    "en" : "You don't have permission to move.",
+    "ja" : "移動する権限がありません。",
+    "vi" : "Bạn không có quyền tiến hành di chuyển.",
+    "zh" : "没有可以移动的权限。"
+  },
+  "검색중" : {
+    "en" : "Searching",
+    "ja" : "検索中",
+    "vi" : "Đang tìm kiếm",
+    "zh" : "搜索中"
+  },
+  "새로고침" : {
+    "en" : "Refresh",
+    "ja" : "リロード",
+    "vi" : "Làm mới",
+    "zh" : "更新"
+  },
+  "이름변경할 수 있는 권한이 없습니다." : {
+    "en" : "You don't have permission to rename.",
+    "ja" : "名前を変更する権限がありません。",
+    "vi" : "Bạn không có quyền để đổi tên.",
+    "zh" : "没有可以变更名字的权限。"
+  },
+  "파일 업로드" : {
+    "en" : "Upload files",
+    "ja" : "ファイルアップロード",
+    "vi" : "Tải lên file",
+    "zh" : "上载文件"
+  },
+  "이름 바꾸기" : {
+    "en" : "Rename",
+    "ja" : "名前変更",
+    "vi" : "Thay đổi tên",
+    "zh" : "变更名字"
+  },
+  "파일을 설정한 개수 이상 다운로드한 사용자가 있습니다." : {
+    "en" : "There are users who have downloaded the file more than the set number of times.",
+    "ja" : "設定した数以上のファイルをダウンロードしたユーザーがいます。",
+    "vi" : "Có người dùng đã tải xuống tệp tin nhiều hơn số lần quy định.",
+    "zh" : "存在下载文件数量超过设定数量的用户。"
+  },
+  "비밀번호는 영문과 숫자의 조합입니다. 보안 정책에 위배되어 사용할 수 없습니다. \\n비밀번호를 다시 입력하세요." : {
+    "en" : "Password is a combination of English letters and numbers. The current password that you have entered violates the security policy.\\n\\nPlease enter a different password.",
+    "ja" : "パスワードは英文と数字の組み合わせです。セキュリティーポリシーに反するため使用できません。\\n\\nもう一度パスワードを入力してください。",
+    "vi" : "Mật khẩu là tổ hợp của ký tự tiếng Anh và số. Đã vi phạm chính sách bảo mật nên không thể sử dụng. Hãy nhập lại mật khẩu.",
+    "zh" : "密码使用英文和数字的组合。由于违背保安政策而不可使用。请再输入 \\n\\n密码。"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space in Charge",
+    "ja" : "スペースのホスト",
+    "vi" : "Người phụ trách Space",
+    "zh" : "空间负责人"
+  },
+  "업로드 제한 확장자" : {
+    "en" : "Upload restriction extension.",
+    "ja" : "アップロード制限の拡張子",
+    "vi" : "Đuôi tệp bị hạn chế tải lên",
+    "zh" : "受到上传限制的扩展名"
+  },
+  "[스페이스 폴더] {0} 하위에 &#39;{1}&#39;을(를) <font color='red'>삭제</font>했습니다." : {
+    "en" : "[Space Folder] {0} under &#39;{1}&#39; <font color='red'>Deleted</font>.",
+    "ja" : "[スペースフォルダ]{0}の下位に&#39;{1}&#39;を<font color='red'>削除</font>しました。",
+    "vi" : "Đã</font>xóa<font color='red'> (...) <font color='red'> trong mục dưới [Thư mục Space] {0}",
+    "zh" : "已将[空间文件夹] {0} 下级的 &#39;{1}&#39; <font color='red'>删除</font>。"
+  },
+  "업로드 제한 확장자는 (영문기준)최대 {0}자,(한글기준)최대 {1}자 까지 입력할 수 있습니다." : {
+    "en" : "You can enter up to (English) {0] characters, (Korean) {1} characters in the Upload Restriction Extension.",
+    "ja" : "アップロード制限拡張子は(英文基準)最大%s文字、(ハングル基準)最大%s文字まで入力できます。",
+    "vi" : "Bạn có thể nhập tối đa %s chữ (tiêu chuẩn tiếng Anh), %s chữ (tiêu chuẩn tiếng Hàn) để mở rộng phần giới hạn tải lên.",
+    "zh" : "上传制限文件扩展名可以输入(英文为基准)最多 {0}字,(韩文为基准)最多 {1}字。"
+  },
+  "이름을 변경할 폴더(파일)를 선택하세요." : {
+    "en" : "Select the folder (file) to rename.",
+    "ja" : "名前を変更するフォルダ(ファイル)を選択してください。",
+    "vi" : "Hãy chọn thư mục (file) để đổi tên.",
+    "zh" : "请选择要变更名字的文件夹（文件）。"
+  },
+  "선택된 폴더 또는 파일을 복사합니다." : {
+    "en" : "Copy the selected folder or file.",
+    "ja" : "選択したフォルダまたはファイルをコピーします。",
+    "vi" : "Sao chép file hoặc thư mục đã chọn.",
+    "zh" : "复制所选文件夹或文件."
+  },
+  "사용자 로그조회" : {
+    "en" : "View user logs",
+    "ja" : "ユーザーログ照会",
+    "vi" : "Xem nhật ký người dùng",
+    "zh" : "查询使用者登录"
+  },
+  "공유 속성을 상속합니다. 이동하시겠습니까?" : {
+    "en" : "Inherit share properties. Do you want to move?",
+    "ja" : "共有プロパティを継承します。移動しますか？",
+    "vi" : "Truyền lại thuộc tính chia sẻ. Bạn có muốn di chuyển không?",
+    "zh" : "共享属性将被继承。是否确认移动？"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件夹名"
+  },
+  "선택된 파일을 첨부파일로 문서 등록합니다." : {
+    "en" : "Attach the selected files to a document.",
+    "ja" : "選択したファイルを添付ファイルで文書登録します。",
+    "vi" : "Đăng file đã chọn như file đính kèm.",
+    "zh" : "与所选择的附加文件的文件登记文档."
+  },
+  "{0}의 {1} 하위에 &#39;{2}&#39;을(를) {3}으로 <font color='red'>변경</font>했습니다." : {
+    "en" : "&#39;{2}&#39;, which locates in {0} of {1}, has been <font color='red'>modified</font> to {3}.",
+    "ja" : "{0}の{1}下位の&#39;{2}&#39;を<font color='red'>変更</font>しました。",
+    "vi" : "Đã <font color='red'>thay đổi</font> &#39;{2}&#39; dưới {1} của {0} sang {3}",
+    "zh" : "{0}的 {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>变更</font>了。"
+  },
+  "등록된 Activity가 없습니다." : {
+    "en" : "No registered activities.",
+    "ja" : "登録されたアクティビティがありません。",
+    "vi" : "Không có hoạt động được đăng ký",
+    "zh" : "没有登录的Activity。"
+  },
+  "폴더 생성시 오류가 발생하였습니다." : {
+    "en" : "An error has occurred while creating a folder.",
+    "ja" : "フォルダの生成時にエラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi khi tạo thư mục.",
+    "zh" : "新建文件夹时发生了错误。"
+  },
+  "개인공유 사용" : {
+    "en" : "Use personal sharing",
+    "ja" : "個人共有使用",
+    "vi" : "Sử dụng chia sẻ cá nhân",
+    "zh" : "使用个人共有"
+  },
+  "공용폴더 최상위에는 업로드할 수 없습니다." : {
+    "en" : "You cannot upload files to the highest common (public) folder.",
+    "ja" : "共用フォルダの最上位にはアップロードできません。",
+    "vi" : "Không thể tải lên trong thư mục được chia sẻ thuộc thư mục cao nhất",
+    "zh" : "在公用文件夹的最上位上不可上载。"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Lựa chọn",
+    "zh" : "选择"
+  },
+  "업로드 경로" : {
+    "en" : "Upload Path",
+    "ja" : "アップロード経路",
+    "vi" : "Lộ trình tải lên",
+    "zh" : "上载路径"
+  },
+  "{0}의 [외부폴더] {1} 하위에 &#39;{2}&#39;을(를) <font color='red'>삭제</font>했습니다." : {
+    "en" : "&#39;{2}&#39; was <font color='red'> deleted </font> from {0}'s [external folder] {1}.",
+    "ja" : "{0}の[外部フォルダ] {1} 下位の&#39;{2}&#39;を<font color='red'>削除</font>しました。",
+    "vi" : "Đã <font color='red'>xóa</font> Folder &#39;{2}&#39; dưới [Folder bên ngoài] {1} của {0}",
+    "zh" : "{0}的 [外部文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>删除</font>了。"
+  },
+  "관리자권한이 없어 새폴더를 생성할 수 없습니다." : {
+    "en" : "You cannot create a new folder because you do not have administrator permission.",
+    "ja" : "管理者権限がないため、新しいフォルダを生成できません。",
+    "vi" : "Bạn không thể tạo thư mục mới do không có quyền quản trị viên.",
+    "zh" : "由于没有管理者权限而不可生成新的文件夹。"
+  },
+  "최상위 폴더 공유 정보 변경 시, 하위 폴더 공유자도 함께 변경됩니다." : {
+    "en" : "If the shared information for the top-level folder is changed, the shared users for the subfolders will also be changed.",
+    "ja" : "最上位フォルダの共有情報を変更すると、下位フォルダの共有者も変更されます。",
+    "vi" : "Khi thay đổi thông tin chia sẻ thư mục cấp cao nhất, người chia sẻ thư mục con cũng thay đổi.",
+    "zh" : "若更改最上级文件夹共享信息，其下级文件夹共享人将一同被更改。"
+  },
+  "복사 하시겠습니까?" : {
+    "en" : "Do you want to copy it?",
+    "ja" : "コピーしますか？",
+    "vi" : "Bạn có muốn sao chép không?",
+    "zh" : "要拷贝吗？"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "복사되었습니다." : {
+    "en" : "Copied",
+    "ja" : "コピーされました。",
+    "vi" : "Đã sao chép",
+    "zh" : "拷贝完了。"
+  },
+  "비밀번호는" : {
+    "en" : "Password is",
+    "ja" : "パスワードは",
+    "vi" : "Mật khẩu là",
+    "zh" : "密码"
+  },
+  "보기 설정" : {
+    "en" : "View' Settings",
+    "ja" : "表示設定",
+    "vi" : "Xem thiết lập",
+    "zh" : "设定看法"
+  },
+  "내역" : {
+    "en" : "Details",
+    "ja" : "履歴",
+    "vi" : "Chi tiết",
+    "zh" : "明细"
+  },
+  "즐겨찾기 추가" : {
+    "en" : "Add to Favorites",
+    "ja" : "お気に入り追加",
+    "vi" : "Thêm vào tìm kiếm yêu thích",
+    "zh" : "追加收藏夹"
+  },
+  "이름은" : {
+    "en" : "Name is",
+    "ja" : "名前は",
+    "vi" : "Tên là",
+    "zh" : "名字"
+  },
+  "특수문자(\\\\ / : * ? \\\" \\' < > | )는 입력할 수 없습니다." : {
+    "en" : "You can't enter special characters such as (\\\\ / : * ? \\\" < > | ).",
+    "ja" : "特殊文字(\\\\ / : * ?  < > | )は入力できません。",
+    "vi" : "Không thể nhập ký tự đặc biệt như (\\\\ / : * ? \\\" < > | )",
+    "zh" : "不可输入特殊文字(\\\\ / : * ? \\\" < > | )。"
+  },
+  "사이드메뉴" : {
+    "en" : "Sidebar menu",
+    "ja" : "サイドメニュー",
+    "vi" : "Menu sidebar",
+    "zh" : "副品菜单"
+  },
+  "회사" : {
+    "en" : "Public folder",
+    "ja" : "共用フォルダ",
+    "vi" : "Thư mục chung",
+    "zh" : "公用文件夹"
+  },
+  "현재폴더에 파일을 업로드합니다." : {
+    "en" : "Upload the files in the current folder.",
+    "ja" : "現在のフォルダにファイルをアップロードします。",
+    "vi" : "Đang tải file lên thư mục hiện tại.",
+    "zh" : "上传在当前文件夹中的文件."
+  },
+  "더 넓게" : {
+    "en" : "Wider",
+    "ja" : "もっと広く",
+    "vi" : "Rộng hơn",
+    "zh" : "更宽大"
+  },
+  "선택된 파일을 대용량 첨부파일로 발송합니다." : {
+    "en" : "Send the selected files with as a large-size attachment.",
+    "ja" : "選択したファイルを大容量添付ファイルで送信します。",
+    "vi" : "Gửi các file đã chọn đến các file đính kèm dung lượng lớn.",
+    "zh" : "我将选定的文件发送到超大附件."
+  },
+  "대상폴더에 쓰기권한이 없습니다." : {
+    "en" : "You don't have permission to write in the target folder.",
+    "ja" : "対象フォルダの書き込み権限がありません。",
+    "vi" : "Không có quyền ghi lên thư mục đích.",
+    "zh" : "对象文件夹您没有写权限。"
+  },
+  "공유 관리" : {
+    "en" : "Manage shared folders",
+    "ja" : "共有フォルダ管理",
+    "vi" : "Quản lý thư mục chia sẻ",
+    "zh" : "管理共有文件夹"
+  },
+  "스페이스 폴더 최상위에는 업로드할 수 없습니다." : {
+    "en" : "You cannot upload in the top Space folder.",
+    "ja" : "スペースフォルダの最上位にはアップロードするこどができません。",
+    "vi" : "Không thể tải lên trong thư mục Space lớn nhất.",
+    "zh" : "无法上传于空间文件夹最上级文件夹。"
+  },
+  "선택된 파일을 다운로드 합니다." : {
+    "en" : "Download selected files.",
+    "ja" : "選択したファイルをダウンロードします。",
+    "vi" : "Tải xuống file đã chọn.",
+    "zh" : "下载选中的文件."
+  },
+  "공유 권한이 없습니다." : {
+    "en" : "You don't have share permission.",
+    "ja" : "共有権限がありません。",
+    "vi" : "Bạn không có quyền chia sẻ.",
+    "zh" : "没有共有权限。"
+  },
+  "공유폴더없음" : {
+    "en" : "No Shared Folders",
+    "ja" : "共有されたフォルダなし",
+    "vi" : "Không có thư mục chia sẻ",
+    "zh" : "没有接受共有的文档"
+  },
+  "스페이스 폴더 관리" : {
+    "en" : "Space Folder Management",
+    "ja" : "スペースフォルダを管理する",
+    "vi" : "Quản lý thư mục Space",
+    "zh" : "管理空间文件夹"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "{0}의 [공유폴더] {1} 하위에 &#39;{2}&#39;을(를) <font color='red'>삭제</font>했습니다." : {
+    "en" : "&#39;{2}&#39; was <font color='red'> deleted </font> from [shared folder] {1} of {0} .",
+    "ja" : "{0}の[共有フォルダ] {1} 下位の&#39;{2}&#39;を<font color='red'>削除</font>しました。",
+    "vi" : "Đã <font color='red'>xóa</font> Thư mục &#39;{2}&#39; dưới [Chia sẻ chia sẻ] {1} của {0}",
+    "zh" : "{0}的 [共享文件夹] {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>删除</font>了。"
+  },
+  "{0}을(를) {1}의 {2} 로 <font color='red'>이동</font>했습니다." : {
+    "en" : "{0} has been <font color='red'> moved </font> to {2} of {1}.",
+    "ja" : "{0}を{1}の{2}に<font color='red'>移動</font>しました。",
+    "vi" : "Đã <font color='red'>di chuyển</font> {0} sang {2} của {1}",
+    "zh" : "把{0} <font color='red'>移动</font>到{1}的{2}上了。"
+  },
+  "입력한 아이디는 사용 중입니다." : {
+    "en" : "The entered ID is already in use.",
+    "ja" : "入力したIDは使用中です。",
+    "vi" : "ID nhập đang được sử dụng.",
+    "zh" : "您输入的用户名是使用中的。"
+  },
+  "올리기" : {
+    "en" : "Up",
+    "ja" : "上げる",
+    "vi" : "Tải lên",
+    "zh" : "上"
+  },
+  "새로운 이름을 입력하세요" : {
+    "en" : "Enter a new name.",
+    "ja" : "新しい名前を入力してください。",
+    "vi" : "Nhập tên mới",
+    "zh" : "请输入新名字。"
+  },
+  "공유 속성을 상속하였습니다." : {
+    "en" : "The sharing attribute has been inherited.",
+    "ja" : "共有プロパティを継承しました。",
+    "vi" : "Thông tin chia sẻ đã được truyền lại.",
+    "zh" : "已继承共享属性。"
+  },
+  "공유 정보가 변경되었습니다.<br>하위 폴더 공유자도 함께 변경됩니다.<br>저장 하시겠습니까?" : {
+    "en" : "Shared information has been changed. <br>Subfolder sharers are also changed. <br>Do you want to save?",
+    "ja" : "共有情報が変更されました。<br>下位フォルダの共有者も一緒に変更されます。<br>保存しますか？",
+    "vi" : "Thông tin chia sẻ đã được thay đổi.<br>Người chia sẻ của thư mục con cũng được thay đổi.<br>Bạn có muốn lưu không?",
+    "zh" : "共享信息已变更。<br>下级文件夹共享人将一同变更。是否保存<br>？"
+  },
+  "검색선택의 시작일자를 입력해주세요." : {
+    "en" : "Enter a start date for search.",
+    "ja" : "検索選択の開始日付を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu tìm kiếm.",
+    "zh" : "请输入选择搜索开始日子。"
+  },
+  "공유할 폴더를 선택하세요." : {
+    "en" : "Select the folder to share.",
+    "ja" : "共有するフォルダを選択してください。",
+    "vi" : "Hãy chọn thư mục để chia sẻ.",
+    "zh" : "请选择要共有的文件夹。"
+  },
+  "확인" : {
+    "en" : "OK",
+    "ja" : "確認",
+    "vi" : "Xác nhận",
+    "zh" : "确认"
+  },
+  "대상폴더가 공유가 해제되었습니다." : {
+    "en" : "The target folder is no longer being 'shared'.",
+    "ja" : "対象フォルダの共有が解除されました。",
+    "vi" : "Đã hủy chọn chia sẻ thư mục đích",
+    "zh" : "对象文件夹的共有被解除了。"
+  },
+  "업로드를 제한할 파일의 확장자를 입력하세요." : {
+    "en" : "Enter the extension of the files that you wish to restrict from being uploaded.",
+    "ja" : "アップロードを制限するファイルの拡張子を入力してください。",
+    "vi" : "Hãy nhập phần mở rộng của tệp hạn chế tải lên",
+    "zh" : "请输入制限上载的文件扩展名。"
+  },
+  "파일 용량이 초과되었습니다. 업로드 할 파일을 선택 해주세요." : {
+    "en" : "File capacity exceeded. Select a file to upload.",
+    "ja" : "ファイルの容量が超過しました。アップロードするファイルを選択してください。",
+    "vi" : "Vượt quá dung lượng tập tin. Hãy chọn file sẽ tải lên.",
+    "zh" : "文件容量超出。请选择要上传的文件。"
+  },
+  "{0}을(를) {1}의 {2} 로 <font color='red'>복사</font>했습니다." : {
+    "en" : "{0} was <font color='red'> copied to</font> {2} of {1}.",
+    "ja" : "{0}を{1}の{2}に<font color='red'>コピー</font>しました。",
+    "vi" : "Đã sao <font color='red'>chép</font> {0} sang {2} của {1}",
+    "zh" : "把{0} <font color='red'>复制</font>到{1}的{2}上了。"
+  },
+  "회사 폴더가 없습니다." : {
+    "en" : "There is no shared folder.",
+    "ja" : "共用フォルダがありません。",
+    "vi" : "Không có thư mục chung.",
+    "zh" : "没有公用文件夹。"
+  },
+  "외부폴더 최상위로는 복사 혹은 이동할 수 없습니다." : {
+    "en" : "You can't copy or move files to the highest (parent) external folder.",
+    "ja" : "外部フォルダの最上位にはコピーまたは移動できません。",
+    "vi" : "Không thể di chuyển hoặc sao chép vị trí trên cùng của thư mục bên ngoài.",
+    "zh" : "不可往外部文件夹最上位拷贝或移动。"
+  },
+  "공유받은 폴더" : {
+    "en" : "Shared folder",
+    "ja" : "共有されたフォルダ",
+    "vi" : "Thư mục được chia sẻ",
+    "zh" : "接收共有的文件夹"
+  },
+  "{0}의 {1} 하위에 &#39;{2}&#39; 폴더를 <font color='red'>생성</font>했습니다." : {
+    "en" : "&#39;{2}&#39; folder was <font color='red'> created </font> in {1} of {0}.",
+    "ja" : "{0}の{1}下位に&#39;{2}&#39; フォルダを<font color='red'>生成</font>しました。",
+    "vi" : "Đã <font color='red'>tạo</font> Folder &#39;{2}&#39; dưới {1} của {0}",
+    "zh" : "{0}的 {1} 下位上把 &#39;{2}&#39; 文件夹 <font color='red'>新建</font>了。"
+  },
+  "쓰기권한이 있는 폴더에만 업로드할 수 있습니다." : {
+    "en" : "You can only upload to folders that you have the permission to write.",
+    "ja" : "書き込み権限のあるフォルダのみにアップロードできます。",
+    "vi" : "Bạn chỉ có thể tải lên các thư mục mà bạn có quyền ghi.",
+    "zh" : "只能上载有写权限的文件夹。"
+  },
+  "외부사용자 접속 URL은 {0}" : {
+    "en" : "External user's Access URL is {0}",
+    "ja" : "外部ユーザー接続URLは{0}",
+    "vi" : "URL kết nối người dùng bên ngoài là {0}",
+    "zh" : "外部使用者连接 URL是 {0}"
+  },
+  "{0}의 [공유폴더] {1}을(를) <font color='red'>다운로드</font>했습니다." : {
+    "en" : "{0}'s [shared folder] {1} was <font color='red'> downloaded </font>.",
+    "ja" : "{0}の[共有フォルダ] {1}を<font color='red'>ダウンロード</font>しました。",
+    "vi" : "Đã <font color='red'>tải về</font>  [Thư mục chia sẻ] {1} của {0}",
+    "zh" : "把{0}的 [共享文件夹] {1} <font color='red'>下载</font>了。"
+  },
+  "비밀번호에{0}가(이) {1}번이상 반복되고 있습니다. 보안 정책에 위배되어 사용할 수 없습니다. \\n비밀번호를 다시 입력하세요." : {
+    "en" : "{0} is repeating more than {1} times in your password. You cannot use the current password since it violates the security policy. \\nPlease enter another password.",
+    "ja" : "パスワードに#{0}が#{1}回以上繰り返されています。セキュリティーポリシーに反するため使用できません。\\n\\もう一度パスワードを入力してください。",
+    "vi" : "{0} đang bị trùng lặp trên {1} lần ở mật khẩu. Không thể sử dụng do vi phạm chính sách bảo mật.",
+    "zh" : "密码里#{0}反复了 #{1}次以上。 由于违背保安政策而不可使用。请再输入 \\n\\n密码。"
+  },
+  "변경" : {
+    "en" : "Change",
+    "ja" : "変更",
+    "vi" : "Thay đổi",
+    "zh" : "变更"
+  },
+  "생성" : {
+    "en" : "Create",
+    "ja" : "生成",
+    "vi" : "Tạo",
+    "zh" : "新建"
+  },
+  "파일함 로그" : {
+    "en" : "Filebox Log",
+    "ja" : "ファイルのログ",
+    "vi" : "Nhật ký file",
+    "zh" : "文件箱登录"
+  },
+  "모두선택" : {
+    "en" : "Select all",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "选择全部"
+  },
+  "이동대상 폴더를 선택하세요." : {
+    "en" : "Select the target folder to move.",
+    "ja" : "移動対象フォルダを選択してください。",
+    "vi" : "Hãy chọn thư mục đích để di chuyển.",
+    "zh" : "请选择移动对象文件夹。"
+  },
+  "스페이스에서 사용하는 파일함을 관리합니다." : {
+    "en" : "Manage file boxes used in space.",
+    "ja" : "スペースで使用するファイルボックスを管理します。",
+    "vi" : "Quản lý hòm tệp tin sử dụng trong không gian trống.",
+    "zh" : "管理空间使用文件夹。"
+  },
+  "<span id=\\\"totalCountSpan\\\">{0}개체</span> (남은용량 : {1}/{2})" : {
+    "en" : "<span id=\\\"totalCountSpan\\\">{0} items(s) </span> (Remaining space : {1}/{2})",
+    "ja" : "<span id=\\\"totalCountSpan\\\">%s個体</span> (残り容量 : %s/%s)",
+    "vi" : "<span id=\\\"totalCountSpan\\\">% cái </span> (dung lượng còn lại: %s/%s)",
+    "zh" : "<span id=\\\"totalCountSpan\\\">%s个体</span> (剩下用量 : %s/%s)"
+  },
+  "[파일함]Activity 알림입니다." : {
+    "en" : "[Filebox] Activity Notification.",
+    "ja" : "[ファイル]Activity通知です。",
+    "vi" : "Đây là thông báo hoạt động [Hộp file].",
+    "zh" : "提醒[文件箱]Activity。"
+  }
+}

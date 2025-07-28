@@ -1,0 +1,362 @@
+{
+  "전체 할당 페이지수는 매월 1일에 초기화 됩니다." : {
+    "en" : "The number of total allocated pages is reset on the 1st day of each month.",
+    "ja" : "全体の割当ページ数は、毎月1日に初期化されます。",
+    "vi" : "Số lượng tổng các trang đã phân bổ sẽ được thiết lập lại vào ngày mùng một của mỗi tháng.",
+    "zh" : "全体分配页数会在每月1日初始化。"
+  },
+  "페이지수" : {
+    "en" : "No. of pages",
+    "ja" : "ページ数",
+    "vi" : "Trang",
+    "zh" : "页数"
+  },
+  "다운로드" : {
+    "en" : "Download",
+    "ja" : "ダウンロード",
+    "vi" : "Tải về",
+    "zh" : "下载"
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi mail",
+    "zh" : "发送邮件"
+  },
+  "받은날짜" : {
+    "en" : "Date Received",
+    "ja" : "受信日付",
+    "vi" : "Ngày nhận",
+    "zh" : "收信日子"
+  },
+  "팩스번호 입력" : {
+    "en" : "Enter fax number",
+    "ja" : "FAX番号入力",
+    "vi" : "Thêm số fax",
+    "zh" : "输入传真号码"
+  },
+  "팩스번호를 입력한 후 다음 번호 입력시 [Enter]키를 치세요" : {
+    "en" : "Press the [Enter] key if you wish to enter additional fax numbers.",
+    "ja" : "FAX番号を入力後、次の番号を入力時[Enter]キーを押してください。",
+    "vi" : "Thêm một số fax và nhấn phím [Enter] để thêm nhiều số fax.",
+    "zh" : "输入传真号码后输入下一个号码时按[Enter]。"
+  },
+  "팩스전송" : {
+    "en" : "Send Fax",
+    "ja" : "FAX送信",
+    "vi" : "Gửi Fax",
+    "zh" : "传送传真"
+  },
+  "전송페이지수" : {
+    "en" : "No. of pages (Sent)",
+    "ja" : "送信ページ数",
+    "vi" : "Trang Đang gửi",
+    "zh" : "传送页数"
+  },
+  "팩스커버" : {
+    "en" : "Fax Cover",
+    "ja" : "ファックスカバー",
+    "vi" : "Trang bìa",
+    "zh" : "传真护封"
+  },
+  "보내는 사람의 이름을 입력하십시오." : {
+    "en" : "Enter the name of the sender.",
+    "ja" : "送信者の名前を入力してください。",
+    "vi" : "Thêm tên người gửi",
+    "zh" : "请输入发件人的名字。"
+  },
+  "보내는사람" : {
+    "en" : "Sender",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか?",
+    "vi" : "Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "要删除吗？"
+  },
+  "보낸날짜" : {
+    "en" : "Sent date",
+    "ja" : "送信日",
+    "vi" : "Ngày được gửi",
+    "zh" : "发送日子"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Tìm kiếm từ",
+    "zh" : "关键词"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Chủ đề",
+    "zh" : "题目"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除箱"
+  },
+  "전송성공" : {
+    "en" : "Sent successfully.",
+    "ja" : "送信成功",
+    "vi" : "Chuyển thành công",
+    "zh" : "传送成功"
+  },
+  "전송문서" : {
+    "en" : "Sent documents",
+    "ja" : "送信文書",
+    "vi" : "Tài liệu đã gửi",
+    "zh" : "传送文件"
+  },
+  "전송된 팩스가 없습니다." : {
+    "en" : "No faxes sent.",
+    "ja" : "送信されたFAXがありません。",
+    "vi" : "Không có fax nào được gửi đi.",
+    "zh" : "没有发送的传真"
+  },
+  "총" : {
+    "en" : "Total",
+    "ja" : "計",
+    "vi" : "Tổng cộng",
+    "zh" : "总"
+  },
+  "받은 팩스함" : {
+    "en" : "Inbox (Fax)",
+    "ja" : "受信ファックス",
+    "vi" : "Hộp thư đến",
+    "zh" : "受到的传真箱"
+  },
+  "보내는 사람의 팩스번호를 입력하십시오." : {
+    "en" : "Enter the fax number of the sender.",
+    "ja" : "送信者のFAX番号を入力してください。",
+    "vi" : "Thêm số fax của người gửi.",
+    "zh" : "请输入发件人的传真号码。"
+  },
+  "파일명" : {
+    "en" : "File name",
+    "ja" : "ファイル名",
+    "vi" : "Tên File",
+    "zh" : "文档名"
+  },
+  "팩스로 보낼 파일을 선택 해 주십시오." : {
+    "en" : "Select a file to send as fax",
+    "ja" : "FAXで送るファイルを選択してください。",
+    "vi" : "Chọn file để gửi fax",
+    "zh" : "请选择利用传真要发送的文档。"
+  },
+  "팩스 보내기" : {
+    "en" : "Send Fax",
+    "ja" : "FAX送信",
+    "vi" : "Gửi Fax",
+    "zh" : "发送传真"
+  },
+  "받는사람의 팩스번호를 입력하십시오." : {
+    "en" : "Enter the fax number of the recipient.",
+    "ja" : "受信者のFAX番号を入力してください。",
+    "vi" : "Thêm số fax của người nhận.",
+    "zh" : "请输入受件人的传真号码。"
+  },
+  "보낸사람" : {
+    "en" : "Sender",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "팩스상단 From에 삽입될 팩스번호" : {
+    "en" : "Fax Number that will be added to From (located on the top)",
+    "ja" : "FAX上段Fromに挿入するFAX番号",
+    "vi" : "Thêm số fax vào Mẫu",
+    "zh" : "在传真上端From上要填入传真号码。"
+  },
+  "전체 할당 페이지수" : {
+    "en" : "Allocated No. of pages (Total)",
+    "ja" : "全体の割当ページ数",
+    "vi" : "Tổng số được phân bổ",
+    "zh" : "全体分配页数"
+  },
+  "커버 내용을 입력 하십시오." : {
+    "en" : "Enter Cover Page content.",
+    "ja" : "カバー内容を入力してください。",
+    "vi" : "Điền trang bìa",
+    "zh" : "请输入护封内容。"
+  },
+  "최근 전송번호" : {
+    "en" : "Recently Used Numbers (Sent to)",
+    "ja" : "最新送信番号",
+    "vi" : "Người nhận gần đây",
+    "zh" : "最近传送号码"
+  },
+  "파일첨부" : {
+    "en" : "Attach",
+    "ja" : "添付",
+    "vi" : "Đính kèm",
+    "zh" : "附加文档"
+  },
+  "위로" : {
+    "en" : "Up",
+    "ja" : "上へ",
+    "vi" : "Lên",
+    "zh" : "往上边"
+  },
+  "받는사람" : {
+    "en" : "Recipient",
+    "ja" : "宛先",
+    "vi" : "Người nhận",
+    "zh" : "收件人"
+  },
+  "제목을 입력하십시오." : {
+    "en" : "Enter a title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Nhập chủ đề",
+    "zh" : "请输入题目。"
+  },
+  "금월 사용 페이지수" : {
+    "en" : "Pages used (This month)",
+    "ja" : "今月の使用ページ数",
+    "vi" : "Được sử dụng trong tháng này",
+    "zh" : "这个月使用的页数"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "이름 입력" : {
+    "en" : "Enter a name",
+    "ja" : "名前の入力",
+    "vi" : "Nhập tên",
+    "zh" : "输入名字"
+  },
+  "전송문서에 팩스커버 사용" : {
+    "en" : "Use Cover Page",
+    "ja" : "送信文書にFAXカバーを使用",
+    "vi" : "Thêm Trang bìa cho tài liệu muốn fax của bạn",
+    "zh" : "在传送文件上使用护封。"
+  },
+  "전송을 완료하였습니다." : {
+    "en" : "Sent successfully",
+    "ja" : "送信を完了しました。",
+    "vi" : "Đã gửi thành công.",
+    "zh" : "传送完了。"
+  },
+  "팩스커버 내용을 입력합니다." : {
+    "en" : "Enter Cover Page content.",
+    "ja" : "FAXカバー内容を入力してください。",
+    "vi" : "Điền trang bìa",
+    "zh" : "输入传真护封内容。"
+  },
+  "페이지" : {
+    "en" : "Page",
+    "ja" : "ページ",
+    "vi" : "Trang",
+    "zh" : "页"
+  },
+  "이동할 대상을 선택하세요." : {
+    "en" : "Select the target to move..",
+    "ja" : "移動する対象を選択してください。",
+    "vi" : "Chọn mục tiêu di chuyển.",
+    "zh" : "请选择要移动的对象。"
+  },
+  "웹팩스 관리" : {
+    "en" : "Manage WebFax",
+    "ja" : "Webファックス管理",
+    "vi" : "Quản lý WebFax",
+    "zh" : "管理网络传真"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "받은 팩스가 없습니다." : {
+    "en" : "No faxes received.",
+    "ja" : "受信FAXがありません。",
+    "vi" : "Không nhận được fax.",
+    "zh" : "没有受到的传真"
+  },
+  "번호형식이 잘못 되었습니다." : {
+    "en" : "Number format is invalid.",
+    "ja" : "番号形式が間違っています。",
+    "vi" : "Định dạng của số điện thoài này không đúng.",
+    "zh" : "号码形式有错误。"
+  },
+  "남은 페이지 수" : {
+    "en" : "Remaining pages",
+    "ja" : "残りのページ数",
+    "vi" : "Trang Còn lại",
+    "zh" : "剩下的页数"
+  },
+  "제목, 받는사람 이름은 전송결과 관리용으로 발송안되며 팩스커버에 표시됨." : {
+    "en" : "The title and recipient name will be shown on the Cover Page.",
+    "ja" : "件名、受信者の名前は送信結果管理用として送信されず、FAXカバーに表示",
+    "vi" : "Chủ đề và tên người nhận sẽ được hiển thị trên trang bìa.",
+    "zh" : "题目，受件人名字是传送结果管理用而不发送。表示在传真护封。"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đối tượng này đã bị xóa.",
+    "zh" : "删除完了。"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "FAX番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "사용후 남은 페이지수" : {
+    "en" : "Remaining pages (after use)",
+    "ja" : "使用後の残りページ数",
+    "vi" : "Còn lại",
+    "zh" : "使用后剩下的页数"
+  },
+  "전송결과" : {
+    "en" : "Transfer Result",
+    "ja" : "送信結果",
+    "vi" : "Kết quả chuyển",
+    "zh" : "传送结果"
+  },
+  "성공페이지수" : {
+    "en" : "No. of pages (Success)",
+    "ja" : "成功ページ数",
+    "vi" : "Trang đã gửi",
+    "zh" : "成功页数"
+  },
+  "발송팩스 용량" : {
+    "en" : "Sent Fax Space",
+    "ja" : "送信FAX容量",
+    "vi" : "Tổng số fax gửi đi",
+    "zh" : "发送传真用量"
+  },
+  "아래로" : {
+    "en" : "Down",
+    "ja" : "下へ",
+    "vi" : "Xuống",
+    "zh" : "往下"
+  },
+  "받은팩스는 90일 보관후 자동 삭제됩니다." : {
+    "en" : "Received Faxes will be deleted automatically after 90 days.",
+    "ja" : "受信FAXは<span style=\"color:red\">90日間保管された後、自動削除</span>されます。",
+    "vi" : "Fax đã nhận <span style=\"color:red\"> sẽ được </span> tự động xóa bỏ sau 90 ngày.",
+    "zh" : "接受的传真<span style=\"color:red\">保管90日后会</span>自动删除。"
+  },
+  "실패페이지수" : {
+    "en" : "No. of pages (Fail)",
+    "ja" : "失敗ページ数",
+    "vi" : "Trang thất bại",
+    "zh" : "失败页数"
+  },
+  "전송실패" : {
+    "en" : "Failed to send.",
+    "ja" : "送信失敗",
+    "vi" : "Chuyển thất bại",
+    "zh" : "传送失败"
+  }
+}

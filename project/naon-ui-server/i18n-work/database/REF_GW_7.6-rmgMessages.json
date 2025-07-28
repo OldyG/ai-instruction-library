@@ -1,0 +1,5792 @@
+{
+  "예약신청" : {
+    "en" : "Booking Request",
+    "ja" : "予約申請",
+    "vi" : "Đăng ký đặt trước",
+    "zh" : "申请预订"
+  },
+  "자원목록에서 자원을 클릭하면 정보를 조회할 수 있습니다." : {
+    "en" : "You can view the information by clicking the resource on the Resource List",
+    "ja" : "資源リストの資源名をクリックすると、情報の照会ができます。",
+    "vi" : "Nếu nhấn vào tài nguyên ở danh sách tài nguyên, bạn có thể xem thông tin.",
+    "zh" : "资源目录上点击资源的话可以查询信息。"
+  },
+  "그룹 회의실" : {
+    "en" : "Group Meeting Room",
+    "ja" : "グループ会議室",
+    "vi" : "Phòng họp nhóm",
+    "zh" : "组会议室"
+  },
+  "선택 자원" : {
+    "en" : "selected resource",
+    "ja" : "選択資源",
+    "vi" : "Tài nguyên chọn",
+    "zh" : "选择的资源"
+  },
+  "지난날짜 숨김" : {
+    "en" : "Hide past dates",
+    "ja" : "過去の日付を非表示",
+    "vi" : "Ẩn ngày ở quá khứ",
+    "zh" : "隐藏过去日子"
+  },
+  "자원관리 내역" : {
+    "en" : "Resource Management History",
+    "ja" : "資源管理内訳",
+    "vi" : "Chi tiết quản lý tài nguyên",
+    "zh" : "资源管理细目"
+  },
+  "검색식명" : {
+    "en" : "Search Formula Name",
+    "ja" : "検索式名",
+    "vi" : "Tên phương thức tìm kiếm",
+    "zh" : "所艘式名"
+  },
+  "한 행에 최대 4개의 컬럼을 선택할 수 있습니다." : {
+    "en" : "You can select up to 4 columns in a row.",
+    "ja" : "一行に最大4つの列を選択することができます。",
+    "vi" : "Bạn có thể chọn tối đa 4 cột trên 1 dòng.",
+    "zh" : "在单行最多可以选择4个专栏。"
+  },
+  "모바일에서 등록한 자원예약은 수정 할 수 없습니다." : {
+    "en" : "You cannot modify resource bookings that were added on a mobile phone.",
+    "ja" : "モバイルから登録した資源予約は修正出来ません。",
+    "vi" : "Không thể sửa đặt trước tài nguyên đăng ký trên điện thoại.",
+    "zh" : "在移动通信登录的资源预约不可修改。"
+  },
+  "처리" : {
+    "en" : "Process",
+    "ja" : "処理",
+    "vi" : "Xử lý",
+    "zh" : "处理"
+  },
+  "예약 현황" : {
+    "en" : "Status (Bookings)",
+    "ja" : "予約状況",
+    "vi" : "Hiện trạng đặt trước",
+    "zh" : "预约现况"
+  },
+  "대리예약" : {
+    "en" : "Proxy reservation",
+    "ja" : "代理予約",
+    "vi" : "Đặt lịch thay",
+    "zh" : "代理预约"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "예약취소반려" : {
+    "en" : "Reject 'Cancel Booking'",
+    "ja" : "予約取消の差戻し",
+    "vi" : "Từ chối Hủy đặt trước",
+    "zh" : "取消预约发还"
+  },
+  "오류가 있어 작업을 완료하지 못했습니다." : {
+    "en" : "The process couldn't be completed due to an error.",
+    "ja" : "エラーが発生したため、作業が完了できませんでした。",
+    "vi" : "Phát sinh lỗi nên không thể hoàn thành thao tác.",
+    "zh" : "因为发生错误没完成工作。"
+  },
+  "폴더삭제시 기존 예약정보가 전부 삭제 되며 복원할 수 없습니다. \\n선택 한 폴더를 삭제하시겠습니까?" : {
+    "en" : "If you delete the folder, the existing booking information will be lost and will not be restored. \\n Are you sure you want to delete the selected folder?",
+    "ja" : "フォルダを削除時、既存の予約情報がすべて削除されるため、復元することはできません。 \\ n選択したフォルダを削除しますか？",
+    "vi" : "Nếu bạn xóa thư mục, thông tin đặt trước hiện có sẽ bị mất và sẽ không thể được phục hồi. \\nBạn có chắc chắn muốn xóa thư mục đã chọn không?",
+    "zh" : "删除文件夹时现有预约信息会全部被删除而不可复原。要删除\\n选择的文件夹吗？"
+  },
+  "예약 신청한 자원이 아직 반납되지 않았습니다." : {
+    "en" : "The resource that you have requested to book has not yet been returned.",
+    "ja" : "申請した予約資源がまだ返却されていません。",
+    "vi" : "Tài nguyên đăng ký đặt trước vẫn chưa được hoàn trả.",
+    "zh" : "预约申请的资源还没退回。"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "File đã chọn",
+    "zh" : "选择的文档"
+  },
+  "등록된 내 예약이 없습니다." : {
+    "en" : "You haven't made any bookings",
+    "ja" : "登録されたMy予約がありません。",
+    "vi" : "Không có đặt trước",
+    "zh" : "没有登录的我的预约。"
+  },
+  "컬럼을 선택하세요." : {
+    "en" : "Select a column",
+    "ja" : "カラムを選択してください。",
+    "vi" : "Chọn một cột",
+    "zh" : "请选择专栏。"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "템플릿 정보" : {
+    "en" : "Template information",
+    "ja" : "テンプレート情報",
+    "vi" : "Thông tin bản mẫu",
+    "zh" : "模板信息"
+  },
+  "시작" : {
+    "en" : "Start",
+    "ja" : "開始",
+    "vi" : "Bắt đầu",
+    "zh" : "开始"
+  },
+  "뒤로" : {
+    "en" : "Back",
+    "ja" : "戻る",
+    "vi" : "Quay lại",
+    "zh" : "往后"
+  },
+  "개인환경설정" : {
+    "en" : "Personal preferences",
+    "ja" : "個人環境設定",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "设定个人环境"
+  },
+  "예약취소 현황" : {
+    "en" : "Cancelled Booking History",
+    "ja" : "予約キャンセル状況",
+    "vi" : "Hiện trạng hủy đặt trước",
+    "zh" : "预约取消现况"
+  },
+  "공유받은 예약 보기" : {
+    "en" : "View Shared Bookings",
+    "ja" : "共有した予約を見る。",
+    "vi" : "Xem đặt trước đã chia sẻ",
+    "zh" : "看接受共有的预约"
+  },
+  "자원검색" : {
+    "en" : "Search resource",
+    "ja" : "資源検索",
+    "vi" : "Tìm kiếm tài nguyên",
+    "zh" : "搜索资源"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境設定",
+    "vi" : "Cài đặt môi trường mặc định",
+    "zh" : "设定基本环境"
+  },
+  "신 청 자 :" : {
+    "en" : "Booked By :",
+    "ja" : "申請者 :",
+    "vi" : "Người đăng ký:",
+    "zh" : "申请者 :"
+  },
+  "반려사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "退回原因"
+  },
+  "반납취소처리가 완료되었습니다." : {
+    "en" : "It has been successfully marked as 'return cancelled'",
+    "ja" : "返却取消の処理が完了しました。",
+    "vi" : "Đã hủy trả.",
+    "zh" : "返还取消处理完了。"
+  },
+  "템플릿 저장" : {
+    "en" : "Save template",
+    "ja" : "テンプレート保存",
+    "vi" : "Lưu mẫu",
+    "zh" : "模板保存"
+  },
+  "예약 취소" : {
+    "en" : "Cancel booking",
+    "ja" : "予約キャンセル状況",
+    "vi" : "Hủy đặt trước",
+    "zh" : "取消预约"
+  },
+  "대여반납관리" : {
+    "en" : "Manage Rent (Borrow)/Return",
+    "ja" : "貸出返却管理",
+    "vi" : "Quản lý xuất/nhập",
+    "zh" : "借贷返还管理"
+  },
+  "등록된 자원이 없습니다." : {
+    "en" : "No resources available",
+    "ja" : "登録された資源がありません。",
+    "vi" : "Không có nguồn lực sẵn có",
+    "zh" : "没有登录的资源。"
+  },
+  "삭제하려는 예약은 반복되는 예약입니다." : {
+    "en" : "The booking that you are about to delete is a repeat booking.",
+    "ja" : "削除しようとしてる予約は繰返し予約です。",
+    "vi" : "Đặt trước bạn muốn xóa là đặt trước lặp lại.",
+    "zh" : "您要删除预订是反复的预订。"
+  },
+  "예약자를 선택하세요." : {
+    "en" : "Select the user who is making the booking request.",
+    "ja" : "予約者を選択してください。",
+    "vi" : "Hãy chọn người đặt trước.",
+    "zh" : "请选择预订者。"
+  },
+  "반복예약 삭제" : {
+    "en" : "Delete Repeat Booking",
+    "ja" : "繰返し予約削除",
+    "vi" : "Xóa đặt trước lặp lại",
+    "zh" : "删除反复预订"
+  },
+  "자원을 완전히 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the resources permanently?",
+    "ja" : "資源を完全に削除しますか？",
+    "vi" : "Bạn có muốn xóa hoàn toàn tài nguyên không?",
+    "zh" : "要完全删除资源吗？"
+  },
+  "예약가능기간이 겹치도록 설정할 수 없습니다." : {
+    "en" : "Periods available for booking cannot be overlapped.",
+    "ja" : "予約可能期間が重なるように設定することはできません。",
+    "vi" : "Khoảng thời gian đặt trước không được trùng lặp.",
+    "zh" : "可以预约期间不可重叠。"
+  },
+  "예약현황 제공" : {
+    "en" : "Provide booking status",
+    "ja" : "予約状況の提供",
+    "vi" : "Cung cấp tình trạng đặt chỗ",
+    "zh" : "提供预订现况"
+  },
+  "종일제" : {
+    "en" : "All-day Booking",
+    "ja" : "終日制",
+    "vi" : "Cả ngày",
+    "zh" : "整日制"
+  },
+  "복원" : {
+    "en" : "Restore",
+    "ja" : "復元",
+    "vi" : "Phục hồi",
+    "zh" : "复原"
+  },
+  "예약" : {
+    "en" : "Reservations",
+    "ja" : "予約",
+    "vi" : "Đặt chỗ",
+    "zh" : "预订"
+  },
+  "추가기능" : {
+    "en" : "Additional Feature",
+    "ja" : "追加機能",
+    "vi" : "Thêm",
+    "zh" : "追加技能"
+  },
+  "미대여 자원이 등록되었습니다." : {
+    "en" : "Non-loaned resources have been registered.",
+    "ja" : "未貸出リソースが登録されました。",
+    "vi" : "Các nguồn tài nguyên không cho mượn đã được đăng ký.",
+    "zh" : "未租用资源已注册。"
+  },
+  "예약 신청이 완료되었습니다." : {
+    "en" : "The booking request has been accepted.",
+    "ja" : "予約申請が完了しました。",
+    "vi" : "Đã hoàn thành đăng ký đặt trước.",
+    "zh" : "预约申请完了。"
+  },
+  "취소자" : {
+    "en" : "Cancelled by",
+    "ja" : "取り消し者",
+    "vi" : "Người hủy",
+    "zh" : "取消人"
+  },
+  "종료일" : {
+    "en" : "Finish date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日"
+  },
+  "저장하는데 실패했습니다.\\n확인후 다시 시도하세요." : {
+    "en" : "Failed to save.\\n Please check and try again.",
+    "ja" : "保存に失敗しました。\\nご確認の上、もう一度お試しください。",
+    "vi" : "Đã thất bại trong việc lưu. \\n Hãy kiểm tra và thử lại.",
+    "zh" : "保存失败了。请\\n确认后再试试。"
+  },
+  "분류를 이동하는 데 실패했습니다.\\n다시 시도하세요." : {
+    "en" : "It failed to move the category. \\n Please, try again.",
+    "ja" : "カテゴリの移動に失敗しました。\\nもう一度お試しください。",
+    "vi" : "Không thể di chuyển danh mục. \\nXin kiểm tra và thử lại.",
+    "zh" : "分类移动失败了。请\\n再试试。"
+  },
+  "반려의견 :" : {
+    "en" : "Opinion (Rejection) :",
+    "ja" : "差戻し理由 :",
+    "vi" : "Lý do từ chối",
+    "zh" : "发还意见 :"
+  },
+  "기본 컬럼" : {
+    "en" : "Default column",
+    "ja" : "基本カラム",
+    "vi" : "Cột mặc định",
+    "zh" : "基本专栏"
+  },
+  "행의 컬럼 배치 유형을 선택하세요." : {
+    "en" : "Select the arrangement type for the column in the row.",
+    "ja" : "行のカラム配置タイプを選択してください。",
+    "vi" : "Hãy chọn hình thức bố trí cột trong dòng.",
+    "zh" : "请选择行的专栏配置类型。"
+  },
+  "파일첨부 기본용량" : {
+    "en" : "Default Space (Capacity) of Attachments",
+    "ja" : "ファイル添付の基本容量",
+    "vi" : "Dung lượng file đính kèm mặc định",
+    "zh" : "附件基本用量"
+  },
+  "사이드 메뉴 열기" : {
+    "en" : "Open Sidebar",
+    "ja" : "サイドメニューを開く",
+    "vi" : "Mở side menu",
+    "zh" : "打开边线菜单"
+  },
+  "자원별" : {
+    "en" : "By resource",
+    "ja" : "資源別",
+    "vi" : "Theo từng tài nguyên",
+    "zh" : "资源别"
+  },
+  "특수문자 사용이 제한되어 있습니다. \\n ==> \\\\, \\/, \\:, \\*, \\?, \\, \\<, \\>, \\|" : {
+    "en" : "Do not use these special characters \\n ==> \\\\, \\/, \\:, \\*, \\?, \\, \\<, \\>, \\|",
+    "ja" : "特殊文字の使用が制限されています。\\n ==> \\\\, \\/, \\:, \\*, \\?, \\, \\<, \\>, \\|",
+    "vi" : "Hạn chế sử dụng ký tự đặc biệt \\n ==> \\\\, \\/, \\:, \\*, \\?, \\, \\<, \\>, \\|.",
+    "zh" : "使用特殊文字有限制\\n ==> \\\\, \\/, \\:, \\*, \\?, \\, \\<, \\>, \\|"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "자원을 선택하세요." : {
+    "en" : "Please select a resource",
+    "ja" : "資源を選択してください。",
+    "vi" : "Vui lòng chọn tài nguyên",
+    "zh" : "请选择资源。"
+  },
+  "해당 자원은 중지상태인 자원이므로 예약할 수 없습니다." : {
+    "en" : "The resource is not available because it is suspended.",
+    "ja" : "該当資源は停止状態にある資源であるため、予約することができません。",
+    "vi" : "Tài nguyên này hiện không khả dụng vì đang bị đình chỉ.",
+    "zh" : "有关资源是停止状态的资源而不可进行预约。"
+  },
+  "취소 사유를 입력하세요." : {
+    "en" : "Please type a reason why you want to cancel it.",
+    "ja" : "キャンセル理由を入力してください。",
+    "vi" : "Hãy nhập lý do hủy.",
+    "zh" : "请输入取消原因。"
+  },
+  "예약등록 요청을 했습니다." : {
+    "en" : "Reservation registration request has been made.",
+    "ja" : "予約登録リクエストを送信しました。",
+    "vi" : "Yêu cầu đăng ký đặt chỗ đã được thực hiện.",
+    "zh" : "已提交预订注册请求。"
+  },
+  "예약가능기간을 시작기간이 종료기간보다 크게 설정할 수 없습니다." : {
+    "en" : "The start date must be smaller than the end date when setting the Available Period (Booking)",
+    "ja" : "予約可能期間は開始期間が終了期間より後には設定できません。",
+    "vi" : "Bạn không thể đặt khoảng thời gian bắt đầu đặt trước muộn hơn thời gian kết thúc.",
+    "zh" : "可以预约期间的设定开始期间不可大于结束期间。"
+  },
+  "뷰어로 지원되지 않는 파일형식입니다." : {
+    "en" : "The Viewer doesn't support this file format.",
+    "ja" : "ビューアでサポートされていないファイル形式です。",
+    "vi" : "Đây là file không hỗ trợ người xem",
+    "zh" : "不可支援看片器的文档形式。"
+  },
+  "반납자원" : {
+    "en" : "Return resource",
+    "ja" : "返却資源",
+    "vi" : "tài nguyên hoàn trả",
+    "zh" : "退还资源"
+  },
+  "반납하였습니다." : {
+    "en" : "It has been returned.",
+    "ja" : "返却しました。",
+    "vi" : "Bạn đã trả lại.",
+    "zh" : "返还了。"
+  },
+  "{0} 에 {1} 자원을 사용중지하였습니다." : {
+    "en" : "You suspended  {1}  resource in {0}.",
+    "ja" : "{0} へ {1} 資源を使用中止しました。",
+    "vi" : "Đã ngừng sử dụng tài nguyên {1} ở {0} .",
+    "zh" : "在{0} 停止使用 {1} 资源了。"
+  },
+  "분류수정" : {
+    "en" : "Modify Category",
+    "ja" : "カテゴリを修正",
+    "vi" : "Sửa đổi",
+    "zh" : "修改分类"
+  },
+  "사용자 예약정보" : {
+    "en" : "User booking information",
+    "ja" : "ユーザーの予約情報",
+    "vi" : "Thông tin  người dùng đặt trước",
+    "zh" : "使用者预约信息"
+  },
+  "컬럼 정보" : {
+    "en" : "Column information",
+    "ja" : "カラム情報",
+    "vi" : "Thông tin cột",
+    "zh" : "专栏信息"
+  },
+  "로딩중" : {
+    "en" : "Loading",
+    "ja" : "ローディング中",
+    "vi" : "Đang tải",
+    "zh" : "登录中"
+  },
+  "{0} 에 {1} 자원을 등록하였습니다." : {
+    "en" : "You added {1} resource to {0}.",
+    "ja" : "{0} に {1} 資源を登録しました。",
+    "vi" : "Đã đăng ký tài nguyên {1} ở {0}",
+    "zh" : "在{0}  登录了{1} 资源。"
+  },
+  "선택옵션" : {
+    "en" : "Select Options",
+    "ja" : "選択オプション",
+    "vi" : "Lựa chọn tùy chọn",
+    "zh" : "选择选项"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "자원대리예약 보기" : {
+    "en" : "View 'On Behalf Resource Bookings'",
+    "ja" : "資源代理予約を見る",
+    "vi" : "Xem tài nguyên đặt trước của người đại diện",
+    "zh" : "看资源代替预约"
+  },
+  "부서명" : {
+    "en" : "Department Name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "분류추가" : {
+    "en" : "Add category",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm danh mục",
+    "zh" : "追加分类"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "キャンセル",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "표시옵션" : {
+    "en" : "Show options",
+    "ja" : "表示オプション",
+    "vi" : "Tùy chọn hiển thị",
+    "zh" : "表示选项"
+  },
+  "저장했습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu",
+    "zh" : "保存完了。"
+  },
+  "자원명 및 관련 정보를 수정한 후 [수정]을 클릭하세요." : {
+    "en" : "Modify the resource name and related information and then click the [Modify] button.",
+    "ja" : "資源名及び関連情報を修正後、[修正]をクリックしてください。",
+    "vi" : "Sau khi chỉnh sửa tên tài nguyên và thông tin liên quan, hãy nhấp vào [Chỉnh sửa].",
+    "zh" : "请修改资源名及有关信息后点击[修改}。"
+  },
+  "자원 등록관리" : {
+    "en" : "Resource Registration Management",
+    "ja" : "資源登録管理",
+    "vi" : "Quản lý đăng ký tài nguyên",
+    "zh" : "管理资源登录"
+  },
+  "선택한 자원을 이동하는데 실패했습니다.\n확인 후 다시 시도하세요." : {
+    "en" : "Failed to move the selected resource.\nPlease check and try again.",
+    "ja" : "選択した資源の移動に失敗しました。\nご確認の上、もう一度お試しください。",
+    "vi" : "Đã thất bại trong việc di chuyển tài nguyên đã chọn. Xin hãy kiểm tra và thử lại.",
+    "zh" : "失败了移动您选择的资源。请\n确认后再进行。"
+  },
+  "체크한 요일의 시작시간 - 종료시간에만 예약이 가능합니다." : {
+    "en" : "You can only book resources from the start time - end time of the selected day.",
+    "ja" : "チェックされた曜日の開始時間‐終了時間のみ予約可能です。",
+    "vi" : "Bạn có thể đặt trước vào thời gian bắt đầu- thời gian kết thúc của ngày đã chọn.",
+    "zh" : "只能预约在选择的星期开始时间-结束时间。"
+  },
+  "승인대기" : {
+    "en" : "Waiting for Approval",
+    "ja" : "承認待機",
+    "vi" : "Chờ phê duyệt",
+    "zh" : "待机承认"
+  },
+  "불가사유 :" : {
+    "en" : "Reason :",
+    "ja" : "不可の理由 :",
+    "vi" : "Lý do:",
+    "zh" : "不可原因 :"
+  },
+  "년마다" : {
+    "en" : "Every year",
+    "ja" : "年ごとに",
+    "vi" : "Mỗi năm",
+    "zh" : "每年"
+  },
+  "일정 등록" : {
+    "en" : "Add a Schedule (Event)",
+    "ja" : "スケジュール登録",
+    "vi" : "Thêm một sự kiện",
+    "zh" : "登录日程"
+  },
+  "<strong>{0}</strong> 폴더 하위에 <strong>{1}</strong> 폴더를 삭제하였습니다." : {
+    "en" : "You deleted <strong>{1}</strong> folder from <strong>{0}</strong> folder.",
+    "ja" : "<strong>{0}</strong> フォルダの下位に<strong>{1}</strong> フォルダを削除しました。",
+    "vi" : "Đã xóa thư mục <strong>{1}</strong> ở dưới thư mục <strong>{0}</strong>.",
+    "zh" : "在<strong>{0}</strong>文件夹下位删除了 <strong>{1}</strong> 文件夹。"
+  },
+  "선택하신 예약에 등록된 자원 \\n{0} 의 예약가능시간에 위배되어 승인할 수 없습니다." : {
+    "en" : "It cannot be approved because it violates the available time of the resource \\n{0} in the booking you've selected.",
+    "ja" : "選択した予約に登録された資源\\n{0} の予約可能期間ではないので承認できません。",
+    "vi" : "Không thể phê duyệt do vi phạm thời gian đặt trước nguồn tải nguyên \\n{0} được đăng ký trong đặt trước đã chọn.",
+    "zh" : "选择的预约里登录的资源 \\n{2} 违反了可以预约时间而不可承认。"
+  },
+  "<strong>{0}</strong> 의 <strong>{1}</strong> 자원을 <strong>{2}</strong> 폴더로 이동하였습니다." : {
+    "en" : "You moved <strong>{1}</strong> resource of <strong>{0}</strong> to  <strong>{2}</strong> folder.",
+    "ja" : "<strong>{0}</strong> の <strong>{1}</strong> 資源を <strong>{2}</strong> フォルダに移動しました。",
+    "vi" : "Đã di chuyển tài nguyên <strong>{1}</strong> của <strong>{0}</strong> sang thư mục <strong>{2}</strong>.",
+    "zh" : "<strong>{0}</strong> 的 <strong>{1}</strong> 资源移动到 <strong>{2}</strong> 文件夹了。"
+  },
+  "분류명은 한글 33자 이내, 영어 100자 이내로 입력하세요." : {
+    "en" : "Use up to 33 Korean characters and 100 English characters for a category name.",
+    "ja" : "カテゴリ名はハングル33字以内、英語100文字以内で入力してください。",
+    "vi" : "Hãy nhập tên danh mục dưới 33 chữ tiếng Hàn và 100 chữ tiếng Anh.",
+    "zh" : "分类名请输入韩文33字以内，英文100字以内。"
+  },
+  "선택하신 예약이 승인처리되었습니다." : {
+    "en" : "The booking you selected has been approved.",
+    "ja" : "選択した予約が承認されました。",
+    "vi" : "Đã xử lý đặt trước đã chọn.",
+    "zh" : "选择的预约承认处理了。"
+  },
+  "예약을 취소를 반려 하시겠습니까?" : {
+    "en" : "Do you want to reject the cancellation of the booking?",
+    "ja" : "予約をキャンセルを差戻しますか？",
+    "vi" : "Bạn có muốn từ chối việc hủy bỏ đặt chỗ không?",
+    "zh" : "要退回取消预约吗？"
+  },
+  "즉시예약 자원입니다." : {
+    "en" : "Immediate reservation resource",
+    "ja" : "即時予約リソースです。",
+    "vi" : "Đây là tài nguyên đặt chỗ ngay lập tức.",
+    "zh" : "立即预订的资源。"
+  },
+  "<strong>{0}</strong> 에 <strong>{1}</strong> 자원을 복원 하였습니다." : {
+    "en" : "Resource <strong>{1}</strong> has been restored on <strong>{0}</strong>.",
+    "ja" : "<strong>{0}</strong> に <strong>{1}</strong>資源を復元しました。",
+    "vi" : "Tại<strong>{0 </strong>, <strong>{1}</strong> Tài nguyên đã được phục hồi.",
+    "zh" : "复原<strong>{0}</strong>中的<strong>{1}</strong>资源。"
+  },
+  "0은 제한이 없음을 의미합니다." : {
+    "en" : "0 means that there are no limits.",
+    "ja" : "0は制限がないことを意味します。",
+    "vi" : "0 có nghĩa là không hạn chế.",
+    "zh" : "0说明没有限制。"
+  },
+  "반납 희망일을  입력하세요." : {
+    "en" : "Enter a date when you want to return.",
+    "ja" : "返却希望日を入力してください。",
+    "vi" : "Hãy nhập ngày bạn muốn trả.",
+    "zh" : "请输入希望退还日。"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "선택 안함" : {
+    "en" : "Don't Select",
+    "ja" : "選択しない",
+    "vi" : "Không chọn",
+    "zh" : "不选择"
+  },
+  "반복일정" : {
+    "en" : "repeated events",
+    "ja" : "繰り返しスケジュール",
+    "vi" : "Sự kiện lặp lại",
+    "zh" : "反复日程"
+  },
+  "예약등록 요청이 반려되었습니다." : {
+    "en" : "Reservation registration request has been rejected.",
+    "ja" : "予約登録リクエストが却下されました。",
+    "vi" : "Yêu cầu đăng ký đặt chỗ đã bị từ chối.",
+    "zh" : "预订注册请求已拒绝。"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "매주 월요일,수요일,금요일" : {
+    "en" : "Every Monday, Wednesday, Friday",
+    "ja" : "毎週月曜日、水曜日、金曜日",
+    "vi" : "Thứ 2, thứ 4, thứ 6 hàng tuần",
+    "zh" : "每周一，三，五"
+  },
+  "월마다" : {
+    "en" : "Every month",
+    "ja" : "月ごとに",
+    "vi" : "Mỗi tháng",
+    "zh" : "每月"
+  },
+  "자원 상세 정보" : {
+    "en" : "View resource details",
+    "ja" : "資源詳細情報",
+    "vi" : "Thông tin chi tiết nguồn tài nguyên",
+    "zh" : "资源详细信息"
+  },
+  "정상적인 화면 출력을 위해 인쇄 옵션의 '배경 그래픽' 또는 '배경색 및 이미지 인쇄'를 체크해주세요." : {
+    "en" : "Check 'Background Graphic' or 'Print Background Color or Print' at the Print settings for the optimal display of the screen.",
+    "ja" : "正常的な画面の出力のため、印刷オプションの「壁紙グラフィック」又は「背景色及び画像を印刷」をチェックしてください。",
+    "vi" : "Kiểm tra 'Đồ họa nền' hoặc 'Màu nền và hình ảnh in' trong Cài đặt in để trình chiếu màn hình tối ưu.",
+    "zh" : "为保证正常打印画面,请核对打印选项的\"背景图形\"或\"背景色及图像印刷\"。"
+  },
+  "수정할 자원은 한가지만 선택하여야 합니다." : {
+    "en" : "You have to select only one (1) resource to modify.",
+    "ja" : "修正する資源は一つしか選択できません。",
+    "vi" : "Bạn chỉ có thể chọn một tài nguyên để sửa.",
+    "zh" : "要修改的资源只能选择一个。"
+  },
+  "자원 정보" : {
+    "en" : "Resource information",
+    "ja" : "資源情報",
+    "vi" : "Thông tin tài nguyên",
+    "zh" : "资源信息"
+  },
+  "예약 수정" : {
+    "en" : "Modify Booking",
+    "ja" : "予約修正",
+    "vi" : "Sửa đặt trước",
+    "zh" : "修改预约"
+  },
+  "주" : {
+    "en" : "week",
+    "ja" : "週",
+    "vi" : "Tuần",
+    "zh" : "周"
+  },
+  "선택한 폴더의 하위 폴더의 상하 위치를 변경합니다." : {
+    "en" : "Re-order the sub-folders (up/down) of the selected folder.",
+    "ja" : "選択したフォルダのサブフォルダの上下位置を変更します。",
+    "vi" : "Thay đổi vị trí trên dưới của thư mục dưới thư mục đã chọn.",
+    "zh" : "变更把您选择的文件夹的下位文件夹上下位置。"
+  },
+  "종료" : {
+    "en" : "End",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  },
+  "다음" : {
+    "en" : "Next",
+    "ja" : "次",
+    "vi" : "Tiếp theo",
+    "zh" : "下一个"
+  },
+  "조직도 선택 버튼명" : {
+    "en" : "Organizational Chart Selection Button Name",
+    "ja" : "組織図選択のボタン名",
+    "vi" : "Tên nút chọn sơ đồ tổ chức",
+    "zh" : "组织图选择按钮名"
+  },
+  "목록에서 조회할 내 예약을 선택하세요." : {
+    "en" : "Select a booking that you wish to view from the list",
+    "ja" : "項目から照会するMy予約を選択してください。",
+    "vi" : "Hãy chọn đặt trước của tôi để xem trên danh sách.",
+    "zh" : "请在目录选择要查询的我的预约。"
+  },
+  "추가 컬럼" : {
+    "en" : "Additional Column",
+    "ja" : "追加カラム",
+    "vi" : "Cột thêm",
+    "zh" : "追加专栏"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator settings",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt người quản lý",
+    "zh" : "设定管理者"
+  },
+  "예약자 변경 시 캘린더와 자원이 초기화 됩니다." : {
+    "en" : "When changing the reservation owner, the calendar and resource will be reset.",
+    "ja" : "予約者変更時にカレンダーとリソースがリセットされます。",
+    "vi" : "Khi thay đổi chủ sở hữu đặt chỗ, lịch và tài nguyên sẽ được thiết lập lại.",
+    "zh" : "更改预订者时，日历和资源将被重置。"
+  },
+  "반복 빈도" : {
+    "en" : "Repeat frequency",
+    "ja" : "繰返し頻度",
+    "vi" : "Tần suất lặp lại",
+    "zh" : "反复频度"
+  },
+  "※ 선택한 일자가 지난 예약취소 내역 삭제" : {
+    "en" : "※ Delete booking cancellation history that are already past the selected date",
+    "ja" : "※ 選択した日付が過ぎた予約キャンセル内訳を削除",
+    "vi" : "※ Xóa danh sách đặt phòng bị hủy với thời gian đã chọn.",
+    "zh" : "※ 删除超过选择日期的取消预约明细"
+  },
+  "예약가능시간" : {
+    "en" : "Available time (Booking)",
+    "ja" : "予約可能時間",
+    "vi" : "Thời gian có thể đặt trước",
+    "zh" : "可以预约时间"
+  },
+  "컬럼 너비를 입력하세요." : {
+    "en" : "Enter the width of the column.",
+    "ja" : "カラム幅を入力してください。",
+    "vi" : "Hãy nhập độ rộng của cột",
+    "zh" : "请输入专栏宽度。"
+  },
+  "삭제 되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã xóa",
+    "zh" : "删除完了。"
+  },
+  "{0} 항목값은 {1} 이하이어야 합니다." : {
+    "en" : "The value of item {0} must be {1} or under.",
+    "ja" : "{0}項目値は{1}以上でなければなりません。",
+    "vi" : "Giá trị mục {0} phải dưới {1}.",
+    "zh" : "{0} 项目值得 {1}以上。"
+  },
+  "사용 여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Sư dụng hay không",
+    "zh" : "样式类型"
+  },
+  "이메일" : {
+    "en" : "E-Mail",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "자원 예약 현황" : {
+    "en" : "Resource Booking Status",
+    "ja" : "資源予約状況",
+    "vi" : "Hiện trạng đặt trước tài nguyên",
+    "zh" : "资源预订现况"
+  },
+  "자원을 이동하는데 실패했습니다.\\n다시 시도하세요." : {
+    "en" : "It failed to move the resource. \\n Please, try again.",
+    "ja" : "資源の移動に失敗しました。\\nもう一度お試しください。",
+    "vi" : "Di chuyển tài nguyên không thành công. \\nHãy kiểm tra và thử lại.",
+    "zh" : "资源移动失败了。请\\n再试试。"
+  },
+  "예약가능" : {
+    "en" : "Unavailable",
+    "ja" : "予約可能",
+    "vi" : "Có thể đặt trước",
+    "zh" : "可以预约"
+  },
+  "회의실" : {
+    "en" : "Conference Room",
+    "ja" : "会議室",
+    "vi" : "Phòng họp",
+    "zh" : "会议室"
+  },
+  "휴일 설정 사용시 해당 요일은 예약 가능 시간에서 제외됩니다." : {
+    "en" : "Days set as holidays will be excluded from the available times.",
+    "ja" : "休日設定を使用する時に、その曜日は予約可能の時間から除外されます。",
+    "vi" : "Khi sử dụng cài đặt ngày nghỉ, ngày đó sẽ được loại khỏi thời gian có thể hẹn lịch",
+    "zh" : "若使用休日设置，则该日期将在可预约时间中排除。"
+  },
+  "사유를 입력하세요." : {
+    "en" : "Please add a reason.",
+    "ja" : "理由を入力してください",
+    "vi" : "Hãy nhập lý do.",
+    "zh" : "请输入原因。"
+  },
+  "기간별 설정" : {
+    "en" : "Setup (by period)",
+    "ja" : "期間別設定",
+    "vi" : "Cài đặt theo từng khoảng thời gian",
+    "zh" : "期间别设定"
+  },
+  "승인대기(나)" : {
+    "en" : "Waiting for Approval (Me)",
+    "ja" : "承認待ち（自分）",
+    "vi" : "Chờ phê duyệt (Tôi)",
+    "zh" : "等待承认（我）"
+  },
+  "신청사유" : {
+    "en" : "Reason for request",
+    "ja" : "申請理由",
+    "vi" : "Lý do yêu cầu",
+    "zh" : "申请理由"
+  },
+  "사용시간 :" : {
+    "en" : "When :",
+    "ja" : "使用時間 :",
+    "vi" : "Thời gian sử dụng:",
+    "zh" : "使用时间:"
+  },
+  "라디오버튼" : {
+    "en" : "Radio button",
+    "ja" : "ラジオボタン",
+    "vi" : "Nút Radio",
+    "zh" : "广播按钮"
+  },
+  "사이드 메뉴 트리에 자원 표시" : {
+    "en" : "Show resources on side menu tree",
+    "ja" : "サイドメニューツリーの資源表示",
+    "vi" : "Biểu thị tài nguyên trên cây Side Menu",
+    "zh" : "在边线菜单树表示资源"
+  },
+  "제목을 반드시 입력하세요." : {
+    "en" : "You must enter a title.",
+    "ja" : "件名を必ず入力してください。",
+    "vi" : "Bạn nhất định phải nhập tiêu đề",
+    "zh" : "请必须输入题目。"
+  },
+  "자원선택" : {
+    "en" : "Select a resource",
+    "ja" : "資源選択",
+    "vi" : "Chọn tài nguyên",
+    "zh" : "选择资源"
+  },
+  "자원명을 입력하세요." : {
+    "en" : "Please type a resource name.",
+    "ja" : "資源名を入力してください。",
+    "vi" : "Hãy nhập tên tài nguyên.",
+    "zh" : "请输入资源名。"
+  },
+  "예약삭제" : {
+    "en" : "Delete booking",
+    "ja" : "予約削除",
+    "vi" : "Xóa đặt trước",
+    "zh" : "删除预订"
+  },
+  "주소록" : {
+    "en" : "Address Book",
+    "ja" : "アドレス帳",
+    "vi" : "Sổ địa chỉ",
+    "zh" : "通讯录"
+  },
+  "신청즉시 예약" : {
+    "en" : "Book immediately",
+    "ja" : "申請即時予約",
+    "vi" : "Đặt trước ngay lập tức",
+    "zh" : "申请立即预约"
+  },
+  "반복예약" : {
+    "en" : "Repeat Bookings",
+    "ja" : "繰返し予約",
+    "vi" : "Đặt trước lặp lại",
+    "zh" : "预订反复"
+  },
+  "{0} 일간 예약 페이지" : {
+    "en" : "{0} daily booking page.",
+    "ja" : "{0} 日間予約ページ",
+    "vi" : "{0} trang đặt trước hàng ngày",
+    "zh" : "{0} 天 预订的网页"
+  },
+  "예약됨" : {
+    "en" : "Booked",
+    "ja" : "予約済み",
+    "vi" : "Đã đặt trước",
+    "zh" : "预约了。"
+  },
+  "예약등록 요청이 승인되었습니다." : {
+    "en" : "Reservation registration request has been approved.",
+    "ja" : "予約登録リクエストが承認されました。",
+    "vi" : "Yêu cầu đăng ký đặt chỗ đã được chấp nhận.",
+    "zh" : "预订注册请求已批准。"
+  },
+  "인쇄" : {
+    "en" : "Print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "자원" : {
+    "en" : "Resource",
+    "ja" : "資源",
+    "vi" : "Tài nguyên",
+    "zh" : "资源"
+  },
+  "입력" : {
+    "en" : "Enter",
+    "ja" : "入力",
+    "vi" : "Nhập",
+    "zh" : "输入"
+  },
+  "지난날짜 예약" : {
+    "en" : "Book a date passed",
+    "ja" : "過去の日付予約",
+    "vi" : "Đặt trước ngày ở quá khứ",
+    "zh" : "预约过去的日子"
+  },
+  "[예약불가]" : {
+    "en" : "[Booking Unavailable]",
+    "ja" : "[予約不可]",
+    "vi" : "[Không có sẵn]",
+    "zh" : "[不可预约]"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "위치 설정" : {
+    "en" : "Location settings",
+    "ja" : "位置設定",
+    "vi" : "Cài đặt vị trí",
+    "zh" : "设定位置"
+  },
+  "미리 알림 수신" : {
+    "en" : "Receive reminders",
+    "ja" : "事前通知の受信",
+    "vi" : "Nhận thông báo trước",
+    "zh" : "收信提前提醒"
+  },
+  "자원의 상하 위치를 설정합니다." : {
+    "en" : "Set the vertical position of the resource.",
+    "ja" : "字源の上下位置を設定します。",
+    "vi" : "Thiết lập vị trí trên và dưới của tài nguyên",
+    "zh" : "设置资源的上下位置。"
+  },
+  "폴더를 삭제합니다. 삭제된 폴더는 복원할 수 없습니다. \\n선택 한 폴더를 삭제하시겠습니까?" : {
+    "en" : "The folder is about to be deleted. Deleted folders cannot be restored. \\n Are you sure you want to delete the selected folder?",
+    "ja" : "フォルダを削除します。削除されたフォルダは復元できません。 \\ n選択したフォルダを削除しますか？",
+    "vi" : "Thư mục sắp bị xóa. Không thể khôi phục các thư mục đã xóa. \\nBạn có chắc chắn muốn xóa thư mục đã chọn không?",
+    "zh" : "删除文件夹。删除的文件夹不可复原。要删除\\n选择的文件夹吗？"
+  },
+  "매월" : {
+    "en" : "Every Month",
+    "ja" : "毎月",
+    "vi" : "Hàng tháng",
+    "zh" : "每月"
+  },
+  "세로 분할" : {
+    "en" : "Vertical Split",
+    "ja" : "縦分割",
+    "vi" : "Chia dọc",
+    "zh" : "横分割"
+  },
+  "반납 취소" : {
+    "en" : "Cancel return",
+    "ja" : "返却取消",
+    "vi" : "Hủy hoàn trả",
+    "zh" : "取消返还"
+  },
+  "자원명을 반드시 입력하세요." : {
+    "en" : "You must enter a resource name.",
+    "ja" : "資源名を必ず入力してください。",
+    "vi" : "Bạn nhất định phải nhập tên tài nguyên.",
+    "zh" : "请必须输入资源名。"
+  },
+  "요약" : {
+    "en" : "Summary",
+    "ja" : "予約",
+    "vi" : "Tóm tắt",
+    "zh" : "摘要"
+  },
+  "휴일로 설정된 날짜와 요일에는 예약할 수 없습니다." : {
+    "en" : "Reservations cannot be made on dates and days set as holidays.",
+    "ja" : "休日に設定された日付と曜日には予約できません。",
+    "vi" : "Không thể hẹn lịch vào ngày được cài đặt là ngày nghỉ.",
+    "zh" : "已被设置为休日的日期无法进行预约。"
+  },
+  "예약취소가 반려되었습니다." : {
+    "en" : "Cancellation of your booking has been rejected.",
+    "ja" : "予約キャンセルが差戻しされました。",
+    "vi" : "Yêu cầu hủy đặt trước của bạn đã bị từ chối.",
+    "zh" : "取消预约被退回了。"
+  },
+  "자원 수정" : {
+    "en" : "Modify resource",
+    "ja" : "資源修正",
+    "vi" : "Sửa tài nguyên",
+    "zh" : "修改资源"
+  },
+  "사용기간 예약불가" : {
+    "en" : "Booking Unavailable (Invalid Period)",
+    "ja" : "使用期間の予約不可",
+    "vi" : "Không thể đặt trước thời gian sử dụng",
+    "zh" : "不可预约使用期间"
+  },
+  "내보낼 자원이 없습니다." : {
+    "en" : "There are no resources to export.",
+    "ja" : "エクスポートする資源がありません",
+    "vi" : "Không có tài nguyên để xuất",
+    "zh" : "没有可以发出的资源。"
+  },
+  "기간 변경 시 반복 설정이 초기화 됩니다." : {
+    "en" : "If you change the period, the repetition settings will be reset.",
+    "ja" : "期間変更時、繰り返し設定が初期化されます。",
+    "vi" : "Nếu bạn thay đổi thời hạn này, các thiết lập lặp lại sẽ được đặt lại.",
+    "zh" : "变更期间时反复设定会初始化。"
+  },
+  "<strong>{0}</strong> 에 <strong>{1}</strong> 자원을 삭제하였습니다." : {
+    "en" : "You deleted <strong>{1}</strong> resource from  <strong>{0}</strong>.",
+    "ja" : "<strong>{0}</strong> に <strong>{1}</strong> 資源を削除しました。",
+    "vi" : "Đã xóa tài nguyên <strong>{1}</strong> ở <strong>{0}</strong>.",
+    "zh" : "在<strong>{0}</strong> 删除了 <strong>{1}</strong> 资源。"
+  },
+  "승인하였습니다." : {
+    "en" : "It has been approved.",
+    "ja" : "承認しました。",
+    "vi" : "Bạn đã phê duyệt.",
+    "zh" : "承认了。"
+  },
+  "다음 달" : {
+    "en" : "Next month",
+    "ja" : "次の月",
+    "vi" : "Tháng sau",
+    "zh" : "下個月"
+  },
+  "전체 자원" : {
+    "en" : "Resources (All)",
+    "ja" : "全体資源",
+    "vi" : "Toàn bộ tài nguyên",
+    "zh" : "全体资源"
+  },
+  "리스트" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "列表"
+  },
+  "사용중지" : {
+    "en" : "Suspend",
+    "ja" : "使用中止",
+    "vi" : "Dừng sử dụng",
+    "zh" : "停止使用"
+  },
+  "승인하시겠습니까?" : {
+    "en" : "Would you like to approve?",
+    "ja" : "承認しますか？",
+    "vi" : "Bạn có muốn phê duyệt không?",
+    "zh" : "要承认吗？"
+  },
+  "신청자" : {
+    "en" : "Requested by",
+    "ja" : "申請者",
+    "vi" : "Người đăng ký",
+    "zh" : "申请者"
+  },
+  "복원 하시겠습니까?" : {
+    "en" : "Would you like to restore?",
+    "ja" : "復元しますか？",
+    "vi" : "Bạn có muốn khôi phục không?",
+    "zh" : "要复原吗？"
+  },
+  "월간 예약페이지" : {
+    "en" : "Monthly booking page",
+    "ja" : "月間予約ページ",
+    "vi" : "Trang đặt trước theo tháng",
+    "zh" : "月间预订的网页"
+  },
+  "자원예약현황" : {
+    "en" : "Resource Booking Status",
+    "ja" : "資源予約の状況",
+    "vi" : "Hiện trạng đặt trước tài nguyên",
+    "zh" : "资源预约现况"
+  },
+  "등록" : {
+    "en" : "Add",
+    "ja" : "登録",
+    "vi" : "Thêm",
+    "zh" : "登录"
+  },
+  "예약대기 시간에도 신청을 할 수 있습니다." : {
+    "en" : "You can apply even during the reservation waiting time.",
+    "ja" : "予約の待機時間でも申請が可能です。",
+    "vi" : "Bạn có thể áp dụng ngay cả trong thời gian chờ đợi đặt chỗ.",
+    "zh" : "即使在等待预订的时间，您仍然可以进行申请。"
+  },
+  "예약가능시간을 시작기간이 종료시간보다 크게 설정할 수 없습니다." : {
+    "en" : "The start time cannot be greater than the end date (Available time)",
+    "ja" : "予約可能時間は、開始時間が終了時間より前の時間には設定できません。",
+    "vi" : "Ngày bắt đầu không được muộn hơn ngày kết thúc để đặt trước.",
+    "zh" : "设定可以预约时间时开始期间不可大于结束时间。"
+  },
+  "토" : {
+    "en" : "Sat",
+    "ja" : "土",
+    "vi" : "Thứ bảy",
+    "zh" : "星期六"
+  },
+  "반려하였습니다." : {
+    "en" : "It has been rejected.",
+    "ja" : "差戻しました。",
+    "vi" : "Bạn đã từ chối.",
+    "zh" : "退回了。"
+  },
+  "타이틀" : {
+    "en" : "Title",
+    "ja" : "タイトル",
+    "vi" : "Tiêu đề",
+    "zh" : "标题"
+  },
+  "상세검색" : {
+    "en" : "Advanced search",
+    "ja" : "詳細検索",
+    "vi" : "Tìm kiếm chi tiết",
+    "zh" : "详细搜索"
+  },
+  "제목 : [자원예약]" : {
+    "en" : "Title : [Resource Booking]",
+    "ja" : "件名：［資源予約］",
+    "vi" : "Tiêu đề: [Đặt trước tài nguyên]",
+    "zh" : "题目：[资源预约]"
+  },
+  "일정으로 등록 시 반복 예약으로 설정할 수 없습니다." : {
+    "en" : "It cannot be set as a recurring event/appointment when registering as a calendar schedule.",
+    "ja" : "スケジュールとして登録する場合、繰り返し予約に設定できません。",
+    "vi" : "Không thể đặt lịch trình lặp lại khi đăng ký theo lịch trình.",
+    "zh" : "若登录为日程，将无法设置为反复预约。"
+  },
+  "엑셀저장" : {
+    "en" : "Save as Excel",
+    "ja" : "Excel保存",
+    "vi" : "Lưu excel",
+    "zh" : "excel保存"
+  },
+  "자원을 복원 하였습니다." : {
+    "en" : "The resource has been successfully restored.",
+    "ja" : "資源を復元しました。",
+    "vi" : "Đã khôi phục tài nguyên.",
+    "zh" : "复原资源了。"
+  },
+  "선택한 폴더를 대상 폴더의 하위로 이동합니다." : {
+    "en" : "Move the selected folder under the target folder.",
+    "ja" : "選択したフォルダを対象フォルダの下位に移動します。",
+    "vi" : "Di chuyển thư mục đã chọn xuống dưới thư mục đích.",
+    "zh" : "把您选择的文件夹移动到对象文件夹的下位。"
+  },
+  "양식 사용여부 변경시 기존 자원예약사유가 나오지 않습니다." : {
+    "en" : "The existing 'Reason for Resource Booking' will not be displayed if you change the 'Use Form' status.",
+    "ja" : "フォームの使用可否の変更時、既存の資源予約理由は表示されません。",
+    "vi" : "Lý do đặt trước tài nguyên hiện có sẽ không xuất hiện nếu bạn thay đổi hình thức sử dụng.",
+    "zh" : "变更是否使用样式时不可表示现有预约资源理由。"
+  },
+  "사용자 일정확인" : {
+    "en" : "Check User Calendar",
+    "ja" : "ユーザーのスケジュールを確認",
+    "vi" : "Xác nhận lịch trình người dùng",
+    "zh" : "确认使用者日程"
+  },
+  "템플릿명" : {
+    "en" : "Template name",
+    "ja" : "テンプレート名",
+    "vi" : "Tên mẫu",
+    "zh" : "模板名"
+  },
+  "공유자를 10명 이상 선택할 수 없습니다." : {
+    "en" : "You cannot select more than 10 sharers.",
+    "ja" : "共有者は10名以上選択出来ません。",
+    "vi" : "Không thể chọn hơn 10 người chia sẻ.",
+    "zh" : "不可选择10名以上的共有者。"
+  },
+  "신청일" : {
+    "en" : "Date (Application)",
+    "ja" : "申請日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "申请日"
+  },
+  "같은 폴더로 이동할 수 없습니다." : {
+    "en" : "Cannot move to the same folder.",
+    "ja" : "同じフォルダに移動できません。",
+    "vi" : "Không thể di chuyển đến cùng 1 thư mục",
+    "zh" : "不可移动到一样的文件夹上。"
+  },
+  "반납완료처리가 완료되었습니다." : {
+    "en" : "It has been successfully marked as 'return complete'",
+    "ja" : "返却完了の処理が完了しました。",
+    "vi" : "Đã trả.",
+    "zh" : "返还完了处理完了。"
+  },
+  "시작 날짜" : {
+    "en" : "Start date",
+    "ja" : "開始日付",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日子"
+  },
+  "종료일은 시작일 기준 3개월 이상 지정할 수 없습니다." : {
+    "en" : "The end date cannot be set more than 3 months after the start date.",
+    "ja" : "終了日は開始日を基準に3ヶ月以上指定できません。",
+    "vi" : "Ngày kết thúc không thể được đặt nhiều hơn 3 tháng sau ngày bắt đầu.",
+    "zh" : "结束日期不能超过开始日期的3个月以上。"
+  },
+  "다른예약이 존재하므로 사용시간을 변경해주세요." : {
+    "en" : "Someone has already made a booking in the same time slot. Please change the time slot.",
+    "ja" : "他の予約があるので使用時間を変更してください。",
+    "vi" : "Ai đó đã đặt vào thời gian bạn chọn. Vui lòng thay đổi thời gian.",
+    "zh" : "已经存在别的预约请变更使用时间。"
+  },
+  "반복종료일은 5년 이후 날짜를 지정할 수 없습니다." : {
+    "en" : "The repeat end date cannot be specified more than 5 years in the future.",
+    "ja" : "繰り返し終了日は5年後の日付を指定することはできません。",
+    "vi" : "Ngày kết thúc lặp lại không thể được chỉ định trong tương lai hơn 5 năm.",
+    "zh" : "重复结束日期不能超过5年。"
+  },
+  "시설" : {
+    "en" : "Facility",
+    "ja" : "施設",
+    "vi" : "Thiết bị",
+    "zh" : "设备"
+  },
+  "분류를 선택하세요." : {
+    "en" : "Please select a category",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh mục",
+    "zh" : "请选择分类。"
+  },
+  "비공개" : {
+    "en" : "Private",
+    "ja" : "非公開",
+    "vi" : "Không công khai",
+    "zh" : "非公开"
+  },
+  "등록된 관심 자원이 없습니다." : {
+    "en" : "There are no resources which you have set as 'Interesting.'",
+    "ja" : "登録されたお気に入り資源がありません。",
+    "vi" : "Không có nguồn tài nguyên quan tâm được đăng ký.",
+    "zh" : "没有登录的关心资源。"
+  },
+  "예약을 취소하시겠습니까?" : {
+    "en" : "Do you want to cancel your booking?",
+    "ja" : "予約をキャンセルしますか？",
+    "vi" : "Bạn có muốn hủy đặt trước không?",
+    "zh" : "要取消预订吗？"
+  },
+  "관리자가 자원을 삭제하여 예약이 취소되었습니다." : {
+    "en" : "The booking has been cancelled because the resource was deleted by the administrator.",
+    "ja" : "管理者が資源を削除したため、予約がキャンセルされました。",
+    "vi" : "Việc đặt trước bị hủy bỏ do quản trị viên đã xóa tài nguyên này.",
+    "zh" : "管理者删除了资源而预订被取消了。"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã xóa.",
+    "zh" : "已删除。"
+  },
+  "자원을 등록하시겠습니까?" : {
+    "en" : "Do you want to add the resource?",
+    "ja" : "資源を登録しますか？",
+    "vi" : "Bạn có muốn thêm tài nguyên không?",
+    "zh" : "要登录资源吗？"
+  },
+  "이다" : {
+    "en" : "is",
+    "ja" : "である",
+    "vi" : "là",
+    "zh" : "是"
+  },
+  "공유자 선택" : {
+    "en" : "Select Sharer",
+    "ja" : "共有者選択",
+    "vi" : "Chọn người chia sẻ",
+    "zh" : "选择共有人"
+  },
+  "날짜 선택" : {
+    "en" : "Select date",
+    "ja" : "日時選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "Mail" : {
+    "en" : "Daily",
+    "ja" : "毎日",
+    "vi" : "Mail",
+    "zh" : "每日"
+  },
+  "본인을 대리자로 설정할 수 없습니다." : {
+    "en" : "Cannot set yourself as the delegate.",
+    "ja" : "本人を代理者として設定できません。",
+    "vi" : "Không thể đặt tên chính bạn là Đại diện.",
+    "zh" : "本人不能设定为代理人。"
+  },
+  "반납 정보를 입력하세요." : {
+    "en" : "Please type return information .",
+    "ja" : "返却情報を入力してください。",
+    "vi" : "Hãy nhập thông tin hoàn trả",
+    "zh" : "请输入退回信息。"
+  },
+  "※ 선택한 일자가 지난 예약반려 내역 삭제" : {
+    "en" : "※ Delete rejected reservation records that passed the selected date.",
+    "ja" : "※選択した日付が過ぎた予約却下履歴を削除",
+    "vi" : "Xóa nội dung từ chối đặt trước đã qua ngày được chọn",
+    "zh" : "※删除已选中的日期已过的预约退还明细"
+  },
+  "다른 예약이 존재하여 예약신청을 취소합니다." : {
+    "en" : "The booking request will be cancelled (other booking exists).",
+    "ja" : "すでに予約が存在するため、予約申請を取り消します。",
+    "vi" : "Có một đặt trước khác nên yêu cầu đặt trước của bạn sẽ bị hủy bỏ.",
+    "zh" : "有别的预订存在取消您的预订申请。"
+  },
+  "내역을 변경하고자 하는 예약을 선택하세요." : {
+    "en" : "Select the booking that you want to change the details of.",
+    "ja" : "内訳を変更したい予約を選択してください。",
+    "vi" : "Hãy chọn đặt trước bạn muốn thay đổi chi tiết.",
+    "zh" : "请选择要变更内容的预订。"
+  },
+  "메일주소" : {
+    "en" : "e-mail address",
+    "ja" : "メールアドレス",
+    "vi" : "Địa chỉ mail",
+    "zh" : "邮件地址。"
+  },
+  "예약불가인 자원은 관심자원으로 등록할 수 없습니다." : {
+    "en" : "Resources that are not available for booking cannot be added as interesting resources. .",
+    "ja" : "予約不可資源は、お気に入り資源として登録できません。",
+    "vi" : "Không thể đăng ký nguồn tài nguyên không thể đặt trước là nguồn tài nguyên quan tâm.",
+    "zh" : "不能预约的资源不可登录为关心资源。"
+  },
+  "지난 날짜 예약" : {
+    "en" : "Book a date passed",
+    "ja" : "過去の日付予約",
+    "vi" : "Đặt trước ngày ở quá khứ",
+    "zh" : "预约过去的日子"
+  },
+  "템플릿명이 중복되었습니다." : {
+    "en" : "The template name already exists.",
+    "ja" : "テンプレート名が重複しました。",
+    "vi" : "Tên mẫu bị trùng lặp",
+    "zh" : "模板名重复了。"
+  },
+  "매주 월요일, 수요일, 금요일," : {
+    "en" : "Every Monday, Wednesday, Friday",
+    "ja" : "毎週月曜日、水曜日、金曜日、",
+    "vi" : "Thứ 2, thứ 4, thứ 6 hàng tuần",
+    "zh" : "每周 星期一, 星期三, 星期五，"
+  },
+  "사용자별 자원예약 대리자를 설정할 수 있습니다." : {
+    "en" : "You can set up a delegate who will perform resource booking on behalf of another user (by user)",
+    "ja" : "ユーザー別資源予約代理者を設定できます。",
+    "vi" : "Bạn có thể đặt người dùng Đại diện tài nguyên máy chủ theo người dùng.",
+    "zh" : "可设定不同用户的资源预约代理人。"
+  },
+  "매일" : {
+    "en" : "Everyday",
+    "ja" : "毎日",
+    "vi" : "Hàng ngày",
+    "zh" : "每日"
+  },
+  "수" : {
+    "en" : "Wed",
+    "ja" : "水",
+    "vi" : "Thứ tư",
+    "zh" : "星期三"
+  },
+  "미니 캘린더" : {
+    "en" : "Mini calendar",
+    "ja" : "ミニカレンダー",
+    "vi" : "Lịch nhỏ",
+    "zh" : "迷你日历"
+  },
+  "첨부파일" : {
+    "en" : "Attachments",
+    "ja" : "添付ファイル",
+    "vi" : "File đính kèm",
+    "zh" : "附件"
+  },
+  "예약 목록" : {
+    "en" : "Booking list",
+    "ja" : "予約リスト",
+    "vi" : "Danh sách đặt trước",
+    "zh" : "预订目录"
+  },
+  "{0}님께서 자원대리예약을 하였습니다." : {
+    "en" : "{0} has booked the resource on behalf of another user.",
+    "ja" : "{0}さんが資源の代理予約をしました。",
+    "vi" : "{0} đã đứng ra làm người đại diện để đặt chỗ.",
+    "zh" : "{0}代替预订资源了。"
+  },
+  "['일', '월', '화', '수', '목', '금', '토'];" : {
+    "en" : "['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];",
+    "ja" : "['日', '月', '火', '水', '木', '金', '土'];",
+    "vi" : "['Chủ nhật', 'Thứ 2', 'Thứ 3', 'Thứ 4', 'Thứ 5', 'Thứ 6', 'Thứ 7'];",
+    "zh" : "['周日', '周一', '周二', '周三', '周四', '周五', '周六'];"
+  },
+  "양식 사용여부" : {
+    "en" : "Is the form used?",
+    "ja" : "フォームの使用可否",
+    "vi" : "Có sử dụng bản mẫu hay không",
+    "zh" : "是否使用样式"
+  },
+  "기본 컬럼 설정" : {
+    "en" : "Default column settings",
+    "ja" : "基本カラム設定",
+    "vi" : "Cài đặt cột mặc định",
+    "zh" : "设定基本专栏"
+  },
+  "반복 일정 모두 수정" : {
+    "en" : "Edit all repeating events",
+    "ja" : "繰返しスケジュールをすべて修正",
+    "vi" : "Sửa tất cả sự kiện lặp lại",
+    "zh" : "反复日程全部修改"
+  },
+  "기간삭제" : {
+    "en" : "Delete Period",
+    "ja" : "期間削除",
+    "vi" : "Xóa khoảng thời gian",
+    "zh" : "删除期间"
+  },
+  "예약변경" : {
+    "en" : "Change booking",
+    "ja" : "予約変更",
+    "vi" : "Thay đổi đặt trước",
+    "zh" : "变更预订"
+  },
+  "펼침" : {
+    "en" : "Unfold",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Khởi tạo",
+    "zh" : "初始化"
+  },
+  "자원명" : {
+    "en" : "Resource name",
+    "ja" : "資源名",
+    "vi" : "Tên tài nguyên",
+    "zh" : "资源名"
+  },
+  "중지해제" : {
+    "en" : "Unsuspend",
+    "ja" : "中止解除",
+    "vi" : "Bỏ dừng",
+    "zh" : "停止解除"
+  },
+  "최상위 폴더는 삭제할 수 없습니다." : {
+    "en" : "The parent folder (highest-class folder) cannot be deleted.",
+    "ja" : "最上位のフォルダは削除できません。",
+    "vi" : "Không thể xóa thư mục trên cùng.",
+    "zh" : "最上位文件夹不可删除。"
+  },
+  "목록 값" : {
+    "en" : "List Value",
+    "ja" : "リスト値",
+    "vi" : "Giá trị danh sách",
+    "zh" : "目录价"
+  },
+  "폴더 템플릿 관리" : {
+    "en" : "Manage folder templates",
+    "ja" : "フォルダテンプレート管理",
+    "vi" : "Quản lý mẫu thư mục",
+    "zh" : "文件夹模板管理"
+  },
+  "날짜를 선택하셔야 합니다." : {
+    "en" : "You must select a date.",
+    "ja" : "日付を選択する必要があります。",
+    "vi" : "Bạn phải chọn ngày.",
+    "zh" : "得选择日子。"
+  },
+  "[일요일, 월요일, 화요일, 수요일, 목요일, 금요일, 토요일]" : {
+    "en" : "[Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday]",
+    "ja" : "[日曜日, 月曜日, 火曜日, 水曜日, 木曜日, 金曜日, 土曜日]",
+    "vi" : "[Chủ nhật, thứ 2, thứ 3, thứ 4, thứ 5, thứ 6, thứ 7]",
+    "zh" : "[星期日, 星期一, 星期二, 星期三, 星期四, 星期五, 星期六]"
+  },
+  "취소대기" : {
+    "en" : "Waiting for cancellation",
+    "ja" : "キャンセル待ち",
+    "vi" : "Chờ hủy",
+    "zh" : "等待取消"
+  },
+  "분류에 5개이상 추가할 수 없습니다." : {
+    "en" : "You cannot add more than 5 items to the category.",
+    "ja" : "カテゴリに5つ以上の追加はできません。",
+    "vi" : "Không thể thêm trên 5 danh mục",
+    "zh" : "在分类5个以上不可追加。"
+  },
+  "사용시간 요일과 반복예약 요일이 일치하지 않습니다." : {
+    "en" : "The 'day' of the usage time does not match the 'day' of the repeat booking.",
+    "ja" : "使用時間の曜日と繰り返し予約の曜日が一致しません。",
+    "vi" : "Ngày sử dụng thực tế không khớp với ngày lặp lại.",
+    "zh" : "使用时间的周跟预约反复的周不一致。"
+  },
+  "수정할 분류를 선택하세요." : {
+    "en" : "Select the category to modify.",
+    "ja" : "修正するカテゴリを選択してください。",
+    "vi" : "Hãy chọn danh mục để sửa.",
+    "zh" : "请选择要修改的分类。"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "không có",
+    "zh" : "没有"
+  },
+  "양식명" : {
+    "en" : "Form name",
+    "ja" : "フォーム名",
+    "vi" : "Tên bản mẫu",
+    "zh" : "样式名"
+  },
+  "폴더의 상하 위치를 설정합니다." : {
+    "en" : "Re-order the location of the folder (up/down).",
+    "ja" : "フォルダの上下位置を設定します。",
+    "vi" : "Cài đặt vị trí trên dưới của thư mục",
+    "zh" : "设定文件夹的上下位置。"
+  },
+  "수정할 자원을 선택하세요." : {
+    "en" : "Select the resource to modify.",
+    "ja" : "修正する資源を選択してください。",
+    "vi" : "Hãy chọn tài nguyên để sửa.",
+    "zh" : "请选择要修改的资源。"
+  },
+  "완전삭제" : {
+    "en" : "Delete Permanently",
+    "ja" : "完全削除",
+    "vi" : "Xóa vĩnh viễn",
+    "zh" : "完全删除"
+  },
+  "반납완료" : {
+    "en" : "Successfully Returned",
+    "ja" : "返却完了",
+    "vi" : "Đã trả",
+    "zh" : "退还完了"
+  },
+  "메일을 통해 알림을 받겠습니다." : {
+    "en" : "I will receive notifications via e-mail.",
+    "ja" : "お知らせはメールでお受けします。",
+    "vi" : "Tôi sẽ nhận thông báo thông qua mail.",
+    "zh" : "通过邮件接收提醒。"
+  },
+  "자원 폴더" : {
+    "en" : "Resource folder",
+    "ja" : "資源フォルダ",
+    "vi" : "thư mục tài nguyên",
+    "zh" : "资源文件夹"
+  },
+  "분류명" : {
+    "en" : "Category name",
+    "ja" : "カテゴリ名",
+    "vi" : "Tên danh mục",
+    "zh" : "分类名"
+  },
+  "예약상태" : {
+    "en" : "Booking Status",
+    "ja" : "予約状態",
+    "vi" : "Trạng thái đặt trước",
+    "zh" : "预订状态"
+  },
+  "해당 폴더에는 자원을 등록할 수 없습니다." : {
+    "en" : "You cannot register resources to this folder.",
+    "ja" : "該当フォルダには、資源を登録することができません。",
+    "vi" : "Không thể đăng ký nguồn tài nguyên của thư mục tương ứng.",
+    "zh" : "有关文件夹不可登录资源。"
+  },
+  "사용시간 예약불가" : {
+    "en" : "Booking Unavailable (Invalid Time)",
+    "ja" : "使用時間の予約不可",
+    "vi" : "Không thể đặt trước thời gian sử dụng",
+    "zh" : "不可预约使用时间"
+  },
+  "대여 자원" : {
+    "en" : "Resources (Rent/Borrow)",
+    "ja" : "貸出資源",
+    "vi" : "Tài nguyên xuất",
+    "zh" : "借贷资源"
+  },
+  "선택하신 예약을 승인하시겠습니까?" : {
+    "en" : "Do you want to approve the selecting booking?",
+    "ja" : "選択した予約を承認しますか？",
+    "vi" : "Bạn có muốn phê duyệt đặt trước đã chọn không?",
+    "zh" : "要承认您选择的预约吗？"
+  },
+  "폴더 위치" : {
+    "en" : "Folder location",
+    "ja" : "フォルダ位置",
+    "vi" : "Vị trí thư mục",
+    "zh" : "文件夹位置"
+  },
+  "[일, 월, 화, 수, 목, 금, 토]" : {
+    "en" : "[Sun, Mon, Tue, Wed, Thu, Fri, Sat]",
+    "ja" : "[日, 月, 火, 水, 木, 金, 土]",
+    "vi" : "[Chủ nhật, thứ 2, thứ 3, thứ 4, thứ 5, thứ 6, thứ 7]",
+    "zh" : "[星期日, 星期一, 星期二, 星期三, 星期四, 星期五, 星期六]"
+  },
+  "취소처리가 완료되었습니다." : {
+    "en" : "The cancellation process has been completed.",
+    "ja" : "キャンセル処理が完了しました。",
+    "vi" : "Đã hoàn thiện xử lý hủy.",
+    "zh" : "取消处理完了。"
+  },
+  "시간제" : {
+    "en" : "Hourly Booking",
+    "ja" : "時間制",
+    "vi" : "Thời gian",
+    "zh" : "钟点"
+  },
+  "첨부 개수를 선택하세요." : {
+    "en" : "Please select the number of attachment",
+    "ja" : "添付数を選択してください。",
+    "vi" : "Hãy chọn số đính kèm",
+    "zh" : "请选择附加个数。"
+  },
+  "사용권한자를 10명 이상 선택할 수 없습니다." : {
+    "en" : "You cannot select more than 10 license users.",
+    "ja" : "使用権限者は10名以上選択できません。",
+    "vi" : "Không thể chọn hơn 10 người dùng.",
+    "zh" : "不可选择10名以上的使用权限者。"
+  },
+  "시설자원" : {
+    "en" : "Facility resources",
+    "ja" : "施設資源",
+    "vi" : "Tài nguyên thiết bị",
+    "zh" : "设备资源"
+  },
+  "자원을 수정하시겠습니까?" : {
+    "en" : "Do you want to modify the resource?",
+    "ja" : "資源を変更しますか？",
+    "vi" : "Bạn có muốn thay đổi tài nguyên không?",
+    "zh" : "要修改资源吗？"
+  },
+  "자원 이미지" : {
+    "en" : "Resource image",
+    "ja" : "資源画像",
+    "vi" : "Hình ảnh tài nguyên",
+    "zh" : "资源图像"
+  },
+  "캘린더선택" : {
+    "en" : "Select Calendar",
+    "ja" : "カレンダー選択",
+    "vi" : "Chọn lịch",
+    "zh" : "选择日历"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "전체 상태" : {
+    "en" : "Status (All)",
+    "ja" : "全体状態",
+    "vi" : "Toàn bộ trạng thái",
+    "zh" : "全体状态"
+  },
+  "주간" : {
+    "en" : "Weekly",
+    "ja" : "週間",
+    "vi" : "Theo tuần",
+    "zh" : "周间"
+  },
+  "해당 템플릿은 이미 존재합니다." : {
+    "en" : "This template already exists.",
+    "ja" : "該当テンプレートは、すでに存在しています。",
+    "vi" : "Mẫu tương ứng đã tồn tại.",
+    "zh" : "有关模板已经存在。"
+  },
+  "인쇄할 자원을 선택하세요" : {
+    "en" : "Please select the resource you want to print.",
+    "ja" : "印刷する資源を選択してください",
+    "vi" : "Hãy chọn nguồn tài nguyên để in.",
+    "zh" : "请选择要打印的资源。。"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "Danh sách lựa chọn",
+    "zh" : "选择目录"
+  },
+  "선택한 분류를 이동하는 데 실패했습니다.\\n확인 후 다시 시도하세요." : {
+    "en" : "It failed to move the selected category. \\n Please, check and try again.",
+    "ja" : "選択したカテゴリの移動に失敗しました。\\nご確認の上、もう一度お試しください。",
+    "vi" : "Di chuyển danh mục đã chọn không thành công. \\n Xin kiểm tra và thử lại.",
+    "zh" : "你选择的分类失败移动了。请\\n确认后再试试。"
+  },
+  "순서" : {
+    "en" : "Order",
+    "ja" : "順序",
+    "vi" : "Thứ tự",
+    "zh" : "循序"
+  },
+  "자원 필수" : {
+    "en" : "Resource required",
+    "ja" : "資源必須",
+    "vi" : "Tài nguyên cần thiết",
+    "zh" : "资源必须"
+  },
+  "그룹자원 등록관리" : {
+    "en" : "Add & Manage Group Resources",
+    "ja" : "グループ資源の登録管理",
+    "vi" : "Quản lý đăng ký tài nguyên nhóm",
+    "zh" : "小组资源登录管理"
+  },
+  "분 전" : {
+    "en" : "Minutes ago",
+    "ja" : "分前",
+    "vi" : "trước… phút",
+    "zh" : "分钟前"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "내용은 한글 2000자 이내, 영어 4000자 이내로 입력하세요." : {
+    "en" : "The content must be less than 2,000 characters (Korean) or 4,000 characters (English).",
+    "ja" : "内容は、ハングル2000文字以内、英語4000文字以内で入力してください。",
+    "vi" : "Hãy nhập nội dung trong vòng 2000 chữ tiếng Hàn, 4000 chữ tiếng Anh.",
+    "zh" : "内容输入为2000字以内, 英文 4000字以内。"
+  },
+  "예약신청이 완료되었습니다." : {
+    "en" : "Your request for booking has been completed.",
+    "ja" : "予約申請が完了しました。",
+    "vi" : "Đã hoàn thành đăng ký đặt trước.",
+    "zh" : "预约申请完了。"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "목" : {
+    "en" : "Thu",
+    "ja" : "木",
+    "vi" : "Thứ năm",
+    "zh" : "星期四"
+  },
+  "다음 년도" : {
+    "en" : "Next Year",
+    "ja" : "次年度",
+    "vi" : "Năm sau",
+    "zh" : "明年"
+  },
+  "분류 삭제" : {
+    "en" : "Delete category",
+    "ja" : "か削除",
+    "vi" : "Xóa danh mục",
+    "zh" : "删除分类"
+  },
+  "선택한 분류 하위에 새로운 자원을 추가합니다." : {
+    "en" : "Add a new resource to the lower location of the selected category.",
+    "ja" : "選択したカテゴリの下位に新しい資源を追加します。",
+    "vi" : "Thêm tài nguyên mới vào dưới danh mục đã chọn.",
+    "zh" : "选择的分类下位追加新资源。"
+  },
+  "요일별 설정" : {
+    "en" : "Setup (by day)",
+    "ja" : "曜日別設定",
+    "vi" : "Cài đặt theo ngày",
+    "zh" : "星期别设定"
+  },
+  "반납대기" : {
+    "en" : "Waiting (Return)",
+    "ja" : "返却待機",
+    "vi" : "Đợi trả",
+    "zh" : "等待退回"
+  },
+  "삭제할 템플릿을 선택하세요." : {
+    "en" : "Please select the template you want to delete.",
+    "ja" : "削除するテンプレートを選択してください",
+    "vi" : "Hãy chọn mẫu để xóa",
+    "zh" : "请选择要删除的模板"
+  },
+  "예약가능 시간" : {
+    "en" : "Available time",
+    "ja" : "予約可能時間",
+    "vi" : "Khoảng thời gian có thể đặt trước",
+    "zh" : "可以预约时间"
+  },
+  "선택한 부분의 예약내역이 삭제 됩니다.\\n계속하시겠습니까?" : {
+    "en" : "The booking details of the selected part will be deleted.\\nDo you want to continue?",
+    "ja" : "選択した部分の予約内容を削除します。\\n続けますか?",
+    "vi" : "Chi tiết đặt trước của phần đã chọn sẽ bị xóa. Bạn có muốn tiếp tục không?",
+    "zh" : "您选择的预订内容会删除。要\\n继续进行吗？"
+  },
+  "사진정보" : {
+    "en" : "Photo information",
+    "ja" : "写真情報",
+    "vi" : "Thông tin hình ảnh",
+    "zh" : "照片信息"
+  },
+  "분류로 묶기" : {
+    "en" : "Group as category",
+    "ja" : "カテゴリで縛る",
+    "vi" : "Nhóm theo danh mục",
+    "zh" : "用分类打环。"
+  },
+  "예약 자세히 입력" : {
+    "en" : "Enter Details (Booking)",
+    "ja" : "予約の詳細入力",
+    "vi" : "Nhập chi tiết đặt trước",
+    "zh" : "仔细输入预订"
+  },
+  "검색조건 추가" : {
+    "en" : "Add search rules",
+    "ja" : "検索条件の追加",
+    "vi" : "Thêm điều kiện tìm kiếm",
+    "zh" : "追加搜索条件"
+  },
+  "예약이 예정되어 있습니다." : {
+    "en" : "Reservation is scheduled.",
+    "ja" : "予約が予定されています。",
+    "vi" : "Đặt chỗ đã được lên kế hoạch.",
+    "zh" : "预订即将到期。"
+  },
+  "입력한 사용시간대에 예약 가능하지 않은 자원이 존재합니다.\\n\\n확인후 다시 입력하세요." : {
+    "en" : "There is a resource that is not available for the time you've selected to use. \\n\\n Please enter again after checking.",
+    "ja" : "入力した使用時間帯に予約不可能な資源が存在します。\\n\\nご確認後、もう一度入力してください。",
+    "vi" : "Tài nguyên không có sẵn để đặt trước trong thời gian đã nhập. \\n\\nVui lòng kiểm tra và nhập lại.",
+    "zh" : "您输入的使用时段内存在不可预约的资源。\\n\\n请确认后再输入。"
+  },
+  "직책" : {
+    "en" : "Duty",
+    "ja" : "役職",
+    "vi" : "Chức trách",
+    "zh" : "职责"
+  },
+  "필수 여부" : {
+    "en" : "Is it required?",
+    "ja" : "必須可否",
+    "vi" : "Có cần thiết hay không",
+    "zh" : "是否必须"
+  },
+  "취소하려는 예약은 반복예약입니다. 예약 취소시 관리자의 삭제 승인이 필요한 경우에는 다시 승인을 받아야 합니다." : {
+    "en" : "The booking you're about to cancel is a repeated booking. To cancel a booking that requires the adminstrator's approval for deletion, you need to obtain the administrator's approval again.",
+    "ja" : "キャンセルしようとしている予約は繰返し予約です。予約のキャンセル時に、管理者の削除の承認が必要な場合には再度承認が必要です。",
+    "vi" : "Đặt trước mà bạn định hủy là đặt trước lặp lại. Để hủy đặt chỗ cần có sự chấp thuận của quản trị viên để xóa, bạn cần phải có sự chấp thuận của quản trị viên một lần nữa.",
+    "zh" : "您要取消的预约是反复的预约。取消预约时需要管理者删除承认的话得再进行承认。"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "<strong>{0}</strong> 에 <strong>{1}</strong> 자원을 사용중지하였습니다." : {
+    "en" : "You suspended  <strong>{1}</strong>  resource in <strong>{0}</strong>.",
+    "ja" : "<strong>{0}</strong> へ <strong>{1}</strong> 資源を使用中止しました。",
+    "vi" : "Đã ngừng sử dụng tài nguyên <strong>{1}</strong> ở <strong>{0}</strong> .",
+    "zh" : "在<strong>{0}</strong> 停止使用 <strong>{1}</strong> 资源了。"
+  },
+  "등록된 이미지가 없습니다." : {
+    "en" : "There are no registered images.",
+    "ja" : "登録された画像がありません。",
+    "vi" : "Không có hình ảnh được đăng ký.",
+    "zh" : "没有登录的图像。"
+  },
+  "검색식 저장" : {
+    "en" : "Save Search Formula",
+    "ja" : "検索式の保存",
+    "vi" : "Lưu phương thức tìm kiếm",
+    "zh" : "搜索式存储"
+  },
+  "{0} 폴더 하위에 신규폴더 {1} 을(를) 추가하였습니다." : {
+    "en" : "You added a new folder  {1} to {0} folder.",
+    "ja" : "{0} フォルダの下位に 新規フォルダ {1} を追加しました。",
+    "vi" : "Đã thêm thư mục mới {1} vào dưới thư mục {0}.",
+    "zh" : "在{0} 文件夹下位追加了新的文件夹 {1} 。"
+  },
+  "자원예약시에는 반복일정을 등록할 수 없습니다." : {
+    "en" : "Repeat schedules cannot be added when booking a resource.",
+    "ja" : "資源予約時には、繰返しスケジュールを登録することができません。",
+    "vi" : "Không thể thêm lịch trình được lặp khi nguồn tài nguyên đang được đặt trước.",
+    "zh" : "预约资源时不可登录反复日程。"
+  },
+  "자원 구분" : {
+    "en" : "Resource Type",
+    "ja" : "リソース区分",
+    "vi" : "Loại tài nguyên",
+    "zh" : "资源类型"
+  },
+  "무한반복" : {
+    "en" : "Repeat infinitely",
+    "ja" : "無限繰り返し",
+    "vi" : "Lặp lại vô hạn",
+    "zh" : "无限反复"
+  },
+  "일정등록" : {
+    "en" : "Add schedule",
+    "ja" : "スケジュール登録",
+    "vi" : "Thêm lịch trình",
+    "zh" : "登录日程"
+  },
+  "조직도 추가 맵핑" : {
+    "en" : "Organization chart _ additional mapping",
+    "ja" : "組織図の追加マッピング",
+    "vi" : "Bổ sung sơ đồ tổ chức",
+    "zh" : "组织图追加映射"
+  },
+  "<strong>{0}</strong> 폴더 하위에 <strong>{1}</strong> 폴더정보를 변경하였습니다." : {
+    "en" : "You changed <strong>{1}</strong> folder information in the <strong>{0}</strong> folder.",
+    "ja" : "<strong>{0}</strong> フォルダの下位に <strong>{1}</strong> フォルダ情報を変更しました。",
+    "vi" : "Đã thay đổi thông tin thư mục <strong>{1}</strong> ở dưới thư mục <strong>{0}</strong>.",
+    "zh" : "在<strong>{0}</strong> 文件夹下位变更了 <strong>{1}</strong> 文件夹信息。"
+  },
+  "반려하시겠습니까?" : {
+    "en" : "Would you like to reject?",
+    "ja" : "差戻しますか？",
+    "vi" : "Bạn có muốn từ chối không?",
+    "zh" : "要退回吗？"
+  },
+  "시" : {
+    "en" : "hour",
+    "ja" : "時",
+    "vi" : "Giờ",
+    "zh" : "点"
+  },
+  "예약취소" : {
+    "en" : "Cancel booking",
+    "ja" : "予約取消",
+    "vi" : "Hủy đặt trước",
+    "zh" : "预约取消"
+  },
+  "그룹 대여" : {
+    "en" : "Group Rental",
+    "ja" : "グループレンタル",
+    "vi" : "Cho thuê nhóm",
+    "zh" : "组租借"
+  },
+  "그룹자원예약" : {
+    "en" : "Group resource booking",
+    "ja" : "グループ資源予約",
+    "vi" : "Đặt trước tài nguyên nhóm",
+    "zh" : "组织资源预订"
+  },
+  "첨부파일 없음" : {
+    "en" : "No attachments",
+    "ja" : "添付ファイルなし",
+    "vi" : "Không có file đính kèm",
+    "zh" : "没有附件"
+  },
+  "대여 처리하시겠습니까?" : {
+    "en" : "Would you like to lent out the resource?",
+    "ja" : "貸出処理をしますか？",
+    "vi" : "Bạn có muốn xuất tài nguyên không?",
+    "zh" : "要借贷处理吗？"
+  },
+  "기본값" : {
+    "en" : "Default Value",
+    "ja" : "基本値",
+    "vi" : "Giá trị mặc định",
+    "zh" : "基本值"
+  },
+  "기존 데이터 처리" : {
+    "en" : "Process Existing Data",
+    "ja" : "既存のデータ処理",
+    "vi" : "Quản lý dữ liệu trước đó",
+    "zh" : "处理现有数据"
+  },
+  "대여" : {
+    "en" : "Borrow/Rent",
+    "ja" : "貸し出し",
+    "vi" : "Cho vay",
+    "zh" : "出租"
+  },
+  "이동" : {
+    "en" : "Move",
+    "ja" : "移動",
+    "vi" : "Di chuyển",
+    "zh" : "移动"
+  },
+  "{0}님께서 예약일정을 공유하였습니다." : {
+    "en" : "{0} is sharing the booking schedule.",
+    "ja" : "{0}さんが予約スケジュールを共有しました。",
+    "vi" : "Anh/ chị {0} đã chia sẻ lịch trình đặt trước.",
+    "zh" : "{0}共有了预约日程。"
+  },
+  "예약승인 관리" : {
+    "en" : "Approval Booking Management",
+    "ja" : "予約承認管理",
+    "vi" : "Quản lý phê duyệt đặt trước.",
+    "zh" : "管理预订承认"
+  },
+  "그룹자원 폴더" : {
+    "en" : "Group resource folder",
+    "ja" : "グループ資源フォルダ",
+    "vi" : "thư mục tài nguyên nhóm",
+    "zh" : "小组资源文件夹"
+  },
+  "전체기간" : {
+    "en" : "Entire Period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全期间"
+  },
+  "예약자회사전화" : {
+    "en" : "Company Phone Number",
+    "ja" : "予約者の内線番号",
+    "vi" : "Số điện thoại công ty người đặt trước",
+    "zh" : "预约者公司电话号码"
+  },
+  "내 예약" : {
+    "en" : "My bookings",
+    "ja" : "My予約",
+    "vi" : "Đặt trước của tôi",
+    "zh" : "我的预约"
+  },
+  "{0} 월간 예약 페이지" : {
+    "en" : "{0} monthly booking page",
+    "ja" : "{0} 月間予約ページ",
+    "vi" : "{0} trang đặt trước hàng tháng",
+    "zh" : "{0} 个月 预订的网页"
+  },
+  "반납하시겠습니까?" : {
+    "en" : "Would you like to return?",
+    "ja" : "返却しますか？",
+    "vi" : "Bạn có muốn trả lại nó không?",
+    "zh" : "要返还吗？"
+  },
+  "사용권한" : {
+    "en" : "Permission to use",
+    "ja" : "使用権限",
+    "vi" : "Quyền hạn sử dụng",
+    "zh" : "使用权限"
+  },
+  "승인예약" : {
+    "en" : "Approval Booking",
+    "ja" : "承認予約",
+    "vi" : "Phê duyệt đặt trước",
+    "zh" : "承认预约"
+  },
+  "반려 사유를 입력하세요." : {
+    "en" : "Please type a reason for rejection",
+    "ja" : "差戻し理由を入力してください。",
+    "vi" : "Hãy nhập lý do từ chối.",
+    "zh" : "请输入退回原因。"
+  },
+  "조직도 종류" : {
+    "en" : "Organizational Chart Style",
+    "ja" : "組織図の種類",
+    "vi" : "Loại sơ đồ tổ chức",
+    "zh" : "组织图种类"
+  },
+  "예약 방식" : {
+    "en" : "Booking Method",
+    "ja" : "予約方式",
+    "vi" : "Phương thức đặt trước",
+    "zh" : "预约方式"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "待机"
+  },
+  "중복예약 신청 가능" : {
+    "en" : "Duplicate reservations are possible.",
+    "ja" : "重複予約申請可能",
+    "vi" : "Có thể đặt trùng lặp.",
+    "zh" : "可申请重复预订"
+  },
+  "목록만 보기" : {
+    "en" : "View list only",
+    "ja" : "リストのみ表示",
+    "vi" : "Chỉ xem danh sách",
+    "zh" : "只看目录"
+  },
+  "{0}님께서 {1} 예약을 신청하셨습니다." : {
+    "en" : "{0} has booked {1}.",
+    "ja" : "{0}さんが{1} 予約を申請しました。",
+    "vi" : "Anh/ chị {0} đã đăng ký đặt trước {1}.",
+    "zh" : "{0}先生（女士）{1} 申请预订了。"
+  },
+  "예약자직위" : {
+    "en" : "Position (Reserver)",
+    "ja" : "予約者の職位",
+    "vi" : "Chức vụ người đặt trước",
+    "zh" : "预约者职位"
+  },
+  "부분대기" : {
+    "en" : "Wait (Partially)",
+    "ja" : "部分待機",
+    "vi" : "Đợi một phần",
+    "zh" : "部分等待"
+  },
+  "최대길이는 1000자 입니다." : {
+    "en" : "The maximum length is 1000 characters.",
+    "ja" : "最大の長さは1000文字です。",
+    "vi" : "Độ dài tối đa là 1000 ký tự.",
+    "zh" : "最大长度是1000字。"
+  },
+  "자원등록 관리" : {
+    "en" : "Resource Registration Management",
+    "ja" : "資源登録管理",
+    "vi" : "Quản lý tài nguyên",
+    "zh" : "管理资源登录"
+  },
+  "본인의 자원예약 대리자를 설정할 수 있습니다." : {
+    "en" : "You can set up a delegate who will perform resource booking on behalf of you.",
+    "ja" : "本人の資源予約代理者を設定できます。",
+    "vi" : "Bạn có thể chỉ định Đại diện tài nguyên máy chủ.",
+    "zh" : "可设置本人资源预约代理人。"
+  },
+  "공유자에 부서 회사 사용자 그룹과 같은 \\n그룹이 포함되어 있습니다.\\n그룹을 제외한 사용자만 표시됩니다." : {
+    "en" : "The same group as the department user group is included as a share. The users excluding the group will be displayed.",
+    "ja" : "共有者に部署会社ユーザーグループと同じ\\nグループが含まれています。\\nグループを除いたユーザーのみ表示されます。",
+    "vi" : "Nhóm tương tự như nhóm người dùng trong bộ phận được chia sẻ. Người dùng không ở trong nhóm sẽ được hiển thị.",
+    "zh" : "共享者中包括部门公司用户群的\\n集团。仅显示\\n集团外的用户。"
+  },
+  "비공개 예약입니다." : {
+    "en" : "This is a private booking.",
+    "ja" : "非公開予約です",
+    "vi" : "Đây là đặt trước không công khai",
+    "zh" : "非公开预订。"
+  },
+  "예약 내역" : {
+    "en" : "Booking History (Details)",
+    "ja" : "予約内訳",
+    "vi" : "Chi tiết đặt trước",
+    "zh" : "预约细目"
+  },
+  "폴더 추가" : {
+    "en" : "Add folder",
+    "ja" : "フォルダ追加",
+    "vi" : "Thêm thư mục",
+    "zh" : "追加文件夹"
+  },
+  "<strong>{0}</strong> 에 <strong>{1}</strong> 자원을 등록하였습니다." : {
+    "en" : "You added <strong>{1}</strong> resource to <strong>{0}</strong>.",
+    "ja" : "<strong>{0}</strong> に <strong>{1}</strong> 資源を登録しました。",
+    "vi" : "Đã đăng ký tài nguyên <strong>{1}</strong> ở <strong>{0}</strong>",
+    "zh" : "在<strong>{0}</strong>  登录了<strong>{1}</strong> 资源。"
+  },
+  "자원을 5개이상 선택하실 수 없습니다." : {
+    "en" : "You cannot select more than 5 resources.",
+    "ja" : "資源を5件以上選択出来ません。",
+    "vi" : "Không thể chọn hơn 5 nguồn tài nguyên.",
+    "zh" : "不可选择5个以上的资源。"
+  },
+  "예약 취소시 관리자 승인 필요" : {
+    "en" : "Requires admin's approval to cancel booking.",
+    "ja" : "予約キャンセル時、管理者の承認必要",
+    "vi" : "Cần phê duyệt của người quản lý khi hủy đặt trước",
+    "zh" : "取消预约时需要管理者的承认"
+  },
+  "승인취소" : {
+    "en" : "Cancel approval",
+    "ja" : "承認取消",
+    "vi" : "Hủy phê duyệt",
+    "zh" : "承认取消"
+  },
+  "시설 자원" : {
+    "en" : "Resources (Facility)",
+    "ja" : "施設資源",
+    "vi" : "Tài nguyên thiết bị",
+    "zh" : "设备资源"
+  },
+  "모든 반복예약을 수정합니다." : {
+    "en" : "You can modify all repeat bookings.",
+    "ja" : "すべての繰返し予約を修正します。",
+    "vi" : "Có thể chỉnh sửa tất cả đặt trước trùng lặp.",
+    "zh" : "修改所有反复预约。"
+  },
+  "대리예약 시 캘린더 선택을 할 수 없습니다. 캘린더 선택 시 반복 설정 불가" : {
+    "en" : "You cannot select a calendar when making a proxy reservation. Repetition settings are not available when selecting a calendar.",
+    "ja" : "代理予約時にカレンダー選択ができません。カレンダー選択時、繰り返し設定不可",
+    "vi" : "Bạn không thể chọn lịch khi thực hiện đặt chỗ ủy quyền. Cài đặt lặp lại không khả dụng khi chọn lịch.",
+    "zh" : "当进行代理预订时，无法选择日历。选择日历后无法进行重复设置。"
+  },
+  "모든 월요일, 수요일, 금요일" : {
+    "en" : "Every Monday, Wednesday, and Friday",
+    "ja" : "全ての月曜日、水曜日、金曜日",
+    "vi" : "Tất cả thứ 2, thứ 4, thứ 6",
+    "zh" : "全星期一、星期三、星期五"
+  },
+  "사용가능시간" : {
+    "en" : "Available time",
+    "ja" : "使用可能時間",
+    "vi" : "Thời gian sẵn sàng",
+    "zh" : "可以使用时间"
+  },
+  "로그 삭제 주기를 선택하세요." : {
+    "en" : "Please select a log deletion cycle.",
+    "ja" : "ログ削除周期を選択してください。",
+    "vi" : "Hãy chọn chu kỳ xóa nhật ký",
+    "zh" : "请选择登录删除周期。"
+  },
+  "미반납하시겠습니까?" : {
+    "en" : "Are you sure you will not return it?",
+    "ja" : "未返却しますか？",
+    "vi" : "Bạn có muốn trả lại nó không?",
+    "zh" : "要未返还吗？"
+  },
+  "삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "폴더 수정" : {
+    "en" : "Modify folder",
+    "ja" : "フォルダ修正",
+    "vi" : "Sửa thư mục",
+    "zh" : "修改文件夹"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の開始日は終了日より前の日付にはできません。",
+    "vi" : "Ngày bắt đầu không được muộn hơn ngày kết thúc.",
+    "zh" : "选择期间的开始日子不可大于结束日子。"
+  },
+  "예약자는 반드시 들어가야합니다." : {
+    "en" : "The name of the user who made the booking must be included.",
+    "ja" : "予約者を必ず入力してください。",
+    "vi" : "Người đặt trước nhất định phải được bao gồm.",
+    "zh" : "预约人一定要写进去。"
+  },
+  "기간선택" : {
+    "en" : "Select a period",
+    "ja" : "期間選択",
+    "vi" : "Chọn thời gian",
+    "zh" : "选择期间"
+  },
+  "반복은 시작일 기준입니다." : {
+    "en" : "The repeat cycle starts on the set start date.",
+    "ja" : "繰返しは開始日を基準とします。",
+    "vi" : "Lặp lại theo ngày bắt đầu.",
+    "zh" : "反复是开始日为其准。"
+  },
+  "예약승인 조회" : {
+    "en" : "View Booking Approval Status",
+    "ja" : "予約承認照会",
+    "vi" : "Xem phê duyệt đặt trước",
+    "zh" : "查询预约承认"
+  },
+  "권한이 없습니다." : {
+    "en" : "You have no permission.",
+    "ja" : "権限がありません。",
+    "vi" : "Không có quyền hạn",
+    "zh" : "没有权限。"
+  },
+  "모든 반복예약을 삭제합니다." : {
+    "en" : "Delete all of the repeated bookings.",
+    "ja" : "全ての繰返し予約を削除します。",
+    "vi" : "Xóa tất cả đặt trước lặp lại",
+    "zh" : "删除所有的反复预订。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Thiết lập",
+    "zh" : "设定"
+  },
+  "미선택" : {
+    "en" : "Unselect",
+    "ja" : "未選択",
+    "vi" : "Chưa chọn",
+    "zh" : "未选择"
+  },
+  "이미지 크기 130*45, 형식 gif, jpg, png" : {
+    "en" : "Image size 130*45, Format gif, jpg, png",
+    "ja" : "画像サイズ130*45、形式 gif、jpg、png",
+    "vi" : "Kích cỡ hình ảnh 130*45, định dạng gif, jpg, png",
+    "zh" : "图象大小130*45, 形式 gif, jpg, png"
+  },
+  "반복종료일은 3개월 이후 날짜를 지정할 수 없습니다." : {
+    "en" : "You cannot select a date that is later than 3 months from the current date as the Repeat End Date.",
+    "ja" : "繰り返し終了日は、3ヶ月以降日付を指定することができません。",
+    "vi" : "Bạn không thể chọn một ngày sau 3 tháng làm ngày kết thúc lặp lại.",
+    "zh" : "反复结束日不可指定3个月以后的日子。"
+  },
+  "검색결과가 없습니다." : {
+    "en" : "No results found.",
+    "ja" : "検索結果がありません。",
+    "vi" : "Không có kết quả nào được tìm thấy.",
+    "zh" : "没有搜索结果。"
+  },
+  "자원구분" : {
+    "en" : "Resource Classification (Sort)",
+    "ja" : "資源区分",
+    "vi" : "Phân loại tài nguyên",
+    "zh" : "资源区分"
+  },
+  "요일" : {
+    "en" : "day (date)",
+    "ja" : "曜日",
+    "vi" : "Thứ",
+    "zh" : "星期"
+  },
+  "사용통계" : {
+    "en" : "Usage Statistics",
+    "ja" : "使用統計",
+    "vi" : "Thống kê sử dụng",
+    "zh" : "使用统计"
+  },
+  "향후 일정 모두 수정" : {
+    "en" : "Edit all future events",
+    "ja" : "今後のスケジュールをすべて修正",
+    "vi" : "Sửa tất cả sự kiện sau này",
+    "zh" : "以后日程全部修改"
+  },
+  "다중선택" : {
+    "en" : "Multiple choice",
+    "ja" : "多重選択",
+    "vi" : "Chọn nhiều",
+    "zh" : "选择多种"
+  },
+  "{0} 항목은 {1}자 이내로 입력해야 합니다." : {
+    "en" : "{0} item must be less than {1} characters.",
+    "ja" : "{0}項目は{1}文字以内で入力する必要があります。",
+    "vi" : "Mục {0} phải nhập ít hơn {1} chữ.",
+    "zh" : "{0} 项目得输入 {1}字以内。"
+  },
+  "폴더 템플릿" : {
+    "en" : "Folder template",
+    "ja" : "フォルダのテンプレート",
+    "vi" : "Mẫu thư mục",
+    "zh" : "文件夹模板"
+  },
+  "신청사유 :" : {
+    "en" : "Reason :",
+    "ja" : "申請理由 :",
+    "vi" : "Lý do đăng ký:",
+    "zh" : "申请理由:"
+  },
+  "자원을 삭제합니다. 해당 자원을 예약하고 있을 경우 \\n예약취소로 변경됩니다. \\n선택한 자원을 삭제하시겠습니까?" : {
+    "en" : "The resource is about to be deleted. If the resource is booked, \\n the booking will be canceled. \\n Are you sure you want to delete the selected resource?",
+    "ja" : "資源を削除します。該当資源を予約している場合、\\ nキャンセルに変更されます。 \\ n選択した資源を削除しますか？",
+    "vi" : "Tài nguyên này sắp bị xóa. Nếu tài nguyên đã được đặt trước, \\n các đặt trước đối với tài nguyên này sẽ bị hủy. \\n Bạn chắc chắn muốn xóa tài nguyên đã chọn chứ?",
+    "zh" : "删除资源。预约有关资源的话会变更为\\n取消预约。要删除\\n选择的资源吗？"
+  },
+  "대회의실" : {
+    "en" : "Large conference room",
+    "ja" : "大会議室",
+    "vi" : "Phòng họp lớn",
+    "zh" : "大会议室"
+  },
+  "관리자 승인후 예약" : {
+    "en" : "Book After Admin Approval",
+    "ja" : "管理者承認後の予約",
+    "vi" : "Cài đặt sau khi người quản lý phê duyệt",
+    "zh" : "管理者承认后预订"
+  },
+  "환경설정" : {
+    "en" : "Preferences",
+    "ja" : "環境設定",
+    "vi" : "Cài đặt môi trường",
+    "zh" : "设定环境"
+  },
+  "전화번호는 숫자만 입력해야 합니다." : {
+    "en" : "You can only enter numbers in the 'Phone Number' column.",
+    "ja" : "電話番号は数字のみで入力してください。",
+    "vi" : "Bạn chỉ có thể nhập số vào số điện thoại.",
+    "zh" : "电话号码只能输入数字。"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "지금 선택한 예약만 삭제합니다." : {
+    "en" : "Delete only the bookings that you've just selected now.",
+    "ja" : "現在選択されている予約のみを削除します。",
+    "vi" : "Chỉ xóa đặt trước đã chọn ngay bây giờ",
+    "zh" : "只删除现在选择的预订。"
+  },
+  "매주" : {
+    "en" : "Every Week",
+    "ja" : "毎週",
+    "vi" : "Hàng tuần",
+    "zh" : "每星期"
+  },
+  "자원예약 공유" : {
+    "en" : "Share resource booking",
+    "ja" : "資源予約共有",
+    "vi" : "Chia sẻ đặt trước tài nguyên",
+    "zh" : "资源预约共有"
+  },
+  "등록된 자원정보가 없습니다." : {
+    "en" : "No registered resource information.",
+    "ja" : "登録された資源情報がありません。",
+    "vi" : "Không có thông tin tài nguyên được đăng ký.",
+    "zh" : "没有登录的资源信息。"
+  },
+  "날짜별 예약가능기간" : {
+    "en" : "Available Time (Schedule) (by day)",
+    "ja" : "日付別予約可能期間",
+    "vi" : "Thời gian có thể đặt trước theo ngày",
+    "zh" : "日子别可以预约期间"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件名"
+  },
+  "최소길이는 1000자를 넘을 수 없습니다." : {
+    "en" : "The minimum length cannot exceed 1000 characters.",
+    "ja" : "最小の長さは1000文字を超えることができません。",
+    "vi" : "Chiều dài tối thiểu không thể vượt quá 1000 ký tự.",
+    "zh" : "最小长度不可超过1000字。"
+  },
+  "자원 분류를 선택하세요." : {
+    "en" : "Select a resource category.",
+    "ja" : "資源カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh mục tài nguyên.",
+    "zh" : "请选择资源分类。"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "lựa chọn",
+    "zh" : "选择"
+  },
+  "지금 선택한 예약만 취소합니다." : {
+    "en" : "Cancel only the booking that you have selected now.",
+    "ja" : "現在選択した予約のみキャンセルします。",
+    "vi" : "Bạn có thể hủy đặt trước đã chọn bây giờ.",
+    "zh" : "只取消现在选择的预约。"
+  },
+  "전화번호" : {
+    "en" : "Phone Number",
+    "ja" : "電話番号",
+    "vi" : "Số điện thoại",
+    "zh" : "电话号码"
+  },
+  "주중 매일(월~금)," : {
+    "en" : "Weekdays (Mon. ~ Fri.)",
+    "ja" : "平日毎日(月~金)、",
+    "vi" : "Trong tuần (Thứ 2~ Thứ 6)",
+    "zh" : "周中 每天(星期一-星期五)，"
+  },
+  "검색 조건" : {
+    "en" : "Search conditions",
+    "ja" : "検索条件",
+    "vi" : "Điều kiện tìm kiếm",
+    "zh" : "搜索条件"
+  },
+  "포함하는" : {
+    "en" : "Including",
+    "ja" : "含む",
+    "vi" : "bao gồm",
+    "zh" : "包括"
+  },
+  "추가 가능한 검색조건이 없습니다." : {
+    "en" : "There are no search conditions that you can add.",
+    "ja" : "追加可能な検索条件はありません。",
+    "vi" : "Không có điều kiện tìm kiếm có thể thêm.",
+    "zh" : "没有可以追加的搜索条件。"
+  },
+  "자원대리예약자" : {
+    "en" : "Resource booked by (Agent)",
+    "ja" : "資源代理予約者",
+    "vi" : "Đại diện đặt trước tài nguyên",
+    "zh" : "资源代替预订人"
+  },
+  "예약불가" : {
+    "en" : "Unable to book",
+    "ja" : "予約不可",
+    "vi" : "Không thể đặt trước",
+    "zh" : "不可预约"
+  },
+  "내역" : {
+    "en" : "Details",
+    "ja" : "詳細",
+    "vi" : "Chi tiết",
+    "zh" : "记录"
+  },
+  "자원을 하나만 선택하세요." : {
+    "en" : "Please select a single resource.",
+    "ja" : "資源を1つだけ選択してください。",
+    "vi" : "Vui lòng chỉ chọn một tài nguyên.",
+    "zh" : "请选择一个资源。"
+  },
+  "반납지연" : {
+    "en" : "Overdue",
+    "ja" : "返却遅延",
+    "vi" : "Quá hạn",
+    "zh" : "推迟退还"
+  },
+  "검색된 내 예약이 없습니다." : {
+    "en" : "No results found in 'My Booking'.",
+    "ja" : "検索されたMy予約がありません。",
+    "vi" : "Không có đặt trước của tôi đã được tìm thấy.",
+    "zh" : "没有搜索到的我的预约。"
+  },
+  "전화번호를  입력하세요." : {
+    "en" : "Enter telephone number.",
+    "ja" : "電話番号を入力してください。",
+    "vi" : "Hãy nhập số điện thoại.",
+    "zh" : "请输入电话号码。"
+  },
+  "삭제할 자원을 선택하세요." : {
+    "en" : "Select the resource to delete.",
+    "ja" : "削除する資源を選択してください。",
+    "vi" : "Hãy chọn tài nguyên để xóa.",
+    "zh" : "请选择要删除的资源。"
+  },
+  "대리예약사용" : {
+    "en" : "Use Booking Agent",
+    "ja" : "代理予約を使用",
+    "vi" : "Sử dụng đại diện để đặt trước",
+    "zh" : "使用代替预订"
+  },
+  "사진 목록" : {
+    "en" : "Photo List",
+    "ja" : "写真リスト",
+    "vi" : "Danh sách hình ảnh",
+    "zh" : "照片目录"
+  },
+  "예약정보" : {
+    "en" : "Reservation Information",
+    "ja" : "予約情報",
+    "vi" : "Thông tin đặt trước",
+    "zh" : "预约信息"
+  },
+  "분류명을 반드시 입력하세요." : {
+    "en" : "You must enter a category name.",
+    "ja" : "カテゴリ名を必ず入力してください。",
+    "vi" : "Bạn nhất định phải nhập tên danh mục.",
+    "zh" : "请必须输入分类名。"
+  },
+  "모든 반복예약을 취소합니다." : {
+    "en" : "Cancel all repeat bookings.",
+    "ja" : "すべての繰り返し予約をキャンセルします。",
+    "vi" : "Hủy tất cả đặt trước lặp lại.",
+    "zh" : "反复预约全部取消。"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Khoảng thời gian",
+    "zh" : "期间"
+  },
+  "{0}을(를) 예약하시겠습니까?" : {
+    "en" : "Would you like to make a booking for {0}?",
+    "ja" : "{0}を予約しますか?",
+    "vi" : "Bạn có muốn đặt {0} không?",
+    "zh" : "要{0}预订吗?"
+  },
+  "승인" : {
+    "en" : "Approve",
+    "ja" : "承認",
+    "vi" : "Đồng ý",
+    "zh" : "承认"
+  },
+  "분류를 삭제할 경우 해당 자원까지 삭제됩니다.\\n선택한 분류를 삭제하시겠습니까?" : {
+    "en" : "If you delete the category,the resources which belong to the category will be deleted as well.\\n Do you want to delete the selected category?",
+    "ja" : "カテゴリを削除する場合、該当資源も削除されます。\\n選択した分類を削除しますか?",
+    "vi" : "Trường hợp xóa danh mục thì tài nguyên tương ứng cũng sẽ bị xóa. \\nBạn có muốn xóa danh mục đã chọn không?",
+    "zh" : "删除分类的话有关资源也会被删除。要删除\\n选择的分类吗？"
+  },
+  "행 추가" : {
+    "en" : "Insert row",
+    "ja" : "行の追加",
+    "vi" : "Thêm dòng",
+    "zh" : "追加行"
+  },
+  "매주 화요일,목요일" : {
+    "en" : "Every Tuesday , Thursday",
+    "ja" : "毎週火曜日、木曜日",
+    "vi" : "Thứ 3, thứ 5 hàng tuần",
+    "zh" : "每周二，四"
+  },
+  "반복" : {
+    "en" : "Repeat",
+    "ja" : "繰り返し",
+    "vi" : "Lặp lại",
+    "zh" : "反复"
+  },
+  "대리자에 본인을 설정할 수 없습니다." : {
+    "en" : "You cannot set yourself as the delegate.",
+    "ja" : "代理者に本人を設定できません。",
+    "vi" : "Không thể đặt chính bạn là một đại diện.",
+    "zh" : "代理人不能设定为本人。"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "대여자원이 반납취소 되었습니다." : {
+    "en" : "Loaned resources return cancellation.",
+    "ja" : "貸出リソースの返却がキャンセルされました。",
+    "vi" : "Hủy trả lại các nguồn tài nguyên đã cho mượn",
+    "zh" : "租用资源已取消归还。"
+  },
+  "일반자원" : {
+    "en" : "Resources",
+    "ja" : "一般資源",
+    "vi" : "Tài nguyên chung",
+    "zh" : "一般资源"
+  },
+  "검색선택의 시작일자를 입력해주세요." : {
+    "en" : "Enter a start date for search.",
+    "ja" : "検索選択の開始日付けを入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu tìm kiếm.",
+    "zh" : "请输入选择搜索的开始日子。"
+  },
+  "예약 조회" : {
+    "en" : "View bookings",
+    "ja" : "予約照会",
+    "vi" : "Xem đặt trước",
+    "zh" : "查询预订"
+  },
+  "확인" : {
+    "en" : "OK",
+    "ja" : "確認",
+    "vi" : "ĐỒNG Ý",
+    "zh" : "确认"
+  },
+  "예약 간단입력" : {
+    "en" : "Quick booking",
+    "ja" : "予約簡単入力",
+    "vi" : "Đặt trước nhanh",
+    "zh" : "简单输入预订"
+  },
+  "내 캘린더의 일정으로 등록하시겠습니까?" : {
+    "en" : "Would you like to add the schedule to My Calendar?",
+    "ja" : "Myカレンダーにスケジュールを追加しますか？",
+    "vi" : "Bạn có muốn thêm vào lịch của tôi không?",
+    "zh" : "你想日程表添加到我的日历？"
+  },
+  "반납취소 처리하시겠습니까?" : {
+    "en" : "Would you like to mark it as 'return cancelled?'",
+    "ja" : "返却取消の処理をしますか？",
+    "vi" : "Bạn có muốn hủy trả không?",
+    "zh" : "要返还取消处理吗？"
+  },
+  "현황확인" : {
+    "en" : "Check status",
+    "ja" : "状況確認",
+    "vi" : "Xác nhận hiện trạng",
+    "zh" : "确认现况"
+  },
+  "예약이 수정 되었습니다." : {
+    "en" : "Reservation has been modified.",
+    "ja" : "予約が編集されました。",
+    "vi" : "Đặt chỗ đã được sửa đổi.",
+    "zh" : "预订已修改。"
+  },
+  "추가 컬럼 설정" : {
+    "en" : "Additional column settings",
+    "ja" : "追加カラム設定",
+    "vi" : "Cài đặt cột bổ sung",
+    "zh" : "设定追加专栏"
+  },
+  "자세히" : {
+    "en" : "Details",
+    "ja" : "詳細",
+    "vi" : "Chi tiết",
+    "zh" : "详细"
+  },
+  "자원 관리자" : {
+    "en" : "Resource manager",
+    "ja" : "資源管理者",
+    "vi" : "Người quản lý tài nguyên",
+    "zh" : "资源管理者"
+  },
+  "지금 선택한 예약만 수정합니다." : {
+    "en" : "You can only modify the booking you've selected now.",
+    "ja" : "現在選択した予約のみ修正します。",
+    "vi" : "Chỉ chỉnh sửa các đặt trước đã chọn từ bây giờ.",
+    "zh" : "只修改现在选择的预约。"
+  },
+  "그룹 시설" : {
+    "en" : "Group Facility",
+    "ja" : "グループ施設",
+    "vi" : "Nhóm cơ sở vật chất",
+    "zh" : "组设施"
+  },
+  "현재 작업 처리 중입니다.\\n잠시 기다려 주세요." : {
+    "en" : "The task is currently being processed.\\nPlease wait for a moment.",
+    "ja" : "作業処理中です。\\nしばらくお待ちください。",
+    "vi" : "Đang xử lý thao tác. \\nXin đợi trong giây lát.",
+    "zh" : "现在处理中。\\n请稍等。"
+  },
+  "예약보기" : {
+    "en" : "View bookings",
+    "ja" : "予約表示",
+    "vi" : "Xem đặt trước",
+    "zh" : "收看预订"
+  },
+  "매년" : {
+    "en" : "Every year",
+    "ja" : "毎年",
+    "vi" : "Hàng năm",
+    "zh" : "每年"
+  },
+  "{0} 에 {1} 자원을 삭제하였습니다." : {
+    "en" : "You deleted {1} resource from  {0}.",
+    "ja" : "{0} に {1} 資源を削除しました。",
+    "vi" : "Đã xóa tài nguyên {1} ở {0}.",
+    "zh" : "在{0} 删除了 {1} 资源。"
+  },
+  "대여자원이 반납완료 되었습니다." : {
+    "en" : "Loaned resources have been returned.",
+    "ja" : "貸出リソースの返却が完了しました。",
+    "vi" : "Các nguồn tài nguyên đã mượn đã được trả lại.",
+    "zh" : "租用资源已归还。"
+  },
+  "되었습니다." : {
+    "en" : "done.",
+    "ja" : "されました。",
+    "vi" : "hoàn thành.",
+    "zh" : "完了。"
+  },
+  "대여반납 관리" : {
+    "en" : "Manage Rent/Return",
+    "ja" : "貸出返却管理",
+    "vi" : "Quản lý xuất/nhập",
+    "zh" : "借贷返还管理"
+  },
+  "반복 사용시간 확인" : {
+    "en" : "Confirm Repeat Use Time/Date",
+    "ja" : "繰返し使用時間確認",
+    "vi" : "Xác nhận thời gian lặp lại",
+    "zh" : "确认反复使用时间"
+  },
+  "매주 화요일, 목요일, 토요일, " : {
+    "en" : "Every Tuesday, Thursday, Saturday ",
+    "ja" : "毎週火曜日、木曜日、土曜日、 ",
+    "vi" : "Thứ 3, thứ 5, thứ 7 hàng tuần ",
+    "zh" : "每周   星期二, 星期四, 星期六, "
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi email",
+    "zh" : "发送邮件"
+  },
+  "반납이 필요한 자원일 경우 체크하세요." : {
+    "en" : "Check the box if the resource requires to be returned after use.",
+    "ja" : "返却が必要な資源の場合、チェックしてください。",
+    "vi" : "Hãy đánh dấu trong trường hợp là tài nguyên cần hoàn trả.",
+    "zh" : "需要退还的资源时请纪录。"
+  },
+  "조회" : {
+    "en" : "View",
+    "ja" : "照会",
+    "vi" : "Xem",
+    "zh" : "查询"
+  },
+  "검색조건으로 사용됨" : {
+    "en" : "Used as a search condition",
+    "ja" : "検索条件に使用される",
+    "vi" : "Được sử dụng như điều kiện tìm kiếm",
+    "zh" : "使用为搜索条件"
+  },
+  "그룹 자원" : {
+    "en" : "Group resources",
+    "ja" : "グループ資源",
+    "vi" : "Tài nguyên nhóm",
+    "zh" : "小组资源"
+  },
+  "사용 중지되었습니다." : {
+    "en" : "It has been suspended.",
+    "ja" : "使用中止しました。",
+    "vi" : "Đã ngừng sử dụng",
+    "zh" : "停止使用了。"
+  },
+  "연간" : {
+    "en" : "Yearly",
+    "ja" : "年間",
+    "vi" : "Theo năm",
+    "zh" : "年间"
+  },
+  "자원예약" : {
+    "en" : "Resource booking",
+    "ja" : "資源予約",
+    "vi" : "Đặt trước tài nguyên",
+    "zh" : "预约资源"
+  },
+  "일간" : {
+    "en" : "Daily",
+    "ja" : "日間",
+    "vi" : "Theo ngày",
+    "zh" : "日间"
+  },
+  "삭제자원" : {
+    "en" : "Deleted resource",
+    "ja" : "削除資源",
+    "vi" : "Tài nguyên bị xóa",
+    "zh" : "删除资源"
+  },
+  "사용자별 자원예약 대리인을 설정할 수 있습니다." : {
+    "en" : "You can set up a delegate who will perform resource booking on behalf of another user (by user)",
+    "ja" : "ユーザー別に資源予約の代理人を設定できます。",
+    "vi" : "Bạn có thể thiết lập đại diện đặt trước tài nguyên cho mỗi người dùng.",
+    "zh" : "可以使用者别设定资源预订代理人。"
+  },
+  "상세보기" : {
+    "en" : "View details",
+    "ja" : "詳細表示",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细看"
+  },
+  "개" : {
+    "en" : "EA",
+    "ja" : "個",
+    "vi" : "cái",
+    "zh" : "个"
+  },
+  "등록된 템플릿 정보가 없습니다." : {
+    "en" : "There is no registered template information.",
+    "ja" : "登録されたテンプレート情報がありません。",
+    "vi" : "Không có thông tin bản mẫu đã đăng ký.",
+    "zh" : "无已登记的模板信息。"
+  },
+  "사용권한자 선택" : {
+    "en" : "Select the user with the permission to use.",
+    "ja" : "使用権限者選択",
+    "vi" : "Chọn người có quyền hạn sử dụng",
+    "zh" : "选择使用权限者"
+  },
+  "무제한" : {
+    "en" : "Unlimited",
+    "ja" : "無制限",
+    "vi" : "Không hạn chế",
+    "zh" : "无限制"
+  },
+  "자신의 하위 폴더로 이동할 수 없습니다." : {
+    "en" : "You cannot move a folder/item into it's own subfolder.",
+    "ja" : "自分の下位フォルダに移動できません。",
+    "vi" : "Không thể di chuyển đến thư mục con của bạn.",
+    "zh" : "无法移至本身下级文件夹。"
+  },
+  "공개여부" : {
+    "en" : "Open to Public?",
+    "ja" : "公開可否",
+    "vi" : "Có công khai hay không",
+    "zh" : "是否公开"
+  },
+  "반려의견" : {
+    "en" : "Reason for Rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "发还意见"
+  },
+  "해당 예약내역이 삭제됩니다.\\n계속하시겠습니까?" : {
+    "en" : "The booking details will be deleted.\\nDo you want to continue?",
+    "ja" : "この予約内容を削除します。\\n続けますか?",
+    "vi" : "Chi tiết đặt trước sẽ bị xóa. Bạn có muốn tiếp tục không?",
+    "zh" : "有关预订内容会删除。要\\n继续进行吗？"
+  },
+  "표로 보기" : {
+    "en" : "View in Table",
+    "ja" : "表を見る",
+    "vi" : "Xem bằng bảng",
+    "zh" : "用表看"
+  },
+  "정상적으로 수정되었습니다.\\n왼쪽 트리 메뉴를 새로 고침하시겠습니까?" : {
+    "en" : "Successfully modified.\\nWould you like to refresh the tree menu on the left?",
+    "ja" : "正常に修正されました。\\n左側のツリーメニューをリロードしますか？",
+    "vi" : "Đã được sửa bình thường. \\nBạn có muốn làm mới cây menu bên trái không?",
+    "zh" : "正常修改完了。要更新\\n右边路径项目吗?"
+  },
+  "예약현황 사용할 경우, 자원폴더 우측 버튼 클릭 시 컨텍스트 메뉴로 제공됩니다." : {
+    "en" : "When Booking Status is enabled, right-click on the resource folder to see a context menu.",
+    "ja" : "予約状況を使用する場合、資源フォルダの右ボタンをクリックすると、コンテンツメニューで提供されます。",
+    "vi" : "Khi tính năng Tình trạng đặt chỗ được kích hoạt, hãy nhấp chuột phải vào thư mục tài nguyên để xem menu ngữ cảnh.",
+    "zh" : "使用预订现况的话点击资源文件夹右侧按钮时提供为上下文菜单。"
+  },
+  "자원 선택" : {
+    "en" : "Select a resource",
+    "ja" : "資源の選択",
+    "vi" : "Lựa chọn tài nguyên",
+    "zh" : "选择资源"
+  },
+  "모든 화요일, 목요일, 토요일" : {
+    "en" : "Every Tuesday, Thursday, and Saturday",
+    "ja" : "全ての火曜日、木曜日、土曜日",
+    "vi" : "Tát cả thứ 3, thứ 5, thứ 7",
+    "zh" : "全星期二、星期四、星期六"
+  },
+  "조직도 종류를 선택하세요." : {
+    "en" : "Select a style for the organizational chart",
+    "ja" : "組織図の種類を選択してください。",
+    "vi" : "Hãy chọn loại sơ đồ tổ chức.",
+    "zh" : "请选择组织图种类。"
+  },
+  "이미지" : {
+    "en" : "image",
+    "ja" : "画像",
+    "vi" : "hình ảnh",
+    "zh" : "图像"
+  },
+  "검색된 예약이 없습니다." : {
+    "en" : "No searched bookings.",
+    "ja" : "検索された予約がありません。",
+    "vi" : "Không có đặt trước đã tìm kiếm",
+    "zh" : "没有搜索到的预约。"
+  },
+  "최소 - 최대길이" : {
+    "en" : "Minimum-Maximum Length",
+    "ja" : "最小-最大の長さ",
+    "vi" : "Chiều dài tối thiểu- tối đa",
+    "zh" : "最小-最大长度"
+  },
+  "자원 관리자는 자원의 예약승인 및 반납처리를 관리할 수 있습니다." : {
+    "en" : "The resource administrator can manage resources (i.e., approving bookings, handling the returns of resources, etc.)",
+    "ja" : "資源管理者は資源の予約承認及び返却処理を管理できます。",
+    "vi" : "Người quản lý tài nguyên có thể quản lý hoàn trả và phê duyệt đặt trước tài nguyên.",
+    "zh" : "资源管理者可以管理资源的预约承认及返还处理。"
+  },
+  "선택하신 예약이 반납 취소 처리되었습니다." : {
+    "en" : "The return request of the selected booking has been canceled.",
+    "ja" : "選択した予約が返却キャンセル処理されました。",
+    "vi" : "Hành động trả về đối với yêu cầu đặt trước của bạn đã bị hủy.",
+    "zh" : "选择的预约退回取消处理了。"
+  },
+  "{0}외 {1}명" : {
+    "en" : "{0} & {1} people",
+    "ja" : "{0}の他{1}名",
+    "vi" : "{0} và {1} đối tượng khác",
+    "zh" : "{0}外 {1}名"
+  },
+  "대여예약" : {
+    "en" : "Reserve",
+    "ja" : "レンタルを予約する",
+    "vi" : "Đặt mượn trước",
+    "zh" : "租用预约/预约租借"
+  },
+  "분류" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "分类"
+  },
+  "반복사용" : {
+    "en" : "Repeat Use",
+    "ja" : "繰返し使用",
+    "vi" : "Sử dụng lặp lại",
+    "zh" : "使用反复"
+  },
+  "이전 달" : {
+    "en" : "Previous Month",
+    "ja" : "前の月",
+    "vi" : "Tháng trước",
+    "zh" : "上月"
+  },
+  "수정할 자원은 한가지만 선택하세요." : {
+    "en" : "Only select one (1) resource to modify.",
+    "ja" : "修正する資源は一つのみ選択してください。",
+    "vi" : "Hãy chọn một loại tài nguyên để sửa.",
+    "zh" : "要修改的资源只能选择一个。"
+  },
+  "휴일 예약불가" : {
+    "en" : "Reservation Unavailable on Holidays",
+    "ja" : "休日宿泊不可",
+    "vi" : "Ngày lễ không thể đặt trước",
+    "zh" : "休息日不可预约"
+  },
+  "제목은 한글 33자 이내, 영어 100자 이내로 입력하세요." : {
+    "en" : "Title names must be less than 33 characters in Korean or 100 characters in English..",
+    "ja" : "タイトルはハングル33文字以内、英語100文字以内で入力してください。",
+    "vi" : "Tên tiêu đề dưới 33 chữ tiếng Hàn hoặc 100 chữ tiếng Anh.",
+    "zh" : "题目输入为韩文33字以内, 英文 100字以内。"
+  },
+  "예약을 확인하려면 아래 [자원대리예약 보기]를 클릭하세요." : {
+    "en" : "To check if a booking has been made successfully, please click [View On Behalf Resource Bookings].",
+    "ja" : "予約の確認は下の[資源代理予約の表示]をクリックしてください。",
+    "vi" : "Để xem thông tin đặt chỗ, vui lòng bấm vào phần [Xem thông tin đặt trước tài nguyên của người đại diện].",
+    "zh" : "要确认预订的话请点击下列【看代替预订资源】。"
+  },
+  "예약 시간" : {
+    "en" : "Scheduled time",
+    "ja" : "予約時間",
+    "vi" : "Thời gian đặt trước",
+    "zh" : "预订时间"
+  },
+  "사용시간은 반복종료일보다 클 수 없습니다." : {
+    "en" : "The usage time cannot be greater than the end date (repeat).",
+    "ja" : "使用時間は繰り返し終了日以降使用できません。",
+    "vi" : "Ngày bạn sẽ sử dụng không được lớn hơn ngày kết thúc lặp lại.",
+    "zh" : "使用时间不可大于反复结束日。"
+  },
+  "반복설정" : {
+    "en" : "Repeat setting",
+    "ja" : "繰返し設定",
+    "vi" : "Cài đặt lặp lại",
+    "zh" : "设定反复"
+  },
+  "사이" : {
+    "en" : "Between",
+    "ja" : "間",
+    "vi" : "giữa",
+    "zh" : "之间"
+  },
+  "연락처" : {
+    "en" : "contact",
+    "ja" : "連絡先",
+    "vi" : "Liên hệ",
+    "zh" : "联系处"
+  },
+  "검색어 입력" : {
+    "en" : "Enter Search Keyword",
+    "ja" : "検索ワード入力",
+    "vi" : "Nhập từ khóa tìm kiếm",
+    "zh" : "输入关键词"
+  },
+  "반납여부" : {
+    "en" : "Is it Returned?",
+    "ja" : "返却可否",
+    "vi" : "Có hoàn trả hay không",
+    "zh" : "是否退还"
+  },
+  "모두 선택" : {
+    "en" : "Select All",
+    "ja" : "すべて選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "날짜기준" : {
+    "en" : "By date",
+    "ja" : "日付基準",
+    "vi" : "Tiêu chuẩn ngày",
+    "zh" : "日子基准"
+  },
+  "반복요일" : {
+    "en" : "Repeat day",
+    "ja" : "繰返し曜日",
+    "vi" : "Ngày lặp lại",
+    "zh" : "反复星期"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "자원명 및 관련 정보를 입력한 후 [추가]를 클릭하세요." : {
+    "en" : "Enter a resource name and related information and then click the [Add] button.",
+    "ja" : "資源名及び関連情報を入力後、[追加]をクリックしてください。",
+    "vi" : "Hãy nhấn [Thêm] sau khi nhập thông tin liên quan và tên danh mục.",
+    "zh" : "请输入资源名及有关信息后点击[追加}。"
+  },
+  "<strong>{0}</strong> 에 <strong>{1}</strong> 자원정보를 변경하였습니다." : {
+    "en" : "You changed  <strong>{1}</strong> resource information in <strong>{0}</strong>.",
+    "ja" : "<strong>{0}</strong> に <strong>{1}</strong> 資源情報を変更しました。",
+    "vi" : "Đã thay đổi thông tin tài nguyên <strong>{1}</strong> ở <strong>{0}</strong> .",
+    "zh" : "在<strong>{0}</strong> 变更了 <strong>{1}</strong> 资源信息。"
+  },
+  "예약취소대기" : {
+    "en" : "Waiting to cancel booking",
+    "ja" : "予約取消待機",
+    "vi" : "Chờ hủy đặt trước",
+    "zh" : "等待预约取消"
+  },
+  "주간 예약페이지" : {
+    "en" : "Weekly booking page",
+    "ja" : "週間予約ページ",
+    "vi" : "Trang đặt trước theo tuần",
+    "zh" : "周间预订的网页"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Please type a folder name.",
+    "ja" : "フォルダ名を入力してください。",
+    "vi" : "Hãy nhập tên thư mục",
+    "zh" : "请输入文件夹名。"
+  },
+  "표로보기" : {
+    "en" : "View in table",
+    "ja" : "表で見る",
+    "vi" : "Xem trong bảng",
+    "zh" : "用表看"
+  },
+  "yyyy년 M월 d일{ ~ [ yyyy년 ]M월 d일}" : {
+    "en" : "yyyy(year) M(month) d (day){ ~ [ yyyy(year)  ]M(month) d(day)}",
+    "ja" : "yyyy年 M月 d日{ ~ [ yyyy年 ]M月 d日}",
+    "vi" : "Ngày d Tháng M Năm yyyy",
+    "zh" : "yyyy年 M月 d日{ ~ [ yyyy年  ]M月 d日}"
+  },
+  "{0} 의 {1} 자원을 {2} 폴더로 이동하였습니다." : {
+    "en" : "You moved {1} resource of {0} to  {2} folder.",
+    "ja" : "{0} の {1} 資源を {2} フォルダに移動しました。",
+    "vi" : "Đã di chuyển tài nguyên {1} của {0} sang thư mục {2}.",
+    "zh" : "{0} 的 {1} 资源移动到 {2} 文件夹了。"
+  },
+  "반복예약이 취소되었습니다." : {
+    "en" : "Repeat Booking has been cancelled.",
+    "ja" : "繰返し予約がキャンセルされました。",
+    "vi" : "Đã hủy bỏ đặt trước lặp lại",
+    "zh" : "选择反复频度的星期。"
+  },
+  "선택하신 예약을 반납 처리하시겠습니까?" : {
+    "en" : "Please enter a reason.",
+    "ja" : "選択した予約を返却処理しますか？",
+    "vi" : "Bạn có muốn trả đặt trước đã chọn không?",
+    "zh" : "要返还处理您选择的预约吗？"
+  },
+  "공유자선택" : {
+    "en" : "Select sharers",
+    "ja" : "共有者の選択",
+    "vi" : "Lựa chọn người chia sẻ",
+    "zh" : "选择共有人"
+  },
+  "대리예약자와 대상자가 일치합니다." : {
+    "en" : "The booking delegate and the selected person are one and the same.",
+    "ja" : "代理予約者と対象者が同一です。",
+    "vi" : "Đại diện đặt chỗ và người được lựa chọn là cùng một người.",
+    "zh" : "代替预定人和对象人一致。"
+  },
+  "사용시간을 바르게 설정하세요." : {
+    "en" : "Set the usage time properly.",
+    "ja" : "使用時間を正しく設定してください。",
+    "vi" : "Hãy cài đặt thời gian sử dụng chính xác.",
+    "zh" : "请准确设定使用时间。"
+  },
+  "예약 내용" : {
+    "en" : "Booking details",
+    "ja" : "予約内容",
+    "vi" : "Nội dung đặt trước",
+    "zh" : "预订内容"
+  },
+  "부서 선택" : {
+    "en" : "Select department",
+    "ja" : "部署選択",
+    "vi" : "Chọn bộ phận",
+    "zh" : "选择部门"
+  },
+  "입력시점" : {
+    "en" : "Time of Input",
+    "ja" : "入力時点",
+    "vi" : "Nhập vào lúc",
+    "zh" : "输入时点"
+  },
+  "내 예약 분할 보기" : {
+    "en" : "See my reservation",
+    "ja" : "My予約を分割表示",
+    "vi" : "Xem thông tin đặt trước của tôi",
+    "zh" : "分割看我的预约"
+  },
+  "<strong>{0}</strong> 폴더 하위에 신규폴더 <strong>{1}</strong> 을(를) 추가하였습니다." : {
+    "en" : "You added a new folder  <strong>{1}</strong> to <strong>{0}</strong> folder.",
+    "ja" : "<strong>{0}</strong> フォルダの下位に 新規フォルダ <strong>{1}</strong> を追加しました。",
+    "vi" : "Đã thêm thư mục mới <strong>{1}</strong> vào dưới thư mục <strong>{0}</strong>.",
+    "zh" : "在<strong>{0}</strong> 文件夹下位追加了新的文件夹 <strong>{1}</strong> 。"
+  },
+  "자원 등록시 입력 항목" : {
+    "en" : "Items that you must enter when registering a new resource",
+    "ja" : "資源登録時の入力項目",
+    "vi" : "Trường cần nhập khi bổ sung tài nguyên",
+    "zh" : "资源登录时输入项目"
+  },
+  "선택한 자원예약 대리인을 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the selected resource booking delegate?",
+    "ja" : "選択した資源予約の代理人を削除しますか？",
+    "vi" : "Bạn có chắc chắn muốn xóa người đại diện đặt tài nguyên đã chọn không?",
+    "zh" : "要删除选择的资源代替预订人。"
+  },
+  "검색조건을 선택하세요." : {
+    "en" : "Please select search conditions.",
+    "ja" : "検索条件を選択してください。",
+    "vi" : "Hãy lựa chọn điều kiện tìm kiếm",
+    "zh" : "请选择搜索条件。"
+  },
+  "기본값이 너무 깁니다." : {
+    "en" : "Default value too long",
+    "ja" : "基本値が長すぎます。",
+    "vi" : "Giá trị mặc định quá dài",
+    "zh" : "基本值过长。"
+  },
+  "휴일사용" : {
+    "en" : "Use holiday",
+    "ja" : "休日使用",
+    "vi" : "Sử dụng ngày nghỉ",
+    "zh" : "使用休息日"
+  },
+  "일정삭제로 인해 예약을 취소합니다." : {
+    "en" : "Reservation canceled due to schedule deletion.",
+    "ja" : "日程削除のため予約をキャンセルします。",
+    "vi" : "Đặt chỗ bị hủy do xóa lịch trình.",
+    "zh" : "因删除日程而取消预订。"
+  },
+  "예약 필수" : {
+    "en" : "Booking required",
+    "ja" : "予約必須",
+    "vi" : "Đặt trước cần thiết",
+    "zh" : "预约必须"
+  },
+  "예약을 확인하려면 아래 [내 예약 보기]를 클릭하세요." : {
+    "en" : "To check your booking, click [View My Bookings].",
+    "ja" : "予約確認は下記の［My予約］をクリックしてください。",
+    "vi" : "Nhấn vào [Xem đặt trước] dưới đây để kiểm tra đặt trước.",
+    "zh" : "要确认预约的话请点击下边[看我的预约]。"
+  },
+  "자원 이동처리가 정상적으로 저장되었습니다.\\n왼쪽 트리 작업메뉴를 새로 고침하시겠습니까?" : {
+    "en" : "The resource-moving process has been normally saved. \\n Do you want to refresh the tree work menu on the left?",
+    "ja" : "資源の移動処理が正常に保存されました。\\n左側のツリー作業メニューをリロードしますか？",
+    "vi" : "Việc xử lý di chuyển tài nguyên đã được lưu lại bình thường. \\nBạn có muốn làm mới cây menu bên trái không?",
+    "zh" : "资源移动处理正常保存完了。要更新\\n右边路径工作项目吗?"
+  },
+  "저장된 검색식은 이 자원 폴더에서만 사용할 수 있습니다." : {
+    "en" : "The saved search formula can only be used in this resource folder.",
+    "ja" : "保存した検索式は、資源フォルダでのみ使用することができます。",
+    "vi" : "Phương thức tìm kiếm đã lưu chỉ có thể sử dụng ở thư mục nguồn tài nguyên này.",
+    "zh" : "储存的搜索式只能在这个文件夹上使用。"
+  },
+  "더보기" : {
+    "en" : "View more",
+    "ja" : "もっと見る",
+    "vi" : "Xem thêm",
+    "zh" : "继续看"
+  },
+  "휴일 설정" : {
+    "en" : "Holiday settings",
+    "ja" : "休日設定",
+    "vi" : "Cài đặt ngày nghỉ",
+    "zh" : "设定休息日"
+  },
+  "버튼명을 입력하세요." : {
+    "en" : "Enter button name.",
+    "ja" : "ボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút.",
+    "zh" : "请输入按钮名。"
+  },
+  "{0} 폴더 하위에 {1} 폴더를 {2} 폴더 하위로 이동하였습니다." : {
+    "en" : "You moved {1} folder from {0} folder to {2} folder.",
+    "ja" : "{0} フォルダの下位に {1} フォルダを {2} フォルダの下位に移動しました。",
+    "vi" : "Đã di chuyển thư mục {1} ở dưới thư mục {0} sang thư mục dưới.",
+    "zh" : "在{0} 文件夹下位 {1} 文件夹移动到 {2} 文件夹下位了。"
+  },
+  "컬럼 사용" : {
+    "en" : "Use column",
+    "ja" : "カラム使用",
+    "vi" : "Sử dụng cột",
+    "zh" : "使用专栏"
+  },
+  "향후 반복예약을 모두 취소합니다." : {
+    "en" : "Cancel all future repeat bookings.",
+    "ja" : "今後繰り返し予約をすべてキャンセルします。",
+    "vi" : "Có thể hủy tất cả đặt trước lặp lại ở tương lai.",
+    "zh" : "今后反复预约全部取消。"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "자원등록관리" : {
+    "en" : "Resource Registration Management",
+    "ja" : "資源登録管理",
+    "vi" : "Quản lý đăng ký tài nguyên",
+    "zh" : "登录资源管理"
+  },
+  "추가 컬럼의 레이아웃 구성을 설정합니다." : {
+    "en" : "Configure the layout of new/additional columns.",
+    "ja" : "追加カラムレイアウトの構成を設定します。",
+    "vi" : "Bạn có thể thiết lập bố cục của cột mà bạn thêm vào.",
+    "zh" : "设定追加专栏的编排构成。"
+  },
+  "즉시예약" : {
+    "en" : "Book Now",
+    "ja" : "即時予約",
+    "vi" : "Đặt trước ngay lập tức",
+    "zh" : "直接预约"
+  },
+  "사용자 설정" : {
+    "en" : "User Settings",
+    "ja" : "ユーザー設定",
+    "vi" : "Cài đặt người dùng",
+    "zh" : "设定使用者"
+  },
+  "지난날짜에는 예약할 수 없습니다." : {
+    "en" : "You cannot make a booking on a date that already passed.",
+    "ja" : "過去の日付に予約することはできません。",
+    "vi" : "Bạn không thể đặt trước ngày ở quá khứ.",
+    "zh" : "过去的日子不可预约。"
+  },
+  "반려사유입력" : {
+    "en" : "Enter a reason for rejection",
+    "ja" : "差戻し理由入力",
+    "vi" : "Nhập lý do từ chối",
+    "zh" : "输入退回原因"
+  },
+  "분류 이동" : {
+    "en" : "Move category",
+    "ja" : "カテゴリ移動",
+    "vi" : "Di chuyển danh mục",
+    "zh" : "分类移动"
+  },
+  "예약가능시간 : 종일" : {
+    "en" : "Available Time (Schedule) : All Day",
+    "ja" : "予約可能時間：終日",
+    "vi" : "Thời gian có thể đặt trước: cả ngày",
+    "zh" : "可以预约时间：整天"
+  },
+  "반복종료일이 예약시작일보다 작을수 없습니다." : {
+    "en" : "The end date (repeat) must be later than the start date (repeat).",
+    "ja" : "繰返し終了日は、予約開始日より前の日付にすることはできません。",
+    "vi" : "Ngày kết thúc lặp lại phải lớn hơn ngày bắt đầu.",
+    "zh" : "反复结束日不可小于预定开始日。"
+  },
+  "해당 대리인이 이미 존재합니다." : {
+    "en" : "The delegate already exists.",
+    "ja" : "代理人が既に存在します。",
+    "vi" : "Người đại diện này đã tồn tại.",
+    "zh" : "有关代理人已经存在。"
+  },
+  "검색된 자원정보가 없습니다." : {
+    "en" : "No resource information found.",
+    "ja" : "検索された資源情報がありません。",
+    "vi" : "Không có thông tin tài nguyên được tìm thấy.",
+    "zh" : "没有搜索的资源信息。"
+  },
+  "대여취소" : {
+    "en" : "Cancel (Rent/Borrow)",
+    "ja" : "貸出キャンセル",
+    "vi" : "Hủy xuất",
+    "zh" : "取消借贷"
+  },
+  "대여 요청이 등록되었습니다." : {
+    "en" : "Rental request has been registered.",
+    "ja" : "レンタルリクエストが登録されました。",
+    "vi" : "Yêu cầu mượn đã được đăng ký.",
+    "zh" : "已注册租借请求。"
+  },
+  "{0} 에 {1} 자원을 복원 하였습니다." : {
+    "en" : "Resource {1} has been restored on {0}.",
+    "ja" : "{0} に {1}資源を復元しました。",
+    "vi" : "Tại{0}, {1} Tài nguyên đã được phục hồi.",
+    "zh" : "复原{0}中的{1}资源。"
+  },
+  "내 캘린더의 일정으로 등록" : {
+    "en" : "Add as an event to My calendar",
+    "ja" : "Myカレンダーのスケジュール登録",
+    "vi" : "Đăng ký một sự kiện vào Lịch của tôi",
+    "zh" : "登录为我的日历日程"
+  },
+  "분류명 및 관련 정보를 변경한 후 [수정]을 클릭하세요." : {
+    "en" : "Modify the category name and related information and then click the [Modify] button.",
+    "ja" : "カテゴリ名及び関連情報を変更後、[修正]をクリックしてください。",
+    "vi" : "Nhấn vào [Chỉnh sửa] sau khi thay đổi thông tin liên quan và tên danh mục.",
+    "zh" : "请变更分类名及有关信息后点击[修改}。"
+  },
+  "요일별 예약가능시간" : {
+    "en" : "Available time by day",
+    "ja" : "曜日別の予約可能時間",
+    "vi" : "Thời gian có thể đặt trước theo ngày",
+    "zh" : "星期别可以预约时间"
+  },
+  "예약승인 시 신청자에게 알림 메시지가 발송되고 공유자의 내 예약조회에 예약내용이 공유되어 보여집니다." : {
+    "en" : "Once the booking is approved by the administrator, a notification message will be sent to the user who requested for a booking, and the booking details will be shown & shared on View My bookings.",
+    "ja" : "予約の承認時、申請者にお知らせのメッセージが送信されます。また、共有者のMy予約照会に予約内容が共有・表示されます。",
+    "vi" : "Khi phê duyệt đặt trước, tin nhắn thông báo sẽ được gửi tới người đăng ký và nội dung đặt trước trên xem đặt trước của tôi ở người chia sẻ.",
+    "zh" : "预订承认时会给申请者发送提醒短信、而且共有者的我的预订查询上表现出预订内容。"
+  },
+  "분류 목록" : {
+    "en" : "List of categories",
+    "ja" : "カテゴリリスト",
+    "vi" : "Danh sách danh mục",
+    "zh" : "分类目录"
+  },
+  "자원관리자를 10명 이상 선택할 수 없습니다." : {
+    "en" : "You cannot select more than 10 resource managers.",
+    "ja" : "資源管理者は10名以上選択出来ません。",
+    "vi" : "Không thể chọn hơn 10 người quản lý tài nguyên.",
+    "zh" : "不可选择10名以上的资源管理者。"
+  },
+  "예약취소 신청이 접수되었습니다." : {
+    "en" : "Your request to cancel the booking has been submitted.",
+    "ja" : "予約取消の申請を授受しました。",
+    "vi" : "Đăng ký hủy đặt trước đã được chấp nhận.",
+    "zh" : "接受了预约取消申请。"
+  },
+  "삭제되었습니다.\\n왼쪽 트리 작업메뉴를 새로 고침하시겠습니까?" : {
+    "en" : "It has been deleted. \\n Do you want to refresh the tree work menu located on the left side?",
+    "ja" : "削除されました。\\n左側のツリー作業メニューをリロードしますか？",
+    "vi" : "Đã xóa. Bạn có muốn làm mới cây menu bên trái không?",
+    "zh" : "删除完了。要更新\\n右边路径工作项目吗?"
+  },
+  "나머지 예약에 대한 반려사유를 입력하세요" : {
+    "en" : "Please type a reason for rejection of the remaining bookings.",
+    "ja" : "承認されなかった予約について差戻し理由を入力してください。",
+    "vi" : "Hãy nhập lý do từ chối về đặt trước còn lại.",
+    "zh" : "请输入剩下的预约退回原因。"
+  },
+  "까지" : {
+    "en" : "until",
+    "ja" : "まで",
+    "vi" : "Tới",
+    "zh" : "到"
+  },
+  "목록 레이아웃" : {
+    "en" : "List layout",
+    "ja" : "項目レイアウト",
+    "vi" : "Bố cục danh sách",
+    "zh" : "目录编排"
+  },
+  "검색선택의 종료일자를 입력해주세요." : {
+    "en" : "Enter a finish date for search.",
+    "ja" : "検索選択の終了日付けを入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc tìm kiếm.",
+    "zh" : "请输入选择搜索的结束日子。"
+  },
+  "이번주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "tuần này",
+    "zh" : "这个星期"
+  },
+  "신청 예약" : {
+    "en" : "Request a booking",
+    "ja" : "申請予約",
+    "vi" : "Yêu cầu đặt trước",
+    "zh" : "申请预约"
+  },
+  "컬럼 선택" : {
+    "en" : "Select a column",
+    "ja" : "カラム選択",
+    "vi" : "Chọn một cột",
+    "zh" : "选择专栏"
+  },
+  "등록된 예약 자원이 없습니다." : {
+    "en" : "There are no registered booking resources.",
+    "ja" : "登録された予約資源がありません。",
+    "vi" : "Không có tài nguyên đặt trước được đăng ký.",
+    "zh" : "没有登录的预订资源。"
+  },
+  "한번에 4개까지만 선택할 수 있습니다." : {
+    "en" : "You can select up to 4 items at one time.",
+    "ja" : "一度に4つまで選択できます。",
+    "vi" : "Chỉ có thể chọn tối đa 4 mục trong 1 lần.",
+    "zh" : "一次只能选择4个。"
+  },
+  "트리 설정" : {
+    "en" : "Tree settings",
+    "ja" : "ツリー設定",
+    "vi" : "Cài đặt Cây",
+    "zh" : "设定树"
+  },
+  "선택하신 예약이 취소처리되었습니다." : {
+    "en" : "The selected booking has been canceled.",
+    "ja" : "選択した予約がキャンセル処理されました。",
+    "vi" : "Yêu cầu đặt trước của bạn đã bị hủy.",
+    "zh" : "选择的预约取消处理了。"
+  },
+  "<strong>{0}</strong> 폴더 하위에 <strong>{1}</strong> 폴더를 <strong>{2}</strong> 폴더 하위로 이동하였습니다." : {
+    "en" : "You moved <strong>{1}</strong> folder from <strong>{0}</strong> folder to <strong>{2}</strong> folder.",
+    "ja" : "<strong>{0}</strong> フォルダの下位に <strong>{1}</strong> フォルダを <strong>{2}</strong> フォルダの下位に移動しました。",
+    "vi" : "Đã di chuyển thư mục <strong>{1}</strong> ở dưới thư mục <strong>{0}</strong> sang thư mục dưới.",
+    "zh" : "在<strong>{0}</strong> 文件夹下位 <strong>{1}</strong> 文件夹移动到 <strong>{2}</strong> 文件夹下位了。"
+  },
+  "신청 사유를 입력하세요." : {
+    "en" : "Please enter the reason why you have made a request.",
+    "ja" : "申請理由を入力してください。",
+    "vi" : "Hãy nhập lý do đăng ký.",
+    "zh" : "请输入申请原因。"
+  },
+  "자원정보" : {
+    "en" : "Resource information",
+    "ja" : "資源情報",
+    "vi" : "Thông tin tài nguyên",
+    "zh" : "资源信息"
+  },
+  "예약이 신청되었습니다." : {
+    "en" : "Your booking request has been submitted.",
+    "ja" : "予約申請が完了しました。",
+    "vi" : "Đã đăng ký đặt trước.",
+    "zh" : "预订申请完了。"
+  },
+  "요일을 선택하세요." : {
+    "en" : "Select a day",
+    "ja" : "曜日を選択してください。",
+    "vi" : "Hãy chọn ngày.",
+    "zh" : "请选择星期几。"
+  },
+  "예약한 자원이 아직 반납되지 않았습니다." : {
+    "en" : "The booked resource has not been returned yet.",
+    "ja" : "予約した資源がまだ返却されていません。",
+    "vi" : "Tài nguyên đặt trước chưa được hoàn trả.",
+    "zh" : "预约的资源还没退回。"
+  },
+  "사용자 선택" : {
+    "en" : "Select User",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择用户"
+  },
+  "반복주기" : {
+    "en" : "Repeat cycle",
+    "ja" : "繰返し周期",
+    "vi" : "Chu kỳ lặp lại",
+    "zh" : "反复周期"
+  },
+  "내예약조회" : {
+    "en" : "My booking",
+    "ja" : "My予約照会",
+    "vi" : "Xem đặt trước của tôi",
+    "zh" : "查询我的预订"
+  },
+  "가로 분할" : {
+    "en" : "Horizontal Split",
+    "ja" : "横分割",
+    "vi" : "Chia ngang",
+    "zh" : "坚分割"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Please enter content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Hãy nhập nội dung",
+    "zh" : "请输入内容。"
+  },
+  "데이터" : {
+    "en" : "Data",
+    "ja" : "データ",
+    "vi" : "Dữ liệu",
+    "zh" : "数据"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter search keyword",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ khóa tìm kiếm",
+    "zh" : "请输入关键词。"
+  },
+  "폴더가 없습니다." : {
+    "en" : "There are no folders",
+    "ja" : "フォルダがありません。",
+    "vi" : "Không có thư mục",
+    "zh" : "没有文件夹"
+  },
+  "승인 후 예약" : {
+    "en" : "Book after approval",
+    "ja" : "承認後予約",
+    "vi" : "Đặt trước sau phê duyệt",
+    "zh" : "承认后预约"
+  },
+  "예약현황" : {
+    "en" : "Booking status",
+    "ja" : "予約状況",
+    "vi" : "Hiện trạng đặt trước",
+    "zh" : "预订现况"
+  },
+  "최소길이가 최대길이를 넘을 수 없습니다." : {
+    "en" : "The minimum length cannot exceed the maximum length.",
+    "ja" : "最小の長さが最大の長さを超えることができません。",
+    "vi" : "Chiều dài tối thiểu không thể vượt quá độ dài tối đa.",
+    "zh" : "最小长度不可大于最大长度。"
+  },
+  "사용 안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "예약 신청" : {
+    "en" : "Booking Request",
+    "ja" : "予約申請",
+    "vi" : "Đăng ký đặt trước",
+    "zh" : "申请预订"
+  },
+  "상위폴더" : {
+    "en" : "Parent Folder",
+    "ja" : "上位フォルダ",
+    "vi" : "Thư mục trên",
+    "zh" : "上位文件夹"
+  },
+  "자원예약 대리자" : {
+    "en" : "Resource Booking Agent",
+    "ja" : "資源予約代理者",
+    "vi" : "Đại diện tài nguyên máy chủ",
+    "zh" : "资源预约代理人"
+  },
+  "사용중지 하시겠습니까?" : {
+    "en" : "Do you want to suspend it?",
+    "ja" : "使用中止しますか？",
+    "vi" : "Bạn có muốn ngừng sử dụng không?",
+    "zh" : "要停止使用吗？"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "검색식" : {
+    "en" : "Search rules",
+    "ja" : "検索式",
+    "vi" : "Phương thức tìm kiếm",
+    "zh" : "所艘式"
+  },
+  "자원관리자 선택" : {
+    "en" : "Select the resource administrator",
+    "ja" : "資源管理者選択",
+    "vi" : "Chọn người quản lý tài nguyên",
+    "zh" : "选择资源管理者"
+  },
+  "자원예약 대리자 등록" : {
+    "en" : "Register Resource Booking Agent",
+    "ja" : "資源予約代理者に登録",
+    "vi" : "Chỉ định đại diện tài nguyên máy chủ",
+    "zh" : "登记资源预约代理人"
+  },
+  "예약수정" : {
+    "en" : "Edit booking",
+    "ja" : "予約修正",
+    "vi" : "Sửa đặt trước",
+    "zh" : "修改预订"
+  },
+  "예약이 삭제 되었습니다." : {
+    "en" : "Reservation has been canceled.",
+    "ja" : "予約が削除されました。",
+    "vi" : "Đặt chỗ đã bị hủy.",
+    "zh" : "预订已取消。"
+  },
+  "삭제할 분류를 선택하세요." : {
+    "en" : "Select the category to delete.",
+    "ja" : "削除するカテゴリを選択してください。",
+    "vi" : "Hãy chọn danh mục để xóa.",
+    "zh" : "请选择要删除的分类。"
+  },
+  "기간형식 컬럼의 첫번째 항목을 입력하세요." : {
+    "en" : "Please type in the first item of the period format column.",
+    "ja" : "期間形式カラムの最初の項目を入力してください",
+    "vi" : "Vui lòng nhập mục đầu tiên của cột.",
+    "zh" : "请输入期间形式专栏的第一个项目。"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "재등록" : {
+    "en" : "Re-add",
+    "ja" : "再登録",
+    "vi" : "Đăng ký lại",
+    "zh" : "再登录"
+  },
+  "파일첨부" : {
+    "en" : "Attach files",
+    "ja" : "ファイル添付",
+    "vi" : "Đính kèm file",
+    "zh" : "附加文档"
+  },
+  "수정하는데 실패했습니다.\\n확인후 다시 시도하세요." : {
+    "en" : "Failed to modify.\\nPlease check and try again.",
+    "ja" : "修正に失敗しました。\\nご確認の上、もう一度お試しください。",
+    "vi" : "Đã thất bại trong việc sửa. \\nHãy kiểm tra và thử lại.",
+    "zh" : "修改失败了。请\\n确认后再试试。"
+  },
+  "내보낼 통계가 없습니다." : {
+    "en" : "There are no statistics to export.",
+    "ja" : "エクスポートする統計はありません",
+    "vi" : "Không có thống kê để xuất",
+    "zh" : "没有可以发出的统计。"
+  },
+  "이동할 대상을 드래그 앤드 드롭합니다." : {
+    "en" : "Drag & Drop the target that you wish to move.",
+    "ja" : "移動する対象をドラッグ＆ドロップしてください。",
+    "vi" : "Kéo và thả đối tượng di chuyển.",
+    "zh" : "drag and drop要移动的对象。"
+  },
+  "예약을 공유 했습니다." : {
+    "en" : "Reservation has been shared.",
+    "ja" : "予約を共有しました。",
+    "vi" : "Đặt chỗ đã được chia sẻ.",
+    "zh" : "已共享预订。"
+  },
+  "추가 후 계속" : {
+    "en" : "Add & Continue",
+    "ja" : "追加後に継続",
+    "vi" : "Thêm & Tiếp tục",
+    "zh" : "追加后继续"
+  },
+  "사용일자" : {
+    "en" : "Date (Use)",
+    "ja" : "使用日",
+    "vi" : "Ngày đã dùng",
+    "zh" : "使用日子"
+  },
+  "PC에서 등록한 자원예약은 수정 할 수 없습니다." : {
+    "en" : "You cannot modify resource bookings that were added on a PC.",
+    "ja" : "PCから登録した資源予約は修正出来ません。",
+    "vi" : "Không thể sửa đặt trước tài nguyên đăng ký trên PC.",
+    "zh" : "在PC登录的资源预约不可修改。"
+  },
+  "필수" : {
+    "en" : "Required",
+    "ja" : "必須",
+    "vi" : "Bắt buộc",
+    "zh" : "必须"
+  },
+  "반복내용" : {
+    "en" : "Repeat details",
+    "ja" : "繰返し内容",
+    "vi" : "Chi tiết lặp lại",
+    "zh" : "反复内容"
+  },
+  "폴더 이동" : {
+    "en" : "Move folder",
+    "ja" : "フォルダ移動",
+    "vi" : "Di chuyển thư mục",
+    "zh" : "移动文件夹"
+  },
+  "자원대리예약자등록" : {
+    "en" : "Add Resource Booking Agent",
+    "ja" : "資源代理予約者の登録",
+    "vi" : "Thêm người đại diện đặt trước tài nguyên",
+    "zh" : "登录资源代替预订人"
+  },
+  "구분명" : {
+    "en" : "Category Name",
+    "ja" : "区分名",
+    "vi" : "Tên danh mục",
+    "zh" : "类型名称"
+  },
+  "신 청 일 :" : {
+    "en" : "Date :",
+    "ja" : "申請日 :",
+    "vi" : "Ngày đăng ký:",
+    "zh" : "申请日 :"
+  },
+  "시간선택" : {
+    "en" : "Select time",
+    "ja" : "時間選択",
+    "vi" : "Chọn thời gian",
+    "zh" : "选择时间"
+  },
+  "선택 컬럼" : {
+    "en" : "Selected Column",
+    "ja" : "選択カラム",
+    "vi" : "Chọn cột",
+    "zh" : "选择的专栏"
+  },
+  "조직도 선택" : {
+    "en" : "Select Organizational Chart",
+    "ja" : "組織図選択",
+    "vi" : "Chọn sơ đồ tổ chức",
+    "zh" : "选择组织图"
+  },
+  "반복종료일은 1년 이후 날짜를 지정할 수 없습니다." : {
+    "en" : "The repeat end date cannot be specified more than 1 year in the future.",
+    "ja" : "繰り返し終了日は1年後の日付を指定することはできません。",
+    "vi" : "Ngày kết thúc lặp lại không thể được chỉ định trong tương lai hơn 1 năm.",
+    "zh" : "重复结束日期不能超过1年。"
+  },
+  "미등록" : {
+    "en" : "Unregistered",
+    "ja" : "未登録",
+    "vi" : "Chưa đăng ký",
+    "zh" : "为登录"
+  },
+  "예약일시 :" : {
+    "en" : "Booking date/time:",
+    "ja" : "予約日時 :",
+    "vi" : "Ngày/giờ đặt trước:",
+    "zh" : "预订时日 :"
+  },
+  "요일별" : {
+    "en" : "by day",
+    "ja" : "曜日別",
+    "vi" : "Theo ngày",
+    "zh" : "星期别"
+  },
+  "관심 자원" : {
+    "en" : "Favorite Resources",
+    "ja" : "お気に入り資源",
+    "vi" : "Tài nguyên quan tâm",
+    "zh" : "关心资源"
+  },
+  "상세숨김" : {
+    "en" : "Hide details",
+    "ja" : "詳細を隠す",
+    "vi" : "Ẩn chi tiết",
+    "zh" : "隐藏详细"
+  },
+  "정상적으로 추가되었습니다.\\n왼쪽 트리 메뉴를 새로 고침하시겠습니까?" : {
+    "en" : "Successfully added.\\nWould you like to refresh the tree menu located on the left side?",
+    "ja" : "正常に追加されました。\\n左側のツリーメニューをリロードしますか？",
+    "vi" : "Đã thêm bình thường. \\nBạn có muốn làm mới cây menu bên trái không?",
+    "zh" : "正常追加完了。要更新\\n右边路径项目吗?"
+  },
+  "최근 예약" : {
+    "en" : "Recent bookings",
+    "ja" : "最新予約",
+    "vi" : "Đặt trước gần đây",
+    "zh" : "最近预约"
+  },
+  "자원반납" : {
+    "en" : "Return resource",
+    "ja" : "資源の返却",
+    "vi" : "Tra lại tài nguyên",
+    "zh" : "退回资源"
+  },
+  "반복 종료일" : {
+    "en" : "Repeat End Date",
+    "ja" : "繰り返し終了日",
+    "vi" : "Ngày kết thức lặp lại",
+    "zh" : "反复结束日"
+  },
+  "내 예약 보기" : {
+    "en" : "View My Bookings",
+    "ja" : "My予約を見る",
+    "vi" : "Xem đặt trước của tôi",
+    "zh" : "看我的预约"
+  },
+  "등록된 예약이 없습니다." : {
+    "en" : "There are no registered bookings.",
+    "ja" : "登録された予約がありません。",
+    "vi" : "Không có tài nguyên được đăng ký",
+    "zh" : "没有登录的预约。"
+  },
+  "예약승인관리" : {
+    "en" : "Booking Approval Management",
+    "ja" : "予約承認管理",
+    "vi" : "Quản lý phê duyệt đặt trước",
+    "zh" : "管理预订承认"
+  },
+  "이 지난 예약취소 내역 삭제" : {
+    "en" : "Delete cancelled booking history older than (      ) days",
+    "ja" : "が過ぎた予約中止内訳を削除",
+    "vi" : "Xóa các đặt chỗ đã hủy cũ hơn () ngày",
+    "zh" : "删除经过 的预定取消细目"
+  },
+  "대여자원" : {
+    "en" : "Rental Resources",
+    "ja" : "レンタルリソース",
+    "vi" : "Tài nguyên cho thuê",
+    "zh" : "出租资源"
+  },
+  "중복 예약 허용" : {
+    "en" : "Allow Overlapped Booking",
+    "ja" : "重複予約許可",
+    "vi" : "Cho phép đặt trước trùng lặp",
+    "zh" : "允许重复预约"
+  },
+  "자원정보 기본 형태" : {
+    "en" : "Resource information default type",
+    "ja" : "資源情報基本タイプ",
+    "vi" : "Loại cơ bản của thông tin tài nguyên",
+    "zh" : "资源信息基本形态"
+  },
+  "예약 가능시간" : {
+    "en" : "Available time (Booking)",
+    "ja" : "予約可能時間",
+    "vi" : "Thời gian có thể đặt trước",
+    "zh" : "可以预约期间"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "향후 반복예약을 모두 수정합니다." : {
+    "en" : "You can edit all future repeat bookings.",
+    "ja" : "今後繰り返し予約をすべて修正します。",
+    "vi" : "Bạn có thể sửa tất cả đặt trước lặp lại ở tương lai.",
+    "zh" : "今后反复预约全部修改。"
+  },
+  "정시" : {
+    "en" : "On time",
+    "ja" : "定時",
+    "vi" : "đúng giờ",
+    "zh" : "正点"
+  },
+  "처리할 자원을 선택하세요." : {
+    "en" : "Please select a resource to process.",
+    "ja" : "処理する資源を選択してください。",
+    "vi" : "Hãy chọn tài nguyên để xử lý.",
+    "zh" : "请选择要处理的资源。"
+  },
+  "{0} 에 {1} 자원정보를 변경하였습니다." : {
+    "en" : "You changed  {1} resource information in {0}.",
+    "ja" : "{0} に {1} 資源情報を変更しました。",
+    "vi" : "Đã thay đổi thông tin tài nguyên {1} ở {0} .",
+    "zh" : "在{0} 变更了 {1} 资源信息。"
+  },
+  "자원 목록에서 숨김" : {
+    "en" : "Hide from resource list",
+    "ja" : "資源項目から表示しない",
+    "vi" : "Ẩn trên danh sách tài nguyên",
+    "zh" : "在资源目录隐藏"
+  },
+  "예약가능자원" : {
+    "en" : "Available Resources (for booking)",
+    "ja" : "予約可能な資源",
+    "vi" : "Nguồn tài nguyên có thể sử dụng",
+    "zh" : "可以预约的资源"
+  },
+  "권한없음" : {
+    "en" : "No permission",
+    "ja" : "権限なし",
+    "vi" : "Không có quyền hạn",
+    "zh" : "没有权限"
+  },
+  "텍스트" : {
+    "en" : "Text",
+    "ja" : "テキスト",
+    "vi" : "Văn bản",
+    "zh" : "原文"
+  },
+  "공유자 일정등록" : {
+    "en" : "Register Sharer Calendar (Schedule)",
+    "ja" : "共有者のカレンダー登録",
+    "vi" : "Đăng ký lịch trình người chia sẻ",
+    "zh" : "登录共有者日程"
+  },
+  "앨범형" : {
+    "en" : "Album type",
+    "ja" : "アルバム型",
+    "vi" : "Loại album",
+    "zh" : "相册形"
+  },
+  "폴더 선택" : {
+    "en" : "Select Folder",
+    "ja" : "フォルダ選択",
+    "vi" : "Chọn thư mục",
+    "zh" : "选择文件夹"
+  },
+  "조직도" : {
+    "en" : "Organizational chart",
+    "ja" : "組職図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "잠시만 기다려 주세요." : {
+    "en" : "Please wait for a moment.",
+    "ja" : "しばらくお待ちください。",
+    "vi" : "Xin hãy đợi một chút.",
+    "zh" : "请稍等。"
+  },
+  "예약취소 요청을 했습니다." : {
+    "en" : "Reservation cancellation request has been made.",
+    "ja" : "予約キャンセルリクエストを送信しました。",
+    "vi" : "Yêu cầu hủy đặt chỗ đã được thực hiện.",
+    "zh" : "已提交预订取消请求。"
+  },
+  "자원 분류" : {
+    "en" : "Resource category",
+    "ja" : "資源カテゴリ",
+    "vi" : "Danh mục tài nguyên",
+    "zh" : "资源分类"
+  },
+  "인쇄할 예약을 선택하세요" : {
+    "en" : "Please select the booking you want to print.",
+    "ja" : "印刷する予約を選択してください",
+    "vi" : "Hãy chọn đặt trước để in.",
+    "zh" : "请选择要打印的预约。"
+  },
+  "자원예약관리" : {
+    "en" : "Resource Booking Management",
+    "ja" : "資源予約管理",
+    "vi" : "Quản lý tài nguyên đặt trước",
+    "zh" : "管理资源预订"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete Input",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa nội dung đã nhập",
+    "zh" : "删除输入内容"
+  },
+  "예약자원이 대리예약되었습니다." : {
+    "en" : "The reserved resource has been booked by a proxy.",
+    "ja" : "予約リソースが代理予約されました。",
+    "vi" : "Tài nguyên được đặt trước đã được đặt bởi một người ủy quyền.",
+    "zh" : "预订资源已被代理预订。"
+  },
+  "사용가능 시간을 바르게 설정하세요." : {
+    "en" : "Please set the available time properly.",
+    "ja" : "使用可能時間を正しく設定してください。",
+    "vi" : "Hãy cài đặt đúng thời gian có sẵn.",
+    "zh" : "请准确设定可以使用的时间。"
+  },
+  "등록된 회의실이 없습니다." : {
+    "en" : "There are no meeting rooms.",
+    "ja" : "登録された会議室がありません。",
+    "vi" : "Không có phòng họp được đăng ký",
+    "zh" : "没有登录的会议室。"
+  },
+  "예약 가능기간" : {
+    "en" : "Available period (Booking)",
+    "ja" : "予約可能期間",
+    "vi" : "Thời gian có thể đặt trước",
+    "zh" : "可以预约期间"
+  },
+  "불가사유" : {
+    "en" : "Reason",
+    "ja" : "不可の理由",
+    "vi" : "Lý do",
+    "zh" : "不可原因"
+  },
+  "조직도 연동" : {
+    "en" : "Link with organization chart",
+    "ja" : "組織図連動",
+    "vi" : "Liên kết sơ đồ tổ chức",
+    "zh" : "联动组织图"
+  },
+  "{0}님께서 {1} 예약을 변경하셨습니다." : {
+    "en" : "Mr./Ms.{0} has changed the booking for {1}.",
+    "ja" : "{0}さんが {1} 予約を変更しました。",
+    "vi" : "Anh/chị {0} đã thay đổi đặt trước {1}",
+    "zh" : "{0}先生（女士） {1} 变更预订了。"
+  },
+  "사용일시는 반드시 들어가야합니다." : {
+    "en" : "You must select when you will use the resource you'd like to book.",
+    "ja" : "使用日時を必ず入力してください。",
+    "vi" : "Ngày giờ sử dụng nhất định phải được bao gồm.",
+    "zh" : "必须得输入使用日时。"
+  },
+  "최상위 폴더는 수정할 수 없습니다." : {
+    "en" : "The parent folder (highest-class folder) cannot be modified.",
+    "ja" : "最上位のフォルダは修正できません。",
+    "vi" : "Không thể sửa thư mục trên cùng.",
+    "zh" : "最上位文件夹不可修改。"
+  },
+  "관심자원" : {
+    "en" : "Interesting Resources",
+    "ja" : "お気に入り資源",
+    "vi" : "Tài nguyên quan tâm",
+    "zh" : "关心资源"
+  },
+  "분할 보기" : {
+    "en" : "View divisions",
+    "ja" : "分割表示",
+    "vi" : "Xem phân chia",
+    "zh" : "分割看"
+  },
+  "{0} 주간 예약 페이지" : {
+    "en" : "{0} weekly booking page.",
+    "ja" : "{0} 週間予約ページ",
+    "vi" : "{0} trang đặt trước hàng tuần.",
+    "zh" : "{0} 个星期 预订的网页"
+  },
+  "사용 시, 대상자 권한으로 자원을 예약합니다." : {
+    "en" : "The resource will be reserved with the target user’s permission when used.",
+    "ja" : "使用する際、対象者権限でリソースを予約します。",
+    "vi" : "Đặt trước nguồn lợi với quyền hạn đối tượng khi sử dụng.",
+    "zh" : "使用时，以对象者权限预约资源。"
+  },
+  "중회의실" : {
+    "en" : "Medium-size conference room",
+    "ja" : "中会議室",
+    "vi" : "Phòng họp trung",
+    "zh" : "中会议室"
+  },
+  "예약내역이 없습니다." : {
+    "en" : "There is no booking/reservation details.",
+    "ja" : "予約内訳がありません。",
+    "vi" : "Không có lịch sử thông tin Đặt trước.",
+    "zh" : "没有预订细目"
+  },
+  "컬럼 목록" : {
+    "en" : "Column list",
+    "ja" : "カラムリスト",
+    "vi" : "Danh sách cột",
+    "zh" : "专栏目录"
+  },
+  "예약가능 기간" : {
+    "en" : "Available Period",
+    "ja" : "予約可能期間",
+    "vi" : "Khoảng thời gian có thể đặt trước",
+    "zh" : "可以预订期间"
+  },
+  "추가 컬럼 레이아웃" : {
+    "en" : "Additional Column Layout",
+    "ja" : "追加カラムのレイアウト",
+    "vi" : "Bố cục của cột đã thêm",
+    "zh" : "追加专栏编排"
+  },
+  "나머지 예약에 대한 반려 사유를 입력하세요." : {
+    "en" : "Please enter the reason why you rejected the remaining bookings.",
+    "ja" : "残りの予約に差戻し理由を入力してください。",
+    "vi" : "Nhập lý do từ chối cho phần còn lại của đặt trước.",
+    "zh" : "请输入剩下的预订退还。原因"
+  },
+  "공개" : {
+    "en" : "Open",
+    "ja" : "公開",
+    "vi" : "Mở",
+    "zh" : "公开"
+  },
+  "신청" : {
+    "en" : "Request",
+    "ja" : "申請",
+    "vi" : "Đăng ký",
+    "zh" : "申请"
+  },
+  "최대길이는 1000자를 넘을 수 없습니다." : {
+    "en" : "The maximum length cannot exceed 1000 characters.",
+    "ja" : "最大の長さは1000文字を超えることができません。",
+    "vi" : "Độ dài tối đa không vượt quá 1000 ký tự.",
+    "zh" : "最大长度不可超过1000字。"
+  },
+  "조직도 선택 버튼 사용" : {
+    "en" : "Use Organizational Chart Select Button",
+    "ja" : "組織図の選択ボタンを使用",
+    "vi" : "Sử dụng nút chọn sơ đồ tổ chức",
+    "zh" : "使用组织图选择按钮"
+  },
+  "가능기간" : {
+    "en" : "Available time",
+    "ja" : "可能期間",
+    "vi" : "Thời gian sẵn sàng",
+    "zh" : "可以期间"
+  },
+  "해당 폴더에 등록된 자원이 없습니다." : {
+    "en" : "No resources are registered in the folder.",
+    "ja" : "当フォルダーに登録された資源がありません。",
+    "vi" : "Trong thư mục không có tài nguyên đã đăng ký.",
+    "zh" : "该文件夹没有上传的内容。"
+  },
+  "반복일" : {
+    "en" : "Repeat day",
+    "ja" : "繰り返し日",
+    "vi" : "Ngày lặp lại",
+    "zh" : "反复日"
+  },
+  "자원을 하나 이상 선택하셔야 합니다." : {
+    "en" : "You must select more than one (1) resource.",
+    "ja" : "資源を1つ以上選択する必要があります。",
+    "vi" : "Bạn phải chọn trên một tài nguyên.",
+    "zh" : "得选择一个以上的资源。"
+  },
+  "알림" : {
+    "en" : "Notification",
+    "ja" : "お知らせ",
+    "vi" : "Thông báo",
+    "zh" : "提醒"
+  },
+  "예약이 취소되었습니다." : {
+    "en" : "The booking has been cancelled.",
+    "ja" : "予約がキャンセルされました。",
+    "vi" : "Đặt trước đã được hủy.",
+    "zh" : "预约取消完了。"
+  },
+  "사용자별" : {
+    "en" : "By user",
+    "ja" : "ユーザー別",
+    "vi" : "Theo từng người dùng",
+    "zh" : "各个使用者"
+  },
+  "시스템 오류 입니다. 관리자에게 문의하세요." : {
+    "en" : "System error. Please contact the administrator.",
+    "ja" : "システムエラーです。管理者にお問い合わせください。",
+    "vi" : "Lỗi hệ thống. Hãy liên hệ với người quản lý.",
+    "zh" : "系统发生了错误.请给管理者查询."
+  },
+  "관리자 권한을 부여하는 경우 사용자 권한도 부여됩니다." : {
+    "en" : "If you grant administrator privileges, you are also granting user rights.",
+    "ja" : "管理者権限を付与する場合、ユーザー権限も付与されます。",
+    "vi" : "Nếu bạn cấp quyền cho quản trị viên, bạn cũng sẽ được cấp quyền cho người dùng.",
+    "zh" : "赋予管理者权限时也将赋予使用者权限。"
+  },
+  "오늘날짜" : {
+    "en" : "Today's date",
+    "ja" : "今日の日付",
+    "vi" : "Ngày hôm nay",
+    "zh" : "今天日子"
+  },
+  "등록자 정보" : {
+    "en" : "Registrant information",
+    "ja" : "登録者情報",
+    "vi" : "Thông tin người đăng kí",
+    "zh" : "登录者信息"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Mô tả",
+    "zh" : "说明"
+  },
+  "반복종료일" : {
+    "en" : "End Date (Repeat)",
+    "ja" : "繰返し終了日",
+    "vi" : "Ngày kết thúc lặp lại",
+    "zh" : "反复结束日"
+  },
+  "관심" : {
+    "en" : "Interest",
+    "ja" : "関心",
+    "vi" : "Sở thích",
+    "zh" : "关注"
+  },
+  "폴더" : {
+    "en" : "folder",
+    "ja" : "フォルダ",
+    "vi" : "Thư mục",
+    "zh" : "文件夹"
+  },
+  "반복 없음" : {
+    "en" : "Does not repeat",
+    "ja" : "繰り返しなし",
+    "vi" : "Không có lặp lại",
+    "zh" : "没有反复"
+  },
+  "{0} 폴더 하위에 {1} 폴더정보를 변경하였습니다." : {
+    "en" : "You changed {1} folder information in the {0} folder.",
+    "ja" : "{0} フォルダの下位に {1} フォルダ情報を変更しました。",
+    "vi" : "Đã thay đổi thông tin thư mục {1} ở dưới thư mục {0}.",
+    "zh" : "在{0} 文件夹下位变更了 {1} 文件夹信息。"
+  },
+  "부서 예약정보" : {
+    "en" : "Department booking information",
+    "ja" : "部署予約情報",
+    "vi" : "Thông tin bộ phận đặt trước",
+    "zh" : "部门预约信息"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print Preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "회사전화" : {
+    "en" : "Company phone",
+    "ja" : "会社電話",
+    "vi" : "Điện thoại công ty",
+    "zh" : "公司电话"
+  },
+  "사이드 메뉴 접기" : {
+    "en" : "Hide Side Menu",
+    "ja" : "サイドメニューを閉じる",
+    "vi" : "Ẩn side menu",
+    "zh" : "折叠边线菜单"
+  },
+  "대여처리가 완료되었습니다." : {
+    "en" : "The resource has been successfully lent out",
+    "ja" : "貸出処理が完了しました。",
+    "vi" : "Bạn đã xuất tài nguyên.",
+    "zh" : "借贷处理完了。"
+  },
+  "금" : {
+    "en" : "Fri",
+    "ja" : "金",
+    "vi" : "Thứ sáu",
+    "zh" : "星期五"
+  },
+  "예약하기" : {
+    "en" : "Book",
+    "ja" : "予約する",
+    "vi" : "Đặt trước",
+    "zh" : "预约"
+  },
+  "예약방식" : {
+    "en" : "Booking methods",
+    "ja" : "予約方式",
+    "vi" : "Phương thức đặt trước",
+    "zh" : "预约方式"
+  },
+  "{0} 항목은 필수 선택항목입니다." : {
+    "en" : "You must select item {0}.",
+    "ja" : "{0}項目は必須選択項目です。",
+    "vi" : "{0} mục là bắt buộc.",
+    "zh" : "{0} 项目是必须选择的项目。"
+  },
+  "반납완료 처리하시겠습니까?" : {
+    "en" : "Would you like to mark it as 'return complete?'",
+    "ja" : "返却完了の処理をしますか？",
+    "vi" : "Bạn có muốn trả không?",
+    "zh" : "要返还完了处理吗？"
+  },
+  "선택하신 예약에 등록된 자원 \\n{0} 의 예약가능기간에 위배되어 승인할 수 없습니다." : {
+    "en" : "It cannot be approved because it violates the available time of the resource \\n{0} in the booking you've selected.",
+    "ja" : "選択した予約に登録された資源\\n{0} の予約可能期間ではないので承認できません。",
+    "vi" : "Không thể phê duyệt do vi phạm thời gian đặt trước của nguồn tải nguyên \\n{0} được đăng ký trong đặt trước đã chọn.",
+    "zh" : "选择的预约里登录的资源 \\n{1} 违反了可以预约期间而不可承认。"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "예약승인" : {
+    "en" : "Approve Booking",
+    "ja" : "予約承認",
+    "vi" : "Đã phê duyệt",
+    "zh" : "承认预订"
+  },
+  "중복사용 예약불가" : {
+    "en" : "Booking Unavailable (Duplicate Booking)",
+    "ja" : "重複使用の予約不可",
+    "vi" : "Không thể đặt trước sử dụng trùng lặp",
+    "zh" : "不可预约重复使用"
+  },
+  "예약 신청을 하시겠습니까?" : {
+    "en" : "Would you like to request a booking?",
+    "ja" : "予約申請しますか?",
+    "vi" : "Bạn có muốn đăng ký trước không?",
+    "zh" : "要申请预订吗？"
+  },
+  "자원관리자" : {
+    "en" : "Resource administrator",
+    "ja" : "資源管理者",
+    "vi" : "Người quản lý tài nguyên",
+    "zh" : "资源管理者"
+  },
+  "선택한 분류를 수정합니다." : {
+    "en" : "Modify the selected category.",
+    "ja" : "選択したカテゴリを修正します。",
+    "vi" : "Sửa danh mục đã chọn",
+    "zh" : "修改选择的分类。"
+  },
+  "자원예약 대리인 설정" : {
+    "en" : "Resource Booking Agent Settings",
+    "ja" : "資源予約の代理人設定",
+    "vi" : "Thiết lập đại diện đặt trước tài nguyên",
+    "zh" : "设定资源预订代理人"
+  },
+  "예약가능기간" : {
+    "en" : "Available period (Booking)",
+    "ja" : "予約可能期間",
+    "vi" : "Thời gian có thể đặt trước",
+    "zh" : "可以预约期间"
+  },
+  "자원을 반드시 선택하세요." : {
+    "en" : "You must select a resource.",
+    "ja" : "資源を必ず選択してください。",
+    "vi" : "Bạn nhất định phải chọn tài nguyên.",
+    "zh" : "请必须输入资源。"
+  },
+  "최소 - 최대값" : {
+    "en" : "Minimum - Maximum Value",
+    "ja" : "最小 - 最大値",
+    "vi" : "Giá trị tối thiểu- tối đa",
+    "zh" : "最小 - 最多值"
+  },
+  "저장하시겠습니까?" : {
+    "en" : "Would you like to save?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu không?",
+    "zh" : "要保存吗？"
+  },
+  "개월" : {
+    "en" : "Month(s)",
+    "ja" : "ヶ月",
+    "vi" : "tháng",
+    "zh" : "个月"
+  },
+  "행 삭제" : {
+    "en" : "Delete row",
+    "ja" : "行の削除",
+    "vi" : "Xóa dòng",
+    "zh" : "删除行"
+  },
+  "신청 즉시 예약" : {
+    "en" : "Book Immediately Upon Application",
+    "ja" : "申請即時予約",
+    "vi" : "Đặt trước ngay lập tức",
+    "zh" : "申请即时预订"
+  },
+  "이미 처리된 내역입니다." : {
+    "en" : "This item has already been processed.",
+    "ja" : "すでに処理済みの内訳です。",
+    "vi" : "Nội dung đã được xử lý.",
+    "zh" : "记录已处理。"
+  },
+  "소회의실" : {
+    "en" : "Small conference room",
+    "ja" : "小会議室",
+    "vi" : "Phòng họp nhỏ",
+    "zh" : "小会议室"
+  },
+  "취소반려" : {
+    "en" : "Reject Cancellation",
+    "ja" : "差戻し",
+    "vi" : "Từ chối hủy",
+    "zh" : "退回取消"
+  },
+  "포함하지 않는" : {
+    "en" : "Not including",
+    "ja" : "含まない",
+    "vi" : "không bao gồm",
+    "zh" : "不包括"
+  },
+  "폴더 하위에 등록된 자원이 있습니다. \\n자원을 삭제 후 폴더를 삭제해주세요." : {
+    "en" : "There are resources registered to this folder. \\n Please delete the folder after deleting the resources.",
+    "ja" : "フォルダ下位に登録された資源があります。 \\ n資源を削除した後、フォルダを削除してください。",
+    "vi" : "Thư mục có các tài nguyên. \\nVui lòng xóa các tài nguyên trong thư mục để có thể tiến hành xóa thư mục.",
+    "zh" : "文件夹下位存在登录的资源。请删除\\n资源后删除文件夹。"
+  },
+  "컬럼명을 입력하세요." : {
+    "en" : "Enter column name.",
+    "ja" : "カラム名を入力してください。",
+    "vi" : "Hãy nhập tên cột",
+    "zh" : "请输入专栏名"
+  },
+  "관리자 승인 후 예약이 완료됩니다." : {
+    "en" : "The booking process will be completed after the admin's approval.",
+    "ja" : "管理者の承認後、予約が完了します。",
+    "vi" : "Đã hoàn thành đặt trước sau khi có phê duyệt người quản lý.",
+    "zh" : "管理者承认后预订完成。"
+  },
+  "예약을 확인하려면 아래 [예약보기]를 클릭하세요." : {
+    "en" : "Your booking request has been completed.",
+    "ja" : "予約を確認するには下記の［予約を見る］をクリックしてください。",
+    "vi" : "Nhấn vào [Xem đặt trước] dưới đây để kiểm tra đặt trước.",
+    "zh" : "要确认预约的话请点击下边[看预约]。"
+  },
+  "내 예약 목록" : {
+    "en" : "My Bookings List",
+    "ja" : "My予約リスト",
+    "vi" : "Danh sách đặt trước của tôi",
+    "zh" : "我的预订目录"
+  },
+  "읽기" : {
+    "en" : "Read",
+    "ja" : "読む",
+    "vi" : "Đọc",
+    "zh" : "读"
+  },
+  "검색 시작일자를 입력하세요." : {
+    "en" : "Enter a start date to search.",
+    "ja" : "検索開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu của tìm kiếm.",
+    "zh" : "请输入搜索开始日子。"
+  },
+  "예약조회" : {
+    "en" : "View bookings",
+    "ja" : "予約照会",
+    "vi" : "Xem đặt trước",
+    "zh" : "查询预订"
+  },
+  "화" : {
+    "en" : "Tue",
+    "ja" : "火",
+    "vi" : "Thứ ba",
+    "zh" : "星期二"
+  },
+  "예약완료(나)" : {
+    "en" : "Booking Complete (Me)",
+    "ja" : "予約完了（自分）",
+    "vi" : "Đã đặt (I)",
+    "zh" : "预约完了（我）"
+  },
+  "분류명 및 관련 정보를 입력한 후 [추가]를 클릭하세요." : {
+    "en" : "Enter a category name and related information and then click the [Add] button.",
+    "ja" : "カテゴリ名及び関連情報を入力後、[追加]をクリックしてください。",
+    "vi" : "Hãy nhấn [Thêm] sau khi nhập thông tin liên quan và tên danh mục.",
+    "zh" : "请输入分类名及有关信息后点击[追加}。"
+  },
+  "대리예약자" : {
+    "en" : "Booking Agent (Book on Behalf)",
+    "ja" : "代理予約者",
+    "vi" : "Đại diện đặt chỗ",
+    "zh" : "代替预订人"
+  },
+  "검색 종료일자를 입력하세요." : {
+    "en" : "Enter an end date to search.",
+    "ja" : "検索終了日を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc của tìm kiếm.",
+    "zh" : "请输入搜索结束日子。"
+  },
+  "접기/펴기" : {
+    "en" : "Hide/Show",
+    "ja" : "閉じる/開く",
+    "vi" : "Ẩn/Hiện",
+    "zh" : "折叠/翻开"
+  },
+  "예약건수" : {
+    "en" : "Total No. of Bookings",
+    "ja" : "予約件数",
+    "vi" : "Tổng số đặt trước",
+    "zh" : "预约件数"
+  },
+  "모바일에서는 지원하지 않습니다." : {
+    "en" : "Not supported in mobile",
+    "ja" : "モバイルからはサポートしていません。",
+    "vi" : "Không được hỗ trợ trên Di động",
+    "zh" : "在移动通信不支援。"
+  },
+  "기간제한" : {
+    "en" : "Period limit",
+    "ja" : "期間制限",
+    "vi" : "Giới hạn khoảng thời gian",
+    "zh" : "期间限制"
+  },
+  "사용자명, 부서명" : {
+    "en" : "User Name, Department Name",
+    "ja" : "ユーザー名、部署名",
+    "vi" : "Tên người dùng, tên bộ phận",
+    "zh" : "使用者名，部门名。"
+  },
+  "반응형 레이아웃" : {
+    "en" : "Responsive layout",
+    "ja" : "反応型レイアウト",
+    "vi" : "Bố cục linh hoạt",
+    "zh" : "反映形布局"
+  },
+  "등록 되었습니다." : {
+    "en" : "Successfully added.",
+    "ja" : "登録されました。",
+    "vi" : "Đã được đăng ký.",
+    "zh" : "登录完了。"
+  },
+  "자원등록 시 해당 컬럼이 표시됩니다." : {
+    "en" : "When registering a resource, the column will be shown.",
+    "ja" : "資源登録時に、該当のカラムが表示されます。",
+    "vi" : "Khi đăng ký tài khuyên sẽ được biểu thị theo cột tương ứng.",
+    "zh" : "登录资源时表示出有关专栏"
+  },
+  "자원예약 권한이 없습니다." : {
+    "en" : "You don't have permission to book resources.",
+    "ja" : "資源予約の権限がありません。",
+    "vi" : "Bạn không có quyền tiến hành đặt trước nguồn lực/tài nguyên.",
+    "zh" : "没有预订资源的权限。"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "FAX番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "필드 추가" : {
+    "en" : "Insert field",
+    "ja" : "フィールド追加",
+    "vi" : "Thêm trường",
+    "zh" : "追加字段"
+  },
+  "하위폴더포함" : {
+    "en" : "Include sub-folders",
+    "ja" : "下位フォルダ",
+    "vi" : "Bao gồm thư mục dưới",
+    "zh" : "包括下位文件夹"
+  },
+  "일까지" : {
+    "en" : "Until { }",
+    "ja" : "日まで",
+    "vi" : "đến (  ) ngày",
+    "zh" : "到（）日"
+  },
+  "사용시간" : {
+    "en" : "Use time",
+    "ja" : "使用時間",
+    "vi" : "Thời gian sử dụng",
+    "zh" : "使用时间"
+  },
+  "로그 삭제 주기" : {
+    "en" : "Log deletion cycle",
+    "ja" : "ログを削除する周期",
+    "vi" : "Chu kì xóa nhật ký",
+    "zh" : "登录删除周期"
+  },
+  "수정되었습니다." : {
+    "en" : "It has been modified.",
+    "ja" : "修正されました。",
+    "vi" : "Đã được sửa.",
+    "zh" : "修改完了。"
+  },
+  "부서별" : {
+    "en" : "by department",
+    "ja" : "部署別",
+    "vi" : "Theo từng bộ phận",
+    "zh" : "各个部门"
+  },
+  "승인 예약을 제외한 나머지 예약에 대한 반려 사유를 입력하세요." : {
+    "en" : "Please type a reason for rejection of the remaining bookings except the approval booking.",
+    "ja" : "承認予約以外の差戻し予約について差戻し理由を入力してください。",
+    "vi" : "Hãy nhập lý do từ chối cho đặt trước còn lại, ngoại trừ phê duyệt đặt trước.",
+    "zh" : "请输入除了承认预约以外预约的退回原因。"
+  },
+  "자원순서" : {
+    "en" : "Resource order.",
+    "ja" : "字源順序",
+    "vi" : "Thứ tự tài nguyên.",
+    "zh" : "资源顺序"
+  },
+  "사용기간" : {
+    "en" : "Usage Period",
+    "ja" : "使用期間",
+    "vi" : "Khi",
+    "zh" : "使用期间"
+  },
+  "{0} 항목은 필수 입력항목입니다." : {
+    "en" : "You must enter item {0}.",
+    "ja" : "{0}項目は必須選択項目です。",
+    "vi" : "{0} mục là bắt buộc.",
+    "zh" : "{0} 项目是必须选择的项目。"
+  },
+  "선택한 자원을 수정합니다." : {
+    "en" : "Modify the selected resource.",
+    "ja" : "選択した資源を修正します。",
+    "vi" : "Sửa tài nguyên đã chọn.",
+    "zh" : "修改您选择的资源。"
+  },
+  "일 전" : {
+    "en" : "Days ago",
+    "ja" : "日前",
+    "vi" : "trước… ngày",
+    "zh" : "前"
+  },
+  "말머리" : {
+    "en" : "Heading",
+    "ja" : "ラベル",
+    "vi" : "Lời nói đầu",
+    "zh" : "话头"
+  },
+  "공유받은 예약" : {
+    "en" : "Shared bookings",
+    "ja" : "共有した予約",
+    "vi" : "Đặt trước được chia sẻ",
+    "zh" : "受到共有的预约"
+  },
+  "이 페이지로부터 벗어 나시겠습니까?\\n\\n현재 작성 중인 내용이 모두 삭제됩니다.\\n\\n계속하려면 [확인]을 클릭하고 현재 페이지에 있으려면 [취소]를 클릭하세요." : {
+    "en" : "Do you want to get out from this page?\\n\\n All progress will be lost.\\n\\nIf you want to continue, click the [OK] button. If you wish to stay on this page, click the [Cancel] button.",
+    "ja" : "このページから移動しますか？\\n\\n現在作成中の内容が全部削除されます。\\n\\n作業を続ける場合は[確認]を、このページを維持する場合は[キャンセル]をクリックしてください。",
+    "vi" : "Bạn có muốn thoát khỏi trang này không? \\n\\nNội dung đang viết hiện tại sẽ bị xóa hết. \\n\\nNếu muốn tiếp tục, nhấn vào [Xác nhận], nếu muốn ở lại trang hiện tại, nhấn vào [Hủy].",
+    "zh" : "要离开这一页吗？\\n\\n现在制作中的内容会全部删除。要\\n\\n继续进行的话点击[确认]不离开这一页的话点击[取消]。"
+  },
+  "반납취소신청이 접수되었습니다." : {
+    "en" : "The request to cancel return has been submitted.",
+    "ja" : "返却キャンセル申請が受理されました。",
+    "vi" : "Đã nộp đăng ký hủy hoàn trả",
+    "zh" : "取消退回申请接受完了。"
+  },
+  "열기" : {
+    "en" : "Open",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "자원예약알림" : {
+    "en" : "Resource booking notifications",
+    "ja" : "資源予約通知",
+    "vi" : "Thông báo đặt trước tài nguyên",
+    "zh" : "资源预约提醒"
+  },
+  "예외발생. 잠시 후 다시 시도하세요." : {
+    "en" : "An exception has occurred. Please try again after a while.",
+    "ja" : "例外発生。しばらくしてからもう一度お試しください。",
+    "vi" : "Phát sinh ngoại lệ. Xin hãy thử lại sau giây lát.",
+    "zh" : "发生意外。请稍后再试试。"
+  },
+  "대여완료" : {
+    "en" : "Rent/Borrow Complete",
+    "ja" : "貸出完了",
+    "vi" : "Đã xuất",
+    "zh" : "借贷完了"
+  },
+  "예약내용" : {
+    "en" : "Booking details",
+    "ja" : "予約内容",
+    "vi" : "Nội dung đặt trước",
+    "zh" : "预订内容"
+  },
+  "반납이 필요한 자원입니다. 사용 후 반드시 반납해야 합니다." : {
+    "en" : "The resource must be returned. You must return it after use.",
+    "ja" : "返却が必要な資源です。使用後、必ずご返却 ください。",
+    "vi" : "Đây là tài nguyên cần hoàn trả. Sau khi sử dụng, bạn nhất định cần trả lại.",
+    "zh" : "需要退还的资源。使用后必须得退还。"
+  },
+  "부분취소" : {
+    "en" : "Cancel (Partially)",
+    "ja" : "部分キャンセル",
+    "vi" : "Hủy một phần",
+    "zh" : "部分取消"
+  },
+  "예약 신청시 입력 항목" : {
+    "en" : "Items that you must enter when requesting a reservation",
+    "ja" : "予約申請時の入力項目",
+    "vi" : "Trường cần nhập khi đăng ký đặt trước",
+    "zh" : "预约申请时输入项目"
+  },
+  "각각의 타임 슬롯은 10분을 표시합니다." : {
+    "en" : "Each time slot means '10 minutes'.",
+    "ja" : "それぞれのタイムスロットは、10分を表示します。",
+    "vi" : "Biểu thị mỗi khung thời gian là 10 phút",
+    "zh" : "各个时间插槽表示10分。"
+  },
+  "정상적으로 삭제되었습니다.\\n왼쪽 트리 메뉴를 새로 고침하시겠습니까?" : {
+    "en" : "It has been successfully deleted. Would you like to refresh the tree menu (left side)?",
+    "ja" : "正常に削除されました。\\n左側のツリーメニューをリロードしますか?",
+    "vi" : "Đã xóa được bình thường. \\n Bạn có muốn làm mới cây menu bên trái không?",
+    "zh" : "正常删除完了。要更新\\n右边路径项目吗?"
+  },
+  "가능" : {
+    "en" : "Enable",
+    "ja" : "可能",
+    "vi" : "Kích hoạt",
+    "zh" : "可以"
+  },
+  "선택 예약을" : {
+    "en" : "selected booking",
+    "ja" : "選択予約を",
+    "vi" : "đặt trước đã chọn",
+    "zh" : "选择的预约"
+  },
+  "즉시예약제 자원은 대여자원으로 이동할 수 없습니다." : {
+    "en" : "Resources that can be booked immediately cannot be moved to 'Rental Resources'",
+    "ja" : "即時予約制資源は、レンタル資源に移動することができません。",
+    "vi" : "Không thể di chuyển nguồn tài nguyên đặt trước ngay lập tức sang nguồn tài có sẵn.",
+    "zh" : "立即预约制资源不可移动到出租资源。"
+  },
+  "공유삭제" : {
+    "en" : "Delete sharing",
+    "ja" : "共有削除",
+    "vi" : "Xóa chia sẻ",
+    "zh" : "删除共有"
+  },
+  "쪽지" : {
+    "en" : "Message",
+    "ja" : "メッセージ",
+    "vi" : "Lời nhắn",
+    "zh" : "纸条"
+  },
+  "대리" : {
+    "en" : "Proxy",
+    "ja" : "代理",
+    "vi" : "Đại diện thay thế",
+    "zh" : "代办"
+  },
+  "예약자" : {
+    "en" : "Booked by",
+    "ja" : "予約者",
+    "vi" : "Người đặt trước",
+    "zh" : "预订者"
+  },
+  "예약자 선택" : {
+    "en" : "Booked by",
+    "ja" : "予約者選択",
+    "vi" : "Chọn người đặt trước",
+    "zh" : "选择预约人"
+  },
+  "{0}님께서 {1} 예약이 {2}되었습니다." : {
+    "en" : "Mr./Ms.{0}'s booking for {1} has been {2}.",
+    "ja" : "{0}さんの {1} 予約が {2}できました。",
+    "vi" : "Đăng ký đặt trước {1} của anh/ chị {0} đã được {2}.",
+    "zh" : "{0}先生（女士） {1}预订 {2}完了。"
+  },
+  "자원관리자의 승인 후 예약신청 됩니다." : {
+    "en" : "Your booking request will be accepted upon the approval of the resource admin.",
+    "ja" : "資源管理者の承認後に予約申請されます。",
+    "vi" : "Việc đặt trước tài nguyên của bạn có thể được lên lịch sau khi người quản lý tài nguyên phê duyệt.",
+    "zh" : "资源管理者承认后进行预约申请。"
+  },
+  "분류 수정" : {
+    "en" : "Modify category",
+    "ja" : "カテゴリ修正",
+    "vi" : "Sửa danh mục",
+    "zh" : "修改分类"
+  },
+  "모두" : {
+    "en" : "All",
+    "ja" : "すべて",
+    "vi" : "tất cả",
+    "zh" : "全部"
+  },
+  "선택하신 예약이 반납처리되었습니다." : {
+    "en" : "The selected booking has been returned.",
+    "ja" : "選択した予約が返却処理されました。",
+    "vi" : "Yêu cầu đặt trước của bạn đã bị trả về.",
+    "zh" : "选择的预约退回处理了。"
+  },
+  "분류 추가" : {
+    "en" : "Add categories",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm danh mục",
+    "zh" : "追加分类"
+  },
+  "기간 일치" : {
+    "en" : "Match the period",
+    "ja" : "期間一致",
+    "vi" : "Khớp với khoảng thời gian",
+    "zh" : "匹配期限"
+  },
+  "예약 신청 완료 후 바로 대여되며, 종료시간 이후 자동 반납처리 됩니다." : {
+    "en" : "The resource becomes available immediately after reservations and will be returned automatically after the expiration.",
+    "ja" : "予約の申し込みが完了すると、すぐにレンタルされて、終了時間以降に自動的に返却処理されます。",
+    "vi" : "Có thể mượn ngay sau khi hoàn thành đăng ký hẹn trước, sau khi thời gian kết thúc sẽ được xử lý tự động trả lại.",
+    "zh" : "在完成预约申请后即可马上租借，于时间限制后自动返还。"
+  },
+  "자원 등록" : {
+    "en" : "Add a resource",
+    "ja" : "資源登録",
+    "vi" : "Thêm tài nguyên",
+    "zh" : "资源登录"
+  },
+  "완전삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete it permanently?",
+    "ja" : "完全削除しますか？",
+    "vi" : "Bạn có muốn xóa hoàn toàn không?",
+    "zh" : "要完全删除吗？"
+  },
+  "자원대리예약자는 본인 외 다른 사용자로 설정할 수 있습니다." : {
+    "en" : "You can set another person as the resource booking delegate.",
+    "ja" : "資源代理予約者は本人以外のユーザーで選択できます。",
+    "vi" : "Có thể chọn người khác làm Đại diện đặt trước tài nguyên.",
+    "zh" : "资源代理预约者可设定为本人以外的其他用户。"
+  },
+  "[자원예약] {0} 예약변경신청입니다." : {
+    "en" : "[Resource Booking] {0} Resource Booking Modification request.",
+    "ja" : "[資源予約] {0} 予約変更申請です。",
+    "vi" : "[Đặt trước tài nguyên] đăng ký thay đổi đặt trước {0}.",
+    "zh" : "[预订资源] {0} 变更预订申请。"
+  },
+  "반복 일정 수정" : {
+    "en" : "Edit Repeated Event",
+    "ja" : "繰り返しスケジュールを修正",
+    "vi" : "Sửa sự kiện lặp lại",
+    "zh" : "修改反复日程"
+  },
+  "적용" : {
+    "en" : "Apply",
+    "ja" : "適用",
+    "vi" : "Áp dụng",
+    "zh" : "适用"
+  },
+  "월" : {
+    "en" : "Mon",
+    "ja" : "月",
+    "vi" : "Thứ hai",
+    "zh" : "星期一"
+  },
+  "기존 이미지 삭제" : {
+    "en" : "Delete existing image.",
+    "ja" : "既存の画像削除",
+    "vi" : "Xóa hình ảnh hiện tại",
+    "zh" : "删除现有图象"
+  },
+  "반납 정보 입력" : {
+    "en" : "Type return information",
+    "ja" : "返却情報の入力",
+    "vi" : "Nhập thông tin hoàn trả",
+    "zh" : "输入退回信息"
+  },
+  "사용자를 선택하세요." : {
+    "en" : "Please select a user.",
+    "ja" : "ユーザーを選択してください。",
+    "vi" : "Vui lòng chọn người dùng.",
+    "zh" : "请选择使用者。"
+  },
+  "배치 유형 선택" : {
+    "en" : "Select an arrangement type",
+    "ja" : "配置タイプの選択",
+    "vi" : "Lựa chọn loại hình bố trí",
+    "zh" : "选择配置类型"
+  },
+  "예약시간" : {
+    "en" : "Booked Time",
+    "ja" : "予約期間",
+    "vi" : "Thời gian đặt trước",
+    "zh" : "预订期间"
+  },
+  "반납정보" : {
+    "en" : "Information (Return)",
+    "ja" : "返却情報",
+    "vi" : "Thông tin trả",
+    "zh" : "返还信息"
+  },
+  "목록설정" : {
+    "en" : "List settings",
+    "ja" : "リスト設定",
+    "vi" : "Thiết lập danh sách",
+    "zh" : "设定目录"
+  },
+  "그룹자원" : {
+    "en" : "Group resources",
+    "ja" : "グループ資源",
+    "vi" : "Tài nguyên nhóm",
+    "zh" : "小组资源"
+  },
+  "템플릿 명" : {
+    "en" : "Template name",
+    "ja" : "テンプレート名",
+    "vi" : "Tên mẫu",
+    "zh" : "模板名"
+  },
+  "최근 예약 선택" : {
+    "en" : "Select recent booking",
+    "ja" : "最新予約選択",
+    "vi" : "Chọn đặt trước gần đây",
+    "zh" : "选择最近预约"
+  },
+  "전체보기" : {
+    "en" : "View all",
+    "ja" : "全体表示",
+    "vi" : "Xem tất cả",
+    "zh" : "看全体"
+  },
+  "컬럼명" : {
+    "en" : "Column name",
+    "ja" : "カラム名",
+    "vi" : "Tên cột",
+    "zh" : "专栏名"
+  },
+  "선택하신 예약에 등록된 자원 \\n{0} 는(은) 휴일에 사용할 수 없습니다." : {
+    "en" : "The resource \\n{0} in the booking you've selected cannot be used during the holidays.",
+    "ja" : "選択した予約に登録された資源\\n{0} は休日には使用できません。",
+    "vi" : "Nguồn tài nguyên \\n{0} đăng ký đặt trước đã chọn không thể sử dụng vào ngày lễ.",
+    "zh" : "选择的预约里登录的资源 \\n{0} 休息日不可使用。"
+  },
+  "가능시간" : {
+    "en" : "Available time",
+    "ja" : "可能時間",
+    "vi" : "Thời gian sẵn sàng",
+    "zh" : "可以时间"
+  },
+  "{0} 에 {1} 자원을 중지해제 하였습니다." : {
+    "en" : "Resource {1} has been unsuspended on {0}.",
+    "ja" : "{0} に {1}資源を中止解除しました。",
+    "vi" : "Tại{0}, {1} Tài nguyên đã bị bỏ khỏi trạng thái Dừng.",
+    "zh" : "终止并删除{0}中的{1}资源。"
+  },
+  "선택한 시간에는 해당 자원을 예약할 수 없습니다." : {
+    "en" : "The resource is not available at the selected time.",
+    "ja" : "選択した時間には、該当資源を予約することができません。",
+    "vi" : "Tài nguyên hiện không có sẵn tại thời gian đã chọn.",
+    "zh" : "选择的时间不可预约有关资源。"
+  },
+  "시작시간과 종료 시간을 선택해주세요." : {
+    "en" : "Please select start and end times.",
+    "ja" : "開始時間と終了時間を選択してください。",
+    "vi" : "Vui lòng chọn thời gian bắt đầu và kết thúc.",
+    "zh" : "请选择开始时间和结束时间。"
+  },
+  "삭제하는데 실패했습니다.\\n확인 후 다시 시도하세요." : {
+    "en" : "Failed to delete.\\nPlease check and try again later.",
+    "ja" : "削除に失敗しました。\\nご確認の上、もう一度お試しください。",
+    "vi" : "Đã thất bại trong việc xóa. \\n Xin hãy kiểm tra và thử lại.",
+    "zh" : "删除失败了。请\\n确认后再试试。"
+  },
+  "{0} 항목은 {1}자 이상 입력해야 합니다." : {
+    "en" : "{0} item must be more than {1} characters.",
+    "ja" : "{0}項目は{1}文字以上で入力する必要があります。",
+    "vi" : "Mục {0} phải có nhiều hơn {1} ký tự.",
+    "zh" : "{0} 项目得输入 {1}字以上。"
+  },
+  "예약자직책" : {
+    "en" : "Job Title (Reserver)",
+    "ja" : "予約者の役職",
+    "vi" : "Chức trách người đặt trước",
+    "zh" : "预约者职责"
+  },
+  "관심자원 추가" : {
+    "en" : "Add to Favorite Resources",
+    "ja" : "お気に入り資源の追加",
+    "vi" : "Thêm tài nguyên quan tâm",
+    "zh" : "追加关心资源"
+  },
+  "선택하신 예약에 등록된 자원 \\n{0} 이(가) 이미 사용 중입니다." : {
+    "en" : "The resource \\n{0} in the booking you've selected is not available.",
+    "ja" : "選択した予約に登録された資源\\n{0} が既に使用中です。",
+    "vi" : "Nguồn tài nguyên \\n{0} đặt trước đã chọn hiện đang được sử dụng.",
+    "zh" : "选择的预约里登录的资源 \\n{3} 已经使用中。"
+  },
+  "분류명을 입력하세요." : {
+    "en" : "Enter a category name.",
+    "ja" : "カテゴリ名を入力してください。",
+    "vi" : "Hãy nhập tên danh mục.",
+    "zh" : "请输入分类名。"
+  },
+  "선택하신 예약을 취소하시겠습니까?" : {
+    "en" : "Do you want to cancel the selected booking?",
+    "ja" : "選択した予約をキャンセルしますか？",
+    "vi" : "Bạn có muốn hủy đặt trước đã chọn không?",
+    "zh" : "要取消您选择的预约吗？"
+  },
+  "부동소수" : {
+    "en" : "Floating number",
+    "ja" : "浮動小数",
+    "vi" : "Số thực dấu phẩy động",
+    "zh" : "浮点"
+  },
+  "검색식 선택" : {
+    "en" : "Select Search Formula",
+    "ja" : "検索式を選択",
+    "vi" : "Chọn công thức tìm kiếm",
+    "zh" : "选择搜索式"
+  },
+  "전체 분류" : {
+    "en" : "All Categories",
+    "ja" : "全体カテゴリー",
+    "vi" : "Tất cả danh mục",
+    "zh" : "全部分类"
+  },
+  "사용중지가 해제되었습니다." : {
+    "en" : "It has been unsuspended.",
+    "ja" : "使用中止が解除されました。",
+    "vi" : "Đã hủy bỏ ngừng sử dụng",
+    "zh" : "解除停止使用了。"
+  },
+  "첨부파일을 선택하세요." : {
+    "en" : "Please select files to attach.",
+    "ja" : "添付ファイルを選択してください",
+    "vi" : "Vui lòng chọn file đính kèm",
+    "zh" : "请选择附件。"
+  },
+  "컬럼을 선택해주세요." : {
+    "en" : "Select a column",
+    "ja" : "カラムを選択してください。",
+    "vi" : "Chọn một cột",
+    "zh" : "请选择专栏。"
+  },
+  "본인의 자원예약 대리인을 설정할 수 있습니다." : {
+    "en" : "You can set up a delegate who will perform resource booking on behalf of you.",
+    "ja" : "本人の資源予約代理人を設定できます。",
+    "vi" : "Bạn có thể thiết lập đại diện đặt trước cho mình",
+    "zh" : "可以设定自己的资源预约代替人。"
+  },
+  "이전" : {
+    "en" : "Previous",
+    "ja" : "前",
+    "vi" : "Trước",
+    "zh" : "前一个"
+  },
+  "승인 예약 선택" : {
+    "en" : "Select Approval Booking",
+    "ja" : "承認予約選択",
+    "vi" : "Chọn phê duyệt đặt trước",
+    "zh" : "选择承认预约"
+  },
+  "<strong>{0}</strong> 에 <strong>{1}</strong> 자원을 중지해제 하였습니다." : {
+    "en" : "Resource <strong>{1}</strong> has been unsuspended on <strong>{0}</strong>.",
+    "ja" : "<strong>{0}</strong> に <strong>{1}</strong>資源を中止解除しました。",
+    "vi" : "Tại<strong>{0}</strong>, <strong>{1}</strong> Tài nguyên đã bị bỏ khỏi trạng thái Dừng.",
+    "zh" : "终止并删除<strong>{0}</strong>中的<strong>{1}</strong>资源。"
+  },
+  "중지해제 하시겠습니까?" : {
+    "en" : "Do you want to unsuspend it?",
+    "ja" : "中止解除しますか？",
+    "vi" : "Bạn có muốn hủy bỏ ngừng không?",
+    "zh" : "要解除停止吗？"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "폴더 내의 자원들도 모두 삭제됩니다 \\n 삭제하시겠습니까?" : {
+    "en" : "All of the resources in the folder will be deleted, too. \\n Are you sure you want to delete the folder?",
+    "ja" : "フォルダ内のリ資源もすべて削除されます\\n 削除しますか？",
+    "vi" : "Tất cả tài nguyên trong thư mục cũng sẽ bị xóa. Bạn có muốn xóa không?",
+    "zh" : "文件夹里的资源也会被删除。\\n 要删除吗？"
+  },
+  "주마다" : {
+    "en" : "Every week",
+    "ja" : "週ごとに",
+    "vi" : "Mỗi tuần",
+    "zh" : "每周"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト型",
+    "vi" : "Loại danh sách",
+    "zh" : "目录形"
+  },
+  "부분반려" : {
+    "en" : "Reject (Partially)",
+    "ja" : "部分差戻し",
+    "vi" : "Từ chối một phần",
+    "zh" : "部分退回"
+  },
+  "시작일" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日"
+  },
+  "예약일시" : {
+    "en" : "Date",
+    "ja" : "予約日時",
+    "vi" : "Ngày đặt trước",
+    "zh" : "预约日时"
+  },
+  "자원이 없습니다" : {
+    "en" : "There is no resource.",
+    "ja" : "資源がありません",
+    "vi" : "Không có tài nguyên",
+    "zh" : "没有资源。"
+  },
+  "자원 추가 정보" : {
+    "en" : "Additional information for the resource",
+    "ja" : "資源追加情報",
+    "vi" : "Thông tin tài nguyên bổ sung",
+    "zh" : "资源附加信息"
+  },
+  "반려" : {
+    "en" : "Reject",
+    "ja" : "差戻し",
+    "vi" : "Từ chối",
+    "zh" : "发还"
+  },
+  "자원을 중지해제 하였습니다." : {
+    "en" : "The resource has been successfully unsuspended.",
+    "ja" : "資源を中止解除しました。",
+    "vi" : "Đã ngưng dừng nguồn tài nguyên (có thể sư dụng)",
+    "zh" : "资源解除停止了。"
+  },
+  "선택한 예약에 대한 권한이 없습니다." : {
+    "en" : "You are not authorized for the selected reservation",
+    "ja" : "選択した予約に対する権限がありません。",
+    "vi" : "Không có quyền hạn đặt trước đã chọn.",
+    "zh" : "没有权限进行选中的预约"
+  },
+  "자원 목록" : {
+    "en" : "List of resources",
+    "ja" : "資源リスト",
+    "vi" : "Danh sách tài nguyên",
+    "zh" : "资源目录"
+  },
+  "예약 공유자" : {
+    "en" : "Sharer (Booking)",
+    "ja" : "予約の共有者",
+    "vi" : "Người chia sẻ đặt trước",
+    "zh" : "预约共有人。"
+  },
+  "파일 선택" : {
+    "en" : "Select files",
+    "ja" : "ファイル選択",
+    "vi" : "Chọn file",
+    "zh" : "选择文档"
+  },
+  "선택한 자원을 대상 폴더 하위로 이동합니다." : {
+    "en" : "Move the selected resource to the selected folder.",
+    "ja" : "選択した資源を対象フォルダ下位に移動します。",
+    "vi" : "Di chuyển tài nguyên đã chọn xuống dưới thư mục đã chọn.",
+    "zh" : "把选择的资源移动到对象文件夹下位。"
+  },
+  "기존첨부" : {
+    "en" : "Existing attachment",
+    "ja" : "既存の添付",
+    "vi" : "Đính kèm đã tồn tại",
+    "zh" : "現有的附件"
+  },
+  "폴더 삭제" : {
+    "en" : "Delete folder",
+    "ja" : "フォルダ削除",
+    "vi" : "Xóa thư mục",
+    "zh" : "删除文件夹"
+  },
+  "예약불가한 자원이 포함되어있습니다." : {
+    "en" : "Unavailable resources are included.",
+    "ja" : "予約不可な資源が含まれています。",
+    "vi" : "Đã bao gồm các tài nguyên không khả dụng.",
+    "zh" : "包括着不可预约的资源。"
+  },
+  "선택하신 예약에 등록된 자원 \\n{0} 이(가) 사용중지상태입니다." : {
+    "en" : "The resource \\n{0} in the booking you've selected is suspended.",
+    "ja" : "選択した予約に登録された資源\\n{0} が使用中止の状態です。",
+    "vi" : "Nguồn tài nguyên \\n{0} đăng ký đặt trước đã chọn đang ngừng sử dụng.",
+    "zh" : "选择的预约里登录的资源 \\n{0} 停止使用状态。"
+  },
+  "일부터" : {
+    "en" : "From ( )",
+    "ja" : "日から",
+    "vi" : "Từ ngày",
+    "zh" : "从（）日"
+  },
+  "목록에서 조회할 자원정보를 선택하세요." : {
+    "en" : "Please select the resource that you wish to view its information from the list.",
+    "ja" : "リストから照会する資源情報を選択してください。",
+    "vi" : "Hãy nhập thông tin nguồn tài nguyên để hiển thị trên danh sách.",
+    "zh" : "请在目录选择要查询的资源信息。"
+  },
+  "회의실 / 법인차량" : {
+    "en" : "Conference Room / Company Vehicle",
+    "ja" : "会議室/法人車両",
+    "vi" : "Phòng hội nghị / xe công ty",
+    "zh" : "会议室/法人车辆"
+  },
+  "일정등록시에는 반복예약을 할 수 없습니다." : {
+    "en" : "You cannot make a repeat booking when adding a new schedule.",
+    "ja" : "スケジュール登録時には、繰返し予約をすることができません。",
+    "vi" : "Không được phép đặt chỗ lặp lại trong lúc có lịch trình mới đang được thêm vào.",
+    "zh" : "登录日程时不可反复预约。"
+  },
+  "반복예약취소 신청이 접수되었습니다." : {
+    "en" : "Your request on cancelling a repeat booking has been submitted.",
+    "ja" : "繰返し予約キャンセルの申請を受け付けました。",
+    "vi" : "Lặp lại hủy đặt trước đã đăng ký",
+    "zh" : "取消反复预约申请接受完了。"
+  },
+  "컬럼 수정" : {
+    "en" : "Edit column",
+    "ja" : "カラム修正",
+    "vi" : "Sửa cột",
+    "zh" : "修改专栏"
+  },
+  "주중 매일(월-금)" : {
+    "en" : "Weekdays (Mon. - Fri.)",
+    "ja" : "平日毎日(月-金)",
+    "vi" : "Ngày trong tuần (Thứ 2- Thứ 6)",
+    "zh" : "周中每天（周一~五）"
+  },
+  "일간 예약페이지" : {
+    "en" : "Daily booking page",
+    "ja" : "日間予約ページ",
+    "vi" : "Trang đặt trước theo ngày",
+    "zh" : "日间预订的网页"
+  },
+  "예약완료" : {
+    "en" : "Booking Complete",
+    "ja" : "予約完了",
+    "vi" : "Hoàn thành đặt trước",
+    "zh" : "预约完了"
+  },
+  "예약자사번" : {
+    "en" : "Employee No. (Reserver)",
+    "ja" : "予約者の社員番号",
+    "vi" : "Mã số nhân viên người đặt trước",
+    "zh" : "预约者职员号码"
+  },
+  "반복은 시작일을 기준으로 설정합니다. 시작일의 요일 혹은 시작일의 날짜를 기준으로 반복됩니다." : {
+    "en" : "The ‘Repeat’ function is set based on the start date. It repeats based on the day of or the date of the start day.",
+    "ja" : "繰返しは開始日を基準に設定します。開始日の曜日あるいは日付を基準として繰り返します。",
+    "vi" : "Sau khi yêu cầu đặt trước được quản trị viên chấp thuận, một thông báo sẽ được gửi đến người đã yêu cầu đặt trước, và các chi tiết đặt trước sẽ được chia sẻ và sẽ hiển thị trên Xem đặt trước của tôi.",
+    "zh" : "反复设定是开始日为其准。开始日的星期或日子为基准进行反复。"
+  },
+  "제목을 입력하세요." : {
+    "en" : "Enter a title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề",
+    "zh" : "请输入题目。"
+  },
+  "복원되었습니다." : {
+    "en" : "Successfully restored.",
+    "ja" : "復元されました。",
+    "vi" : "Đã được khôi phục.",
+    "zh" : "已复原。"
+  },
+  "반복 주기" : {
+    "en" : "Repeat Cycle",
+    "ja" : "繰り返し周期",
+    "vi" : "Chu kì lặp lại",
+    "zh" : "反复周期"
+  },
+  "자원 예약정보" : {
+    "en" : "Resource booking information",
+    "ja" : "資源予約情報",
+    "vi" : "Thông tin đặt trước tài nguyên",
+    "zh" : "资源预约信息"
+  },
+  "저장되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了."
+  },
+  "대여대기" : {
+    "en" : "Waiting (Rent/Borrow)",
+    "ja" : "貸出待機",
+    "vi" : "Chờ xuất",
+    "zh" : "等待借贷"
+  },
+  "문자열" : {
+    "en" : "String",
+    "ja" : "文字列",
+    "vi" : "Dòng tin nhắn",
+    "zh" : "字符串"
+  },
+  "예약자원이 대여되었습니다." : {
+    "en" : "Reservation resources have been borrowed.",
+    "ja" : "予約リソースが貸出されました。",
+    "vi" : "Các nguồn tài nguyên đặt chỗ đã được mượn.",
+    "zh" : "租用资源已租用。"
+  },
+  "미반납" : {
+    "en" : "Not Returned",
+    "ja" : "未返却",
+    "vi" : "Chưa trả lại",
+    "zh" : "未还"
+  },
+  "승인제 자원은 반드시 자원관리자를 지정해야 합니다." : {
+    "en" : "A resource manager must be appointed for the resources that require approval.",
+    "ja" : "承認制の資源は必ず資源の管理者を指定する必要があります。",
+    "vi" : "Nhất định phải chỉ định người quản lý tài nguyên trên phê duyệt tài nguyên.",
+    "zh" : "承认制资源一定得由资源管理者指定。"
+  },
+  "월의 날짜" : {
+    "en" : "Date of    month",
+    "ja" : "月の日付",
+    "vi" : "Ngày của tháng",
+    "zh" : "月的日子"
+  },
+  "일정삭제" : {
+    "en" : "Delete Schedule",
+    "ja" : "スケジュール削除",
+    "vi" : "Xóa sự kiện",
+    "zh" : "删除日程"
+  },
+  "쪽지 발송" : {
+    "en" : "Send a message",
+    "ja" : "メッセージ送信",
+    "vi" : "Gửi lời nhắn",
+    "zh" : "发送纸条"
+  },
+  "반납승인대기" : {
+    "en" : "Waiting for Approval (Return)",
+    "ja" : "返却承認待機",
+    "vi" : "Chờ phê duyệt để trả",
+    "zh" : "等待退回承认"
+  },
+  "자원 이동" : {
+    "en" : "Move resource",
+    "ja" : "資源移動",
+    "vi" : "Di chuyển tài nguyên",
+    "zh" : "资源移动"
+  },
+  "대여한 자원이 아직 반납되지 않았습니다." : {
+    "en" : "The resource has not yet been returned.",
+    "ja" : "貸出した資源はまだ返却されていません。",
+    "vi" : "Tài nguyên mượn vẫn chưa được hoàn trả.",
+    "zh" : "借贷的资源还没退回。"
+  },
+  "대리예약보기" : {
+    "en" : "View 'On Behalf Bookings'",
+    "ja" : "代理予約の表示",
+    "vi" : "Xem tài nguyên đã đặt của người đại diện",
+    "zh" : "看代替预订"
+  },
+  "이름 목록" : {
+    "en" : "Name List",
+    "ja" : "名前のリスト",
+    "vi" : "Danh sách tên",
+    "zh" : "名字目录"
+  },
+  "예약신청이 접수되었습니다." : {
+    "en" : "Your booking request has been submitted.",
+    "ja" : "予約申請を授受しました。",
+    "vi" : "Đăng ký đặt trước đã được chấp nhận.",
+    "zh" : "预约申请接收完了。"
+  },
+  "형식" : {
+    "en" : "Format",
+    "ja" : "フォーマット",
+    "vi" : "Định dạng",
+    "zh" : "形式"
+  },
+  "반려처리가 완료되었습니다." : {
+    "en" : "Successfully rejected.",
+    "ja" : "差戻し処理が完了しました。",
+    "vi" : "Bạn đã từ chối.",
+    "zh" : "退回处理完了。"
+  },
+  "자원등록" : {
+    "en" : "Add a resource",
+    "ja" : "資源登録",
+    "vi" : "Thêm tài nguyên",
+    "zh" : "资源登录"
+  },
+  "반납신청이 접수되었습니다." : {
+    "en" : "The request for return has been submitted.",
+    "ja" : "返却申請が受理されました。",
+    "vi" : "Đã nộp đăng ký hoàn trả.",
+    "zh" : "退回申请接受完了。"
+  },
+  "일반 자원" : {
+    "en" : "General resources",
+    "ja" : "一般資源",
+    "vi" : "Tài nguyên bình thường",
+    "zh" : "一般资源"
+  },
+  "예약 정보" : {
+    "en" : "Booking information",
+    "ja" : "予約情報",
+    "vi" : "Thông tin đặt trước",
+    "zh" : "预约信息"
+  },
+  "관심자원이 추가되었습니다." : {
+    "en" : "Added to 'Interesting Resources'",
+    "ja" : "お気に入り資源が追加されました。",
+    "vi" : "Đã thêm nguồn tài nguyên quan tâm.",
+    "zh" : "追加了关心资源"
+  },
+  "일" : {
+    "en" : "Sun",
+    "ja" : "日",
+    "vi" : "Chủ nhật",
+    "zh" : "星期日"
+  },
+  "선택한 자원을 삭제하시겠습니까?" : {
+    "en" : "Would you like to delete the selected resource?",
+    "ja" : "選択した資源を削除しますか?",
+    "vi" : "Bạn có muốn xóa tài nguyên đã chọn không?",
+    "zh" : "要删除您选择的资源吗？"
+  },
+  "자원수정" : {
+    "en" : "Modify Resources",
+    "ja" : "資源修正",
+    "vi" : "Sửa tài nguyên",
+    "zh" : "修改资源"
+  },
+  "반납" : {
+    "en" : "Returned",
+    "ja" : "返却",
+    "vi" : "Trả lại",
+    "zh" : "退还"
+  },
+  "파일첨부 기본개수" : {
+    "en" : "Default Number of Attachments",
+    "ja" : "ファイル添付の基本数",
+    "vi" : "Số file đính kèm mặc định",
+    "zh" : "附件基本个数"
+  },
+  "자원예약 시, 예약 시작 시간을 기준으로 미리 알림을 설정하여 사용할 알림 종류을 선택합니다." : {
+    "en" : "Select the notification type to use in advance when reserving a resource based on the reservation start time.",
+    "ja" : "リソースを予約する際は、予約開始時間を基準に事前の通知を設定し、使用する通知の種類を選択します。",
+    "vi" : "Khi đặt tài nguyên, hãy cài đặt thông báo trước dựa trên thời gian bắt đầu đặt và chọn loại thông báo để sử dụng.",
+    "zh" : "若预约资源，将以开始预约时间为准设定事前提醒并选择提醒种类。"
+  },
+  "분류는 하위 분류로 이동할 수 없습니다." : {
+    "en" : "The category cannot move under another category.",
+    "ja" : "カテゴリは下位分類に移動できません。",
+    "vi" : "Không thể di chuyển vị trí của danh mục.",
+    "zh" : "分类不可移动到下位分类。"
+  },
+  "예약을 확인하려면 아래 [공유받은 예약 보기]를 클릭하세요." : {
+    "en" : "To check the booking, click [View Shared Bookings].",
+    "ja" : "予約を確認するには下記の［共有した予約の内容を見る］をクリックしてください。",
+    "vi" : "Hãy nhấn vào [Xem đặt trước đã chia sẻ] dưới đây để kiểm tra đặt trước.",
+    "zh" : "要确认预约的话请点击下边[看接受共有的预约]。"
+  },
+  "종일" : {
+    "en" : "All-day",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "整天"
+  },
+  "폴더를 선택하세요." : {
+    "en" : "Select a folder",
+    "ja" : "フォルダを選択してください",
+    "vi" : "Hãy chọn thư mục",
+    "zh" : "请选择文件夹。"
+  },
+  "추가컬럼선택" : {
+    "en" : "Select additional column",
+    "ja" : "追加カラム選択",
+    "vi" : "Chọn cột thêm",
+    "zh" : "选择追加专栏"
+  },
+  "예약자휴대전화" : {
+    "en" : "Mobile Phone (Reserver)",
+    "ja" : "予約者の携帯電話",
+    "vi" : "Số điện thoại di động người đặt trước",
+    "zh" : "预约者手机号码"
+  },
+  "자원예약 캘린더" : {
+    "en" : "Resource booking Calendar",
+    "ja" : "資源予約カレンダー",
+    "vi" : "Lịch đặt trước tài nguyên",
+    "zh" : "管理资源预订的日历"
+  },
+  "대여승인" : {
+    "en" : "Approve (Rent/Borrow Request)",
+    "ja" : "貸出承認",
+    "vi" : "Phê duyệt chờ",
+    "zh" : "借贷承认"
+  },
+  "자원추가" : {
+    "en" : "Add resource",
+    "ja" : "資源追加",
+    "vi" : "Thêm tài nguyên",
+    "zh" : "追加资源"
+  },
+  "내보낼 예약내역이 없습니다." : {
+    "en" : "There are no booking history (details) to export.",
+    "ja" : "エクスポートする予約内容がありません",
+    "vi" : "Không có chi tiết đặt trước để xuất",
+    "zh" : "没有可以发出的预约细目。"
+  },
+  "추가 자원도 같이 삭제 됩니다. 삭제 하시겠습니까?" : {
+    "en" : "Additional resources will also be deleted. Do you want to proceed with the deletion?",
+    "ja" : "追加リソースも一緒に削除されます。削除しますか？",
+    "vi" : "Các tài nguyên bổ sung cũng sẽ bị xóa. Bạn có muốn tiếp tục xóa không?",
+    "zh" : "附加资源也将被删除。您确定要删除吗？"
+  },
+  "아니다" : {
+    "en" : "is not",
+    "ja" : "ではない",
+    "vi" : "không phải là",
+    "zh" : "不是"
+  },
+  "시간표시" : {
+    "en" : "Display time",
+    "ja" : "時間表示",
+    "vi" : "hiển thị thời gian",
+    "zh" : "表示时间"
+  },
+  "[자원예약] {0} 예약신청이 {1}되었습니다." : {
+    "en" : "[Resource booking] The request for booking {0} has been {1}.",
+    "ja" : "[資源予約] {0} 予約申請が {1}できました。",
+    "vi" : "[Đặt trước tài nguyên] Yêu cầu đặt trước{0} là {1}.",
+    "zh" : "[预订资源] {0} 申请预订{1}完了。"
+  },
+  "예약됨(나)" : {
+    "en" : "Successfully Booked (Me)",
+    "ja" : "予約済み（自分）",
+    "vi" : "Đã được đặt (Tôi)",
+    "zh" : "预约了（我）"
+  },
+  "예약 현황을 조회할 자원을 선택하세요." : {
+    "en" : "Please select a resource that you wish to view its booking status.",
+    "ja" : "予約状況を照会する資源を選択してください。",
+    "vi" : "Hãy chọn nguồn tài nguyên để xem chi tiết đặt trước.",
+    "zh" : "请选择要查询预约现况的资源。"
+  },
+  "한국어는 필수 입력 언어입니다. 입력하지 않은 언어는 한국어로 표시됩니다." : {
+    "en" : "Korean is set as the default language. All languages that have not been entered will be shown in Korean.",
+    "ja" : "韓国語は必須入力項目です。入力していない言語は韓国語で表示されます。",
+    "vi" : "Tiếng Hàn là ngôn ngữ nhập mặc định. Nếu bạn không chọn ngôn ngữ khác, tiếng Hàn sẽ được hiển thị.",
+    "zh" : "韩国语是必须输入的语言。没有输入的语言会表示为韩国语。"
+  },
+  "{0} 항목값은 {1} 이상이어야 합니다." : {
+    "en" : "The value of item {0} must be {1} or above.",
+    "ja" : "{0}項目値は{1}以上でなければなりません。",
+    "vi" : "Giá trị mục {0} phải trên {1}.",
+    "zh" : "{0} 项目值得 {1}以上。"
+  },
+  "자원기준" : {
+    "en" : "By resource",
+    "ja" : "資源の基準",
+    "vi" : "Theo tài nguyên",
+    "zh" : "资源基准"
+  },
+  "월간" : {
+    "en" : "Monthly",
+    "ja" : "月間",
+    "vi" : "Theo tháng",
+    "zh" : "月间"
+  },
+  "최소" : {
+    "en" : "Minimum",
+    "ja" : "最小",
+    "vi" : "Tối thiểu",
+    "zh" : "取消"
+  },
+  "매주 화요일, 목요일, 토요일," : {
+    "en" : "Every Tue., Thu., and Sat.",
+    "ja" : "毎週火曜日、木曜日、土曜日、",
+    "vi" : "Thứ 3, thứ 5, thứ 7 hàng tuần",
+    "zh" : "每星期二、星期四、星期六"
+  },
+  "사용권한자" : {
+    "en" : "User with Permission (to use)",
+    "ja" : "使用権限者",
+    "vi" : "Người có quyền sử dụng",
+    "zh" : "使用权限者"
+  },
+  "반려의견을 입력해 주세요." : {
+    "en" : "Enter a reason for rejection",
+    "ja" : "差戻し理由を入力してください。",
+    "vi" : "Hãy nhập lý do từ chối.",
+    "zh" : "请输入发还意见。"
+  },
+  "예약 취소 로그 삭제 주기" : {
+    "en" : "Booking cancellation log deletion cycle",
+    "ja" : "予約キャンセルログ削除周期",
+    "vi" : "Chu kì xóa nhật ký hủy đặt trước",
+    "zh" : "取消预约登录删除周期"
+  },
+  "이전 년도" : {
+    "en" : "Previous year",
+    "ja" : "前の年度",
+    "vi" : "Năm trước",
+    "zh" : "前一年"
+  },
+  "메일" : {
+    "en" : "E-mail",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "整天"
+  },
+  "선택한 자원을 묶을 분류명을 입력하세요." : {
+    "en" : "Please enter a category name to group the selected resources.",
+    "ja" : "選択した資源を結ぶカテゴリ名を入力してください。",
+    "vi" : "Hãy nhập tên danh mục nhóm nguồn tài nguyên đã chọn.",
+    "zh" : "请输入您选择资源要打环的分类名。"
+  },
+  "이번 일정만 수정" : {
+    "en" : "Delete this event only",
+    "ja" : "今回のスケジュールのみ修正",
+    "vi" : "Chỉ sửa sự kiện lần này",
+    "zh" : "只修改这次日程"
+  },
+  "사원번호" : {
+    "en" : "Emp. NO",
+    "ja" : "社員番号",
+    "vi" : "Mã số nhân viên",
+    "zh" : "员工序号"
+  },
+  "반납취소" : {
+    "en" : "Cancel return",
+    "ja" : "返却キャンセル",
+    "vi" : "Hủy hoàn trả",
+    "zh" : "取消返还"
+  },
+  "컬럼 레이아웃" : {
+    "en" : "Column layout",
+    "ja" : "カラムレイアウト",
+    "vi" : "Bố cục cột",
+    "zh" : "专栏编排"
+  },
+  "예약부서" : {
+    "en" : "Department (Booking)",
+    "ja" : "予約部署",
+    "vi" : "Bộ phận",
+    "zh" : "预约部门"
+  },
+  "반복 마감일" : {
+    "en" : "End Date (Repeat)",
+    "ja" : "繰返し締め切り",
+    "vi" : "Ngày kết thúc lặp lại",
+    "zh" : "反复结束日"
+  },
+  "검색조건 선택" : {
+    "en" : "Select search conditions",
+    "ja" : "検索条件選択",
+    "vi" : "Chọn điều kiện tìm kiếm",
+    "zh" : "选择搜索条件"
+  },
+  "미반납하였습니다." : {
+    "en" : "It hasn't been returned.",
+    "ja" : "未返却しました。",
+    "vi" : "Bạn chưa trả lại.",
+    "zh" : "未返还了。"
+  },
+  "반복예약정보" : {
+    "en" : "Repeat booking information",
+    "ja" : "繰返し予約情報",
+    "vi" : "Thông tin đặt trước lặp lại",
+    "zh" : "反复预约信息"
+  },
+  "예약신청이 반려되었습니다." : {
+    "en" : "Your booking request has been rejected.",
+    "ja" : "予約申請が差戻しされました。",
+    "vi" : "Đăng ký đặt trước đã bị từ chối.",
+    "zh" : "预约申请被退回了。"
+  },
+  "같은 폴더로는 이동할 수 없습니다." : {
+    "en" : "It cannot move to the same folder.",
+    "ja" : "同じフォルダには移動できません。",
+    "vi" : "Bạn không thể di chuyển sang cùng 1 thư mục.",
+    "zh" : "不可移动到同样的文件夹。"
+  },
+  "지난 일시에는 예약할 수 없습니다." : {
+    "en" : "You cannot make a booking on a date that already passed.",
+    "ja" : "過去の日付では予約できません。",
+    "vi" : "Không thể đặt trước ngày giờ ở quá khứ.",
+    "zh" : "已经过去的日子不可预订。"
+  },
+  "대여 희망일을 입력하세요." : {
+    "en" : "Enter a date when you want to borrow.",
+    "ja" : "貸出希望日を入力してください。",
+    "vi" : "Hãy nhập ngày bạn muốn mượn.",
+    "zh" : "请输入希望出租日。"
+  },
+  "컬럼 추가" : {
+    "en" : "Add column",
+    "ja" : "項目追加",
+    "vi" : "Thêm cột",
+    "zh" : "追加项目"
+  },
+  "템플릿명을 입력하세요." : {
+    "en" : "Enter a template name.",
+    "ja" : "テンプレート名を入力してください。",
+    "vi" : "Hãy nhập tên mẫu",
+    "zh" : "请输入模板名。"
+  },
+  "[자원예약] {0} 예약신청입니다." : {
+    "en" : "[Resource booking] {0} booking request.",
+    "ja" : "[資源予約] {0} 予約申請です。",
+    "vi" : "[Đặt trước tài nguyên] {0} đăng ký đặt trước",
+    "zh" : "[预订资源] {0} 申请预订了。"
+  },
+  "{0} 폴더 하위에 {1} 폴더를 삭제하였습니다." : {
+    "en" : "You deleted {1} folder from {0} folder.",
+    "ja" : "{0} フォルダの下位に{1} フォルダを削除しました。",
+    "vi" : "Đã xóa thư mục {1} ở dưới thư mục {0}.",
+    "zh" : "在{0}文件夹下位删除了 {1} 文件夹。"
+  },
+  "셀렉트" : {
+    "en" : "Select",
+    "ja" : "セレクト",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "삭제할 대리예약자를 선택하세요." : {
+    "en" : "Please select the booking delegate you want to delete.",
+    "ja" : "削除する代理予約者を選択してください。",
+    "vi" : "Vui lòng chọn người đại diện đặt chỗ mà bạn muốn xóa.",
+    "zh" : "请选择要删除的代替预订人。"
+  },
+  "이 페이지를 보려면, 프레임을 볼 수 있는 브라우저가 필요합니다." : {
+    "en" : "To view this page, you need a browser which allows you to view the frame.",
+    "ja" : "このページを見るにはフレームの表示ができるブラウザが必要です。",
+    "vi" : "Để xem được trang này, bạn cần có trình duyệt hỗ trợ xem khung.",
+    "zh" : "您要看的话，需要可以看Frame的Browser。"
+  },
+  "내 예약 자원" : {
+    "en" : "My Bookings (Resource)",
+    "ja" : "私の予約資源",
+    "vi" : "Đặt trước của tôi",
+    "zh" : "我的预约资源"
+  },
+  "자원의 사용을 예약합니다. 예약승인이 필요한 자원의 경우에는 신청 후 자원관리자의 승인을 얻어야 최종적으로 예약이 완료됩니다." : {
+    "en" : "You can book resources that you need to use. For a resource that needs an approval for booking, your request must be approved by the resource administrator. Upon approval, the booking process for the resource will be completed.",
+    "ja" : "資源の使用を予約します。予約承認が必要な資源の場合、申請後、資源管理者の承認を受けると最終的に予約が完了されます。",
+    "vi" : "Đặt trước sử dụng tài nguyên. Trường hợp cần phê duyệt đặt trước, sau khi đăng ký, nhận phê duyệt của người quản lý tài nguyên và hoàn thiện đặt trước.",
+    "zh" : "预订使用资源。需要预订承认的资源的话申请后资源管理者承认才能完成最终预订。"
+  },
+  "내 캘린더" : {
+    "en" : "My calendar",
+    "ja" : "Myカレンダー",
+    "vi" : "Lịch của tôi",
+    "zh" : "我的日历"
+  },
+  "반복예약 정보" : {
+    "en" : "Repeat Booking Information",
+    "ja" : "繰返し予約情報",
+    "vi" : "Thông tin đặt trước lặp lại",
+    "zh" : "反复预订信息"
+  },
+  "반복 종료일을 선택하셔야 합니다." : {
+    "en" : "Please select a date to end repeat.",
+    "ja" : "繰返し終了日を選択してください。",
+    "vi" : "Bạn phải chọn ngày kết thúc lặp lại.",
+    "zh" : "您得选择反复结束日。"
+  },
+  "모두선택" : {
+    "en" : "Select all",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "选择全部"
+  },
+  "예약 변경" : {
+    "en" : "Change booking",
+    "ja" : "予約変更",
+    "vi" : "Thay đổi đặt trước",
+    "zh" : "变更预订"
+  },
+  "첨부 용량를 선택하세요." : {
+    "en" : "Please select an attachment size",
+    "ja" : "添付容量を選択してください。",
+    "vi" : "Hãy chọn dung lượng đính kèm",
+    "zh" : "请选择附加用量。"
+  },
+  "예 약 자 :" : {
+    "en" : "Booked by",
+    "ja" : "予約者 :",
+    "vi" : "Người đặt trước:",
+    "zh" : "预订者："
+  },
+  "허용되지 않는 특수기호가 있습니다." : {
+    "en" : "It contains a special sign that is not allowed.",
+    "ja" : "許可されていない特殊記号があります。",
+    "vi" : "Nó có một ký hiệu đặc biệt không được phép.",
+    "zh" : "有不允许使用的特殊符号。"
+  },
+  "반복 설정을 확인해주세요." : {
+    "en" : "Please check the repeat settings.",
+    "ja" : "繰返し設定を確認してください。",
+    "vi" : "Vui lòng kiểm tra cài đặt lặp lại",
+    "zh" : "请确认重复设置。"
+  }
+}

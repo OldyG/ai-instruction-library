@@ -1,0 +1,4334 @@
+{
+  "진척도" : {
+    "en" : "Progress rate",
+    "ja" : "進捗度",
+    "vi" : "Tiến độ",
+    "zh" : "工程进度"
+  },
+  "연동된 프로젝트가 삭제되었습니다." : {
+    "en" : "The linked project has been deleted.",
+    "ja" : "連動されたプロジェクトが削除されました。",
+    "vi" : "Các dự án liên kết đã bị xóa.",
+    "zh" : "已联动项目已删除。"
+  },
+  "다운로드" : {
+    "en" : "Download",
+    "ja" : "ダウンロード",
+    "vi" : "Tải về",
+    "zh" : "下载"
+  },
+  "프로젝트가 존재 하지 않아 해당 정보를 표시 할 수 없습니다. 창은 자동으로 닫힙니다." : {
+    "en" : "Unable to display related information because the project does not exist. The window will be closed automatically.",
+    "ja" : "プロジェクトが存在しないため、この情報を表示できません。 ウィンドウは自動的に閉じます。",
+    "vi" : "Không thể hiển thị thông tin vì dự án tương ứng không tồn tại. Sẽ tự động đóng cửa sổ.",
+    "zh" : "项目不存在，无法显示相关信息。窗口会自动关闭。"
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi mail",
+    "zh" : "发送邮件"
+  },
+  "일감 설명" : {
+    "en" : "Task Description",
+    "ja" : "タスクの説明",
+    "vi" : "Mô tả công việc",
+    "zh" : "说明工作"
+  },
+  "검색조건으로 사용됨" : {
+    "en" : "Used as a search condition",
+    "ja" : "検索条件に使用される",
+    "vi" : "Được sử dụng như điều kiện tìm kiếm",
+    "zh" : "使用为搜索条件"
+  },
+  "검색식명" : {
+    "en" : "Search Formula Name",
+    "ja" : "検索式名",
+    "vi" : "Tên hình thức tìm kiếm",
+    "zh" : "搜索式名"
+  },
+  "프로젝트 메인 화면을 설정하세요." : {
+    "en" : "Please set up project main screen.",
+    "ja" : "プロジェクトのメイン画面を設定してください。",
+    "vi" : "Hãy thiết lập màn hình chính dự án.",
+    "zh" : "请设置项目主页。"
+  },
+  "소요시간에 사용자 정의 항목을 추가/수정합니다." : {
+    "en" : "Add/Modify user defined items to Time Required.",
+    "ja" : "所要時間にユーザー定義の項目を追加/修正します。",
+    "vi" : "Thêm/Chỉnh sửa hạng mục do người dùng đặt trong thời gian cần thiết.",
+    "zh" : "在所需时间内添加/修改使用者定义项目。"
+  },
+  "일감" : {
+    "en" : "Works",
+    "ja" : "ワーク",
+    "vi" : "Công việc",
+    "zh" : "工作"
+  },
+  "폴더 내 순서를 변경합니다." : {
+    "en" : "Order will change within the folder.",
+    "ja" : "フォルダ内の順序を変更します。",
+    "vi" : "Thay đổi thứ tự trong thư mục.",
+    "zh" : "更改文件内顺序。"
+  },
+  "등록된 이력이 없습니다." : {
+    "en" : "No history to show.",
+    "ja" : "登録された履歴がありません。",
+    "vi" : "Không có lịch sử được đăng ký.",
+    "zh" : "没有登录的履历。"
+  },
+  "별표" : {
+    "en" : "Star",
+    "ja" : "スター",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "일간" : {
+    "en" : "Daily",
+    "ja" : "日間",
+    "vi" : "Ngày",
+    "zh" : "日间"
+  },
+  "열람 일감" : {
+    "en" : "Viewed tasks",
+    "ja" : "閲覧した仕事",
+    "vi" : "Công việc đã xem",
+    "zh" : "浏览工作"
+  },
+  "버전 정보" : {
+    "en" : "Version Info",
+    "ja" : "バージョン情報",
+    "vi" : "Thông tin phiên bản",
+    "zh" : "版本信息"
+  },
+  "등록된 우선순위가 없습니다." : {
+    "en" : "No priority found.",
+    "ja" : "登録された優先順位がありません。",
+    "vi" : "Không có thứ tự ưu tiên đã được thêm.",
+    "zh" : "无已载入优先级。"
+  },
+  "버전" : {
+    "en" : "Version",
+    "ja" : "バージョン",
+    "vi" : "Phiên bản",
+    "zh" : "版本"
+  },
+  "상세보기" : {
+    "en" : "Show details",
+    "ja" : "詳細を見る",
+    "vi" : "Xem chi tiết",
+    "zh" : "仔细看"
+  },
+  "버전 설정" : {
+    "en" : "Version Setting",
+    "ja" : "バージョン設定",
+    "vi" : "Cài đặt phiên bản",
+    "zh" : "设置版本"
+  },
+  "다음에 진행 할 일감" : {
+    "en" : "Works to do next",
+    "ja" : "次に進行するワーク",
+    "vi" : "Công việc sẽ làm tiếp theo",
+    "zh" : "下一个要进行的工作。"
+  },
+  "개" : {
+    "en" : "units",
+    "ja" : "個",
+    "vi" : "Đơn vị",
+    "zh" : "个"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "File được chọn",
+    "zh" : "选择的文档"
+  },
+  "일감을 복사하시겠습니까?\\n 복사 후 일감을 수정해주세요" : {
+    "en" : "Copy work? \\n Please edit Task after copying.",
+    "ja" : "イベントをコピーしますか。\\nコピーしてから、イベントを変更してください。",
+    "vi" : "Bạn muốn sao chép công việc? \\n Vui lòng chỉnh sửa công việc sau khi sao chép.",
+    "zh" : "确认复制工作吗\\n移动后请修改工作。"
+  },
+  "등록된 결재 문서가 없습니다." : {
+    "en" : "There is no registered approval document.",
+    "ja" : "登録された決裁文書がありません。",
+    "vi" : "Không có tài liệu phê duyệt được đăng ký.",
+    "zh" : "无已登录审批文件"
+  },
+  "해당 일감이 존재하지 않습니다. 화면을 새로고침 해주세요." : {
+    "en" : "The work does not exist. Please refresh your browser window.",
+    "ja" : "当該ワークが存在しません。画面をリロードしてください。",
+    "vi" : "Không tồn tại công việc tương ứng. Hãy làm mới màn hình.",
+    "zh" : "不存在有关工作。请刷新画面。"
+  },
+  "완전 삭제하시면 복구 하실 수 없습니다. 계속 하시겠습니까?" : {
+    "en" : "Once deleted completely, it cannot be recovered. Do you wish to continue?",
+    "ja" : "「完全に削除」をすると、復旧することができません。よろしいですか。",
+    "vi" : "Nếu xóa hoàn thành sẽ không thể khôi phục lại. Bạn chắc chắn tiếp tục chứ?",
+    "zh" : "若完全删除则无法恢复。确定继续吗？"
+  },
+  "상위 일감" : {
+    "en" : "Parent Task",
+    "ja" : "上位ワーク",
+    "vi" : "Công việc trên",
+    "zh" : "上位工作"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "추정 시간" : {
+    "en" : "Estimated time",
+    "ja" : "推定時間",
+    "vi" : "Thời gian ước tính",
+    "zh" : "推断时间"
+  },
+  "프로젝트 메인 화면으로 설정하시겠습니까?" : {
+    "en" : "Set as Project main screen?",
+    "ja" : "プロジェクトのメイン画面に設定しますか。",
+    "vi" : "Bạn muốn cài đặt thành màn hình chính dự án?",
+    "zh" : "确认设置项目主页吗？"
+  },
+  "지연" : {
+    "en" : "Delay",
+    "ja" : "遅延",
+    "vi" : "Trì hoãn",
+    "zh" : "延迟"
+  },
+  "작업분류 추가" : {
+    "en" : "Add Task Classification.",
+    "ja" : "作業分類の追加",
+    "vi" : "Thêm phân loại công việc",
+    "zh" : "添加作业分类"
+  },
+  "일감 수정알림을 함께 수신합니다." : {
+    "en" : "Receive with Task Editing notifications.",
+    "ja" : "イベントの変更通知を一緒に受信します。",
+    "vi" : "Nhận cùng với thông báo chỉnh sửa công việc.",
+    "zh" : "一并接受工作修改提醒。"
+  },
+  "일감에 요청자로 등록되었습니다." : {
+    "en" : "You have been assigned as the requester for the task.",
+    "ja" : "タスクに依頼者として登録されました。",
+    "vi" : "Bạn đã được chỉ định là người yêu cầu cho công việc.",
+    "zh" : "已注册为任务请求人。"
+  },
+  "뒤로" : {
+    "en" : "Back",
+    "ja" : "戻る",
+    "vi" : "về phía sau",
+    "zh" : "往后"
+  },
+  "흐름" : {
+    "en" : "Flow",
+    "ja" : "流れ",
+    "vi" : "Trình tự",
+    "zh" : "进度"
+  },
+  "메인 화면을 선택하세요." : {
+    "en" : "Select the main screen.",
+    "ja" : "メイン画面を選択してください。",
+    "vi" : "Hãy chọn màn hình chính.",
+    "zh" : "请选择主页面"
+  },
+  "일감의 상태가 변경되었습니다." : {
+    "en" : "The status of the task has changed.",
+    "ja" : "タスクの状態が変更されました。",
+    "vi" : "Trạng thái của công việc đã thay đổi.",
+    "zh" : "任务状态已更改。"
+  },
+  "프로젝트 일감" : {
+    "en" : "Project Work",
+    "ja" : "プロジェクトイベント",
+    "vi" : "Công việc dự án",
+    "zh" : "项目工作"
+  },
+  "오류가 발생하였습니다" : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました",
+    "vi" : "Đã phát sinh lỗi.",
+    "zh" : "发生了错误"
+  },
+  "파일이 없습니다." : {
+    "en" : "No files .",
+    "ja" : "ファイルがありません",
+    "vi" : "Không có file.",
+    "zh" : "没有没有文件"
+  },
+  "하위 폴더와 프로젝트 포함하여 모두 삭제됩니다. \\n진행하시겠습니까?" : {
+    "en" : "The folder below and all others including project will be deleted.\\n Do you want to proceed?",
+    "ja" : "下位フォルダ・プロジェクトがすべて削除されます。\\nこのまま続けますか？",
+    "vi" : "Toàn bộ các dự án và thư mục con sẽ bị xóa.\\n Bạn chắc chắn muốn tiếp tục chứ?",
+    "zh" : "将删除下级文件夹与程序。\\n是否确认进行？"
+  },
+  "목록옵션" : {
+    "en" : "List options",
+    "ja" : "リストオプション",
+    "vi" : "Tùy chọn danh sách",
+    "zh" : "目录选项"
+  },
+  "{0}님이 {1}(을)를 삭제했습니다." : {
+    "en" : "{0} has deleted {1}.",
+    "ja" : "{0}様によって{1}が削除されました。",
+    "vi" : "{0} đã xóa {1}.",
+    "zh" : "{0}已删除了{1}。"
+  },
+  "기본설정" : {
+    "en" : "Default settings",
+    "ja" : "基本設定",
+    "vi" : "Cài đặt mặc định",
+    "zh" : "基本设定"
+  },
+  "공동 작업자" : {
+    "en" : "Co-workers",
+    "ja" : "共同作業者",
+    "vi" : "Đồng nghiệp",
+    "zh" : "共同工作人"
+  },
+  "프로젝트 명을 입력 하세요." : {
+    "en" : "Type a project name.",
+    "ja" : "プロジェクト名を入力してください。",
+    "vi" : "Hãy nhập tên dự án.",
+    "zh" : "请输入工程名。"
+  },
+  "마일스톤 표시 여부" : {
+    "en" : "Mark Milestone?",
+    "ja" : "マイルストーン表示の有無",
+    "vi" : "Có hiển thị Cột mốc hay không",
+    "zh" : "是否表示迈尔斯通"
+  },
+  "작업을 시작합니까?" : {
+    "en" : "Do you begin working?",
+    "ja" : "作業を始めますか?",
+    "vi" : "Bạn có bắt đầu làm việc không?",
+    "zh" : "开始进行工作吗？"
+  },
+  "작업분류를 선택하세요." : {
+    "en" : "Select task type.",
+    "ja" : "作業分類を選択してください。",
+    "vi" : "Hãy chọn phân loại công việc.",
+    "zh" : "请选择作业分类。"
+  },
+  "필터 초기화" : {
+    "en" : "Reset Filter",
+    "ja" : "フィルターを初期化",
+    "vi" : "Làm mới bộ lọc",
+    "zh" : "过滤器初始化"
+  },
+  "조회된 데이터가 없습니다." : {
+    "en" : "No data found.",
+    "ja" : "照会されたデータがありません。",
+    "vi" : "Không tìm thấy dữ liệu nào.",
+    "zh" : "没有查询的资料。"
+  },
+  "결재작성" : {
+    "en" : "Create Document for Approval",
+    "ja" : "決裁作成",
+    "vi" : "Viết phê duyệt",
+    "zh" : "写批准"
+  },
+  "삭제하면 일감에 지정한 사용자 정의항목이 초기화 됩니다. 계속하시겠습니까?" : {
+    "en" : "If deleted, custom items in the Tasks will be rest. Do you wish to continue?",
+    "ja" : "削除すると、イベントに指定したユーザー定義項目が初期化されます。よろしいですか。",
+    "vi" : "Nếu xóa thì mục giải nghĩa người dùng đã chỉ định trong công việc cũng sẽ được khởi tạo lại. Bạn chắc chắn muốn tiếp tục chứ?",
+    "zh" : "若删除，工作内指定的用户定义项目也将初始化，确认继续吗？"
+  },
+  "최소 - 최대길이" : {
+    "en" : "Minimum-Maximum Length",
+    "ja" : "最小-最大の長さ",
+    "vi" : "Chiều dài tối thiểu-tối đa",
+    "zh" : "最小-最大长度"
+  },
+  "다국어 입력" : {
+    "en" : "Enter Multiple Languages",
+    "ja" : "多言語入力",
+    "vi" : "Nhập đa ngôn ngữ",
+    "zh" : "输入多国语"
+  },
+  "완료기한 기준" : {
+    "en" : "Due Date Standard",
+    "ja" : "完了期限の基準",
+    "vi" : "Tiêu chuẩn thời hạn hoàn thành",
+    "zh" : "完了期限为基准"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境の設定",
+    "vi" : "Ưu tiên mặc định",
+    "zh" : "基本环境设定"
+  },
+  "부재사항" : {
+    "en" : "Absence (Details)",
+    "ja" : "不在事項",
+    "vi" : "Nội dung Vắng",
+    "zh" : "缺失事项"
+  },
+  "낮음" : {
+    "en" : "Low",
+    "ja" : "低い",
+    "vi" : "Thấp",
+    "zh" : "低"
+  },
+  "건 완료" : {
+    "en" : "Case completed",
+    "ja" : "件完了",
+    "vi" : "Trường hợp đã hoàn thành",
+    "zh" : "件已完成"
+  },
+  "복사 선택" : {
+    "en" : "Copy selection.",
+    "ja" : "コピー選択",
+    "vi" : "Lựa chọn sao chép",
+    "zh" : "选择复制"
+  },
+  "프로젝트명" : {
+    "en" : "Project name",
+    "ja" : "プロジェクト名",
+    "vi" : "Tên dự án",
+    "zh" : "项目名"
+  },
+  "관련일감" : {
+    "en" : "Related Tasks",
+    "ja" : "関連ワーク",
+    "vi" : "Công việc liên quan",
+    "zh" : "有关工作"
+  },
+  "프로젝트 생성" : {
+    "en" : "Create Project",
+    "ja" : "プロジェクトの生成",
+    "vi" : "Tạo dự án",
+    "zh" : "创建项目"
+  },
+  "스페이스 생성이 반려 되었습니다." : {
+    "en" : "Creation of a Space has been declined.",
+    "ja" : "スペース生成が差戻しされました。",
+    "vi" : "Tạo mới Space đã bị từ chối.",
+    "zh" : "创建空格被退回了。"
+  },
+  "일감 첨부파일" : {
+    "en" : "Task Attachment",
+    "ja" : "タスクの添付ファイル",
+    "vi" : "File đính kèm công việc",
+    "zh" : "工作附件"
+  },
+  "일감(프로젝트 정보 포함)" : {
+    "en" : "Task (including project information)",
+    "ja" : "業務（プロジェクト情報含む）",
+    "vi" : "Công việc (bao gồm thông tin dự án)",
+    "zh" : "工作（包含项目信息）"
+  },
+  "기한 종료일이 시작일보다 클수 없습니다." : {
+    "en" : "End date cannot be greater than start date.",
+    "ja" : "期限終了日は開始日より前にはできません。",
+    "vi" : "Ngày kết thúc không thể sớm hơn ngày bắt đầu.",
+    "zh" : "期限结束日不可大于开始日。"
+  },
+  "사이" : {
+    "en" : "Between",
+    "ja" : "間",
+    "vi" : "Giữa",
+    "zh" : "之间"
+  },
+  "날짜, 기간 이전 값 보다 낮은 값 허용" : {
+    "en" : "Permit values earlier than previous date/time entries",
+    "ja" : "以前の日付/時刻の値よりも小さい値を許可する",
+    "vi" : "Cho phép giá trị thấp hơn giá trị ngày/giờ trước đó",
+    "zh" : "允许值低于先前日期/时间值"
+  },
+  "막대형" : {
+    "en" : "Bar type",
+    "ja" : "棒グラフ",
+    "vi" : "Thanh",
+    "zh" : "条形"
+  },
+  "발생" : {
+    "en" : "Happen",
+    "ja" : "発生",
+    "vi" : "Phát sinh",
+    "zh" : "发生"
+  },
+  "조직도에서 관심현황에 등록하려는 사람 또는 부서를 선택하세요." : {
+    "en" : "Please select the person or department you wish to add to Interested Status from the organization chart.",
+    "ja" : "組織図からお気に入りに登録しようとする人、または部署を選択してください。",
+    "vi" : "Hãy chọn người hoặc bộ phận để thêm vào tình trạng quan tâm trong sơ đồ tổ chức.",
+    "zh" : "请于组织图中选择将登录于关心现况的人员或部门。"
+  },
+  "모두 선택" : {
+    "en" : "Select All",
+    "ja" : "すべて選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "관심 프로젝트가 없습니다." : {
+    "en" : "There are no projects of interest.",
+    "ja" : "お気に入りのプロジェクトがありません。",
+    "vi" : "Không có dự án quan tâm.",
+    "zh" : "无星标项目。"
+  },
+  "일감이 수정 되었습니다." : {
+    "en" : "The task has been modified.",
+    "ja" : "ワークが修正されました。",
+    "vi" : "Công việc đã được sửa.",
+    "zh" : "修改工作了。"
+  },
+  "프로젝트 계획중" : {
+    "en" : "Planning Project",
+    "ja" : "プロジェクト計画中",
+    "vi" : "Lên kế hoạch",
+    "zh" : "项目计划中"
+  },
+  "진행" : {
+    "en" : "In Progress",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "합계" : {
+    "en" : "Total",
+    "ja" : "合計",
+    "vi" : "Tổng cộng",
+    "zh" : "合计"
+  },
+  "업무 현황 선택" : {
+    "en" : "Select work status",
+    "ja" : "業務状況を選択する",
+    "vi" : "Chọn tình trạng công việc",
+    "zh" : "选择业务现况"
+  },
+  "소수점 처리 방법" : {
+    "en" : "How to Drop Decimal Places",
+    "ja" : "小数点の処理方法",
+    "vi" : "Làm thế nào để bỏ phần thập phân",
+    "zh" : "小数点处理方法"
+  },
+  "다음 일감으로 복사됨" : {
+    "en" : "Copied to next work",
+    "ja" : "次のワークにコピーされる",
+    "vi" : "Sao chép sang công việc tiếp theo",
+    "zh" : "拷贝到下一个工作。"
+  },
+  "수정이 완료 되었습니다." : {
+    "en" : "It has been modified.",
+    "ja" : "修正が完了しました。",
+    "vi" : "Đã hoàn thành sửa.",
+    "zh" : "超过了最多字数"
+  },
+  "YYYY년 M월" : {
+    "en" : "YYYY year M month",
+    "ja" : "YYYY年M月",
+    "vi" : "Tháng M năm YYYY",
+    "zh" : "YYYY年 M月"
+  },
+  "이슈가 완료처리되었습니다." : {
+    "en" : "The issue has been solved.",
+    "ja" : "問題が完了処理されました。",
+    "vi" : "Vấn đề này đã được giải quyết.",
+    "zh" : "论点完了处理了。"
+  },
+  "일감에 담당자로 등록되었습니다." : {
+    "en" : "You have been assigned as the responsible person for the task.",
+    "ja" : "タスクに担当者として登録されました。",
+    "vi" : "Bạn đã được chỉ định là người chịu trách nhiệm cho công việc.",
+    "zh" : "已注册为任务负责人。"
+  },
+  "{0} 님이 일감을 변경했습니다." : {
+    "en" : "{0} modified the task.",
+    "ja" : "{0}さんがタスクを変更しました。",
+    "vi" : "Anh/ chị {0} đã thay đổi công việc.",
+    "zh" : "{0} 已变更工作。"
+  },
+  "일감 유형을 선택하세요." : {
+    "en" : "Select Work Type.",
+    "ja" : "仕事の類型を選択してください。",
+    "vi" : "Chọn Loại công việc.",
+    "zh" : "请选择工作类型。"
+  },
+  "종료일" : {
+    "en" : "Finish date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日"
+  },
+  "프로젝트 책임자" : {
+    "en" : "Project manager",
+    "ja" : "プロジェクト責任者",
+    "vi" : "Qản lý dự án",
+    "zh" : "项目负责人"
+  },
+  "필터" : {
+    "en" : "Filter",
+    "ja" : "フィルター",
+    "vi" : "Bộ lọc",
+    "zh" : "过滤"
+  },
+  "수정 의견" : {
+    "en" : "Editing Opinion",
+    "ja" : "変更意見",
+    "vi" : "Ý kiến chỉnh sửa",
+    "zh" : "修改意见"
+  },
+  "사용할수 있는 템플릿명입니다." : {
+    "en" : "The template name is available.",
+    "ja" : "使用できるテンプレート名です。",
+    "vi" : "Đây là tên mẫu có thể sử dụng.",
+    "zh" : "可以使用的模板名。"
+  },
+  "일감 등록" : {
+    "en" : "Add tasks",
+    "ja" : "タスク登録",
+    "vi" : "Đăng ký công việc",
+    "zh" : "登录工作"
+  },
+  "등록된 사용자 정의항목이 없습니다." : {
+    "en" : "No user-defined (custom) items to show.",
+    "ja" : "登録されたユーザー定義の項目がありません。",
+    "vi" : "Không mục tùy chỉnh được đăng ký.",
+    "zh" : "没有登录的使用者定义项目。"
+  },
+  "요청" : {
+    "en" : "Request",
+    "ja" : "要請",
+    "vi" : "Yêu cầu",
+    "zh" : "邀请"
+  },
+  "스페이스 템플릿 등록" : {
+    "en" : "Add Space Template",
+    "ja" : "スペーステンプレートの登録",
+    "vi" : "Thêm mẫu space",
+    "zh" : "登录空格模板"
+  },
+  "앞으로" : {
+    "en" : "Previous",
+    "ja" : "今後",
+    "vi" : "trước",
+    "zh" : "往前"
+  },
+  "책임자" : {
+    "en" : "Administrator",
+    "ja" : "責任者",
+    "vi" : "Người chịu trách nhiệm",
+    "zh" : "负责人"
+  },
+  "열람자" : {
+    "en" : "Viewer",
+    "ja" : "閲覧者",
+    "vi" : "Người xem",
+    "zh" : "览者"
+  },
+  "목록인쇄" : {
+    "en" : "Print List",
+    "ja" : "リストを印刷",
+    "vi" : "Danh sách in",
+    "zh" : "打印目录"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "영역형" : {
+    "en" : "Area type",
+    "ja" : "領域型",
+    "vi" : "Khu vực",
+    "zh" : "领域形"
+  },
+  "프로젝트로 이동" : {
+    "en" : "Move to Project",
+    "ja" : "プロジェクトに移動",
+    "vi" : "Di chuyển sang dự án",
+    "zh" : "移动到项目"
+  },
+  "선택한 사용자를 관심 현황으로 추가합니다." : {
+    "en" : "The selected user will be added to interest status.",
+    "ja" : "選択したユーザーをお気に入りに追加します。",
+    "vi" : "Thêm người dùng đã chọn làm tình trạng quan tâm",
+    "zh" : "将已选用户添加为关心现况。"
+  },
+  "일감 상태 기본 값을 설정해주세요." : {
+    "en" : "Please select the default value for work status.",
+    "ja" : "仕事状態の基本値を設定してください。",
+    "vi" : "Vui lòng chọn giá trị mặc định cho trạng thái làm việc.",
+    "zh" : "请设置工作状态默认值。"
+  },
+  "달성률" : {
+    "en" : "Achievement Rate",
+    "ja" : "達成率",
+    "vi" : "Mức độ hoàn thành",
+    "zh" : "达成率"
+  },
+  "업무 수정" : {
+    "en" : "Edit a task",
+    "ja" : "業務修正",
+    "vi" : "Chỉnh sửa nhiệm vụ",
+    "zh" : "修改业务"
+  },
+  "등록된 설명이 없습니다." : {
+    "en" : "There is no registered description.",
+    "ja" : "登録された説明がありません。",
+    "vi" : "Không có mô tả đăng ký.",
+    "zh" : "不存在已登记的说明。"
+  },
+  "일감번호" : {
+    "en" : "Task No.",
+    "ja" : "タスク番号",
+    "vi" : "Số công việc",
+    "zh" : "工作号码"
+  },
+  "일감 소요시간" : {
+    "en" : "Lead time for task",
+    "ja" : "仕事の所要時間",
+    "vi" : "Thời gian làm việc cần thiết",
+    "zh" : "工作所需时间"
+  },
+  "연결 일감" : {
+    "en" : "Connected Task",
+    "ja" : "接続タスク",
+    "vi" : "Công việc liên kết",
+    "zh" : "连接的工作"
+  },
+  "이슈내용" : {
+    "en" : "Details (Issue)",
+    "ja" : "問題の内容",
+    "vi" : "Nội dung vấn đề",
+    "zh" : "话题内容"
+  },
+  "최근 1개월 이내에 등록된 일감이 없습니다." : {
+    "en" : "No task has been registered in the last month.",
+    "ja" : "最近1ヶ月以内に登録された仕事がありません。",
+    "vi" : "Không có công việc nào được đăng ký trong 1 tháng gần đây.",
+    "zh" : "最近一个月内没有登记的工作。"
+  },
+  "즉시작업" : {
+    "en" : "An immediate task",
+    "ja" : "すぐに作業",
+    "vi" : "Công việc gấp",
+    "zh" : "即刻工作"
+  },
+  "프로젝트 보고서" : {
+    "en" : "Project Report",
+    "ja" : "プロジェクト報告書",
+    "vi" : "Báo cáo dự án",
+    "zh" : "项目报告"
+  },
+  "일감이 없습니다." : {
+    "en" : "No tasks.",
+    "ja" : "タスクがありません。",
+    "vi" : "Không có công việc.",
+    "zh" : "没有工作"
+  },
+  "조치 내역" : {
+    "en" : "History (Action)",
+    "ja" : "処理の内訳",
+    "vi" : "Chi tiết",
+    "zh" : "措施细目"
+  },
+  "프로젝트 URL" : {
+    "en" : "Project URL",
+    "ja" : "プロジェクト URL",
+    "vi" : "URL Dự án",
+    "zh" : "工程 URL"
+  },
+  "트리보기는 상/하위 일감 관계를 계층형으로 목록에 표기합니다. 다시 클릭하면 바로 이전에 정렬한 목록으로 표시됩니다." : {
+    "en" : "Tree view shows the upper/lower task relationship in a hierarchical list. Click again to go back to the sorted list.",
+    "ja" : "「ツリーを見る」は上/下位のイベント関係を階層的にリストで表示します。もう一度クリックすると、直前に整列したリストが表示されます。",
+    "vi" : "Sơ đồ cây thể hiện quan hệ công việc trên/dưới trong danh sách theo từng tầng. Nhấp lại lần nữa sẽ quay trở lại danh sách sắp xếp trước đó.",
+    "zh" : "查看公司成长树将以上/下级工作关系形成阶层型目录标记。若重新点击即可马上确认上次整理目录。"
+  },
+  "내 일감 현황" : {
+    "en" : "My Task Status",
+    "ja" : "自分のイベントの現況",
+    "vi" : "Tình trạng công việc của tôi",
+    "zh" : "我的工作现况"
+  },
+  "기본값 입니다. 삭제 하시겠습니까?" : {
+    "en" : "This is the default value. Do you wish to delete?",
+    "ja" : "デフォルト値です。削除しますか。",
+    "vi" : "Đây là giá trị mặc định. Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "此为基本值。确认删除吗？"
+  },
+  "간트차트" : {
+    "en" : "Gantt chart",
+    "ja" : "ガントチャート",
+    "vi" : "Biểu đồ Gantt",
+    "zh" : "甘特图"
+  },
+  "작업분류가 없습니다. 작업분류를 등록 한 후 사용하세요." : {
+    "en" : "There is no task type. Please use after selecting task type(s).",
+    "ja" : "作業分類がありません。作業分類を登録してから使用してください。",
+    "vi" : "Không có phân loại công việc. Hãy sử dụng sau khi thêm phân loại công việc.",
+    "zh" : "无作业分类，请于登录作业分类后使用。"
+  },
+  "더보기" : {
+    "en" : "View more",
+    "ja" : "もっと見る",
+    "vi" : "Xem thêm",
+    "zh" : "继续看"
+  },
+  "선택 추가" : {
+    "en" : "Add Selection",
+    "ja" : "選択追加",
+    "vi" : "Thêm tùy chọn",
+    "zh" : "选择添加"
+  },
+  "일감의 요청자로 등록되었습니다." : {
+    "en" : "Registered as the requester of the job",
+    "ja" : "ジョブのリクエスト者として登録されました。",
+    "vi" : "Đã thêm làm người yêu cầu công việc.",
+    "zh" : "您已被登录为工作邀请人。"
+  },
+  "해당 일감이 존재하지 않습니다." : {
+    "en" : "The task does not exist.",
+    "ja" : "該当仕事が存在しません。",
+    "vi" : "Công việc không tồn tại.",
+    "zh" : "没有相关工作。"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "등록된 작업 분류가 없습니다." : {
+    "en" : "No Task Classification found.",
+    "ja" : "登録された作業分類がありません。",
+    "vi" : "Không có dữ liệu phân loại công việc.",
+    "zh" : "无已载入作业分类。"
+  },
+  "프로젝트 관리" : {
+    "en" : "Manage Project",
+    "ja" : "プロジェクト管理",
+    "vi" : "Quản lý dự án",
+    "zh" : "管理项目"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "업무 현황" : {
+    "en" : "Task status",
+    "ja" : "業務の状況",
+    "vi" : "Tình trạng tác vụ",
+    "zh" : "业务现况"
+  },
+  "이슈 등록" : {
+    "en" : "Add an issue",
+    "ja" : "問題の登録",
+    "vi" : "Đăng ký vấn đề",
+    "zh" : "登录话题"
+  },
+  "댓글 등록일" : {
+    "en" : "Date of comment created",
+    "ja" : "コメント登録日",
+    "vi" : "Ngày đăng ký bình luận",
+    "zh" : "评论登录日"
+  },
+  "가장 지연중인 업무" : {
+    "en" : "The oldest task",
+    "ja" : "一番古い業務",
+    "vi" : "Công việc lâu nhất",
+    "zh" : "最长时间的业务"
+  },
+  "등록된 일감 유형이 없습니다." : {
+    "en" : "No work types registered.",
+    "ja" : "登録されたタスクタイプがありません。",
+    "vi" : "Không có loại công việc",
+    "zh" : "没有登录的工作类型。"
+  },
+  "내 프로젝트에서 별표하기로 등록된 프로젝트만 표시됩니다." : {
+    "en" : "Only projects marked with a 'Star' in My Projects will be displayed.",
+    "ja" : "Myプロジェクトからスター付けで登録されたプロジェクトのみ表示されます",
+    "vi" : "Chỉ các dự án được đăng ký ngôi sao trong Dự án của tôi được hiển thị.",
+    "zh" : "在我的项目中,只有以星号登记的项目才显示。"
+  },
+  "선택한 일감중에 수정권한이 있는 일감만 변경됩니다. 수정하시겠습니까?" : {
+    "en" : "Only the tasks that you have the permission to edit will be modified. Do you wish to proceed?",
+    "ja" : "選択した仕事の内、修正権限がある仕事のみ変更されます。修正しますか?",
+    "vi" : "Chỉ những người được chọn mới có quyền sửa đổi. Bạn có muốn chỉnh sửa không?",
+    "zh" : "选择的工作当中只可变更有授权的工作。 确定要修改吗?"
+  },
+  "저장했습니다." : {
+    "en" : "Saved successfully.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu",
+    "zh" : "保存完了。"
+  },
+  "조치여부" : {
+    "en" : "Handled?",
+    "ja" : "処理可否",
+    "vi" : "Có xử lý hay không",
+    "zh" : "有没有措施"
+  },
+  "누적 막대형" : {
+    "en" : "Stacked bar type",
+    "ja" : "累積棒グラフ",
+    "vi" : "Thanh xếp chồng",
+    "zh" : "累积条形"
+  },
+  "즉시작업, 지연을 제외한 진행중인 일감" : {
+    "en" : "Excluding immediate or delay work load, ones that are under progress.",
+    "ja" : "即時作業、遅延を除いて進行中の仕事",
+    "vi" : "Công việc đang tiến hành (không gồm các công việc tức thời hoặc đã hoãn)",
+    "zh" : "立即操作，除延迟外进行中的业务"
+  },
+  "스페이스 책임자가 회원을 잠금해제 하였습니다." : {
+    "en" : "The Space Administrator has unlocked the member.",
+    "ja" : "スペース責任者が会員ロックを解除しました。",
+    "vi" : "Quản trị viên Space đã mở khóa thành viên.",
+    "zh" : "空格负责人解除锁定了会员。"
+  },
+  "프로젝트 전문가가 제공하는 다양한 템플릿으로 프로젝트를 시작해 보세요." : {
+    "en" : "Get started with your project by using various templates provided by project experts.",
+    "ja" : "プロジェクトの専門家が提供する様々なテンプレートでプロジェクトを始めましょう。",
+    "vi" : "Hãy thử bắt đầu dự án bằng những mẫu đa đạng được các chuyên gia dự án cung cấp.",
+    "zh" : "请使用项目专家提供的各种各样模板开始项目吧。"
+  },
+  "개 일감" : {
+    "en" : "Tasks",
+    "ja" : "件のタスク",
+    "vi" : "công việc",
+    "zh" : "个工作"
+  },
+  "스페이스 회원" : {
+    "en" : "Space Member",
+    "ja" : "スペース会員",
+    "vi" : "Thành viên Space",
+    "zh" : "空格会员"
+  },
+  "라인형" : {
+    "en" : "Line type",
+    "ja" : "ライン型",
+    "vi" : "Đường",
+    "zh" : "线形"
+  },
+  "사용자 정의항목" : {
+    "en" : "User-defined (Custom) Items",
+    "ja" : "ユーザー定義の項目",
+    "vi" : "Mục khách hàng",
+    "zh" : "使用者定义项目"
+  },
+  "생성이 반려되었습니다." : {
+    "en" : "Creation has been declined.",
+    "ja" : "生成が差戻しされました。",
+    "vi" : "Tạo mới đã bị từ chối.",
+    "zh" : "创建被退回了。"
+  },
+  "유효하지 않은 날짜 입니다. 시작일 또는 완료기한을 다시 입력 해주세요." : {
+    "en" : "The date is not available. Please re-enter a start date or a due date.",
+    "ja" : "日付は無効です。開始日または完了期限を再入力してください。",
+    "vi" : "Đây là ngày không có hiệu lực. Hãy nhập lại ngày bắt đầu hoặc kỳ hạn hoàn thành.",
+    "zh" : "没有效的日子。请再输入开始日或完了期限。"
+  },
+  "사진첨부" : {
+    "en" : "Attach images",
+    "ja" : "写真添付",
+    "vi" : "Đính kèm hình ảnh",
+    "zh" : "附加照片"
+  },
+  "프로젝트 책임자가 프로젝트를 공유 하였습니다." : {
+    "en" : "The Project Manager shared the project.",
+    "ja" : "プロジェクト責任者がプロジェクトを共有しました。",
+    "vi" : "Quan lý dự án đã chia sẻ dự án.",
+    "zh" : "项目负责人共享项目了。"
+  },
+  "프로젝트 책임자가 참여자로 추가 하였습니다." : {
+    "en" : "The project manager has been added as a participant.",
+    "ja" : "プロジェクトの責任者が参加者に追加しました。",
+    "vi" : "Quản lý dự án đã được thêm như người tham dự.",
+    "zh" : "项目负责人追加为参与人了。"
+  },
+  "상세정보" : {
+    "en" : "Details",
+    "ja" : "詳細",
+    "vi" : "Thông tin chi tiết",
+    "zh" : "纤细信息"
+  },
+  "다음 일감을 우선 진행함" : {
+    "en" : "Do the next work first",
+    "ja" : "次のワークを優先進行する",
+    "vi" : "Ưu tiên tiến hành công việc tiếp theo",
+    "zh" : "先进行下一个工作。"
+  },
+  "프로젝트 삭제 시 템플릿도 함께 삭제됩니다.\\n삭제하시겠습니까?" : {
+    "en" : "The template will also be deleted when the project is deleted. \\nWould you like to delete it?",
+    "ja" : "プロジェクト削除時、テンプレートも一緒に削除されます。\\n削除しますか？",
+    "vi" : "Khi xóa dự án, mẫu cũng sẽ bị xóa.\\nBạn có muốn xóa không?",
+    "zh" : "删除项目时，模板也会一起删除。\\n您确定要删除吗？"
+  },
+  "검색조건 적용" : {
+    "en" : "Apply Search Conditions",
+    "ja" : "検索条件を適用",
+    "vi" : "Áp dụng điều kiện tìm kiếm",
+    "zh" : "适用搜索条件"
+  },
+  "일감이 삭제되었습니다." : {
+    "en" : "The work was deleted.",
+    "ja" : "仕事が削除されました。",
+    "vi" : "Công việc đã được xóa.",
+    "zh" : "工作删除完了。"
+  },
+  "공유" : {
+    "en" : "Share",
+    "ja" : "共有する",
+    "vi" : "Chia sẻ",
+    "zh" : "共享"
+  },
+  "프로젝트 관리자나 담당자가 아닌 일감은 변경할 수 없습니다." : {
+    "en" : "Tasks that are not managed by the project manager or task owner cannot be changed.",
+    "ja" : "プロジェクト管理者や担当者でない仕事は変更できません。",
+    "vi" : "Các công việc không có người quản lý dự án hoặc người phụ trách công việc thì không thể được chỉnh sửa.",
+    "zh" : "无法更改不是项目管理员或负责人的项目。"
+  },
+  "상태를 삭제하면 해당 상태로 되어 있는 일감들의 상태 정보가 초기화 됩니다. 계속 하시겠습니까?" : {
+    "en" : "Deleting this status will reset the status information of the works that are in the same status. Do you want to continue?",
+    "ja" : "状態を削除すると、当該状態になっているワークの状態情報が初期化されます。続行しますか？",
+    "vi" : "Nếu bạn xóa trạng thái, thì thông tin trạng thái của việc làm được thể hiện bằng trạng thái tương ứng sẽ được khởi tạo. Bạn có muốn tiếp tục không?",
+    "zh" : "删除状态的话作为有关状态的工作状态信息会被初始化。要继续进行吗？"
+  },
+  "목록명" : {
+    "en" : "List name",
+    "ja" : "リスト名",
+    "vi" : "Tên danh sách",
+    "zh" : "目录名"
+  },
+  "관리자를 입력하세요." : {
+    "en" : "Please enter an administrator.",
+    "ja" : "管理者を入力してください。",
+    "vi" : "Vui lòng nhập tên quản trị viên.",
+    "zh" : "请输入管理者。"
+  },
+  "0은 제한이 없음을 의미합니다." : {
+    "en" : "0 means that there are no limits.",
+    "ja" : "0は制限がないことを意味します。",
+    "vi" : "khi chọn 0 tức là mục này sẽ không có giới hạn",
+    "zh" : "0说明没有限制。"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "일감상태 추가" : {
+    "en" : "Add Task Status",
+    "ja" : "タスク状態を追加",
+    "vi" : "Thêm trạng thái công việc",
+    "zh" : "追加工作状态"
+  },
+  "에서 공유 초대 요청을 거절하였습니다." : {
+    "en" : "has declined your Share Invitation Request.",
+    "ja" : "で共有招待の要請を拒否しました。",
+    "vi" : "Đã từ chối yêu cầu mời chia sẻ của bạn",
+    "zh" : "在 拒绝了共有接受邀请。"
+  },
+  "이 보고서를" : {
+    "en" : "This report is",
+    "ja" : "この報告書を",
+    "vi" : "Bản báo cáo này",
+    "zh" : "将此报告"
+  },
+  "결재" : {
+    "en" : "Approval",
+    "ja" : "決裁",
+    "vi" : "Phê duyệt",
+    "zh" : "批准"
+  },
+  "내 이슈" : {
+    "en" : "My issues",
+    "ja" : "私の問題",
+    "vi" : "Vấn đề của tôi",
+    "zh" : "我的话题"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "이번주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "这个星期"
+  },
+  "왼쪽메뉴 포함" : {
+    "en" : "Include the left menu",
+    "ja" : "左側メニューを含む",
+    "vi" : "Bao gồm menu bên trái",
+    "zh" : "包括右边项目"
+  },
+  "일감 제목" : {
+    "en" : "Task Title",
+    "ja" : "タスクのタイトル",
+    "vi" : "Tiêu đề công việc",
+    "zh" : "工作题目"
+  },
+  "사용자정의 항목이 없습니다. 사용자정의 항목을 등록 한 후 사용하세요." : {
+    "en" : "There is no user custom menu. Please use after registering user custom menu.",
+    "ja" : "ユーザー定義項目がありません。ユーザー定義項目を登録してから使用してください。",
+    "vi" : "Không có mục giải nghĩa người dùng. Hãy sử dụng sau khi thêm mục giải nghĩa người dùng.",
+    "zh" : "无用户定义项目。请在登录用户定义项目后使用。"
+  },
+  "사용시 담당자의 일감 삭제가 허용됩니다." : {
+    "en" : "Task Deletion by Assignee is Allowed when in Use.",
+    "ja" : "使用時、担当者がタスクを削除できます。",
+    "vi" : "Khi sử dụng, người phê duyệt được phép xóa công việc.",
+    "zh" : "使用时允许负责人进行删除任务。"
+  },
+  "별표하기" : {
+    "en" : "Add star mark",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "등록된 소요시간이 없습니다." : {
+    "en" : "No Time Spent found.",
+    "ja" : "登録された所要時間がありません。",
+    "vi" : "Không có dữ liệu thời lượng cần thiết được thêm.",
+    "zh" : "无已载入所需时间。"
+  },
+  "완료기한 지난 일감" : {
+    "en" : "Tasks Overdue",
+    "ja" : "完了期限が過ぎたタスク",
+    "vi" : "Công việc đã quá thời hạn hoàn thành",
+    "zh" : "经过完了期限的工作"
+  },
+  "프로젝트 메인에 표시할 업무 현황을 선택하세요." : {
+    "en" : "Please select the task status to appear on the project main page.",
+    "ja" : "プロジェクトのメインに表示する業務現況を選択してください。",
+    "vi" : "Hãy chọn tình trạng công việc muốn hiển thị trong trang chính của dự án.",
+    "zh" : "请选择在项目主页标出的业务现况。"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "Duplicate users with the manager status on Space are excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、そのユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong Space, người dùng này sẽ được loại bỏ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "초기화면으로 저장" : {
+    "en" : "Save to initial screen",
+    "ja" : "初期画面に保存する",
+    "vi" : "Lưu làm màn hình đầu",
+    "zh" : "保存为初始页面"
+  },
+  "프로젝트에서 사용 중인 일감 유형 체크 해제 시 해당 일감 유형은 초기화 됩니다." : {
+    "en" : "If you uncheck a task type used in a project, all tasks under the type will be reset.",
+    "ja" : "プロジェクトで使用されているイベント類型のチェックを解除すると、そのイベントの類型は初期化されます。",
+    "vi" : "Khi gỡ check loại hình công việc đang sử dụng trong dự án, loại hình công việc đó sẽ được khởi động lại.",
+    "zh" : "若于项目中解除使用中工作类型选择，该工作类型将被初始化。"
+  },
+  "하위 일감" : {
+    "en" : "Sub-task",
+    "ja" : "下位タスク",
+    "vi" : "Công việc thấp hơn",
+    "zh" : "下位工作"
+  },
+  "관심 현황" : {
+    "en" : "Interest Status",
+    "ja" : "お気に入りの現況",
+    "vi" : "Tình trạng quan tâm",
+    "zh" : "关心现况"
+  },
+  "선택한 일감이 없습니다. 먼저 일감을 선택해 주세요." : {
+    "en" : "No works selected.  Please choose a work first.",
+    "ja" : "選択したワークがありません。先にワークを選択してください。",
+    "vi" : "Không có công việc được chọn. Đầu tiên hãy chọn công việc.",
+    "zh" : "没有选择的工作。请先选择工作。"
+  },
+  "관련 일감은 이미 선택된 겁니다." : {
+    "en" : "The related work has already been selected.",
+    "ja" : "関連ワークはすでに選択されています。",
+    "vi" : "Công việc liên quan đã được chọn.",
+    "zh" : "有关工作已经被选择了。"
+  },
+  "일감의 수정 권한이 없습니다." : {
+    "en" : "You do not have permission to modify tasks.",
+    "ja" : "仕事の修正権限がありません。",
+    "vi" : "Bạn không có quyền sửa đổi các nhiệm vụ.",
+    "zh" : "没有相关修改权限。"
+  },
+  "올림" : {
+    "en" : "Rounding up",
+    "ja" : "上げる",
+    "vi" : "Làm tròn lên",
+    "zh" : "上舍入"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator settings",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt người quản lý",
+    "zh" : "设定管理者"
+  },
+  "사용자 선택" : {
+    "en" : "Select User",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择用户"
+  },
+  "모두 펴기" : {
+    "en" : "Expand all",
+    "ja" : "すべて広げる",
+    "vi" : "mở tất cả",
+    "zh" : "全部打开"
+  },
+  "요청자를 선택하세요." : {
+    "en" : "Please select requester.",
+    "ja" : "要請者を選択してください。",
+    "vi" : "Hãy chọn người yêu cầu.",
+    "zh" : "请选择邀请人。"
+  },
+  "시작일자" : {
+    "en" : "Starting date",
+    "ja" : "開始日付",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日子"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Please enter the content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Vui lòng nhập nội dung.",
+    "zh" : "请输入内容。"
+  },
+  "추정시간" : {
+    "en" : "Estimated time",
+    "ja" : "推定時間",
+    "vi" : "Thời gian ước tính",
+    "zh" : "预估时间"
+  },
+  "요청자" : {
+    "en" : "Requested by",
+    "ja" : "要請者",
+    "vi" : "Được đề nghị bởi",
+    "zh" : "邀请人"
+  },
+  "보고서 내용" : {
+    "en" : "Report Content",
+    "ja" : "報告書の内容",
+    "vi" : "Nội dung báo cáo",
+    "zh" : "报告书内容"
+  },
+  "{0} 항목을 시간 형식에 맞게 입력해주세요." : {
+    "en" : "Enter a time in the correct format in the {0} item.",
+    "ja" : "{0}項目を時間形式に合わせて入力してください。",
+    "vi" : "Hãy nhập hạng mục {0} đúng theo hình thức thời gian.",
+    "zh" : "请把{0}项目按照时间形式输入。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "기본검색" : {
+    "en" : "Basic Search",
+    "ja" : "基本検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "基本搜索"
+  },
+  "검색 조건을 추가해주세요." : {
+    "en" : "Add Search Filters.",
+    "ja" : "検索条件を追加してください。",
+    "vi" : "Thêm bộ lọc tìm kiếm.",
+    "zh" : "请追加搜索条件。"
+  },
+  "일감 현황" : {
+    "en" : "Task status",
+    "ja" : "仕事の状況",
+    "vi" : "Tiến độ công việc",
+    "zh" : "工作现状"
+  },
+  "연결을 끊겠습니까?" : {
+    "en" : "Do you want to disconnect?",
+    "ja" : "接続を解除しますか？",
+    "vi" : "Bạn có muốn ngắt kết nối không?",
+    "zh" : "要截断连接吗？"
+  },
+  "총" : {
+    "en" : "Total",
+    "ja" : "計",
+    "vi" : "Tổng cộng",
+    "zh" : "总"
+  },
+  "사용자 입력 방식" : {
+    "en" : "User input method",
+    "ja" : "ユーザー入力方式",
+    "vi" : "Phương thức nhập của người dùng",
+    "zh" : "使用者输入方式"
+  },
+  "결과를 묶어 보여줄 기준" : {
+    "en" : "Standards to Show Results (in a group)",
+    "ja" : "結果をまとめて表示する基準",
+    "vi" : "Tiêu chuẩn gộp kết quả và hiển thị",
+    "zh" : "把结果系上而表示的基准"
+  },
+  "지연/진행중" : {
+    "en" : "Delayed/ In Progress",
+    "ja" : "遅延/進行中",
+    "vi" : "Đã lùi lại/Đang tiến hành",
+    "zh" : "延迟/进行中"
+  },
+  "스페이스에 회원가입을 신청 하였습니다." : {
+    "en" : "You have applied to sign up for the Space as a member.",
+    "ja" : "スペースに会員加入を申請しました。",
+    "vi" : "ã đăng ký gia nhập thành viên trên Space.",
+    "zh" : "在空格申请了加入会员。"
+  },
+  "목표 진척도" : {
+    "en" : "Goal Progress",
+    "ja" : "目標進捗率",
+    "vi" : "Tiến độ mục tiêu",
+    "zh" : "目标进展度"
+  },
+  "일감 유형이 없습니다. 유형을 등록 한 후 사용하세요." : {
+    "en" : "No work types. Add a type to use.",
+    "ja" : "ワークのタイプがありません。タイプを登録した後、使用してください。",
+    "vi" : "Không có loại hình công việc. Hãy đăng ký loại hình và sử dụng.",
+    "zh" : "没有工作类型。请先登录类型后再使用。"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "검색식" : {
+    "en" : "Search formula",
+    "ja" : "検索式",
+    "vi" : "Phương thức tìm kiếm",
+    "zh" : "所艘式"
+  },
+  "일감이 복사되었습니다." : {
+    "en" : "The work was copied.",
+    "ja" : "仕事がコピーされました。",
+    "vi" : "Công việc đã được sao chép.",
+    "zh" : "工作拷贝完了。"
+  },
+  "카드형" : {
+    "en" : "Card Type",
+    "ja" : "カード型",
+    "vi" : "Thẻ",
+    "zh" : "卡片型"
+  },
+  "관심현황명을 입력해주세요." : {
+    "en" : "Input interest status name",
+    "ja" : "お気に入り名を入力してください。",
+    "vi" : "Vui lòng nhập tên tình trạng quan tâm.",
+    "zh" : "请输入关心现况名。"
+  },
+  "라디오버튼" : {
+    "en" : "Radio button",
+    "ja" : "ラジオボタン",
+    "vi" : "Nút radio",
+    "zh" : "广播按钮"
+  },
+  "프로젝트를 공유했습니다." : {
+    "en" : "Project has been shared.",
+    "ja" : "プロジェクトを共有しました。",
+    "vi" : "Dự án đã được chia sẻ.",
+    "zh" : "已分享项目。"
+  },
+  "등록된 일감이 없습니다." : {
+    "en" : "No registered tasks.",
+    "ja" : "登録されたタスクがありません。",
+    "vi" : "Không có công việc để hiển thị.",
+    "zh" : "没有登录的工作。"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "담당자 혹은 프로젝트를 선택하세요." : {
+    "en" : "Please select a person in charge or a project.",
+    "ja" : "担当者もしくはプロジェクトを選択してください。",
+    "vi" : "Hãy chọn người phụ trách hoặc dự án.",
+    "zh" : "请选择负责人或项目。"
+  },
+  "공유 수락 요청을 거절하였습니다." : {
+    "en" : "Share Request has been declined.",
+    "ja" : "共有受諾の要請を拒否しました。",
+    "vi" : "Yêu cầu mời chia sẻ của bạn đã bị từ chối,",
+    "zh" : "拒绝了共有接受邀请。"
+  },
+  "내가 등록한 이슈" : {
+    "en" : "Issues that I've added",
+    "ja" : "自分が登録した問題",
+    "vi" : "Vấn đề tôi đăng ký",
+    "zh" : "我登录的话题"
+  },
+  "스페이스 공유를 요청하였습니다." : {
+    "en" : "You have requested to share the Parent Space.",
+    "ja" : "上位スペースの共有を要請しました。",
+    "vi" : "Đã yêu cầu chia sẻ Space trên.",
+    "zh" : "邀请了上位空格共有。"
+  },
+  "사용자정의 항목을 선택하세요." : {
+    "en" : "Please select user custom menu.",
+    "ja" : "ユーザー定義項目を選択してください。",
+    "vi" : "Hãy chọn mục giải nghĩa người dùng.",
+    "zh" : "请选择用户定义项目。"
+  },
+  "유형을 삭제하면 해당 유형으로 되어 있는 일감들의 유형 정보가 초기화 됩니다. 계속 하시겠습니까?" : {
+    "en" : "Deleting this type will reset the type information of the works that are in the same type. Do you want to continue?",
+    "ja" : "タイプを削除すると、当該タイプになっているワークのタイプ情報が初期化されます。続行しますか？",
+    "vi" : "Nếu bạn xóa loại hình thì thông tin loại hình của công việc được thể hiện bằng loại hình tương ứng sẽ được khởi tạo.Bạn có muốn tiếp tục không?",
+    "zh" : "删除类型的话作为有关类型的工作类型信息会被初始化。要继续进行吗？"
+  },
+  "부서, 사용자명" : {
+    "en" : "Department, User Name",
+    "ja" : "部署、使用者名",
+    "vi" : "Bộ phận, tên người dùng",
+    "zh" : "部门，用户名"
+  },
+  "썸네일 보기" : {
+    "en" : "View Thumbnail",
+    "ja" : "サムネイルを見る",
+    "vi" : "Xem thumbnail",
+    "zh" : "查看缩略图"
+  },
+  "천단위 쉼표" : {
+    "en" : "Thousands separator",
+    "ja" : "千単位のコンマ",
+    "vi" : "Dấu ngăn cách hàng nghin",
+    "zh" : "千单位顿号"
+  },
+  "프로젝트는 프로젝트 내에서 참여자의 활동을 체계적으로 관리할 수 있도록 도울 것 입니다." : {
+    "en" : "The project will help systematically manage participant's activities within the project.",
+    "ja" : "プロジェクトはプロジェクト内で参加者の活動を計画的に管理することができるようにします。",
+    "vi" : "Dự án giúp quản lý hoạt động của các thành viên trong dự án một cách có hệ thống.",
+    "zh" : "项目有助于在项目内系统地管理参与者活动。"
+  },
+  "좌로" : {
+    "en" : "Left",
+    "ja" : "左に",
+    "vi" : "bên trái",
+    "zh" : "往左"
+  },
+  "등록된 프로젝트 템플릿이 없습니다." : {
+    "en" : "No registered Project Templates.",
+    "ja" : "登録されたプロジェクトテンプレートがありません。",
+    "vi" : "Không có mẫu dự án nào được đăng ký.",
+    "zh" : "不存在已登记的项目模板。"
+  },
+  "이슈발생" : {
+    "en" : "Issues Occurred",
+    "ja" : "問題発生",
+    "vi" : "Phát sinh vấn đề",
+    "zh" : "产生问题"
+  },
+  "내 일감 에서만" : {
+    "en" : "Only in my tasks.",
+    "ja" : "自分のタスクだけで",
+    "vi" : "Chỉ trong nhiệm vụ của tôi.",
+    "zh" : "仅在“我的任务”中"
+  },
+  "시작일 보다 완료일이 이전 입니다." : {
+    "en" : "The date completed is earlier than the date started.",
+    "ja" : "開始日より完了日が先になっています。",
+    "vi" : "Ngày hoàn thành là ngày trước ngày bắt đầu.",
+    "zh" : "开始日比完了日早。"
+  },
+  "계획중" : {
+    "en" : "Planning",
+    "ja" : "計画中",
+    "vi" : "Đang trong kế hoạch",
+    "zh" : "计划中"
+  },
+  "상태 변경" : {
+    "en" : "Change Status",
+    "ja" : "状態変更",
+    "vi" : "Thay đổi trạng thái",
+    "zh" : "变更状态"
+  },
+  "모두펼침" : {
+    "en" : "Expand all",
+    "ja" : "全て開く",
+    "vi" : "Mở rộng tất cả",
+    "zh" : "全部打开"
+  },
+  "시간 추적에 사용합니다." : {
+    "en" : "Use for time tracking.",
+    "ja" : "時間追跡に使用します。",
+    "vi" : "Sử dụng theo dõi thời gian",
+    "zh" : "适用于时间定位。"
+  },
+  "메일 발송 시 보낸 메일함에 저장 하지 않는 메일은 스페이스에 등록되지 않습니다. 계속 하시겠습니까?" : {
+    "en" : "Messages that are not saved in the Sent mailbox will not be added to Space. Do you want to continue?",
+    "ja" : "メール送信時、送信メールボックスに保存していないメールはスペースに登録されません。継続しますか？",
+    "vi" : "Khi gửi mail, những email không lưu trên hòm mail đã gửi thì sẽ không được thêm vào Space.",
+    "zh" : "发送邮件时在发件箱里没保存的邮件会不登录在空间里。要继续进行吗？"
+  },
+  "YYYY년 M월 D일" : {
+    "en" : "YYYY year M month D day",
+    "ja" : "YYYY年M月D日",
+    "vi" : "Ngày D tháng M năm YYYY",
+    "zh" : "YYYY年 M月 D日"
+  },
+  "필수" : {
+    "en" : "Required",
+    "ja" : "必須",
+    "vi" : "Cần phải có",
+    "zh" : "必须"
+  },
+  "이슈에 제목을 입력하세요." : {
+    "en" : "Add a title to the issue.",
+    "ja" : "問題の件名を入力してください",
+    "vi" : "Hãy nhập tiêu đề của vấn đề",
+    "zh" : "请在话题上输入题目。"
+  },
+  "체크박스" : {
+    "en" : "Check box",
+    "ja" : "チェックボックス",
+    "vi" : "Hộp check",
+    "zh" : "选择箱"
+  },
+  "작업을 종료합니까?" : {
+    "en" : "Do you terminate the work?",
+    "ja" : "作業を終了しますか?",
+    "vi" : "Bạn có kết thúc công việc không?",
+    "zh" : "要结束工作吗？"
+  },
+  "기본 설정" : {
+    "en" : "Default settings",
+    "ja" : "基本設定",
+    "vi" : "Thiết lập mặc định",
+    "zh" : "基本设定"
+  },
+  "프로젝트를 템플릿으로 등록해 다른 사용자와 공유합니다." : {
+    "en" : "You can add the Project as a template to share it with other users.",
+    "ja" : "プロジェクトをテンプレートとして登録し、他のユーザーと共有します。",
+    "vi" : "Đăng ký dự án như mẫu và chia sẻ với người dùng khác.",
+    "zh" : "登录为工程模板而跟别的使用者共有。"
+  },
+  "{0} 님이 {1}(을)를 {2}으로 변경했습니다." : {
+    "en" : "{0} has changed {1} to {2}.",
+    "ja" : "{0} 様が{1}を{2}に変更しました。",
+    "vi" : "{0} đã thay đổi {1} thành {2}.",
+    "zh" : "{0}已将{1}更改为{2}。"
+  },
+  "첨부파일 목록" : {
+    "en" : "Attachment List",
+    "ja" : "添付ファイルリスト",
+    "vi" : "Danh sách file đính kèm",
+    "zh" : "附件目录"
+  },
+  "프로젝트 완료" : {
+    "en" : "Project Complete",
+    "ja" : "プロジェクト完了",
+    "vi" : "Hoàn thiện dự án",
+    "zh" : "项目完毕"
+  },
+  "댓글" : {
+    "en" : "Comment",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "回帖"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "D일 [(]ddd[)]" : {
+    "en" : "D days [(]ddd[)]",
+    "ja" : "D日[]ddd[)]",
+    "vi" : "Ngày D [(]ddd[)]",
+    "zh" : "D日[(]ddd[)]"
+  },
+  "일감의 열람자로 등록되었습니다." : {
+    "en" : "You are now registered as the Task Viewer.",
+    "ja" : "仕事の閲覧者として登録されました。",
+    "vi" : "Đã thêm làm người đọc công việc.",
+    "zh" : "已登录为工作浏览人员。"
+  },
+  "스페이스 생성을 신청하였습니다." : {
+    "en" : "You have made a request to create a Space.",
+    "ja" : "スペース生成を申請しました。",
+    "vi" : "Đã đăng ký tạo Space.",
+    "zh" : "申请了创建空格。"
+  },
+  "폴더는 1 depth까지만 생성이 가능합니다." : {
+    "en" : "Folder can only be created with 1 depth.",
+    "ja" : "フォルダは1depthまで作成可能です。",
+    "vi" : "Chỉ có thể tạo thư mục tới 1 depth.",
+    "zh" : "文件夹只可生成至1depth。"
+  },
+  "하위일감 포함 복사" : {
+    "en" : "Copy including subtasks.",
+    "ja" : "下位タスクを含むコピー",
+    "vi" : "Sao chép bao gồm các công việc con.",
+    "zh" : "包括子任务的复制"
+  },
+  "회원 삭제 되었습니다." : {
+    "en" : "The member has been deleted.",
+    "ja" : "会員削除されました。",
+    "vi" : "会員削除されました。 Thành viên đã bị xóa.",
+    "zh" : "会员删除了。"
+  },
+  "표시하지 않음" : {
+    "en" : "Do not show",
+    "ja" : "表示しない",
+    "vi" : "Không biểu thị",
+    "zh" : "不表示"
+  },
+  "묶어보기" : {
+    "en" : "Grouping.",
+    "ja" : "グループ化",
+    "vi" : "Gom nhóm.",
+    "zh" : "捆绑查看"
+  },
+  "관심현황명" : {
+    "en" : "Interest Status Name",
+    "ja" : "お気に入り名",
+    "vi" : "Tên tình trạng quan tâm",
+    "zh" : "关心现况名"
+  },
+  "요약" : {
+    "en" : "Summary",
+    "ja" : "予約",
+    "vi" : "Tóm tắt",
+    "zh" : "摘要"
+  },
+  "{0} 님이 일감을 삭제했습니다." : {
+    "en" : "{0} has deleted the task.",
+    "ja" : "{0} 様が作業項目を削除しました。",
+    "vi" : "{0} đã xóa một công việc.",
+    "zh" : "{0} 已删除工作任务。"
+  },
+  "최소-최대길이 값을 확인해주세요." : {
+    "en" : "Please check the minimum-maximum length of the value.",
+    "ja" : "最小―最大の長さの数値を確認してください。",
+    "vi" : "Vui lòng kiểm tra giá trị độ dài tối thiểu-tối đa.",
+    "zh" : "请确认最小-最大长度值。"
+  },
+  "일감을 선택해 주세요." : {
+    "en" : "Select a task.",
+    "ja" : "タスクを選択してください。",
+    "vi" : "Hãy nhập công việc.",
+    "zh" : "请选择工作。"
+  },
+  "진행중인 프로젝트가 없습니다." : {
+    "en" : "There are no projects in progress.",
+    "ja" : "進行中のプロジェクトがありません。",
+    "vi" : "Không có dự án đang tiến hành.",
+    "zh" : "没有进行中的工程。"
+  },
+  "목표대비 실적" : {
+    "en" : "Performance to Target",
+    "ja" : "目標比実績",
+    "vi" : "Thành tích đối chiếu mục tiêu",
+    "zh" : "业绩目标达成对比"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "프로젝트 이동" : {
+    "en" : "Move Project",
+    "ja" : "プロジェクトを移動",
+    "vi" : "Di chuyển dự án",
+    "zh" : "移动项目"
+  },
+  "순서를 변경합니다." : {
+    "en" : "Change order.",
+    "ja" : "順番を変更します。",
+    "vi" : "Thay đổi thứ tự.",
+    "zh" : "变更顺序。"
+  },
+  "내가 조치할 이슈" : {
+    "en" : "Issues that I will handle",
+    "ja" : "自分が処理する案件",
+    "vi" : "Vấn đề tôi sẽ xử lý",
+    "zh" : "我得措施的话题"
+  },
+  "발생일" : {
+    "en" : "Date (Occurred)",
+    "ja" : "発生日",
+    "vi" : "Công việc phát sinh",
+    "zh" : "发生日"
+  },
+  "프로젝트 보기" : {
+    "en" : "View Project",
+    "ja" : "プロジェクトを見る",
+    "vi" : "Xem dự án",
+    "zh" : "查看项目"
+  },
+  "실적" : {
+    "en" : "Performance",
+    "ja" : "実績",
+    "vi" : "Thành tích",
+    "zh" : "业绩"
+  },
+  "담당자를 선택하세요." : {
+    "en" : "Select a person in charge",
+    "ja" : "担当者を選択してください。",
+    "vi" : "Chọn người phụ trách",
+    "zh" : "请选择负责人。"
+  },
+  "프로젝트 선택" : {
+    "en" : "Select Project",
+    "ja" : "プロジェクト選択",
+    "vi" : "Lựa chọn dự án",
+    "zh" : "选择工程"
+  },
+  "{0}님이 {1}(을)를 수정했습니다." : {
+    "en" : "{0} has modified {1}.",
+    "ja" : "{0}様によって{1}が修正されました。",
+    "vi" : "{0} đã chỉnh sửa {1}.",
+    "zh" : "{0}已修改了{1}。"
+  },
+  "프로젝트 템플릿" : {
+    "en" : "Project Template",
+    "ja" : "プロジェクトテンプレート",
+    "vi" : "Mẫu dự án",
+    "zh" : "工程模板"
+  },
+  "텍스트" : {
+    "en" : "Text",
+    "ja" : "テキスト",
+    "vi" : "Chữ",
+    "zh" : "文本"
+  },
+  "담당자 선택" : {
+    "en" : "Select a manager",
+    "ja" : "担当者選択",
+    "vi" : "Chọn người quản lý",
+    "zh" : "选择负责人"
+  },
+  "이슈" : {
+    "en" : "Issues",
+    "ja" : "問題",
+    "vi" : "Vấn đề",
+    "zh" : "话题"
+  },
+  "활동 로그" : {
+    "en" : "Activity logs",
+    "ja" : "活動ログ",
+    "vi" : "Nhật ký hoạt động",
+    "zh" : "活动记录"
+  },
+  "내보내기" : {
+    "en" : "Export",
+    "ja" : "エクスポート",
+    "vi" : "Xuất ra",
+    "zh" : "发出"
+  },
+  "조직도" : {
+    "en" : "Organizational chart",
+    "ja" : "組職図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "등록" : {
+    "en" : "Add",
+    "ja" : "登録",
+    "vi" : "Đăng ký",
+    "zh" : "登录"
+  },
+  "완료기한 묶음조회" : {
+    "en" : "Group View (Due Date)",
+    "ja" : "完了期限の一括照会",
+    "vi" : "Ngày hoàn thành xem nhóm",
+    "zh" : "完了期限一捆查询"
+  },
+  "토" : {
+    "en" : "Sat",
+    "ja" : "土",
+    "vi" : "Thứ 7",
+    "zh" : "周六"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete input",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa nội dung đã nhập",
+    "zh" : "删除输入内容"
+  },
+  "파일명" : {
+    "en" : "File Name",
+    "ja" : "ファイル名",
+    "vi" : "Tên Tệp",
+    "zh" : "文件名"
+  },
+  "일감 상태는 기본값을 설정해주세요." : {
+    "en" : "Please set the default value for work status.",
+    "ja" : "イベントの状態はデフォルト値を設定してください。",
+    "vi" : "Vui lòng cài đặt giá trị mặc định cho trạng thái công việc.",
+    "zh" : "请将工作状态设为基本值。"
+  },
+  "다음 일감으로부터 복사됨" : {
+    "en" : "Copied from next work",
+    "ja" : "次のワークからコピーされる",
+    "vi" : "Sao chép từ công việc tiếp theo",
+    "zh" : "从下一个工作拷贝到的"
+  },
+  "진행 일감" : {
+    "en" : "Tasks In Progress",
+    "ja" : "進行タスク",
+    "vi" : "Ngày tiến hành",
+    "zh" : "进行中的工作"
+  },
+  "선행업무가 하위업무으로 될수 없습니다." : {
+    "en" : "The prior task cannot be a subtask.",
+    "ja" : "先行業務が下位業務になることはありません。",
+    "vi" : "Nhiệm vụ đứng trước không thể là nhiệm vụ phụ được.",
+    "zh" : "先行业务不可成为下位业务。"
+  },
+  "폴더에 프로젝트로 추가하시겠습니까?" : {
+    "en" : "Add project in the folder?",
+    "ja" : "フォルダにプロジェクトとして追加しますか。",
+    "vi" : "Bạn muốn thêm thành dự án trong thư mục?",
+    "zh" : "确认将项目添加至文件夹吗？"
+  },
+  "연동된 프로젝트 및 일감에 권한이 없습니다." : {
+    "en" : "You do not have the permission for the linked project(s) or task(s).",
+    "ja" : "連携されたプロジェクト及びイベントに権限がありません。",
+    "vi" : "Không có quyền dự án và công việc được liên kết.",
+    "zh" : "于联动项目与工作无相关权限。"
+  },
+  "사용 안함 설정 시 담당자의 일감 삭제는 금지되고, 프로젝트 관리자의 일감 삭제만 허용됩니다." : {
+    "en" : "When set to 'Not in Use,' task deletion by assignees is prohibited, and only project managers can delete tasks.",
+    "ja" : "非アクティブに設定された場合、担当者のタスク削除は禁止され、プロジェクト管理者のみがタスクを削除できます。",
+    "vi" : "Nếu cài đặt không sử dụng, người phê duyệt sẽ không thể xóa công việc. Chỉ có quản trị viên dự án được phép xóa công việc.",
+    "zh" : "设置为不使用时，将禁止负责人的删除任务权限，只能对项目管理者进行删除任务。"
+  },
+  "완료상태" : {
+    "en" : "Completion Status",
+    "ja" : "完了状態",
+    "vi" : "Đã hoàn thành",
+    "zh" : "完了状态"
+  },
+  "이슈의 조치자로 등록되었습니다." : {
+    "en" : "You have been registered as the handler of an issue.",
+    "ja" : "問題措置者として登録されました。",
+    "vi" : "Bạn đã được thêm vào với tư cách là người xử lý vấn đề.",
+    "zh" : "登录为论点处理人了。"
+  },
+  "해당 연결 정보를 삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete the connection information?",
+    "ja" : "当該の接続情報を削除しますか？",
+    "vi" : "Bạn có muốn xóa thông tin liên kết tương ứng không?",
+    "zh" : "要删除有关连接信息吗？"
+  },
+  "프로젝트 진행중" : {
+    "en" : "Project In Progress",
+    "ja" : "プロジェクト進行中",
+    "vi" : "Đang tiến hành dự án",
+    "zh" : "项目进行中"
+  },
+  "템플릿명" : {
+    "en" : "Template Name",
+    "ja" : "テンプレート名",
+    "vi" : "Tên mẫu",
+    "zh" : "模板名"
+  },
+  "스페이스를 선택하세요." : {
+    "en" : "Please select Space.",
+    "ja" : "スペースを選択してください。",
+    "vi" : "Hãy chọn không gian trống",
+    "zh" : "请选择空间"
+  },
+  "프로젝트 참여자" : {
+    "en" : "Project participants",
+    "ja" : "プロジェクト参加者",
+    "vi" : "Người tham gia dự án",
+    "zh" : "工程参与人"
+  },
+  "하위부서포함" : {
+    "en" : "Include Sub-departments",
+    "ja" : "下位を含む",
+    "vi" : "Bao gồm phòng ban bên dưới",
+    "zh" : "包括下位"
+  },
+  "일감유형 추가" : {
+    "en" : "Add Task Type",
+    "ja" : "タスクタイプを追加",
+    "vi" : "Thêm loại hình công việc",
+    "zh" : "追加工作类型"
+  },
+  "프로젝트 메인" : {
+    "en" : "Project Main",
+    "ja" : "プロジェクトメイン",
+    "vi" : "Dự án chính",
+    "zh" : "项目主页"
+  },
+  "일감에 이슈를 조치되었습니다." : {
+    "en" : "An issue for the task has been resolved.",
+    "ja" : "タスクにイシューが対応されました。",
+    "vi" : "Một vấn đề cho công việc đã được giải quyết.",
+    "zh" : "任务问题已处理。"
+  },
+  "삭제된 이슈입니다." : {
+    "en" : "This is a deleted issue.",
+    "ja" : "削除された主題です。",
+    "vi" : "Vấn đề này đã được xóa.",
+    "zh" : "已删除的话题。"
+  },
+  "스페이스 관리자가 스페이스를 종료 하였습니다." : {
+    "en" : "The Space Manager has closed the Space.",
+    "ja" : "スペース管理者がスペースを終了しました。",
+    "vi" : "Người quản lý Space đã đóng Space.",
+    "zh" : "空格负管理者结束了空格。"
+  },
+  "하위 스페이스 공유를 요청하였습니다." : {
+    "en" : "You have requested to share the lower Space.",
+    "ja" : "下位スペースの共有を要請しました。",
+    "vi" : "Đã yêu cầu chia sẻ Space dưới.",
+    "zh" : "邀请了下位空格共有。"
+  },
+  "작업 시작" : {
+    "en" : "Beginning of work",
+    "ja" : "作業開始",
+    "vi" : "Bắt đầu công việc",
+    "zh" : "开始工作"
+  },
+  "관심현황 추가" : {
+    "en" : "Add Interest Status",
+    "ja" : "お気に入りに追加",
+    "vi" : "Thêm tình trạng quan tâm",
+    "zh" : "添加关心现况"
+  },
+  "프로젝트 정보" : {
+    "en" : "Project Info",
+    "ja" : "プロジェクト情報",
+    "vi" : "Thông tin dự án",
+    "zh" : "工程信息"
+  },
+  "스페이스에 회원 가입 신청이 거절 되었습니다." : {
+    "en" : "Your application to sign up for Space has been declined.",
+    "ja" : "スペースへの会員加入申請が拒否されました。",
+    "vi" : "Đã từ chối đăng ký gia nhập thành viên trên Space",
+    "zh" : "在空格被拒绝加入会员了。"
+  },
+  "현황 차트" : {
+    "en" : "Status Chart",
+    "ja" : "現況チャート",
+    "vi" : "Biểu đồ tình trạng",
+    "zh" : "现况表"
+  },
+  "변경일" : {
+    "en" : "Date modified",
+    "ja" : "変更日",
+    "vi" : "Ngày thay đổi",
+    "zh" : "变更日"
+  },
+  "일감 연결 업무" : {
+    "en" : "Linked Tasks (Work)",
+    "ja" : "タスクの連結業務",
+    "vi" : "Liên kết công việc",
+    "zh" : "工作连接业务"
+  },
+  "조치 내용" : {
+    "en" : "Details (Action)",
+    "ja" : "処理の内容",
+    "vi" : "Nội dung hành động",
+    "zh" : "措施内容"
+  },
+  "회원 가입 신청이 거절 되었습니다." : {
+    "en" : "Sign-up Request has been declined.",
+    "ja" : "会員加入の申請が拒否されました。",
+    "vi" : "Đăng ký gia nhập thành viên đã bị từ chối.",
+    "zh" : "加入会员申请被拒绝了。"
+  },
+  "등록일" : {
+    "en" : "Registration date",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "에" : {
+    "en" : "to",
+    "ja" : "に",
+    "vi" : "tại",
+    "zh" : "上"
+  },
+  "선택하신 상위 일감은 순환 의존관계를 만들 수 있습니다." : {
+    "en" : "You can create a circular dependency for the upper work you have selected.",
+    "ja" : "選択した上位ワークは、循環依存関係を作ることができます。",
+    "vi" : "Công việc trên dưới đã chọn có thể tạo quan hệ tồn tại tuần hoàn.",
+    "zh" : "您选择的上位工作可以做循环依赖关系。"
+  },
+  "{0} 항목을 날짜 형식에 맞게 입력해주세요." : {
+    "en" : "Enter a date in the correct format in the {0} item.",
+    "ja" : "{0}項目を日付形式に合わせて入力してください。",
+    "vi" : "Hãy nhập hạng mục {0} đúng theo hình thức ngày.",
+    "zh" : "请把{0}项目按照日子形式输入。"
+  },
+  "최근 1개월 이내에 등록된 이슈가 없습니다." : {
+    "en" : "No issue has been registered in the last month.",
+    "ja" : "最近1ヶ月以内に登録されたイシューがありません。",
+    "vi" : "Không có vấn đề nào được đăng ký trong 1 tháng gần đây.",
+    "zh" : "最近一个月内没有登记的问题。"
+  },
+  "허용되는 일감상태" : {
+    "en" : "Allowed Work Status",
+    "ja" : "許可されるワーク状態",
+    "vi" : "Trạng thái công việc cho phép",
+    "zh" : "允许的工作状态"
+  },
+  "진행 일감이 없습니다." : {
+    "en" : "There is no task in progress.",
+    "ja" : "進行中の仕事はありません。",
+    "vi" : "Không có công việc đang tiến hành.",
+    "zh" : "无进行中工作。"
+  },
+  "추가할 프로젝트 참여자를 선택하세요" : {
+    "en" : "Please select project members.",
+    "ja" : "追加するプロジェクトの参加者を選択してください。",
+    "vi" : "Hãy chọn người tham gia dự án muốn thêm.",
+    "zh" : "请选择要添加的项目参与者。"
+  },
+  "프로젝트 접근이 제한되었습니다." : {
+    "en" : "Access to project has been prohibited.",
+    "ja" : "プロジェクトへの接近が制限されました。",
+    "vi" : "Bị giới hạn tiếp cận dự án .",
+    "zh" : "项目访问已被限制。"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Lựa chọn",
+    "zh" : "选项"
+  },
+  "유형명을 입력 하세요." : {
+    "en" : "Enter a type name.",
+    "ja" : "タイプ名を入力してください。",
+    "vi" : "Hãy nhập tên loại hình.",
+    "zh" : "请输入类型名。"
+  },
+  "일감 번호는 숫자만 입력 가능합니다." : {
+    "en" : "You can only enter numbers in the 'Task No.' field.",
+    "ja" : "タスク番号は数字のみ入力可能です。",
+    "vi" : "Chỉ có thể nhập số cho số công việc.",
+    "zh" : "工作号码只能输入数字。"
+  },
+  "회원" : {
+    "en" : "Member",
+    "ja" : "会員",
+    "vi" : "Hội viên",
+    "zh" : "会员"
+  },
+  "배정시간" : {
+    "en" : "Assigned time",
+    "ja" : "割り当て時間",
+    "vi" : "Thời gian bố trí",
+    "zh" : "安排时间"
+  },
+  "지시/요청" : {
+    "en" : "Order/Request",
+    "ja" : "指示/リクエスト",
+    "vi" : "Yêu cầu/Đề nghị",
+    "zh" : "指示/邀请"
+  },
+  "즐겨찾기에 추가" : {
+    "en" : "Add to Favorites",
+    "ja" : "お気に入り追加",
+    "vi" : "Thêm vào mục yêu thích",
+    "zh" : "追加收藏夹"
+  },
+  "일감 수정" : {
+    "en" : "Edit Work",
+    "ja" : "タスク修正",
+    "vi" : "Sửa công việc",
+    "zh" : "修改工作"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã được xóa.",
+    "zh" : "删除了。"
+  },
+  "제목 없음" : {
+    "en" : "No subject",
+    "ja" : "アンタイトル",
+    "vi" : "Không có tiêu đề",
+    "zh" : "没有题目"
+  },
+  "다음에 진행 할 중복 일감" : {
+    "en" : "Overlapping works to do next",
+    "ja" : "次に進行する重複ワーク",
+    "vi" : "Công việc trùng lặp sẽ tiến hành tiếp theo",
+    "zh" : "下一个要进行的重复工作。"
+  },
+  "우선순위" : {
+    "en" : "Priority",
+    "ja" : "優先順位",
+    "vi" : "Thứ tự ưu tiên",
+    "zh" : "优先排位"
+  },
+  "회원 초대 요청이 거절 되었습니다." : {
+    "en" : "Member Invitation Request has been declined.",
+    "ja" : "会員招待の要請が拒否されました。",
+    "vi" : "Yêu cầu mời thành viên đã bị từ chối.",
+    "zh" : "邀请会员申请被拒绝了。"
+  },
+  "일감 항목 추가" : {
+    "en" : "Add Task items.",
+    "ja" : "イベントの項目を追加する",
+    "vi" : "Thêm mục công việc",
+    "zh" : "添加工作项目"
+  },
+  "진행중 프로젝트" : {
+    "en" : "Project in Progress",
+    "ja" : "進行中のプロジェクト",
+    "vi" : "Dự án đang tiến hành",
+    "zh" : "进行中项目"
+  },
+  "이다" : {
+    "en" : "is",
+    "ja" : "である",
+    "vi" : "Là",
+    "zh" : "是"
+  },
+  "템플릿을 완전삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to permanently delete the template?",
+    "ja" : "テンプレートを完全に削除しますか？",
+    "vi" : "Bạn có chắc chắn muốn xóa hoàn toàn mẫu này không?",
+    "zh" : "您确定要完全删除模板吗？"
+  },
+  "{0} 님이 일감을 완료했습니다." : {
+    "en" : "{0} has completed the task.",
+    "ja" : "{0}さんがタスクを完了しました。",
+    "vi" : "Anh/ chị {0} đã hoàn thành công việc.",
+    "zh" : "{0} 完成了工作。"
+  },
+  "일감의 담당자로 등록되었습니다." : {
+    "en" : "You have been appointed as the manager of the task.",
+    "ja" : "ワークの担当者として登録されました。",
+    "vi" : "Đã đăng ký như người quan lý công việc.",
+    "zh" : "登录为工作负责人了。"
+  },
+  "마일스톤(표시하지 않음)" : {
+    "en" : "Milestone",
+    "ja" : "マイルストーン",
+    "vi" : "Cột mốc đã vượt qua",
+    "zh" : "迈尔斯通"
+  },
+  "일감에 열람자로 등록되었습니다." : {
+    "en" : "You have been assigned as the viewer for the task.",
+    "ja" : "タスクに閲覧者として登録されました。",
+    "vi" : "Bạn đã được chỉ định là người xem cho công việc.",
+    "zh" : "已注册为任务查看者。"
+  },
+  "공유자 선택" : {
+    "en" : "Select Sharer",
+    "ja" : "共有者選択",
+    "vi" : "Chọn người chia sẻ",
+    "zh" : "选择共有者"
+  },
+  "일감 이력에도 추가" : {
+    "en" : "Add to the job history as well.",
+    "ja" : "ジョブ履歴にも追加",
+    "vi" : "Thêm vào lý lịch làm việc",
+    "zh" : "添加于工作历史"
+  },
+  "프로젝트 메인 화면 설정" : {
+    "en" : "Project main screen setting",
+    "ja" : "プロジェクトメイン画面の設定",
+    "vi" : "Cài đặt màn hình chính dự án",
+    "zh" : "设置项目内页面"
+  },
+  "{0}님이 일감을 이동했습니다." : {
+    "en" : "{0} has moved the task.",
+    "ja" : "{0}さんが仕事を移動しました。",
+    "vi" : "{0} đã di chuyển công việc.",
+    "zh" : "{0}已移动任务。"
+  },
+  "반올림" : {
+    "en" : "Rounding off",
+    "ja" : "丸める",
+    "vi" : "Làm tròn",
+    "zh" : "舍入"
+  },
+  "날짜 선택" : {
+    "en" : "Select date",
+    "ja" : "日時選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "기본값으로 사용" : {
+    "en" : "Use default value.",
+    "ja" : "デフォルト値として使用する",
+    "vi" : "Sử dụng làm giá trị mặc định",
+    "zh" : "使用基本项"
+  },
+  "버전을 입력하세요." : {
+    "en" : "Please create a version.",
+    "ja" : "バージョンを入力してください。",
+    "vi" : "Hãy nhập phiên bản.",
+    "zh" : "请输入版本。"
+  },
+  "일감에 댓글이 등록되었습니다." : {
+    "en" : "A new comment has been added to the task.",
+    "ja" : "ワークのコメントが登録されました。",
+    "vi" : "Bình luận đã được đăng trên công việc.",
+    "zh" : "工作上有了回帖。"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Mô tả",
+    "zh" : "说明"
+  },
+  "하위 일감이 없습니다." : {
+    "en" : "No sub-tasks.",
+    "ja" : "下位のタスクがありません。",
+    "vi" : "Không có công việc",
+    "zh" : "没有下位工作。"
+  },
+  "일감에서 사용할 항목을 추가합니다." : {
+    "en" : "Add items to use in Task.",
+    "ja" : "イベントから使用する項目を追加します。",
+    "vi" : "Thêm mục sẽ sử dụng trong công việc.",
+    "zh" : "添加工作中使用的项目。"
+  },
+  "프로젝트를 폴더 목록에서 삭제하였습니다." : {
+    "en" : "Project has been deleted from the folder list.",
+    "ja" : "プロジェクトをフォルダリストから削除しました。",
+    "vi" : "Đã xóa dự án khỏi danh sách thư mục.",
+    "zh" : "已从文件夹目录中删除项目。"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "일감상태" : {
+    "en" : "Task Status",
+    "ja" : "タスクの状態",
+    "vi" : "Trạng thái công việc",
+    "zh" : "工作状态"
+  },
+  "등록된 버전이 없습니다." : {
+    "en" : "No saved version found.",
+    "ja" : "登録されたバージョンがありません。",
+    "vi" : "Không có dữ liệu phiên bản đã được đăng ký.",
+    "zh" : "无已载入模式。"
+  },
+  "금" : {
+    "en" : "Fri",
+    "ja" : "金",
+    "vi" : "Thứ 6",
+    "zh" : "周五"
+  },
+  "등록하고 계속" : {
+    "en" : "Register & Continue",
+    "ja" : "登録して続く",
+    "vi" : "Đăng ký và tiếp tục.",
+    "zh" : "保存并继续"
+  },
+  "{0} 님이 {1}(을)를 {2} 에(게) 공유했습니다." : {
+    "en" : "{0} is sharing {1} with {2}.",
+    "ja" : "{0}さんが{1}を{2}さんに共有した",
+    "vi" : "Anh/ chị {0} đã chia sẻ {1} tới {2}.",
+    "zh" : "{0} 把 {1}共享给 {2}了。"
+  },
+  "버전을 추가하여 관리합니다." : {
+    "en" : "Add a version to manage.",
+    "ja" : "バージョンを追加して管理します。",
+    "vi" : "Thêm và quản lý phiên bản",
+    "zh" : "添加版本并管理。"
+  },
+  "읽기/쓰기" : {
+    "en" : "Read/Write",
+    "ja" : "読む/書く",
+    "vi" : "Đọc/ Viết",
+    "zh" : "读/写"
+  },
+  "보고서 설정" : {
+    "en" : "Report settings",
+    "ja" : "報告書の設定",
+    "vi" : "Cài đặt báo cáo",
+    "zh" : "报告设置"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "선택한 사용자와 프로젝트를 관심 현황으로 추가합니다." : {
+    "en" : "Add selected users and projects to 'Interested'",
+    "ja" : "選択したユーザーとプロジェクトをお気に入り状況として追加します。",
+    "vi" : "Đã thêm người dùng và dự án đã chọn vào trạng thái quan tâm.",
+    "zh" : "将已选使用者与项目添加为星标现况。"
+  },
+  "스페이스 결재분류 선택" : {
+    "en" : "Select Space Approval Classification",
+    "ja" : "スペース決裁分類の選択",
+    "vi" : "Chọn phân loại phê duyệt không gian",
+    "zh" : "选择空间审批分类"
+  },
+  "수" : {
+    "en" : "Wed",
+    "ja" : "水",
+    "vi" : "Thứ 4",
+    "zh" : "星期三"
+  },
+  "기한없음" : {
+    "en" : "No Due Date",
+    "ja" : "期限なし",
+    "vi" : "Không có thời hạn",
+    "zh" : "没有期限"
+  },
+  "닫힘" : {
+    "en" : "Closed",
+    "ja" : "クローズ",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "목표버전" : {
+    "en" : "Goals",
+    "ja" : "目標バージョン",
+    "vi" : "Phiên bản mục tiêu",
+    "zh" : "目标版本"
+  },
+  "작업분류" : {
+    "en" : "Work Classification",
+    "ja" : "作業の分類",
+    "vi" : "Phân loại công việc",
+    "zh" : "作业分类"
+  },
+  "완료 버전" : {
+    "en" : "Complete Version",
+    "ja" : "完了バージョン",
+    "vi" : "Phiên bản hoàn thành",
+    "zh" : "已完成版本"
+  },
+  "완전 삭제" : {
+    "en" : "Delete Permanently",
+    "ja" : "完全削除",
+    "vi" : "Xóa vĩnh viễn",
+    "zh" : "完全删除"
+  },
+  "일감 선택" : {
+    "en" : "Select Task",
+    "ja" : "タスク選択",
+    "vi" : "Lựa chọn công việc",
+    "zh" : "选择工作"
+  },
+  "첨부파일" : {
+    "en" : "Attached file",
+    "ja" : "添付ファイル",
+    "vi" : "File đính kèm",
+    "zh" : "附件"
+  },
+  "일감이 등록되었습니다." : {
+    "en" : "Task has been registered.",
+    "ja" : "タスクが登録されました。",
+    "vi" : "Công việc đã được đăng ký.",
+    "zh" : "任务已注册。"
+  },
+  "{0} 님이 {1}(을)를 {2}했습니다." : {
+    "en" : "{0} did {2} {1}.",
+    "ja" : "{0}さんが{1}を{2} しました。",
+    "vi" : "Anh/ chị {0} đã {2} {1}.",
+    "zh" : "{0} 把 {1}{2}了。"
+  },
+  "로드맵을 사용합니다. 버전을 생성하고, 일감에 생성한 목표버전을 부여하여 관리합니다." : {
+    "en" : "Road Map will be used. Create a version and add targets to tasks to manage.",
+    "ja" : "ロードマップを使います。バージョンを作成し、イベントに作成した目標バージョンを付与して管理します。",
+    "vi" : "Sử dụng lộ trình. Tạo phiên bản, trang bị và quản lý phiên bản mục tiêu đã tạo trong công việc.",
+    "zh" : "使用产品开发说明会。展望蓝图，为工作生成目标进行管理。"
+  },
+  "담당자별 묶음조회" : {
+    "en" : "Group View (by Manager)",
+    "ja" : "担当者別の一括照会",
+    "vi" : "Xem theo nhóm theo từng người quản lý",
+    "zh" : "查询负责人别捆"
+  },
+  "메뉴 등록 시 대상시스템을 그룹웨어로 선택하세요." : {
+    "en" : "When adding the menu, select the target system as groupware.",
+    "ja" : "メニューを登録する時に、対象システムをグループウェアに選択してください。",
+    "vi" : "Hãy chọn hệ thống đối tượng khi thêm menu làm groupware.",
+    "zh" : "载入菜单式请将对象系统选为组件。"
+  },
+  "소요시간 항목 추가" : {
+    "en" : "Add items for Time Spent.",
+    "ja" : "所要時間の項目を追加する",
+    "vi" : "Thêm mục thời lượng",
+    "zh" : "添加所需时间项目"
+  },
+  "템플릿 등록" : {
+    "en" : "Template registration",
+    "ja" : "テンプレート登録",
+    "vi" : "Thêm mẫu",
+    "zh" : "注册模板"
+  },
+  "트리보기" : {
+    "en" : "View tree",
+    "ja" : "ツリー表示",
+    "vi" : "Xem biểu đồ cây",
+    "zh" : "看树"
+  },
+  "담당자명" : {
+    "en" : "Manager Name",
+    "ja" : "担当者名",
+    "vi" : "Tên người phụ trách",
+    "zh" : "负责人姓名"
+  },
+  "저장하시겠습니까?" : {
+    "en" : "Do you want to save it?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu không?",
+    "zh" : "要保存吗？"
+  },
+  "진척도 수정" : {
+    "en" : "Edit Progress",
+    "ja" : "進捗度の修正",
+    "vi" : "Sửa tiến độ",
+    "zh" : "修改进度"
+  },
+  "펼침" : {
+    "en" : "Unfold",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "포함하지 않는" : {
+    "en" : "Excluding",
+    "ja" : "含まない",
+    "vi" : "Không bao gồm",
+    "zh" : "不包括的"
+  },
+  "일감이 존재 하지 않아 해당 정보를 표시 할 수 없습니다. 창은 자동으로 닫힙니다." : {
+    "en" : "Unable to display related information because the task does not exist. Window will be closed automatically.",
+    "ja" : "タスクが存在していないためこの情報を表示できません。 ウィンドウを自動的に閉じます。",
+    "vi" : "Không thể hiển thị thông tin vì công việc tương ứng không tồn tại. Sẽ tự động đóng cửa sổ.",
+    "zh" : "没有工作，无法显示相关信息。窗口会自动关闭。"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Cài đặt lại",
+    "zh" : "初始化"
+  },
+  "블럭형" : {
+    "en" : "Block-type",
+    "ja" : "ブロック型",
+    "vi" : "Khóa",
+    "zh" : "块型"
+  },
+  "프로젝트를 선택해 주세요." : {
+    "en" : "Select a project",
+    "ja" : "プロジェクトを選択してください。",
+    "vi" : "Chọn dự án",
+    "zh" : "请选择工程项目。"
+  },
+  "유형을 사용할 수 있는 프로젝트를 선택합니다." : {
+    "en" : "Please select a project that can use the type.",
+    "ja" : "タイプを使用できるプロジェクトを選択します。",
+    "vi" : "Chọn dự án có thể sử dụng loại hình.",
+    "zh" : "选择可使用类型的项目。"
+  },
+  "별표해제" : {
+    "en" : "Unstar",
+    "ja" : "スターを解除する",
+    "vi" : "Bỏ dấu sao",
+    "zh" : "解除点星"
+  },
+  "소수점 자릿수 제한" : {
+    "en" : "Limit decimal places",
+    "ja" : "小数点以下の桁数制限",
+    "vi" : "Giới hạn chữ số thập phân",
+    "zh" : "小数点位数 限制"
+  },
+  "연결 일감을 선택 하세요." : {
+    "en" : "Choose a connected work.",
+    "ja" : "接続ワークを選択してください。",
+    "vi" : "Hãy chọn công việc liên kết.",
+    "zh" : "请选择连接工作。"
+  },
+  "목록 값" : {
+    "en" : "List Value",
+    "ja" : "リスト値",
+    "vi" : "Giá trị Danh sách",
+    "zh" : "目录价"
+  },
+  "로드맵에 표시" : {
+    "en" : "Mark on the Road Map",
+    "ja" : "ロードマップに表示",
+    "vi" : "Biểu thị trên lộ trình",
+    "zh" : "标于产品开发说明会"
+  },
+  "작업시간" : {
+    "en" : "Work time",
+    "ja" : "作業時間",
+    "vi" : "Thời gian làm việc",
+    "zh" : "工作时间"
+  },
+  "참여자" : {
+    "en" : "Participant(s)",
+    "ja" : "参加者",
+    "vi" : "Người tham gia",
+    "zh" : "参与者"
+  },
+  "읽기" : {
+    "en" : "Read",
+    "ja" : "読む",
+    "vi" : "Đọc",
+    "zh" : "读"
+  },
+  "관심현황" : {
+    "en" : "Interest Status",
+    "ja" : "お気に入り",
+    "vi" : "Tình trạng quan tâm",
+    "zh" : "关心现况"
+  },
+  "마일스톤" : {
+    "en" : "Milestone",
+    "ja" : "マイルストーン",
+    "vi" : "Cột mốc đã vượt qua",
+    "zh" : "迈尔斯通"
+  },
+  "종료일 기준" : {
+    "en" : "From End Date",
+    "ja" : "終了日基準",
+    "vi" : "Ngày kết thúc tiêu chuẩn",
+    "zh" : "为结束日标准"
+  },
+  "담당자가 아닌 일감은 수정되지 않습니다.\\n진행하시겠습니까?" : {
+    "en" : "Tasks that are not assigned to you will not be modified.\\nWould you like to proceed?",
+    "ja" : "担当者でない仕事は修正されません。\\n進行しますか？",
+    "vi" : "Các phần công việc không do bạn phụ trách sẽ không được chỉnh sửa. \\nBạn có muốn tiếp tục không?",
+    "zh" : "只有负责人才能修改任务，其他人无法进行修改。\\n您是否要继续？"
+  },
+  "화" : {
+    "en" : "Tue",
+    "ja" : "火",
+    "vi" : "Thứ 3",
+    "zh" : "周二"
+  },
+  "버튼 방식" : {
+    "en" : "Button method",
+    "ja" : "ボタン方式",
+    "vi" : "Phương pháp nút",
+    "zh" : "案件方式"
+  },
+  "항목 입력규칙" : {
+    "en" : "Item Input Rule",
+    "ja" : "項目の入力規則",
+    "vi" : "Quy tắc nhập danh mục",
+    "zh" : "项目输入规则"
+  },
+  "주요 산출물" : {
+    "en" : "Main Outputs",
+    "ja" : "主な産出物",
+    "vi" : "Sản phẩm chính",
+    "zh" : "主要产出"
+  },
+  "일감유형을 추가합니다." : {
+    "en" : "Add a task type.",
+    "ja" : "イベントタイプを追加します。",
+    "vi" : "Thêm loại hình công việc.",
+    "zh" : "添加工作类型。"
+  },
+  "마일스톤에 표시 할 완료기한을 입력해 주세요." : {
+    "en" : "Choose a due date to mark on the milestone.",
+    "ja" : "マイルストーンに表示する完了期限を入力してください。",
+    "vi" : "Hãy nhập kỳ hạn hoàn thành để đánh dấu trên cột mốc.",
+    "zh" : "请输入在迈尔斯通上要表示的完了期限。"
+  },
+  "이동 선택" : {
+    "en" : "Select move.",
+    "ja" : "移動を選択",
+    "vi" : "Lựa chọn di chuyển",
+    "zh" : "移动选择"
+  },
+  "대기 일감이 없습니다." : {
+    "en" : "There is no task on standby.",
+    "ja" : "待機中の仕事はありません。",
+    "vi" : "Không có công việc đang chờ.",
+    "zh" : "无等候工作。"
+  },
+  "마일스톤(표시)" : {
+    "en" : "Milestone",
+    "ja" : "マイルストーン",
+    "vi" : "Cột mốc đã vượt qua",
+    "zh" : "迈尔斯通"
+  },
+  "기본 값을 삭제하면, 일감 등록이 제한됩니다. \\n계속하시겠습니까?" : {
+    "en" : "If you delete the basic value, work registration will be restricted. \\n Would you like to proceed?",
+    "ja" : "基本値を削除すると、仕事の登録が制限されます。\\n続きますか?",
+    "vi" : "Nếu bạn xóa giá trị cơ bản, đăng ký công việc sẽ bị hạn chế. \\n Bạn có muốn tiếp tục không?",
+    "zh" : "若删除默认值，工作登记会受限制。 确定要\\n继续吗?"
+  },
+  "계획" : {
+    "en" : "Plan",
+    "ja" : "計画",
+    "vi" : "Kế hoạch",
+    "zh" : "计划"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "회원 잠금 되었습니다." : {
+    "en" : "The member has been locked.",
+    "ja" : "会員ロックされました。",
+    "vi" : "Đã bị khóa thành viên.",
+    "zh" : "会员锁定了。"
+  },
+  "전체 추가" : {
+    "en" : "Add All",
+    "ja" : "全体追加",
+    "vi" : "Thêm toàn bộ",
+    "zh" : "全部添加"
+  },
+  "사용중인 프로젝트 목록을 조회합니다." : {
+    "en" : "Look up Project List in use.",
+    "ja" : "使用中のプロジェクトリストを照会します。",
+    "vi" : "Xem danh sách dự án đang sử dụng.",
+    "zh" : "查询使用中的项目目录。"
+  },
+  "프로젝트 폴더" : {
+    "en" : "Project folder",
+    "ja" : "プロジェクトフォルダ",
+    "vi" : "Thư mục dự án",
+    "zh" : "项目文件夹"
+  },
+  "일감유형 묶음조회" : {
+    "en" : "Group View (Task Type)",
+    "ja" : "ワークタイプの一括照会",
+    "vi" : "Xem theo nhóm kiểu công việc",
+    "zh" : "工作类型一捆查询"
+  },
+  "일감 정보" : {
+    "en" : "Task Information",
+    "ja" : "タスク情報",
+    "vi" : "Thông tin công việc",
+    "zh" : "工作信息"
+  },
+  "일반 검색" : {
+    "en" : "General search",
+    "ja" : "一般検索",
+    "vi" : "Tìm kiếm chung",
+    "zh" : "常规搜索"
+  },
+  "템플릿 옵션" : {
+    "en" : "Template Options",
+    "ja" : "テンプレートオプション",
+    "vi" : "Tùy chọn mẫu",
+    "zh" : "模板选项"
+  },
+  "프로젝트 설명" : {
+    "en" : "Project Description",
+    "ja" : "プロジェクト説明",
+    "vi" : "Mô tả dự án",
+    "zh" : "项目说明"
+  },
+  "즉시" : {
+    "en" : "Right Now",
+    "ja" : "すぐに",
+    "vi" : "Ngay lập tức",
+    "zh" : "立即"
+  },
+  "해당 이력을 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the history?",
+    "ja" : "この履歴を削除しますか？",
+    "vi" : "Bạn có muốn xóa lịch sử không?",
+    "zh" : "要删除有关履历吗？"
+  },
+  "상세업무" : {
+    "en" : "Task Details",
+    "ja" : "詳細業務",
+    "vi" : "Công việc chi tiết",
+    "zh" : "详细业务"
+  },
+  "등록된 사진이 없습니다." : {
+    "en" : "No photos registered.",
+    "ja" : "登録された写真がありません。",
+    "vi" : "Không có dữ liệu ảnh.",
+    "zh" : "没有注册的照片。"
+  },
+  "잠금" : {
+    "en" : "Lock",
+    "ja" : "ロック",
+    "vi" : "Khóa",
+    "zh" : "锁定"
+  },
+  "템플릿 옵션을 선택하세요." : {
+    "en" : "Select a template option.",
+    "ja" : "テンプレートオプションを選択してください。",
+    "vi" : "Vui lòng chọn tùy chọn mẫu.",
+    "zh" : "请选择模板选项。"
+  },
+  "작업 종료" : {
+    "en" : "End of Work",
+    "ja" : "作業終了",
+    "vi" : "Kết thúc công việc",
+    "zh" : "结束工作"
+  },
+  "일감에 열람자를 추가하여 인수인계 합니다." : {
+    "en" : "Add a person who can access the task list and transfer.",
+    "ja" : "タスクに閲覧者を追加して引継ぎ作業を行います。",
+    "vi" : "Thêm người xem và bàn giao tiếp nhận công việc.",
+    "zh" : "于工作内容中添加其他查看者并进行交接。"
+  },
+  "일감에 열람자를 추가하여 조회 권한을 부여합니다." : {
+    "en" : "Add a viewer to the job to grant viewing permission.",
+    "ja" : "ジョブに閲覧者を追加して照会権限を付与します。",
+    "vi" : "Thêm người đọc vào công việc và trao quyền truy cập.",
+    "zh" : "在工作中添加阅览者，赋予其查看权限。"
+  },
+  "다운로드할 첨부파일을 선택하세요." : {
+    "en" : "Select a file to download",
+    "ja" : "ダウンロードする添付ファイルを選択してください。",
+    "vi" : "Hãy chọn file đính kèm để tải xuống.",
+    "zh" : "请选择要下载的附件。"
+  },
+  "외" : {
+    "en" : "and",
+    "ja" : "他",
+    "vi" : "và",
+    "zh" : "外"
+  },
+  "삭제된 일감은 복구 할 수 없으며 하위 일감도 같이 삭제 됩니다.\\n 계속 하시겠습니까?" : {
+    "en" : "Deleting a work permanently removes it from the folder and other works in the folder will be lost, too.\\n Do you want to continue?",
+    "ja" : "削除されたワークは復旧できません。下位ワークも一緒に削除されます。\\n続行しますか？",
+    "vi" : "Công việc bị xóa sẽ không thể khôi phục lại và công việc phía dưới cũng sẽ bị xóa cùng. \\n Bạn có muốn tiếp tục không?",
+    "zh" : "删除完了的工作不可再复原而下位工作也会被删除。\\n要继续进行吗？"
+  },
+  "스페이스 책임자가 회원을 추가하였습니다." : {
+    "en" : "The Space Administrator has added the member.",
+    "ja" : "スペース責任者が会員を追加しました。",
+    "vi" : "Quản trị viên Space đã thêm thành viên.",
+    "zh" : "空格负责人追加了会员。"
+  },
+  "진행중" : {
+    "en" : "In Progress",
+    "ja" : "進行中",
+    "vi" : "Đang trong tiến trình thực hiện",
+    "zh" : "进行中"
+  },
+  "일감 삭제 허용" : {
+    "en" : "Allow Task Deletion",
+    "ja" : "タスクの削除を許可",
+    "vi" : "Cho phép xóa công việc",
+    "zh" : "允许删除任务"
+  },
+  "하위 폴더와 프로젝트가 존재합니다.\\n 하위 폴더와 프로젝트를 모두 삭제 후 다시 삭제를 진행해 주세요." : {
+    "en" : "Sub-folders and projects exist. /n Please delete all sub-folders and projects and try deleting again.",
+    "ja" : "下位フォルダーとプロジェクトが存在します。\\n下位フォルダとプロジェクトを全て削除してから、もう一度削除を行ってください。",
+    "vi" : "Tồn tại thư mục nhỏ và dự án.\\n Vui lòng tiến hành xóa lại sau khi xóa tất cả dự án và thư mục nhỏ.",
+    "zh" : "存在下级文件夹于项目。\\n 请将下级文件夹于项目全部删除后重新删除。"
+  },
+  "프로젝트 메인 설정" : {
+    "en" : "Project Main Setting",
+    "ja" : "プロジェクトのメインを設定する",
+    "vi" : "Cài đặt trang chính dự án",
+    "zh" : "设置项目主页"
+  },
+  "등록 후 계속" : {
+    "en" : "Continue after registration",
+    "ja" : "登録後に継続する",
+    "vi" : "Tiếp tục sau khi thêm",
+    "zh" : "登录后继续"
+  },
+  "필터 적용" : {
+    "en" : "Apply Filter",
+    "ja" : "フィルターを適用",
+    "vi" : "Áp dụng bộ lọc",
+    "zh" : "应用过滤器"
+  },
+  "내 프로젝트" : {
+    "en" : "My Projects",
+    "ja" : "Myプロジェクト",
+    "vi" : "Dự án của tôi",
+    "zh" : "我的工程"
+  },
+  "공유자" : {
+    "en" : "Sharers",
+    "ja" : "共有者",
+    "vi" : "Người chia sẻ",
+    "zh" : "共有人"
+  },
+  "컬럼" : {
+    "en" : "Column",
+    "ja" : "カラム",
+    "vi" : "Cột",
+    "zh" : "专栏"
+  },
+  "사진 첨부" : {
+    "en" : "Attach a photo.",
+    "ja" : "写真添付",
+    "vi" : "Đính kèm ảnh.",
+    "zh" : "附加图片"
+  },
+  "건 진행중" : {
+    "en" : "Case in progress",
+    "ja" : "件進行中",
+    "vi" : "Trường hợp đang tiến hành",
+    "zh" : "件正在进行中"
+  },
+  "관심 프로젝트에서 삭제하였습니다." : {
+    "en" : "Deleted from Interestdc Project",
+    "ja" : "お気に入りプロジェクトから削除しました。",
+    "vi" : "Đã xóa khỏi dự án quan tâm.",
+    "zh" : "已于关心项目中删除。"
+  },
+  "일감 상세목록" : {
+    "en" : "Detailed Task List",
+    "ja" : "イベントの詳細一覧",
+    "vi" : "Danh sách công việc chi tiết",
+    "zh" : "工作详细目录"
+  },
+  "주간" : {
+    "en" : "Weekly",
+    "ja" : "週間",
+    "vi" : "Hàng tuần",
+    "zh" : "周间"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "Danh sách chọn",
+    "zh" : "选择目录"
+  },
+  "왼쪽메뉴 미포함" : {
+    "en" : "Excluding Left Menu",
+    "ja" : "左側メニューを含まない",
+    "vi" : "Không bao gồm menu bên trái",
+    "zh" : "未包括右边项目"
+  },
+  "검색옵션" : {
+    "en" : "Search Options",
+    "ja" : "検索オプション",
+    "vi" : "Lựa chọn tìm kiếm",
+    "zh" : "搜索选项"
+  },
+  "사용자 직접입력" : {
+    "en" : "Enter Manually",
+    "ja" : "ユーザー入力",
+    "vi" : "Loại hình",
+    "zh" : "使用者直接输入"
+  },
+  "소요시간 등록" : {
+    "en" : "Register Time Spent",
+    "ja" : "所要時間を登録する",
+    "vi" : "Thêm thời lượng cần thiết",
+    "zh" : "记载所需时间"
+  },
+  "스페이스를 템플릿으로 등록해 다른 사용자와 공유합니다." : {
+    "en" : "You can add Space to the template and share with other people.",
+    "ja" : "スペースをテンプレートとして登録し、他のユーザーと共有します。",
+    "vi" : "Đăng ký Space như mẫu và chia sẻ với người dùng khác.",
+    "zh" : "把空格登录为模板而跟别的使用者一起共有。"
+  },
+  "회원 잠금해제 되었습니다." : {
+    "en" : "The member has been unlocked.",
+    "ja" : "会員ロックが解除されました。",
+    "vi" : "Thành viên đã được mở khóa.",
+    "zh" : "会员解除锁定了。"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "chọn ngày tháng",
+    "zh" : "选择日期"
+  },
+  "목표진척도" : {
+    "en" : "Progress Rate (Goal)",
+    "ja" : "目標進捗度",
+    "vi" : "Một mức độ tiến bộ cho các mục tiêu",
+    "zh" : "目标进度"
+  },
+  "등록된 일감 상태가 없습니다." : {
+    "en" : "No task status to show.",
+    "ja" : "登録されたタスクの状態がありません。",
+    "vi" : "Không có trạng thái công việc được đăng ký.",
+    "zh" : "没有登录的工作状态。"
+  },
+  "이슈 정보" : {
+    "en" : "Issue info",
+    "ja" : "問題の情報",
+    "vi" : "Thông tin vấn đề",
+    "zh" : "话题信息"
+  },
+  "폴더에서 프로젝트를 삭제하였습니다." : {
+    "en" : "Project was deleted from the folder.",
+    "ja" : "フォルダからプロジェクトを削除しました。",
+    "vi" : "Đã xóa dự án khỏi thư mục.",
+    "zh" : "已从文件夹中删除项目。"
+  },
+  "한 개 이상의 결재분류를 선택해 주세요." : {
+    "en" : "Please select one or more approval categories.",
+    "ja" : "1 つ以上の決裁分類を選択してください。",
+    "vi" : "Vui lòng chọn một hoặc nhiều danh mục phê duyệt.",
+    "zh" : "请选择一个或多个审批分类。"
+  },
+  "검색식명을 입력 하세요." : {
+    "en" : "Enter a search formula name.",
+    "ja" : "検索式名を入力してください。",
+    "vi" : "Hãy nhập tên khi tìm kiếm.",
+    "zh" : "请输入搜索式名。"
+  },
+  "폴더를 삭제하였습니다." : {
+    "en" : "The folder has been deleted.",
+    "ja" : "フォルダを削除しました。",
+    "vi" : "Đã xóa thư mục.",
+    "zh" : "文件夹删除完了。"
+  },
+  "실적/계획" : {
+    "en" : "Performance/ Planning",
+    "ja" : "実績/計画",
+    "vi" : "Thành tích/Kế hoạch",
+    "zh" : "业绩/计划"
+  },
+  "일감에 이슈가 수정되었습니다." : {
+    "en" : "An issue for the task has been modified.",
+    "ja" : "タスクにイシューが修正されました。",
+    "vi" : "Một vấn đề cho công việc đã được chỉnh sửa.",
+    "zh" : "任务问题已修改。"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "순서 변경" : {
+    "en" : "Change Order",
+    "ja" : "順序変更",
+    "vi" : "Thay đổi thứ tự",
+    "zh" : "更改顺序"
+  },
+  "목" : {
+    "en" : "Thu",
+    "ja" : "木",
+    "vi" : "Thứ 5",
+    "zh" : "周四"
+  },
+  "스페이스 책임자는 관리자 및 담당자로 지정할 수 없습니다." : {
+    "en" : "Space administrators cannot be designated as administrators or responsible persons.",
+    "ja" : "スペース責任者は管理者および担当者として指定できません。",
+    "vi" : "Người chịu trách nhiệm không gian không thể được chỉ định là quản trị viên hoặc người phụ trách.",
+    "zh" : "空间负责人不能被指定为管理员或责任人。"
+  },
+  "작업일" : {
+    "en" : "Workday",
+    "ja" : "作業日",
+    "vi" : "Ngày làm việc",
+    "zh" : "工作日期"
+  },
+  "바로가기" : {
+    "en" : "Go to",
+    "ja" : "ショートカット",
+    "vi" : "Đi ngay tới",
+    "zh" : "直接连接"
+  },
+  "일감 검색" : {
+    "en" : "Search a task",
+    "ja" : "仕事を検索",
+    "vi" : "Tìm kiếm công việc",
+    "zh" : "工作搜索"
+  },
+  "템플릿을 등록하였습니다." : {
+    "en" : "The template has been added.",
+    "ja" : "テンプレートを登録しました。",
+    "vi" : "Đã đăng ký mẫu.",
+    "zh" : "模板名登录完了。"
+  },
+  "상위 스페이스 요청을 거절하였습니다." : {
+    "en" : "The upper(parent) Space's request has been declined.",
+    "ja" : "上位スペースの要請を拒否しました。",
+    "vi" : "Đã từ chối yêu cầu Space trên.",
+    "zh" : "拒绝了上位空格邀请。"
+  },
+  "달성율" : {
+    "en" : "Achievement Rate",
+    "ja" : "達成率",
+    "vi" : "Mức độ hoàn thành",
+    "zh" : "达成率"
+  },
+  "스페이스 선택" : {
+    "en" : "Select Space",
+    "ja" : "スペース選択",
+    "vi" : "Chọn Space",
+    "zh" : "选择空格"
+  },
+  "검색조건 추가" : {
+    "en" : "Add Search Condition",
+    "ja" : "検索条件の追加",
+    "vi" : "Thêm điều kiện tìm kiếm",
+    "zh" : "追加搜索条件"
+  },
+  "마일스톤에 표시 할 시작일을 입력해 주세요." : {
+    "en" : "Choose a start date to mark on the milestone.",
+    "ja" : "マイルストーンに表示する開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu để đánh dấu trên cột mốc.",
+    "zh" : "请输入在迈尔斯通上要表示的开始日。"
+  },
+  "작업자" : {
+    "en" : "Worker",
+    "ja" : "作業者",
+    "vi" : "Công nhân",
+    "zh" : "工作人员"
+  },
+  "프로젝트 명은 한글 30자 미만 영문, 기호 60자 미만으로 입력해 주세요." : {
+    "en" : "A project name must be no more than 30 Korean characters or 60 English and special characters.",
+    "ja" : "プロジェクト名はハングル30文字未満、英文と記号60文字未満に入力してください。",
+    "vi" : "Hãy nhập tên dự án dưới 30 chữ tiếng Hàn, dưới 60 chữ tiếng Anh và ký hiệu.",
+    "zh" : "工程名请输入为韩文30字未满英文，符号60字未满。"
+  },
+  "이 일감을" : {
+    "en" : "This task",
+    "ja" : "このタスクを",
+    "vi" : "công việc này",
+    "zh" : "把这个工作"
+  },
+  "선택한 일감이 없거나 수정 권한이 없는 일감만 선택되어 있습니다. 확인 후 다시 시도 하시기 바랍니다." : {
+    "en" : "The work you selected is not available or you don't have permission to edit the work you selected. Please check and try again.",
+    "ja" : "選択されたワークがないか、変更権限がないワークのみを選択されています。確認後、再試行してください。",
+    "vi" : "Không có công việc đã chọn hoặc bạn đang chọn công việc không có quyền hạn sửa. Xin hãy kiểm tra và thử lại.",
+    "zh" : "没有选择的工作或只选择了没有权限修改的工作。请确认后再试试。"
+  },
+  "필수 여부" : {
+    "en" : "Is it Required?",
+    "ja" : "必須状況",
+    "vi" : "Được yêu cầu",
+    "zh" : "是否必须"
+  },
+  "공유 프로젝트" : {
+    "en" : "Shared Projects",
+    "ja" : "共有プロジェクト",
+    "vi" : "Dự án chia sẻ",
+    "zh" : "共享项目"
+  },
+  "일감 조회" : {
+    "en" : "View Work",
+    "ja" : "タスク照会",
+    "vi" : "Xem công việc",
+    "zh" : "查询工作"
+  },
+  "하위 일감 포함하여 이동되었습니다." : {
+    "en" : "Sub-jobs have been included and moved.",
+    "ja" : "下位のジョブを含めて移動されました。",
+    "vi" : "Đã di chuyển bao gồm cả công việc con.",
+    "zh" : "已包括下级工作一同移动。"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "관심 프로젝트로 추가하였습니다." : {
+    "en" : "Added as Interest project.",
+    "ja" : "お気に入りプロジェクトとして追加しました。",
+    "vi" : "Đã thêm thành dự án quan tâm.",
+    "zh" : "已添加至关心项目、"
+  },
+  "목표" : {
+    "en" : "Goal",
+    "ja" : "目標",
+    "vi" : "Mục tiêu",
+    "zh" : "目标"
+  },
+  "이전 프로젝트명" : {
+    "en" : "Previous Project Name",
+    "ja" : "以前のプロジェクト名",
+    "vi" : "Tên dự án trước đó",
+    "zh" : "以前工程名"
+  },
+  "전체 프로젝트로 설정한 유형" : {
+    "en" : "Type set as All Project",
+    "ja" : "全プロジェクトに設定した類型",
+    "vi" : "Loại hình đã cài đặt cho toàn bộ dự án",
+    "zh" : "设置为全体项目的类型"
+  },
+  "사용자가 회원가입을 신청하였습니다." : {
+    "en" : "A user has applied to join Space as a member.",
+    "ja" : "ユーザーが会員加入を申請しました。",
+    "vi" : "Người dùng đã đăng ký gia nhập thành viên.",
+    "zh" : "使用者申请了加入会员。"
+  },
+  "검색식 저장" : {
+    "en" : "Save search rules",
+    "ja" : "検索式保存",
+    "vi" : "Lưu phương thức tìm kiếm",
+    "zh" : "搜索方式保存"
+  },
+  "우선순위 추가" : {
+    "en" : "Add priority",
+    "ja" : "優先順位の追加",
+    "vi" : "Thêm thứ tự ưu tiên",
+    "zh" : "添加优先级。+I1051"
+  },
+  "일감 상세 조회" : {
+    "en" : "Work Details",
+    "ja" : "ワークの詳細照会",
+    "vi" : "Xem chi tiết công việc",
+    "zh" : "详细查询工作"
+  },
+  "데이터가 없습니다." : {
+    "en" : "There is no data.",
+    "ja" : "データがありません。",
+    "vi" : "Không có dữ liệu.",
+    "zh" : "没有数据"
+  },
+  "일감에 이슈가 등록되었습니다." : {
+    "en" : "An issue has been registered for the task.",
+    "ja" : "タスクにイシューが登録されました。",
+    "vi" : "Một vấn đề cho công việc đã được đăng ký.",
+    "zh" : "任务问题已注册。"
+  },
+  "{0} 항목은 필수입력항목입니다" : {
+    "en" : "{0} item is required.",
+    "ja" : "{0}項目は必須入力項目です",
+    "vi" : "Hạng mục {0} là hạng mục nhập cần thiết.",
+    "zh" : "{0}项目是必须得输入的项目。"
+  },
+  "연결 일감이 없습니다." : {
+    "en" : "No connected tasks.",
+    "ja" : "リンクされたタスクがありません。",
+    "vi" : "Không có công việc được liên kết",
+    "zh" : "没有连接的工作。"
+  },
+  "삭제하면 일감에 지정한 작업 분류도 초기화됩니다. 계속하시겠습니까?" : {
+    "en" : "If deleted, task classification in the Tasks will be reset. Do you wish to continue?",
+    "ja" : "削除すると、イベントに指定した作業分類も初期化されます。よろしいですか。",
+    "vi" : "Nếu xóa thì phân loại việc làm đã chỉ định trong công việc cũng sẽ được khởi tạo lại. Bạn chắc chắn muốn tiếp tục chứ?",
+    "zh" : "若删除，工作内指定的作业分类也将初始化，确认继续吗？"
+  },
+  "항목명을 입력 하세요." : {
+    "en" : "Enter an item name.",
+    "ja" : "項目名を入力してください。",
+    "vi" : "Hãy nhập tên hạng mục.",
+    "zh" : "请输入项目名。"
+  },
+  "등록된 조치 내용이 없습니다." : {
+    "en" : "No actions registered.",
+    "ja" : "登録された処理の内容がありません。",
+    "vi" : "Không có nội dung xử lý được đăng ký",
+    "zh" : "没有登录的措施内容。"
+  },
+  "적용" : {
+    "en" : "Apply",
+    "ja" : "適用",
+    "vi" : "Áp dụng",
+    "zh" : "适用"
+  },
+  "차트 설정" : {
+    "en" : "Chart settings",
+    "ja" : "チャート設定",
+    "vi" : "Thiết lập biểu đồ",
+    "zh" : "设定图表"
+  },
+  "월" : {
+    "en" : "Mon",
+    "ja" : "月",
+    "vi" : "Thứ 2",
+    "zh" : "周一"
+  },
+  "완전 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete permanently?",
+    "ja" : "完全に削除しますか？",
+    "vi" : "Bạn chắc chắn muốn xóa hoàn toàn chứ?",
+    "zh" : "您确定要彻底删除吗？"
+  },
+  "하위일감 포함 이동" : {
+    "en" : "Include sub-jobs and move them.",
+    "ja" : "下位のジョブを含めて移動",
+    "vi" : "Di chuyển bao gồm cả công việc con",
+    "zh" : "包括下级工作移动"
+  },
+  "이슈 조치" : {
+    "en" : "Handle issues",
+    "ja" : "問題処理",
+    "vi" : "Xử lý vấn đề",
+    "zh" : "话题措施"
+  },
+  "이번달" : {
+    "en" : "This Month",
+    "ja" : "今月",
+    "vi" : "Tháng này",
+    "zh" : "本月"
+  },
+  "결재 분류가 없습니다." : {
+    "en" : "There is no approval classification.",
+    "ja" : "決裁分類がありません。",
+    "vi" : "Không có phân loại phê duyệt.",
+    "zh" : "无审批分类。"
+  },
+  "첨부파일 용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付ファイル容量",
+    "vi" : "Dung lượng tệp đính kèm",
+    "zh" : "附件用量"
+  },
+  "보고 일감은 배정시간을 입력해야 합니다. 배정시간을 입력해 주세요." : {
+    "en" : "You need to add assigned time for work report. Please add assigned time.",
+    "ja" : "レポートチケットは割り当て時間を入力する必要があります。割り当て時間を入力してください。",
+    "vi" : "Bạn phải nhập thời gian bố trí công việc báo cáo. Hãy nhập thời gian bố trí.",
+    "zh" : "报告工作得输入安排时间。请输入安排时间。"
+  },
+  "신규" : {
+    "en" : "New.",
+    "ja" : "新規",
+    "vi" : "Mới.",
+    "zh" : "新建"
+  },
+  "이슈 보기" : {
+    "en" : "View issues",
+    "ja" : "問題を見る",
+    "vi" : "Xem các vấn đề",
+    "zh" : "看论点"
+  },
+  "전체일감목록" : {
+    "en" : "All Tasks List",
+    "ja" : "全体タスクリスト",
+    "vi" : "Danh sách toàn bộ công việc",
+    "zh" : "全部工作内容目录"
+  },
+  "전체보기" : {
+    "en" : "View all",
+    "ja" : "全体表示",
+    "vi" : "Xem tất cả",
+    "zh" : "全体"
+  },
+  "프로젝트 복사" : {
+    "en" : "Copy Project",
+    "ja" : "プロジェクトコピー",
+    "vi" : "Sao chép dự án",
+    "zh" : "复制项目"
+  },
+  "보고서" : {
+    "en" : "Report",
+    "ja" : "報告書",
+    "vi" : "Báo cáo",
+    "zh" : "报告书"
+  },
+  "삭제하면 일감에 지정한 우선순위도 초기화 됩니다. 계속하시겠습니까?" : {
+    "en" : "If deleted, task priority in the Tasks will be reset. Do you wish to continue?",
+    "ja" : "削除すると、イベントに指定した優先順位も初期化されます。よろしいですか。",
+    "vi" : "Nếu xóa thì thứ tự ưu tiên đã chỉ định trong công việc cũng sẽ được khởi tạo lại. Bạn chắc chắn muốn tiếp tục chứ?",
+    "zh" : "若删除。工作内指定的优先级也将初始化，确认继续吗？"
+  },
+  "사용중인 프로젝트가 포함되어 있습니다.\\n삭제하면 해당 프로젝트에서는 이 항목을 사용할 수 없습니다.\\n계속하시겠습니까?" : {
+    "en" : "You selected a Project currently in use. \\n If deleted, this item cannot be used for this project. \\n Do you wish to continue?",
+    "ja" : "使用中のプロジェクトが含まれています。\\n削除すると、そのプロジェクトではこの項目を使用することができません。\\nよろしいですか。",
+    "vi" : "Có bao gồm dự án đang sử dụng. \\n Nếu xóa thì bạn không thể sử dụng mục này trong dự án nữa. \\n Bạn chắc chắn tiếp tụcchứ?",
+    "zh" : "包括使用中的项目。\\n若删除则于该项目中无法使用此项目。\\n确认继续吗？"
+  },
+  "기획팀" : {
+    "en" : "Planning Team",
+    "ja" : "企画チーム",
+    "vi" : "Nhóm Kế hoạch",
+    "zh" : "规划团队"
+  },
+  "상위 스페이스 공유를 요청하였습니다." : {
+    "en" : "You have requested to share the Parent Space.",
+    "ja" : "上位スペースの共有を要請しました。",
+    "vi" : "Đã yêu cầu chia sẻ Space trên.",
+    "zh" : "邀请了上位空格共有。"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại hình",
+    "zh" : "类型"
+  },
+  "기본값" : {
+    "en" : "Default Value",
+    "ja" : "基本値",
+    "vi" : "Giá trị mặc định",
+    "zh" : "基本值"
+  },
+  "활동로그" : {
+    "en" : "Activity logs",
+    "ja" : "活動ログ",
+    "vi" : "Nhật ký hoạt động",
+    "zh" : "活动记录"
+  },
+  "선택 일감을" : {
+    "en" : "Selected Task",
+    "ja" : "選択したワークを",
+    "vi" : "Công việc được chọn",
+    "zh" : "把选择的工作"
+  },
+  "코드값 관리" : {
+    "en" : "Code Value Setting",
+    "ja" : "コード値管理",
+    "vi" : "Quản lý giá trị mã",
+    "zh" : "管理代码"
+  },
+  "완료여부" : {
+    "en" : "Completed",
+    "ja" : "完了の可否",
+    "vi" : "Có hoàn thành hay không",
+    "zh" : "是否完成"
+  },
+  "지연됨" : {
+    "en" : "Delayed",
+    "ja" : "遅延",
+    "vi" : "Đã lùi lại",
+    "zh" : "延迟"
+  },
+  "부동소수" : {
+    "en" : "Floating number",
+    "ja" : "浮動小数点",
+    "vi" : "Điểm nổi",
+    "zh" : "浮点数"
+  },
+  "변경된 순서가 저장되었습니다." : {
+    "en" : "Order change has been saved.",
+    "ja" : "変更された順序が保存されました。",
+    "vi" : "Đã lưu thứ tự.",
+    "zh" : "更改顺序已保存。"
+  },
+  "프로젝트 잠금" : {
+    "en" : "Lock Project",
+    "ja" : "プロジェクトロック",
+    "vi" : "Khóa dự án",
+    "zh" : "锁定项目"
+  },
+  "검색식이 최대 길이를 초과하였습니다." : {
+    "en" : "The search formula has exceeded the maximum length.",
+    "ja" : "検索式が最大文字数を超過しました。",
+    "vi" : "Công thức tìm kiếm đã vượt quá độ dài tối đa.",
+    "zh" : "搜索式超过最长限制。"
+  },
+  "첨부파일을 선택하세요." : {
+    "en" : "Choose an attachment.",
+    "ja" : "添付ファイルを選択してください。",
+    "vi" : "Hãy chọn file đính kèm.",
+    "zh" : "请选择附件。"
+  },
+  "일감 항목" : {
+    "en" : "Tasks (Items)",
+    "ja" : "仕事に関する項目",
+    "vi" : "Hạng mục công việc",
+    "zh" : "工作项目"
+  },
+  "스페이스 공유 초대를 요청하였습니다." : {
+    "en" : "You have requested to invite to share the Space",
+    "ja" : "スペース共有の招待を要請しました。",
+    "vi" : "Đã yêu cầu mời chia sẻ Space.",
+    "zh" : "邀请了空格共有邀请。"
+  },
+  "일감이 이동되었습니다." : {
+    "en" : "The work has moved.",
+    "ja" : "仕事が移動されました。",
+    "vi" : "Công việc đã được di chuyển.",
+    "zh" : "工作移动完了。"
+  },
+  "보고일감" : {
+    "en" : "Work report",
+    "ja" : "レポートタスク",
+    "vi" : "Công việc báo cáo",
+    "zh" : "报告工作"
+  },
+  "일감 목록" : {
+    "en" : "Task list",
+    "ja" : "仕事目録",
+    "vi" : "Danh sách tác vụ",
+    "zh" : "工作目录"
+  },
+  "이전" : {
+    "en" : "Previous",
+    "ja" : "前",
+    "vi" : "Trước",
+    "zh" : "前一个"
+  },
+  "내가 조치자인 이슈" : {
+    "en" : "Issues for which I am appointed as the 'person taking action'",
+    "ja" : "私が措置者である問題",
+    "vi" : "Một vấn đề mà tôi là người liên quan",
+    "zh" : "我为处理人的事件"
+  },
+  "부재유형" : {
+    "en" : "Type of absence",
+    "ja" : "不在タイプ",
+    "vi" : "Loại hình nghỉ phép/vắng mặt",
+    "zh" : "不在类型"
+  },
+  "등록된 작업 시간이 없습니다." : {
+    "en" : "There is no registered work time.",
+    "ja" : "登録された作業時間がありません。",
+    "vi" : "Không đăng ký thời gian làm việc.",
+    "zh" : "没有存档的工作时间。"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "템플릿에 추가" : {
+    "en" : "Add to Template",
+    "ja" : "テンプレートに追加",
+    "vi" : "Thêm vào mẫu",
+    "zh" : "在模板追加"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト型",
+    "vi" : "Hình thức mục lục",
+    "zh" : "目录形"
+  },
+  "시작일" : {
+    "en" : "Date Started",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日"
+  },
+  "소요시간에 사용자 정의 항목을 추가합니다." : {
+    "en" : "Add user custom items to Time Spent.",
+    "ja" : "所要時間にユーザー定義項目を追加します。",
+    "vi" : "Thêm mục giải nghĩa người dùng trong thời lượng cần thiết.",
+    "zh" : "于所需时间添加用户定义项目。"
+  },
+  "내리기" : {
+    "en" : "Down",
+    "ja" : "下げる",
+    "vi" : "Xuống",
+    "zh" : "下"
+  },
+  "프로젝트 템플릿 등록" : {
+    "en" : "Add Project Template",
+    "ja" : "プロジェクトテンプレートの登録",
+    "vi" : "Thêm mẫu dự án",
+    "zh" : "登录项目模板"
+  },
+  "상태 정보가 삭제 되었습니다." : {
+    "en" : "The status information has been deleted.",
+    "ja" : "状態情報が削除されました。",
+    "vi" : "Thông tin trạng thái đã được xóa.",
+    "zh" : "状态信息删除完了。"
+  },
+  "유형 정보가 삭제 되었습니다." : {
+    "en" : "The type information has been deleted.",
+    "ja" : "タイプ情報が削除されました。",
+    "vi" : "Thông tin loại hình đã được xóa.",
+    "zh" : "类型信息删除完了。"
+  },
+  "담당자" : {
+    "en" : "Manager",
+    "ja" : "担当者",
+    "vi" : "Người phụ trách",
+    "zh" : "负责人"
+  },
+  "하위 일감 포함하여 복사되었습니다." : {
+    "en" : "Including subtasks, it has been copied.",
+    "ja" : "下位の仕事を含めてコピーされました。",
+    "vi" : "Đã sao chép, gồm cả những công việc con.",
+    "zh" : "已复制包括子任务在内的任务。"
+  },
+  "폴더 삭제" : {
+    "en" : "Delete folder",
+    "ja" : "フォルダ削除",
+    "vi" : "Xóa thư mục",
+    "zh" : "删除文件夹"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "待机"
+  },
+  "이력" : {
+    "en" : "History",
+    "ja" : "履歴",
+    "vi" : "Lịch sử",
+    "zh" : "历史"
+  },
+  "소요시간 항목" : {
+    "en" : "Time Required",
+    "ja" : "所要時間に関する項目",
+    "vi" : "Hạng mục thời gian cần thiết",
+    "zh" : "所需时间项目"
+  },
+  "완료 여부" : {
+    "en" : "Completion Status",
+    "ja" : "完了可否",
+    "vi" : "Hoàn thành",
+    "zh" : "是否完成"
+  },
+  "상태명을 입력해주세요" : {
+    "en" : "Enter a status name",
+    "ja" : "状態名を入力してください.",
+    "vi" : "Hãy nhập tên trạng thái.",
+    "zh" : "请输入状态名"
+  },
+  "이슈가 수정되었습니다." : {
+    "en" : "The issue has been modified.",
+    "ja" : "問題が修正されました。",
+    "vi" : "Vấn đề này đã được sửa đổi.",
+    "zh" : "论点有修改。"
+  },
+  "진척도 이전 값 보다 낮은 값 허용" : {
+    "en" : "Permit values lower than previous progress records",
+    "ja" : "以前の進捗値よりも小さい値を許可する",
+    "vi" : "Cho phép giá trị thấp hơn giá trị tiến độ trước đó",
+    "zh" : "允许值低于先前进度值"
+  },
+  "미리보기" : {
+    "en" : "Preview",
+    "ja" : "プレビュー",
+    "vi" : "Xem trước",
+    "zh" : "预览"
+  },
+  "이슈 제목" : {
+    "en" : "Issue title",
+    "ja" : "問題タイトル",
+    "vi" : "Tiêu đề vấn đề",
+    "zh" : "论点题目"
+  },
+  "는 첨부할 수 없는 확장자입니다." : {
+    "en" : "is the extension that cannot be attached.",
+    "ja" : "は添付できません。",
+    "vi" : "là phần mở rộng không thể đính kèm.",
+    "zh" : "’是不可附加的扩展名。"
+  },
+  "조치일을 입력하세요." : {
+    "en" : "Please enter the date (handled)",
+    "ja" : "処理日を入力してください。",
+    "vi" : "Hãy nhập ngày xử lý.",
+    "zh" : "请输入措施日。"
+  },
+  "템플릿명 중복확인이 필요합니다." : {
+    "en" : "You must perform a Duplicate Check on the template name.",
+    "ja" : "テンプレート名の重複を確認する必要があります。",
+    "vi" : "Cần kiểm tra trùng lặp tên mẫu.",
+    "zh" : "得确认模板名是否重复。"
+  },
+  "목록 관리" : {
+    "en" : "List Management",
+    "ja" : "リストの管理",
+    "vi" : "Quản lý danh sách",
+    "zh" : "列表管理"
+  },
+  "실행" : {
+    "en" : "Execution",
+    "ja" : "実行",
+    "vi" : "Thi hành",
+    "zh" : "执行"
+  },
+  "시작일 기준" : {
+    "en" : "Start Date Standard",
+    "ja" : "開始日基準",
+    "vi" : "Tiêu chuẩn ngày bắt đầu",
+    "zh" : "开始日为标准"
+  },
+  "로드맵" : {
+    "en" : "Road Map",
+    "ja" : "ロードマップ",
+    "vi" : "Lộ trình",
+    "zh" : "产品开发说明会"
+  },
+  "폴더 추가" : {
+    "en" : "Add Folder",
+    "ja" : "フォルダ追加",
+    "vi" : "Thêm thư mục",
+    "zh" : "追加文件夹"
+  },
+  "폴더에 프로젝트로 추가하였습니다." : {
+    "en" : "Project added to the folder.",
+    "ja" : "フォルダにプロジェクトとして追加しました。",
+    "vi" : "Đã thêm thành dự án trong thư mục.",
+    "zh" : "已将项目添加至文件夹。"
+  },
+  "일감을 이동하시겠습니까?\\n이동 후 일감을 수정해주세요" : {
+    "en" : "Move task? \\n Please edit Task after moving.",
+    "ja" : "イベントを移動しますか。\\n移動してから、イベントを変更してください。",
+    "vi" : "Bạn muốn di chuyển công việc? \\n Vui lòng chỉnh sửa công việc sau khi di chuyển .",
+    "zh" : "确认移动工作吗？\\n移动后请修改工作。"
+  },
+  "읽기쓰기 권한자는 일감 요청자로 지정할 수 있습니다." : {
+    "en" : "Users with read/write permissions can be designated as task requester.",
+    "ja" : "読み書きの権限者をイベントの要請者として指定することができます。",
+    "vi" : "Người có quyền đọc và viết có thể được chỉ định là người yêu cầu công việc.",
+    "zh" : "有读写权限的用户可被指定为工作邀请人。"
+  },
+  "일감유형" : {
+    "en" : "Task Type",
+    "ja" : "タスクタイプ",
+    "vi" : "Loại công việc",
+    "zh" : "工作类型"
+  },
+  "댓글을 입력하세요." : {
+    "en" : "Enter a comment.",
+    "ja" : "コメントを入力してください。",
+    "vi" : "Hãy nhập bình luận.",
+    "zh" : "请输入回帖。"
+  },
+  "프로젝트 수정" : {
+    "en" : "Project_Edit",
+    "ja" : "プロジェクト修正",
+    "vi" : "Dự án_Chỉnh sửa",
+    "zh" : "修改工程"
+  },
+  "이슈사항" : {
+    "en" : "Issues",
+    "ja" : "問題事項",
+    "vi" : "Thông tin vấn đề",
+    "zh" : "问题情况"
+  },
+  "검색 결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果がありません。",
+    "vi" : "Không có kết quả tìm kiếm",
+    "zh" : "没有搜索结果"
+  },
+  "{0}님이 프로젝트를 수정했습니다." : {
+    "en" : "{0} has made changes to the project.",
+    "ja" : "{0}様がプロジェクトを修正しました",
+    "vi" : "{0} đã chỉnh sửa dự án.",
+    "zh" : "{0}已修改项目。"
+  },
+  "문자열" : {
+    "en" : "Character String",
+    "ja" : "文字列",
+    "vi" : "Chuỗi ký tự",
+    "zh" : "字符串"
+  },
+  "종료일자" : {
+    "en" : "End date",
+    "ja" : "終了日付",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日子"
+  },
+  "작업시간을 입력하세요." : {
+    "en" : "Enter the work time.",
+    "ja" : "作業時間を入力してください。",
+    "vi" : "Nhập thời gian làm việc.",
+    "zh" : "请输入工作时间。"
+  },
+  "일감첨부파일" : {
+    "en" : "Task Attachment",
+    "ja" : "タスクの添付ファイル",
+    "vi" : "File đính kèm công việc",
+    "zh" : "工作附件"
+  },
+  "프로젝트 삭제" : {
+    "en" : "Delete Project",
+    "ja" : "プロジェクト削除",
+    "vi" : "Xóa dự án",
+    "zh" : "删除项目"
+  },
+  "시간 추적" : {
+    "en" : "Time tracking",
+    "ja" : "時間追跡",
+    "vi" : "Theo dõi thời gian",
+    "zh" : "追踪时间"
+  },
+  "이슈 상세 조회" : {
+    "en" : "Issue specific view",
+    "ja" : "イシュー詳細照会",
+    "vi" : "Xem cụ thể về vấn đề",
+    "zh" : "详细查询论点"
+  },
+  "ZIP 파일 저장" : {
+    "en" : "ZIP file save",
+    "ja" : "ZIP ファイル保存",
+    "vi" : "Lưu file ZIP",
+    "zh" : "保存ZIP文档"
+  },
+  "위쪽에 위치한 항목이 우선순위가 가장 높습니다." : {
+    "en" : "The item located at the top has the highest priority.",
+    "ja" : "上部に位置する項目の優先順位が最も高いです。",
+    "vi" : "Mục ở phía trên là mục có thứ tự ưu tiên cao nhất.",
+    "zh" : "位于上方的选项为最优级。"
+  },
+  "폴더 수정" : {
+    "en" : "Modify folder",
+    "ja" : "フォルダ修正",
+    "vi" : "Sửa Thư mục",
+    "zh" : "修改文件夹"
+  },
+  "사내에서 공유된 다양한 템플릿을 활용하여 프로젝트를 시작해보세요." : {
+    "en" : "Start your project by utilizing various templates shared within the company.",
+    "ja" : "社内で共有された様々なテンプレートを活用してプロジェクトを開始してみてください。",
+    "vi" : "Hãy bắt đầu dự án của bạn bằng cách sử dụng nhiều mẫu khác nhau được chia sẻ trong công ty.",
+    "zh" : "利用公司内部共享的各种模板开始项目吧。"
+  },
+  "작업시간 기록" : {
+    "en" : "Record Work Time",
+    "ja" : "作業時間を記録する",
+    "vi" : "Ghi chép thời gian làm việc",
+    "zh" : "记录作业时间"
+  },
+  "일감 번호" : {
+    "en" : "Work No.",
+    "ja" : "ワーク番号",
+    "vi" : "Số công việc",
+    "zh" : "工作号码"
+  },
+  "닫힘' 상태에서는 버전 수정이 불가능 합니다. \\n계속하시겠습니까?" : {
+    "en" : "Version editing is unavailble while closed. \\n Do you wish to continue?",
+    "ja" : "「クローズ」状態ではバージョンの変更ができません。\\nよろしいですか。",
+    "vi" : "Không thể chỉnh sửa phiên bản trong trạng thái 'Đóng'. \\n Bạn chắc chắn muốn tiếp tục chứ?",
+    "zh" : "在“关闭”状态无法修改版本。\\n确认继续吗？"
+  },
+  "크기" : {
+    "en" : "Size",
+    "ja" : "サイズ",
+    "vi" : "Kích thước",
+    "zh" : "大小"
+  },
+  "첨부파일 제한" : {
+    "en" : "Attachment Restriction",
+    "ja" : "添付ファイルの制限",
+    "vi" : "Hạn chế các file đính kèm",
+    "zh" : "附件限制"
+  },
+  "복합형" : {
+    "en" : "Combination type",
+    "ja" : "複合型",
+    "vi" : "Tổng hợp",
+    "zh" : "复合形"
+  },
+  "쪽지 발송" : {
+    "en" : "Send message",
+    "ja" : "メッセージ送信",
+    "vi" : "Gửi lời nhắn",
+    "zh" : "发送纸条"
+  },
+  "마일스톤으로 표시할 일감이 없습니다." : {
+    "en" : "There are no tasks to be marked as a Milestone.",
+    "ja" : "マイルストーンに表示するタスクがありません。",
+    "vi" : "Không có công việc để hiển thị trên cột mốc.",
+    "zh" : "没有要用Milestone表示的工作。"
+  },
+  "권한이 없습니다." : {
+    "en" : "You don't have permission.",
+    "ja" : "権限がありません。",
+    "vi" : "Không có quyền hạn.",
+    "zh" : "没有权限。"
+  },
+  "일감 주소가 복사되었습니다.\\n게시판이나 메신저창에서 Ctrl+V를 눌러보세요." : {
+    "en" : "The work URL has been copied. \\n Press Ctrl+V keys on the bulletin board or Messenger.",
+    "ja" : "ワークアドレスがコピーされました。\\n掲示板やメッセンジャーのウィンドウでCtrl + Vを押してみてください。",
+    "vi" : "Địa chỉ công việc đã được sao chép. Hãy nhấn Ctrl+V ở trên trang tin nhắn hoặc bảng tin.",
+    "zh" : "工作地址拷贝完了。请在\\n留言板或聊天工具窗按Ctrl+V。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "{0} 님이 프로젝트를 등록했습니다." : {
+    "en" : "{0} added a project.",
+    "ja" : "{0}さんがプロジェクトを登録しました。",
+    "vi" : "Anh/ chị {0} đã đăng ký dự án.",
+    "zh" : "{0} 已登录项目。"
+  },
+  "내 일감" : {
+    "en" : "My Tasks",
+    "ja" : "Myタスク",
+    "vi" : "Công việc của tôi",
+    "zh" : "我的工作"
+  },
+  "미선택" : {
+    "en" : "Unselect",
+    "ja" : "未選択",
+    "vi" : "Không được chọn",
+    "zh" : "未选择"
+  },
+  "도움말" : {
+    "en" : "Help",
+    "ja" : "ヘルプ",
+    "vi" : "Trợ giúp",
+    "zh" : "帮助"
+  },
+  "모두접기" : {
+    "en" : "Close All",
+    "ja" : "全てクローズ",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部折叠"
+  },
+  "이름 목록" : {
+    "en" : "Name List",
+    "ja" : "名前のリスト",
+    "vi" : "Danh sách tên",
+    "zh" : "名字目录"
+  },
+  "폴더명을 입력해주세요." : {
+    "en" : "Enter folder name.",
+    "ja" : "フォルダ名を入力してください",
+    "vi" : "Hãy nhập tên thư mục",
+    "zh" : "请输入文件夹名。"
+  },
+  "{0} 항목은 필수선택항목입니다." : {
+    "en" : "{0} item is required.",
+    "ja" : "{0}項目は必須選択項目です。",
+    "vi" : "Hạng mục{0} là hạng mục chọn cần thiết.",
+    "zh" : "{0}项目是必须得选择的项目。"
+  },
+  "프로젝트의 전체 할당용량을 초과했습니다. \\n\\n그룹웨어 관리자에게 할당용량을 요청하세요." : {
+    "en" : "Project has exceeded the total quota. \\n\\n Contact the Groupware manager to request quota increase.",
+    "ja" : "プロジェクトの総割り当て容量を超えています。\\n\\nグループウェアの管理者に割り当て容量を要請してください。",
+    "vi" : "Đã vượt quá dung lượng phân bổ toàn bộ của dự án. \\n\\n Hãy yêu cầu dung lượng phân bổ từ người quản lý groupware .",
+    "zh" : "已超过项目整体安排容量。\\n\\n请向组件管理者申请容量安排。"
+  },
+  "이 유형에는 업무흐름이 정의되지 않았습니다." : {
+    "en" : "Workflow is not defined in this type.",
+    "ja" : "この類型には業務の流れが定義されていません。",
+    "vi" : "Dòng công việc không được xác định trong loại hình này.",
+    "zh" : "此类型未定义业务流。"
+  },
+  "관심 프로젝트로 추가하시겠습니까?" : {
+    "en" : "Add as an Interested project?",
+    "ja" : "お気に入りプロジェクトとして追加しますか。",
+    "vi" : "Bạn muốn thêm thành dự án quan tâm không?",
+    "zh" : "确认添加为关心项目吗？"
+  },
+  "다중선택" : {
+    "en" : "Multiple Choice",
+    "ja" : "複数選択",
+    "vi" : "Chọn đa số",
+    "zh" : "多种选择"
+  },
+  "프로젝트 추가" : {
+    "en" : "Add Project",
+    "ja" : "プロジェクト追加",
+    "vi" : "Thêm dự án",
+    "zh" : "追加项目"
+  },
+  "템플릿옵션" : {
+    "en" : "Template Options",
+    "ja" : "テンプレートオプション",
+    "vi" : "Tùy chọn mẫu",
+    "zh" : "模板选项"
+  },
+  "조치 내용을 입력하세요." : {
+    "en" : "Please enter how you have handled the issue.",
+    "ja" : "処理内容を入力してください。",
+    "vi" : "Hãy nhập nội dung xử lý",
+    "zh" : "请输入要措施的内容。"
+  },
+  "스페이스의 공유자로 등록되었습니다." : {
+    "en" : "Registered as a sharer of Space.",
+    "ja" : "スペースの共有者に登録されました。",
+    "vi" : "Bạn đã đăng ký với tư cách là chủ của Space",
+    "zh" : "已注册为space的共享者。"
+  },
+  "부모 업무중 연결된 업무가 있어 이동할 수 없습니다." : {
+    "en" : "It cannot move because there is a connected task in the parent task.",
+    "ja" : "親業務の中で連結された業務があり、移動することができません。",
+    "vi" : "Không thể tiến hành di chuyển bởi trong nhiệm vụ lớn có chứa nhiệm vụ liên quan.",
+    "zh" : "父母业务中有连接的业务而不可移动。"
+  },
+  "일" : {
+    "en" : "Sun",
+    "ja" : "日",
+    "vi" : "Chủ nhật",
+    "zh" : "号"
+  },
+  "등록된 프로젝트가 없습니다." : {
+    "en" : "No projects to show.",
+    "ja" : "登録されたプロジェクトがありません。",
+    "vi" : "Không có dự án được đăng ký.",
+    "zh" : "没有登录的工程。"
+  },
+  "{0}님이 {1}(을)를 추가했습니다." : {
+    "en" : "{0} has added {1}.",
+    "ja" : "{0}様によって{1}が追加されました。",
+    "vi" : "{0} đã thêm {1}.",
+    "zh" : "{0}已添加了{1}。"
+  },
+  "연결끊기" : {
+    "en" : "Disconnect",
+    "ja" : "接続解除",
+    "vi" : "Ngắt kết nối",
+    "zh" : "截断连接"
+  },
+  "정보를 수정하시겠습니까?" : {
+    "en" : "Do you want to edit the information?",
+    "ja" : "情報を修正しますか？",
+    "vi" : "Bạn có muốn sửa thông tin không?",
+    "zh" : "要修改信息吗？"
+  },
+  "하위 스페이스 요청을 거절하였습니다." : {
+    "en" : "The lower Space's request has been declined.",
+    "ja" : "下位スペースの要請を拒否しました。",
+    "vi" : "Đã từ chối yêu cầu Space dưới.",
+    "zh" : "拒绝了下位空格邀请。"
+  },
+  "등록된 이슈가 없습니다." : {
+    "en" : "No issues found",
+    "ja" : "登録された問題がありません。",
+    "vi" : "Không có vấn đề được đăng ký.",
+    "zh" : "没有登录的话题。"
+  },
+  "회원이 없습니다." : {
+    "en" : "No members.",
+    "ja" : "会員がありません。",
+    "vi" : "Không có hội viên.",
+    "zh" : "没有会员。"
+  },
+  "새 프로젝트 생성" : {
+    "en" : "Create New Project",
+    "ja" : "新規プロジェクトの生成",
+    "vi" : "Tạo dự án mới",
+    "zh" : "创建新的项目"
+  },
+  "4가지 타입 중 나에게 맞는 메인 화면을 선택하세요." : {
+    "en" : "Choose the main screen that fits you from the four options.",
+    "ja" : "4つのタイプのうち、自分に合うメイン画面を選択してください。",
+    "vi" : "Hãy chọn màn hình chính mà bạn thích trong 4 kiểu màn hình.",
+    "zh" : "请于4个选项中选出符合我的业务现况。"
+  },
+  "다음 일감과 관련됨" : {
+    "en" : "Related to the next task",
+    "ja" : "次の仕事と関連あり",
+    "vi" : "Liên quan tới công việc tiếp theo",
+    "zh" : "与下一工作相关"
+  },
+  "저자" : {
+    "en" : "Author",
+    "ja" : "著者",
+    "vi" : "Tác giả",
+    "zh" : "作者"
+  },
+  "일감 제목을 입력 하세요." : {
+    "en" : "Enter a work title.",
+    "ja" : "ワークのタイトルを入力してください。",
+    "vi" : "Hãy nhập tiêu đề công việc.",
+    "zh" : "请输入工作题目。"
+  },
+  "활동 로그 정보가 없습니다." : {
+    "en" : "There is no activity log information.",
+    "ja" : "活動ログ情報がありません。",
+    "vi" : "Không ghi nhận thấy có thông tin hoạt động đăng nhập.",
+    "zh" : "没有活动登录信息。"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Phòng ban/bộ phận",
+    "zh" : "部门"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space manager",
+    "ja" : "スペースのホスト",
+    "vi" : "Người phụ trách Spacce",
+    "zh" : "空间负责人"
+  },
+  "등록된 일감 첨부파일이 없습니다." : {
+    "en" : "No task attachments to show.",
+    "ja" : "登録されたタスクの添付ファイルがありません。",
+    "vi" : "Không có file đính kèm công việc được đăng ký.",
+    "zh" : "没有登录的工作附件。"
+  },
+  "연결 업무가 없습니다." : {
+    "en" : "No connected tasks",
+    "ja" : "連結業務がありません。",
+    "vi" : "Không có công việc liên kết",
+    "zh" : "没有连接业务 。"
+  },
+  "이미 존재하는 템플릿명입니다." : {
+    "en" : "The template name is not available.",
+    "ja" : "すでに存在するテンプレート名です。",
+    "vi" : "Đây là mẫu đã tồn tại.",
+    "zh" : "已经存在的模板名。"
+  },
+  "일감 설정" : {
+    "en" : "Task settings",
+    "ja" : "仕事設定",
+    "vi" : "Cài đặt tác vụ",
+    "zh" : "相关设定"
+  },
+  "일감 상태가 없습니다. 상태를 등록 한 후 사용하세요." : {
+    "en" : "No work status. Add a status to use.",
+    "ja" : "ワークの状態がありません。状態を登録した後、使用してください。",
+    "vi" : "Không có trạng thái công việc. Hãy đăng ký trạng thái và sử dụng.",
+    "zh" : "没有工作状态。请先登录状态后再使用。"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件夹名"
+  },
+  "관심 프로젝트" : {
+    "en" : "Interesting Project",
+    "ja" : "興味のあるプロジェクト",
+    "vi" : "Dự án quan tâm",
+    "zh" : "关心项目"
+  },
+  "새창으로 보기" : {
+    "en" : "View in new window",
+    "ja" : "新しいウィンドウで表示",
+    "vi" : "Xem trong cửa sổ mới",
+    "zh" : "用新窗口看"
+  },
+  "아니다" : {
+    "en" : "is not",
+    "ja" : "ではない",
+    "vi" : "không phải là",
+    "zh" : "不是"
+  },
+  "일감보기" : {
+    "en" : "View Task",
+    "ja" : "タスクを表示",
+    "vi" : "Xem công việc",
+    "zh" : "看工作"
+  },
+  "정말로 삭제하시겠습니까?" : {
+    "en" : "Do you really want to delete it?",
+    "ja" : "本当に削除しますか？",
+    "vi" : "Bạn thực sự muốn xóa phải không?",
+    "zh" : "真的要删除吗？"
+  },
+  "프로젝트 설명이 없습니다." : {
+    "en" : "There is no project description.",
+    "ja" : "プロジェクトの説明はありません。",
+    "vi" : "Không có mô tả dự án.",
+    "zh" : "项目描述为空。"
+  },
+  "일감선택" : {
+    "en" : "Select Task",
+    "ja" : "タスク選択",
+    "vi" : "Chọn công việc",
+    "zh" : "选择工作"
+  },
+  "스페이스 관리자가 스페이스를 잠금 하였습니다." : {
+    "en" : "The Space Manager has locked the Space.",
+    "ja" : "スペース管理者がスペースをロックしました。",
+    "vi" : "Người quản lý Space đã khóa Space.",
+    "zh" : "空格负管理者锁定了空格。"
+  },
+  "조치일" : {
+    "en" : "Date handled",
+    "ja" : "処理日",
+    "vi" : "Ngày xử lý",
+    "zh" : "措施日"
+  },
+  "내림" : {
+    "en" : "Rounding down",
+    "ja" : "下げる",
+    "vi" : "Làm tròn xuống",
+    "zh" : "下舍入"
+  },
+  "스페이스 관리자가 스페이스를 삭제 하였습니다." : {
+    "en" : "The Space Manager has deleted the Space.",
+    "ja" : "スペース管理者がスペースを削除しました。",
+    "vi" : "Người quản lý Space đã xóa Space.",
+    "zh" : "空格负管理者删除了空格。"
+  },
+  "첨부파일 개수" : {
+    "en" : "Number of attachments",
+    "ja" : "添付ファイルの数",
+    "vi" : "Số file đính kèm",
+    "zh" : "附件个数"
+  },
+  "조치자" : {
+    "en" : "Handled by",
+    "ja" : "処理者",
+    "vi" : "Người xử lý",
+    "zh" : "措施人"
+  },
+  "태그 선택" : {
+    "en" : "Select Tag",
+    "ja" : "タグ選択",
+    "vi" : "Chọn tag",
+    "zh" : "选择标记"
+  },
+  "최상위" : {
+    "en" : "Top",
+    "ja" : "最上位",
+    "vi" : "Vị trí trên cùng",
+    "zh" : "最佳"
+  },
+  "요약보기" : {
+    "en" : "View Summary",
+    "ja" : "要約を見る",
+    "vi" : "Xem tóm tắt",
+    "zh" : "查看概要"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Lựa chọn",
+    "zh" : "选择"
+  },
+  "월간" : {
+    "en" : "Monthly",
+    "ja" : "月間",
+    "vi" : "Theo tháng",
+    "zh" : "月间"
+  },
+  "검색 조건" : {
+    "en" : "Search Conditions",
+    "ja" : "検索条件",
+    "vi" : "Điều kiện tìm kiếm",
+    "zh" : "搜索条件"
+  },
+  "포함하는" : {
+    "en" : "Including",
+    "ja" : "含む",
+    "vi" : "Bao gồm",
+    "zh" : "包括的"
+  },
+  "보기" : {
+    "en" : "View",
+    "ja" : "表示",
+    "vi" : "Xem",
+    "zh" : "查看"
+  },
+  "날짜가 유효하지 않아 수정되지 않았습니다." : {
+    "en" : "Unable to edit because the date is invalid.",
+    "ja" : "日付が無効なため、修正されませんでした。",
+    "vi" : "Không thể chỉnh sửa vì ngày bạn nhập vào không hợp lệ.",
+    "zh" : "由于日子没有效而没有修好。"
+  },
+  "프로젝트" : {
+    "en" : "Project",
+    "ja" : "プロジェクト",
+    "vi" : "Dự án",
+    "zh" : "工程"
+  },
+  "우로" : {
+    "en" : "Right",
+    "ja" : "右に",
+    "vi" : "bên phải",
+    "zh" : "往右"
+  },
+  "사진 목록" : {
+    "en" : "Photo List",
+    "ja" : "写真リスト",
+    "vi" : "Hình ảnh",
+    "zh" : "照片目录"
+  },
+  "결재 상신" : {
+    "en" : "Report (Approval)",
+    "ja" : "決裁上申",
+    "vi" : "Gửi để phê duyệt",
+    "zh" : "决裁上信"
+  },
+  "삭제자 선택" : {
+    "en" : "Select the deleter.",
+    "ja" : "削除者を選択",
+    "vi" : "Chọn người xóa",
+    "zh" : "选择删除人"
+  },
+  "저장" : {
+    "en" : "Save",
+    "ja" : "保存",
+    "vi" : "Lưu",
+    "zh" : "存储"
+  },
+  "내 현황" : {
+    "en" : "My Status",
+    "ja" : "自分の現況",
+    "vi" : "Tình trạng của tôi",
+    "zh" : "我的现况"
+  },
+  "스페이스 관리자가 스페이스를 오픈 하였습니다." : {
+    "en" : "The Space Manager has opened the Space.",
+    "ja" : "スペース管理者がスペースをオープンしました。",
+    "vi" : "Người quản lý Space đã mở Space.",
+    "zh" : "空格负管理者开了空格。"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Khoảng thời gian",
+    "zh" : "期间"
+  },
+  "삭제 시 다시 연결 할 수 없습니다. 연결 삭제 하시겠습니까?" : {
+    "en" : "Once deleted, the connection cannot be restored. Do you still want to proceed to delete connection?",
+    "ja" : "削除すると再度連結はできません。連結を削除しますか？",
+    "vi" : "Không thể liên kết lại sau khi đã xóa. Bạn chắc chắn muốn xóa liên kết chứ?",
+    "zh" : "删除时可重新连接。是否删除连接？"
+  },
+  "일감 유형을 추가/수정합니다." : {
+    "en" : "Add/Modify Task",
+    "ja" : "仕事のタイプを追加/修正します。",
+    "vi" : "Thêm/Chỉnh sửa loại hình công việc.",
+    "zh" : "添加/修改工作类型"
+  },
+  "시작일, 종료일이 없거나 내 업무에서 등록한 업무는 마일스톤을 표시 할 수 없습니다." : {
+    "en" : "Tasks without a start date or an end date or tasks in My Tasks cannot be marked with milestones.",
+    "ja" : "開始日、終了日がないまたはマイワークで登録した業務は、マイルストーンを表示することができません。",
+    "vi" : "Không thể đánh dấu sự kiện quan trọng đối với nhiệm vụ không có ngày bắt đầu hoặc ngày kết thúc hoặc nhiệm vụ trong mục Nhiệm vụ của tôi.",
+    "zh" : "没有开始日，结束日或者在我的业务上登录的业务不可表示Milestone。"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "소요시간" : {
+    "en" : "Required Time",
+    "ja" : "所要時間登録",
+    "vi" : "Thời gian cần thiết",
+    "zh" : "所需时间"
+  },
+  "종합 현황" : {
+    "en" : "Overall status",
+    "ja" : "総合的な状況",
+    "vi" : "Tình trạng tổng hợp",
+    "zh" : "综合现况"
+  },
+  "스페이스 책임자가 회원을 잠금 하였습니다." : {
+    "en" : "The Space Administrator has locked the member.",
+    "ja" : "スペース責任者が会員をロックしました。",
+    "vi" : "Quản trị viên Space đã khóa thành viên.",
+    "zh" : "空格负责人锁定了会员。"
+  },
+  "올리기" : {
+    "en" : "Up",
+    "ja" : "上げる",
+    "vi" : "Tải lên",
+    "zh" : "上"
+  },
+  "회원가입 초대를 신청하였습니다." : {
+    "en" : "You have requested to invite to sign up as a member.",
+    "ja" : "会員加入の招待を申請しました。",
+    "vi" : "Đã đăng ký mời gia nhập thành viên.",
+    "zh" : "申请了加入会员邀请。"
+  },
+  "일감 이력" : {
+    "en" : "Task History",
+    "ja" : "イベントの履歴",
+    "vi" : "Lịch sử công việc",
+    "zh" : "工作历史"
+  },
+  "프로젝트 등록" : {
+    "en" : "Project registration",
+    "ja" : "プロジェクト登録",
+    "vi" : "Đăng ký dự án",
+    "zh" : "项目目录"
+  },
+  "{0} 님이 일감을 등록했습니다." : {
+    "en" : "{0} added a task.",
+    "ja" : "{0}さんがタスクを登録しました。",
+    "vi" : "Anh/ chị {0} đã thêm công việc.",
+    "zh" : "{0} 已登录工作。"
+  },
+  "프로젝트 관리자 또는 일감 담당자가 아닌 일감은 제외하고 변경되었습니다." : {
+    "en" : "Tasks that are not managed by the project manager or task owner have been excluded and changed.",
+    "ja" : "プロジェクト管理者または仕事担当者でない仕事は除いて変更されました。",
+    "vi" : "Đã chỉnh sửa, ngoại trừ các công việc không có người quản lý dự án hoặc người phụ trách công việc.",
+    "zh" : "除项目管理员或任务负责人外，其他项目无法更改。"
+  },
+  "이력보기" : {
+    "en" : "View history",
+    "ja" : "履歴を見る",
+    "vi" : "xem lịch sử",
+    "zh" : "看履历"
+  },
+  "모든 이슈" : {
+    "en" : "All issues",
+    "ja" : "すべての問題",
+    "vi" : "Tất cả vấn đề",
+    "zh" : "所有话题"
+  },
+  "스페이스 책임자가 회원을 삭제 하였습니다." : {
+    "en" : "The Space Administrator has deleted the member.",
+    "ja" : "スペース責任者が会員を削除しました。",
+    "vi" : "Quản trị viên Space đã xóa thành viên.",
+    "zh" : "空格负责人删除了会员。"
+  },
+  "템플릿명을 입력하세요." : {
+    "en" : "Enter a template name.",
+    "ja" : "テンプレート名を入力してください。",
+    "vi" : "Hãy nhập tên mẫu.",
+    "zh" : "请输入模板名。"
+  },
+  "요청자를 등록 하세요." : {
+    "en" : "Add the person who requests.",
+    "ja" : "要請者を登録してください。",
+    "vi" : "Hãy đăng ký người yêu cầu.",
+    "zh" : "请登录一下邀请人。"
+  },
+  "선택하신 일감은 유효 하지 않습니다." : {
+    "en" : "The work you have selected is not available.",
+    "ja" : "選択したワークは無効です。",
+    "vi" : "Công việc đã chọn không có hiệu lực.",
+    "zh" : "您选择的工作没有效。"
+  },
+  "연동된 일감이 삭제되었습니다." : {
+    "en" : "The linked work has been deleted.",
+    "ja" : "連動された仕事が削除されました。",
+    "vi" : "Các công việc liên kết đã bị xóa.",
+    "zh" : "已联动工作已删除。"
+  },
+  "선택된 프로젝트가 없습니다." : {
+    "en" : "There is no document selected",
+    "ja" : "選択されたプロジェクトがありません。",
+    "vi" : "Không có tài liệu nào được chọn",
+    "zh" : "没有选择的工程。"
+  },
+  "전자결재" : {
+    "en" : "E-Approval",
+    "ja" : "電子決裁",
+    "vi" : "Phê duyệt điện tử",
+    "zh" : "电子决裁"
+  },
+  "회원을 선택하세요." : {
+    "en" : "Choose a member.",
+    "ja" : "会員を選択してください。",
+    "vi" : "Hãy chọn hội viên.",
+    "zh" : "请选择会员。"
+  },
+  "선택하신 일감은 순환 의존관계를 만들 수 있습니다." : {
+    "en" : "You can create a circular dependency for the work you have selected.",
+    "ja" : "選択したワークは、循環依存関係を作ることができます。",
+    "vi" : "Công việc đã chọn có thể tạo quan hệ phụ thuộc tuần hoàn.",
+    "zh" : "您选择的上位工作可以做循环依赖关系。"
+  },
+  "높음" : {
+    "en" : "High",
+    "ja" : "高い",
+    "vi" : "Cao",
+    "zh" : "高"
+  },
+  "목록 추가" : {
+    "en" : "Add List",
+    "ja" : "リスト追加",
+    "vi" : "Thêm danh sách",
+    "zh" : "追加目录"
+  },
+  "모두선택" : {
+    "en" : "Select All",
+    "ja" : "すべて選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "일감명" : {
+    "en" : "Work Name",
+    "ja" : "ワーク名",
+    "vi" : "Tên công việc",
+    "zh" : "工作名"
+  },
+  "업무현황" : {
+    "en" : "Task status",
+    "ja" : "業務の状況",
+    "vi" : "Tình trạng Tác vụ",
+    "zh" : "业务相框"
+  },
+  "해당 이슈를 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the issue?",
+    "ja" : "この問題を削除しますか？",
+    "vi" : "Bạn có muốn xóa vấn đề không?",
+    "zh" : "要删除有关话题吗？"
+  },
+  "상태선택" : {
+    "en" : "Select Status",
+    "ja" : "状態選択",
+    "vi" : "Chọn trạng thái",
+    "zh" : "选择状态"
+  }
+}

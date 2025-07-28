@@ -1,0 +1,284 @@
+{
+  "결재권자" : {
+    "en" : "Approver",
+    "ja" : "決裁権者",
+    "vi" : "Người phê duyệt",
+    "zh" : "批准权人"
+  },
+  "인계자" : {
+    "en" : "Transferred by",
+    "ja" : "引継ぎ者",
+    "vi" : "Bàn giao bởi",
+    "zh" : "接替者"
+  },
+  "부서상태" : {
+    "en" : "Department Status",
+    "ja" : "部署状態",
+    "vi" : "Tình trạng bộ phận",
+    "zh" : "部门状态"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "좋아요 수" : {
+    "en" : "Like Count",
+    "ja" : "いいね数",
+    "vi" : "Số lượng thích",
+    "zh" : "点赞数"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "싫어요 수" : {
+    "en" : "Hate Count",
+    "ja" : "よくないね数",
+    "vi" : "Số lượng không thích",
+    "zh" : "踩数"
+  },
+  "수신 실패" : {
+    "en" : "Receive failure",
+    "ja" : "受信に失敗",
+    "vi" : "Nhận thất bại",
+    "zh" : "收信失败"
+  },
+  "단위업무코드" : {
+    "en" : "Unit Task Code",
+    "ja" : "単位業務コード",
+    "vi" : "Mã đơn vị làm việc",
+    "zh" : "单位业务代码"
+  },
+  "소유부서" : {
+    "en" : "Owned department",
+    "ja" : "所有部署",
+    "vi" : "Bộ phận sở hữu",
+    "zh" : "所属部门"
+  },
+  "국가코드" : {
+    "en" : "Country Code",
+    "ja" : "国名コード",
+    "vi" : "Mã quốc gia",
+    "zh" : "国家代码"
+  },
+  "등록일" : {
+    "en" : "Registration Date",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登陆日期"
+  },
+  "등록자 이름" : {
+    "en" : "Registrant Name",
+    "ja" : "登録者名",
+    "vi" : "Tên người đăng ký",
+    "zh" : "登录者姓名"
+  },
+  "수신" : {
+    "en" : "Receive",
+    "ja" : "受信",
+    "vi" : "Nhận",
+    "zh" : "收信"
+  },
+  "라이선스" : {
+    "en" : "License",
+    "ja" : "ライセンス",
+    "vi" : "Giấy phép",
+    "zh" : "许可证"
+  },
+  "발신" : {
+    "en" : "Send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发信"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Chủ đề",
+    "zh" : "题目"
+  },
+  "종료년도" : {
+    "en" : "Year of completion",
+    "ja" : "終了年度",
+    "vi" : "Năm kết thúc",
+    "zh" : "结束年度"
+  },
+  "사용수" : {
+    "en" : "Total uses",
+    "ja" : "ユーザー",
+    "vi" : "Số sử dụng",
+    "zh" : "使用数"
+  },
+  "발신 실패" : {
+    "en" : "Send failure",
+    "ja" : "送信に失敗",
+    "vi" : "Gửi thất bại",
+    "zh" : "发信失败"
+  },
+  "발송/수신일" : {
+    "en" : "Date Sent / Date Received",
+    "ja" : "送信/受信日",
+    "vi" : "Ngày gửi/ngày nhận",
+    "zh" : "发送/收信日"
+  },
+  "접속건수" : {
+    "en" : "Number of Connections (Accesses)",
+    "ja" : "接続件数",
+    "vi" : "Tổng số tiếp cận",
+    "zh" : "连接件数"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "일련번호" : {
+    "en" : "Serial number",
+    "ja" : "シリアル番号",
+    "vi" : "Số sê-ri",
+    "zh" : "序列号"
+  },
+  "지식함" : {
+    "en" : "Knowledge box",
+    "ja" : "知識Box",
+    "vi" : "Hộp kiến thức",
+    "zh" : "知识箱"
+  },
+  "생산년도" : {
+    "en" : "Year of production",
+    "ja" : "生産年度",
+    "vi" : "Năm sản xuất",
+    "zh" : "生产年度"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "기록물철" : {
+    "en" : "Record binder",
+    "ja" : "記録バインダー",
+    "vi" : "kho lưu trữ",
+    "zh" : "纪录物束"
+  },
+  "고유번호" : {
+    "en" : "Unique number.",
+    "ja" : "固有番号",
+    "vi" : "Số duy nhất.",
+    "zh" : "固有编号"
+  },
+  "전화번호" : {
+    "en" : "Phone Number",
+    "ja" : "電話番号",
+    "vi" : "Số điện thoại",
+    "zh" : "电话号码"
+  },
+  "차단일" : {
+    "en" : "Blocked Date",
+    "ja" : "ブロック日",
+    "vi" : "Ngày chặn",
+    "zh" : "拉黑日期"
+  },
+  "생산 문서번호" : {
+    "en" : "Document (Produced) Number",
+    "ja" : "生産文書番号",
+    "vi" : "Số tài liệu",
+    "zh" : "生产文件号码"
+  },
+  "스팸차단 수" : {
+    "en" : "Spam Count",
+    "ja" : "スパムブロック数",
+    "vi" : "Số lượng chặn spam",
+    "zh" : "拉黑数"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "用户名"
+  },
+  "수신 성공" : {
+    "en" : "Received successfully",
+    "ja" : "受信に成功",
+    "vi" : "Nhận thành công",
+    "zh" : "收信成功"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại hình",
+    "zh" : "类型"
+  },
+  "인계일" : {
+    "en" : "Date transferred",
+    "ja" : "引継ぎ日",
+    "vi" : "Ngày chuyển",
+    "zh" : "移交日"
+  },
+  "직위/직책" : {
+    "en" : "Position/Title.",
+    "ja" : "役職/役職",
+    "vi" : "Chức vụ",
+    "zh" : "职位/职务"
+  },
+  "발송기관" : {
+    "en" : "Sender (Institution)",
+    "ja" : "送信機関",
+    "vi" : "Người gửi",
+    "zh" : "发送部门"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "발신 성공" : {
+    "en" : "Sent successfully",
+    "ja" : "送信に成功",
+    "vi" : "Gửi thành công",
+    "zh" : "发信成功"
+  },
+  "단위업무" : {
+    "en" : "Unit Task",
+    "ja" : "単位業務",
+    "vi" : "Công việc đơn vị",
+    "zh" : "单位业务"
+  },
+  "형태" : {
+    "en" : "Form",
+    "ja" : "形態",
+    "vi" : "Hình thức",
+    "zh" : "形态"
+  },
+  "처리일" : {
+    "en" : "Date (Processed)",
+    "ja" : "処理日",
+    "vi" : "Ngày xử lý",
+    "zh" : "处理日"
+  },
+  "메일" : {
+    "en" : "E-mail",
+    "ja" : "メール",
+    "vi" : "Mail",
+    "zh" : "邮件"
+  }
+}

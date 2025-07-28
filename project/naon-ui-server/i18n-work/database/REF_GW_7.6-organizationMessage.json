@@ -1,0 +1,188 @@
+{
+  "수정하시겠습니까?" : {
+    "en" : "Would you like to modify?",
+    "ja" : "修正しますか？",
+    "vi" : "Bạn có muốn sửa không?",
+    "zh" : "要修改吗？"
+  },
+  "선정 사유를 입력하세요." : {
+    "en" : "Please enter the reason why you have selected it.",
+    "ja" : "選定理由を入力してください。",
+    "vi" : "Hãy nhập lý do chọn",
+    "zh" : "请输入选定原因"
+  },
+  "사원을 선택하세요." : {
+    "en" : "Please select an employee.",
+    "ja" : "従業員を選択してください。",
+    "vi" : "Hãy chọn nhân viên",
+    "zh" : "请选择职员。"
+  },
+  "담당업무" : {
+    "en" : "Task in Charge",
+    "ja" : "担当業務",
+    "vi" : "Nghiệp vụ phụ trách",
+    "zh" : "负责业务"
+  },
+  "우수사원" : {
+    "en" : "Excellent employees",
+    "ja" : "優秀社員",
+    "vi" : "Nhân viên ưu tú",
+    "zh" : "优秀职员"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "조직관리" : {
+    "en" : "Manage Organization",
+    "ja" : "組織管理",
+    "vi" : "Quản lý tổ chức",
+    "zh" : "管理小组"
+  },
+  "중복된 날짜가 존재합니다." : {
+    "en" : "There are overlapping dates.",
+    "ja" : "重複された日付が存在します。",
+    "vi" : "Tồn tại ngày trùng lặp.",
+    "zh" : "有重复的日子。"
+  },
+  "부서 담당자로 지정할 수 없습니다.\\n전자결재 라이선스가 부여되지 않은 사용자입니다." : {
+    "en" : "Cannot be designated as the person in charge of the Department. \\nNo electronic approval license has been assigned to this user.",
+    "ja" : "部署の担当者に指定できません。\\n電子決裁ライセンスが付与されてないユーザーです。",
+    "vi" : "Không thể chỉ định làm người phụ trách bộ phận.\\n Đây là người dùng không có giấy phép phê duyệt điện tử.",
+    "zh" : "无法将此人指定为部门负责人。\\n此人未获得电子审批资格。"
+  },
+  "이대로 저장 하시겠습니까?" : {
+    "en" : "Do you want to save right now?",
+    "ja" : "このまま保存しますか？",
+    "vi" : "Bạn có muốn lưu nội dung hiện tại không?",
+    "zh" : "要继续保存吗？"
+  },
+  "진행" : {
+    "en" : "Progress",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "신규입사자" : {
+    "en" : "New Employee",
+    "ja" : "新規入社者",
+    "vi" : "Người gia nhập mới",
+    "zh" : "新加入职员"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã được xóa.",
+    "zh" : "已删除。"
+  },
+  "내선번호" : {
+    "en" : "Extension number",
+    "ja" : "内線番号",
+    "vi" : "Số mở rộng",
+    "zh" : "内线号码"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "ファックス番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "待机"
+  },
+  "생일" : {
+    "en" : "Birthday",
+    "ja" : "誕生日",
+    "vi" : "Ngày sinh nhật",
+    "zh" : "生日"
+  },
+  "대표부서" : {
+    "en" : "Representative department",
+    "ja" : "代表部署",
+    "vi" : "Bộ phận đại diện",
+    "zh" : "代表部门"
+  },
+  "등록하시겠습니까?" : {
+    "en" : "Would you like to register?",
+    "ja" : "登録しますか？",
+    "vi" : "Bạn có muốn đăng ký không?",
+    "zh" : "要登录吗？"
+  },
+  "선정" : {
+    "en" : "Select",
+    "ja" : "選定",
+    "vi" : "Lựa chọn",
+    "zh" : "选定"
+  },
+  "하위부서에 구성원이 없습니다" : {
+    "en" : "There are no members in the sub-department.",
+    "ja" : "下位部署に構成員がありません",
+    "vi" : "Không có thành viên thuộc bộ phận dưới.",
+    "zh" : "下位部门没有构成员。"
+  },
+  "칭찬사원" : {
+    "en" : "Praised Employees",
+    "ja" : "賞賛社員",
+    "vi" : "Nhân viên tốt",
+    "zh" : "称赞职员"
+  },
+  "등록되었습니다." : {
+    "en" : "Successfully registered.",
+    "ja" : "登録されました。",
+    "vi" : "Đã được đăng ký.",
+    "zh" : "登录完了。"
+  },
+  "수정되었습니다." : {
+    "en" : "It has been modified.",
+    "ja" : "修正されました。",
+    "vi" : "Đã được sửa",
+    "zh" : "修改完了。"
+  },
+  "종료일이 시작일보다 이전입니다." : {
+    "en" : "The end date is earlier than the start date.",
+    "ja" : "終了日が開始日よりも前です。",
+    "vi" : "Ngày kết thúc là ngày trước ngày bắt đầu",
+    "zh" : "结束日比开始日早。"
+  },
+  "부서장은 1명만 지정 가능합니다.\\n다시 선택해주세요." : {
+    "en" : "Only one person can be appointed as the head of department.\\n Please select again.",
+    "ja" : "部署長は1人だけ指定できます。\\nもう一度選択してください。",
+    "vi" : "Chỉ có thể chỉ định 1 giám đốc bộ phận. \\nHãy chọn lại.",
+    "zh" : "部门长只能指定一个人。请\\n再选择。"
+  },
+  "회사메일" : {
+    "en" : "Company mail",
+    "ja" : "会社メール",
+    "vi" : "Hòm thư công ty",
+    "zh" : "公司邮件"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "아이디에 dot(.)를 연속으로 입력할 수 없습니다." : {
+    "en" : "You cannot use consecutive dots (.) in your ID.",
+    "ja" : "IDにdot（.）を連続して入力できません。",
+    "vi" : "Không sử dụng dấu chấm (.) trong ID của bạn.",
+    "zh" : "在用户名不可连续输入dot(.)。"
+  },
+  "직책" : {
+    "en" : "Duty",
+    "ja" : "役職",
+    "vi" : "Chức trách",
+    "zh" : "职责"
+  },
+  "종료" : {
+    "en" : "finish",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  }
+}

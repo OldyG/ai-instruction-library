@@ -1,0 +1,734 @@
+{
+  "받는 사람" : {
+    "en" : "Recipient",
+    "ja" : "宛先",
+    "vi" : "Người nhận",
+    "zh" : "收件人"
+  },
+  "메시지중복오류" : {
+    "en" : "Duplicate message error",
+    "ja" : "メッセージ重複エラー",
+    "vi" : "Lỗi tin nhắn trùng lặp",
+    "zh" : "短信重复错误"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全体期间"
+  },
+  "메세지" : {
+    "en" : "Message",
+    "ja" : "メッセージ",
+    "vi" : "Tin nhắn",
+    "zh" : "短信"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete it?",
+    "ja" : "削除しますか?",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "보낸날짜" : {
+    "en" : "Sent date",
+    "ja" : "送信日",
+    "vi" : "Ngày gửi",
+    "zh" : "发送日"
+  },
+  "검색어" : {
+    "en" : "Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "전송성공" : {
+    "en" : "Transfer successful",
+    "ja" : "送信成功",
+    "vi" : "Chuyển thành công",
+    "zh" : "传送成功"
+  },
+  "최근1달" : {
+    "en" : "Past month",
+    "ja" : "最近1ヶ月",
+    "vi" : "1 tháng trước",
+    "zh" : "最近1个月"
+  },
+  "80Byte 초과시 2건으로 전송됩니다. 다음 번호 입력시 [Enter]키를 사용하세요." : {
+    "en" : "If a message exceeds 80Bytes, it will be sent as 2 separate messages. Use the [Enter]key if you wish to enter the next number.",
+    "ja" : "80Byte 超過時、2件で送信されます。次の番号を入力時に[Enter]キーを押してください。",
+    "vi" : "Nếu dung lượng vượt quá 80Byte, tin nhắn được gửi thành 02 lượt. Hãy sử dụng phím [Enter] để nhập số tiếp theo!",
+    "zh" : "超过80Byte时传送为 2件。输入下一个号码时请使用[Enter] 。"
+  },
+  "총" : {
+    "en" : "Total",
+    "ja" : "計",
+    "vi" : "Tổng cộng",
+    "zh" : "总"
+  },
+  "문자 내용을 출력합니다." : {
+    "en" : "Show the content of the message.",
+    "ja" : "文字内容を出力します。",
+    "vi" : "In nội dung tin nhắn.",
+    "zh" : "打印短信内容。"
+  },
+  "메일 발송 승인자가 없습니다." : {
+    "en" : "There is no approver for mail dispatch.",
+    "ja" : "メール送信の承認者がいません。",
+    "vi" : "Không có người phê duyệt gửi mail.",
+    "zh" : "没有邮件发送审批者。"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "等待"
+  },
+  "금월 사용건수" : {
+    "en" : "Used in this month",
+    "ja" : "今月の使用件数",
+    "vi" : "Số lượt sử dụng trong tháng",
+    "zh" : "本月使用件数"
+  },
+  "보내기" : {
+    "en" : "Send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "음영" : {
+    "en" : "No Service",
+    "ja" : "圏外",
+    "vi" : "Không phục vụ",
+    "zh" : "无服务"
+  },
+  "실패건수" : {
+    "en" : "No. of failures",
+    "ja" : "失敗件数",
+    "vi" : "Số lượt thất bại",
+    "zh" : "失败件数"
+  },
+  "보낸사람" : {
+    "en" : "Sender",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "이메일 발송 요청이 승인되었습니다." : {
+    "en" : "Email sending request has been approved.",
+    "ja" : "メール送信リクエストが承認されました。",
+    "vi" : "Yêu cầu gửi email đã được chấp thuận.",
+    "zh" : "电子邮件发送请求已获批准。"
+  },
+  "예약발송" : {
+    "en" : "Schedule send",
+    "ja" : "予約送信",
+    "vi" : "Gửi đi đặt trước",
+    "zh" : "预约发送"
+  },
+  "기타오류-KTFURL" : {
+    "en" : "Other error-KTFURL",
+    "ja" : "その他エラー-KTFURL",
+    "vi" : "Lỗi khác-KTFURL",
+    "zh" : "其他错误-KTFURL"
+  },
+  "번호이동관련" : {
+    "en" : "Mobile number porting-related issue",
+    "ja" : "番号移動関連",
+    "vi" : "Số điện thoại di động chuyển số liên quan",
+    "zh" : "移动号码有关"
+  },
+  "전체삭제" : {
+    "en" : "Delete all",
+    "ja" : "全体削除",
+    "vi" : "Xóa tất cả",
+    "zh" : "全部删除"
+  },
+  "BIND안됨" : {
+    "en" : "BIND error",
+    "ja" : "BINDできません。",
+    "vi" : "BIND đã bị vô hiệu hóa",
+    "zh" : "不可BIND"
+  },
+  "문자 내용을 입력하세요." : {
+    "en" : "Enter message content.",
+    "ja" : "文字内容を入力してください。",
+    "vi" : "Hãy nhập nội dung tin nhắn",
+    "zh" : "请输入短信内容。"
+  },
+  "예약 시점은 현재에서 5분 후부터 가능합니다." : {
+    "en" : "You can make a reservation starting from 5 minutes from the current time.",
+    "ja" : "予約時点は現在から5分以降で可能です。",
+    "vi" : "Bạn có thể đặt trước vào 5 phút sau.",
+    "zh" : "自现在起5分钟后开始可以预约。"
+  },
+  "전송을 완료하였습니다." : {
+    "en" : "Sent successfully",
+    "ja" : "送信を完了しました。",
+    "vi" : "Đã gửi",
+    "zh" : "已发送完毕。"
+  },
+  "전체 할당건수" : {
+    "en" : "Total allocated",
+    "ja" : "全体割当件数",
+    "vi" : "Toàn bộ số lượt phân bổ",
+    "zh" : "全体分配件数"
+  },
+  "단말기착신거부(스팸등)" : {
+    "en" : "Block call forwarding (Spam etc.)",
+    "ja" : "端末着信拒否（スパムなど）",
+    "vi" : "Chặn cuộc gọi chuyển tiếp (Spam, vv)",
+    "zh" : "终端机拒绝收信（垃圾邮件等）"
+  },
+  "SMS 발송" : {
+    "en" : "Send SMS",
+    "ja" : "SMS送信",
+    "vi" : "Gửi SMS",
+    "zh" : "发送SMS"
+  },
+  "받는 사람을 최소 1명은 입력해야 합니다." : {
+    "en" : "You need to enter at least 1 recipient",
+    "ja" : "宛先は最低1人以上入力してください。",
+    "vi" : "Bạn phải nhập tối thiểu 1 người nhận",
+    "zh" : "请至少选择一名受理人。"
+  },
+  "받는 번호" : {
+    "en" : "Number (Recipient)",
+    "ja" : "受ける番号",
+    "vi" : "Số của người nhận",
+    "zh" : "收信号码"
+  },
+  "수신번호" : {
+    "en" : "Recipient's number",
+    "ja" : "受信番号",
+    "vi" : "Số của người nhận",
+    "zh" : "收信号码"
+  },
+  "변경시 기본용량을 할당받은 전체사용자의 기본용량이 일괄적으로 변경됩니다." : {
+    "en" : "When you change the settings, the default space of all users who had been given a default space will be changed altogether.",
+    "ja" : "変更の際、基本容量の割当を受けた全ユーザーの基本容量が一括変更されます。",
+    "vi" : "Khi thay đổi, dung lượng mặc định của toàn bộ người dùng được phân bổ dung lượng mặc định sẽ đồng loạt thay đổi.",
+    "zh" : "变更时分配基本用量的全体使用者的基本用量也会批量变更。"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の開始日は終了日より過去の日付を設定してください。",
+    "vi" : "Ngày bắt đầu trong thanh lựa chọn thời gian không thể dài hơn thời gian kết thúc.",
+    "zh" : "选择期间时起始日应在终止日前。"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "기간선택" : {
+    "en" : "Select a period",
+    "ja" : "期間選択",
+    "vi" : "Chọn thời gian",
+    "zh" : "选择期间"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "인증실패,직후연결을끊음" : {
+    "en" : "Disconnect immediately if authentication fails",
+    "ja" : "認証失敗、直後に連結切断",
+    "vi" : "Ngắt kết nối ngay lập tức nếu xác minh thất bại",
+    "zh" : "认证失败，之后切断连接"
+  },
+  "보내는 사람" : {
+    "en" : "Sender",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "발신번호안심서비스" : {
+    "en" : "Caller ID Protection Service",
+    "ja" : "発信番号安心サービス",
+    "vi" : "Dịch vụ Bảo vệ ID người gọi",
+    "zh" : "发信号码安心服务"
+  },
+  "결번(이통사Nack)-SKTURL" : {
+    "en" : "Invalid number (MNO Nack)-SKTURL",
+    "ja" : "欠番（移動通信社Nack）-SKTURL",
+    "vi" : "Số không hợp lệ (MnO Nack) -SKTURL",
+    "zh" : "空号（移动通信公司Nack)-SKTURL"
+  },
+  "전체 할당건수 및 사용자의 남은건수는 매월 1일에 초기화됩니다." : {
+    "en" : "Total allocated messages and user's remaining messages will be initialized on the 1st day of every month.",
+    "ja" : "全体割当件数およびユーザーの残数は毎月 1日に初期化されます。",
+    "vi" : "Tổng số tin nhắn được phân bổ và tin nhắn còn lại của người dùng sẽ được khởi tạo vào ngay mồng 1 hàng tháng",
+    "zh" : "全体分配件数及使用者的剩余件数会在每月1日初始化。"
+  },
+  "오전" : {
+    "en" : "A.M",
+    "ja" : "午前",
+    "vi" : "Buổi sáng",
+    "zh" : "上午"
+  },
+  "이메일 발송 요청이 반려되었습니다." : {
+    "en" : "Email sending request has been rejected.",
+    "ja" : "メール送信リクエストが差し戻されました。",
+    "vi" : "Yêu cầu gửi email đã bị từ chối.",
+    "zh" : "电子邮件发送请求已被拒绝。"
+  },
+  "사용자를 선택하세요" : {
+    "en" : "Select a user.",
+    "ja" : "ユーザーを選択してください.",
+    "vi" : "Hãy chọn người dùng",
+    "zh" : "请选择使用者。"
+  },
+  "전송실패" : {
+    "en" : "Failed to send",
+    "ja" : "送信失敗",
+    "vi" : "Gửi đi thất bại",
+    "zh" : "传送失败"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "전체 할당용량을 초과하였습니다." : {
+    "en" : "Exceeded total storage quota.",
+    "ja" : "全体の割り当て容量を超過しました。",
+    "vi" : "Tổng hạn mức lưu trữ đã bị vượt quá.",
+    "zh" : "超过了全体分配用量。"
+  },
+  "기타에러(타임아웃등:이통사)" : {
+    "en" : "Other error (Time out: MNO)",
+    "ja" : "その他エラー（タイムアウトなど：移動通信社）",
+    "vi" : "Lỗi khác (Hết thời gian: MNO)",
+    "zh" : "其他错误（暂停时间等：移动通信公司）"
+  },
+  "80Byte 초과시 LMS로 전송됩니다." : {
+    "en" : "A text that exceeds 80Bytes will be sent via LMS.",
+    "ja" : "80Byte超過時、LMSに転送されます。",
+    "vi" : "Tin nhắn vượt quá 80Byte sẽ được gửi bằng LMS",
+    "zh" : "超过80Byte时通过 LMS传送。"
+  },
+  "전화번호입력" : {
+    "en" : "Enter phone number",
+    "ja" : "電話番号入力",
+    "vi" : "Nhập số điện thoại",
+    "zh" : "输入电话号码"
+  },
+  "이메일이 도착 했습니다." : {
+    "en" : "An email has arrived.",
+    "ja" : "メールが届きました。",
+    "vi" : "Có email mới.",
+    "zh" : "电子邮件已送达。"
+  },
+  "타임아웃(이통사)-SKTURL" : {
+    "en" : "Time out(MNO)-SKTURL",
+    "ja" : "タイムアウト（移動通信社）-SKTURL",
+    "vi" : "Hết thời gian  (nhà cung cấp dịch vụ di động) - SKTURL",
+    "zh" : "暂停时间（移动通信公司)-SKTURL"
+  },
+  "이메일 발송 요청을 했습니다." : {
+    "en" : "Email sending request has been made.",
+    "ja" : "電子メールの送信をリクエストしました。",
+    "vi" : "Đã gửi yêu cầu gửi email.",
+    "zh" : "已发送电子邮件请求。"
+  },
+  "문자 내용은 최대 {0}바이트를 초과할 수 없으며, 초과된 부분은 자동삭제됩니다." : {
+    "en" : "A text message cannot exceed {0} bytes. The excess of the text message will be automatically deleted.",
+    "ja" : "文字内容は最大{0}バイトまでとなります。超過した部分は自動削除されます。",
+    "vi" : "Nội dung tin nhắn không thể vượt quá {0} bytes,  và phần vượt quá sẽ tự động bị xóa.",
+    "zh" : "短信内容最多不可超过{0}Byte 而超过的部分会被自动删除。"
+  },
+  "전송내용" : {
+    "en" : "Message Content",
+    "ja" : "送信内容",
+    "vi" : "Tin nhắn",
+    "zh" : "传送内容"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Phòng ban",
+    "zh" : "部门"
+  },
+  "비가입자,결번,서비스정지" : {
+    "en" : "Non-subscribers, Invalid number, Service suspension",
+    "ja" : "非加入者、欠番、サービス停止",
+    "vi" : "Người không đăng ký, số không hợp lệ, Dịch vụ bị treo",
+    "zh" : "非加入人，空号，停止服务"
+  },
+  "본인포함" : {
+    "en" : "Include myself",
+    "ja" : "本人を含む",
+    "vi" : "Bao gồm bản thân",
+    "zh" : "包括自己"
+  },
+  "전송중" : {
+    "en" : "Sending",
+    "ja" : "送信中",
+    "vi" : "Đang gửi",
+    "zh" : "传送中"
+  },
+  "보낸 메시지가 없습니다." : {
+    "en" : "There are no sent messages.",
+    "ja" : "送信メッセージがありません。",
+    "vi" : "Không có tin nhắn được gửi đi",
+    "zh" : "没有发送留言。"
+  },
+  "보낸 문자함" : {
+    "en" : "Sent Messages",
+    "ja" : "SMS受信Box",
+    "vi" : "Hộp tin đi",
+    "zh" : "发送短信箱"
+  },
+  "약속 이메일이 도착 했습니다." : {
+    "en" : "Appointment email has arrived.",
+    "ja" : "約束メールが届きました。",
+    "vi" : "Email hẹn trước đã được gửi đến.",
+    "zh" : "约会电子邮件已送达。"
+  },
+  "전송수" : {
+    "en" : "No. of transfers",
+    "ja" : "送信数",
+    "vi" : "Số lượng gửi đi",
+    "zh" : "传送数"
+  },
+  "메시지형식오류" : {
+    "en" : "Message format error",
+    "ja" : "メッセージの形式エラー",
+    "vi" : "Lỗi định dạng tin nhắn",
+    "zh" : "短信形式错误"
+  },
+  "단말기Powr-off상태" : {
+    "en" : "Device Status (Power-off)",
+    "ja" : "端末Powr-off状態",
+    "vi" : "Thiết bị tắt nguồn",
+    "zh" : "终端机Powr-off状态"
+  },
+  "전송실패(기타에러)-SKTURL" : {
+    "en" : "Delivery failed (Other error)-SKTURL",
+    "ja" : "送信失敗（その他エラー）-SKTURL",
+    "vi" : "Chuyển thất bại (Lỗi khác)-SKTURL",
+    "zh" : "传送失败（其他错误）-SKTURL"
+  },
+  "다음번호 입력시 [ENTER] 키를 사용하세요." : {
+    "en" : "If a message exceeds 80Bytes, it will be sent as 2 separate messages. Use the [Enter]key if you wish to enter the next number.",
+    "ja" : "次の番号を入力時に[Enter]キーを押してください。",
+    "vi" : "Hãy sử dụng phím [Enter] để nhập số tiếp theo!",
+    "zh" : "输入下一个号码时请使用[Enter] 。"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "보내는 사람 번호를 입력하세요." : {
+    "en" : "Enter the phone number of the sender.",
+    "ja" : "差出人の番号を入力してください。",
+    "vi" : "Hãy nhập số người gửi!",
+    "zh" : "请输入发送人的号码。"
+  },
+  "이름입력" : {
+    "en" : "Enter name",
+    "ja" : "名前入力",
+    "vi" : "Nhập tên",
+    "zh" : "输入名字"
+  },
+  "감정표현" : {
+    "en" : "Emoticons",
+    "ja" : "感情表現",
+    "vi" : "Biểu tượng cảm xúc",
+    "zh" : "表情"
+  },
+  "실사용건수" : {
+    "en" : "Actually used",
+    "ja" : "実使用件数",
+    "vi" : "Số lượt sử dụng thực tế",
+    "zh" : "实际使用件数"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên phòng ban",
+    "zh" : "部门名"
+  },
+  "최근발신번호" : {
+    "en" : "Recently sent to (Phone Number)",
+    "ja" : "最近発信番号",
+    "vi" : "Số được gửi gần đây",
+    "zh" : "最近发信号码"
+  },
+  "핸드폰번호가 없거나 유효하지 않은 사용자는 수신자로 지정되지 않습니다.<br/>*유효하지않은 사용자({0}명)<br/>{1}" : {
+    "en" : "Users who do not have a mobile phone number or are not valid cannot be assigned as recipients..<br/>* Invalid users ({0} people)<br/>{1}",
+    "ja" : "携帯電話番号がないまたは無効なユーザーは、受信者に指定できません。<br/>*無効なユーザー（{0}人）<br/>{1}",
+    "vi" : "Người dùng không có số điện thoại di động hoặc số điện thoại di động không hợp lệ sẽ không được chỉ định là người nhận. <br/> * Người dùng không hợp lệ ({0}) <br/> {1}",
+    "zh" : "没有手机号码或者没有效的使用者不可指定为收信人。<br/>*没有效的使用者({0}名)<br/>{1}"
+  },
+  "전송날짜" : {
+    "en" : "Date sent",
+    "ja" : "送信日時",
+    "vi" : "Ngày gửi",
+    "zh" : "传送日子"
+  },
+  "전송상태" : {
+    "en" : "Delivery status",
+    "ja" : "送信状態",
+    "vi" : "Tình trạng chuyển phát",
+    "zh" : "传送状态"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "기타에러(타임아웃들:무선망)" : {
+    "en" : "Other error(Time out: Wireless network)",
+    "ja" : "その他エラー（タイムアウトなど：無線網）",
+    "vi" : "Các lỗi khác (hết thời gian: mạng không dây)",
+    "zh" : "其他错误（暂停时间等：无线网）"
+  },
+  "전송실패(정지고객등)-SKTURL" : {
+    "en" : "Delivery failed (suspended customers etc.)-SKTURL",
+    "ja" : "送信失敗（停止、顧客など）-SKTURL",
+    "vi" : "Chuyển phát thất bại (khách hàng bị đình chỉ, vv.)-SKTURL",
+    "zh" : "传送失败（停止顾客等）-SKTURL"
+  },
+  "할당건수" : {
+    "en" : "Allocated",
+    "ja" : "割当件数",
+    "vi" : "Số lượt phân bổ",
+    "zh" : "分配件数"
+  },
+  "월송신건수초과" : {
+    "en" : "Monthly SMS quota exceeded",
+    "ja" : "月間送信件数超過",
+    "vi" : "Vượt quá hạm mức SMS hàng tháng",
+    "zh" : "超过月间送信件数"
+  },
+  "문자 보내기" : {
+    "en" : "Send a text message",
+    "ja" : "SMS送信",
+    "vi" : "Gửi tin nhắn",
+    "zh" : "发短信"
+  },
+  "성인광고,대출광고등기타제한" : {
+    "en" : "Other restrictions_ Ads for adult content and loans",
+    "ja" : "成人広告、ローン広告などその他の制限",
+    "vi" : "Các hạn chế khác_Quảng cáo về nội dung người lớn và dịch vụ cho vay",
+    "zh" : "成人广告，贷款广告等其他限制"
+  },
+  "문자내용" : {
+    "en" : "Message content",
+    "ja" : "SMS内容",
+    "vi" : "Nội dung tin nhắn",
+    "zh" : "短信内容"
+  },
+  "대상을 선택하세요." : {
+    "en" : "Select a target.",
+    "ja" : "対象を選択してください。",
+    "vi" : "Hãy chọn đối tượng.",
+    "zh" : "请选择对象。"
+  },
+  "메일 용량이 {0}% 입니다." : {
+    "en" : "Mail capacity is {0}%.",
+    "ja" : "メール容量が{0}％です。",
+    "vi" : "Dung lượng email là {0}%.",
+    "zh" : "邮件容量为{0}%。"
+  },
+  "발송 확인함" : {
+    "en" : "Delivery Confirmed",
+    "ja" : "発信確認Box",
+    "vi" : "Hộp thư đi",
+    "zh" : "发送确认箱"
+  },
+  "검색선택의 시작일자를 입력해주세요." : {
+    "en" : "Enter a start date (for searching)",
+    "ja" : "検索選択の開始日付を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu vào thanh tìm kiếm",
+    "zh" : "请输入搜索选择的起始日。"
+  },
+  "전송건수" : {
+    "en" : "Total sent",
+    "ja" : "送信件数",
+    "vi" : "Số lượt gửi",
+    "zh" : "传送件数"
+  },
+  "21시이후광고" : {
+    "en" : "Ads after 21:00",
+    "ja" : "21時以降広告",
+    "vi" : "Quảng cáo sau 21:00",
+    "zh" : "晚上9点以后广告"
+  },
+  "실패" : {
+    "en" : "Failed",
+    "ja" : "失敗",
+    "vi" : "Thất bại",
+    "zh" : "失败"
+  },
+  "시" : {
+    "en" : "Hour",
+    "ja" : "時",
+    "vi" : "Giờ",
+    "zh" : "时"
+  },
+  "80Byte 초과시 MMS로 전송됩니다." : {
+    "en" : "When a message is larger than 80Byte, it will be sent as a MMS message.",
+    "ja" : "80Byte超過時、MMSで送信されます。",
+    "vi" : "Khi dung lượng vượt quá 80 Byte, tin nhắn sẽ được gửi dưới dạng tin nhắn MMS.",
+    "zh" : "超过80Byte时会通过MMS传送。"
+  },
+  "번호형식이 잘못 되었습니다." : {
+    "en" : "The format of the phone number is invalid.",
+    "ja" : "誤った番号形式です。",
+    "vi" : "Định dạng của số bị lỗi",
+    "zh" : "号码型式错误。"
+  },
+  "삭제되었습니다." : {
+    "en" : "Deleted successfully.",
+    "ja" : "削除されました。",
+    "vi" : "ĐÃ xóa",
+    "zh" : "已删除。"
+  },
+  "SMS 관리" : {
+    "en" : "Manage SMS",
+    "ja" : "SMS 管理",
+    "vi" : "Quản lý tin nhắn SMS",
+    "zh" : "管理  SMS"
+  },
+  "번호이동번호-SKTURL" : {
+    "en" : "Mobile number porting-SKTURL",
+    "ja" : "番号移動番号-SKTURL",
+    "vi" : "Số chuyển số-SKTURL",
+    "zh" : "移动号码的号码-SKTURL"
+  },
+  "검색선택의 종료일자를 입력해주세요." : {
+    "en" : "Enter a finish date (for searching)",
+    "ja" : "検索選択の終了日付を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc vào thanh tìm kiếm",
+    "zh" : "请输入搜索选择的终止日。"
+  },
+  "예약 문자함" : {
+    "en" : "Scheduled Messages",
+    "ja" : "SMS予約Box",
+    "vi" : "Hộp tin đặt trước",
+    "zh" : "预约短信箱"
+  },
+  "재입력" : {
+    "en" : "Re-enter",
+    "ja" : "再入力",
+    "vi" : "Nhập lại",
+    "zh" : "再输入"
+  },
+  "변경" : {
+    "en" : "Change",
+    "ja" : "変更",
+    "vi" : "Thay đổi",
+    "zh" : "变更"
+  },
+  "번호형식오류" : {
+    "en" : "Number format error",
+    "ja" : "番号の形式エラー",
+    "vi" : "Số điện thoại bị lỗi định dạng",
+    "zh" : "号码形式错误"
+  },
+  "수신거부메시지없음" : {
+    "en" : "No blocked messages",
+    "ja" : "受信拒否メッセージなし",
+    "vi" : "Không có tin nhắn bị chặn",
+    "zh" : "没有拒绝收信短信"
+  },
+  "최근1주" : {
+    "en" : "Past week",
+    "ja" : "最近1週",
+    "vi" : "1 tuần trước",
+    "zh" : "最近1周"
+  },
+  "단말기메시지FULL" : {
+    "en" : "Device Message FULL",
+    "ja" : "端末メッセージFULL",
+    "vi" : "Hộp tin nhắn đã đầy",
+    "zh" : "终端机短信FULL"
+  },
+  "착신번호에러(없는국번)" : {
+    "en" : "Forwarding number error (Invalid area/country code)",
+    "ja" : "着信番号エラー（存在しない局番）",
+    "vi" : "Lỗi số chuyển tiếp (mã quay số không hợp lệ)",
+    "zh" : "终端号码错误（不存在的区号）"
+  },
+  "전송결과" : {
+    "en" : "Transfer results",
+    "ja" : "送信結果",
+    "vi" : "Kết quả gửi đi",
+    "zh" : "传送结果"
+  },
+  "결과수신대기" : {
+    "en" : "Waiting to receive results",
+    "ja" : "結果受信待機",
+    "vi" : "Đang chờ nhận kết quả",
+    "zh" : "登录收信结果"
+  },
+  "착신번호에러(자리수에러)" : {
+    "en" : "Forwarding number error (Digit number error)",
+    "ja" : "着信番号エラー（桁数エラー）",
+    "vi" : "Chuyển tiếp lỗi số (Lỗi số chữ số)",
+    "zh" : "终端号码错误（字数错误）"
+  },
+  "남은건수" : {
+    "en" : "Remaining",
+    "ja" : "残り件数",
+    "vi" : "Số lượt còn lại",
+    "zh" : "剩下件数"
+  },
+  "용량관리" : {
+    "en" : "Manage space",
+    "ja" : "容量管理",
+    "vi" : "Quản lý dung lượng",
+    "zh" : "用量管理"
+  },
+  "사용자 기본용량" : {
+    "en" : "User default space",
+    "ja" : "ユーザーの基本容量",
+    "vi" : "Dung lượng mặc định cho người sử dụng",
+    "zh" : "使用者基本用量"
+  },
+  "UNKNOWN" : {
+    "en" : "UNKNOWN",
+    "ja" : "不明",
+    "vi" : "KHÔNG XÁC ĐỊNH",
+    "zh" : "未知"
+  },
+  "시스템장애" : {
+    "en" : "System error",
+    "ja" : "システム障害",
+    "vi" : "Lỗi hệ thống",
+    "zh" : "系统障碍"
+  },
+  "번호이동DB조회불가-SKTURL" : {
+    "en" : "Unable to check mobile number porting DB-SKTURL",
+    "ja" : "番号移動DB照会不可-SKTURL",
+    "vi" : "Không thể kiểm tra số điện thoại di động đang chuyển số tới DB-SKTURL",
+    "zh" : "不可查询移动号码DB-SKTURL"
+  },
+  "발송이력을 선택해주시기 바랍니다." : {
+    "en" : "Please select your transfer history.",
+    "ja" : "発信履歴を選択してください。",
+    "vi" : "Vui lòng chọn lịch sử vận chuyển.",
+    "zh" : "请选择发送履历。"
+  }
+}

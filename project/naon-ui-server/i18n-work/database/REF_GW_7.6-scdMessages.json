@@ -1,0 +1,3980 @@
+{
+  "일정" : {
+    "en" : "Schedule",
+    "ja" : "スケジュール",
+    "vi" : "Lịch trình",
+    "zh" : "日程"
+  },
+  "크게보기" : {
+    "en" : "Zoom In",
+    "ja" : "大きく表示",
+    "vi" : "Phóng to",
+    "zh" : "发大表示"
+  },
+  "기한없는 할일/보류" : {
+    "en" : "Tasks without a due date/Hold",
+    "ja" : "期限のないタスク/保留",
+    "vi" : "Tác vụ không có ngày đến hạn/Đang chờ xử lý",
+    "zh" : "没有期限的得做得事/保留"
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi mail",
+    "zh" : "发送邮件"
+  },
+  "예약사용시 반복종료일은 최대 3개월({0})입니다." : {
+    "en" : "In the case of scheduled use, the maximum repetition end date is 3 months ({0}).",
+    "ja" : "予約使用時の繰返し終了日は最大3ヵ月（{0}）です。",
+    "vi" : "Trong trường hợp sử dụng đặt trước, thời gian (ngày) kết thức lặp lại tối đa là 3 tháng",
+    "zh" : "使用预约时反复结束日最多3个月({0})。"
+  },
+  "조회" : {
+    "en" : "View",
+    "ja" : "照会",
+    "vi" : "Xem",
+    "zh" : "查询"
+  },
+  "기념일이 수정되었습니다." : {
+    "en" : "Anniversary has been modified.",
+    "ja" : "記念日が修正されました。",
+    "vi" : "Ngày kỷ niệm đã được sửa đổi.",
+    "zh" : "已修改纪念日。"
+  },
+  "저장하였습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了"
+  },
+  "공유일정이 수락되었습니다." : {
+    "en" : "Shared schedule has been accepted.",
+    "ja" : "共有スケジュールが受諾されました。",
+    "vi" : "Lịch trình chia sẻ đã được chấp nhận.",
+    "zh" : "共享日程已接受。"
+  },
+  "동기화 대상 일정은 현재 날짜의 {0}개월 전부터 {0}개월 후까지입니다." : {
+    "en" : "As of today, you can synchronize events from {0} months ago to {0} months later.",
+    "ja" : "同期化対象のスケジュールは、現在の日付の{0}ヶ月前から{0}ヶ月後までです。",
+    "vi" : "Hôm nay, bạn có thể đồng bộ hóa các sự kiện từ {0} tháng trước đến {0} tháng sau đó.",
+    "zh" : "初始化对象日程设定为现在日子的{0}个月以前到{0}个月以后。"
+  },
+  "연간" : {
+    "en" : "Yearly",
+    "ja" : "年間",
+    "vi" : "Năm",
+    "zh" : "年间"
+  },
+  "근태관리 부재 정보를 부재 캘린더에 표시합니다." : {
+    "en" : "Display attendance management absence information in the absence calendar.",
+    "ja" : "勤怠管理の欠席情報を欠席カレンダーに表示します。",
+    "vi" : "Hiển thị thông tin vắng mặt từ quản lý chấm công trong lịch vắng mặt.",
+    "zh" : "在出勤管理中将缺勤信息载入缺勤日历中。"
+  },
+  "자원예약" : {
+    "en" : "Resource booking",
+    "ja" : "資源予約",
+    "vi" : "Đặt trước tài nguyên",
+    "zh" : "预约资源"
+  },
+  "일정 공유를 거절 했습니다." : {
+    "en" : "Calendar sharing has been declined.",
+    "ja" : "スケジュールの共有を拒否しました。",
+    "vi" : "Đã từ chối chia sẻ lịch trình.",
+    "zh" : "共有日程拒绝完了。"
+  },
+  "일정을 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete this event?",
+    "ja" : "スケジュールを削除しますか？",
+    "vi" : "Bạn có muốn xóa sự kiện không?",
+    "zh" : "你确定要删除这个活动？"
+  },
+  "일간" : {
+    "en" : "Daily",
+    "ja" : "日間",
+    "vi" : "Ngày",
+    "zh" : "日间"
+  },
+  "완료하기" : {
+    "en" : "Complete",
+    "ja" : "完了する",
+    "vi" : "Hoàn thành",
+    "zh" : "完了"
+  },
+  "일정 공유" : {
+    "en" : "Share Schedule",
+    "ja" : "スケジュール共有",
+    "vi" : "Chia sẻ lịch trình",
+    "zh" : "日程共有"
+  },
+  "첨부파일 용량 제한" : {
+    "en" : "Attachment size limit",
+    "ja" : "添付ファイルの容量制限",
+    "vi" : "Giới hạn kích thước đính kèm",
+    "zh" : "控制附件用量"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "{0}님으로부터 받은 캘린더가 변경되었습니다." : {
+    "en" : "A change has occurred to the calendar shared by Mr./Ms. {0}.",
+    "ja" : "{0}さんからのカレンダーが変更されました。",
+    "vi" : "Lịch bạn nhận được từ anh/chị {0} đã được thay đổi.",
+    "zh" : "对{0}收到日历变更了"
+  },
+  "지난 날짜에는 자원을 예약할 수 없습니다." : {
+    "en" : "You cannot make resource bookings on past dates.",
+    "ja" : "過去の日付には資源予約できません。",
+    "vi" : "Không thể tiến hành đặt chỗ đối với tài nguyên vào thời gian quá khứ.",
+    "zh" : "过去的日子不可预订资源。"
+  },
+  "상세보기" : {
+    "en" : "View Details",
+    "ja" : "詳細を見る",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细看"
+  },
+  "사용자별 일정 대리자를 설정할 수 있습니다." : {
+    "en" : "You can set schedule agents for each user.",
+    "ja" : "ユーザー別のスケジュール代理者を設定できます。",
+    "vi" : "Bạn có thể thiết Lịch trình đại diện cho người dùng.",
+    "zh" : "可设定不同用户的固定代理人。"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "File đã chọn",
+    "zh" : "选择的文档"
+  },
+  "日本語" : {
+    "en" : "Japanese",
+    "ja" : "日本語",
+    "vi" : "Tiếng Nhật",
+    "zh" : "日语"
+  },
+  "오늘의 다음 일정이 없습니다." : {
+    "en" : "No more schedule today",
+    "ja" : "今日は次のスケジュールがありません。",
+    "vi" : "Không có lịch trình tiếp theo trong hôm nay.",
+    "zh" : "今天没有别的日程。"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "네번째" : {
+    "en" : "Fourth",
+    "ja" : "４番目",
+    "vi" : "Thứ 4",
+    "zh" : "第四次"
+  },
+  "오른쪽 할일 접기" : {
+    "en" : "Hide 'Tasks to do' on right side",
+    "ja" : "右側のタスクを閉じる",
+    "vi" : "Ẩn tác vụ sẽ làm ở bên phải",
+    "zh" : "折叠右边得做得事"
+  },
+  "이름,아이디,부서명" : {
+    "en" : "Name, ID, Department Name",
+    "ja" : "名前、ID、部署名",
+    "vi" : "Tên, ID, tên bộ phận",
+    "zh" : "名字，用户名，部门名"
+  },
+  "시작" : {
+    "en" : "Start",
+    "ja" : "スタート",
+    "vi" : "Bắt đầu",
+    "zh" : "开始"
+  },
+  "뒤로" : {
+    "en" : "Back",
+    "ja" : "戻る",
+    "vi" : "Quay lại",
+    "zh" : "往后"
+  },
+  "개인환경설정" : {
+    "en" : "Personal preferences",
+    "ja" : "個人環境の設定",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "设定个人环境"
+  },
+  "조회권한" : {
+    "en" : "Permission to View",
+    "ja" : "照会権限",
+    "vi" : "Quyền được xem",
+    "zh" : "查询权限"
+  },
+  "일정메일" : {
+    "en" : "Schedule mail",
+    "ja" : "日程メール",
+    "vi" : "Mail lịch trình",
+    "zh" : "日程邮件"
+  },
+  "공용 캘린더" : {
+    "en" : "Public calendar",
+    "ja" : "共用カレンダー",
+    "vi" : "Lịch công khai",
+    "zh" : "公用日历"
+  },
+  "자원 선택" : {
+    "en" : "Select a resource",
+    "ja" : "資源の選択",
+    "vi" : "Chọn nguồn tài nguyên",
+    "zh" : "选择资源"
+  },
+  "지난날짜에는 자원을 예약할 수 없습니다.\\n날짜를 변경하시겠습니까?" : {
+    "en" : "You cannot make bookings on past dates.\\n Would you like to change the date?",
+    "ja" : "過去の日付に資源を予約することができません。\\ n日付を変更しますか？",
+    "vi" : "Tài nguyên không thể được đặt vào các ngày ở quá khứ. \\n Bạn có muốn thay đổi ngày không?",
+    "zh" : "过去的日子不可预订资源。要变更日子吗？"
+  },
+  "완료한 할일 삭제" : {
+    "en" : "Delete completed tasks",
+    "ja" : "完了したタスクを削除",
+    "vi" : "Xóa tác vụ đa hoàn thành",
+    "zh" : "完了的事删除"
+  },
+  "선택한 할일을" : {
+    "en" : "The selected task",
+    "ja" : "選択したタスクを",
+    "vi" : "Việc đã chọn",
+    "zh" : "把选择的文件"
+  },
+  "할일 내용을 입력하세요" : {
+    "en" : "Enter content.",
+    "ja" : "タスク内容を入力してください。",
+    "vi" : "Hãy nhập nội dung tác vụ hôm nay",
+    "zh" : "输入得做的事内容"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境の設定",
+    "vi" : "Cài đặt môi trường mặc định",
+    "zh" : "设定基本环境"
+  },
+  "공용" : {
+    "en" : "Public",
+    "ja" : "共用",
+    "vi" : "Chia sẻ",
+    "zh" : "公用"
+  },
+  "공유받은 사용자가 아닙니다." : {
+    "en" : "Not a shared user",
+    "ja" : "共有されたユーザーではありません。",
+    "vi" : "Không phải người dùng đã được chia sẻ.",
+    "zh" : "您不是获得共享的使用者。"
+  },
+  "분류" : {
+    "en" : "Categorized",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "分类"
+  },
+  "반복사용" : {
+    "en" : "Repeated use",
+    "ja" : "繰返し使用",
+    "vi" : "Sử dụng lặp lại",
+    "zh" : "重复使用"
+  },
+  "이름, 아이디" : {
+    "en" : "name, id",
+    "ja" : "名前、ID",
+    "vi" : "Tên, ID",
+    "zh" : "名字，用户名"
+  },
+  "이전 달" : {
+    "en" : "Previous Month",
+    "ja" : "前の月",
+    "vi" : "Tháng trước",
+    "zh" : "上月"
+  },
+  "제목은 한글 33자 이내, 영어 100자 이내로 입력하세요." : {
+    "en" : "Title must be less than 33 characters in Korean or 100 characters in English..",
+    "ja" : "タイトルはハングル33文字以内、英語100文字以内で入力してください。",
+    "vi" : "Hãy nhập tên tiêu đề dưới 33 chữ tiếng Hàn, dưới 100 chữ tiếng Anh.",
+    "zh" : "题目输入为韩文33字以内, 英文 100字以内。"
+  },
+  "일정보기 초기 화면" : {
+    "en" : "View Schedule_Home Screen",
+    "ja" : "スケジュール表示の初期画面",
+    "vi" : "Xem lịch_Trang đầu",
+    "zh" : "看日程首页"
+  },
+  "캘린더명은 한글33자 이내, 영어는 100자까지 입력가능합니다." : {
+    "en" : "Calendar name must be less than 33 Korean characters or 100 English letters.",
+    "ja" : "カレンダー名はハングル20字以内、英語は100文字まで入力可能です。",
+    "vi" : "Tên lịch phải dưới 33 chữ tiếng Hàn, 100 chữ tiếng Anh.",
+    "zh" : "日历名可以输入到韩文33字，英文100字。"
+  },
+  "윤달" : {
+    "en" : "Leap month",
+    "ja" : "閏月",
+    "vi" : "Tháng nhuận",
+    "zh" : "闰月"
+  },
+  "기념일을 입력하세요." : {
+    "en" : "Enter anniversary.",
+    "ja" : "記念日を選択してください。",
+    "vi" : "Nhập ngày kỷ niệm.",
+    "zh" : "请输入纪念日。"
+  },
+  "모두 선택" : {
+    "en" : "Select All",
+    "ja" : "すべて選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "웹쪽지" : {
+    "en" : "Web Message",
+    "ja" : "Webメッセージ",
+    "vi" : "Tin nhắn web",
+    "zh" : "网络纸条"
+  },
+  "공유받은 일정이 삭제 또는 공유를 취소하였습니다." : {
+    "en" : "The shared schedule was deleted or the sharing was cancelled.",
+    "ja" : "共有された日程は削除または共有をキャンセルしました。",
+    "vi" : "Sự kiện được chia sẻ đã bị xóa hoặc việc chia sẻ đã bị hủy.",
+    "zh" : "接受共有的日程被删除或取消共有了。"
+  },
+  "자원예약시에는 반복일정을 등록할수 없습니다." : {
+    "en" : "Repeated schedules cannot be registered when booking a resource.",
+    "ja" : "資源予約時には、繰り返しスケジュールを登録することができません。",
+    "vi" : "Không thể thêm lịch trình được lặp khi tài nguyên đang được đặt trước.",
+    "zh" : "预约资源时不可登录反复日程。"
+  },
+  "예약불가인 자원이 있습니다." : {
+    "en" : "There are resources that cannot be booked.",
+    "ja" : "予約不可な資源があります。",
+    "vi" : "Có tài nguyên không thể đặt trước.",
+    "zh" : "有不可预约的资源。"
+  },
+  "부재를 선택하세요." : {
+    "en" : "Please select an absence.",
+    "ja" : "欠席を選択してください。",
+    "vi" : "Vui lòng chọn một thông tin vắng mặt.",
+    "zh" : "请选择缺席。"
+  },
+  "음력일에 대한 실제 양력일이 존재하지 않습니다." : {
+    "en" : "The solar date for the selected lunar date does not exist.",
+    "ja" : "陰暦日に対する実際陽暦日が存在しません。",
+    "vi" : "Ngày âm lịch được chọn không tồn tại.",
+    "zh" : "没有实际阳历日期的阴历日期。"
+  },
+  "색상선택" : {
+    "en" : "Select color",
+    "ja" : "カラー選択",
+    "vi" : "Chọn màu sắc",
+    "zh" : "选择颜色"
+  },
+  "진행" : {
+    "en" : "Proceed",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "해당 월달력으로 이동" : {
+    "en" : "Move to the selected month (Calendar)",
+    "ja" : "当該月のカレンダーに移動",
+    "vi" : "Di chuyển tới lịch tháng tương ứng",
+    "zh" : "移动到有关月的月历"
+  },
+  "지난날짜에는 자원을 예약할 수 없습니다." : {
+    "en" : "You cannot make a booking on a date that has already passed.",
+    "ja" : "過去の日付に予約することはできません。",
+    "vi" : "Bạn không thể đặt chỗ tại ngày ở quá khứ.",
+    "zh" : "过去的日子不可预约。"
+  },
+  "다음일정 시간" : {
+    "en" : "Time for next schedule",
+    "ja" : "次のスケジュール時間",
+    "vi" : "Thời gian lịch trình tiếp theo",
+    "zh" : "下个日程时间"
+  },
+  "다음과 같이 표시" : {
+    "en" : "Show as follows",
+    "ja" : "次のように表示",
+    "vi" : "Biểu thị như sau",
+    "zh" : "如下表示"
+  },
+  "운영자" : {
+    "en" : "Operator",
+    "ja" : "オペレーター",
+    "vi" : "Người vận hành",
+    "zh" : "运营人"
+  },
+  "스페이스 캘린더" : {
+    "en" : "Space calendar",
+    "ja" : "スペースカレンダー",
+    "vi" : "Lịch Space",
+    "zh" : "空格日历"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name..",
+    "ja" : "フォルダ名を入力してください.",
+    "vi" : "Hãy nhập tên thư mục",
+    "zh" : "请输入文件夹名。"
+  },
+  "우수회원" : {
+    "en" : "Excellent member",
+    "ja" : "優秀会員",
+    "vi" : "Hội viên ưu tú",
+    "zh" : "优秀会员"
+  },
+  "공유확인" : {
+    "en" : "Confirm sharing",
+    "ja" : "共有確認",
+    "vi" : "Xác nhận chia sẻ",
+    "zh" : "确认共有"
+  },
+  "복원" : {
+    "en" : "Restore",
+    "ja" : "復元",
+    "vi" : "Khôi phục",
+    "zh" : "复原"
+  },
+  "예약" : {
+    "en" : "Book",
+    "ja" : "予約",
+    "vi" : "Đặt hẹn",
+    "zh" : "预约"
+  },
+  "맨아래" : {
+    "en" : "Bottom",
+    "ja" : "一番下",
+    "vi" : "Dưới cùng",
+    "zh" : "往最下边"
+  },
+  "종료일" : {
+    "en" : "End Date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日"
+  },
+  "회원 부재 표시" : {
+    "en" : "Member Absence Indicator",
+    "ja" : "メンバーの不在表示",
+    "vi" : "Hiển thị trạng thái vắng mặt của thành viên",
+    "zh" : "用户缺席显示"
+  },
+  "일정 추가" : {
+    "en" : "Add a Schedule",
+    "ja" : "スケジュール追加",
+    "vi" : "Thêm một sự kiện",
+    "zh" : "追加日程"
+  },
+  "저장 후 계속" : {
+    "en" : "Save & Continue",
+    "ja" : "保存してから継続する",
+    "vi" : "Lưu và tiếp tục",
+    "zh" : "保存后继续"
+  },
+  "다음 예약이 <em>{0}</em> 부터 있습니다." : {
+    "en" : "Next appointment starts from <em>{0}</em>.",
+    "ja" : "次の予約が <em>{0}</em> からあります。",
+    "vi" : "Có lịch hẹn tiếp theo từ <em>{0}</em>.",
+    "zh" : "下一预约从<em>{0}</em> 开始。"
+  },
+  "두번째" : {
+    "en" : "Second",
+    "ja" : "２番目",
+    "vi" : "Thứ hai",
+    "zh" : "第二次"
+  },
+  "모바일 일정보기 초기화면" : {
+    "en" : "Home screen (Mobile View Schedule)",
+    "ja" : "モバイル日程確認初期画面",
+    "vi" : "Màn hình khởi động chế độ xem kế hoạch làm việc di động",
+    "zh" : "手机日程查看初期画面"
+  },
+  "수락" : {
+    "en" : "Accept",
+    "ja" : "受諾",
+    "vi" : "Chấp nhận",
+    "zh" : "承诺"
+  },
+  "일감 등록" : {
+    "en" : "Add tasks",
+    "ja" : "タスク登録",
+    "vi" : "Thêm tác vụ",
+    "zh" : "登录工作"
+  },
+  "사이드 메뉴 열기" : {
+    "en" : "Open Side Menu",
+    "ja" : "サイドメニューを開く",
+    "vi" : "Mở side menu",
+    "zh" : "打开周围菜单"
+  },
+  "요청" : {
+    "en" : "Request",
+    "ja" : "リクエスト",
+    "vi" : "Yêu cầu",
+    "zh" : "邀请"
+  },
+  "다음 50개 가져오기" : {
+    "en" : "Load Next 50",
+    "ja" : "次の50個をインポート",
+    "vi" : "Nhập 50 mục kế tiếp",
+    "zh" : "拿来下50个"
+  },
+  "종일 일정이 <em>{0}</em>건 있습니다." : {
+    "en" : "There are <em>{0}</em> of the all day schedule.",
+    "ja" : "終日スケジュールが <em>{0}</em>件あります。",
+    "vi" : "Có <em>{0}</em> lịch trình trong ngày.",
+    "zh" : "一日日程共 <em>{0}</em>项。"
+  },
+  "부재정보 일정 등록" : {
+    "en" : "Register absence information schedule",
+    "ja" : "欠席情報のスケジュールを登録",
+    "vi" : "Đăng ký lịch thông tin vắng mặt",
+    "zh" : "记录缺席信息"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "부서 선택" : {
+    "en" : "Select department",
+    "ja" : "部署選択",
+    "vi" : "Chọn phòng ban/bộ phận",
+    "zh" : "部门选择"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "캘린더 삭제" : {
+    "en" : "Delete calendar",
+    "ja" : "カレンダーの削除",
+    "vi" : "Xóa lịch",
+    "zh" : "删除日历"
+  },
+  "상세" : {
+    "en" : "Details",
+    "ja" : "詳細",
+    "vi" : "Chi tiết",
+    "zh" : "详细"
+  },
+  "자원을 선택하세요." : {
+    "en" : "Please select a resource",
+    "ja" : "資源を選択してください。",
+    "vi" : "Vui lòng chọn một tài nguyên",
+    "zh" : "请选择资源"
+  },
+  "정상 사용자" : {
+    "en" : "Normal user",
+    "ja" : "通常のユーザー",
+    "vi" : "Người dùng bình thường",
+    "zh" : "普通用户"
+  },
+  "공용 기념일은 삭제 할 수 없습니다. 체크를 해제 한 후 다시 시도하세요." : {
+    "en" : "Public anniversaries cannot be deleted. Please un-check it and try again.",
+    "ja" : "共用記念日は削除できません。チェックを解除した後、やり直してください。",
+    "vi" : "Ngày kỷ niệm công khai không thể bị xóa. Vui lòng bỏ chọn nó và thử lại.",
+    "zh" : "无法删除共用纪念日。请解除后，重新进行。"
+  },
+  "미분류" : {
+    "en" : "Uncategorized",
+    "ja" : "未分類",
+    "vi" : "Chưa phân loại",
+    "zh" : "未分类"
+  },
+  "회의 주관자" : {
+    "en" : "Organizer (Meeting)",
+    "ja" : "会議主管者",
+    "vi" : "Người chủ quản cuộc họp",
+    "zh" : "会议主管人"
+  },
+  "폴더 열기" : {
+    "en" : "Open folder",
+    "ja" : "フォルダを開く",
+    "vi" : "Mở thư mục",
+    "zh" : "打开文件夹"
+  },
+  "나" : {
+    "en" : "Me",
+    "ja" : "私",
+    "vi" : "Tôi",
+    "zh" : "我"
+  },
+  "일정 등록 알림 사용" : {
+    "en" : "Enable new calendar event notifications.",
+    "ja" : "スケジュールの登録通知を使用する",
+    "vi" : "Sử dụng thông báo đăng ký lịch trình",
+    "zh" : "使用日程添加通知。"
+  },
+  "향후 일정 모두 삭제" : {
+    "en" : "Delete all future events.",
+    "ja" : "今後のスケジュールをすべて削除",
+    "vi" : "Xóa tất cả sự kiện",
+    "zh" : "以后日程全部删除"
+  },
+  "다음예약 시간" : {
+    "en" : "Time for next reservation",
+    "ja" : "次の予約時間",
+    "vi" : "Thời gian cuộc hẹn tiếp theo",
+    "zh" : "下个预约时间"
+  },
+  "표시할 일정이 존재하지 않습니다." : {
+    "en" : "No schedule to display.",
+    "ja" : "表示するスケジュールが存在しません。",
+    "vi" : "Không tồn tại sự kiện để hiển thị",
+    "zh" : "不存在要表示的日程"
+  },
+  "캘린더 수정" : {
+    "en" : "Edit calendar",
+    "ja" : "カレンダーの修正",
+    "vi" : "Sửa lịch",
+    "zh" : "修改日历"
+  },
+  "다른 곳에서 작업" : {
+    "en" : "Working elsewhere",
+    "ja" : "他の場所での作業",
+    "vi" : "Làm việc ở địa điểm khác",
+    "zh" : "在别的地方做"
+  },
+  "더보기" : {
+    "en" : "View more",
+    "ja" : "もっと見る",
+    "vi" : "Xem thêm",
+    "zh" : "继续看"
+  },
+  "['일', '월', '화', '수', '목', '금', '토']" : {
+    "en" : "['Sun', 'Mon', 'Tue', 'Web', 'Thu', 'Fri', 'Sat']",
+    "ja" : "['日'、 '月'、 '火'、 '水'、 '木'、 '金'、'土']",
+    "vi" : "['Chủ nhật', 'Thứ hai', 'Thứ ba', Thứ tư', 'Thứ năm', 'Thứ sáu', 'Thứ bảy']",
+    "zh" : "['周日', '周一', '周二', '周三', '周四', '周五', '周六']"
+  },
+  "공유 캘린더가 거절되었습니다." : {
+    "en" : "Shared calendar has been declined.",
+    "ja" : "共有カレンダーが拒否されました。",
+    "vi" : "Lịch chia sẻ đã bị từ chối.",
+    "zh" : "共享日历已拒绝。"
+  },
+  "캘린더 추가" : {
+    "en" : "Add calendar",
+    "ja" : "カレンダー追加",
+    "vi" : "Thêm lịch",
+    "zh" : "追加日历"
+  },
+  "양력" : {
+    "en" : "Solar",
+    "ja" : "陽暦",
+    "vi" : "Dương lịch",
+    "zh" : "阳历"
+  },
+  "하였습니다." : {
+    "en" : "Have done.",
+    "ja" : "しました。",
+    "vi" : "Đã hoàn thành",
+    "zh" : "做了"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "등록 알림" : {
+    "en" : "New Event Notification",
+    "ja" : "登録通知",
+    "vi" : "Thông báo đăng ký",
+    "zh" : "登录通知"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "할일 제목을 입력하세요." : {
+    "en" : "Enter a Tasks to do Title.",
+    "ja" : "タスクの件名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề tác vụ",
+    "zh" : "输入得做的事题目"
+  },
+  "할일,기념일,반복일정은 수정화면을 통해서만 수정이 가능합니다." : {
+    "en" : "You can edit tasks, anniversaries, and repeated events only on the Edit page.",
+    "ja" : "タスク、記念日、繰返しスケジュールは、修正画面でのみ修正できます。",
+    "vi" : "Chỉ có thể sửa tác vụ, ngày kỷ niệm, sự kiện lặp lại thông qua màn hình sửa.",
+    "zh" : "得做的事，纪念日，反复日程只通过修改画面可以修改。"
+  },
+  "지난 일정" : {
+    "en" : "Past events",
+    "ja" : "過去の日程",
+    "vi" : "sự kiện quá khứ",
+    "zh" : "过去日程"
+  },
+  "비밀번호" : {
+    "en" : "Password",
+    "ja" : "パスワード",
+    "vi" : "Mật khẩu",
+    "zh" : "密码"
+  },
+  "사용자 설정" : {
+    "en" : "User Settings",
+    "ja" : "ユーザー設定",
+    "vi" : "Cài đặt người dùng",
+    "zh" : "设定使用者"
+  },
+  "계속 반복" : {
+    "en" : "Continue (Repeat)",
+    "ja" : "継続繰返し",
+    "vi" : "Tiếp tục lặp lại",
+    "zh" : "继续重复"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "取り消し",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "일정을 공유 했습니다." : {
+    "en" : "Schedule has been shared.",
+    "ja" : "スケジュールを共有しました。",
+    "vi" : "Lịch trình đã được chia sẻ.",
+    "zh" : "已共享日程。"
+  },
+  "반복일정 수정" : {
+    "en" : "Modify repeat event",
+    "ja" : "繰返しスケジュールの変更",
+    "vi" : "Sửasự kiện lặp lại",
+    "zh" : "修改反复日程"
+  },
+  "소유자상태" : {
+    "en" : "Owner's status",
+    "ja" : "所有者状態",
+    "vi" : "Trạng thái sở hữu",
+    "zh" : "所有者状态"
+  },
+  "오늘의 다음 예약이 없습니다." : {
+    "en" : "No more reservation today",
+    "ja" : "今日は次の予約がありません。",
+    "vi" : "Không có cuộc hẹn tiếp theo trong hôm nay.",
+    "zh" : "今天没有别的预约。"
+  },
+  "일정을 불러오고 있습니다." : {
+    "en" : "Loading the schedule",
+    "ja" : "日程を読み取り中です。",
+    "vi" : "Đang tải lịch trình",
+    "zh" : "正在打开日程。"
+  },
+  "캘린더를 삭제 또는 공유를 취소하였습니다." : {
+    "en" : "The calendar has been deleted or the sharing has been cancelled.",
+    "ja" : "カレンダーの削除または共有をキャンセルしました。",
+    "vi" : "Đã hủy chia sẻ hoặc xóa lịch trình",
+    "zh" : "删除或共有取消了日历"
+  },
+  "폴더만 삭제(할일은 미분류로 저장)" : {
+    "en" : "Delete Folder Only (Tasks will be saved in Unlabeled)",
+    "ja" : "フォルダのみ削除(タスクは未分類に保存)",
+    "vi" : "Chỉ xóa thư mục (tác vụ được lưu theo chưa phân loại)",
+    "zh" : "只删除文件夹（把得做得事保存为未分类）"
+  },
+  "해당 대리인이 이미 존재합니다." : {
+    "en" : "The agent already exists.",
+    "ja" : "該当代理人が既に存在します。",
+    "vi" : "Đã tồn tại người đại diện.",
+    "zh" : "已经存在有关代替人。"
+  },
+  "시작 시간" : {
+    "en" : "Start time",
+    "ja" : "開始時間",
+    "vi" : "Thời gian bắt đầu",
+    "zh" : "开始时间"
+  },
+  "{0}님께서 일정을 거절하였습니다." : {
+    "en" : "{0 } has rejected the schedule.",
+    "ja" : "{0}さんがスケジュールを拒否しました。",
+    "vi" : "{0} đã từ chối lịch trình.",
+    "zh" : "{0}拒绝日程了。"
+  },
+  "일정 등록" : {
+    "en" : "Register Schedule (Calendar)",
+    "ja" : "スケジュール登録",
+    "vi" : "Đăng ký lịch trình",
+    "zh" : "日历注册"
+  },
+  "년마다" : {
+    "en" : "Every year",
+    "ja" : "年ごとに",
+    "vi" : "Mỗi năm",
+    "zh" : "每年"
+  },
+  "구글 캘린더 동기화" : {
+    "en" : "Google Calendar Synchronization",
+    "ja" : "Googleカレンダーの同期化",
+    "vi" : "Đồng bộ hóa lịch Google",
+    "zh" : "谷歌日历初始化"
+  },
+  "비밀번호가 일치하지 않습니다." : {
+    "en" : "Password does not match.",
+    "ja" : "パスワードが一致しません。",
+    "vi" : "Mật khẩu không khớp",
+    "zh" : "号码不一致"
+  },
+  "프로젝트 캘린더" : {
+    "en" : "Project calendar",
+    "ja" : "プロジェクトカレンダー",
+    "vi" : "Lịch dự án",
+    "zh" : "项目日历"
+  },
+  "대리자" : {
+    "en" : "Agent",
+    "ja" : "代理者",
+    "vi" : "Người đại diện",
+    "zh" : "代替人"
+  },
+  "내 캘린더의 일정 대리인을 설정할 수 있습니다." : {
+    "en" : "You can set another person as your schedule agent for My Calendar.",
+    "ja" : "Myカレンダーのスケジュール代理人を設定することができます。",
+    "vi" : "Bạn có thể đặt người khác làm đại diện lịch trình của bạn trong phần Lịch của tôi.",
+    "zh" : "可以设定我的日历的日程代替人。"
+  },
+  "기념일을 삭제하시겠습니까?" : {
+    "en" : "Would you like to delete the anniversary?",
+    "ja" : "記念日を削除しますか?",
+    "vi" : "Bạn có muốn xóa ngày kỷ niệm?",
+    "zh" : "确定要删除纪念日吗?"
+  },
+  "캘린더 공유" : {
+    "en" : "Share calendar",
+    "ja" : "カレンダーの共有",
+    "vi" : "Chia sẻ lịch",
+    "zh" : "共有日历"
+  },
+  "공유" : {
+    "en" : "Share",
+    "ja" : "共有する",
+    "vi" : "Chia sẻ",
+    "zh" : "共有"
+  },
+  "반복일정 삭제" : {
+    "en" : "Delete repeat event",
+    "ja" : "繰返しスケジュールの削除",
+    "vi" : "Xóa sự kiện lặp lại",
+    "zh" : "删除重复事件"
+  },
+  "일요일" : {
+    "en" : "Sunday",
+    "ja" : "日曜日",
+    "vi" : "Chủ nhật",
+    "zh" : "星期日"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "PC저장" : {
+    "en" : "Save on PC",
+    "ja" : "PC保存",
+    "vi" : "Lưu PC",
+    "zh" : "电脑上保存"
+  },
+  "캘린더 관리" : {
+    "en" : "Manage Calendars",
+    "ja" : "カレンダー管理",
+    "vi" : "Quản lý lịch",
+    "zh" : "管理日历"
+  },
+  "반복일정" : {
+    "en" : "repeated events",
+    "ja" : "繰返しスケジュール",
+    "vi" : "Sự kiện lặp lại",
+    "zh" : "反复日程"
+  },
+  "사용용량" : {
+    "en" : "Used Space (Capacity)",
+    "ja" : "使用容量",
+    "vi" : "Dung lượng sử dụng",
+    "zh" : "使用用量"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "매주 월요일,수요일,금요일" : {
+    "en" : "Every Monday, Wednesday, Friday",
+    "ja" : "毎週月曜日、水曜日、金曜日",
+    "vi" : "Thứ 2, thứ 4, thứ 6 hàng tuần.",
+    "zh" : "每周一，三，五"
+  },
+  "반복 일정에서 이번 일정만 수정하고 있습니다." : {
+    "en" : "Only modifying this schedule in the recurring schedule.",
+    "ja" : "繰り返しスケジュール内で、このスケジュールのみを変更しています。",
+    "vi" : "Chỉ chỉnh sửa lịch trình này trong số các lịch trình định kỳ.",
+    "zh" : "仅修改循环日程中的此日程。"
+  },
+  "문서" : {
+    "en" : "Documents",
+    "ja" : "ドキュメント",
+    "vi" : "Tài liệu",
+    "zh" : "文件"
+  },
+  "별표하기" : {
+    "en" : "Mark 'Star'",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "기념일" : {
+    "en" : "Anniversary",
+    "ja" : "記念日",
+    "vi" : "Ngày kỷ niệm",
+    "zh" : "纪念日"
+  },
+  "말머리 사용" : {
+    "en" : "Use heading",
+    "ja" : "表題使用",
+    "vi" : "Sử dụng lời nói đầu",
+    "zh" : "使用话头"
+  },
+  "대리인" : {
+    "en" : "Agent",
+    "ja" : "代理人",
+    "vi" : "Đại diện",
+    "zh" : "代替人"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "Duplicate users with the manager status on Space are excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、そのユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong Space, người dùng này sẽ được loại bỏ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "메모 등록" : {
+    "en" : "Add a memo",
+    "ja" : "メモ登録",
+    "vi" : "Thêm ghi nhớ",
+    "zh" : "登录字条"
+  },
+  "할일, 기념일은 수정화면을 통해서만 수정이 가능합니다." : {
+    "en" : "You can only edit your tasks and anniversaries on the Edit page.",
+    "ja" : "タスクや記念日は修正画面でのみ修正が可能です。",
+    "vi" : "Chỉ có thể sửa tác vụ sẽ làm, ngày kỷ niệm thông qua trang chỉnh sửa.",
+    "zh" : "得做的工作，纪念日只能在修改画面上进行修改。"
+  },
+  "주" : {
+    "en" : "week",
+    "ja" : "週",
+    "vi" : "Tuần",
+    "zh" : "周"
+  },
+  "구글 캘린더 연동" : {
+    "en" : "Link with Google Calendar",
+    "ja" : "Googleカレンダー連動",
+    "vi" : "Liên kết với lịch Google",
+    "zh" : "谷歌日历联动"
+  },
+  "다음" : {
+    "en" : "Next",
+    "ja" : "次の",
+    "vi" : "Tiếp theo",
+    "zh" : "下"
+  },
+  "종료" : {
+    "en" : "End",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  },
+  "지난 할일 {0}건" : {
+    "en" : "Past to-do schedule {0} item(s)",
+    "ja" : "過去の仕事{0}件",
+    "vi" : "Việc đã làm {0}",
+    "zh" : "过去要做的事情{0}件"
+  },
+  "색상" : {
+    "en" : "color",
+    "ja" : "色",
+    "vi" : "Màu sắc",
+    "zh" : "颜色"
+  },
+  "마지막" : {
+    "en" : "Last",
+    "ja" : "最後",
+    "vi" : "Gần nhất",
+    "zh" : "最后"
+  },
+  "목요일" : {
+    "en" : "Thursday",
+    "ja" : "木曜日",
+    "vi" : "Thứ năm",
+    "zh" : "周四"
+  },
+  "동기화" : {
+    "en" : "Sync",
+    "ja" : "同期化",
+    "vi" : "Đồng bộ hóa",
+    "zh" : "初始化"
+  },
+  "검색결과" : {
+    "en" : "Search results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "이 이름을 가진 캘린더가 이미 있습니다." : {
+    "en" : "There is already a calendar with this name.",
+    "ja" : "この名前のカレンダーがすでに存在します。",
+    "vi" : "Đã tồn tại lịch  có tên tương tự",
+    "zh" : "已经有利用这个名字的日历。"
+  },
+  "관리자 설정" : {
+    "en" : "Admin Settings",
+    "ja" : "管理者の設定",
+    "vi" : "Cài đặt người quản lý",
+    "zh" : "设定管理者"
+  },
+  "일정이 수정되었습니다." : {
+    "en" : "Schedule has been modified.",
+    "ja" : "スケジュールが編集されました。",
+    "vi" : "Lịch trình đã được chỉnh sửa.",
+    "zh" : "日程已修改。"
+  },
+  "공유 캘린더가 취소되었습니다." : {
+    "en" : "Shared calendar has been canceled.",
+    "ja" : "共有カレンダーがキャンセルされました。",
+    "vi" : "Lịch chia sẻ đã bị hủy.",
+    "zh" : "已取消共享日历。"
+  },
+  "여부" : {
+    "en" : "Yes/No",
+    "ja" : "可否",
+    "vi" : "Có hay không",
+    "zh" : "是否"
+  },
+  "반복 빈도" : {
+    "en" : "Repeat frequency",
+    "ja" : "繰返し頻度",
+    "vi" : "Tần suất lặp lại",
+    "zh" : "反复频度"
+  },
+  "사용자 선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "選擇用戶"
+  },
+  "반복 방법 선택" : {
+    "en" : "Select Repeat Method",
+    "ja" : "繰返し方法の選択",
+    "vi" : "Chọn tùy chọn lặp lại",
+    "zh" : "选择反复方法"
+  },
+  "발송" : {
+    "en" : "Send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "내 일정을 공유하겠습니다." : {
+    "en" : "Share My Calendar (Schedule)",
+    "ja" : "私のスケジュールを共有します。",
+    "vi" : "Sẽ chia sẻ lịch trình của tôi",
+    "zh" : "我要共有我的日程。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "정상 캘린더" : {
+    "en" : "Normal Calendar",
+    "ja" : "通常のカレンダー",
+    "vi" : "Lịch bình thường",
+    "zh" : "正常日历"
+  },
+  "오늘 중 마감" : {
+    "en" : "Deadline by today",
+    "ja" : "今日中に締め切り",
+    "vi" : "Hết hạn trong hôm nay",
+    "zh" : "今天内截止"
+  },
+  "공개일정" : {
+    "en" : "Open events",
+    "ja" : "公開スケジュール",
+    "vi" : "Mở sự kiện",
+    "zh" : "公开日程"
+  },
+  "공유받은 일정이 변경되었습니다." : {
+    "en" : "A change has occurred to a shared schedule.",
+    "ja" : "共有されたスケジュールが変更されました。",
+    "vi" : "Lịch trình được chia sẻ đã được thay đổi.",
+    "zh" : "收到共有的日程变更了"
+  },
+  "비공개 일정" : {
+    "en" : "Private Schedule",
+    "ja" : "非公開スケジュール",
+    "vi" : "Sự kiện không công khai",
+    "zh" : "非公开日程"
+  },
+  "삭제하였습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đã xóa.",
+    "zh" : "删除完了。"
+  },
+  "카테고리" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "类目"
+  },
+  "기념일 설정" : {
+    "en" : "Anniversary Settings",
+    "ja" : "記念日設定",
+    "vi" : "Cài đặt ngày kỷ niệm",
+    "zh" : "设定纪念日"
+  },
+  "한건 이상의 일정(들)을 체크한 후 여러명과 한번에 공유할 수 있습니다." : {
+    "en" : "You can check one or more schedules (events) at once and share them with multiple people at once.",
+    "ja" : "１件以上のスケジュールをチェックした後、複数人と一度に共有できます。",
+    "vi" : "Sau khi chọn hơn 1 sự kiện, có thể chia sẻ với nhiều người cùng một lúc.",
+    "zh" : "打勾一件以上的日程后可以跟多人一次共享日程。"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "이 입력란을 작성하세요." : {
+    "en" : "Please fill in this box.",
+    "ja" : "この入力欄を作成してください。",
+    "vi" : "Vui lòng điền vào ô này.",
+    "zh" : "请填写该输入栏。"
+  },
+  "발송되었습니다." : {
+    "en" : "It has been sent.",
+    "ja" : "送信されました。",
+    "vi" : "Đã được gửi.",
+    "zh" : "发送了。"
+  },
+  "공유받은 캘린더" : {
+    "en" : "Shared Calendar",
+    "ja" : "共有したカレンダー",
+    "vi" : "Lịch đã chia sẻ",
+    "zh" : "接受共有的日历"
+  },
+  "공유받은" : {
+    "en" : "Shared",
+    "ja" : "共有した",
+    "vi" : "Được chia sẻ",
+    "zh" : "收到共有"
+  },
+  "종일 일정 {0}건" : {
+    "en" : "All-day schedule {0} items",
+    "ja" : "終日スケジュール{0}件",
+    "vi" : "Lịch trình trong ngày {0}",
+    "zh" : "一整天的日程{0}件"
+  },
+  "조직도 팝업1" : {
+    "en" : "Organizational Chart Pop-up 1",
+    "ja" : "組織図ポップアップ1",
+    "vi" : "Popup 1 sơ đồ tổ chức",
+    "zh" : "组织图弹出窗口1"
+  },
+  "안함" : {
+    "en" : "Don't Do",
+    "ja" : "しない",
+    "vi" : "Không làm",
+    "zh" : "不做"
+  },
+  "공유받은 일정" : {
+    "en" : "Shared events",
+    "ja" : "共有したスケジュール",
+    "vi" : "Sự kiện được chia sẻ",
+    "zh" : "接收共有日程"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Được thêm bởi",
+    "zh" : "登录人"
+  },
+  "파일첨부" : {
+    "en" : "Attach files",
+    "ja" : "ファイル添付",
+    "vi" : "Đính kèm file",
+    "zh" : "附加文档"
+  },
+  "할일 조회" : {
+    "en" : "To-Do List Inquiry",
+    "ja" : "タスクの照会",
+    "vi" : "Tra cứu danh sách công việc",
+    "zh" : "查询待办事项"
+  },
+  "첨부파일명은 한글은 30자, 영문은 100자까지 입력가능합니다." : {
+    "en" : "Attachment name must be less than 30 Korean characters or 100 English letters.",
+    "ja" : "添付ファイル名はハングルは20文字、英語は100文字まで入力可能です。",
+    "vi" : "Phải nhập tên file đính kèm dưới 30 chữ tiếng Hàn, 100 chữ tiếng Anh.",
+    "zh" : "附件名可以输入到韩文30字，英文100字。"
+  },
+  "공유수락 대기자를 선택하여주세요" : {
+    "en" : "Please select users who are waiting for acceptance of sharing.",
+    "ja" : "共有承諾の待機者を選択してください。",
+    "vi" : "Vui lòng chọn đối tượng đang chờ đợi sự chấp thuận để chia sẻ.",
+    "zh" : "请选择等待接受共有人。"
+  },
+  "작게보기" : {
+    "en" : "Zoom Out",
+    "ja" : "小さく表示",
+    "vi" : "Thu nhỏ",
+    "zh" : "发小表示"
+  },
+  "말머리 50개까지 등록,한글 기준 50자이내,특수문자는 _-./만 허용" : {
+    "en" : "You can add up to 50 headings. Headings must be within 50 characters (Korean). Only the following special characters can be used (_ - . /).",
+    "ja" : "表題50個まで登録、ハングル基準50文字以内、特殊文字は _-./のみ可能",
+    "vi" : "Bạn chỉ cỏ thể đăng ký 50 lời nói đầu, và chỉ được nhập dưới 50 ký tự tiếng Hàn, ký tự đặc biệt _-./",
+    "zh" : "话头输入到50个，韩文为准50字以内，特殊文字只允许 _-./"
+  },
+  "관심 해제" : {
+    "en" : "Remove from Favorites",
+    "ja" : "お気に入りを解除",
+    "vi" : "Hủy chọn quan tâm",
+    "zh" : "解除关心"
+  },
+  "반복종료일이 기간시작일보다 작습니다.\\n반복을 재설정 하시겠습니까?" : {
+    "en" : "Repeat end date before period start date.\\nWould you like to reset repeat?",
+    "ja" : "繰返し終了日が期間の開始日より前の日付になっています。\\n繰返しを再設定しますか？",
+    "vi" : "Ngày kết thúc trước ngày bắt đầu của giai đoạn lặp lại. Thiết lập lại yêu cầu lặp?",
+    "zh" : "反复结束日小于期间开始日。\\n要再设定反复吗？"
+  },
+  "모두펼침" : {
+    "en" : "Unfold all",
+    "ja" : "全て表示",
+    "vi" : "Mở tất cả",
+    "zh" : "全部打开"
+  },
+  "인쇄" : {
+    "en" : "print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "조직도 선택" : {
+    "en" : "Select Organizational Chart",
+    "ja" : "組織図選択",
+    "vi" : "chọn sơ đồ tổ chức",
+    "zh" : "选择组织图"
+  },
+  "수락대기" : {
+    "en" : "Waiting (Accept)",
+    "ja" : "受諾待機",
+    "vi" : "Chờ chấp nhận",
+    "zh" : "等待接受"
+  },
+  "회의일정등록시 기본으로 설정되는 승인자입니다." : {
+    "en" : "It is the approver who is set as default when adding a meeting schedule.",
+    "ja" : "会議スケジュールの登録時、基本的に設定される承認者です。",
+    "vi" : "Đây là người phê duyệt được cài đặt mặc định khi đăng ký lịch họp.",
+    "zh" : "登录会议日程时基本设定的承认者"
+  },
+  "자원" : {
+    "en" : "Resource",
+    "ja" : "資源",
+    "vi" : "Tài nguyên",
+    "zh" : "资源"
+  },
+  "알림 형태" : {
+    "en" : "Notification type",
+    "ja" : "通知タイプ",
+    "vi" : "Hình thức thông báo",
+    "zh" : "提醒形态"
+  },
+  "등록된 데이터가 없습니다." : {
+    "en" : "No registered data.",
+    "ja" : "登録されたデータがありません。",
+    "vi" : "Không có dữ liệu để hiển thị.",
+    "zh" : "没有登录的数据。"
+  },
+  "캘린더에서 할일은 날짜 단위로만 변경 가능합니다." : {
+    "en" : "To-dos in the calendar can only be changed on a daily basis.",
+    "ja" : "カレンダーでは、タスクは日付単位でのみ変更できます。",
+    "vi" : "Việc phải làm trong lịch chỉ có thể thay đổi theo đơn vị ngày.",
+    "zh" : "在日历中，待办事项只能逐日更改。"
+  },
+  "다음 일정이 <em>{0}</em> 부터 있습니다." : {
+    "en" : "Next schedule is from <em>{0}</em>.",
+    "ja" : "次のスケジュールが <em>{0}</em> からあります。",
+    "vi" : "Có lịch trình kế tiếp từ <em>{0}</em>.",
+    "zh" : "下一日程从 <em>{0}</em> 开始。"
+  },
+  "허용된 문자열의 최대값을 초과했습니다. \\n초과된 내용은 자동으로 삭제 됩니다." : {
+    "en" : "Exceeded the maximum character limit. \\nThe excess will be erased automatically.",
+    "ja" : "許可された文字列の最大値を超過しました。\\n超過内容は自動的に削除されます。",
+    "vi" : "Đã vượt quá giới hạn số ký tự tối đa cho phép. Phần nội dung vượt quá giới hạn sẽ bị tự động xóa bỏ.",
+    "zh" : "超过了允许的文字列最多值。\\n超过的内容会自动被删除。"
+  },
+  "계속" : {
+    "en" : "Continue",
+    "ja" : "継続",
+    "vi" : "Tiếp tục",
+    "zh" : "继续"
+  },
+  "할일 접기" : {
+    "en" : "Fold 'Tasks to do'",
+    "ja" : "タスクを閉じる",
+    "vi" : "Đóng việc tác vụ",
+    "zh" : "折叠得做的事"
+  },
+  "내일" : {
+    "en" : "Tomorrow",
+    "ja" : "明日",
+    "vi" : "Ngày mai",
+    "zh" : "明天"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "미리 알림 수신" : {
+    "en" : "Receive reminders",
+    "ja" : "事前通知の受信",
+    "vi" : "Nhận thông báo trước",
+    "zh" : "收信提前提醒"
+  },
+  "첨부초기화" : {
+    "en" : "Reset attachments",
+    "ja" : "添付初期化",
+    "vi" : "Thiết lập lại đính kèm",
+    "zh" : "附加初始化"
+  },
+  "삭제 캘린더" : {
+    "en" : "Deleted Calendar",
+    "ja" : "削除されたカレンダー",
+    "vi" : "Các lịch đã xóa",
+    "zh" : "已删除的日历"
+  },
+  "스페이스/프로젝트 구성원에게 일정 등록 알림을 발송합니다." : {
+    "en" : "Send calendar registration notifications to space/ project members.",
+    "ja" : "スペース/プロジェクトメンバにスケジュールの登録通知を発送します。",
+    "vi" : "Gửi thông báo đăng ký lịch trình tới các thành viên dự án.",
+    "zh" : "向空间/项目成员发送日程添加通知。"
+  },
+  "{0}님께서 캘린더를 공유하였습니다." : {
+    "en" : "Mr./Ms. {0} has shared their calendar.",
+    "ja" : "{0}さんがカレンダーを共有しました。",
+    "vi" : "Anh/chị {0} đã chia sẻ lịch trình.",
+    "zh" : "{0}共有了日历"
+  },
+  "태스크보드 할일은 내용 검색을 제공하지 않습니다." : {
+    "en" : "Task board to-do does not provide content search.",
+    "ja" : "タスクボードのタスクは内容検索を提供しません。",
+    "vi" : "Bảng công việc cần làm không cung cấp chức năng tìm kiếm nội dung.",
+    "zh" : "任务板的待办事项不提供内容搜索。"
+  },
+  "반복 종료일" : {
+    "en" : "Repeat Finish Date",
+    "ja" : "繰返し終了日",
+    "vi" : "Ngày kết thúc lặp lại",
+    "zh" : "反复结束日"
+  },
+  "예약 등록" : {
+    "en" : "Schedule Registration",
+    "ja" : "予約登録",
+    "vi" : "Đăng ký đặt hẹn",
+    "zh" : "预订登录"
+  },
+  "모바일 일정관리 초기화면" : {
+    "en" : "Home screen (Mobile Schedule Management)",
+    "ja" : "モバイル日程管理の初期画面",
+    "vi" : "Màn hình khởi động chế độ xem kế hoạch làm việc di động",
+    "zh" : "手机日程管理初期画面"
+  },
+  "일정 내용을 입력하세요" : {
+    "en" : "Enter description.",
+    "ja" : "スケジュール内容を入力してください。",
+    "vi" : "Hãy nhập mô tả sự kiện",
+    "zh" : "请输入日程内程内容"
+  },
+  "폴더명을 입력하세요" : {
+    "en" : "Enter a folder name..",
+    "ja" : "フォルダ名を入力してください",
+    "vi" : "Hãy nhập tên thư mục",
+    "zh" : "请输入文件夹名。"
+  },
+  "캘린더명을 입력하세요" : {
+    "en" : "Enter the calendar name",
+    "ja" : "カレンダー名を入力してください",
+    "vi" : "Hãy nhập tên lịch",
+    "zh" : "请输入日历名。"
+  },
+  "캘린더명" : {
+    "en" : "Calendar Name",
+    "ja" : "カレンダー名",
+    "vi" : "Tên Lịch",
+    "zh" : "日历名称"
+  },
+  "수요일" : {
+    "en" : "Wednesday",
+    "ja" : "水曜日",
+    "vi" : "Thứ tư",
+    "zh" : "周三"
+  },
+  "요약" : {
+    "en" : "Summary",
+    "ja" : "予約",
+    "vi" : "Tóm tắt",
+    "zh" : "摘要"
+  },
+  "반복 간격을 입력하세요." : {
+    "en" : "Please select a repeat interval.",
+    "ja" : "繰返し間隔を入力してください。",
+    "vi" : "Hãy chọn khoảng cách lặp lại.",
+    "zh" : "请输入反复间隔。"
+  },
+  "기간 변경 시 반복 설정이 초기화 됩니다." : {
+    "en" : "If you change the period, the repetition settings will be reset.",
+    "ja" : "期間変更時、繰返し設定が初期化されます。",
+    "vi" : "Nếu bạn thay đổi thời hạn này, các thiết lập lặp lại sẽ được đặt lại.",
+    "zh" : "变更期间时反复设定会初始化。"
+  },
+  "예약사용시 반복종료일은 최대 3개월({0})입니다.\\n반복을 재설정 하시겠습니까?" : {
+    "en" : "In the case of scheduled use, the maximum repetition end date is 3 months ({0}).\\nChoose to reset repeat?",
+    "ja" : "予約使用時の繰返し終了日は最大3ヵ月（{0}）です。\\n繰返しを再設定しますか？",
+    "vi" : "Trong trường hợp sử dụng giữ chỗ, thời gian (ngày) kết thức lặp lại tối đa là 3 tháng Chọn đặt lại lặp lại?",
+    "zh" : "使用预约时反复结束日最多3个月({0})。\\n要再设定反复吗？"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "일정 공유를 삭제 했습니다" : {
+    "en" : "Calendar sharing has been cancelled.",
+    "ja" : "スケジュールの共有を削除しました",
+    "vi" : "Đã hủy chia sẻ lịch trình.",
+    "zh" : "共有日程删除完了。"
+  },
+  "정시" : {
+    "en" : "On time",
+    "ja" : "定時",
+    "vi" : "Đúng giờ",
+    "zh" : "正点"
+  },
+  "되풀이 항목 편집" : {
+    "en" : "Edit repeating items",
+    "ja" : "繰返し項目の編集",
+    "vi" : "Chỉnh sửa các mục lặp lại",
+    "zh" : "编辑反复项目"
+  },
+  "환경" : {
+    "en" : "Environment",
+    "ja" : "環境",
+    "vi" : "Môi trường",
+    "zh" : "环境"
+  },
+  "선택한 캘린더에 내 부재가 일정으로 등록됩니다." : {
+    "en" : "Your absence will be registered as a schedule in the selected calendar.",
+    "ja" : "選択したカレンダーにあなたの欠席がスケジュールとして登録されます。",
+    "vi" : "Thông tin vắng mặt của bạn sẽ được đăng ký dưới dạng lịch trình trong lịch đã chọn.",
+    "zh" : "已将我的缺席信息注册到所选日历中。"
+  },
+  "일정대리자로 지정되었습니다." : {
+    "en" : "Designated as a delegate for the schedule.",
+    "ja" : "日程代理者として指定されました。",
+    "vi" : "Đã được chỉ định làm đại diện cho lịch trình.",
+    "zh" : "已指定日程代理。"
+  },
+  "공유 캘린더가 삭제되었습니다." : {
+    "en" : "Shared calendar has been deleted.",
+    "ja" : "共有カレンダーが削除されました。",
+    "vi" : "Lịch chia sẻ đã bị xóa.",
+    "zh" : "共享的日历已删除。"
+  },
+  "다음 10개 가져오기" : {
+    "en" : "Load Next 10",
+    "ja" : "次の10個をインポート",
+    "vi" : "Nhập 50 mục kế tiếp",
+    "zh" : "拿来下50个"
+  },
+  "다음 달" : {
+    "en" : "Next month",
+    "ja" : "次の月",
+    "vi" : "Tháng sau",
+    "zh" : "下個月"
+  },
+  "권한없음" : {
+    "en" : "No permissions",
+    "ja" : "権限なし",
+    "vi" : "Không có quyền hạn",
+    "zh" : "没有权限"
+  },
+  "거절" : {
+    "en" : "Decline",
+    "ja" : "拒否",
+    "vi" : "Từ chối",
+    "zh" : "拒绝"
+  },
+  "미리 알림" : {
+    "en" : "Reminder",
+    "ja" : "事前通知",
+    "vi" : "Thông báo trước",
+    "zh" : "提前提醒"
+  },
+  "양" : {
+    "en" : "Solar",
+    "ja" : "陽",
+    "vi" : "Dương lịch",
+    "zh" : "阳历"
+  },
+  "리스트" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "列表"
+  },
+  "종일 일정이 <em>{0}</em>건, 다음 일정이 <em>{1}</em> 부터 있습니다." : {
+    "en" : "There are <em>{0}</em> of the all day schedule, next schedule is from <em>{1}</em>.",
+    "ja" : "終日スケジュールが <em>{0}</em>件、次のスケジュールが <em>{1}</em> からあります。",
+    "vi" : "Có <em>{0}</em> lịch trình trong ngày, có lịch trình kế tiếp từ <em>{1}</em>.",
+    "zh" : "一日日程共 <em>{0}</em>项，下一日程从 <em>{1}</em> 开始。"
+  },
+  "삭제된 일정입니다." : {
+    "en" : "It is a deleted schedule.",
+    "ja" : "削除されたスケジュールです。",
+    "vi" : "Đây là lịch trình đã xóa.",
+    "zh" : "隐藏删除日历"
+  },
+  "위임자" : {
+    "en" : "Delegate",
+    "ja" : "委任者",
+    "vi" : "Người ủy quyền",
+    "zh" : "委托人"
+  },
+  "화면모드" : {
+    "en" : "Screen mode",
+    "ja" : "画面モード",
+    "vi" : "Chế độ màn hình",
+    "zh" : "界面模式"
+  },
+  "시간 전" : {
+    "en" : "Hours ago",
+    "ja" : "時間前",
+    "vi" : "( ) giờ trước",
+    "zh" : "小时前"
+  },
+  "스크랩하기" : {
+    "en" : "Scrap",
+    "ja" : "スクラップする",
+    "vi" : "bỏ",
+    "zh" : "剪贴"
+  },
+  "상세 등록" : {
+    "en" : "Add details",
+    "ja" : "詳細登録",
+    "vi" : "Thêm thông tin chi tiết",
+    "zh" : "详细登录"
+  },
+  "등록" : {
+    "en" : "Add",
+    "ja" : "登録",
+    "vi" : "Thêm",
+    "zh" : "登录"
+  },
+  "조직도" : {
+    "en" : "Organizational chart",
+    "ja" : "組織図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "일마다" : {
+    "en" : "Every {0} days",
+    "ja" : "日ごとに",
+    "vi" : "Mỗi ngày",
+    "zh" : "每  天"
+  },
+  "구글드라이브 등록" : {
+    "en" : "Add to Google Drive",
+    "ja" : "Googleドライブ登録",
+    "vi" : "Thêm Google Drive",
+    "zh" : "登录Google云端硬盘"
+  },
+  "구글계정" : {
+    "en" : "Google account",
+    "ja" : "Googleアカウント",
+    "vi" : "Tài khoản Google",
+    "zh" : "谷歌帐号"
+  },
+  "토" : {
+    "en" : "Sat",
+    "ja" : "土",
+    "vi" : "Thứ bảy",
+    "zh" : "周六"
+  },
+  "등록일순" : {
+    "en" : "by registration date",
+    "ja" : "登録日順",
+    "vi" : "theo ngày",
+    "zh" : "登录日顺"
+  },
+  "수락하였습니다." : {
+    "en" : "You have accepted.",
+    "ja" : "受諾しました。",
+    "vi" : "Đã chấp nhận.",
+    "zh" : "接收了"
+  },
+  "번 이후" : {
+    "en" : "After (         ) times",
+    "ja" : "回以降",
+    "vi" : "Sau ( ) lần",
+    "zh" : "次以后"
+  },
+  "종료날짜 없음" : {
+    "en" : "No end date",
+    "ja" : "終了日なし",
+    "vi" : "Không có ngày kết thúc",
+    "zh" : "没有结束日子"
+  },
+  "사용자 일정확인" : {
+    "en" : "Check User Schedule",
+    "ja" : "ユーザースケジュールを確認",
+    "vi" : "Xác nhận lịch người dùng",
+    "zh" : "确认使用者日程"
+  },
+  "스페이스를 선택하세요." : {
+    "en" : "Select a Space",
+    "ja" : "スペースを選択してください。",
+    "vi" : "Chọn Space",
+    "zh" : "请选择空间。"
+  },
+  "일정대리인 선택" : {
+    "en" : "Select schedule agent",
+    "ja" : "日程代理人を選択",
+    "vi" : "Hãy chọn người đại diện lịch trình",
+    "zh" : "选择日程代替人"
+  },
+  "{0}님으로부터  공유받은 일정이 변경되었습니다." : {
+    "en" : "A change has occurred to the schedule shared by Mr./Ms. {0}.",
+    "ja" : "{0}さんから共有されたスケジュールが変更されました。",
+    "vi" : "Thay đổi chia sẻ lịch trình từ anh/chị {0}",
+    "zh" : "对{0}收到共有的日程变更了"
+  },
+  "시작 날짜" : {
+    "en" : "Start date",
+    "ja" : "開始日付",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日子"
+  },
+  "근태관리의 내 부재 정보를 선택한 캘린더에 일정으로 등록합니다." : {
+    "en" : "Register the absence information from attendance management as a schedule in the selected calendar.",
+    "ja" : "勤怠管理の欠席情報を選択したカレンダーにスケジュールとして登録します。",
+    "vi" : "Đăng ký thông tin vắng mặt từ quản lý chấm công dưới dạng lịch trình trong lịch đã chọn.",
+    "zh" : "在出勤管理的日历中,将我的缺席信息注册为日程安排。"
+  },
+  "위로" : {
+    "en" : "Up",
+    "ja" : "上へ",
+    "vi" : "Trên",
+    "zh" : "往上边"
+  },
+  "캘린더 위치" : {
+    "en" : "Calendar location",
+    "ja" : "カレンダーの位置",
+    "vi" : "Vị trí lịch",
+    "zh" : "日历位置"
+  },
+  "첨부제한에는 파일첨부를 제한할 파일의 확장자를 입력합니다. 여러 개일 경우 세미콜론(;)으로 구분하세요." : {
+    "en" : "In 'Restrict Attachments', enter the type of files (extensions) that you wish to not allow to be added as an attachment. If there are multiple types of files that you wish to restrict, separate them with a semicolon (;).",
+    "ja" : "添付制限にはファイル添付を制限するファイルの拡張子を入力します。複数の場合、セミコロン(;)で区分してください。",
+    "vi" : "Thêm phần mở rộng của file bạn muốn hạn chế đính kèm trong trường Hạn chế đính kèm. Nếu có nhiều phần mở rộng, hãy phân tách chúng bằng dấu chấm phẩy (;).",
+    "zh" : "在制限附加上输入制限附加文件的文件扩展名。多数的话请用 semicolon(;)来区分。"
+  },
+  "이름 입력" : {
+    "en" : "Enter a name",
+    "ja" : "名前の入力",
+    "vi" : "Nhập tên",
+    "zh" : "输入名字"
+  },
+  "부서상태" : {
+    "en" : "Department Status",
+    "ja" : "部署状態",
+    "vi" : "Trạng thái bộ phận",
+    "zh" : "部门状态"
+  },
+  "새 폴더명 입력" : {
+    "en" : "Enter new folder name",
+    "ja" : "新しいフォルダ名を入力",
+    "vi" : "Nhập tên thư mục mới",
+    "zh" : "请输入新的文件夹名"
+  },
+  "일정을 선택하세요." : {
+    "en" : "Select a calendar",
+    "ja" : "スケジュールを選択してください。",
+    "vi" : "Hãy chọn lịch trình",
+    "zh" : "请选择日程"
+  },
+  "{0}님께서 {1}님의 일정대리인으로 지정되셨습니다." : {
+    "en" : "{0} has been appointed as {1}'s schedule agent.",
+    "ja" : "{0}さんから{1}さんのスケジュール代理人に指定されました。",
+    "vi" : "{0} đã được bổ nhiệm làm người phụ trách lịch trình của {1}.",
+    "zh" : "{0}先生，女士指定为{0}先生，女士的一定代替人了。"
+  },
+  "일정대리인 설정" : {
+    "en" : "Schedule Agent' Settings",
+    "ja" : "日程代理人設定",
+    "vi" : "Cài đặt lịch trình Người đại diện",
+    "zh" : "设定日程代替人"
+  },
+  "등록일" : {
+    "en" : "Date added",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "에" : {
+    "en" : "at",
+    "ja" : "に",
+    "vi" : "tại",
+    "zh" : "上"
+  },
+  "공개" : {
+    "en" : "Open to the public",
+    "ja" : "公開",
+    "vi" : "Công khai",
+    "zh" : "公开"
+  },
+  "제목,내용,첨부파일" : {
+    "en" : "Title, Content, Attachment",
+    "ja" : "件名、内容、添付ファイル",
+    "vi" : "Tiêu đề, nội dung, file đính kèm",
+    "zh" : "题目，内容，附件"
+  },
+  "비공개" : {
+    "en" : "Private",
+    "ja" : "非公開",
+    "vi" : "Không công khai",
+    "zh" : "非公开"
+  },
+  "저장된 할일과 함께 삭제" : {
+    "en" : "Delete together with saved events",
+    "ja" : "保存されたタスクと一緒に削除",
+    "vi" : "Xóa cùng với sự kiện đã được lưu",
+    "zh" : "跟保存的事一起删除"
+  },
+  "금요일" : {
+    "en" : "Friday",
+    "ja" : "金曜日",
+    "vi" : "Thứ sáu",
+    "zh" : "周五"
+  },
+  "등록된 일정이 없습니다." : {
+    "en" : "No schedules registered.",
+    "ja" : "登録された日程がありません。",
+    "vi" : "Không có lịch trình nào được ghi nhận",
+    "zh" : "未有上传的日程。"
+  },
+  "캘린더 보기" : {
+    "en" : "View calendar",
+    "ja" : "カレンダー表示",
+    "vi" : "Xem lịch",
+    "zh" : "看日历"
+  },
+  "자원예약취소" : {
+    "en" : "Cancel Resource Booking",
+    "ja" : "資源予約キャンセル",
+    "vi" : "Hủy đặt tài nguyên",
+    "zh" : "取消预订资源"
+  },
+  "캘린더 선택" : {
+    "en" : "Select calendar",
+    "ja" : "カレンダー選択",
+    "vi" : "Chọn lịch",
+    "zh" : "选择日历"
+  },
+  "사용자 지정 패턴" : {
+    "en" : "User custom pattern",
+    "ja" : "ユーザー指定のパターン",
+    "vi" : "Mẫu người dùng tùy chọn",
+    "zh" : "使用者指定模式。"
+  },
+  "선택한 사용자의 부재가 부재 캘린더에 표시됩니다." : {
+    "en" : "Selected User's Absence Will Be Shown in the Absence Calendar",
+    "ja" : "選択されたユーザーの不在は、不在カレンダーに表示されます。",
+    "vi" : "Trạng thái vắng mặt của người dùng đã chọn sẽ được hiển thị trong lịch vắng mặt.",
+    "zh" : "选择的用户的缺席会显示在缺席日历中。"
+  },
+  "일정 카운트" : {
+    "en" : "Schedule Count",
+    "ja" : "スケジュールカウント",
+    "vi" : "Số sự kiện",
+    "zh" : "日程计数"
+  },
+  "일정 공유를 수락 했습니다." : {
+    "en" : "Calendar sharing has been accepted.",
+    "ja" : "スケジュールの共有を受諾しました。",
+    "vi" : "Đã cho phép chia sẻ lịch trình.",
+    "zh" : "共有日程接受完了。"
+  },
+  "반복종료일이 기간시작일보다 작습니다." : {
+    "en" : "Repeat end date is earlier than the period start date.",
+    "ja" : "繰返し終了日が期間の開始日より前の日付になっています。",
+    "vi" : "Ngày kết thúc trước ngày bắt đầu của giai đoạn lặp lại",
+    "zh" : "反复结束日小于期间开始日。"
+  },
+  "반복종료일은 시작일 기준 최대 3개월까지 입니다." : {
+    "en" : "Repeat end date can be up to 3 months from the start date.",
+    "ja" : "繰返し終了日は開始日基準、最大3ヶ月までです。",
+    "vi" : "Ngày kết thúc lặp lại tối đa là 3 tháng kể từ ngày  bắt đầu.",
+    "zh" : "反复结束日按照开始日为准最多3个月。"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã được xóa.",
+    "zh" : "它已被删除。"
+  },
+  "용량이 초과하였습니다. 관리자에게 문의하세요." : {
+    "en" : "Exceeded size limit. Please contact the administrator.",
+    "ja" : "容量を超過しました。管理者にお問い合わせください。",
+    "vi" : "Kích thước này đã vượt quá múc giới hạn. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "超过用量了。请向管理者咨询。"
+  },
+  "반복안함" : {
+    "en" : "Do not repeat",
+    "ja" : "繰返しなし",
+    "vi" : "Không lặp lại",
+    "zh" : "不要重复"
+  },
+  "매" : {
+    "en" : "Every",
+    "ja" : "毎",
+    "vi" : "Mỗi",
+    "zh" : "每"
+  },
+  "{0}님께서 일정을 수락하였습니다." : {
+    "en" : "{0} has accepted the schedule.",
+    "ja" : "{0}さんがスケジュールを受諾しました。",
+    "vi" : "{0} đã chấp nhận lịch trình.",
+    "zh" : "{0}接受日程了。"
+  },
+  "반복일" : {
+    "en" : "Repeat day",
+    "ja" : "繰返し日",
+    "vi" : "Ngày lặp lại",
+    "zh" : "反复日"
+  },
+  "공유되었습니다." : {
+    "en" : "It has been successfully shared.",
+    "ja" : "共有されました。",
+    "vi" : "Đã được chia sẻ.",
+    "zh" : "共有了。"
+  },
+  "알림" : {
+    "en" : "Notification",
+    "ja" : "開始日",
+    "vi" : "Thông báo",
+    "zh" : "开始日"
+  },
+  "첨부용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付容量",
+    "vi" : "Kích thước file đính kèm",
+    "zh" : "附加用量"
+  },
+  "일정이 등록 되었습니다." : {
+    "en" : "A new event was added.",
+    "ja" : "スケジュールが登録されました。",
+    "vi" : "Sự kiện đã được thêm.",
+    "zh" : "日程登录完了。"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다." : {
+    "en" : "All progress will be lost.",
+    "ja" : "現在作成中の内容がすべて削除されます。",
+    "vi" : "Nội dung đang viết hiện tại sẽ bị xóa.",
+    "zh" : "现在写中的内容会全部被删除。"
+  },
+  "제목 : [일정관리]" : {
+    "en" : "Title : [Manage Schedule]",
+    "ja" : "件名 : [スケジュール管理]",
+    "vi" : "Tiêu đề: [Quản lý lịch trình]",
+    "zh" : "题目：[管理日程]"
+  },
+  "첨부파일 허용 개수" : {
+    "en" : "Number of attachments allowed",
+    "ja" : "添付ファイル許容個数",
+    "vi" : "Số file đính kèm được cho phép",
+    "zh" : "附件允许个数"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Giải thích",
+    "zh" : "说明"
+  },
+  "관심" : {
+    "en" : "Favorites",
+    "ja" : "お気に入り",
+    "vi" : "Yêu thich",
+    "zh" : "关心"
+  },
+  "- 선택 -" : {
+    "en" : "- Select -",
+    "ja" : "選択 -",
+    "vi" : "- Chọn -",
+    "zh" : "选择 -"
+  },
+  "폴더" : {
+    "en" : "folder",
+    "ja" : "フォルダ",
+    "vi" : "Thư mục",
+    "zh" : "文件夹"
+  },
+  "할일이 수정 되었습니다." : {
+    "en" : "The 'Task to do' has been modified.",
+    "ja" : "タスクが修正されました。",
+    "vi" : "Công việc đã được sửa",
+    "zh" : "要做的工作修改完了。"
+  },
+  "공유 캘린더가 수락되었습니다." : {
+    "en" : "Shared calendar has been accepted.",
+    "ja" : "共有カレンダーが受諾されました。",
+    "vi" : "Lịch chia sẻ đã được chấp nhận.",
+    "zh" : "共享日历已接受。"
+  },
+  "관심 사용자 일정" : {
+    "en" : "Schedules of 'Favorite' User",
+    "ja" : "お気に入りユーザーのスケジュール",
+    "vi" : "Lịch quan tâm",
+    "zh" : "关心使用者日程"
+  },
+  "회사 캘린더" : {
+    "en" : "Company Calendar",
+    "ja" : "会社カレンダー",
+    "vi" : "Công ty Lịch",
+    "zh" : "公司日历"
+  },
+  "공유일정이 거절되었습니다." : {
+    "en" : "Shared schedule has been declined.",
+    "ja" : "共有スケジュールが拒否されました。",
+    "vi" : "Lịch trình chia sẻ đã bị từ chối.",
+    "zh" : "共享日程已拒绝。"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "수정권한 없음" : {
+    "en" : "No editing permission",
+    "ja" : "修正権限なし",
+    "vi" : "Không có quyền chỉnh sửa",
+    "zh" : "没有修改权限"
+  },
+  "파일함 등록" : {
+    "en" : "Register Filebox",
+    "ja" : "ファイルBox登録",
+    "vi" : "Đăng ký hộp file",
+    "zh" : "登录文档箱"
+  },
+  "공유거절" : {
+    "en" : "Decline sharing",
+    "ja" : "共有拒否",
+    "vi" : "Từ chối chia sẻ",
+    "zh" : "拒绝共有"
+  },
+  "사이드 메뉴 접기" : {
+    "en" : "Fold Side Menu",
+    "ja" : "サイドメニューを閉じる",
+    "vi" : "Đóng side menu",
+    "zh" : "折叠周围菜单"
+  },
+  "등록된 기념일이 없습니다." : {
+    "en" : "No registered anniversary",
+    "ja" : "登録された記念日がありません。",
+    "vi" : "Không có ngày kỷ niệm được đăng ký.",
+    "zh" : "没有已登记的纪念日。"
+  },
+  "할일" : {
+    "en" : "Tasks to do",
+    "ja" : "タスク",
+    "vi" : "Tác vụ",
+    "zh" : "该做的事"
+  },
+  "대기 상태인 사용자에게 발송됩니다. 거절, 삭제 상태인 경우 [재공유] 하시기 바랍니다." : {
+    "en" : "It will be sent to a user on standby. Please [Reshare] if the status is Rejected/Deleted.",
+    "ja" : "待機状態のユーザーに送信します。拒否および削除状態の場合は、「再共有」をしてください。",
+    "vi" : "Gửi đến người dùng ở trạng thái chờ. Vui lòng [Chia sẻ lại] trong trường hợp ở trạng thái từ chối, xóa.",
+    "zh" : "将发送给等候状态的使用者。若为拒绝、删除状态，请进行【重新共享】。"
+  },
+  "금" : {
+    "en" : "Fri",
+    "ja" : "金",
+    "vi" : "Thứ 6",
+    "zh" : "周五"
+  },
+  "게시판 등록" : {
+    "en" : "Add a bulletin board",
+    "ja" : "掲示板登録",
+    "vi" : "Đăng ký bảng tin",
+    "zh" : "登录布告栏"
+  },
+  "기념일이 있습니다." : {
+    "en" : "There is a commemorative day.",
+    "ja" : "記念日があります。",
+    "vi" : "Có một ngày kỷ niệm.",
+    "zh" : "今天有纪念日。"
+  },
+  "비공개일정" : {
+    "en" : "Private Schedule",
+    "ja" : "非公開スケジュール",
+    "vi" : "Sự kiện riêng tư",
+    "zh" : "非公开日程"
+  },
+  "마다" : {
+    "en" : "Every",
+    "ja" : "ごとに",
+    "vi" : "Mỗi",
+    "zh" : "每"
+  },
+  "업무보고 등록" : {
+    "en" : "Register Task Report",
+    "ja" : "業務報告の登録",
+    "vi" : "Thêm báo cáo hoạt động",
+    "zh" : "登录业务报告"
+  },
+  "공유할 사용자를 선택하세요." : {
+    "en" : "Select users to share.",
+    "ja" : "共有するユーザーを選択してください。",
+    "vi" : "Hãy chọn người dùng để chia sẻ.",
+    "zh" : "请选择要共有的使用者"
+  },
+  "문서함 등록" : {
+    "en" : "Add a file",
+    "ja" : "文書を登録",
+    "vi" : "Thêm một file",
+    "zh" : "登录文件箱"
+  },
+  "매일" : {
+    "en" : "Every day",
+    "ja" : "毎日",
+    "vi" : "Hàng ngày",
+    "zh" : "每日"
+  },
+  "인쇄설정에서 용지의 방향을 <strong>가로</strong>로 선택 후 인쇄하세요. 관심 아이콘 클릭시 관심 사용자로 등록됩니다." : {
+    "en" : "At Print Settings, select the direction of the paper to <strong>Horizontal</strong>, then print. Click on the 'Favorite' icon to add the user to the 'Favorites' list.",
+    "ja" : "印刷設定で用紙の方向を<strong>横、</strong>に選択した後、印刷してください。お気に入りアイコンクリックした際、お気に入りユーザーとして登録されます。",
+    "vi" : "Cài đặt in, chọn hướng giấy đến <strong>và</ strong>, sau đó in. Nhấp vào biểu tượng quan tâm để đăng ký người dùng quan tâm.",
+    "zh" : "请在打印设置中把打印纸方向选择为<strong>横向</strong>后打印。点击关注标识可成为关注使用者。"
+  },
+  "폴더경로" : {
+    "en" : "Folder path",
+    "ja" : "フォルダ経路",
+    "vi" : "Đường dẫn thư mục",
+    "zh" : "文件夹路径"
+  },
+  "사용자별 일정 대리인을 설정할 수 있습니다." : {
+    "en" : "You can set schedule agents for each user.",
+    "ja" : "ユーザー別の日程代理人を設定することができます。",
+    "vi" : "Có thể cài đặt người đại diện cố định theo từng người dùng.",
+    "zh" : "可以设定使用者别日程代替人。"
+  },
+  "읽기/쓰기" : {
+    "en" : "read/write",
+    "ja" : "読む/書く",
+    "vi" : "Đọc/ Viết",
+    "zh" : "读/写"
+  },
+  "폴더 접기" : {
+    "en" : "Fold folder",
+    "ja" : "フォルダを閉じる",
+    "vi" : "Gấp thư mục",
+    "zh" : "折叠文件夹"
+  },
+  "파일을 선택하세요" : {
+    "en" : "Select a file.",
+    "ja" : "ファイルを選択してください。",
+    "vi" : "Chọn file",
+    "zh" : "请选择文档。"
+  },
+  "제목" : {
+    "en" : "Subject",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "업무" : {
+    "en" : "Task",
+    "ja" : "業務",
+    "vi" : "Công việc",
+    "zh" : "业务"
+  },
+  "수" : {
+    "en" : "Wed",
+    "ja" : "水",
+    "vi" : "Thứ tư",
+    "zh" : "周三"
+  },
+  "캘린더 정보" : {
+    "en" : "Calendar Information",
+    "ja" : "カレンダー情報",
+    "vi" : "Thông tin Lịch",
+    "zh" : "日历信息"
+  },
+  "미니 캘린더" : {
+    "en" : "Mini calendar",
+    "ja" : "ミニカレンダー",
+    "vi" : "Lịch mini",
+    "zh" : "迷你日历"
+  },
+  "기한없음" : {
+    "en" : "No due date",
+    "ja" : "期限なし",
+    "vi" : "Không có kỳ hạn",
+    "zh" : "没有期限"
+  },
+  "반복 일정 모두 삭제" : {
+    "en" : "Delete all repeated events",
+    "ja" : "繰返しスケジュールをすべて削除",
+    "vi" : "Xóa tất cả sự kiện lặp lại",
+    "zh" : "反复日程全部删除"
+  },
+  "첨부파일" : {
+    "en" : "Attachments",
+    "ja" : "添付ファイル",
+    "vi" : "File đính kèm",
+    "zh" : "附件名"
+  },
+  "토요일" : {
+    "en" : "Saturday",
+    "ja" : "土曜日",
+    "vi" : "Thứ bảy",
+    "zh" : "星期六"
+  },
+  "메신저 쪽지" : {
+    "en" : "Messenger Message",
+    "ja" : "メッセンジャーのメッセージ",
+    "vi" : "Ghi chú Messenger",
+    "zh" : "聊天工具条子"
+  },
+  "개월" : {
+    "en" : "Month(s)",
+    "ja" : "ヶ月",
+    "vi" : "Tháng",
+    "zh" : "个月"
+  },
+  "반복 일정 모두 수정" : {
+    "en" : "Edit all repeated events",
+    "ja" : "繰返しスケジュールをすべて修正",
+    "vi" : "Sửa tất cả sự kiện lặp lại",
+    "zh" : "反复日程全部修改"
+  },
+  "일정관리 초기화면" : {
+    "en" : "Manage Schedule_Home Screen",
+    "ja" : "スケジュール管理の初期画面",
+    "vi" : "Quản lý lịch_Trang đầu",
+    "zh" : "日程管理首页"
+  },
+  "선택한 일정대리인을 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the selected schedule agent?",
+    "ja" : "選択したスケジュール代理人を削除しますか？",
+    "vi" : "Bạn có muốn xóa đại diện lịch trình đã chọn không?",
+    "zh" : "要删除选择的日程代替人吗?"
+  },
+  "내부참석자" : {
+    "en" : "Internal attendees",
+    "ja" : "内部参加者",
+    "vi" : "Người tham gia nội bộ",
+    "zh" : "内部参加人"
+  },
+  "장소를 입력하세요." : {
+    "en" : "Please enter a location",
+    "ja" : "情報を入力してください。",
+    "vi" : "Hãy nhập địa điểm.",
+    "zh" : "请输入地点。"
+  },
+  "다음 범위안의 값을 입력해주세요.\\n" : {
+    "en" : "Please enter a value within the following range.\\n",
+    "ja" : "次の範囲内の値を入力してください。\\n",
+    "vi" : "Hãy nhập giá trị trong phạm vi sau. \\n",
+    "zh" : "请输入下列范围内的价.\\n"
+  },
+  "오름차순" : {
+    "en" : "Ascending",
+    "ja" : "昇順",
+    "vi" : "Theo thứ tự tăng dần",
+    "zh" : "升幂"
+  },
+  "공유수락 후 상세정보 확인이 가능합니다." : {
+    "en" : "You can view details after accepting to share.",
+    "ja" : "共有の承諾後、詳細情報が確認できます。",
+    "vi" : "Có thể kiểm tra thông tin chi tiết sau khi đồng ý chia sẻ.",
+    "zh" : "接收共有后可以确认详细信息"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Khởi tạo",
+    "zh" : "初始化"
+  },
+  "삭제할 일정대리인을 선택하세요." : {
+    "en" : "Please select a schedule agent to delete.",
+    "ja" : "削除するスケジュール代理人を選択してください。",
+    "vi" : "Hãy chọn một đại diện lịch trình để xóa",
+    "zh" : "请选择要删除的日程代替人。"
+  },
+  "공유한 일정이 삭제되었습니다." : {
+    "en" : "Shared schedule has been deleted.",
+    "ja" : "共有したスケジュールが削除されました。",
+    "vi" : "Lịch trình chia sẻ đã bị xóa.",
+    "zh" : "共享的日程已删除。"
+  },
+  "받다" : {
+    "en" : "Receive",
+    "ja" : "受ける",
+    "vi" : "Nhận",
+    "zh" : "收到"
+  },
+  "일정 수락 요청 했습니다." : {
+    "en" : "Schedule acceptance request has been made.",
+    "ja" : "スケジュールの受諾リクエストを送信しました。",
+    "vi" : "Yêu cầu chấp nhận lịch trình đã được thực hiện.",
+    "zh" : "已发送日程接受请求。"
+  },
+  "월요일" : {
+    "en" : "Monday",
+    "ja" : "月曜日",
+    "vi" : "Thứ hai",
+    "zh" : "周一"
+  },
+  "음력" : {
+    "en" : "Lunar Calendar",
+    "ja" : "陰暦",
+    "vi" : "Âm lịch",
+    "zh" : "阴历"
+  },
+  "다섯번째" : {
+    "en" : "Fifth",
+    "ja" : "５番目",
+    "vi" : "Thứ năm",
+    "zh" : "第五次"
+  },
+  "구글 드라이브 등록" : {
+    "en" : "Google Drive Registration",
+    "ja" : "Googleドライブ登録",
+    "vi" : "Đăng ký Google Drive",
+    "zh" : "登录谷歌运行"
+  },
+  "읽기" : {
+    "en" : "read",
+    "ja" : "読む",
+    "vi" : "Đọc",
+    "zh" : "读"
+  },
+  "등록된 캘린더가 없습니다." : {
+    "en" : "No registered calendars found",
+    "ja" : "登録されたカレンダーがありません。",
+    "vi" : "Không có lịch được đăng.",
+    "zh" : "不存在已上传日历"
+  },
+  "회사 캘린더 목록" : {
+    "en" : "Company Calendar List",
+    "ja" : "会社カレンダーリスト",
+    "vi" : "Danh sách lịch công ty",
+    "zh" : "公司日历目录"
+  },
+  "공유 캘린더 목록은 웹 페이지에서 확인하실 수 있습니다." : {
+    "en" : "You can check the Shared Calendar List at the web page.",
+    "ja" : "共有カレンダーリストはWebページで確認できます。",
+    "vi" : "Bạn có thể xem lịch trình được chia sẻ trên trang web.",
+    "zh" : "共有日历目录可以在网页确认。"
+  },
+  "공유자에 외부사용자가 포함되어있습니다.\\n부서 또는 회사, 외부사용자를 제외한 사용자만 표시됩니다." : {
+    "en" : "External users are included in sharers.\\n Only users are displayed, excluding department, company or external users.",
+    "ja" : "共有者に外部ユーザーが含まれています。\\ n部署または会社・外部ユーザーを除くユーザーのみが表示されます。",
+    "vi" : "Người sử dụng bên ngoài được chia sẻ. Chỉ hiện thị người dùng ngoại trừ người dùng bên ngoài, công ty hoặc bộ phận.",
+    "zh" : "共有人里包括着外部使用者。\\n只表示部门或者公司，排除外部使用者的使用者。"
+  },
+  "처리중입니다. \\n잠시만 기다려주세요." : {
+    "en" : "Processing. \\n Please wait a moment.",
+    "ja" : "処理中です。 \\ nしばらくお待ちください。",
+    "vi" : "Đang xử lý.\\nVui lòng chờ trong giây lát.",
+    "zh" : "处理中。\\n请稍等一下。"
+  },
+  "화" : {
+    "en" : "Tue",
+    "ja" : "火",
+    "vi" : "Thứ ba",
+    "zh" : "周二"
+  },
+  "기본 회의 승인자" : {
+    "en" : "Default meeting approver",
+    "ja" : "基本会議承認者",
+    "vi" : "Người phê duyệt họp mặc định",
+    "zh" : "基本会议承认者"
+  },
+  "연결업무" : {
+    "en" : "Connected tasks",
+    "ja" : "連結業務",
+    "vi" : "Tác vụ đã được kết nối",
+    "zh" : "连接业务"
+  },
+  "회의" : {
+    "en" : "Meeting",
+    "ja" : "会議",
+    "vi" : "Họp",
+    "zh" : "会议"
+  },
+  "용량" : {
+    "en" : "Storage",
+    "ja" : "容量",
+    "vi" : "Dung lượng",
+    "zh" : "用量"
+  },
+  "결과" : {
+    "en" : "Results",
+    "ja" : "結果",
+    "vi" : "Kết quả",
+    "zh" : "结果"
+  },
+  "일정을 확인하려면 아래 [일정 보기]를 클릭하세요." : {
+    "en" : "To see the schedule, click the [View Schedule] button below.",
+    "ja" : "スケジュールの確認は下の[スケジュール表示]をクリックしてください。",
+    "vi" : "Để xem các sự kiện, vui lòng bấm vào mục [Xem sự kiện].",
+    "zh" : "要确认日程的话请点击下列【看日程】。"
+  },
+  "쪽지 발송e" : {
+    "en" : "Send Message",
+    "ja" : "メッセージ送信e",
+    "vi" : "Gửi lời ghi nhắn",
+    "zh" : "纸条 发送e"
+  },
+  "삭제 캘린더 숨김" : {
+    "en" : "Hide deleted calendar",
+    "ja" : "削除カレンダー非表示",
+    "vi" : "Ẩn lịch đã xóa",
+    "zh" : "隐藏删除日历"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "오늘 중 마감이 없습니다." : {
+    "en" : "No more deadline today",
+    "ja" : "今日中の締め切りはありません。",
+    "vi" : "Không có lịch trình hết hạn trong hôm nay.",
+    "zh" : "今天没有截止日期。"
+  },
+  "{0}님께서 {0}를 삭제 또는 공유를 취소하였습니다." : {
+    "en" : "Mr./Ms. {0} has deleted {0} or cancelled sharing.",
+    "ja" : "{0}さんが{0}の削除または共有をキャンセルしました。",
+    "vi" : "Anh/chị {0} đã hủy chia sẻ hoặc xóa {0}.",
+    "zh" : "{0}删除或共有取消了{0}"
+  },
+  "자원예약 취소" : {
+    "en" : "Cancel resource bookings",
+    "ja" : "資源予約キャンセル",
+    "vi" : "Hủy đặt tài nguyên",
+    "zh" : "取消预订资源"
+  },
+  "할일의 기한을 등록일보다 이른 날짜로 설정할 수 없습니다." : {
+    "en" : "The deadline for a to-do cannot be set earlier than the registration date.",
+    "ja" : "タスクの期限を登録日より早い日に設定することはできません。",
+    "vi" : "Không thể đặt hạn chót cho một công việc cần làm sớm hơn ngày tạo nó.",
+    "zh" : "您不能将待办事项的到期日设置为早于注册日期。"
+  },
+  "빈도" : {
+    "en" : "Frequency",
+    "ja" : "頻度",
+    "vi" : "Tần số",
+    "zh" : "频率"
+  },
+  "일까지" : {
+    "en" : "Until (  )",
+    "ja" : "日まで",
+    "vi" : "Tới ngày",
+    "zh" : "到（）日"
+  },
+  "재공유" : {
+    "en" : "Reshare",
+    "ja" : "再共有",
+    "vi" : "Chia sẻ lại",
+    "zh" : "重新共享"
+  },
+  "종료일이 시작일 보다 더 이전입니다. 날짜를 다시 확인해 주세요." : {
+    "en" : "The End date is earlier than the Start date. Please check the dates again.",
+    "ja" : "終了日が開始日より前です。日付を再確認してください。",
+    "vi" : "Ngày kết thúc sớm hơn ngày bắt đầu. Vui lòng kiểm tra lại các ngày.",
+    "zh" : "结束日于开始日早。请再确认一下日子。"
+  },
+  "금일 일정" : {
+    "en" : "Today's schedule",
+    "ja" : "今日のスケジュール",
+    "vi" : "Lịch trình hôm nay",
+    "zh" : "今日活动"
+  },
+  "외" : {
+    "en" : "and",
+    "ja" : "他",
+    "vi" : "Ngoài",
+    "zh" : "外"
+  },
+  "삭제 부서" : {
+    "en" : "Departments (Deleted)",
+    "ja" : "削除部署",
+    "vi" : "Phòng ban/bộ phận bị xóa",
+    "zh" : "删除部门"
+  },
+  "{0}님께서 일정을 공유하였습니다." : {
+    "en" : "Mr./Ms. {0} has shared their schedule.",
+    "ja" : "{0}さんがスケジュールを共有しました。",
+    "vi" : "Anh/ chị {0} đã chia sẻ lịch trình.",
+    "zh" : "{0}共有了日程"
+  },
+  "공유 받은 일정" : {
+    "en" : "Shared schedule",
+    "ja" : "共有された一定",
+    "vi" : "Sự kiện được chia sẻ",
+    "zh" : "收到共有日程"
+  },
+  "공유를 원하는 일정을 체크한 후 공유할 사용자를 선택하세요." : {
+    "en" : "Check the events you want to share, and select users that you want to share with.",
+    "ja" : "共有したいスケジュールをチェックした後、共有するユーザーを選択してください。",
+    "vi" : "Hãy chọn sự kiện và người dùng muốn chia sẻ.",
+    "zh" : "选择要共有的日程后选择要共有的使用者。"
+  },
+  "공유요청 알림 발송" : {
+    "en" : "Notification of sharing request sent.",
+    "ja" : "共有リクエスト通知を送信",
+    "vi" : "Gửi thông báo yêu cầu chia sẻ.",
+    "zh" : "发送请求通知已发送"
+  },
+  "폴더 관리" : {
+    "en" : "Manage folders",
+    "ja" : "フォルダ管理",
+    "vi" : "Quản lý thư mục",
+    "zh" : "管理文件夹"
+  },
+  "반복 일정을 모두 수정하고 있습니다." : {
+    "en" : "Modifying all recurring schedules.",
+    "ja" : "繰り返しスケジュールをすべて変更しています。",
+    "vi" : "Chỉnh sửa tất cả lịch trình định kỳ.",
+    "zh" : "修改所有循环日程。"
+  },
+  "특별회원" : {
+    "en" : "Special member",
+    "ja" : "特別会員",
+    "vi" : "Thành viên đặc biệt",
+    "zh" : "特别会员"
+  },
+  "공유안함" : {
+    "en" : "Don't Share",
+    "ja" : "共有しない",
+    "vi" : "Không chia sẻ",
+    "zh" : "不共有"
+  },
+  "일정대리자 선택" : {
+    "en" : "Select Schedule Agent",
+    "ja" : "スケジュール代理者を選択",
+    "vi" : "Chọn lịch trình đại diện.",
+    "zh" : "选择固定代理人"
+  },
+  "지난 할일" : {
+    "en" : "Past tasks",
+    "ja" : "過去のタスク",
+    "vi" : "Tác vụ quá khứ",
+    "zh" : "过去得做的事"
+  },
+  "커뮤니티" : {
+    "en" : "Communities",
+    "ja" : "コミュニティ",
+    "vi" : "Cộng đồng",
+    "zh" : "社区"
+  },
+  "회" : {
+    "en" : "time(s)",
+    "ja" : "回",
+    "vi" : "Lần",
+    "zh" : "次"
+  },
+  "일 전" : {
+    "en" : "days ago",
+    "ja" : "日前",
+    "vi" : "Trước ( ) ngày",
+    "zh" : "前"
+  },
+  "삭제자" : {
+    "en" : "Deleted by",
+    "ja" : "削除者",
+    "vi" : "Bị xóa bởi",
+    "zh" : "删除者"
+  },
+  "주간" : {
+    "en" : "Weekly",
+    "ja" : "週間",
+    "vi" : "Tuần",
+    "zh" : "周间"
+  },
+  "말머리" : {
+    "en" : "Heading",
+    "ja" : "ラベル",
+    "vi" : "Lời nói đầu",
+    "zh" : "话头"
+  },
+  "여섯번째" : {
+    "en" : "Sixth",
+    "ja" : "6番目",
+    "vi" : "Thứ sáu",
+    "zh" : "第六个"
+  },
+  "메신저 팝업" : {
+    "en" : "Messenger pop-up",
+    "ja" : "メッセンジャーポップアップ",
+    "vi" : "Popup Messenger",
+    "zh" : "Messenger的弹出"
+  },
+  "최초 한번은[구글캘린더동기화]를 클릭하여 전체 동기화한 이후 등록되는 일정에 대해서는 구글캘린더와 양방향 자동 동기화됩니다." : {
+    "en" : "For the first time, click [Google Calendar Synchronization] to sync. After that, all newly registered events (schedules) will be automatically synchronized (bi-directionally) with Google Calendar.",
+    "ja" : "最初の一回は[Googleカレンダー同期化]をクリックして全体同期化を行い、その後登録されるスケジュールはGoogleカレンダーと双方向で自動同期化されます。",
+    "vi" : "Lần đầu tiên, nhấn vào [Đồng bộ Lịch Google] để đồng bộ hóa. Sau đó, các sự kiện bạn nhập sẽ được tự động đồng bộ hóa với Lịch Google.",
+    "zh" : "最初一次点击[谷歌日历初始化]而全体初始化后对然后登录的日程跟谷歌日历两方向自动初始化。"
+  },
+  "장소" : {
+    "en" : "Where (Location)",
+    "ja" : "場所",
+    "vi" : "Địa điểm",
+    "zh" : "地点"
+  },
+  "분 전" : {
+    "en" : "minutes ago",
+    "ja" : "分前",
+    "vi" : "Vài phút trước",
+    "zh" : "分钟前"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "내용은 한글 2000자 이내, 영어 4000자 이내로 입력하세요." : {
+    "en" : "Content must be less than 2,000 characters in Korean, or 4,000 characters in English.",
+    "ja" : "内容は、ハングル2000文字以内、英語4000文字以内で入力してください。",
+    "vi" : "Hãy nhập nội dung dưới 2000 chữ tiếng Hàn, 4000 chữ tiếng Anh.",
+    "zh" : "内容输入为2000字以内, 英文 4000字以内。"
+  },
+  "근태관리에서 등록된 기념일(휴일)은 수정,삭제가 불가합니다." : {
+    "en" : "Unable to edit or delete anniversaries (holidays) registered in Manage Attendance.",
+    "ja" : "勤怠管理に登録された記念日（休日）は、変更・削除はできません。",
+    "vi" : "Không thể chỉnh sửa hoặc xóa các ngày kỷ niệm (ngày lễ) trong phần Quản lý báo danh/chấm công.",
+    "zh" : "在出勤管理上登录的纪念日（休息日）不可修改或删除。"
+  },
+  "목" : {
+    "en" : "Thu",
+    "ja" : "木",
+    "vi" : "Thứ năm",
+    "zh" : "周四"
+  },
+  "다음 년도" : {
+    "en" : "Next Year",
+    "ja" : "次年度",
+    "vi" : "Năm tới",
+    "zh" : "明年"
+  },
+  "전체 캘린더" : {
+    "en" : "All calendars",
+    "ja" : "すべてのカレンダー",
+    "vi" : "Tất cả các lịch",
+    "zh" : "所有日历"
+  },
+  "회의승인 필수" : {
+    "en" : "Meeting requires approval.",
+    "ja" : "会議承認必須",
+    "vi" : "Yêu cầu phê duyệt cuộc họp",
+    "zh" : "会议承认必须"
+  },
+  "달력" : {
+    "en" : "Calendar",
+    "ja" : "カレンダー",
+    "vi" : "Lịch",
+    "zh" : "日曆"
+  },
+  "정렬" : {
+    "en" : "Arrange by",
+    "ja" : "並べ替え",
+    "vi" : "Sắp xếp",
+    "zh" : "整队"
+  },
+  "가능" : {
+    "en" : "Possible",
+    "ja" : "可能",
+    "vi" : "Có thể",
+    "zh" : "可以"
+  },
+  "캘린더 이동" : {
+    "en" : "Move Calendar",
+    "ja" : "カレンダーを移動",
+    "vi" : "Di chuyển lịch",
+    "zh" : "移动日历"
+  },
+  "회의실 예약" : {
+    "en" : "Book Meeting Room",
+    "ja" : "会議室予約",
+    "vi" : "Đặt phòng họp",
+    "zh" : "预订会议室"
+  },
+  "스페이스 선택" : {
+    "en" : "Select Space",
+    "ja" : "スペース選択",
+    "vi" : "Chọn Space",
+    "zh" : "选择空格"
+  },
+  "{0}님께서 약속메일 일정을 수정하였습니다." : {
+    "en" : "{0} has modified the appointment mail schedule.",
+    "ja" : "{0}さんからアポイントメールの日程を修正しました。",
+    "vi" : "Anh/ chị {0} đã sửa lịch trình mail hẹn trước.",
+    "zh" : "{0}先生，女士修改预约邮件日程了。"
+  },
+  "메뉴" : {
+    "en" : "menu",
+    "ja" : "メニュー",
+    "vi" : "Menu",
+    "zh" : "项目"
+  },
+  "공유삭제" : {
+    "en" : "Delete sharing",
+    "ja" : "共有削除",
+    "vi" : "Xóa chia sẻ",
+    "zh" : "删除共有"
+  },
+  "쪽지" : {
+    "en" : "Message",
+    "ja" : "メッセージ",
+    "vi" : "Ghi chú Web",
+    "zh" : "纸条"
+  },
+  "공유여부" : {
+    "en" : "Share?",
+    "ja" : "共有可否",
+    "vi" : "Có chia sẻ hay không",
+    "zh" : "是否共有"
+  },
+  "모두" : {
+    "en" : "All",
+    "ja" : "すべて",
+    "vi" : "Tất cả",
+    "zh" : "全部"
+  },
+  "{0}님의 일정대리인으로 지정되셨습니다." : {
+    "en" : "You have been appointed as {0}'s schedule agent.",
+    "ja" : "{0}さんのスケジュール代理人に指定されました。",
+    "vi" : "Bạn đã được bổ nhiệm làm người phụ trách lịch trình của {0}.",
+    "zh" : "指定为{0}先生，女士的一定代替人了。"
+  },
+  "그래프" : {
+    "en" : "Chart",
+    "ja" : "グラフ",
+    "vi" : "Biểu đồ",
+    "zh" : "形图"
+  },
+  "사용자 부재 표시" : {
+    "en" : "User Absence Indicator",
+    "ja" : "ユーザーの不在表示",
+    "vi" : "Hiển thị trạng thái vắng mặt của người dùng",
+    "zh" : "用户缺席显示"
+  },
+  "캘린더 목록" : {
+    "en" : "Calendar List",
+    "ja" : "カレンダーリスト",
+    "vi" : "Danh sách lịch",
+    "zh" : "日历目录"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "메모" : {
+    "en" : "Memo",
+    "ja" : "メモ",
+    "vi" : "Ghi nhớ",
+    "zh" : "纪录"
+  },
+  "일정 정보" : {
+    "en" : "Schedule (Event) Description",
+    "ja" : "スケジュール情報",
+    "vi" : "Mô tả sự kiện",
+    "zh" : "日程信息"
+  },
+  "등록부서상태" : {
+    "en" : "Registered Department Status",
+    "ja" : "部署の状態",
+    "vi" : "Trạng thái phòng ban/bộ phận",
+    "zh" : "部门状态"
+  },
+  "협업공간" : {
+    "en" : "Collaboration space",
+    "ja" : "協業スペース",
+    "vi" : "Không gian cộng tác",
+    "zh" : "协作空间"
+  },
+  "개인" : {
+    "en" : "Personal",
+    "ja" : "個人",
+    "vi" : "Cá nhân",
+    "zh" : "个人"
+  },
+  "반복 일정 수정" : {
+    "en" : "Edit Repeated Event",
+    "ja" : "繰返しスケジュールを修正",
+    "vi" : "Sửa sự kiện lặp lại",
+    "zh" : "修改反复日程"
+  },
+  "아래" : {
+    "en" : "Down",
+    "ja" : "下へ",
+    "vi" : "Dưới",
+    "zh" : "往下边"
+  },
+  "매년마다" : {
+    "en" : "Every year",
+    "ja" : "毎年ごとに",
+    "vi" : "Mỗi năm",
+    "zh" : "每年"
+  },
+  "목록 보기" : {
+    "en" : "View list",
+    "ja" : "リスト表示",
+    "vi" : "Xem danh sách",
+    "zh" : "看目录"
+  },
+  "날짜순" : {
+    "en" : "By date",
+    "ja" : "日付順",
+    "vi" : "Theo ngày",
+    "zh" : "日子顺"
+  },
+  "中國語" : {
+    "en" : "Chinese",
+    "ja" : "中国語",
+    "vi" : "Tiếng Trung",
+    "zh" : "汉语"
+  },
+  "스탭" : {
+    "en" : "Staff",
+    "ja" : "スタッフ",
+    "vi" : "Nhân viên",
+    "zh" : "工作人员"
+  },
+  "휴일" : {
+    "en" : "Holiday",
+    "ja" : "休日",
+    "vi" : "Ngày lễ",
+    "zh" : "休息日"
+  },
+  "내 캘린더의 일정 대리자를 설정할 수 있습니다." : {
+    "en" : "You can assign a Schedule Agent of My Calendar.",
+    "ja" : "Myカレンダーの日程代理者を設定できます。",
+    "vi" : "Bạn có thể chỉ định Đại diện lịch trình trong Lịch của tôi.",
+    "zh" : "可设定我的日历的固定代理人。"
+  },
+  "관심 등록" : {
+    "en" : "Add to Favorites",
+    "ja" : "お気に入り登録",
+    "vi" : "Đăng ký quan tâm",
+    "zh" : "登录为关心"
+  },
+  "월" : {
+    "en" : "Mon",
+    "ja" : "月",
+    "vi" : "Thứ hai",
+    "zh" : "周一"
+  },
+  "지난 날짜 일정/할일 등록" : {
+    "en" : "Add Past Events/Tasks to do",
+    "ja" : "過去日付のスケジュール/タスク登録",
+    "vi" : "Thêm việc sẽ làm/ sự kiệnquá khứ",
+    "zh" : "过去日子日程/登录得做的事"
+  },
+  "오늘 완료 {0}건" : {
+    "en" : "A schedule completed today {0} item(s)",
+    "ja" : "本日完了{0}件",
+    "vi" : "Việc hoàn thành hôm nay {0}",
+    "zh" : "今天完成的事情{0}件"
+  },
+  "부재 정보 표시" : {
+    "en" : "Display absence information",
+    "ja" : "欠席情報表示",
+    "vi" : "Hiển thị thông tin vắng mặt",
+    "zh" : "显示缺席信息"
+  },
+  "사용자를 선택하세요." : {
+    "en" : "Select a user.",
+    "ja" : "ユーザーを選択してください.",
+    "vi" : "Chọn một người dùng.",
+    "zh" : "请选择使用者。"
+  },
+  "반복 일정 삭제" : {
+    "en" : "Delete Repeated Event",
+    "ja" : "繰返しスケジュールを削除",
+    "vi" : "Xóa sự kiện lặp lại",
+    "zh" : "删除反复删除反复日程"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "全て閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "직위선택" : {
+    "en" : "Select a position",
+    "ja" : "職位を選択",
+    "vi" : "Chọn vị trí",
+    "zh" : "选择职位"
+  },
+  "캘린더를 선택하세요." : {
+    "en" : "Please select a calendar.",
+    "ja" : "カレンダーを選択してください。",
+    "vi" : "Vui lòng chọn một lịch.",
+    "zh" : "请选择日历。"
+  },
+  "할일 열기" : {
+    "en" : "Open 'Tasks to do'",
+    "ja" : "タスクを開く",
+    "vi" : "Mở tác vụ",
+    "zh" : "打开得做的事"
+  },
+  "여러명 입력시 콤마(,) 또는 세미콜론(;)으로 구분, 이름{부서명}(회사명)입력" : {
+    "en" : "If there are several people, separate each user with a comma (,) or a semicolon (;). Enter name {department}(company)",
+    "ja" : "複数人を入力する時は、コンマ(,)またはセミコロン(;)で区別、名前{部署名}(会社名)入力",
+    "vi" : "Phân biệt bằng dấu phẩy (,), dấu chấm phẩy (;) khi nhập nhiều người, nhập tên {tên bộ phận}{tên công ty}",
+    "zh" : "多数输入时利用逗号(,) 或者 分号(;)来区分, 输入名字{部门名}(公司名)"
+  },
+  "매달 같은 주" : {
+    "en" : "Same day every week",
+    "ja" : "毎月同じ週",
+    "vi" : "Tuần giống nhau hàng tháng",
+    "zh" : "每月同一个周"
+  },
+  "첨부파일 확장자 제한" : {
+    "en" : "Restrict Attachment extension",
+    "ja" : "添付ファイルの拡張子制限",
+    "vi" : "Hạn chế phần đuôi mở rộng của đính kèm",
+    "zh" : "限制附件扩展名"
+  },
+  "작업 등록" : {
+    "en" : "Register Task",
+    "ja" : "作業登録",
+    "vi" : "Đăng ký công việc",
+    "zh" : "登录工作"
+  },
+  "대리 캘린더에 자원예약 시 대상자 권한으로 자원을 예약합니다." : {
+    "en" : "When resources are reserved in a proxy calendar, the resource is reserved with the target user's permissions.",
+    "ja" : "代理カレンダーにリソースを予約すると、対象者の権限でリソースを保存します。",
+    "vi" : "Khi đặt tài nguyên trong lịch thay thế, hãy đặt tài nguyên với quyền hạn của đối tượng.",
+    "zh" : "若于代理日历中预约资源，将以对象权限进行资源预约。"
+  },
+  "일정이 예정되어 있습니다." : {
+    "en" : "Schedule is scheduled.",
+    "ja" : "スケジュールが予定されています。",
+    "vi" : "Lịch trình đã được lên kế hoạch.",
+    "zh" : "日程即将到来。"
+  },
+  "오늘 완료 <em>{0}</em>건이 있습니다." : {
+    "en" : "<em>{0}</em> are due today.",
+    "ja" : "本日完了 <em>{0}</em>件あります。",
+    "vi" : "Có <em>{0}</em> công việc đã hoàn thành hôm nay.",
+    "zh" : "今日完成共<em>{0}</em> 项。"
+  },
+  "일정이 삭제되었습니다." : {
+    "en" : "Schedule has been deleted.",
+    "ja" : "スケジュールが削除されました。",
+    "vi" : "Lịch trình đã bị xóa.",
+    "zh" : "日程已删除。"
+  },
+  "일정/할일을 등록 시, 해당 일정/할일의 시작 시간을 기준으로 미리 알림을 설정하여 사용할 알림 종류을 선택합니다." : {
+    "en" : "When inputing a schedule/to-do, select the type of notification to use by setting a reminder based on the start time of the schedule/to-do.",
+    "ja" : "スケジュール/仕事を登録すると、該当スケジュール/仕事のスタート時間を基準に前もってアラームを設定し、使用するアラームの種類を選択できます。",
+    "vi" : "Khi thêm lịch trình/công việc, bạn có thể cài đặt thông báo trước thời gian bắt đầu và chọn loại thông báo muốn sử dụng.",
+    "zh" : "在记载日程/待办事项时，可以该日程/待办事项开始时间提前设置提醒，并选择提醒种类。"
+  },
+  "반복 횟수" : {
+    "en" : "Number of Repeats (time(s))",
+    "ja" : "繰返し回数",
+    "vi" : "Số lần lặp lại",
+    "zh" : "反复次数"
+  },
+  "일정관리 초기 화면" : {
+    "en" : "Manage Schedule_Home Screen",
+    "ja" : "スケジュール管理の初期画面",
+    "vi" : "Quản lý lịch_Trang đầu",
+    "zh" : "日程管理首页"
+  },
+  "50개 이상 추가할 수 없습니다." : {
+    "en" : "Unable to add more than 50 items.",
+    "ja" : "50件以上追加することはできません。",
+    "vi" : "Bạn không thể thêm hơn 50 cái.",
+    "zh" : "50个以上不可追加。"
+  },
+  "일정이 수정 되었습니다." : {
+    "en" : "The event was modified.",
+    "ja" : "スケジュールが変更されました。",
+    "vi" : "Sự kiện đã được sửa.",
+    "zh" : "日程修改完了。"
+  },
+  "기념일 조회" : {
+    "en" : "View anniversary",
+    "ja" : "記念日照会",
+    "vi" : "Xem ngày kỉ niệm",
+    "zh" : "查询纪念日"
+  },
+  "근태관리에서 부재 등록 시 일정으로 등록할 캘린더를 선택합니다." : {
+    "en" : "Select a calendar to register the absence as a schedule when registering the absence in attendance management.",
+    "ja" : "勤怠管理での欠席登録時にスケジュールとして登録するカレンダーを選択します。",
+    "vi" : "Chọn một lịch để đăng ký thông tin vắng mặt dưới dạng lịch trình khi đăng ký thông tin vắng mặt trong quản lý chấm công.",
+    "zh" : "在出勤管理中选择要将缺席信息注册为日程的日历。"
+  },
+  "이동" : {
+    "en" : "Move",
+    "ja" : "移動",
+    "vi" : "Di chuyển",
+    "zh" : "移动"
+  },
+  "범주" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "范畴"
+  },
+  "{0}님께서 약속메일 일정을 삭제하였습니다." : {
+    "en" : "{0} has deleted the appointment mail schedule.",
+    "ja" : "{0}さんからのアポイントメールの日程を削除しました。",
+    "vi" : "Anh/chị {0} đã xóa lịch trình mail hẹn trước",
+    "zh" : "{0}先生，女士删除预约邮件日程了。"
+  },
+  "CalDAV 연동설정" : {
+    "en" : "CalDAV Linkage Settings",
+    "ja" : "CalDAV 連動設定",
+    "vi" : "Thiết lập để đồng bộ hóa với CalDAV",
+    "zh" : "CalDAV 设定联动"
+  },
+  "할일을 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete this 'Task to do'.",
+    "ja" : "タスクを削除しますか？",
+    "vi" : "Bạn có muốn xóa công việc không?",
+    "zh" : "要删除要做的工作吗？"
+  },
+  "일정현황" : {
+    "en" : "Schedule status",
+    "ja" : "スケジュールの状況",
+    "vi" : "Tình trạng lịch trình",
+    "zh" : "日程现况"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全期间"
+  },
+  "일정 보기" : {
+    "en" : "View schedule",
+    "ja" : "スケジュール表示",
+    "vi" : "Xem lịch trình",
+    "zh" : "收看日程"
+  },
+  "이전" : {
+    "en" : "Previous",
+    "ja" : "貼り付け",
+    "vi" : "Trước đó",
+    "zh" : "轉讓"
+  },
+  "다른 용무 중" : {
+    "en" : "Busy",
+    "ja" : "他の業務中",
+    "vi" : "Bận",
+    "zh" : "正在做别的事"
+  },
+  "회의 승인 대기" : {
+    "en" : "Waiting for Approval (Meeting)",
+    "ja" : "会議承認待機",
+    "vi" : "Chờ phê duyệt cuộc họp",
+    "zh" : "会议承认等待"
+  },
+  "거절하였습니다." : {
+    "en" : "Declined.",
+    "ja" : "拒否しました。",
+    "vi" : "Đã từ chối.",
+    "zh" : "拒绝了。"
+  },
+  "완료/취소" : {
+    "en" : "Complete/Cancel",
+    "ja" : "完了/キャンセル",
+    "vi" : "Hoàn thành/ Hủy",
+    "zh" : "完了/取消"
+  },
+  "검색 결과" : {
+    "en" : "Search results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "회의일정 요청" : {
+    "en" : "Request meeting schedule",
+    "ja" : "会議スケジュールのリクエスト",
+    "vi" : "Yêu cầu lịch họp",
+    "zh" : "邀请会议日程"
+  },
+  "할일 펼침" : {
+    "en" : "Expand 'Tasks to do'",
+    "ja" : "タスクを開く",
+    "vi" : "Mở tác vụ",
+    "zh" : "打开得做的事"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Would you like to delete?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要完全删除吗？"
+  },
+  "주마다" : {
+    "en" : "Every week",
+    "ja" : "週ごとに",
+    "vi" : "Mỗi tuần",
+    "zh" : "每周"
+  },
+  "에 대한 검색 결과입니다." : {
+    "en" : "Search results for  (         ).",
+    "ja" : "の検索結果です。",
+    "vi" : "Kết quả tìm kiếm cho",
+    "zh" : "对（）的搜索结果。"
+  },
+  "맨위로" : {
+    "en" : "To the Top",
+    "ja" : "上部へ",
+    "vi" : "Trên cùng",
+    "zh" : "往最上边"
+  },
+  "시작일" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日"
+  },
+  "종료 횟수를 입력하세요" : {
+    "en" : "Enter the number of exits.",
+    "ja" : "終了回数を入力してください",
+    "vi" : "Hãy nhập số kết thúc.",
+    "zh" : "请输入结束次数。"
+  },
+  "캘린더상태" : {
+    "en" : "Calendar Status",
+    "ja" : "カレンダーの状態",
+    "vi" : "Tình trạng lịch",
+    "zh" : "日历状态"
+  },
+  "삭제 할 기념일을 선택하세요." : {
+    "en" : "Please select the anniversary that you wish to delete.",
+    "ja" : "削除する記念日を選択してください。",
+    "vi" : "Vui lòng chọn ngày kỷ niệm mà bạn muốn xóa.",
+    "zh" : "请选择要删除的纪念日。"
+  },
+  "캘린더" : {
+    "en" : "Calendar",
+    "ja" : "カレンダー",
+    "vi" : "Lịch",
+    "zh" : "日历"
+  },
+  "기존첨부" : {
+    "en" : "Existing Attachment",
+    "ja" : "既存の添付",
+    "vi" : "Đính kèm hiện có",
+    "zh" : "基本附加"
+  },
+  "폴더 삭제" : {
+    "en" : "Delete folder",
+    "ja" : "フォルダ削除",
+    "vi" : "Xóa thư mục",
+    "zh" : "删除文件夹"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "等待"
+  },
+  "할일이 삭제 되었습니다." : {
+    "en" : "The 'Task to do' has been deleted.",
+    "ja" : "タスクが削除されました。",
+    "vi" : "Công việc đã được xóa.",
+    "zh" : "要做的工作删除完了。"
+  },
+  "자원예약 연동 일정의 경우 공유자를 추가할 수 없습니다." : {
+    "en" : "When an event is connected to resource booking, you cannot add people to share.",
+    "ja" : "資源予約連動のスケジュールの場合、共有者を追加することができません。",
+    "vi" : "Khi có sự kiện được kết nối với tài nguyên đặt trước, bạn không thể thêm người để chia sẻ.",
+    "zh" : "资源预订联动日程的话不可追加共有人。"
+  },
+  "지난 할일 <em>{0}</em>건, 오늘 완료 <em>{1}</em>건이 있습니다." : {
+    "en" : "There are <em>{0}</em> of overdue schedules, <em>{1}</em> are due today.",
+    "ja" : "過去のタスク <em>{0}</em>件、本日完了 <em>{1}</em>件があります。",
+    "vi" : "Có <em>{0}</em> công việc đã qua, có <em>{1}</em> công việc đã hoàn thành hôm nay.",
+    "zh" : "过去待办事项共<em>{0}</em> 项，今日完成共<em>{0}</em> 项。"
+  },
+  "범주 선택" : {
+    "en" : "Select category",
+    "ja" : "カテゴリ選択",
+    "vi" : "Chọn hạng mục",
+    "zh" : "选择范畴"
+  },
+  "기념일이 등록되었습니다." : {
+    "en" : "Anniversary has been registered.",
+    "ja" : "記念日が登録されました。",
+    "vi" : "Ngày kỷ niệm đã được đăng ký.",
+    "zh" : "已登记纪念日。"
+  },
+  "항목편집" : {
+    "en" : "Edit items",
+    "ja" : "項目編集",
+    "vi" : "Chỉnh sửa các mục",
+    "zh" : "编辑项目"
+  },
+  "자리 비움" : {
+    "en" : "Away",
+    "ja" : "席を外す",
+    "vi" : "Đi vắng",
+    "zh" : "没有人"
+  },
+  "공유요청 쪽지발송" : {
+    "en" : "Send Message to Request Sharing",
+    "ja" : "共有リクエストのメッセージ送信",
+    "vi" : "Gửi lời nhắn yêu cầu chia sẻ",
+    "zh" : "发送邀请共有纸条"
+  },
+  "알림 수신" : {
+    "en" : "Receive notifications",
+    "ja" : "通知を受信",
+    "vi" : "Nhận thông báo",
+    "zh" : "提醒收信"
+  },
+  "주중 매일(월-금)" : {
+    "en" : "Every weekday (Mon-Fri)",
+    "ja" : "平日毎日(月-金)",
+    "vi" : "Mỗi ngày trong tuần (Thứ 2~ thứ 6)",
+    "zh" : "周中每天（周一~五）"
+  },
+  "전체 부서" : {
+    "en" : "Departments (All)",
+    "ja" : "全体部署",
+    "vi" : "Tất cả phòng ban/bộ phận",
+    "zh" : "全体部门"
+  },
+  "일정관리" : {
+    "en" : "Manage calendar",
+    "ja" : "スケジュール管理",
+    "vi" : "Quản lý lịch",
+    "zh" : "日程管理"
+  },
+  "일정을 확인하시려면 [일정보기]를 클릭하세요." : {
+    "en" : "Click [View Schedule] to check the schedule.",
+    "ja" : "スケジュールを確認するには、[スケジュール表示］をクリックしてください。",
+    "vi" : "Hãy nhấn vào [Xem lịch trình] để kiểm tra sự kiện.",
+    "zh" : "要确认日程的话请点击下边[看日程]"
+  },
+  "매년 같은 주" : {
+    "en" : "Same week every year",
+    "ja" : "毎年同じ週",
+    "vi" : "Tuần giống nhau hàng năm",
+    "zh" : "每年同一个周"
+  },
+  "일정 공개여부 기본값" : {
+    "en" : "Schedule Disclosure Status (Default Value)",
+    "ja" : "日程公開可否の基本値",
+    "vi" : "Tình trạng kế hoạch làm việc mặc định",
+    "zh" : "日程公开与否基本值"
+  },
+  "종일 할일" : {
+    "en" : "Task to do (All-day)",
+    "ja" : "終日タスク",
+    "vi" : "Công việc cả ngày",
+    "zh" : "整天得做的事。"
+  },
+  "공유받은 캘린더가 변경되었습니다." : {
+    "en" : "A change has occurred to the shared calendar.",
+    "ja" : "共有されたカレンダーが変更されました。",
+    "vi" : "Lịch trình nhận chia sẻ đã được thay đổi.",
+    "zh" : "收到共有的日历变更了"
+  },
+  "공유자에 부서 회사 사용자 그룹과 같은 \\n그룹이 포함되어 있습니다.\\n그룹을 제외한 사용자만 표시됩니다." : {
+    "en" : "A group (department, company, user group) \\n is included as a Sharer.\\n Only individual users, excluding group users, will be displayed.",
+    "ja" : "共有者に部署会社ユーザーグルップと同じ\\nグループが含まれています。\\nグループを除いたユーザーのみ表示されます。",
+    "vi" : "Nhóm tương tự như nhóm người dùng trong bộ phận được chia sẻ. Người dùng không ở trong nhóm sẽ được hiển thị.",
+    "zh" : "共享者中包括部门公司用户群的\\n集团。仅显示\\n集团外的用户。"
+  },
+  "이번 일정만 삭제" : {
+    "en" : "Delete this event only",
+    "ja" : "今回のスケジュールのみ削除",
+    "vi" : "Xóa sự kiện lần này thôi",
+    "zh" : "只删除这次日程"
+  },
+  "제목을 입력하세요." : {
+    "en" : "Enter a title.",
+    "ja" : "題名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề.",
+    "zh" : "请输入题目。"
+  },
+  "기념일 등록" : {
+    "en" : "Add Anniversary",
+    "ja" : "記念日登録",
+    "vi" : "Thêm ngày kỷ niệm",
+    "zh" : "登录纪念日"
+  },
+  "반복 주기" : {
+    "en" : "Repeat Cycle",
+    "ja" : "繰返し周期",
+    "vi" : "Chu kỳ lặp lại",
+    "zh" : "反复周期"
+  },
+  "세번째" : {
+    "en" : "Third",
+    "ja" : "３番目",
+    "vi" : "Thứ ba",
+    "zh" : "第三次"
+  },
+  "공유상태 삭제" : {
+    "en" : "Delete Share status",
+    "ja" : "共有状態削除",
+    "vi" : "Xóa trạng thái chia sẻ",
+    "zh" : "删除共享状态"
+  },
+  "저장되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã được lưu",
+    "zh" : "保存完了。"
+  },
+  "등록된 일정 정보가 없습니다." : {
+    "en" : "No schedule information registered.",
+    "ja" : "登録された日程情報がありません。",
+    "vi" : "Không có thông tin lịch trình đăng ký.",
+    "zh" : "无已登记的日程信息。"
+  },
+  "검색 결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果がありません。",
+    "vi" : "Không kết quả",
+    "zh" : "没有搜索结果。"
+  },
+  "반복 일정에서 이번 일정과 향후 일정을 모두 수정하고 있습니다." : {
+    "en" : "Modifying this schedule and all future schedules in the recurring schedule.",
+    "ja" : "繰り返しスケジュール内でこのスケジュールと今後のスケジュールをすべて変更しています。",
+    "vi" : "Chỉnh sửa lịch trình này và tất cả lịch trình tiếp theo trong lịch trình định kỳ.",
+    "zh" : "修改此日程和循环日程中所有未来的日程。"
+  },
+  "음" : {
+    "en" : "lunar",
+    "ja" : "陰",
+    "vi" : "Âm",
+    "zh" : "阴历"
+  },
+  "첫번째" : {
+    "en" : "First",
+    "ja" : "１番目",
+    "vi" : "Thứ nhất",
+    "zh" : "第一次"
+  },
+  "소유부서" : {
+    "en" : "Owned department",
+    "ja" : "所有部署",
+    "vi" : "Bộ phận sở hữu",
+    "zh" : "所有部门"
+  },
+  "문자" : {
+    "en" : "character",
+    "ja" : "文字",
+    "vi" : "Văn bản",
+    "zh" : "字符"
+  },
+  "일정대리인" : {
+    "en" : "Schedule agent",
+    "ja" : "日程代理人",
+    "vi" : "Người đại diện lịch trình",
+    "zh" : "日程代替人"
+  },
+  "손님" : {
+    "en" : "Guest",
+    "ja" : "ゲスト",
+    "vi" : "Khách",
+    "zh" : "客人"
+  },
+  "할일이 등록 되었습니다" : {
+    "en" : "A new 'Task to do' has been added.",
+    "ja" : "タスクが登録されました。",
+    "vi" : "Công việc mới đã được đăng ký",
+    "zh" : "要做的工作登录完了。"
+  },
+  "내림차순" : {
+    "en" : "Descending",
+    "ja" : "降順",
+    "vi" : "Giảm dần",
+    "zh" : "递减"
+  },
+  "마감" : {
+    "en" : "Deadline",
+    "ja" : "締め切り",
+    "vi" : "Hạn cuối",
+    "zh" : "结束"
+  },
+  "공유함" : {
+    "en" : "Share Box",
+    "ja" : "共有",
+    "vi" : "Chia sẻ",
+    "zh" : "共有箱"
+  },
+  "사용자의 일정이 없습니다." : {
+    "en" : "User has no schedule.",
+    "ja" : "ユーザーのスケジュールがありません。",
+    "vi" : "Không có sự kiện của người dùng",
+    "zh" : "没有使用者的日程。"
+  },
+  "쪽지 발송" : {
+    "en" : "Send Message",
+    "ja" : "メッセージ送信",
+    "vi" : "Gửi lời nhắn",
+    "zh" : "发送纸条"
+  },
+  "할일 폴더를 관리합니다." : {
+    "en" : "Manage 'Tasks to do' folder.",
+    "ja" : "タスクフォルダを管理します。",
+    "vi" : "Quản lý thư mục tác vụ",
+    "zh" : "管理得做的事文件夹"
+  },
+  "권한이 없습니다." : {
+    "en" : "You have no permission.",
+    "ja" : "権限がありません",
+    "vi" : "Không có quyền hạn.",
+    "zh" : "没有权限。"
+  },
+  "일정 공개여부" : {
+    "en" : "Open Schedule to Public?",
+    "ja" : "日程公開可否",
+    "vi" : "Hiện sự kiện",
+    "zh" : "是否公开日程"
+  },
+  "기념일을 선택하세요." : {
+    "en" : "Select the anniversary date",
+    "ja" : "記念日を選択してください。",
+    "vi" : "Hãy chọn ngày kỷ niệm.",
+    "zh" : "请选择纪念日。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "일정대리자" : {
+    "en" : "Schedule Agent",
+    "ja" : "日程代理者",
+    "vi" : "Lịch trình đại diện",
+    "zh" : "固定代理人"
+  },
+  "이미 처리되었습니다." : {
+    "en" : "It has already been processed.",
+    "ja" : "すでに処理されました。",
+    "vi" : "Đã được xử lý.",
+    "zh" : "已经处理了"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "개월마다" : {
+    "en" : "Every (       ) month(s)",
+    "ja" : "ヵ月ごとに",
+    "vi" : "Mỗi tháng",
+    "zh" : "每 个月"
+  },
+  "도움말" : {
+    "en" : "Help",
+    "ja" : "ヘルプ",
+    "vi" : "Trợ giúp",
+    "zh" : "帮助"
+  },
+  "요일" : {
+    "en" : "day",
+    "ja" : "曜日",
+    "vi" : "Ngày",
+    "zh" : "星期"
+  },
+  "부서 캘린더" : {
+    "en" : "Department Calendar",
+    "ja" : "部署カレンダー",
+    "vi" : "Lịch bộ phận",
+    "zh" : "部门日历"
+  },
+  "공유일정이 취소되었습니다." : {
+    "en" : "Shared schedule has been canceled.",
+    "ja" : "共有スケジュールがキャンセルされました。",
+    "vi" : "Lịch chia sẻ đã bị hủy.",
+    "zh" : "已取消共享日程。"
+  },
+  "한국어" : {
+    "en" : "Korean",
+    "ja" : "韓国語",
+    "vi" : "Tiếng Hàn",
+    "zh" : "韩国语"
+  },
+  "메모 발송" : {
+    "en" : "Send memo",
+    "ja" : "メモ送信",
+    "vi" : "Gửi ghi",
+    "zh" : "发送字条"
+  },
+  "직위/직책" : {
+    "en" : "Job Position/Duty",
+    "ja" : "職位/役職",
+    "vi" : "Chức danh",
+    "zh" : "职位/职责"
+  },
+  "향후 일정 모두 수정" : {
+    "en" : "Modify all future events.",
+    "ja" : "今後のスケジュールをすべて修正",
+    "vi" : "Sửa tất cả sự kiện",
+    "zh" : "以后日程全部修改"
+  },
+  "기념일 알람 메세지 입니다." : {
+    "en" : "This is an anniversary notification message.",
+    "ja" : "記念日アラームメッセージです。",
+    "vi" : "Tin nhắn thông báo ngày kỷ niệm.",
+    "zh" : "纪念日提醒短信"
+  },
+  "일" : {
+    "en" : "day",
+    "ja" : "日",
+    "vi" : "Ngày",
+    "zh" : "星期日"
+  },
+  "새 폴더 만들기" : {
+    "en" : "Create a new folder",
+    "ja" : "新しいフォルダを作成",
+    "vi" : "Tạo thư mục mới",
+    "zh" : "做新的文件夹"
+  },
+  "화요일" : {
+    "en" : "Tuesday",
+    "ja" : "火曜日",
+    "vi" : "Thứ ba",
+    "zh" : "周二"
+  },
+  "말머리 없음" : {
+    "en" : "No headings",
+    "ja" : "表題なし",
+    "vi" : "Không có Lời nói đầu",
+    "zh" : "没有话头"
+  },
+  "부재정보" : {
+    "en" : "Absence Information",
+    "ja" : "不在情報",
+    "vi" : "Thông tin vắng mặt",
+    "zh" : "缺勤信息"
+  },
+  "말머리 50개까지 등록,한글 기준 50자이내,특수문자(',\",\\,/,{,},<,>) 제한" : {
+    "en" : "Register up to 50 subject lines, up to 50 characters in Korean, special characters (',\",,/,{,},<,>) restricted",
+    "ja" : "件名50個まで登録、ハングル基準50字以内、特殊文字(',\",,/,{,},<,>) 制限",
+    "vi" : "Đăng ký tối đa 50 đầu đề, tối đa 50 ký tự tiếng Hàn, hạn chế ký tự đặc biệt (',\",,/,{,},<,>).",
+    "zh" : "最多可注册 50 个标题，韩语最多 50 个字符，特殊字符（',\",,/,{,},<,>）受限"
+  },
+  "날짜를 입력하세요." : {
+    "en" : "Enter a date.",
+    "ja" : "日付を入力してください。",
+    "vi" : "Nhập ngày.",
+    "zh" : "请输入日子。"
+  },
+  "환경설정" : {
+    "en" : "Preferences",
+    "ja" : "環境設定",
+    "vi" : "Cài đặt môi trường",
+    "zh" : "设定环境"
+  },
+  "로그인 확인" : {
+    "en" : "Confirm Login",
+    "ja" : "ログイン確認",
+    "vi" : "Xác nhận đăng nhập",
+    "zh" : "确认登录"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部門",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space in Charge",
+    "ja" : "スペースのホスト",
+    "vi" : "gười phụ trách Space",
+    "zh" : "空间负责人"
+  },
+  "할일 등록" : {
+    "en" : "To-do registration",
+    "ja" : "タスク登録",
+    "vi" : "Thêm công việc cần làm",
+    "zh" : "登记待办事项"
+  },
+  "종일" : {
+    "en" : "All-day",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "整天"
+  },
+  "매주" : {
+    "en" : "Every week",
+    "ja" : "每周",
+    "vi" : "Hàng tuần",
+    "zh" : "每星期"
+  },
+  "반복 날짜를 입력하세요." : {
+    "en" : "Please select a repeat date.",
+    "ja" : "繰返しの日付を入力してください。",
+    "vi" : "Hãy chọn ngay lặp lại",
+    "zh" : "请输入反复日子。"
+  },
+  "종일일정 사용시에 자원예약을 할수 없습니다." : {
+    "en" : "When 'All Day' is selected for an event, you cannot book resources.",
+    "ja" : "終日スケジュールの使用の場合、資源予約はできません。",
+    "vi" : "Khi mục \"Cả ngày\" được chọn cho sự kiện, bạn không thể đặt trước nguồn lực.",
+    "zh" : "使用整天日程的话不可预订资源。"
+  },
+  "정회원" : {
+    "en" : "Regular member",
+    "ja" : "レギュラー会員",
+    "vi" : "Thành viên thông thường",
+    "zh" : "正式会员"
+  },
+  "다음 일정 <em>{0}</em> 부터" : {
+    "en" : "A next schedule from <em>{0}</em>",
+    "ja" : "次のスケジュール<em>{0}</em>から",
+    "vi" : "Lịch trình tiếp theo từ <em>{0}</em>",
+    "zh" : "下一个日程<em>{0}</em>开始"
+  },
+  "일정 검색" : {
+    "en" : "Search Schedule",
+    "ja" : "スケジュール検索",
+    "vi" : "Tìm kiếm lịch trình",
+    "zh" : "搜索日程"
+  },
+  "개인 캘린더" : {
+    "en" : "Personal calendar",
+    "ja" : "個人カレンダー",
+    "vi" : "Lịch cá nhân",
+    "zh" : "个人日历"
+  },
+  "예약사용시 반복종료일을 지정해야 합니다.\\n반복을 재설정 하시겠습니까?" : {
+    "en" : "In the case of scheduled use, repeat end date must be designated. Choose to reset repeat?",
+    "ja" : "予約を使用する場合には繰返し終了日を指定する必要があります。\\n繰返しを再設定しますか？",
+    "vi" : "Trong trường hợp sử dụng đặt trước, ngày kết thúc lặp lại phải được chỉ định. Chọn đặt lại lặp lại?",
+    "zh" : "使用预约时要指定反复结束日。\\n要再设定反复吗？"
+  },
+  "매월 같은 날" : {
+    "en" : "Same day every month",
+    "ja" : "毎月同じ日",
+    "vi" : "Ngày giống nhau hàng tháng",
+    "zh" : "每月同一个日"
+  },
+  "한국어는 필수 입력 언어입니다. 입력하지 않은 언어는 한국어로 표시됩니다." : {
+    "en" : "Korean is set as the default language. All languages that have not been entered will be shown in Korean.",
+    "ja" : "韓国語は必須入力言語です。入力していない言語は韓国語で表示されます。",
+    "vi" : "Tiếng Hàn là ngôn ngữ nhập mặc định. Trừ khi ngôn ngữ khác được chọn, nếu không sẽ dùng tiếng Hàn.",
+    "zh" : "韩语是必须输入语言。没输入的语言会表示为韩语"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "일정 조회" : {
+    "en" : "View events",
+    "ja" : "スケジュール照会",
+    "vi" : "Xem sự kiện",
+    "zh" : "查询日程"
+  },
+  "웹 쪽지" : {
+    "en" : "Web message",
+    "ja" : "Webメッセージ",
+    "vi" : "Tin nhắn web",
+    "zh" : "网络信息"
+  },
+  "회의 승인자" : {
+    "en" : "Meeting approver",
+    "ja" : "会議承認者",
+    "vi" : "Người phê duyệt cuộc họp",
+    "zh" : "会议承认者"
+  },
+  "부터" : {
+    "en" : "From",
+    "ja" : "から",
+    "vi" : "Từ",
+    "zh" : "开始"
+  },
+  "지난 할일 <em>{0}</em>건이 있습니다." : {
+    "en" : "<em>{0}</em> are overdue.",
+    "ja" : "過去のタスク <em>{0}</em>件あります。",
+    "vi" : "Có <em>{0}</em> công việc đã qua.",
+    "zh" : "过去待办事项共<em>{0}</em> 项。"
+  },
+  "월간" : {
+    "en" : "Month",
+    "ja" : "月間",
+    "vi" : "Tháng",
+    "zh" : "月间"
+  },
+  "장소는 한글 16자 이내, 영어 50자 이내로 입력하세요." : {
+    "en" : "Location must be less than 16 characters in Korean or 50 characters in English.",
+    "ja" : "場所はハングル16文字以内、英語50文字以内で入力してください。",
+    "vi" : "Hãy nhập địa chỉ dưới 16 chữ tiếng Hàn, 50 chữ tiếng Anh.",
+    "zh" : "地点输入为韩文16字以内, 英文 50字以内。"
+  },
+  "공용 캘린더 목록" : {
+    "en" : "Public (Shared) Calendar List",
+    "ja" : "共用カレンダーリスト",
+    "vi" : "Danh sách lịch chia sẻ",
+    "zh" : "公用日历目录"
+  },
+  "사용자명" : {
+    "en" : "Username",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "직책선택" : {
+    "en" : "Select a duty",
+    "ja" : "役職を選択",
+    "vi" : "Chọn phận sự",
+    "zh" : "选择职责"
+  },
+  "캘린더를 확인하려면 아래 [캘린더 보기]를 클릭하세요." : {
+    "en" : "To check the calendar, click [View Calendar] below.",
+    "ja" : "カレンダーを確認するには、下の[カレンダー表示]をクリックしてください。",
+    "vi" : "Hãy nhấn vào [Xem lịch] để kiểm tra lịch.",
+    "zh" : "要确认日历的话请点击下边[看日历]"
+  },
+  "반복 일정" : {
+    "en" : "repeated events",
+    "ja" : "繰返しスケジュール",
+    "vi" : "Sự kiện lặp lại",
+    "zh" : "反复日程"
+  },
+  "예약사용" : {
+    "en" : "Use reservations",
+    "ja" : "予約使用",
+    "vi" : "Sử dụng giữ chỗ",
+    "zh" : "使用预约"
+  },
+  "기한을 수정했습니다." : {
+    "en" : "The deadline has been modified.",
+    "ja" : "期限を修正しました。",
+    "vi" : "Hạn chót đã được sửa đổi.",
+    "zh" : "修改了到期日。"
+  },
+  "말머리를 입력해주세요." : {
+    "en" : "Enter a heading.",
+    "ja" : "表題を入力してください。",
+    "vi" : "Nhập Lời nói đầu.",
+    "zh" : "请输入话头。"
+  },
+  "공개 : 일정 등록시 공개, 비공개 : 일정 등록시 비공개" : {
+    "en" : "Public: When registering a schedule, disclose it to the public. Private: When registering a schedule, keep it private.",
+    "ja" : "公開：日程登録の際、公開、非公開：日程登録の際、非公開",
+    "vi" : "Công khai: Khi đăng ký kế hoạch làm việc, công khai, Riêng tư: Khi đăng ký kế hoạch làm việc, giấu đi.",
+    "zh" : "公开：上传日程时公开， 非公开：上传日程时非公开"
+  },
+  "약속 없음" : {
+    "en" : "No appointments",
+    "ja" : "アポイントなし",
+    "vi" : "Không có hẹn trước",
+    "zh" : "没有约会"
+  },
+  "이전 년도" : {
+    "en" : "Previous year",
+    "ja" : "前の年度",
+    "vi" : "Năm trước",
+    "zh" : "前一年"
+  },
+  "전체 소유자" : {
+    "en" : "Owner (All)",
+    "ja" : "すべての所有者",
+    "vi" : "Tất cả các chủ sở hữu",
+    "zh" : "所有业主"
+  },
+  "저장" : {
+    "en" : "Save",
+    "ja" : "保存",
+    "vi" : "Lưu",
+    "zh" : "存储"
+  },
+  "일정 조회는 최대 3개월까지 가능합니다." : {
+    "en" : "You can check the schedule for up to three months.",
+    "ja" : "日程照会は最大3か月まで可能です。",
+    "vi" : "Bạn có thể kiểm tra kế hoạch làm việc trong tối đa ba tháng.",
+    "zh" : "日程最多可查询3个月。"
+  },
+  "메일" : {
+    "en" : "E-mail",
+    "ja" : "メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "이번 일정만 수정" : {
+    "en" : "Modify this event only",
+    "ja" : "今回のスケジュールのみ修正",
+    "vi" : "Sửa sự kiện lần này thôi",
+    "zh" : "只修改这次日程"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời gian",
+    "zh" : "期间"
+  },
+  "계정" : {
+    "en" : "Account",
+    "ja" : "アカウント",
+    "vi" : "Tài khoản",
+    "zh" : "帐户"
+  },
+  "사용여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Có sử dụng hay không",
+    "zh" : "是否使用"
+  },
+  "상세 보기" : {
+    "en" : "View details",
+    "ja" : "詳細を見る",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细看"
+  },
+  "매주 화요일,목요일" : {
+    "en" : "Every Tuesday , Thursday",
+    "ja" : "毎週火曜日、木曜日",
+    "vi" : "Thứ 3, Thứ 5 hàng tuần",
+    "zh" : "每周二，四"
+  },
+  "내 캘린더 목록" : {
+    "en" : "My calendar list",
+    "ja" : "Myカレンダーリスト",
+    "vi" : "Danh sách lịch của tôi",
+    "zh" : "我的日历目录"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không dùng",
+    "zh" : "不使用"
+  },
+  "반복" : {
+    "en" : "Repeat",
+    "ja" : "繰返し",
+    "vi" : "Lặp lại",
+    "zh" : "反复"
+  },
+  "영어" : {
+    "en" : "English",
+    "ja" : "英語",
+    "vi" : "Tiếng Anh",
+    "zh" : "英语"
+  },
+  "정상 부서" : {
+    "en" : "Departments (Normal)",
+    "ja" : "正常部署",
+    "vi" : "Phòng ban bình thường",
+    "zh" : "部门部门"
+  },
+  "다음 할일" : {
+    "en" : "Next task",
+    "ja" : "次のタスク",
+    "vi" : "Việc sẽ làm tiếp theo",
+    "zh" : "下列得做的事"
+  },
+  "전체캘린더" : {
+    "en" : "All calendars",
+    "ja" : "全体カレンダー",
+    "vi" : "Toàn bộ lịch",
+    "zh" : "全体日历"
+  },
+  "부재 일정" : {
+    "en" : "Absence schedule",
+    "ja" : "欠席スケジュール",
+    "vi" : "Lịch trình vắng mặt",
+    "zh" : "缺席日程"
+  },
+  "대리 캘린더" : {
+    "en" : "Delegate (Agent) Calendar",
+    "ja" : "代理カレンダー",
+    "vi" : "Lịch của Người đại diện",
+    "zh" : "代替日历"
+  },
+  "공유수락" : {
+    "en" : "Accept sharing",
+    "ja" : "共有受諾",
+    "vi" : "Đồng ý chia sẻ",
+    "zh" : "接受共有"
+  },
+  "문서함" : {
+    "en" : "Document Box",
+    "ja" : "文書",
+    "vi" : "Hộp tài liệu",
+    "zh" : "文件箱"
+  },
+  "반복 마감일" : {
+    "en" : "Repeat End Date",
+    "ja" : "繰返し締め切り",
+    "vi" : "Ngày kết thúc lặp lại",
+    "zh" : "反复结束日"
+  },
+  "기념일은 한글 16자 이내, 영어 50자 이내로 입력하세요." : {
+    "en" : "Anniversary must be less than 16 Korean characters or 50 English characters.",
+    "ja" : "記念日はハングル16文字以内、英語50文字以内で入力してください",
+    "vi" : "Hãy nhập ngày kỷ niệm dưới 16 chữ tiếng Hàn, dưới 50 chữ tiếng Anh.",
+    "zh" : "纪念日输入为韩文16字以内, 英文 50字以内。"
+  },
+  "부재 표시 설정" : {
+    "en" : "Absence Indicator Settings",
+    "ja" : "不在表示設定",
+    "vi" : "Cài đặt hiển thị trạng thái vắng mặt",
+    "zh" : "缺席显示设置"
+  },
+  "확인" : {
+    "en" : "OK",
+    "ja" : "確認",
+    "vi" : "Xác nhận",
+    "zh" : "确认"
+  },
+  "종일일정" : {
+    "en" : "All-Day Event",
+    "ja" : "終日スケジュール",
+    "vi" : "Sự kiện cả ngày",
+    "zh" : "整天日程"
+  },
+  "일정보기 초기화면" : {
+    "en" : "View Schedule_Home Screen",
+    "ja" : "スケジュール表示の初期画面",
+    "vi" : "Xem lịch_Trang đầu",
+    "zh" : "看日程首页"
+  },
+  "대리인과 대상자는 동일할 수 없습니다." : {
+    "en" : "The agent and the target person cannot be the same.",
+    "ja" : "代理人と対象者は同じ人に設定はできません。",
+    "vi" : "Người đại diện và chủ thể không được giống nhau.",
+    "zh" : "代替人和对象人不能是同一人。"
+  },
+  "매년 같은 날" : {
+    "en" : "Same day every year",
+    "ja" : "毎年同じ日",
+    "vi" : "Ngày giống nhau hàng năm",
+    "zh" : "每年同一个日"
+  },
+  "다음 예약 <em>{0}</em> 부터" : {
+    "en" : "A next reservation from <em>{0}</em>",
+    "ja" : "次の予約<em>{0}</em>から",
+    "vi" : "Lịch hẹn tiếp theo từ <em>{0}</em>",
+    "zh" : "下个预约<em>{0}</em>开始"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "掲示板",
+    "vi" : "Bảng tin",
+    "zh" : "布告栏"
+  },
+  "자세히" : {
+    "en" : "Details",
+    "ja" : "詳しく",
+    "vi" : "Chi tiết",
+    "zh" : "详细"
+  },
+  "소유자가 삭제자입니다. \\n 소유자를 변경하거나 캘린더를 삭제해주세요." : {
+    "en" : "The owner is the person who has deleted it. \\nPlease change the owner or delete the calendar.",
+    "ja" : "所有者が削除者です。\\n 所有者を変更するかカレンダーを削除してください。",
+    "vi" : "Chủ sở hữu là người xóa. \\n Vui lòng đổi chủ sở hữu hoặc xóa lịch.",
+    "zh" : "所有人为删除人。\\n请更改所有人或删除日历。"
+  },
+  "회의일정" : {
+    "en" : "Meeting schedule",
+    "ja" : "会議スケジュール",
+    "vi" : "Lịch họp",
+    "zh" : "会议日程"
+  },
+  "내 캘린더" : {
+    "en" : "My calendar",
+    "ja" : "マイカレンダー",
+    "vi" : "Lịch của tôi",
+    "zh" : "我的日历"
+  },
+  "연동" : {
+    "en" : "Link with",
+    "ja" : "連動",
+    "vi" : "Liên kết với",
+    "zh" : "联动"
+  },
+  "반복 종료일을 선택하셔야 합니다." : {
+    "en" : "Please select a date to end repeat.",
+    "ja" : "繰返し終了日を選択してください。",
+    "vi" : "Bạn phải chọn ngày kết thúc lặp lại.",
+    "zh" : "您得选择反复结束日。"
+  },
+  "모두선택" : {
+    "en" : "Select All",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "选择全部"
+  },
+  "매년" : {
+    "en" : "Every year",
+    "ja" : "毎年",
+    "vi" : "Hàng năm",
+    "zh" : "每年"
+  },
+  "마감일" : {
+    "en" : "Deadline date",
+    "ja" : "締め切り日",
+    "vi" : "Ngày hết hạn",
+    "zh" : "结束日"
+  },
+  "캘린더를 공유 했습니다." : {
+    "en" : "Calendar has been shared.",
+    "ja" : "カレンダーを共有しました。",
+    "vi" : "Lịch đã được chia sẻ.",
+    "zh" : "已共享日历。"
+  },
+  "허용되지 않는 특수기호가 있습니다." : {
+    "en" : "It contains a special character that is not allowed.",
+    "ja" : "許可されていない特殊記号があります。",
+    "vi" : "Có kí hiệu đặc biệt không được cho phép.",
+    "zh" : "有不允许使用的特殊符号。"
+  }
+}

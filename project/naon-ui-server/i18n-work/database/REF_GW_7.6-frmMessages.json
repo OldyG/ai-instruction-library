@@ -1,0 +1,4754 @@
+{
+  "구문 오류" : {
+    "en" : "Syntax error",
+    "ja" : "構文エラー",
+    "vi" : "Lỗi cú pháp",
+    "zh" : "语法错误"
+  },
+  "업무보고" : {
+    "en" : "Task Report",
+    "ja" : "業務報告",
+    "vi" : "Báo cáo",
+    "zh" : "业务报告"
+  },
+  "주소" : {
+    "en" : "Address",
+    "ja" : "アドレス",
+    "vi" : "Địa chỉ",
+    "zh" : "地址"
+  },
+  "양식 정보" : {
+    "en" : "Form Information",
+    "ja" : "フォーム情報",
+    "vi" : "Thông tin bản mẫu",
+    "zh" : "编辑样式"
+  },
+  "설명을 입력하세요." : {
+    "en" : "Enter description.",
+    "ja" : "説明を入力してください。",
+    "vi" : "Thêm mô tả.",
+    "zh" : "请输入说明。"
+  },
+  "요청 URL를 입력해 주세요." : {
+    "en" : "Please enter a request URL.",
+    "ja" : "要請URLを入力してください。",
+    "vi" : "Vui lòng nhập URL yêu cầu của bạn.",
+    "zh" : "请输入邀请URL。"
+  },
+  "파라미터 값을 입력하세요." : {
+    "en" : "Please enter the parameter value.",
+    "ja" : "パラメーターの値を入力してください。",
+    "vi" : "Vui lòng nhập giá trị tham số.",
+    "zh" : "请输入参数值。"
+  },
+  "버튼명" : {
+    "en" : "Button name",
+    "ja" : "ボタン名",
+    "vi" : "Tên nút",
+    "zh" : "按钮名"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "접수일자" : {
+    "en" : "Date (Submitted)",
+    "ja" : "受付日",
+    "vi" : "Thời gian tiếp nhận",
+    "zh" : "接受日子"
+  },
+  "등록된 상태가 없습니다." : {
+    "en" : "No registered status.",
+    "ja" : "登録された状態がありません。",
+    "vi" : "Không có trạng thái đã đăng ký.",
+    "zh" : "没有登录的状态"
+  },
+  "양식을 하나만 선택 하세요." : {
+    "en" : "Please select a single form.",
+    "ja" : "フォームを1つだけ選択してください。",
+    "vi" : "Vui lòng chỉ chọn một bản mẫu",
+    "zh" : "请选择一个样式。"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "시간형식이 잘못되었습니다." : {
+    "en" : "Invalid time format.",
+    "ja" : "時間の形式が正しくありません。",
+    "vi" : "Hình thức thời gian không đúng.",
+    "zh" : "时间形式有错误。"
+  },
+  "영문자를 입력하여 주세요." : {
+    "en" : "Please enter an English character.",
+    "ja" : "ローマ字を入力してください。",
+    "vi" : "Vui lòng nhập một ký tự tiếng Anh.",
+    "zh" : "请输入英文字母。"
+  },
+  "글자색 적용" : {
+    "en" : "Apply Font Color",
+    "ja" : "文字色の適用",
+    "vi" : "Áp dụng màu chữ",
+    "zh" : "适用文字色"
+  },
+  "길이" : {
+    "en" : "length",
+    "ja" : "の長さ",
+    "vi" : "chiều dài",
+    "zh" : "长度"
+  },
+  "미리보기 파일이 존재하지 않습니다." : {
+    "en" : "No preview file found.",
+    "ja" : "プレビューファイルが存在しません。",
+    "vi" : "Tập tin xem trước không tồn tại.",
+    "zh" : "不存在预览附件。"
+  },
+  "문서내용시작" : {
+    "en" : "Document content start",
+    "ja" : "ドキュメント内容の最初",
+    "vi" : "Bắt đầu nội dung tài liệu",
+    "zh" : "文件内容开始"
+  },
+  "제목을 반드시 선택하세요." : {
+    "en" : "You must select a title.",
+    "ja" : "タイトルを必ず選択してください。",
+    "vi" : "Bạn phải chọn tiêu đề.",
+    "zh" : "必须得选择题目。"
+  },
+  "양식 유형은 한 번 설정되면 변경할 수 없습니다." : {
+    "en" : "You cannot make any changes to a form type once they are set.",
+    "ja" : "フォームタイプは一度設定すると変更できません。",
+    "vi" : "Bạn không thể thay đổi loại bản mẫu nếu đã cài đặt.",
+    "zh" : "设定样式类型以后不可再变更。"
+  },
+  "프로시저 이름" : {
+    "en" : "Procedure name",
+    "ja" : "手順名",
+    "vi" : "Tên thủ tục",
+    "zh" : "子过程名字"
+  },
+  "수신처여부" : {
+    "en" : "Destination Status",
+    "ja" : "受信先可否",
+    "vi" : "Nơi nhận",
+    "zh" : "是否为收信处"
+  },
+  "높이" : {
+    "en" : "Height",
+    "ja" : "高さ",
+    "vi" : "Chiều cao",
+    "zh" : "高度"
+  },
+  "사원코드" : {
+    "en" : "Employee code",
+    "ja" : "社員コード",
+    "vi" : "Mã số nhân viên",
+    "zh" : "职员编码"
+  },
+  "{0} 유형에 {1} 유형의 양식을 업로드할 수 없습니다." : {
+    "en" : "{1} format type cannot be uploaded in {0} type.",
+    "ja" : "{0}タイプに{1}タイプの様式をアップロードすることはできません。",
+    "vi" : "Không thể tải lên mẫu của loại hình {1} trong loại hình {0}.",
+    "zh" : "无法在{0}类型上传{1}类型的格式。"
+  },
+  "셀병합 해제" : {
+    "en" : "Unmerge Cells",
+    "ja" : "セル結合を解除",
+    "vi" : "Hủy sáp nhập cột",
+    "zh" : "解除合并单元"
+  },
+  "HWP 연동양식" : {
+    "en" : "HWP Linked Form",
+    "ja" : "HWP連動タイプ",
+    "vi" : "Loại Macro (HWP)",
+    "zh" : "宏程序类型(HWP)"
+  },
+  "계속하시겠습니까?" : {
+    "en" : "Do you want to continue?",
+    "ja" : "続行しますか？",
+    "vi" : "Bạn có muốn tiếp tục không?",
+    "zh" : "要继续进行吗？"
+  },
+  "데이터가 존재하지 않습니다." : {
+    "en" : "Data doesn't exist.",
+    "ja" : "データが存在しません。",
+    "vi" : "Dữ liệu không tồn tại.",
+    "zh" : "不存在数据。"
+  },
+  "문서 없음(상신실패)" : {
+    "en" : "No Document (Report Failed)",
+    "ja" : "文書なし（上申失敗）",
+    "vi" : "Không có tài liệu (nộp thất bại)",
+    "zh" : "没有文件（上信失败）"
+  },
+  "테이블" : {
+    "en" : "Table",
+    "ja" : "テーブル",
+    "vi" : "Bảng",
+    "zh" : "表格"
+  },
+  "반복 행이 다수이거나 복잡한 구성을 가지고 있을 경우, AI가 생성을 할 수 있도록 설명합니다." : {
+    "en" : "If there are many repeating rows or a complex structure, the AI can generate it for you.",
+    "ja" : "繰り返し行が多い場合や複雑な構成を持つ場合、AIが生成できるように説明してください。",
+    "vi" : "Nếu có nhiều hàng lặp lại hoặc cấu trúc phức tạp, hãy giải thích để AI có thể tạo.",
+    "zh" : "当存在大量重复行或复杂结构时，系统会提示您可使用AI辅助生成。"
+  },
+  "기본정보" : {
+    "en" : "Basic information",
+    "ja" : "基本情報",
+    "vi" : "Thông tin cơ bản",
+    "zh" : "基本信息"
+  },
+  "금액" : {
+    "en" : "Amount",
+    "ja" : "金額",
+    "vi" : "Số lượng",
+    "zh" : "金额"
+  },
+  "참조자" : {
+    "en" : "Referrer",
+    "ja" : "参照者",
+    "vi" : "Người tham khảo",
+    "zh" : "参照人"
+  },
+  "인터페이스 명을 입력하세요." : {
+    "en" : "Please enter the interface name.",
+    "ja" : "インタフェース名を入力してください。",
+    "vi" : "Hãy nhập tên giao diện.",
+    "zh" : "请输入界面名称。"
+  },
+  "이벤트 발생시 호출" : {
+    "en" : "Call when an event occurs",
+    "ja" : "イベント発生時の呼び出し",
+    "vi" : "Gọi khi phát hành sự kiện",
+    "zh" : "发生问题时传呼"
+  },
+  "글자 바탕색 적용" : {
+    "en" : "Apply Font Background Color",
+    "ja" : "文字の背景色を適用",
+    "vi" : "Áp dụng màu nền chữ",
+    "zh" : "适用文字背景色"
+  },
+  "기안부서장" : {
+    "en" : "Head of Drafting Department",
+    "ja" : "起案部署長",
+    "vi" : "Trưởng ban soạn thảo",
+    "zh" : "起案部门长"
+  },
+  "문서내용" : {
+    "en" : "Document content",
+    "ja" : "ドキュメント内容",
+    "vi" : "Nội dung văn bản",
+    "zh" : "文件内容"
+  },
+  "저장 되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "고정결재선(텍스트)" : {
+    "en" : "Fixed Line of Approval (Text)",
+    "ja" : "固定決裁ライン（テキスト）",
+    "vi" : "Các quy trình phê duyệt cố định (Văn bản)",
+    "zh" : "固定批准线（原文）"
+  },
+  "차장" : {
+    "en" : "Deputy General Manager",
+    "ja" : "次長",
+    "vi" : "Người chỉ huy",
+    "zh" : "次长"
+  },
+  "인터페이스 오류" : {
+    "en" : "Interface error",
+    "ja" : "インタフェースエラー",
+    "vi" : "Lỗi giao diện",
+    "zh" : "错误接口"
+  },
+  "폼릿 저장" : {
+    "en" : "Save formlet",
+    "ja" : "フォームレット保存",
+    "vi" : "Lưu formlet",
+    "zh" : "保存Formlet"
+  },
+  "샘플 데이터로 실제 적용된 매크로와 다를 수 있습니다." : {
+    "en" : "This is the sample data. It may be different from the actual macro that has been applied.",
+    "ja" : "サンプルデータで実際に適用されたマクロとは異なる場合があります。",
+    "vi" : "Có thể khác với tập lệnh được áp dụng thực tế bằng dữ liệu mẫu.",
+    "zh" : "本数据为数据样本，可能会与实际应用批处理不同。"
+  },
+  "처리중" : {
+    "en" : "Processing",
+    "ja" : "処理中",
+    "vi" : "Đang xử lý",
+    "zh" : "处理中"
+  },
+  "양식 리소스" : {
+    "en" : "Form Resources",
+    "ja" : "フォームリソース",
+    "vi" : "Tài nguyên biểu mẫu",
+    "zh" : "表单资源"
+  },
+  "배경색 선택" : {
+    "en" : "Select background color",
+    "ja" : "背景カラー選択",
+    "vi" : "Chọn màu nền",
+    "zh" : "选择背景颜色"
+  },
+  "고정 결재칸" : {
+    "en" : "Fixed Approval Box",
+    "ja" : "固定決裁欄",
+    "vi" : "Hộp chữ ký phê duyệt mặc định",
+    "zh" : "固定批准间"
+  },
+  "양식분류명을 반드시 입력하세요." : {
+    "en" : "You must the name of the form category.",
+    "ja" : "フォームカテゴリ名を必ず入力してください。",
+    "vi" : "Bạn phải nhập tên danh mục bản mẫu.",
+    "zh" : "必须得输入样式分类名。"
+  },
+  "최대길이" : {
+    "en" : "Maximum length",
+    "ja" : "最大長さ",
+    "vi" : "Độ dài tối đa",
+    "zh" : "最大长度"
+  },
+  "리스트박스" : {
+    "en" : "List box",
+    "ja" : "リストBox",
+    "vi" : "Hộp danh sách",
+    "zh" : "目录箱"
+  },
+  "종료일" : {
+    "en" : "End Date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日"
+  },
+  "번호 목록" : {
+    "en" : "Number list",
+    "ja" : "番号リスト",
+    "vi" : "Danh sách số",
+    "zh" : "号码目录"
+  },
+  "누름틀" : {
+    "en" : "Text placeholder",
+    "ja" : "メモ機能",
+    "vi" : "Văn bản mặc định",
+    "zh" : "磙"
+  },
+  "반복 아이디" : {
+    "en" : "Repeat ID",
+    "ja" : "繰り返しID",
+    "vi" : "ID lặp lại",
+    "zh" : "重复ID"
+  },
+  "파라미터 형식" : {
+    "en" : "Parameter format",
+    "ja" : "パラメータ形式",
+    "vi" : "Định dạng tham số",
+    "zh" : "参数形式"
+  },
+  "툴바" : {
+    "en" : "Tool bar",
+    "ja" : "ツールバー",
+    "vi" : "Thanh công cụ",
+    "zh" : "工具栏"
+  },
+  "요청 URL을 입력 하세요." : {
+    "en" : "Enter Request URL.",
+    "ja" : "リクエスト URLを入力してください。",
+    "vi" : "Hãy nhập URL yêu cầu.",
+    "zh" : "请输入邀请 URL"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "열람자" : {
+    "en" : "Viewer",
+    "ja" : "閲覧者",
+    "vi" : "Người xem",
+    "zh" : "阅览者"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "기능양식 또는 연동 양식은 양식 안에 인터페이스 매핑 정보가 포함되어 있을 경우 그대로 사용 하시면 오류가 발생 할 수 있습니다." : {
+    "en" : "When a functional form or a linked form contains interface mapping information, an error may occur if you use the form as it is.",
+    "ja" : "機能フォームまたは連動フォームは中のインターフェースマッピング情報が含まれている場合、そのまま使用すると、エラーが発生する場合があります。",
+    "vi" : "Nếu bản mẫu chức năng hoặc bản mẫu được liên kết có chứa thông tin bản đồ giao diện, bạn có thể gặp lỗi khi sử dụng các form này ở dạng nguyên bản.",
+    "zh" : "功能样式和联动样式里边包括着接口映射信息的话，直接使用时会发生错误。"
+  },
+  "기존 복사한 인터페이스와 연동 정보 또는 항목이 다를 경우 신규로 등록됩니다." : {
+    "en" : "If the synched information or item is different from the previously copied interface, it'll be registered as new.",
+    "ja" : "既存のコピーしたインタフェースや連動情報・項目が異なる場合、新規で登録されます。",
+    "vi" : "Trong trường hợp thông tin liên kết hoặc hạng mục khác với giao diện đã được sao chép thì nó sẽ được đăng ký mới.",
+    "zh" : "若同步信息或项目与已复制界面不同，将登录为新建。"
+  },
+  "인터페이스 업로드 시 연동 시스템 선택이 필요하며, 동일한 유형의 시스템이 존재해야 합니다." : {
+    "en" : "A syched system must be selected when uploading an interface, and a similar type of system must exist.",
+    "ja" : "インタフェースをアップロード時は連動システムの選択が必要であり、同じタイプのシステムが存在する必要があります。",
+    "vi" : "Khi tải lên giao diện, cần lựa chọn hệ thống liên kết, và phải tồn tại cùng loại hình hệ thống.",
+    "zh" : "若上传界面，则需选择同步系统，并存在同一类型系统。"
+  },
+  "아래쪽" : {
+    "en" : "Down",
+    "ja" : "下側",
+    "vi" : "Phía dưới",
+    "zh" : "下边"
+  },
+  "홍길동" : {
+    "en" : "Gildong Hong",
+    "ja" : "ホン·ギルドン",
+    "vi" : "Hong Gil Dong",
+    "zh" : "洪吉童"
+  },
+  "협조결재선" : {
+    "en" : "Collaboration Line of Approval",
+    "ja" : "繰返しグループID",
+    "vi" : "Luông hợp tác phê duyệt",
+    "zh" : "反复组织用户名"
+  },
+  "추출 Key / Value" : {
+    "en" : "Extraction Key / Value",
+    "ja" : "抽出Key/ Value",
+    "vi" : "Chiết xuất Khóa/Giá trị",
+    "zh" : "提取 Key / Value"
+  },
+  "분류를 선택 하세요." : {
+    "en" : "Select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh loại.",
+    "zh" : "请选择分类。"
+  },
+  "입력 항목값 설정" : {
+    "en" : "Input item value setting",
+    "ja" : "入力項目値の設定",
+    "vi" : "Cài đặt giá trị mục đầu vào",
+    "zh" : "设定输入项目值"
+  },
+  "열 삭제" : {
+    "en" : "Delete Column",
+    "ja" : "列の削除",
+    "vi" : "Xóa cột",
+    "zh" : "删除列"
+  },
+  "작성권한" : {
+    "en" : "Permission to Write",
+    "ja" : "作成権限",
+    "vi" : "Quyền hạn viết",
+    "zh" : "制作权限"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "폼빌더" : {
+    "en" : "Form builder",
+    "ja" : "フォームビルダー",
+    "vi" : "Trình tạo bản mẫu",
+    "zh" : "格式Builder"
+  },
+  "작성일" : {
+    "en" : "Date (Written)",
+    "ja" : "作成日",
+    "vi" : "Ngày",
+    "zh" : "制作日"
+  },
+  "선택한 양식을 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the selected form?",
+    "ja" : "選択したフォームを削除しますか？",
+    "vi" : "Bạn có muốn xóa bản mẫu đã chọn không?",
+    "zh" : "要删除您选择的样式吗？"
+  },
+  "행을 입력하세요." : {
+    "en" : "Insert row.",
+    "ja" : "行を入力してください。",
+    "vi" : "Chèn dòng",
+    "zh" : "请输入行"
+  },
+  "Google 설정을 먼저 해주세요." : {
+    "en" : "Please configure your Google settings first.",
+    "ja" : "まずGoogleの設定を行ってください。",
+    "vi" : "Vui lòng cài đặt Google trước.",
+    "zh" : "请先设置Google。"
+  },
+  "그룹 아이디를 입력 하세요." : {
+    "en" : "Enter the Group ID.",
+    "ja" : "グループIDを入力してください。",
+    "vi" : "Hãy nhập ID nhóm.",
+    "zh" : "请输入组织用户名"
+  },
+  "SAP IN DATA 명을 입력하세요" : {
+    "en" : "Enter the SAP IN DATA name.",
+    "ja" : "SAP IN DATA名を入力してください",
+    "vi" : "Nhập tên SAP IN DATA.",
+    "zh" : "请输入 SAP IN DATA 。"
+  },
+  "한글 2007이상 설치되어 있지 않습니다. 설치 해주세요." : {
+    "en" : "Hangeul 2007 or later isn't installed. Please install it first.",
+    "ja" : "ハングル2007バージョン以上がインストールされていません。インストールしてください。",
+    "vi" : "Bạn chưa cài đặt Hancom phiên bản 2007 trở lên. Vui lòng cài đặt.",
+    "zh" : "本设备未安装韩文2007程序。请进行安装。"
+  },
+  "기본주소" : {
+    "en" : "Basic Address",
+    "ja" : "基本アドレス",
+    "vi" : "Địa chỉ chính",
+    "zh" : "基本地址"
+  },
+  "값을 입력 하세요." : {
+    "en" : "Enter a value.",
+    "ja" : "値を入力してください。",
+    "vi" : "Hãy nhập giá trị.",
+    "zh" : "请输入价"
+  },
+  "제한" : {
+    "en" : "Limit",
+    "ja" : "制限",
+    "vi" : "Giới hạn",
+    "zh" : "限制"
+  },
+  "추출 대상" : {
+    "en" : "Extract (Target)",
+    "ja" : "抽出対象",
+    "vi" : "Đối tượng trích xuất",
+    "zh" : "提取对象"
+  },
+  "오류메세지 컬럼 선택" : {
+    "en" : "Select error message column",
+    "ja" : "エラーメッセージカラム選択",
+    "vi" : "Chọn cột tin nhắn lỗi",
+    "zh" : "选择错误短信专栏"
+  },
+  "신규연동" : {
+    "en" : "New Linkage",
+    "ja" : "新規連動",
+    "vi" : "Kết nối mới",
+    "zh" : "新的联动"
+  },
+  "오류 코드 지정" : {
+    "en" : "Set error code",
+    "ja" : "エラーコード指定",
+    "vi" : "Chỉ định mã lỗi",
+    "zh" : "指定错误编码"
+  },
+  "텍스트결재선" : {
+    "en" : "Text Line of Approval",
+    "ja" : "テキスト決裁ライン",
+    "vi" : "Quy trình phê duyệt văn bản",
+    "zh" : "原文批准线"
+  },
+  "선택 안함" : {
+    "en" : "Didn't Select",
+    "ja" : "選択しない",
+    "vi" : "Không chọn",
+    "zh" : "不选择"
+  },
+  "결재" : {
+    "en" : "Approve",
+    "ja" : "決裁",
+    "vi" : "Phê duyệt",
+    "zh" : "决裁"
+  },
+  "폼릿을 추가해주세요." : {
+    "en" : "Please add a formlet.",
+    "ja" : "フォームレットを追加してください。",
+    "vi" : "Vui lòng thêm formlet.",
+    "zh" : "请添加Formlet"
+  },
+  "선택하신 분류를 찾을 수 없습니다." : {
+    "en" : "The category you selected is not found.",
+    "ja" : "選択したカテゴリが見つかりません。",
+    "vi" : "Không thể tìm thấy danh mục đã chọn.",
+    "zh" : "不可找您选择的分类。"
+  },
+  "행 높이를 입력하세요. (범위: 5~1200)" : {
+    "en" : "Set the height of the row. (range: 5~1200)",
+    "ja" : "行の高さを入力してください。(範囲：5〜1200)",
+    "vi" : "Hãy nhập chiều cao dòng (Phạm vi: 5~ 600)",
+    "zh" : "请输入行高度。（范围：5~1200）"
+  },
+  "일반양식" : {
+    "en" : "General Form",
+    "ja" : "機能フォーム",
+    "vi" : "bản mẫu bình thường",
+    "zh" : "技能样式"
+  },
+  "사용 인터페이스 등록" : {
+    "en" : "Register Interface",
+    "ja" : "使用インタフェース登録",
+    "vi" : "Thêm giao diện người dùng",
+    "zh" : "登录使用接口"
+  },
+  "인터페이스 이름" : {
+    "en" : "Interface name",
+    "ja" : "インターフェイス名",
+    "vi" : "Tên giao diện",
+    "zh" : "接口名字"
+  },
+  "화면 로드시 호출" : {
+    "en" : "Call when loading a screen",
+    "ja" : "画面ロード時の呼び出し",
+    "vi" : "Gọi khi tải màn hình",
+    "zh" : "画面登录时传呼"
+  },
+  "배경색" : {
+    "en" : "Background color",
+    "ja" : "背景色",
+    "vi" : "Màu nền",
+    "zh" : "背景颜色"
+  },
+  "자동계산" : {
+    "en" : "AutoCalculate",
+    "ja" : "自動計算",
+    "vi" : "Tính toán tự động",
+    "zh" : "自动计算"
+  },
+  "업무양식" : {
+    "en" : "Work form",
+    "ja" : "業務フォーム",
+    "vi" : "bản mẫu Công việc",
+    "zh" : "业务样式"
+  },
+  "올림" : {
+    "en" : "Rounding up",
+    "ja" : "上げる",
+    "vi" : "Làm tròn lên",
+    "zh" : "上舍入"
+  },
+  "단위" : {
+    "en" : "Unit",
+    "ja" : "単位",
+    "vi" : "Đơn vị",
+    "zh" : "单位"
+  },
+  "로그" : {
+    "en" : "Log",
+    "ja" : "ログ",
+    "vi" : "Nhật ký",
+    "zh" : "运行记录"
+  },
+  "수신처제목" : {
+    "en" : "Destination Title",
+    "ja" : "受信先件名",
+    "vi" : "Toàn bộ người nhận",
+    "zh" : "收信处题目"
+  },
+  "요청자" : {
+    "en" : "Requested by",
+    "ja" : "要請者",
+    "vi" : "Người yêu cầu",
+    "zh" : "邀请人"
+  },
+  "셀병합" : {
+    "en" : "Merge Cells",
+    "ja" : "セル結合",
+    "vi" : "Gộp cột",
+    "zh" : "合并单元"
+  },
+  "사용 여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Có sử dụng hay không",
+    "zh" : "样式类型"
+  },
+  "기관로고" : {
+    "en" : "Institution Logo",
+    "ja" : "機関ロゴ",
+    "vi" : "Logo cơ quan",
+    "zh" : "企管徽标"
+  },
+  "jpg,jpeg,png,gif 만 가능합니다." : {
+    "en" : "Only .jpg, .jpeg, .png, .gif files can be used.",
+    "ja" : "jpg、jpeg、png、gifのみ可能です。",
+    "vi" : "Chỉ có thể dùng định dạng jpg,jpeg,png,gif",
+    "zh" : "只能用 jpg,jpeg,png,gif。"
+  },
+  "글자 크기" : {
+    "en" : "Font Size",
+    "ja" : "文字サイズ",
+    "vi" : "Kích cỡ chữ",
+    "zh" : "文字大小"
+  },
+  "요청 URL" : {
+    "en" : "Request URL",
+    "ja" : "リクエストURL",
+    "vi" : "URL yêu cầu",
+    "zh" : "邀请URL"
+  },
+  "글꼴" : {
+    "en" : "Font",
+    "ja" : "フォント",
+    "vi" : "Font chữ",
+    "zh" : "字体"
+  },
+  "삭제하였습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đã xóa",
+    "zh" : "删除完了。"
+  },
+  "높이 설정" : {
+    "en" : "Set Height",
+    "ja" : "高さ設定",
+    "vi" : "Cài đặt chiều cao",
+    "zh" : "设定高度"
+  },
+  "0 보다 큰 숫자를 입력 해야 합니다." : {
+    "en" : "You must enter a number bigger than 0.",
+    "ja" : "0よりも大きい数字を入力する必要があります。",
+    "vi" : "Số nhập vào phải lớn hơn không (0).",
+    "zh" : "得输入比0大的数字。"
+  },
+  "인터페이스 유형에 맞는 시스템이 없습니다." : {
+    "en" : "A compatible system for the interface type cannot be found.",
+    "ja" : "インタフェースタイプに適したシステムがありません。",
+    "vi" : "Không có hệ thống phù hợp với loại hình giao diện.",
+    "zh" : "无符合界面类型的系统。"
+  },
+  "검색기능" : {
+    "en" : "Search function",
+    "ja" : "検索機能",
+    "vi" : "Chức năng tìm kiếm",
+    "zh" : "搜索功能"
+  },
+  "한글양식" : {
+    "en" : "Korean forms",
+    "ja" : "ハングルフォーム",
+    "vi" : "bản mẫu tiếng hàn",
+    "zh" : "韩文样式"
+  },
+  "공용폼릿" : {
+    "en" : "Shared formlets",
+    "ja" : "共用フォームレット",
+    "vi" : "Formlet được chia sẻ",
+    "zh" : "公用Formlet"
+  },
+  "라디오버튼" : {
+    "en" : "Radio button",
+    "ja" : "ラジオボタン",
+    "vi" : "Nút radio",
+    "zh" : "收音机按钮"
+  },
+  "메뉴명" : {
+    "en" : "Menu name",
+    "ja" : "メニュー",
+    "vi" : "Tên menu",
+    "zh" : "项目名"
+  },
+  "반복목록 번호" : {
+    "en" : "Repeat list number",
+    "ja" : "繰返しリスト番号",
+    "vi" : "Lặp lại số danh sách",
+    "zh" : "反复目录号码"
+  },
+  "제목을 반드시 입력하세요." : {
+    "en" : "You must enter a title.",
+    "ja" : "件名を必ず入力してください。",
+    "vi" : "Bạn phải nhập tiêu đề.",
+    "zh" : "请必须输入题目。"
+  },
+  "양식(스크립트 포함), 인터페이스, 공용 폼릿, 컨트롤 리소스를 업로드 합니다." : {
+    "en" : "Upload form (including script), interface, shared formlet, and control resources.",
+    "ja" : "フォーム（スクリプト含む）、インターフェース、共用フォームレット、コントロールリソースをアップロードします。",
+    "vi" : "Tải lên biểu mẫu (bao gồm cả script), giao diện, mẫu chung và tài nguyên điều khiển.",
+    "zh" : "上传表单（包含脚本）、接口、公共表单和控制资源。"
+  },
+  "연결 정보" : {
+    "en" : "Connection information",
+    "ja" : "接続情報",
+    "vi" : "Thông tin kết nối",
+    "zh" : "连接信息"
+  },
+  "최대" : {
+    "en" : "Max",
+    "ja" : "最大",
+    "vi" : "Tối đa",
+    "zh" : "最多"
+  },
+  "[엑셀파일]을 다운로드하여 샘플과 같은 형식으로 작성하여 첨부하세요." : {
+    "en" : "Download [Excel file], fill in and attach in the following format.",
+    "ja" : "[Excelファイル]をダウンロードして、以下のような形式で作成して添付してください。",
+    "vi" : "Tải xuống [File Excel], điền đầy đủ thông tin và đính kèm tài liệu dưới định dạng sau.",
+    "zh" : "下载[excel文档]后通过下列形式制作而附加。"
+  },
+  "사번" : {
+    "en" : "Employee ID number",
+    "ja" : "社員番号",
+    "vi" : "Mã số nhân viên",
+    "zh" : "职员号码"
+  },
+  "기능양식" : {
+    "en" : "Function Form",
+    "ja" : "電子決裁連動フォーム",
+    "vi" : "bản mẫu chức năng",
+    "zh" : "电子批准联动样式"
+  },
+  "권한" : {
+    "en" : "Permissions",
+    "ja" : "権限",
+    "vi" : "Quyền",
+    "zh" : "权限"
+  },
+  "복사 후 양식의 결재선이 회사에 맞는지 확인이 필요합니다." : {
+    "en" : "After copying, the approval line must be checked to make sure it corresponds to that of the company.",
+    "ja" : "コピー後、様式の決裁ラインが会社に適しているか確認が必要です。",
+    "vi" : "Sau khi sao chép, cần xác nhận xem quá trình phê duyệt mẫu có phù hợp với công ty không.",
+    "zh" : "在复制后需确认格式审批线是否符合公司。"
+  },
+  "부서선택" : {
+    "en" : "Select department",
+    "ja" : "部署選択",
+    "vi" : "Chọn phòng ban/bộ phận",
+    "zh" : "选择部门"
+  },
+  "발송명의" : {
+    "en" : "Name of Sender",
+    "ja" : "送信名義",
+    "vi" : "Tên người gửi",
+    "zh" : "发送名义"
+  },
+  "덮어쓰기" : {
+    "en" : "Overwrite",
+    "ja" : "上書きする",
+    "vi" : "Lưu đè",
+    "zh" : "覆盖"
+  },
+  "필수입력 항목입니다." : {
+    "en" : "This item is required.",
+    "ja" : "必須入力項目です。",
+    "vi" : "Là mục bắt buộc",
+    "zh" : "必须输入项目"
+  },
+  "테두리 전체" : {
+    "en" : "All Borders",
+    "ja" : "枠全体",
+    "vi" : "Toàn bộ viền",
+    "zh" : "界线全体"
+  },
+  "가운데 정렬" : {
+    "en" : "Center Align",
+    "ja" : "中央揃え",
+    "vi" : "Căn giữa",
+    "zh" : "整队在中间"
+  },
+  "종료시간이 시작시간 보다 더 이전입니다.\\n\\n시간을 다시 확인해 주세요." : {
+    "en" : "End time is earlier than start time.\\n\\n Please check the time again.",
+    "ja" : "終了時間が開始時間より前です。\\ n \\ n時間を再確認してください。",
+    "vi" : "Thời gian kết thúc sớm hơn thời gian bắt đầu. \\n\\n Vui lòng kiểm tra lại thời gian.",
+    "zh" : "结束时间比开始时间更早。\\n\\n请再确认一下时间。"
+  },
+  "계산식" : {
+    "en" : "Formula",
+    "ja" : "計算式",
+    "vi" : "Công thức",
+    "zh" : "结算式"
+  },
+  "직위고유번호" : {
+    "en" : "Job position identification number",
+    "ja" : "職位の固有番号",
+    "vi" : "Số nhận dạng chức vụ",
+    "zh" : "职位固有号码"
+  },
+  "선택한 오류 컬럼이 더 이상 존재하지 않습니다 다시 선택해주세요." : {
+    "en" : "The error column that you have selected does not exist anymore. Please select again.",
+    "ja" : "選択されたエラーカラムはこれ以上存在しません。もう一度選択してください。",
+    "vi" : "Không tồn tại cột lỗi đã chọn. Xin hãy thử lại.",
+    "zh" : "不存在您选择的错误专栏。请再选择。"
+  },
+  "상태연동(결재)" : {
+    "en" : "Link status (Approval)",
+    "ja" : "状態連動（決裁）",
+    "vi" : "Liên kết trạng thái (phê duyệt)",
+    "zh" : "状态联动（决裁）"
+  },
+  "입력" : {
+    "en" : "Enter",
+    "ja" : "入力",
+    "vi" : "Nhập",
+    "zh" : "输入"
+  },
+  "날짜를 선택해주세요." : {
+    "en" : "Please select a date.",
+    "ja" : "日付を選択してください。",
+    "vi" : "Vui lòng chọn ngày.",
+    "zh" : "请选择日子。"
+  },
+  "합의자" : {
+    "en" : "Consensor",
+    "ja" : "合議者",
+    "vi" : "Người hợp tác",
+    "zh" : "协助者"
+  },
+  "추가 할 항목이 없습니다." : {
+    "en" : "There are no items to add.",
+    "ja" : "追加する項目がありません。",
+    "vi" : "Không có mục để thêm",
+    "zh" : "没有可以追加的项目。"
+  },
+  "실행취소" : {
+    "en" : "Undo",
+    "ja" : "実行キャンセル",
+    "vi" : "Quay lại",
+    "zh" : "取消实行"
+  },
+  "설정 목록" : {
+    "en" : "Setting list",
+    "ja" : "設定リスト",
+    "vi" : "Thiết lập danh sách",
+    "zh" : "设定目录"
+  },
+  "컨트롤을 선택하세요" : {
+    "en" : "Please select a control.",
+    "ja" : "コントロールを選択してください",
+    "vi" : "Vui lòng chọn một điều khiển.",
+    "zh" : "请选择控制。"
+  },
+  "감사결재선" : {
+    "en" : "Audit Line of Approval",
+    "ja" : "監査決裁ライン",
+    "vi" : "Luồng phê duyệt kiểm toán",
+    "zh" : "审计决批准"
+  },
+  "종류" : {
+    "en" : "Type",
+    "ja" : "種類",
+    "vi" : "Loại",
+    "zh" : "种类"
+  },
+  "타입별 샘플" : {
+    "en" : "Samples by type",
+    "ja" : "タイプ別サンプル",
+    "vi" : "Mẫu theo loại",
+    "zh" : "按类型样本"
+  },
+  "날짜와 시간" : {
+    "en" : "Date and time",
+    "ja" : "日付と時刻",
+    "vi" : "Ngày và giờ",
+    "zh" : "日子和时间"
+  },
+  "WSDL operation을 입력 하세요." : {
+    "en" : "Enter WSDL operation.",
+    "ja" : "WSDL operationを入力してください。",
+    "vi" : "Hãy nhập WSDL operation",
+    "zh" : "请输入WSDL operation"
+  },
+  "기존 등록된 인터페이스와 달라 업로드되지 않습니다." : {
+    "en" : "It cannot be uploaded because it's different from the currently registered interface.",
+    "ja" : "既存の登録されたインタフェースと異なるためアップロードされません。",
+    "vi" : "Không tải lên được do khác với giao diện đã đăng ký.",
+    "zh" : "与已登录界面不同，无法上传。"
+  },
+  "공용 폼릿은 별도로 생성되지 않으며, 양식에 포함되어 업로드됩니다." : {
+    "en" : "Public formlet doesn't get created separately but it gets included in the form when uploading.",
+    "ja" : "共用フォームは別途生成されず、様式に含まれアップロードされます。",
+    "vi" : "Formlet chung không được tạo riêng, mà được bao gồm trong mẫu và tải lên.",
+    "zh" : "不单独生成共享Formlet，将包含于格式上传。"
+  },
+  "양식함" : {
+    "en" : "Form box",
+    "ja" : "フォームBox",
+    "vi" : "Hộp bản mẫu",
+    "zh" : "格式栏"
+  },
+  "상태를 먼저 선택 해주세요." : {
+    "en" : "Please select a status first.",
+    "ja" : "状態を先に選択してください。",
+    "vi" : "Vui lòng chọn một trạng thái trước.",
+    "zh" : "请先选择状态。"
+  },
+  "결재 상태" : {
+    "en" : "Approval status",
+    "ja" : "決裁状態",
+    "vi" : "Trạng thái phê duyệt",
+    "zh" : "批准状态"
+  },
+  "API 테스트" : {
+    "en" : "API test",
+    "ja" : "APIテスト",
+    "vi" : "Kiểm tra API",
+    "zh" : "API 试验"
+  },
+  "사원명" : {
+    "en" : "Employee name",
+    "ja" : "社員名",
+    "vi" : "Tên nhân viên",
+    "zh" : "职员名"
+  },
+  "텍스트형" : {
+    "en" : "Text type",
+    "ja" : "テキスト型",
+    "vi" : "Dạng văn bản",
+    "zh" : "原文型"
+  },
+  "json 형태로 작성이 필요합니다. 이미지, 사용자선택, 부서선택 컨트롤은 AI 자동 작성에서 제외 됩니다." : {
+    "en" : "It needs to be written in JSON format. Image, user selection, and department selection controls are excluded from AI auto-writing.",
+    "ja" : "JSON形式での作成が必要です。画像、ユーザー選択、部署選択コントロールはAI自動作成から除外されます。",
+    "vi" : "Cần được viết dưới dạng json. Việc kiểm soát hình ảnh, lựa chọn người dùng, lựa chọn bộ phận không bao gồm trong công cụ viết tự động AI.",
+    "zh" : "需要以JSON格式编写。图像、用户选择、部门选择这些控件不包含在AI自动编写的范围内"
+  },
+  "내어쓰기" : {
+    "en" : "Outdent",
+    "ja" : "インデント",
+    "vi" : "Viết thụt lề",
+    "zh" : "拿出来写"
+  },
+  "이름을 입력 하세요." : {
+    "en" : "Enter your name.",
+    "ja" : "名前を入力してください。",
+    "vi" : "Hãy nhập tên",
+    "zh" : "请输入名字"
+  },
+  "박스결재선" : {
+    "en" : "Box Line of Approval",
+    "ja" : "Box決裁ライン",
+    "vi" : "Hộp quy trình phê duyệt",
+    "zh" : "箱子批准线"
+  },
+  "테이블 추가" : {
+    "en" : "Add Table",
+    "ja" : "縦",
+    "vi" : "Thêm bảng",
+    "zh" : "竖"
+  },
+  "선택한 양식이 없습니다." : {
+    "en" : "There is no form selected.",
+    "ja" : "選択したフォームがありません。",
+    "vi" : "Không có bản mẫu được lựa chọn.",
+    "zh" : "没有选择的样式。"
+  },
+  "모든결재선(박스)" : {
+    "en" : "All Line of Approvals (Box)",
+    "ja" : "すべての決裁ライン（Box）",
+    "vi" : "Tất cả quy trình phê duyệt (Hộp)",
+    "zh" : "所有批准线（箱子）"
+  },
+  "범위 안에 값을 입력 하세요." : {
+    "en" : "Please enter a value within the range.",
+    "ja" : "範囲内の値を入力してください。",
+    "vi" : "Vui lòng nhập một giá trị trong khoảng.",
+    "zh" : "请在范围里输入价。"
+  },
+  "검색대상 포함" : {
+    "en" : "Include Search Target",
+    "ja" : "検索対象を含む",
+    "vi" : "Bao gồm đối tượng tìm kiếm",
+    "zh" : "包括搜索对象"
+  },
+  "연동 시스템 전체" : {
+    "en" : "All linked systems",
+    "ja" : "連携システム全体",
+    "vi" : "Toàn bộ hệ thống liên kết",
+    "zh" : "联动系统全体"
+  },
+  "연동정보" : {
+    "en" : "System Link Information",
+    "ja" : "連動情報",
+    "vi" : "Thông tin liên kết",
+    "zh" : "同步信息"
+  },
+  "기관정보" : {
+    "en" : "Institution information",
+    "ja" : "機関情報",
+    "vi" : "Thông tin cơ quan",
+    "zh" : "企管信息"
+  },
+  "사원고유번호" : {
+    "en" : "Employee identification number",
+    "ja" : "社員の固有番号",
+    "vi" : "Số nhân viên sở hữu",
+    "zh" : "职员固有编码"
+  },
+  "양식수정" : {
+    "en" : "Edit form",
+    "ja" : "様式を変更する",
+    "vi" : "Chỉnh sửa mẫu",
+    "zh" : "修改格式"
+  },
+  "사용할 인터페이스를 선택합니다." : {
+    "en" : "Select an interface to use.",
+    "ja" : "使用するインターフェースを選択します。",
+    "vi" : "Chọn giao diện để sử dụng.",
+    "zh" : "选择要使用的接口。"
+  },
+  "에러 코드" : {
+    "en" : "Error code",
+    "ja" : "エラーコード",
+    "vi" : "Mã lỗi",
+    "zh" : "错误代码"
+  },
+  "한글 양식 저장 중입니다." : {
+    "en" : "Saving Hangul template.",
+    "ja" : "ハングル様式を保存しています。",
+    "vi" : "Đang lưu mẫu tiếng Hàn.",
+    "zh" : "正在保存韩语格式。"
+  },
+  "이름 입력" : {
+    "en" : "Enter a name.",
+    "ja" : "名前入力",
+    "vi" : "Nhập tên",
+    "zh" : "输入名字"
+  },
+  "분류를 선택하세요." : {
+    "en" : "Select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Chọn một danh mục",
+    "zh" : "请选择分类。"
+  },
+  "회사명" : {
+    "en" : "Company name",
+    "ja" : "会社名",
+    "vi" : "Tên công ty",
+    "zh" : "公司名"
+  },
+  "다시실행" : {
+    "en" : "Redo",
+    "ja" : "再度実行",
+    "vi" : "Thực hiện lại",
+    "zh" : "再实行"
+  },
+  "공용폼릿과 인터페이스는 최근정보로 처리 합니다." : {
+    "en" : "Public formlets and interfaces are handled as the latest information.",
+    "ja" : "共用フォームレットとのインターフェースは最近の情報を基に処理します。",
+    "vi" : "Giao diện và formlet chung được xử lý bằng thông tin gần đây.",
+    "zh" : "公用Formlet与界面将以最新信息进行处理。"
+  },
+  "처리결과 전체" : {
+    "en" : "All processing results",
+    "ja" : "処理結果全体",
+    "vi" : "Toàn bộ kết quả xử lý",
+    "zh" : "处理结果全体"
+  },
+  "컬럼명을 {0}으로 구성해주세요." : {
+    "en" : "Please structure the column name as {0}.",
+    "ja" : "カラム名を {0} で構成してください。",
+    "vi" : "Vui lòng đặt tên cột là {0}",
+    "zh" : "请构建列名为 {0} 的列。"
+  },
+  "연동오류" : {
+    "en" : "Linkage Error",
+    "ja" : "連携エラー",
+    "vi" : "Lỗi liên kết",
+    "zh" : "联动错误"
+  },
+  "현재 분류와 동일한 분류입니다.\\n\\n다른 분류를 선택하세요." : {
+    "en" : "It is the same category as the current category.\\n\\n Please select another category.",
+    "ja" : "現在のカテゴリと同じカテゴリです。\\ n \\ n他のカテゴリを選択してください。",
+    "vi" : "Danh mục vừa chọn chính là danh mục hiện tại. \\n\\n Vui lòng chọn danh mục khác.",
+    "zh" : "跟现在分类同样的分类。请选择\\n\\n别的分类。"
+  },
+  "Google 설정" : {
+    "en" : "Google Settings",
+    "ja" : "Google設定",
+    "vi" : "Cài đặt Google",
+    "zh" : "Google 设置"
+  },
+  "문서제목" : {
+    "en" : "Document title",
+    "ja" : "ドキュメントタイトル",
+    "vi" : "Tiêu đề văn bản",
+    "zh" : "文件题目"
+  },
+  "고정결재선" : {
+    "en" : "Fixed Line of Approval",
+    "ja" : "固定決裁ライン",
+    "vi" : "Đường phê duyệt cố định",
+    "zh" : "固定决批准"
+  },
+  "HWP 기능양식" : {
+    "en" : "HWP Function Form",
+    "ja" : "電子決裁連動フォーム(HWP)",
+    "vi" : "bản mẫu liên kết với tài liệu cần phê chuẩn (HWP)",
+    "zh" : "电子批准联动样式(HWP)"
+  },
+  "메일주소" : {
+    "en" : "e-mail address",
+    "ja" : "メールアドレス",
+    "vi" : "Địa chỉ mail",
+    "zh" : "邮件地址。"
+  },
+  "등록된 연동시스템이 없습니다." : {
+    "en" : "No registered linked systems.",
+    "ja" : "登録された連動システムがありません。",
+    "vi" : "Không có hệ thống liên kết được đăng ký",
+    "zh" : "没有联动的系统"
+  },
+  "컨트롤 정보" : {
+    "en" : "Control information",
+    "ja" : "コントロール情報",
+    "vi" : "Kiểm soát thông tin",
+    "zh" : "控制信息"
+  },
+  "현재 상위 분류를 선택 하셨습니다.\\n\\n다른 분류를 선택하세요." : {
+    "en" : "You have selected the parent category. \\ n\\ n Please select another category.",
+    "ja" : "現在上位のカテゴリを選択しました。\\ n \\ n他のカテゴリを選択してください。",
+    "vi" : "Bạn đã chọn danh mục mẹ. \\ n\\n Vui lòng chọn một danh mục khác.",
+    "zh" : "选择了上位分类。请选择\\n\\n别的分类。"
+  },
+  "현재 작성 중인 내용이 모두 삭제됩니다." : {
+    "en" : "Everything you wrote will be lost.",
+    "ja" : "現在作成中の内容がすべて削除されます。",
+    "vi" : "Nội dung đang viết hiện tại sẽ bị xóa toàn bộ.",
+    "zh" : "现在写中的内容都会被删除。"
+  },
+  "다수 업로드되는 양식 중 일부를 삭제하면 관련된 정보도 같이 삭제 됩니다." : {
+    "en" : "Deleting some of the uploaded forms will also delete related information.",
+    "ja" : "複数アップロードされるフォームの中で一部を削除すると、関連情報も同時に削除されます。",
+    "vi" : "Nếu bạn xóa một số biểu mẫu được tải lên, thông tin liên quan sẽ bị xóa cùng.",
+    "zh" : "如果删除多次上传的表单的一部分，相关信息也将一并删除。"
+  },
+  "양식 정보 파일이 없습니다." : {
+    "en" : "There's no file regarding format.",
+    "ja" : "様式情報ファイルがありません。",
+    "vi" : "Không có tệp thông tin mẫu.",
+    "zh" : "无格式信息文件。"
+  },
+  "내부결재선" : {
+    "en" : "Internal Line of Approval",
+    "ja" : "内部決裁ライン",
+    "vi" : "Luồng phê duyệt nội bộ",
+    "zh" : "内部决批准"
+  },
+  "그룹" : {
+    "en" : "Group",
+    "ja" : "グループ",
+    "vi" : "Nhóm",
+    "zh" : "群"
+  },
+  "복수선택" : {
+    "en" : "Multiple Choice",
+    "ja" : "複数選択",
+    "vi" : "Nhiều lựa chọn",
+    "zh" : "多数选择"
+  },
+  "경유" : {
+    "en" : "via",
+    "ja" : "経由",
+    "vi" : "thông qua",
+    "zh" : "路过"
+  },
+  "감사부서" : {
+    "en" : "Auditing department",
+    "ja" : "監査部署",
+    "vi" : "Bộ phận kiểm toán",
+    "zh" : "感谢部门"
+  },
+  "스크립트 비교" : {
+    "en" : "Script Comparison",
+    "ja" : "スクリプト比較",
+    "vi" : "So sánh tập lệnh",
+    "zh" : "脚本比较"
+  },
+  "회사번호" : {
+    "en" : "Company number",
+    "ja" : "会社番号",
+    "vi" : "Số công ty",
+    "zh" : "公司号码"
+  },
+  "줄간격" : {
+    "en" : "Line spacing",
+    "ja" : "行間隔",
+    "vi" : "Khoảng cách dòng",
+    "zh" : "线间隔"
+  },
+  "내부/감사결재선" : {
+    "en" : "Internal/Audit Line of Approval",
+    "ja" : "内部/監査決裁ライン",
+    "vi" : "Luồng phê duyệt nội bộ/ Kiểm toán",
+    "zh" : "内部/感谢批准线"
+  },
+  "공개구분번호" : {
+    "en" : "Disclosure Classification Number",
+    "ja" : "公開区分番号",
+    "vi" : "Số phân loại",
+    "zh" : "公开区分号码"
+  },
+  "셀렉트박스 고유번호와 매핑되는 옵션 지정" : {
+    "en" : "Specify options mapped to select box unique number",
+    "ja" : "セレクトボックス固有番号とマッピングされるオプションの指定",
+    "vi" : "Chỉ định tùy chọn được mapping với mã số của hộp chọn",
+    "zh" : "指定与下拉框唯一编号匹配的选项"
+  },
+  "왼쪽 정렬" : {
+    "en" : "Left Align",
+    "ja" : "左揃え",
+    "vi" : "Căn trái",
+    "zh" : "整队在左边"
+  },
+  "이미 추가된 인터페이스 입니다." : {
+    "en" : "The interface has already been added.",
+    "ja" : "すでに追加されたインターフェイスです。",
+    "vi" : "Đây là giao diện đã được thêm rồi.",
+    "zh" : "已经追加的接口。"
+  },
+  "데이터 표기" : {
+    "en" : "Data Display",
+    "ja" : "データ表記",
+    "vi" : "Hiện dữ liệu",
+    "zh" : "表示数据"
+  },
+  "스마트워크 추가" : {
+    "en" : "Add Smartwork",
+    "ja" : "スマートワークを追加する",
+    "vi" : "Thêm smart work",
+    "zh" : "添加智能工作"
+  },
+  "숫자만 입력 가능합니다." : {
+    "en" : "Enter numbers only.",
+    "ja" : "数字のみ入力できます。",
+    "vi" : "Chỉ có thể nhập số",
+    "zh" : "只能输入数字"
+  },
+  "처리 결과" : {
+    "en" : "Processing result",
+    "ja" : "処理結果",
+    "vi" : "Kết quả xử lý",
+    "zh" : "处理结果"
+  },
+  "상위 분류명" : {
+    "en" : "Parent Category Name",
+    "ja" : "上位カテゴリ名",
+    "vi" : "Tên danh mục trên",
+    "zh" : "上位分类名"
+  },
+  "통합" : {
+    "en" : "Integration",
+    "ja" : "統合",
+    "vi" : "Hợp nhất",
+    "zh" : "总和"
+  },
+  "공공기관" : {
+    "en" : "Public Institution",
+    "ja" : "テーブル追加",
+    "vi" : "Tổ chức công cộng",
+    "zh" : "追加表格"
+  },
+  "시행번호" : {
+    "en" : "Enforcement No.",
+    "ja" : "実施番号",
+    "vi" : "Số thực thi",
+    "zh" : "实施号码"
+  },
+  "인터페이스 설명" : {
+    "en" : "Interface description",
+    "ja" : "インターフェイス説明",
+    "vi" : "Giải thích giao diện",
+    "zh" : "接口说明"
+  },
+  "선택한 오류메세지 컬럼이 더 이상 존재하지 않습니다 다시 선택해주세요." : {
+    "en" : "The error message column that you have selected does not exist anymore. Please select again.",
+    "ja" : "選択されたエラーメッセージカラムはこれ以上存在しません。もう一度選択してください。",
+    "vi" : "Không tồn tại cột tin nhắn lỗi đã chọn. Xin hãy thử lại.",
+    "zh" : "不存在您选择的错误短信专栏。请再选择。"
+  },
+  "지정된 Google 공유 드라이브를 선택 해주세요. 변경 시 모든 기존에 만든 모든 양식이 작동 되지 않습니다." : {
+    "en" : "Please select the designated Google Shared Drive. If you change it, all previously created forms will not work.",
+    "ja" : "指定されたGoogle共有ドライブを選択してください。変更すると、既存のすべてのフォームが動作しなくなります。",
+    "vi" : "Vui lòng chọn Google Shared Drive đã chỉ định. Nếu bạn thay đổi, tất cả các biểu mẫu đã tạo trước đó sẽ không hoạt động.",
+    "zh" : "请选择指定的Google共享驱动器。 更改时，所有现有创建的表单都不起作用。"
+  },
+  "협조결재칸 개수" : {
+    "en" : "No. of Collaboration Approval Boxes",
+    "ja" : "協力決裁ライン",
+    "vi" : "Luồng hợp tác phê duyệt",
+    "zh" : "协助批准线"
+  },
+  "없음" : {
+    "en" : "Empty",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "보고양식" : {
+    "en" : "Report form",
+    "ja" : "報告フォーム",
+    "vi" : "Biểu mẫu Báo cáo",
+    "zh" : "报告样式"
+  },
+  "연동시스템에서 오류가 발생했습니다." : {
+    "en" : "An error has occurred in the linked system.",
+    "ja" : "連携システムにエラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi trên hệ thống liên kết.",
+    "zh" : "在联动系统发生了错误。"
+  },
+  "수식 설정" : {
+    "en" : "Formula settings",
+    "ja" : "式設定",
+    "vi" : "Thiết lập công thức",
+    "zh" : "设定数式"
+  },
+  "양식명" : {
+    "en" : "Form name",
+    "ja" : "フォーム名",
+    "vi" : "Tên bản mẫu",
+    "zh" : "样式名"
+  },
+  "간이기안문" : {
+    "en" : "Simplified Draft",
+    "ja" : "簡易起案文",
+    "vi" : "bản mẫu bản thảo dạng tối giản",
+    "zh" : "简易起案文"
+  },
+  "전자기안문" : {
+    "en" : "Electronic Draft",
+    "ja" : "電子起案文",
+    "vi" : "Bản thảo tài liệu điện tử",
+    "zh" : "电子起草文"
+  },
+  "폼 빌더는 jQuery javascript library를 기반으로 동작되기 때문에 다른 library는 사용 할 수 없습니다." : {
+    "en" : "The Form Builder is a jQuery javascript library-based program, so other libraries can't be used.",
+    "ja" : "フォームビルダーは、jQuery javascript libraryをベースに動作されるため、他のlibraryは使用できません。",
+    "vi" : "Form Builder được xây dựng trên thư viện chương trình jQuery javascript nên không thể sử dụng thư viện khác.",
+    "zh" : "型助洗剂为 jQuery javascript library动作而 不可使用别的library。"
+  },
+  "분류명" : {
+    "en" : "Category name",
+    "ja" : "カテゴリ名",
+    "vi" : "Tên danh mục",
+    "zh" : "分类名"
+  },
+  "리소스 조회" : {
+    "en" : "Resource Lookup",
+    "ja" : "リソース検索",
+    "vi" : "Tra cứu tài nguyên",
+    "zh" : "查看资源"
+  },
+  "결재선은 필드명으로만 추가가 가능합니다.\\n필드명으로 변경하시겠습니까?" : {
+    "en" : "The Line of Approval can only be added as a field name.\\n Would you like to change it to a field name?",
+    "ja" : "決裁ラインはフィールド名のみ追加が可能です。\\ nフィールド名に変更しますか？",
+    "vi" : "Bạn có thể thêm luồng phê duyệt kèm với tên của trường thông tin\\n Bạn có muốn thay đổi tên trường không?",
+    "zh" : "批准线只能利用字段名追加。要变更为\\n字段名吗？"
+  },
+  "FAX번호" : {
+    "en" : "FAX number",
+    "ja" : "FAX番号",
+    "vi" : "Số FAX",
+    "zh" : "传真号码"
+  },
+  "양식 등록" : {
+    "en" : "Add forms",
+    "ja" : "フォーム登録",
+    "vi" : "Đăng ký bản mẫu",
+    "zh" : "登录样式"
+  },
+  "발송인장" : {
+    "en" : "Send Seal",
+    "ja" : "送信印章",
+    "vi" : "Con dấu gửi",
+    "zh" : "发送印章"
+  },
+  "사용 정보" : {
+    "en" : "User information",
+    "ja" : "使用情報",
+    "vi" : "Thông tin người dùng",
+    "zh" : "使用信息"
+  },
+  "상위 분류를 선택하세요." : {
+    "en" : "Select a parent category.",
+    "ja" : "上位カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh loại trên",
+    "zh" : "请选择上位分类。"
+  },
+  "실행 명령 목록" : {
+    "en" : "Command list",
+    "ja" : "実行コマンドリスト",
+    "vi" : "Danh sách lệnh",
+    "zh" : "实行命令目录"
+  },
+  "텍스트박스" : {
+    "en" : "Text box",
+    "ja" : "テキストBox",
+    "vi" : "Hộp văn bản",
+    "zh" : "本文箱"
+  },
+  "매퍼 아이디" : {
+    "en" : "Mapper ID",
+    "ja" : "マッパーID",
+    "vi" : "ID Mapper",
+    "zh" : "Mapper用户名"
+  },
+  "연동 API 관리" : {
+    "en" : "Manage linked API",
+    "ja" : "連動API管理",
+    "vi" : "Quản lý API liên kết",
+    "zh" : "管理联动API"
+  },
+  "직위명" : {
+    "en" : "Job position name",
+    "ja" : "職位名",
+    "vi" : "Tên chức vụ",
+    "zh" : "职位名"
+  },
+  "내용을 반드시 선택하세요." : {
+    "en" : "You must select content.",
+    "ja" : "内容を必ず選択してください。",
+    "vi" : "Bạn phải chọn nội dung.",
+    "zh" : "必须得选择内容。"
+  },
+  "폼릿명 입력" : {
+    "en" : "Enter Formlet Name",
+    "ja" : "フォームレット名を入力",
+    "vi" : "Nhập tên formlet",
+    "zh" : "输入Formlet名称"
+  },
+  "복사할 양식을 선택해주세요." : {
+    "en" : "Select a form to copy.",
+    "ja" : "コピーするフォームを選んでください。",
+    "vi" : "Chọn kiểu sao chép",
+    "zh" : "请选择要拷贝的样式。"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "내부/합의/감사결재선" : {
+    "en" : "Internal/Consensus/Audit Line of Approval",
+    "ja" : "内部/合意/監査決裁ライン",
+    "vi" : "Luồng phê duyệt nội bộ/ đồng ý/ kiểm toán",
+    "zh" : "内部协议/感谢批准线"
+  },
+  "에디터" : {
+    "en" : "Editor",
+    "ja" : "エディター",
+    "vi" : "Trình biên tập",
+    "zh" : "编辑器"
+  },
+  "스타일" : {
+    "en" : "Style",
+    "ja" : "スタイル",
+    "vi" : "Phong cách",
+    "zh" : "款式"
+  },
+  "작성시간+1" : {
+    "en" : "Time (Written) + 1",
+    "ja" : "作成時間+1",
+    "vi" : "Thời gian tạo + 1",
+    "zh" : "制作时间+1"
+  },
+  "프레젠테이션" : {
+    "en" : "Presentations",
+    "ja" : "プレゼンテーション",
+    "vi" : "Bản trình bày",
+    "zh" : "演示文稿"
+  },
+  "상태연동(업무관리)" : {
+    "en" : "Status linkage (Task management)",
+    "ja" : "状態連動（業務管理）",
+    "vi" : "Liên kết trạng thái (quản lý tác vụ)",
+    "zh" : "状态联动（业务管理）"
+  },
+  "자동으로 생성된 구조에서 변경이 필요할 경우, 수동으로 옵션을 변경해 주세요. 양식 변경 시 변경된 내용에 맞게 설정을 계속해야 합니다." : {
+    "en" : "If changes are needed in the automatically generated structure, please manually adjust the options. When you change the form, you will need to continuously adjust the settings to match the updated content.",
+    "ja" : "自動生成された構造で変更が必要な場合は、手動でオプションを変更してください。様式を変更する場合は、変更された内容に合わせて設定を継続する必要があります。",
+    "vi" : "Nếu cần thay đổi cấu trúc được tạo tự động, vui lòng thay đổi tùy chọn theo cách thủ công. Khi thay đổi biểu mẫu, bạn phải tiếp tục cài đặt cho phù hợp với các thay đổi.",
+    "zh" : "需要修改自动生成的结构时，请手动调整选项。表单更改后，请根据新内容更新相关设置。"
+  },
+  "선색 선택" : {
+    "en" : "Select line color",
+    "ja" : "線の色を選択",
+    "vi" : "Chọn màu đường",
+    "zh" : "选择线色"
+  },
+  "실행 결과" : {
+    "en" : "Execution result",
+    "ja" : "実行結果",
+    "vi" : "Kết quả thực thi",
+    "zh" : "实行结果"
+  },
+  "실선" : {
+    "en" : "Solid Lines",
+    "ja" : "実線",
+    "vi" : "Đường nét liền",
+    "zh" : "丝线"
+  },
+  "<strong>결재 상태별 연동을 위해서는 먼저 [관리자설정&gt;연동API관리]에서 결재상태별 연동 인터페이스를 등록하세요.</strong>" : {
+    "en" : "<strong> To link by approval status, add the linked interface by approval status first in [Admin Settings &gt; Manage Linked APIs].</strong>",
+    "ja" : "<strong>決裁状態別の連動のためには、まず[管理者設定＆gt;連動API管理]で決裁状態別の連動インターフェースを登録してください。</ strong>",
+    "vi" : "Để liên kết theo từng trạng thái phê duyệt<strong>, hãy đăng ký giao diện liên kết theo trạng thái phê duyệt ở [Cài đặt người quản lý&gt; Quản lý API liên kết] </strong>",
+    "zh" : "为了<strong>批准状态别联动先在 [管理者设定&gt;联动API管理] 登录批准状态别联动介面。</strong>"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "정렬" : {
+    "en" : "Alignment",
+    "ja" : "並べ替え",
+    "vi" : "Sắp xếp",
+    "zh" : "整队"
+  },
+  "집주소" : {
+    "en" : "Home address",
+    "ja" : "自宅注所",
+    "vi" : "Địa chỉ nhà",
+    "zh" : "家庭地址"
+  },
+  "포탈 디자이너 인트로" : {
+    "en" : "Portal designer intro",
+    "ja" : "ポータルデザイナーイントロ",
+    "vi" : "Giới thiệu về Portal desinger",
+    "zh" : "网站设计师导入"
+  },
+  "항목 이름을 입력 하세요." : {
+    "en" : "Enter an item name.",
+    "ja" : "項目名を入力してください。",
+    "vi" : "Hãy nhập tên mục",
+    "zh" : "请输入项目名字"
+  },
+  "선택 값" : {
+    "en" : "Selected value",
+    "ja" : "選択値",
+    "vi" : "Giá trị đã chọn",
+    "zh" : "选择值"
+  },
+  "컨트롤" : {
+    "en" : "Control",
+    "ja" : "コントロール",
+    "vi" : "Điều khiển",
+    "zh" : "控制键"
+  },
+  "직책" : {
+    "en" : "Duty",
+    "ja" : "役職",
+    "vi" : "Nhiệm vụ",
+    "zh" : "职责"
+  },
+  "필수 여부" : {
+    "en" : "Is it required?",
+    "ja" : "必須可否",
+    "vi" : "Có cần thiết hay không",
+    "zh" : "是否必须"
+  },
+  "테두리 왼쪽" : {
+    "en" : "Left Border",
+    "ja" : "枠の左",
+    "vi" : "Viền trái",
+    "zh" : "界线左边"
+  },
+  "항목" : {
+    "en" : "Items",
+    "ja" : "項目",
+    "vi" : "Mục",
+    "zh" : "项目"
+  },
+  "결재선 선택" : {
+    "en" : "Select Line of Approval",
+    "ja" : "決裁ライン選択",
+    "vi" : "chọn luồng phê duyệt",
+    "zh" : "选择决裁线"
+  },
+  "인터페이스 입력 파라미터를 변경하면, 상태 연동도 수정해야합니다." : {
+    "en" : "When changing the input parameter of an interface, the synch status must also be changed.",
+    "ja" : "インタフェース入力パラメータを変更した場合、状態連動も修正する必要があります。",
+    "vi" : "Nếu thay đổi tham số nhập giao diện, liên kết trạng thái cũng phải thay đổi.",
+    "zh" : "若更改界面输入参数，状态同步也需修改。"
+  },
+  "인터페이스 오류 설정은 최초 1회만 업로드되며 이후 업로드 시에는 기존 정보를 유지합니다." : {
+    "en" : "Interface error settings are uploaded only once for the first time, and the current information is maintained for subsequent uploads.",
+    "ja" : "インタフェースのエラー設定は最初の1回のみアップロードされます。以後のアップロードでは既存の情報が維持されます。",
+    "vi" : "Cài đặt lỗi giao diện chỉ được tải lên 1 lần đầu tiên và sau đó thông tin mặc định sẽ được duy trì khi tải lên.",
+    "zh" : "界面错误设置只可于最初上传一次，此后上传将维持已有信息。"
+  },
+  "신규로 저장하면 회사 하위에 생성됩니다." : {
+    "en" : "If it's saved as new, it will be created below company.",
+    "ja" : "新規で保存すると会社の下部に生成されます。",
+    "vi" : "Nếu lưu mới thì sẽ được tạo ở vị trí dưới công ty.",
+    "zh" : "若保存新内容将生成于公司下级。"
+  },
+  "참조결재선" : {
+    "en" : "Reference approval line",
+    "ja" : "参照決裁ライン",
+    "vi" : "Luồng phê duyệt tham khảo",
+    "zh" : "参照批准线"
+  },
+  "일반/블럭 에디터는 반복 설정을 할 수 없습니다." : {
+    "en" : "General/block editor cannot be set repeatedly.",
+    "ja" : "一般/ブロックエディタでは繰り返し設定はできません。",
+    "vi" : "Không thể cài đặt lặp lại đối với trình soạn thảo thông thường/khối.",
+    "zh" : "常规/块编辑器无法进行重复设置。"
+  },
+  "전자우편주소" : {
+    "en" : "E-mail address",
+    "ja" : "電子メールアドレス",
+    "vi" : "Địa chỉ hộp thư điện tử",
+    "zh" : "电子邮件地址"
+  },
+  "양식을 반드시 입력하세요." : {
+    "en" : "You must add a form.",
+    "ja" : "フォームを必ず入力してください。",
+    "vi" : "Bạn phải nhập bản mẫu.",
+    "zh" : "必须得输入样式。"
+  },
+  "전자결재 연동양식" : {
+    "en" : "e-Approval Linkage Form",
+    "ja" : "マクロタイプ",
+    "vi" : "Mẫu liên kết phê duyệt điện tử",
+    "zh" : "宏程序类型"
+  },
+  "양식 미리보기" : {
+    "en" : "Form preview",
+    "ja" : "フォームプレビュー",
+    "vi" : "Xem trước bản mẫu",
+    "zh" : "预览样式"
+  },
+  "복사 할 양식을 선택해 주세요." : {
+    "en" : "Please select a form to copy.",
+    "ja" : "コピーするフォームを選択してください。",
+    "vi" : "Vui lòng chọn một bản mẫu để sao chép.",
+    "zh" : "请选择要拷贝的样式。"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại hình",
+    "zh" : "类型"
+  },
+  "기본값" : {
+    "en" : "Default Value",
+    "ja" : "基本値",
+    "vi" : "Giá trị mặc định",
+    "zh" : "基本值"
+  },
+  "업로드할 파일을 선택해주세요." : {
+    "en" : "Please select the file to be uploaded.",
+    "ja" : "アップロードするファイルを選択してください。",
+    "vi" : "Hãy chọn tệp tin muốn tải lên.",
+    "zh" : "请输入要上传的文件。"
+  },
+  "양식 업로드" : {
+    "en" : "Form Upload",
+    "ja" : "様式をアップロード",
+    "vi" : "Tải lên mẫu",
+    "zh" : "上传格式"
+  },
+  "내부결재칸 개수" : {
+    "en" : "No. of Internal Approval Boxes",
+    "ja" : "内部決裁欄の個数",
+    "vi" : "Số lượng khe thanh toán nội bộ",
+    "zh" : "内部决批准"
+  },
+  "수학부호/통화단위" : {
+    "en" : "Math Sign/Currency Unit",
+    "ja" : "数学記号/通貨単位",
+    "vi" : "Ký hiệu toán học/ đơn vị tiền tệ",
+    "zh" : "数学符号/通货单位"
+  },
+  "주민번호" : {
+    "en" : "Resident Registration Number",
+    "ja" : "住民登録番号",
+    "vi" : "Số chứng minh thư",
+    "zh" : "身份证号码"
+  },
+  "공통양식" : {
+    "en" : "Common forms",
+    "ja" : "共通フォーム",
+    "vi" : "bản mẫu chung",
+    "zh" : "共同样式"
+  },
+  "점선" : {
+    "en" : "Dotted Line",
+    "ja" : "点線",
+    "vi" : "Đường nét chấm",
+    "zh" : "点线"
+  },
+  "예제" : {
+    "en" : "Example",
+    "ja" : "例",
+    "vi" : "Ví dụ",
+    "zh" : "示例"
+  },
+  "등록된 로그가 없습니다." : {
+    "en" : "There are no registered logs.",
+    "ja" : "登録されたログ",
+    "vi" : "Không có nhật ký được đăng ký.",
+    "zh" : "没有登录的运行记录"
+  },
+  "양식 기능" : {
+    "en" : "Form functions",
+    "ja" : "フォーム機能",
+    "vi" : "Chức năng bản mẫu",
+    "zh" : "样式功能"
+  },
+  "체크시 권한이 있는 사용자만 사용할 수 있습니다." : {
+    "en" : "If checked, only users with permission can use.",
+    "ja" : "チェック時、権限を持つユーザーのみ使用できます。",
+    "vi" : "Nếu được chọn, chỉ những người dùng có quyền mới có thể sử dụng.",
+    "zh" : "打勾时有权限的使用者才能使用。"
+  },
+  "선택형" : {
+    "en" : "Option type",
+    "ja" : "選択型",
+    "vi" : "Loại tùy chọn",
+    "zh" : "选择型"
+  },
+  "사용권한" : {
+    "en" : "Usage permission",
+    "ja" : "使用権限",
+    "vi" : "Quyền sử dụng",
+    "zh" : "使用权限"
+  },
+  "경영지원시스템 DB연동" : {
+    "en" : "Integration with Management Support System DB.",
+    "ja" : "経営支援システムDB連動",
+    "vi" : "Liên kết với Hệ thống Hỗ trợ Quản lý DB.",
+    "zh" : "经营支持系统DB关联"
+  },
+  "연동 오류가 발생하였습니다. 새로 시도해주세요." : {
+    "en" : "A linkage error occurred. Please try again.",
+    "ja" : "連動エラーが発生しました。再試行してください。",
+    "vi" : "Đã phát sinh lỗi liên kết. Xin hãy thử lại.",
+    "zh" : "发生了联动错误。请再试试。"
+  },
+  "리소스 이름을 입력 하세요." : {
+    "en" : "Enter the resource name.",
+    "ja" : "リソース名を入力してください。",
+    "vi" : "Hãy nhập tên tài nguyên.",
+    "zh" : "请输入资源名称。"
+  },
+  "수신처" : {
+    "en" : "Destination",
+    "ja" : "受信先",
+    "vi" : "Địa chỉ nhận",
+    "zh" : "收信处"
+  },
+  "본문내용을 로딩 중 입니다." : {
+    "en" : "Currently loading the body content (text).",
+    "ja" : "本文の内容をローディング中です。",
+    "vi" : "Đang tải nội dung chính.",
+    "zh" : "的主要内容的加载。"
+  },
+  "열 너비를 입력하세요. (범위: 20~1200)" : {
+    "en" : "Set the width of the column. (range: 20~1200)",
+    "ja" : "列の幅を入力してください。(範囲：20〜1200)",
+    "vi" : "Hãy nhập độ rộng cột (Phạm vi: 50~ 600)",
+    "zh" : "请输入列宽度。（范围：20~1200）"
+  },
+  "등록일자" : {
+    "en" : "Date registered",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日子"
+  },
+  "오류 코드를 입력하세요." : {
+    "en" : "Please type an error code.",
+    "ja" : "エラーコードを入力してください。",
+    "vi" : "Hãy nhập mã lỗi.",
+    "zh" : "请输入错误编码。"
+  },
+  "글자색 선택" : {
+    "en" : "Select font color",
+    "ja" : "文字色選択",
+    "vi" : "Chọn màu chữ",
+    "zh" : "选择文字色"
+  },
+  "최상위 분류가 다른 분류는 이동되지 않습니다. 계속 하시겠습니까?" : {
+    "en" : "Categories with a different parent (highest) category will not be moved. Would you like to proceed?",
+    "ja" : "最上位のカテゴリは他のカテゴリに移動できません。続行しますか？",
+    "vi" : "Không được phép di chuyển danh mục trên cùng tới một danh mục khác. Bạn có muốn tiếp tục không?",
+    "zh" : "最上位分类不同的分类的话不可移动。要继续进行吗？"
+  },
+  "양식 복사" : {
+    "en" : "Copy Form",
+    "ja" : "様式をコピー",
+    "vi" : "Sao chép mẫu",
+    "zh" : "复制格式"
+  },
+  "해당 양식이 삭제됩니다." : {
+    "en" : "This form will be deleted.",
+    "ja" : "該当フォームが削除されます。",
+    "vi" : "bản mẫu tương ứng đã bị xóa.",
+    "zh" : "有关样式会被删除。"
+  },
+  "기본항목은 삭제 할 수 없습니다." : {
+    "en" : "You cannot delete default items.",
+    "ja" : "基本項目は削除できません。",
+    "vi" : "Không thể xóa các mục mặc định.",
+    "zh" : "基本项目不可删除。"
+  },
+  "미연동" : {
+    "en" : "Not Linked",
+    "ja" : "未連動",
+    "vi" : "Không kết nối",
+    "zh" : "未联动"
+  },
+  "정말 삭제 하시겠습니까?" : {
+    "en" : "Do you really want to delete it?",
+    "ja" : "本当に削除しますか？",
+    "vi" : "Bạn thực sự muốn xóa phải không?",
+    "zh" : "要真的删除吗？"
+  },
+  "문서보존기간" : {
+    "en" : "Retention period for document",
+    "ja" : "ドキュメント保存期間",
+    "vi" : "Thời gian lưu giữ tài liệu",
+    "zh" : "文件保存期间"
+  },
+  "복사 할 상태를 선택 하세요" : {
+    "en" : "Please select a status to copy.",
+    "ja" : "コピーする状態を選択してください。",
+    "vi" : "Vui lòng chọn một trạng thái để sao chép.",
+    "zh" : "请选择要拷贝的状态。"
+  },
+  "검색 결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果なし",
+    "vi" : "Không có kết quả tìm kiếm.",
+    "zh" : "没有搜索结果"
+  },
+  "를 통해 보다 쉽게 양식을 작성하세요." : {
+    "en" : "With (  ), you can create new forms with great ease.",
+    "ja" : "でより簡単にフォームを作成してください。",
+    "vi" : "Dễ dàng viết bản mẫu thông qua ()",
+    "zh" : "请通过 更容易写样式。"
+  },
+  "삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除码？"
+  },
+  "스크립트를 적용하시겠습니까?" : {
+    "en" : "Do you want to apply the script?",
+    "ja" : "スクリプトを適用しますか。",
+    "vi" : "Bạn có muốn áp dụng kịch bản không?",
+    "zh" : "应用脚本吗 ？"
+  },
+  "에러 설명" : {
+    "en" : "Error description",
+    "ja" : "エラーの説明",
+    "vi" : "Mô tả lỗi",
+    "zh" : "错误说明"
+  },
+  "원/괄호 기호" : {
+    "en" : "Circle/Brackets Sign",
+    "ja" : "円/括弧記号",
+    "vi" : "Ký hiệu dấu ngoặc kép/dấu ngoặc",
+    "zh" : "圆/括号符号"
+  },
+  "현재 분류의 하위분류로 이동할 수 없습니다.\\n\\n다른 분류를 선택하세요." : {
+    "en" : "Unable to move to a sub-category of the current category.\\n\\n Please select another category.",
+    "ja" : "現在カテゴリの下位カテゴリに移動することができません。\\ n \\ n他の分カテゴリを選択してください。",
+    "vi" : "Không thể di chuyển đến một danh mục của danh mục hiện tại. \\n\\n Vui lòng chọn một danh mục khác.",
+    "zh" : "不可移动到现在分类的下位分类。请选择\\n\\n别的分类。"
+  },
+  "내부/합의결재선" : {
+    "en" : "Internal/Consensus Line of Approval",
+    "ja" : "内部/合意決裁ライン",
+    "vi" : "Luồng phê duyệt nội bộ/ đồng ý",
+    "zh" : "内部/协议批准线"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用しない",
+    "vi" : "không sử dụng",
+    "zh" : "不使用"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "문서정보" : {
+    "en" : "Document information",
+    "ja" : "ドキュメント情報",
+    "vi" : "Thông tin tài liệu",
+    "zh" : "文件信息"
+  },
+  "감사번호" : {
+    "en" : "Audit No.",
+    "ja" : "監査番号",
+    "vi" : "Số Kiểm toán",
+    "zh" : "监事 号码"
+  },
+  "공통" : {
+    "en" : "Public",
+    "ja" : "共通",
+    "vi" : "Công khai",
+    "zh" : "共同"
+  },
+  "매크로 유형은 한 번 설정되면 변경할 수 없습니다." : {
+    "en" : "You can't make any changes to macro type once they are set.",
+    "ja" : "マクロタイプは一度設定されると変更できません。",
+    "vi" : "Bạn không thể thay đổi loại Macro nếu đã cài đặt.",
+    "zh" : "设定宏程序类型以后不可再变更。"
+  },
+  "등록되지 않은 인터페이스는 호출 되지 않습니다." : {
+    "en" : "Interfaces that are not registered will not be called.",
+    "ja" : "登録されていないインターフェイスは呼び出されません。",
+    "vi" : "Không thể gọi giao diện chưa đăng ký.",
+    "zh" : "没有登录的接口不可传呼"
+  },
+  "텍스트영역" : {
+    "en" : "Text area",
+    "ja" : "テキスト領域",
+    "vi" : "Khu vực văn bản",
+    "zh" : "本文领域"
+  },
+  "폼릿 명을 입력 하세요" : {
+    "en" : "Please enter a formlet name.",
+    "ja" : "フォームレット名を入力してください。",
+    "vi" : "Vui lòng thêm một tên formlet.",
+    "zh" : "请输入Formlit名。"
+  },
+  "반복 행에 세로 병합된 셀이 있을 경우 IE에서 비정상적으로 인쇄될 수 있으니 주의하세요." : {
+    "en" : "Note that if there are vertically merged cells in duplicate rows, it may not be printed normally in IE.",
+    "ja" : "繰り返し行に縦結合されたセルがある場合、IEで異常に印刷されることがありますのでご注意して下さい。",
+    "vi" : "Lưu ý rằng, nếu trong các hàng trùng lặp xuất hiện các ô được sáp nhập theo chiều dọc thì các ô này có thể không được hiển thị bình thường trong trình duyệt IE.",
+    "zh" : "反复的行上有竖并入的存储单元的话在 IE 会不正常进行印刷。请注意。"
+  },
+  "수신처 목록" : {
+    "en" : "Destination List",
+    "ja" : "受信先リスト",
+    "vi" : "Danh sách người nhận",
+    "zh" : "收信处目录"
+  },
+  "전체분류" : {
+    "en" : "All Categories",
+    "ja" : "全てのカテゴリ",
+    "vi" : "Toàn bộ danh mục",
+    "zh" : "全体分类"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "결재문서고유번호" : {
+    "en" : "Approval document identification number",
+    "ja" : "決裁ドキュメント固有番号",
+    "vi" : "Mã số sở hữu tài liệu phê duyệt",
+    "zh" : "批准文件固有号码"
+  },
+  "선 종류" : {
+    "en" : "Line Style",
+    "ja" : "線種",
+    "vi" : "Loại đường",
+    "zh" : "线种类"
+  },
+  "검색 대상 포함" : {
+    "en" : "Include Search Targets",
+    "ja" : "検索対象を含む",
+    "vi" : "Bao gồm đối tượng tìm kiếm",
+    "zh" : "包括搜索对象"
+  },
+  "AI양식 자동" : {
+    "en" : "AI form auto",
+    "ja" : "AI様式自動",
+    "vi" : "Tự động mẫu AI",
+    "zh" : "AI表单自动"
+  },
+  "리소스" : {
+    "en" : "Resources",
+    "ja" : "リソース",
+    "vi" : "Tài nguyên",
+    "zh" : "资源"
+  },
+  "연동시스템 선택" : {
+    "en" : "Select Third Party System",
+    "ja" : "連動システムを選択",
+    "vi" : "Lựa chọn hệ thống liên kết",
+    "zh" : "选择同步系统"
+  },
+  "WSDL operation을 입력해 주세요." : {
+    "en" : "Please enter a WSDL operation.",
+    "ja" : "WSDL operationを入力してください。",
+    "vi" : "Vui lòng nhập một WSDL operation.",
+    "zh" : "请输入WSDL operation。"
+  },
+  "인터페이스명 입력" : {
+    "en" : "Enter Interface Name",
+    "ja" : "インタフェース名を入力",
+    "vi" : "Nhập tên giao diện",
+    "zh" : "输入界面名称"
+  },
+  "문서내용끝" : {
+    "en" : "Document content end",
+    "ja" : "ドキュメント内容の最後",
+    "vi" : "Kết thúc nội dung tài liệu",
+    "zh" : "文件内容结束"
+  },
+  "연동 오류가 발생하여 기안할 수 없습니다." : {
+    "en" : "It couldn't be drafted because a link error occurred.",
+    "ja" : "連動エラーが発生して起案できません。",
+    "vi" : "Đã phát sinh lỗi liên kết nên không thể đề xuất.",
+    "zh" : "由于发送联动错误不可起案。"
+  },
+  "함수 명을 입력해 주세요." : {
+    "en" : "Please enter a function name.",
+    "ja" : "関数名を入力してください。",
+    "vi" : "Vui lòng nhập tên hàm chức năng.",
+    "zh" : "请输入函数名。"
+  },
+  "글자색" : {
+    "en" : "Text color",
+    "ja" : "文字色",
+    "vi" : "Màu chữ",
+    "zh" : "文字颜色"
+  },
+  "리소스를 연결해주세요." : {
+    "en" : "Please link the resources.",
+    "ja" : "リソースをリンクしてください。",
+    "vi" : "Xin hãy kết nối tài nguyên.",
+    "zh" : "请连接资源。"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "전화번호" : {
+    "en" : "Phone number",
+    "ja" : "電話番号",
+    "vi" : "Số điện thoại",
+    "zh" : "电话号码"
+  },
+  "연동로그 DB저장" : {
+    "en" : "Save Linked Log to DB",
+    "ja" : "連携ロゴDB保存",
+    "vi" : "Lưu liên kết nhật ký dữ liệu",
+    "zh" : "联动运行记录DB存储"
+  },
+  "최소길이" : {
+    "en" : "Minimum length",
+    "ja" : "最小長さ",
+    "vi" : "Độ dài tối thiểu",
+    "zh" : "最小长度"
+  },
+  "양식편집 화면이 닫혔습니다. 다시 시도해주세요." : {
+    "en" : "The form editing screen has been closed. Please try again.",
+    "ja" : "フォーム編集画面が終了されました。もう一度お試しください。",
+    "vi" : "Màn hình chỉnh sửa biểu mẫu đã được đóng. Vui lòng thử lại.",
+    "zh" : "格式编辑画面已关闭。 请再试一次。"
+  },
+  "상단홍보문구" : {
+    "en" : "Promotional Phrase (Top)",
+    "ja" : "上段の広報フレーズ",
+    "vi" : "Cụm từ quảng cáo hàng đầu",
+    "zh" : "上端宣传文句"
+  },
+  "선색" : {
+    "en" : "Line Color",
+    "ja" : "線の色",
+    "vi" : "Chọn",
+    "zh" : "线颜色"
+  },
+  "문서공개여부" : {
+    "en" : "Document Disclosure Status",
+    "ja" : "ドキュメント公開可否",
+    "vi" : "Có công khai tài liệu hay không",
+    "zh" : "是否公开文件"
+  },
+  "테두리 아래" : {
+    "en" : "Bottom Border",
+    "ja" : "枠の下",
+    "vi" : "Viền dưới",
+    "zh" : "界线下边"
+  },
+  "양식을 작성해주세요." : {
+    "en" : "Please complete the template.",
+    "ja" : "様式を作成してください。",
+    "vi" : "Vui lòng viết mẫu.",
+    "zh" : "请编辑格式。"
+  },
+  "바인딩 유형" : {
+    "en" : "Binding type",
+    "ja" : "バインディングパターン",
+    "vi" : "Loại ràng buộc",
+    "zh" : "绑定类型"
+  },
+  "오류 알림 대상을 지정해주세요." : {
+    "en" : "Please assign error notification target",
+    "ja" : "エラー通知対象を指定してください。",
+    "vi" : "Hãy chỉ định đối tượng thông báo lỗi.",
+    "zh" : "请指定错误提醒对象。"
+  },
+  "회사" : {
+    "en" : "Company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "셀 높이에 맞게" : {
+    "en" : "Fit to cell height",
+    "ja" : "セルの高さに合わせる",
+    "vi" : "Vừa với chiều cao của ô",
+    "zh" : "按照cell高度"
+  },
+  "오류 코드 지정없이 오류컬럼에 값이 있으면 오류로 처리." : {
+    "en" : "If there is a value in the error column even though an error code wasn't assigned, process it as an error.",
+    "ja" : "エラーコードの指定なくエラーカラムに値がある場合、エラー処理",
+    "vi" : "Nếu có một giá trị trong cột lỗi không chỉ định mã lỗi thì được xử lý là một lỗi.",
+    "zh" : "没有指定错误编码而在需错误专栏有价的话处理为错误。"
+  },
+  "업로드시 압축을 해제 후 업로드 해주세요." : {
+    "en" : "Please unzip the file before uploading.",
+    "ja" : "アップロード時は圧縮を解凍してからアップロードしてください。",
+    "vi" : "Vui lòng giải nén trước khi tải lên.",
+    "zh" : "请在解除压缩后上传。"
+  },
+  "SQL입력" : {
+    "en" : "Enter SQL",
+    "ja" : "SQL入力",
+    "vi" : "Nhập SQL",
+    "zh" : "输入SQL"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Khoảng thời gian",
+    "zh" : "期间"
+  },
+  "수정한 내용이 모두 삭제 됩니다. 변경 하시겠습니까?" : {
+    "en" : "All unsaved changes will be deleted. Do you want to proceed?",
+    "ja" : "変更内容がすべて削除されます。変更しますか？",
+    "vi" : "Tất cả nội dung đã chỉnh sửa sẽ bị xóa. Bạn có muốn thay đổi không?",
+    "zh" : "所有修改的内容都将被删除。您确定要继续吗？"
+  },
+  "제한된 날짜보다 이전입니다." : {
+    "en" : "It is earlier than the limited date range.",
+    "ja" : "制限された日付より以前です",
+    "vi" : "Nó sớm hơn phạm vi ngày giới hạn.",
+    "zh" : "比限制日子早。"
+  },
+  "지원하지 않는 입력 입니다." : {
+    "en" : "The input is not supported.",
+    "ja" : "サポートしていない入力です。",
+    "vi" : "Dữ liệu đầu vào không được hỗ trợ",
+    "zh" : "不支援的输入。"
+  },
+  "행 추가" : {
+    "en" : "Insert row",
+    "ja" : "行の追加",
+    "vi" : "Thêm dòng",
+    "zh" : "追加行"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "수신" : {
+    "en" : "Receive",
+    "ja" : "受信",
+    "vi" : "Nhận",
+    "zh" : "收信"
+  },
+  "한글 실행기가 열려 있어야 합니다." : {
+    "en" : "Hangul launcher must be running.",
+    "ja" : "ハングルフォントがインストールされている必要があります。",
+    "vi" : "Ứng dụng kích hoạt tiếng Hàn phải được mở.",
+    "zh" : "需打开韩语实行器。"
+  },
+  "양식을 반드시 선택하세요." : {
+    "en" : "You must select a form.",
+    "ja" : "フォームを必ず選択してください。",
+    "vi" : "Bạn phải chọn bản mẫu.",
+    "zh" : "必须得选择样式。"
+  },
+  "인터페이스는 복사되지 않습니다." : {
+    "en" : "Interface cannot be copied.",
+    "ja" : "インタフェースはコピーできません。",
+    "vi" : "Giao diện không được sao chép.",
+    "zh" : "界面无法复制。"
+  },
+  "결재의견" : {
+    "en" : "Approval opinion",
+    "ja" : "決裁意見",
+    "vi" : "Ý kiến phê duyệt",
+    "zh" : "决裁意见"
+  },
+  "결재의견입니다." : {
+    "en" : "This is the approver's opinion.",
+    "ja" : "決裁に関するコメントです。",
+    "vi" : "Đây là ý kiến phê duyệt.",
+    "zh" : "本内容为审批意见。"
+  },
+  "왼쪽" : {
+    "en" : "Left",
+    "ja" : "左",
+    "vi" : "Bên trái",
+    "zh" : "左边"
+  },
+  "먼저 시스템을 등록하고 업로드해주세요." : {
+    "en" : "Please register the system first, then try the upload.",
+    "ja" : "先にシステムを登録してからアップロードしてください。",
+    "vi" : "Vui lòng đăng ký hệ thống trước khi tải lên.",
+    "zh" : "请先登录系统再上传。"
+  },
+  "반복 삭제 버튼" : {
+    "en" : "Delete Repeat button",
+    "ja" : "繰返し削除ボタン",
+    "vi" : "Nút xóa trùng lặp",
+    "zh" : "反复删除按钮"
+  },
+  "등록된 연동 시스템이 없습니다." : {
+    "en" : "No registered linked system.",
+    "ja" : "登録された連動システムがありません。",
+    "vi" : "Không có hệ thống liên kết.",
+    "zh" : "没有登录的联动系统没有登录的联动系统。"
+  },
+  "수식" : {
+    "en" : "Formula",
+    "ja" : "式",
+    "vi" : "Công thức",
+    "zh" : "数式"
+  },
+  "오류 설정" : {
+    "en" : "Error settings",
+    "ja" : "エラー設定",
+    "vi" : "Cài đặt lỗi",
+    "zh" : "错误设定"
+  },
+  "리소스를 선택해 주세요." : {
+    "en" : "Please Select a Resource.",
+    "ja" : "リソースを選択してください",
+    "vi" : "Vui lòng chọn tài nguyên cần.",
+    "zh" : "请选择资源。"
+  },
+  "전자결재" : {
+    "en" : "E-Approval",
+    "ja" : "電子決裁",
+    "vi" : "Phê duyệt điện tử",
+    "zh" : "电子决裁"
+  },
+  "날짜형식이 잘못되었습니다." : {
+    "en" : "Invalid date format.",
+    "ja" : "日付の形式が正しくありません。",
+    "vi" : "Định dạng ngày không đúng.",
+    "zh" : "日期形式有错误。"
+  },
+  "스크립트 작성화면이 닫혔습니다. 다시 시도해주세요." : {
+    "en" : "The script writing screen has been closed. Please try again.",
+    "ja" : "スクリプト作成終了されました。もう一度お試しください。",
+    "vi" : "Màn hình viết kịch bản đã được đóng. Vui lòng thử lại.",
+    "zh" : "脚本编写屏幕已关闭 。 请再试一次。"
+  },
+  "한글 에디터를 불러오는 중입니다." : {
+    "en" : "Hangul editor is loading.",
+    "ja" : "ハングルエディタを読み込んでいます。",
+    "vi" : "Đang mở Hancom.",
+    "zh" : "正在加载韩语程序。"
+  },
+  "연동" : {
+    "en" : "Link with",
+    "ja" : "連動",
+    "vi" : "Liên kết với",
+    "zh" : "联动"
+  },
+  "문서 편집" : {
+    "en" : "Edit document",
+    "ja" : "文書編集",
+    "vi" : "Chỉnh sửa tài liệu",
+    "zh" : "编辑文件"
+  },
+  "블릿 목록" : {
+    "en" : "Blit list",
+    "ja" : "ブリットリスト",
+    "vi" : "Danh sách Blit",
+    "zh" : "nsertunordered目录"
+  },
+  "연결할 인터페이스 데이터를 선택 하세요." : {
+    "en" : "Please select the interface data to connect.",
+    "ja" : "接続するインタフェースデータを選択してください。",
+    "vi" : "Vui lòng chọn dữ liệu giao diện để kết nối.",
+    "zh" : "请选择要连接的接口数据。"
+  },
+  "폼" : {
+    "en" : "Form",
+    "ja" : "フォーム",
+    "vi" : "Biểu mẫu",
+    "zh" : "表单"
+  },
+  "수신처 결재선" : {
+    "en" : "Recipient approval line.",
+    "ja" : "宛先決裁ライン",
+    "vi" : "Dòng phê duyệt người nhận.",
+    "zh" : "收件人审批线"
+  },
+  "데이터 길이를 입력 하세요." : {
+    "en" : "Enter data length.",
+    "ja" : "データの長さを入力してください。",
+    "vi" : "Hãy nhập chiều dài dữ liệu.",
+    "zh" : "请输入数据长度"
+  },
+  "양식분류" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục mẫu",
+    "zh" : "样式分类"
+  },
+  "자리" : {
+    "en" : "Places",
+    "ja" : "桁",
+    "vi" : "Địa điểm",
+    "zh" : "位数"
+  },
+  "양식을 저장해야 실제 반영 됩니다." : {
+    "en" : "You need to save the form for it to be reflected.",
+    "ja" : "フォームを保存すると実際に反映されます。",
+    "vi" : "Bạn cần lưu biểu mẫu để thay đổi được áp dụng.",
+    "zh" : "只有把表格保存下来,才能实际反映出来。"
+  },
+  "단일선택" : {
+    "en" : "Single choice",
+    "ja" : "単一選択型",
+    "vi" : "Lựa chọn duy nhất",
+    "zh" : "单一选择型"
+  },
+  "반복 그룹 아이디" : {
+    "en" : "Repeat Group ID",
+    "ja" : "繰返しグループID",
+    "vi" : "ID nhóm trùng lặp",
+    "zh" : "Guide Line 打印"
+  },
+  "복사가 완료 되었습니다" : {
+    "en" : "Copied successfully.",
+    "ja" : "コピーが完了しました",
+    "vi" : "Đã hoàn thành sao chép.",
+    "zh" : "复制完毕"
+  },
+  "개" : {
+    "en" : "units",
+    "ja" : "個",
+    "vi" : "đơn vị",
+    "zh" : "个"
+  },
+  "관계사 포함" : {
+    "en" : "Include Related Companies",
+    "ja" : "関係会社を含む",
+    "vi" : "Bao gồm công ty liên kết",
+    "zh" : "包括关系词"
+  },
+  "폼 디자이너" : {
+    "en" : "Form designer",
+    "ja" : "フォームデザイナ",
+    "vi" : "Thiết kế bản mẫu",
+    "zh" : "格设计师"
+  },
+  "위쪽" : {
+    "en" : "Up",
+    "ja" : "上側",
+    "vi" : "Trên",
+    "zh" : "上边"
+  },
+  "해당 양식분류가 삭제됩니다.(해당 분류로 작성된 폼도 삭제됩니다.)" : {
+    "en" : "The form category will be deleted. (Forms created with the selected category will be deleted, too)",
+    "ja" : "該当フォームのカテゴリが削除されます。（該当カテゴリに作成されたフォームも削除されます。）",
+    "vi" : "Danh mục bản mẫu tương ứng đã bị xóa. (bản mẫu viết theo phân loại tương ứng cũng bị xóa.)",
+    "zh" : "有关样式分类进行删除。（由于有关分类制作的形式也进行删除。）"
+  },
+  "폼 편집 영역" : {
+    "en" : "Form Edit area",
+    "ja" : "フォーム編集領域",
+    "vi" : "Khu vực biên tập bản mẫu",
+    "zh" : "样式编辑领域"
+  },
+  "추출 key / value을 입력 하세요." : {
+    "en" : "Enter extraction key / value.",
+    "ja" : "抽出key / valueを入力してください。",
+    "vi" : "Hãy nhập khóa/giá trị chiết xuất.",
+    "zh" : "请输入提取 key / value。"
+  },
+  "양식 정보가 없습니다." : {
+    "en" : "There's no information regarding format.",
+    "ja" : "様式情報がありません。",
+    "vi" : "Không có thông tin mẫu.",
+    "zh" : "无格式信息。"
+  },
+  "데이터 형식" : {
+    "en" : "Data format",
+    "ja" : "データ形式",
+    "vi" : "Định dạng dữ liệu",
+    "zh" : "数据形式"
+  },
+  "테이블 삽입" : {
+    "en" : "Insert table",
+    "ja" : "テーブル挿入",
+    "vi" : "Chèn bảng",
+    "zh" : "插入表格"
+  },
+  "모바일웹 보기" : {
+    "en" : "View mobile web",
+    "ja" : "モバイルWeb表示",
+    "vi" : "Xem web di động",
+    "zh" : "看移动通信网络"
+  },
+  "등록번호" : {
+    "en" : "Registration number",
+    "ja" : "登録番号",
+    "vi" : "Số đăng ký",
+    "zh" : "登录号码"
+  },
+  "이미지" : {
+    "en" : "Image",
+    "ja" : "画像",
+    "vi" : "Hình ảnh",
+    "zh" : "图像"
+  },
+  "회사고유번호" : {
+    "en" : "Company identification number",
+    "ja" : "会社の固有番号",
+    "vi" : "Số nhận dạng công ty",
+    "zh" : "公司固有号码"
+  },
+  "한글" : {
+    "en" : "Korean",
+    "ja" : "ハングル",
+    "vi" : "Tiếng Hàn",
+    "zh" : "韩文"
+  },
+  "분류" : {
+    "en" : "Categories",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "分类"
+  },
+  "테두리 없음" : {
+    "en" : "No borders",
+    "ja" : "枠なし",
+    "vi" : "Không có viền",
+    "zh" : "没有界线"
+  },
+  "양식 여백" : {
+    "en" : "Form margins",
+    "ja" : "フォーム余白",
+    "vi" : "Lề trang",
+    "zh" : "样式空白"
+  },
+  "값이 비어있습니다." : {
+    "en" : "Value is empty.",
+    "ja" : "値が空欄です。",
+    "vi" : "Giá trị trống.",
+    "zh" : "值为空。"
+  },
+  "컬럼명을 입력 하세요." : {
+    "en" : "Enter a column name.",
+    "ja" : "カラム名を入力してください。",
+    "vi" : "Hãy nhập tên cột.",
+    "zh" : "请输入专栏名"
+  },
+  "양식 선택" : {
+    "en" : "Select a form",
+    "ja" : "フォーム選択",
+    "vi" : "Chọn bản mẫu",
+    "zh" : "选择样式"
+  },
+  "프로시저 명을 입력해 주세요." : {
+    "en" : "Please enter a procedure name.",
+    "ja" : "手順名を入力してください。",
+    "vi" : "Vui lòng nhập tên thủ tục.",
+    "zh" : "请输入程序名。"
+  },
+  "원본크기" : {
+    "en" : "Original size",
+    "ja" : "原本サイズ",
+    "vi" : "Kích thước gốc",
+    "zh" : "原文大小"
+  },
+  "감사결재칸 개수" : {
+    "en" : "No. of Audit Approval Boxes",
+    "ja" : "監査決裁欄の個数",
+    "vi" : "Số lượng hộp kiểm toán",
+    "zh" : "审计决批准"
+  },
+  "설명입니다" : {
+    "en" : "Description",
+    "ja" : "説明です",
+    "vi" : "Đây là mô tả",
+    "zh" : "说明"
+  },
+  "복사 저장" : {
+    "en" : "Copy & Save",
+    "ja" : "コピー保存",
+    "vi" : "Sao chép và lưu",
+    "zh" : "拷贝保存"
+  },
+  "연동 API 테스트" : {
+    "en" : "API Connection Test",
+    "ja" : "連動APIテスト",
+    "vi" : "Kiểm tra API đã kết nối",
+    "zh" : "联动API 试验"
+  },
+  "선택해주세요." : {
+    "en" : "Please select.",
+    "ja" : "選択してください。",
+    "vi" : "Hãy chọn.",
+    "zh" : "请选择"
+  },
+  "테이블명을 입력 하세요." : {
+    "en" : "Enter a table name.",
+    "ja" : "テーブル名を入力してください。",
+    "vi" : "Hãy nhập tên bảng.",
+    "zh" : "请输入表格名"
+  },
+  "셀렉트박스" : {
+    "en" : "Select box",
+    "ja" : "セレクトBox",
+    "vi" : "Hộp chọn",
+    "zh" : "select箱"
+  },
+  "새창" : {
+    "en" : "New window",
+    "ja" : "新しいウィンドウ",
+    "vi" : "Cửa sổ mới",
+    "zh" : "新窗口"
+  },
+  "인터페이스 선택" : {
+    "en" : "Select interface",
+    "ja" : "インターフェース選択",
+    "vi" : "Chọn giao diện",
+    "zh" : "选择接口"
+  },
+  "기존과 동일한 공용 폼릿은 옵션에 따라 그대로 사용하거나, 현재 공용 폼릿으로 덮어쓰기 합니다." : {
+    "en" : "The same public formlet as the existing one will be used as it is, depending on the option. Or, it will be overwritten with the current public formlet.",
+    "ja" : "従来と同じ共用フォームレットは、オプションに従ってそのまま使用するか、現在の共用フォームレットで上書きされます。",
+    "vi" : "Tùy theo lựa chọn mà formlet chung trùng lặp với formlet gốc sẽ vẫn được sử dụng như vậy, hoặc được lưu đè bằng formlet chung hiện tại.",
+    "zh" : "已有相同公用Formlet将根据选项照旧使用，或用当前公用Formlet进行覆盖。"
+  },
+  "오류시 입력파라미터 로그남김" : {
+    "en" : "Leave Entry Parameter Log when an error occurs",
+    "ja" : "エラーの時に入力パラメータログを記録する",
+    "vi" : "Khi một lỗi xảy ra, một bản nhật ký ghi tham số mục nhập sẽ được để lại.",
+    "zh" : "有错误时剩下输入参数记录"
+  },
+  "HWP 양식은 인터넷 익스플로러에서만 조회 가능 합니다." : {
+    "en" : "The HWP forms can only be viewed in Internet Explorer.",
+    "ja" : "HWPフォームは、Internet Explorerでのみ照会可能です。",
+    "vi" : "Các bản mẫu HWP chỉ có thể được xem trong trình duyệt Internet Explorer.",
+    "zh" : "HWP 样式只能在因特网浏览器上进行查询。"
+  },
+  "호출 방법" : {
+    "en" : "Call methods",
+    "ja" : "呼び出し方法",
+    "vi" : "Phương pháp gọi",
+    "zh" : "传呼方法"
+  },
+  "버튼형" : {
+    "en" : "Button type",
+    "ja" : "ボタン型",
+    "vi" : "Loại nút bấm",
+    "zh" : "按钮型"
+  },
+  "수신결재선" : {
+    "en" : "Receiving Line of Approval",
+    "ja" : "受信決裁ライン",
+    "vi" : "Luồng nhận phê duyệt",
+    "zh" : "收信决批准"
+  },
+  "연동시스템을 선택하세요." : {
+    "en" : "Select a linked system.",
+    "ja" : "連動システムを選択してください。",
+    "vi" : "Hãy chọn hệ thống liên kết.",
+    "zh" : "请选择联动系统"
+  },
+  "변경할 양식을 선택하세요." : {
+    "en" : "Please select a form to modify.",
+    "ja" : "変更するフォームを選択してください。",
+    "vi" : "Bạn hãy chọn bản mẫu để thay đổi.",
+    "zh" : "请选择要变更的样式。"
+  },
+  "열 추가" : {
+    "en" : "Insert column",
+    "ja" : "列の追加",
+    "vi" : "Thêm cột",
+    "zh" : "追加列"
+  },
+  "파라미터" : {
+    "en" : "Parameter",
+    "ja" : "パラメータ",
+    "vi" : "Tham số",
+    "zh" : "参数形式"
+  },
+  "오전 9시" : {
+    "en" : "9 A.M",
+    "ja" : "午前 9時",
+    "vi" : "9 giờ sáng",
+    "zh" : "上午 9点"
+  },
+  "양식연동" : {
+    "en" : "Link forms",
+    "ja" : "リンクフォーム",
+    "vi" : "Liên kết bản mẫu",
+    "zh" : "样式联动"
+  },
+  "양식 유형" : {
+    "en" : "Form Type",
+    "ja" : "フォームタイプ",
+    "vi" : "Loại mẫu",
+    "zh" : "使用"
+  },
+  "테두리 위" : {
+    "en" : "Top Border",
+    "ja" : "枠の上",
+    "vi" : "Viền trên",
+    "zh" : "界线上边"
+  },
+  "합의결재칸 개수" : {
+    "en" : "No. of Consensus Approval Boxes",
+    "ja" : "合議決裁ライン",
+    "vi" : "Luồng hợp tác phê duyệt",
+    "zh" : "协助决批准"
+  },
+  "양식생성" : {
+    "en" : "Create new form",
+    "ja" : "様式を作成する",
+    "vi" : "Tạo mẫu",
+    "zh" : "生成格式"
+  },
+  "공개구분" : {
+    "en" : "Disclosure Classification",
+    "ja" : "公開区分",
+    "vi" : "Phân loại",
+    "zh" : "公开区分"
+  },
+  "컬럼 고유번호" : {
+    "en" : "Column unique number",
+    "ja" : "カラム固有番号",
+    "vi" : "Mã số của cột",
+    "zh" : "列唯一编号"
+  },
+  "양식 명을 입력하세요." : {
+    "en" : "Enter a form name.",
+    "ja" : "フォーム名を入力してください。",
+    "vi" : "Nhập tên form.",
+    "zh" : "请输入样式名"
+  },
+  "상위 분류 선택" : {
+    "en" : "Select Parent Category",
+    "ja" : "上位カテゴリの選択",
+    "vi" : "Chọn danh mục trên",
+    "zh" : "选择上位分类"
+  },
+  "업무명" : {
+    "en" : "Task name",
+    "ja" : "業務名",
+    "vi" : "Tên tác vụ",
+    "zh" : "业务名"
+  },
+  "버튼명을 입력하세요." : {
+    "en" : "Enter a button name.",
+    "ja" : "ボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút.",
+    "zh" : "请输入按钮名"
+  },
+  "합의/수신결재선" : {
+    "en" : "Consensus/Reception Line of Approval",
+    "ja" : "合意/受信決裁ライン",
+    "vi" : "Đường phê duyệt đồng ý/ nhận",
+    "zh" : "协议/收信批准线"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "양식 목록" : {
+    "en" : "Form List",
+    "ja" : "フォームリスト",
+    "vi" : "Danh sách bản mẫu",
+    "zh" : "样式目录"
+  },
+  "라벨" : {
+    "en" : "Label",
+    "ja" : "ラベル",
+    "vi" : "Nhãn",
+    "zh" : "标签"
+  },
+  "일반기안문" : {
+    "en" : "General Draft",
+    "ja" : "一般起案文",
+    "vi" : "Bản thảo tài liệu chung",
+    "zh" : "一般起草文"
+  },
+  "팀장" : {
+    "en" : "Team leader",
+    "ja" : "チーム長",
+    "vi" : "Trưởng nhóm",
+    "zh" : "队长"
+  },
+  "감사 의견서" : {
+    "en" : "Audit Opinion Form",
+    "ja" : "監査意見書",
+    "vi" : "Đơn ý kiến giám sát",
+    "zh" : "审计意见书"
+  },
+  "오류 알림을 사용하면 지정한 담당자에게 오류로그 알림 쪽지를 발송합니다." : {
+    "en" : "If you use error notifications, an error log notification note will be sent to the selected manager.",
+    "ja" : "エラー通知を使用すると指定した担当者にエラーローグ",
+    "vi" : "Nếu sử dụng thông báo lỗi thì lời nhắn thông báo nhật ký lỗi sẽ được gửi tới người phụ trách được chỉ định.",
+    "zh" : "使用错误提醒的话给指定的负责人发送错误运行记录提醒纸条。"
+  },
+  "분류 이동" : {
+    "en" : "Move category",
+    "ja" : "カテゴリを移動",
+    "vi" : "Di chuyển danh mục",
+    "zh" : "移动分类"
+  },
+  "그룹양식" : {
+    "en" : "Group form",
+    "ja" : "グループフォーム",
+    "vi" : "Biểu mẫu Nhóm",
+    "zh" : "小组样式"
+  },
+  "공용 폼릿은 복사되지 않고 양식에 포함됩니다." : {
+    "en" : "Public formlet doesn't get copied but gets included in the format.",
+    "ja" : "共用フォームはコピーされずに様式に含まれます。",
+    "vi" : "Formlet chung không được sao chép và được bao gồm trong mẫu.",
+    "zh" : "无法复制共享formlet，其包含于格式中。"
+  },
+  "양식 유형 선택" : {
+    "en" : "Select a form type",
+    "ja" : "フォームのタイプを選択",
+    "vi" : "Chọn một loại bản mẫu",
+    "zh" : "选择样式类型"
+  },
+  "항목 이름" : {
+    "en" : "Item name",
+    "ja" : "項目名",
+    "vi" : "Tên mục",
+    "zh" : "项目名字"
+  },
+  "연결" : {
+    "en" : "Connect",
+    "ja" : "リンク",
+    "vi" : "Kết nối",
+    "zh" : "连接"
+  },
+  "수동" : {
+    "en" : "Manual",
+    "ja" : "手動",
+    "vi" : "Thủ công",
+    "zh" : "手动"
+  },
+  "중복된 항목이 존재합니다." : {
+    "en" : "There is a duplicate item.",
+    "ja" : "重複した項目が存在してます。",
+    "vi" : "Tồn tại mục có sự trùng lặp mục.",
+    "zh" : "有重复的项目。"
+  },
+  "실패" : {
+    "en" : "Failure",
+    "ja" : "失敗",
+    "vi" : "Thất bại",
+    "zh" : "失败"
+  },
+  "매퍼 호출 SQL 유형" : {
+    "en" : "Mapper calling SQL type",
+    "ja" : "マッパーの呼び出しSQLパターン",
+    "vi" : "Gọi Mapper kiểu SQL",
+    "zh" : "Mapper呼叫SQL 类型"
+  },
+  "작성일+1" : {
+    "en" : "Date (Written) + 1",
+    "ja" : "作成日+1",
+    "vi" : "Ngày + 1",
+    "zh" : "制作日+1"
+  },
+  "오류 코드를 추가해주세요." : {
+    "en" : "Please add an error code.",
+    "ja" : "エラーコードを追加してください。",
+    "vi" : "Hãy thêm mã lỗi.",
+    "zh" : "请追加错误编码。"
+  },
+  "너비 입력" : {
+    "en" : "Enter width",
+    "ja" : "幅入力",
+    "vi" : "Nhập chiều rộng",
+    "zh" : "输入宽度"
+  },
+  "수정일" : {
+    "en" : "Date modified",
+    "ja" : "修正日",
+    "vi" : "Ngày sửa đổi",
+    "zh" : "修改日"
+  },
+  "반복 그룹 아이디를 입력하세요." : {
+    "en" : "Enter a repeat group ID.",
+    "ja" : "繰返しグループIDを入力してください。",
+    "vi" : "Hãy nhập lặp lại ID nhóm",
+    "zh" : "请输入反复组织用户名"
+  },
+  "서명" : {
+    "en" : "Signature",
+    "ja" : "署名",
+    "vi" : "Chữ ký",
+    "zh" : "签名"
+  },
+  "삭제할 인터페이스를 선택 해주세요." : {
+    "en" : "Please select an interface to delete.",
+    "ja" : "削除するインターフェイスを選択してください。",
+    "vi" : "Vui lòng chọn một giao diện để xóa.",
+    "zh" : "请选择要删除的接口。"
+  },
+  "빈 폼릿이 있습니다. 작성하지 않은 폼릿은 삭제 하시기 바랍니다." : {
+    "en" : "There is an empty formlet. Please delete the formlets that you're not using.",
+    "ja" : "空のフォームレットがあります。作成していないフォームレットは削除してください。",
+    "vi" : "Có formlet trống. Hãy xóa formlet bạn không dùng.",
+    "zh" : "有空的Formlet。没有做的Formlet请删除。"
+  },
+  "문서" : {
+    "en" : "Documents",
+    "ja" : "ドキュメント",
+    "vi" : "Tài liệu",
+    "zh" : "文件"
+  },
+  "분류관리" : {
+    "en" : "Manage categories",
+    "ja" : "カテゴリ管理",
+    "vi" : "Quản lý danh mục",
+    "zh" : "管理分类"
+  },
+  "양식명은 100Byte 이내로 작성해주세요." : {
+    "en" : "Form name must be less than 100Bytes.",
+    "ja" : "フォーム名は100Byte以内で作成してください。",
+    "vi" : "Tên bản mẫu phải nhỏ hơn 100Byte.",
+    "zh" : "样式名请输入100Byte以内。"
+  },
+  "접수번호" : {
+    "en" : "Submission No.",
+    "ja" : "受付番号",
+    "vi" : "Số tiếp nhận",
+    "zh" : "接收号码"
+  },
+  "작성한 javascript code는 컨트롤 생성 시 등록한 javascript보다 늦게 실행 되므로 컨트롤에서 편집기에 작성한 함수가 화면 로드 시 호출되지 않도록 해야 합니다." : {
+    "en" : "The javascript code you have created runs later than the javascript added while generating the control. Therefore, make sure that the function created at the control to the editor won't get called when loading the screen.",
+    "ja" : "作成したjavascript codeは、コントロールの作成時に登録したjavascriptより遅れて実行されるため、コントロールでエディタに作成された関数が画面ロード時に呼び出されないようにする必要があります。",
+    "vi" : "Mã javascript bạn tạo chạy trễ hơn mã javascript được thêm vào khi tạo điều khiển. Khi chức năng đang tải đến Trình chỉnh sửa trong điều khiển, hãy đảm bảo rằng nó sẽ không được gọi.",
+    "zh" : "制作的 javascript code 比新建控制时登录的  javascript 实行完一点儿而在控制写在编辑器的函数登录画面时不应该被传呼。"
+  },
+  "편집" : {
+    "en" : "Edit",
+    "ja" : "編集",
+    "vi" : "Biên tập",
+    "zh" : "编辑"
+  },
+  "미리보기 화면으로 HWP 화면과 다를 수 있으며,  {0}버튼으로 만들어 주세요." : {
+    "en" : "The preview may appear differen from the HWP screen. Please create one with the {0} button.",
+    "ja" : "プレビュー画面であり、HWP画面と異なる場合があります。{0}ボタンをクリックし、作成してください。",
+    "vi" : "Màn hình xem trước có thể khác với màn hình HWP, vui lòng tạo bằng nút {0}.",
+    "zh" : "预览页面可能与HWP页面不同，请添加{0}按键。"
+  },
+  "한글 실행기가 설치되지 않았거나 한글 실행기 호출 시 오류가 발생하였습니다." : {
+    "en" : "Hangul launcher is not installed or there was an error while loading Hangul launcher.",
+    "ja" : "ハングルフォントがインストールされていないか、ハングルフォントを読み込む時にエラーが発生しました。",
+    "vi" : "Ứng dụng kích hoạt tiếng Hàn chưa được cài đặt hoặc có lỗi khi kích hoạt ứng dụng tiếng Hàn.",
+    "zh" : "没有设置韩语实行器或实行韩语实行器时产生错误。"
+  },
+  "결재선" : {
+    "en" : "Line of Approval",
+    "ja" : "決裁ライン",
+    "vi" : "Luồng phê duyệt",
+    "zh" : "决批准"
+  },
+  "수식이 잘못되었습니다." : {
+    "en" : "Invalid formula.",
+    "ja" : "数式が間違っています。",
+    "vi" : "Công thức không hợp lệ.",
+    "zh" : "修饰不当。"
+  },
+  "SAP OUT DATA 명을 입력하세요" : {
+    "en" : "Enter the SAP OUT DATA name.",
+    "ja" : "SAP OUT DATA名を入力してください",
+    "vi" : "Nhập SAP OUT DATA.",
+    "zh" : "请输入SAP OUT DATA 。"
+  },
+  "분류 관리" : {
+    "en" : "Manage categories",
+    "ja" : "カテゴリ管理",
+    "vi" : "Quản lý danh mục",
+    "zh" : "管理分类"
+  },
+  "사용자 선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "직접입력" : {
+    "en" : "Enter Manually",
+    "ja" : "直接入力",
+    "vi" : "Nhập trực tiếp",
+    "zh" : "自己输入"
+  },
+  "기관명" : {
+    "en" : "Institution name",
+    "ja" : "機関名",
+    "vi" : "Tên cơ quan",
+    "zh" : "企管名"
+  },
+  "부서양식" : {
+    "en" : "Department Form",
+    "ja" : "部署フォーム",
+    "vi" : "bản mẫu Phòng ban",
+    "zh" : "部门样式"
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter a search keyword.",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ khóa tìm kiếm.",
+    "zh" : "请输入搜索语。"
+  },
+  "Google로 로그인 해야 해당 양식을 작성 할 수 있습니다." : {
+    "en" : "You need to be logged in to Google to fill out this form.",
+    "ja" : "このフォームに入力するには、Googleにログインする必要があります。",
+    "vi" : "Bạn cần đăng nhập bằng Google để điền vào biểu mẫu này.",
+    "zh" : "您需要登录 Google 才能填写此表单。"
+  },
+  "붙임" : {
+    "en" : "Attach",
+    "ja" : "貼り付け",
+    "vi" : "Dán",
+    "zh" : "贴上"
+  },
+  "컬럼 유형" : {
+    "en" : "Column type",
+    "ja" : "カラムタイプ",
+    "vi" : "Loại cột",
+    "zh" : "列类型"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "양식 분류" : {
+    "en" : "Form Category",
+    "ja" : "カテゴリを選択",
+    "vi" : "Danh mục mẫu",
+    "zh" : "选择分类"
+  },
+  "수신처결재선" : {
+    "en" : "Destination Line of Approval",
+    "ja" : "受信先決裁ライン",
+    "vi" : "Luồng người nhận phê duyệt",
+    "zh" : "收信决批准"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "바로 실행" : {
+    "en" : "Execute immediately",
+    "ja" : "すぐに実行",
+    "vi" : "Thực hiện ngay lập tức",
+    "zh" : "直接实行"
+  },
+  "히든박스" : {
+    "en" : "Hidden box",
+    "ja" : "隠しBox",
+    "vi" : "Hộp ẩn",
+    "zh" : "hidden箱"
+  },
+  "표현방식" : {
+    "en" : "Expression method",
+    "ja" : "表現形式",
+    "vi" : "Phương pháp biểu đạt",
+    "zh" : "表现方式"
+  },
+  "글자 바탕색" : {
+    "en" : "Text background color",
+    "ja" : "文字の背景色",
+    "vi" : "Màu nền chữ",
+    "zh" : "文字底色"
+  },
+  "에러코드 추가" : {
+    "en" : "Add error codes",
+    "ja" : "エラーコード追加",
+    "vi" : "Thêm mã lỗi",
+    "zh" : "追加错误代码"
+  },
+  "글자 바탕색 선택" : {
+    "en" : "Select font background color",
+    "ja" : "文字の背景色を選択",
+    "vi" : "Chọn màu nền chữ",
+    "zh" : "选择文字背景颜色"
+  },
+  "필수" : {
+    "en" : "Required",
+    "ja" : "必須",
+    "vi" : "Bắt buộc",
+    "zh" : "必须"
+  },
+  "표기" : {
+    "en" : "Label",
+    "ja" : "表記",
+    "vi" : "Hiển thị",
+    "zh" : "标记"
+  },
+  "시행일자" : {
+    "en" : "Effective Date (Enforcement Date)",
+    "ja" : "施行日付",
+    "vi" : "Ngày thực thi",
+    "zh" : "实行日子"
+  },
+  "오류 설명" : {
+    "en" : "Error description",
+    "ja" : "エラー説明",
+    "vi" : "Giải thích lỗi",
+    "zh" : "错误说明"
+  },
+  "가,나,다" : {
+    "en" : "A, B, C",
+    "ja" : "ア、イ、ウ",
+    "vi" : "ABC",
+    "zh" : "字母顺序"
+  },
+  "셀 여백" : {
+    "en" : "Cell Margin",
+    "ja" : "セル余白",
+    "vi" : "Lề cột",
+    "zh" : "单元空白"
+  },
+  "양식에 신규 공용 폼릿 포함되어 있으면, 새로 공용 폼릿을 생성합니다." : {
+    "en" : "If a new public formlet is included in the form, a new formlet will be created.",
+    "ja" : "様式に新規の共用フォームレットが含まれている場合は、新たに共用フォームレットを作成します。",
+    "vi" : "Tạo formlet chung mới nếu trong mẫu có bao gồm formlet chung mới.",
+    "zh" : "若样本中包含新公用Formlet ，将会生成新公用Formlet。"
+  },
+  "부서장" : {
+    "en" : "Head of Department",
+    "ja" : "部署長",
+    "vi" : "Trưởng bộ phận",
+    "zh" : "部门长"
+  },
+  "AI 고급설정" : {
+    "en" : "AI Advanced Settings",
+    "ja" : "AI高度設定",
+    "vi" : "Cài đặt nâng cao AI",
+    "zh" : "AI 高级设置"
+  },
+  "데이터 길이" : {
+    "en" : "Data length",
+    "ja" : "データの長さ",
+    "vi" : "Chiều dài dữ liệu",
+    "zh" : "数据长数据长度"
+  },
+  "오류 알림" : {
+    "en" : "Error Notification",
+    "ja" : "エラー通知",
+    "vi" : "Thông báo lỗi",
+    "zh" : "提醒错误"
+  },
+  "양식전체" : {
+    "en" : "All forms",
+    "ja" : "フォーム全体",
+    "vi" : "Toàn bộ bản mẫu",
+    "zh" : "全体样式"
+  },
+  "양식분류 변경" : {
+    "en" : "Modify Form Category",
+    "ja" : "フォームカテゴリ変更",
+    "vi" : "Thay đổi danh mục bản mẫu",
+    "zh" : "变更样式分类"
+  },
+  "선택하신 폼릿을 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the selected formlet?",
+    "ja" : "選択したフォームレットを削除しますか？",
+    "vi" : "Bạn có chắc chắn muốn xóa formlet đã chọn?",
+    "zh" : "要删除您选择的Formlet吗？"
+  },
+  "인터페이스 연결" : {
+    "en" : "Connect interface",
+    "ja" : "インターフェース接続",
+    "vi" : "Liên kết giao diện",
+    "zh" : "连接接口"
+  },
+  "오류 컬럼 선택" : {
+    "en" : "Select error column",
+    "ja" : "エラーカラム選択",
+    "vi" : "Chọn cột lỗi",
+    "zh" : "选择错误专栏"
+  },
+  "결재 진행 상태별 연동시스템 관련 실행명령을 등록합니다." : {
+    "en" : "Add the linked system-related execution commands by approval progress status",
+    "ja" : "決裁進行状態別の連動システムに関する実行コマンドを登録します。",
+    "vi" : "Thêm các lệnh liên quan đến hệ thống liên kết theo trạng thái tiến trình phê duyệt",
+    "zh" : "登录进行批准状态别联动系统有关的实行命令。"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "저장된 로그는 연동 로그 메뉴에서 확인할 수 있습니다." : {
+    "en" : "You can check saved logs at the Linked Log menu.",
+    "ja" : "保存されたログは連携ログメニューから確認できます。",
+    "vi" : "Bạn có thể kiểm tra nhật ký đã lưu trong menu nhật ký được liên kết.",
+    "zh" : "存储的运行记录可以在联动运行记录菜单确认。"
+  },
+  "기업" : {
+    "en" : "Company",
+    "ja" : "公共機関",
+    "vi" : "Doanh nghiệp",
+    "zh" : "公共企管"
+  },
+  "합의/감사/수신결재선" : {
+    "en" : "Consensus/Audit/Reception Line of Approval",
+    "ja" : "合意/監査/受信決裁ライン",
+    "vi" : "Luồng phê duyệt đồng ý/ kiểm toán/ nhận",
+    "zh" : "协议/感谢/收信批准线"
+  },
+  "결재칸 표시항목" : {
+    "en" : "Items Displayed in Approval Box",
+    "ja" : "決済欄表示項目",
+    "vi" : "Các mục hiển thị trong hộp chữ ký phê duyệt",
+    "zh" : "批准间表示项目"
+  },
+  "AI 툴팁" : {
+    "en" : "AI tooltip",
+    "ja" : "AIツールチップ",
+    "vi" : "Chú thích AI",
+    "zh" : "AI工具提示"
+  },
+  "날짜 형식을 입력 하세요." : {
+    "en" : "Enter date format.",
+    "ja" : "日付の形式を入力してください。",
+    "vi" : "Hãy nhập định dạng ngày.",
+    "zh" : "请输入日子形式"
+  },
+  "양식명에 등록일 추가" : {
+    "en" : "Add Date to Form Name",
+    "ja" : "様式名に登録日を追加",
+    "vi" : "Thêm ngày đăng ký vào tên mẫu.",
+    "zh" : "在格式名称中添加登录日期"
+  },
+  "변수 설명" : {
+    "en" : "Variable description",
+    "ja" : "変数説明",
+    "vi" : "Mô tả biến",
+    "zh" : "变量说明"
+  },
+  "입사일" : {
+    "en" : "Date of Employment",
+    "ja" : "入社日",
+    "vi" : "Ngày vào công ty",
+    "zh" : "加入公司日"
+  },
+  "오류 컬럼을 선택하세요." : {
+    "en" : "Please select an error column.",
+    "ja" : "エラーカラムを選択してください。",
+    "vi" : "Vui lòng chọn một cột lỗi.",
+    "zh" : "请选择错误专栏。"
+  },
+  "등록된 인터페이스가 없습니다." : {
+    "en" : "No registered interface.",
+    "ja" : "登録されたインタフェースがありません。",
+    "vi" : "Không có giao diện được thêm.",
+    "zh" : "没有登录的接口。"
+  },
+  "굵게" : {
+    "en" : "Bold",
+    "ja" : "太字",
+    "vi" : "In đậm",
+    "zh" : "粗细"
+  },
+  "내선번호" : {
+    "en" : "Extension number",
+    "ja" : "内線番号",
+    "vi" : "Số nội bộ",
+    "zh" : "内线号码"
+  },
+  "기안자정보" : {
+    "en" : "Drafter Information",
+    "ja" : "起案者情報",
+    "vi" : "Thông tin người nộp đề án",
+    "zh" : "起案者信息"
+  },
+  "양식 테두리" : {
+    "en" : "Form Borders",
+    "ja" : "フォーム枠",
+    "vi" : "Viền bản mẫu",
+    "zh" : "样式界线"
+  },
+  "수신결재부서" : {
+    "en" : "Reception Approval Department",
+    "ja" : "受信決裁部署",
+    "vi" : "Bộ phận nhận phê duyệt",
+    "zh" : "收信批准部门"
+  },
+  "내용을 반드시 입력하세요." : {
+    "en" : "You must enter content.",
+    "ja" : "内容を必ず入力してください。",
+    "vi" : "Bạn hãy nhập nội dung.",
+    "zh" : "必须得输入内容。"
+  },
+  "실행 명령 선택" : {
+    "en" : "Select Execution Command",
+    "ja" : "実行コマンド選択",
+    "vi" : "Chọn lệnh",
+    "zh" : "选择实行命令"
+  },
+  "매퍼 아이디를 입력하세요." : {
+    "en" : "Please enter a mapper ID.",
+    "ja" : "マッパIDを入力してください。",
+    "vi" : "Vui lòng nhập ID mapper.",
+    "zh" : "请输入Mapper用户名。"
+  },
+  "천단위" : {
+    "en" : "In thousands",
+    "ja" : "千単位",
+    "vi" : "hàng nghìn",
+    "zh" : "千单位"
+  },
+  "연동설정" : {
+    "en" : "Linkage Settings",
+    "ja" : "連動修正",
+    "vi" : "Cài đặt kết nối",
+    "zh" : "联动设定"
+  },
+  "작업관리" : {
+    "en" : "Manage Tasks",
+    "ja" : "作業管理",
+    "vi" : "Quản lý thao tác",
+    "zh" : "管理工作"
+  },
+  "변경안함" : {
+    "en" : "Do Not Change",
+    "ja" : "変更しない",
+    "vi" : "Không thay đổi",
+    "zh" : "不进行更改"
+  },
+  "상태연동(게시판)" : {
+    "en" : "Link status (Bulletin board)",
+    "ja" : "状態連携（掲示板）",
+    "vi" : "Liên kết trạng thái (Bảng tin)",
+    "zh" : "状态联动（布告栏）"
+  },
+  "부서코드" : {
+    "en" : "Department code",
+    "ja" : "部署コード",
+    "vi" : "Mã phòng ban/bộ phận",
+    "zh" : "部门代码"
+  },
+  "세션 값" : {
+    "en" : "Session value",
+    "ja" : "セッション値",
+    "vi" : "Giá trị phiên",
+    "zh" : "会话价"
+  },
+  "인터페이스 고유번호" : {
+    "en" : "Interface identification number",
+    "ja" : "インターフェイス固有番号",
+    "vi" : "Số nhận dạng giao diện",
+    "zh" : "接口固有号码"
+  },
+  "결재완료일" : {
+    "en" : "Date approved",
+    "ja" : "決裁完了日",
+    "vi" : "Ngày hoàn thành phê duyệt",
+    "zh" : "批准结束日"
+  },
+  "열을 입력하세요." : {
+    "en" : "Insert column.",
+    "ja" : "列を入力してください。",
+    "vi" : "Chèn cột",
+    "zh" : "请输入列"
+  },
+  "분류 명을 입력하세요." : {
+    "en" : "Please enter a category name.",
+    "ja" : "カテゴリ名を入力してください",
+    "vi" : "Hãy nhập tên danh mục",
+    "zh" : "请输入分类名"
+  },
+  "등록일" : {
+    "en" : "Date registered",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "쿼리를 입력해 주세요." : {
+    "en" : "Please enter a query.",
+    "ja" : "クエリを入力してください。",
+    "vi" : "Vui lòng nhập câu truy vấn.",
+    "zh" : "请输入Query。"
+  },
+  "대상" : {
+    "en" : "target",
+    "ja" : "对象",
+    "vi" : "Mục tiêu",
+    "zh" : "対象"
+  },
+  "3개월이 지난 로그는 자동 삭제됩니다." : {
+    "en" : "Logs that have been more than 3 months will be automatically deleted.",
+    "ja" : "3ヵ月が経過したログは、自動削除されます。",
+    "vi" : "Logo quá 3 tháng sẽ bị xóa tự động.",
+    "zh" : "经过三个月的运行记录会自动删除。"
+  },
+  "상태연동(기업결재)" : {
+    "en" : "Link status (Corporate approval)",
+    "ja" : "状態連携（民間決済）",
+    "vi" : "Liên kết trạng thái (Phê duyệt doanh nghiệp)",
+    "zh" : "状态联动（企业批准）"
+  },
+  "인터페이스 전체" : {
+    "en" : "Interface (All)",
+    "ja" : "インタフェース全体",
+    "vi" : "Toàn bộ giao diện",
+    "zh" : "接口全体"
+  },
+  "다양한 입력 폼과 시스템 연동 기능을 제공합니다" : {
+    "en" : "Provides various input forms and system link features.",
+    "ja" : "様々な入力フォームとシステム連動機能を提供します。",
+    "vi" : "Cung cấp các hình thức chèn khác nhau và chức năng đồng bộ hóa hệ thống",
+    "zh" : "提供多样的输入格式和系统联动功能。"
+  },
+  "확인 후 재시도 해주세요." : {
+    "en" : "Please try again after checking.",
+    "ja" : "確認の上、やり直してください。",
+    "vi" : "Vui lòng thử lại sau khi kiểm tra.",
+    "zh" : "确认后请再试。"
+  },
+  "시스템" : {
+    "en" : "System",
+    "ja" : "システム",
+    "vi" : "Hệ thống",
+    "zh" : "系统"
+  },
+  "아래쪽 정렬" : {
+    "en" : "Bottom Align",
+    "ja" : "下側の並べ替え",
+    "vi" : "Sắp xếp phía dưới",
+    "zh" : "下边整队"
+  },
+  "목록필터" : {
+    "en" : "List filter",
+    "ja" : "リストフィルタ",
+    "vi" : "Bộ lọc danh sách",
+    "zh" : "目录过滤"
+  },
+  "종류를 변경할 수 없습니다." : {
+    "en" : "Type cannot be changed.",
+    "ja" : "種類は変更できません。",
+    "vi" : "Không thể thay đổi loại.",
+    "zh" : "无法更改类型。"
+  },
+  "수신결재칸 개수" : {
+    "en" : "No. of Receiving Line of Approval Boxes",
+    "ja" : "受信決裁ライン",
+    "vi" : "Luồng nhận phê duyệt",
+    "zh" : "收信审批线"
+  },
+  "반올림" : {
+    "en" : "Rounding off",
+    "ja" : "丸める",
+    "vi" : "Làm tròn",
+    "zh" : "舍入"
+  },
+  "소수점제한" : {
+    "en" : "Restrict decimal point",
+    "ja" : "小数点制限",
+    "vi" : "Giới hạn chữ số thập phân",
+    "zh" : "小数点限制"
+  },
+  "열" : {
+    "en" : "Column",
+    "ja" : "縦",
+    "vi" : "Ngang",
+    "zh" : "竖"
+  },
+  "오늘날짜" : {
+    "en" : "Today's date",
+    "ja" : "今日の日付",
+    "vi" : "Ngày hôm nay",
+    "zh" : "今日日子"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Giải thích",
+    "zh" : "说明"
+  },
+  "대내공문인장" : {
+    "en" : "Internal Official Document Seal",
+    "ja" : "対内公文印章",
+    "vi" : "Con dấu nội bộ chính thức",
+    "zh" : "会内公文印章"
+  },
+  "결재상태를 선택하세요." : {
+    "en" : "Select an approval status.",
+    "ja" : "決裁状態を選択してください。",
+    "vi" : "Chọn trạng thái phê duyệt.",
+    "zh" : "请选择批准状态。"
+  },
+  "분류 선택" : {
+    "en" : "Select Category",
+    "ja" : "使用可否",
+    "vi" : "Chọn danh mục",
+    "zh" : "是否使用"
+  },
+  "컨트롤 리소스" : {
+    "en" : "Control Resources",
+    "ja" : "コントロールリソース",
+    "vi" : "Tài nguyên điều khiển",
+    "zh" : "控制资源"
+  },
+  "테두리 오른쪽" : {
+    "en" : "Right Border",
+    "ja" : "枠の右",
+    "vi" : "Viền phải",
+    "zh" : "界线右边"
+  },
+  "회사전화" : {
+    "en" : "Company phone",
+    "ja" : "会社電話",
+    "vi" : "Điện thoại công ty",
+    "zh" : "公司电话"
+  },
+  "입사일자" : {
+    "en" : "Date of Employment",
+    "ja" : "内部決裁欄の数",
+    "vi" : "Ngày vào công ty",
+    "zh" : "内部决裁栏个数"
+  },
+  "커스텀필드" : {
+    "en" : "Custom field",
+    "ja" : "カスタムフィールド",
+    "vi" : "Trường tùy chỉnh",
+    "zh" : "定制字段"
+  },
+  "Google 양식은 다운로드 할 수 없어 제외 후 다운로드 됩니다." : {
+    "en" : "Google Forms cannot be downloaded, so it will be excluded from the download.",
+    "ja" : "Googleフォームはダウンロードできないため、除外後にダウンロードされます。",
+    "vi" : "Không thể tải xuống biểu mẫu Google. Biểu mẫu này sẽ được loại trừ khỏi quá trình tải xuống.",
+    "zh" : "Google 表单无法下载，因此将被排除在下载之外。"
+  },
+  "개인양식" : {
+    "en" : "Personal forms",
+    "ja" : "個人フォーム",
+    "vi" : "Các bản mẫu cá nhân",
+    "zh" : "个人样式"
+  },
+  "이벤트" : {
+    "en" : "Event",
+    "ja" : "イベント",
+    "vi" : "Sự kiện",
+    "zh" : "活动"
+  },
+  "제한된 시간보다 이전입니다." : {
+    "en" : "It is earlier than the limited time range.",
+    "ja" : "制限された時間より以前です",
+    "vi" : "Nó sớm hơn khoảng thời gian giới hạn.",
+    "zh" : "比限制时间早。"
+  },
+  "출력" : {
+    "en" : "Print",
+    "ja" : "出力",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "직위코드" : {
+    "en" : "Job position code",
+    "ja" : "役職コード",
+    "vi" : "Mã vị trí công việc",
+    "zh" : "职位代码"
+  },
+  "ID를 입력 하세요." : {
+    "en" : "Enter your ID.",
+    "ja" : "IDを入力してください。",
+    "vi" : "Hãy nhập ID.",
+    "zh" : "请输入用户名"
+  },
+  "리소스 보기" : {
+    "en" : "View Resources",
+    "ja" : "リソースを表示",
+    "vi" : "Xem chi tiết tài nguyên",
+    "zh" : "查看资源。"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "직책고유번호" : {
+    "en" : "Job title identification number",
+    "ja" : "役職の固有番号",
+    "vi" : "Số nhận dạng chức danh",
+    "zh" : "职责固有号码"
+  },
+  "개인정보" : {
+    "en" : "Personal Info",
+    "ja" : "個人情報",
+    "vi" : "Thông tin cá nhân",
+    "zh" : "个人信息"
+  },
+  "분류를 삭제하면 하위 분류도 같이 삭제 됩니다. \\n 삭제 하시겠습니까?" : {
+    "en" : "If you delete the category, all sub-categories that belong to the category will be deleted together. \\n Do you want to delete?",
+    "ja" : "カテゴリを削除すると、下位カテゴリも一緒に削除されます。 \\n削除しますか？",
+    "vi" : "Nếu xóa danh mục thì danh mục dưới cũng sẽ bị xóa cùng. \\n bạn có muốn xóa không?",
+    "zh" : "删除分类的话下位分类也会一起删除。 \\n 要删除吗？"
+  },
+  "오른쪽 정렬" : {
+    "en" : "Right Align",
+    "ja" : "右揃え",
+    "vi" : "căn phải",
+    "zh" : "整队在右边"
+  },
+  "기본 이미지 크기" : {
+    "en" : "Default image size",
+    "ja" : "基本画像サイズ",
+    "vi" : "Kích thước hình ảnh mặc định",
+    "zh" : "基本图像大小"
+  },
+  "텍스트 결재선" : {
+    "en" : "Text Line of Approval",
+    "ja" : "テキスト決裁ライン",
+    "vi" : "Quy trình phê duyệt văn bản",
+    "zh" : "原文批准线"
+  },
+  "문서 제목입니다." : {
+    "en" : "This is the name of the document.",
+    "ja" : "文書のタイトルです。",
+    "vi" : "Đây là đề mục tài liệu.",
+    "zh" : "文件标题。"
+  },
+  "삭제양식" : {
+    "en" : "Deleted forms",
+    "ja" : "削除フォーム",
+    "vi" : "Các bản mẫu đã xóa",
+    "zh" : "删除样式"
+  },
+  "너비" : {
+    "en" : "Width",
+    "ja" : "幅",
+    "vi" : "Chiều rộng",
+    "zh" : "宽度"
+  },
+  "저장하시겠습니까?" : {
+    "en" : "Do you want to save it?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu không?",
+    "zh" : "要保存吗？"
+  },
+  "행 삭제" : {
+    "en" : "Delete row",
+    "ja" : "行の削除",
+    "vi" : "Xóa hàng",
+    "zh" : "删除行"
+  },
+  "이미 추가한 인터페이스 입니다." : {
+    "en" : "The interface has already been added.",
+    "ja" : "既に追加したインタフェースです。",
+    "vi" : "Giao diện đã được thêm vào.",
+    "zh" : "已经追加的接口。"
+  },
+  "양식분류 관리" : {
+    "en" : "Manage form categories",
+    "ja" : "フォームカテゴリ管理",
+    "vi" : "Quản lý danh mục bản mẫu",
+    "zh" : "管理样式分类"
+  },
+  "항목을 입력 하세요." : {
+    "en" : "Enter an item.",
+    "ja" : "項目を入力してください。",
+    "vi" : "Hãy nhập mục.",
+    "zh" : "请输入项目"
+  },
+  "연결정보가 있는 {0}개 리소스는 제외 후 삭제하였습니다." : {
+    "en" : "{0} Resources with Connection Information Have Been Excluded and Deleted.",
+    "ja" : "接続情報がある{0}個のリソースを除外して削除しました。",
+    "vi" : "Đã xóa sau khi loại trừ {0} tài nguyên có thông tin liên kết.",
+    "zh" : "已排除存在连接信息的{0}个资源后删除。"
+  },
+  "셀 크기에 맞게" : {
+    "en" : "Fit to cell size",
+    "ja" : "セルのサイズに合わせる",
+    "vi" : "Vừa với kích thước của ô",
+    "zh" : "按照cell大小"
+  },
+  "전체결재선" : {
+    "en" : "Line of Approval (All)",
+    "ja" : "全体決裁ライン",
+    "vi" : "Toàn bộ luồng phê duyệt",
+    "zh" : "全体批准线"
+  },
+  "테스트팀" : {
+    "en" : "Test team",
+    "ja" : "テストチーム",
+    "vi" : "Nhóm thử nghiệm",
+    "zh" : "测验队"
+  },
+  "우편번호" : {
+    "en" : "Zip code",
+    "ja" : "郵便番号",
+    "vi" : "Mã bưu chính",
+    "zh" : "邮政编码"
+  },
+  "스크립트 편집기" : {
+    "en" : "Script editor",
+    "ja" : "スクリプトエディタ",
+    "vi" : "Biên tập script",
+    "zh" : "脚本语言编辑器"
+  },
+  "세로" : {
+    "en" : "Vertical",
+    "ja" : "縦",
+    "vi" : "Dọc",
+    "zh" : "竖"
+  },
+  "업무관리" : {
+    "en" : "Manage tasks",
+    "ja" : "業務管理",
+    "vi" : "Quản lý tác vụ",
+    "zh" : "管理业务"
+  },
+  "모든결재선" : {
+    "en" : "Line of Approval (All)",
+    "ja" : "すべての決裁ライン",
+    "vi" : "Tất cả quy trình phê duyệt",
+    "zh" : "所有批准线"
+  },
+  "일치" : {
+    "en" : "Match",
+    "ja" : "一致",
+    "vi" : "Đồng nhất",
+    "zh" : "匹配"
+  },
+  "메서드" : {
+    "en" : "Method",
+    "ja" : "メソッド",
+    "vi" : "Phương pháp",
+    "zh" : "方法"
+  },
+  "컨트롤 선택" : {
+    "en" : "Select Control",
+    "ja" : "コントロール選択",
+    "vi" : "Chọn kiểm soát",
+    "zh" : "选择控制"
+  },
+  "아래와 같이 저장하시겠습니까?" : {
+    "en" : "Do you want to save it as shown below?",
+    "ja" : "以下のように保存しますか？",
+    "vi" : "Bạn có muốn lưu nó như dưới đây?",
+    "zh" : "要保存下列内容吗？"
+  },
+  "설명은 100Byte 이내로 작성해주세요." : {
+    "en" : "Description must be less than 100Bytes.",
+    "ja" : "説明は100Byte以内で作成してください。",
+    "vi" : "Mô tả phải ít hơn 100Byte.",
+    "zh" : "说明请输入100Byte以内。"
+  },
+  "자동" : {
+    "en" : "Automatic",
+    "ja" : "自動",
+    "vi" : "Tự động",
+    "zh" : "自动"
+  },
+  "부가주소" : {
+    "en" : "Additional address",
+    "ja" : "付加アドレス",
+    "vi" : "Địa chỉ thêm",
+    "zh" : "附加地址"
+  },
+  "Guide Line 출력" : {
+    "en" : "Print Guide Line",
+    "ja" : "ガイドライン出力",
+    "vi" : "In hướng dẫn",
+    "zh" : "接口数据"
+  },
+  "필드명" : {
+    "en" : "Field name",
+    "ja" : "フィールド名",
+    "vi" : "Tên trường",
+    "zh" : "字段名"
+  },
+  "값이 잘못되었습니다." : {
+    "en" : "Value is incorrect.",
+    "ja" : "値が正しくありません。",
+    "vi" : "Giá trị không hợp lệ.",
+    "zh" : "值不正确。"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "FAX番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "한글양식을 사용할 수 없습니다." : {
+    "en" : "Cannot use hangul (Korean) format.",
+    "ja" : "ハングル様式を使用できません。",
+    "vi" : "Không thể sử dụng mẫu tiếng Hàn.",
+    "zh" : "无法使用韩语格式。"
+  },
+  "업데이트할 컬럼 고유번호 지정" : {
+    "en" : "Specify column unique number to update",
+    "ja" : "更新するカラム固有番号の指定",
+    "vi" : "Chỉ định mã số của cột cần cập nhật",
+    "zh" : "指定要更新的列唯一编号"
+  },
+  "오류 값" : {
+    "en" : "Error value",
+    "ja" : "エラー値",
+    "vi" : "Giá trị lỗi",
+    "zh" : "错误价"
+  },
+  "수정불가" : {
+    "en" : "Cannot be modified",
+    "ja" : "修正不可",
+    "vi" : "Không thể sửa đổi",
+    "zh" : "不可修改"
+  },
+  "종료일이 시작일 보다 더 이전입니다. 날짜를 다시 확인해 주세요." : {
+    "en" : "The End date is earlier than the Start date. Please check the dates again.",
+    "ja" : "終了日が開始日より前です。日付を再確認してください。",
+    "vi" : "Ngày kết thúc sớm hơn so với ngày bắt đầu. Xin hãy kiểm tra lại ngày.",
+    "zh" : "结束日于开始日早。请再确认一下日子。"
+  },
+  "상태연동(공공결재)" : {
+    "en" : "Link status (Public approval)",
+    "ja" : "状態連携（公共決済）",
+    "vi" : "Liên kết trạng thái (Phê duyệt công cộng)",
+    "zh" : "状态联动（公共批准）"
+  },
+  "셀렉트박스 선택 시 동작" : {
+    "en" : "Action when select box is chosen",
+    "ja" : "セレクトボックス選択時の動作",
+    "vi" : "Hành động khi chọn hộp chọn",
+    "zh" : "选择下拉框时的操作"
+  },
+  "<li>양식은 다수의 폼릿(Formlet)으로 구성됩니다. <i class=\"ico ico_add\"><span>테이블 추가</span></i> 를 클릭하여 폼디자이너에서 폼릿에 넣을 양식을 작성하세요.</li><li>Drag &amp; Drop으로 폼릿의 상하 위치를 변경할 수 있습니다.</li><li><strong>연동 양식을 작성할 경우에는 먼저 [관리자설정&gt;연동API관리]에서 양식에 사용할 연동 인터페이스를 등록하세요.</strong></li>" : {
+    "en" : "<li> A form consists of many formlets  <i class=\"ico ico_add\"><span> Click Add Table </span></i> to create forms in Form Designer.</li><li>Drag & Drop formlets to reorder their position (up/down).</li><li><strong> To create a linked form, register the linked interface, which will be used to create new forms, at [Admin Settings &gt; Manage Linked API].</strong></li>",
+    "ja" : "<li>フォームは、多数のフォームレット（Formlet）で構成されます。 <i class=\"ico ico_add\"><span>テーブルの追加</ span></ i>をクリックして、フォームデザイナでフォームレットに入れるフォームを作成してください。</ li><li> Drag＆amp; Dropでフォームレットの上下位置を変更することができます。</ li><li><strong>連動フォームを作成する場合は、まず[管理者設定＆gt;連動API管理]でフォームに使用する連動インターフェースを登録してください。</ strong ></ li>",
+    "vi" : "<li>bản mẫu được tạo bởi nhiều formlet. Hãy nhấn vào </span></i> thêm bảng <i class=\"ico ico_add\"><span> và tạo bản mẫu ở Form Designer. Có thể thay đổi vị trí trên dưới của formlet bằng </li><li>Kéo &amp; Thả. Trường hợp tạo bản mẫu liên kết </li><li><strong>, đầu tiên hãy đăng ký giao diện liên kết để sử dụng trong bản mẫu trong [Cài đặt người quản lý&gt; Quản lý API liên kết]. </strong></li>",
+    "zh" : "<li>样式构成为多数的(Formlet) <i class=\"ico ico_add\"><span>点击追加表格</span></i> 在形态设计写上放进Formlet的样式。通过</li><li>Drag &amp; Drop可以变更Formlet的上下位置。做</li><li><strong>联动样式的话先在 [管理者设定&gt;联动API管理] 登录在样式要使用的联动介面。</strong></li>"
+  },
+  "감사" : {
+    "en" : "Audit",
+    "ja" : "監査",
+    "vi" : "kiểm toán",
+    "zh" : "审计"
+  },
+  "스크립트를 작성해주세요." : {
+    "en" : "Please write the script.",
+    "ja" : "スクリプトを作成してください。",
+    "vi" : "Vui lòng soạn kịch bản.",
+    "zh" : "请写脚本。"
+  },
+  "양식 편집" : {
+    "en" : "Edit Form",
+    "ja" : "フォームカテゴリ",
+    "vi" : "Biên tập bản mẫu",
+    "zh" : "样式分类"
+  },
+  "폼릿명" : {
+    "en" : "Formlet name",
+    "ja" : "フォームレット名",
+    "vi" : "Tên formlet",
+    "zh" : "Formlet名"
+  },
+  "문서번호" : {
+    "en" : "Document number",
+    "ja" : "ドキュメント番号",
+    "vi" : "Số tài liệu",
+    "zh" : "文件号码"
+  },
+  "인터페이스를 선택하세요." : {
+    "en" : "Select an interface.",
+    "ja" : "インターフェイスを選択してください。",
+    "vi" : "Hãy chọn giao diện",
+    "zh" : "请选择接口"
+  },
+  "전체양식" : {
+    "en" : "Forms (All)",
+    "ja" : "全体フォーム",
+    "vi" : "Tất cả các bản mẫu",
+    "zh" : "全体样式"
+  },
+  "함수 이름" : {
+    "en" : "Function name",
+    "ja" : "関数名",
+    "vi" : "Tên hàm số",
+    "zh" : "函数名字"
+  },
+  "합의결재선" : {
+    "en" : "Consensus Line of Approval",
+    "ja" : "合議決裁ライン",
+    "vi" : "Đường phê duyệt đồng ý",
+    "zh" : "协助决批准"
+  },
+  "일반기호" : {
+    "en" : "General signs",
+    "ja" : "一般記号",
+    "vi" : "Ký hiệu thông thường",
+    "zh" : "一般符号"
+  },
+  "상태 연동" : {
+    "en" : "Link status",
+    "ja" : "状態連携",
+    "vi" : "Liên kết trạng thái",
+    "zh" : "状态联动"
+  },
+  "인터페이스 데이터" : {
+    "en" : "Interface Data",
+    "ja" : "インタフェースデータ",
+    "vi" : "Dữ liệu giao diện",
+    "zh" : "样式信息"
+  },
+  "데이터 형식 수" : {
+    "en" : "Number of Data Formats",
+    "ja" : "データ形式の数",
+    "vi" : "Tổng số định dạng dữ liệu",
+    "zh" : "数据型数"
+  },
+  "라디오버튼,체크박스,셀렉트박스,리스트박스에서 다수 옵션이 존재할 경우 지정" : {
+    "en" : "Specify when multiple options exist for radio buttons, checkboxes, select boxes, list boxes",
+    "ja" : "ラジオボタン、チェックボックス、セレクトボックス、リストボックスで複数のオプションが存在する場合に指定",
+    "vi" : "Chỉ định khi có nhiều tùy chọn cho nút radio, hộp kiểm, hộp chọn, hộp danh sách",
+    "zh" : "当单选按钮、复选框、下拉框、列表框存在多个选项时需要指定"
+  },
+  "버튼" : {
+    "en" : "Button",
+    "ja" : "ボタン",
+    "vi" : "Nút",
+    "zh" : "按钮"
+  },
+  "100 이하 숫자를 입력 해야 합니다." : {
+    "en" : "You must enter a number less than or equal to 100.",
+    "ja" : "100以下の数字を入力してください。",
+    "vi" : "Chỉ có thể nhập tối đa 100 ký tự.",
+    "zh" : "仅可导入100以下的数字。"
+  },
+  "AI양식 설정" : {
+    "en" : "AI form settings",
+    "ja" : "AI様式設定",
+    "vi" : "Cài đặt mẫu AI",
+    "zh" : "AI表单设置"
+  },
+  "인터페이스" : {
+    "en" : "Interface",
+    "ja" : "インタフェース",
+    "vi" : "giao diện",
+    "zh" : "接口"
+  },
+  "쪽지" : {
+    "en" : "Message",
+    "ja" : "メッセージ",
+    "vi" : "Lời nhắn",
+    "zh" : "纸条"
+  },
+  "성공로그 저장" : {
+    "en" : "Save success log",
+    "ja" : "成功ロゴ保存",
+    "vi" : "Lưu nhật ký thành công",
+    "zh" : "存储成功运行记录"
+  },
+  "양식제목" : {
+    "en" : "Form title",
+    "ja" : "フォームタイトル",
+    "vi" : "Tiêu đề bản mẫu",
+    "zh" : "样式题目"
+  },
+  "시간을 선택해주세요." : {
+    "en" : "Please select a time.",
+    "ja" : "時間を選択してください。",
+    "vi" : "Vui lòng chọn một thời điểm.",
+    "zh" : "请选择时间。"
+  },
+  "입력순서" : {
+    "en" : "Input sequence",
+    "ja" : "入力順序",
+    "vi" : "Trình tự đầu vào",
+    "zh" : "输入顺序"
+  },
+  "회사인장" : {
+    "en" : "Company Seal",
+    "ja" : "会社印章",
+    "vi" : "Con dấu công ty",
+    "zh" : "公司印章"
+  },
+  "분류 수정" : {
+    "en" : "Modify category",
+    "ja" : "カテゴリ修正",
+    "vi" : "Sửa đổi danh mục",
+    "zh" : "修改分类"
+  },
+  "기안기" : {
+    "en" : "Draft Tool",
+    "ja" : "起案ツール",
+    "vi" : "Thời hạn bản thảo",
+    "zh" : "起草机"
+  },
+  "분류 추가" : {
+    "en" : "Add categories",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm danh mục",
+    "zh" : "追加分类"
+  },
+  "개인메일" : {
+    "en" : "Personal mail",
+    "ja" : "個人メール",
+    "vi" : "Mail cá nhân",
+    "zh" : "个人邮件"
+  },
+  "연동 복사" : {
+    "en" : "Copy Linkage",
+    "ja" : "連動コピー",
+    "vi" : "Sao chép kết nối",
+    "zh" : "拷贝联动"
+  },
+  "홍보로고" : {
+    "en" : "Promotional logo",
+    "ja" : "広報ロゴ",
+    "vi" : "Logo quảng cáo",
+    "zh" : "宣传徽标"
+  },
+  "테두리 외곽선" : {
+    "en" : "Border Lines",
+    "ja" : "枠アウトライン",
+    "vi" : "Viền bên ngoài",
+    "zh" : "界线外围"
+  },
+  "너비지정" : {
+    "en" : "Specify width",
+    "ja" : "幅の指定",
+    "vi" : "Xác định chiều rộng",
+    "zh" : "指定宽度"
+  },
+  "매크로 유형" : {
+    "en" : "Macro Type",
+    "ja" : "企業",
+    "vi" : "Loại macro",
+    "zh" : "企业"
+  },
+  "양식명 입력" : {
+    "en" : "Enter Form Name",
+    "ja" : "様式名を入力",
+    "vi" : "Nhập tên mẫu",
+    "zh" : "输入格式名称"
+  },
+  "사용자선택" : {
+    "en" : "Select a user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "링크" : {
+    "en" : "Link",
+    "ja" : "リンク",
+    "vi" : "Liên kết",
+    "zh" : "链接"
+  },
+  "양식 편집기" : {
+    "en" : "Form editor",
+    "ja" : "フォームエディタ",
+    "vi" : "Biên tập bản mẫu",
+    "zh" : "样式编辑器"
+  },
+  "기본값 해제" : {
+    "en" : "Disable Default Value",
+    "ja" : "基本値解除",
+    "vi" : "Giá trị mặc định TẮT",
+    "zh" : "解除基本值"
+  },
+  "오류가 발생 하였습니다. 관리자에게 문의하여 주세요." : {
+    "en" : "An error occurred. Please contact the administrator.",
+    "ja" : "エラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Đã phát sinh lỗi. Hãy liên hệ với quản trị viên",
+    "zh" : "发生了错误。请向管理者询查。"
+  },
+  "폼릿명을 입력하세요." : {
+    "en" : "Please enter formlet name.",
+    "ja" : "フォームレット名を入力してください。",
+    "vi" : "Vui lòng thêm một tên formlet.",
+    "zh" : "请输入Formlet名。"
+  },
+  "자동 영문변경" : {
+    "en" : "Automatically change to English",
+    "ja" : "自動英文変更",
+    "vi" : "Tự động đổi sang tiếng Anh",
+    "zh" : "自动英文变更"
+  },
+  "감사자" : {
+    "en" : "Auditor",
+    "ja" : "監査者",
+    "vi" : "Người kiểm toán",
+    "zh" : "审计者"
+  },
+  "컬럼명" : {
+    "en" : "Column name",
+    "ja" : "カラム名",
+    "vi" : "Tên cột",
+    "zh" : "专栏名"
+  },
+  "합의부서" : {
+    "en" : "Consensus Department",
+    "ja" : "合議部署",
+    "vi" : "Bộ phận hợp tác",
+    "zh" : "协助部门"
+  },
+  "권한 설정" : {
+    "en" : "permissions settings",
+    "ja" : "権限設定",
+    "vi" : "Thiết lập quyền hạn",
+    "zh" : "设定权限"
+  },
+  "직책&직위" : {
+    "en" : "Position & Rank",
+    "ja" : "職責&職位",
+    "vi" : "Chức trách (trách nhiệm) & Chức vụ",
+    "zh" : "职责&职位"
+  },
+  "아래 선택한 항목을 파일로 저장하여 업로드 할 수 있습니다." : {
+    "en" : "You may save the below selected item into a file and upload it.",
+    "ja" : "下で選択した項目をファイルに保存してアップロードできます。",
+    "vi" : "Bạn có thể lưu mục đã chọn phía dưới thành tệp tin và tải lên.",
+    "zh" : "可将下列已选项目保存为文件并上传。"
+  },
+  "오류가 있는 코드를 작성 했을 경우 양식 뷰 화면이 오동작 할 수 있으므로 양식을 생성 하기 전 미리보기로 오류를 확인 하시기 바랍니다." : {
+    "en" : "If you enter a code with an error, it may cause the Form View screen to malfunction. Therefore, make sure to check for errors through Preview before you create a form.",
+    "ja" : "エラーのあるコードを作成した場合、フォームビュー画面が誤動作することがありますので、フォームを作成する前にプレビューでエラーを確認してください。",
+    "vi" : "Trường hợp dòng mã lệnh có lỗi thì màn hình xem bản mẫu có thể bị lỗi, do đó hãy kiểm tra lỗi bằng cách xem trước, trước khi tạo bản mẫu.",
+    "zh" : "制作有错误的代码的话样式视图画面会运转不正常。新建样式以前请预览而确认一下错误。"
+  },
+  "미리보기 생성" : {
+    "en" : "Generate Preview",
+    "ja" : "プレビュー生成",
+    "vi" : "Tạo bản xem trước",
+    "zh" : "创建预览"
+  },
+  "이 양식은 「{0}」계열사에서 사용할 수 없습니다." : {
+    "en" : "This form cannot be used from 「{0}」.",
+    "ja" : "この様式は「{0}」系列の会社では使用できません。",
+    "vi" : "Mẫu này không thể sử dụng trong công ty con 「{0}」.",
+    "zh" : "本格式不可使用于「{0}」下属公司。"
+  },
+  "관인날인" : {
+    "en" : "Official seal",
+    "ja" : "官印捺印",
+    "vi" : "Con dấu chính thức",
+    "zh" : "公章盖章"
+  },
+  "사용자아이디" : {
+    "en" : "User ID",
+    "ja" : "ユーザーID",
+    "vi" : "ID người dùng",
+    "zh" : "使用者用户名"
+  },
+  "부동소수" : {
+    "en" : "Floating number",
+    "ja" : "浮動小数",
+    "vi" : "Số thực dấu phẩy động",
+    "zh" : "浮点"
+  },
+  "로마자,그리스" : {
+    "en" : "Roman character, Greece",
+    "ja" : "ローマ字、ギリシャ",
+    "vi" : "Chữ roma, Hy Lạp",
+    "zh" : "罗马，雅典"
+  },
+  "메서드를 선택하세요" : {
+    "en" : "Please select a method.",
+    "ja" : "メソッドを選択してください。",
+    "vi" : "Hãy chọn Phương thức",
+    "zh" : "请选择方法。"
+  },
+  "밑줄" : {
+    "en" : "Underline",
+    "ja" : "下線",
+    "vi" : "Gạch chân",
+    "zh" : "下划线"
+  },
+  "오픈 방식" : {
+    "en" : "Open method",
+    "ja" : "オープン方式",
+    "vi" : "Phương pháp mở",
+    "zh" : "打开方式"
+  },
+  "반복버튼" : {
+    "en" : "Repeat button",
+    "ja" : "繰返しボタン",
+    "vi" : "Nút lặp lại",
+    "zh" : "反复按钮"
+  },
+  "{0}개 중 {1}번째 양식을 처리중입니다." : {
+    "en" : "Form {1} is in progress out of {0}.",
+    "ja" : "{0}個中、{1}番目の様式を処理中です。",
+    "vi" : "Đang xử lý mẫu thứ {1} trong số {0} mẫu.",
+    "zh" : "正处理{0}个格式中的第{1}个格式。"
+  },
+  "총 {0}개, 성공 {1}개, 실패 {2}개" : {
+    "en" : "Total of {0},  Successful {1}, Failed {2}",
+    "ja" : "全{0}個、成功{1}個、失敗{2}個",
+    "vi" : "Tổng {0}, thành công {1}, thất bại {2}",
+    "zh" : "共{0}个，{1}个成功，{2}个失败"
+  },
+  "항목을 추가해주세요." : {
+    "en" : "Please add an item.",
+    "ja" : "項目を追加してください。",
+    "vi" : "Xin hãy thêm mục.",
+    "zh" : "请添加项目。"
+  },
+  "항목추가" : {
+    "en" : "Add Items",
+    "ja" : "項目追加",
+    "vi" : "Thêm mục",
+    "zh" : "追加项目"
+  },
+  "시작일" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日"
+  },
+  "합의" : {
+    "en" : "Agree",
+    "ja" : "合議",
+    "vi" : "Đồng ý",
+    "zh" : "协商"
+  },
+  "연동정보 시스템을 선택해주세요" : {
+    "en" : "Please select the system to be linked.",
+    "ja" : "連動情報システムを選択してください。",
+    "vi" : "Vui lòng chọn hệ thống thông tin liên kết.",
+    "zh" : "请选择同步信息系统"
+  },
+  "그룹ID" : {
+    "en" : "Group ID",
+    "ja" : "グループID",
+    "vi" : "ID nhóm",
+    "zh" : "组织用户名"
+  },
+  "검색 초기화" : {
+    "en" : "Search Reset",
+    "ja" : "検索の初期化",
+    "vi" : "Đặt lại tìm kiếm",
+    "zh" : "搜索初始化"
+  },
+  "스프레드시트" : {
+    "en" : "Spreadsheets",
+    "ja" : "スプレッドシート",
+    "vi" : "Bảng tính",
+    "zh" : "电子表格"
+  },
+  "연동정보를 제외하면 양식에 설정된 연동정보는 제외되어 저장됩니다." : {
+    "en" : "If you exclude synched information, then that information will not be saved when saving the format/form.",
+    "ja" : "連動情報を除くと、様式に設定された連動情報を除いて保存します。",
+    "vi" : "Nếu chọn ngoại trừ thông tin liên kết thì thông tin sẽ được lưu ngoại trừ thông tin liên kết được cài đặt trên mẫu.",
+    "zh" : "若排除同步信息，将保存格式中同步信息以外的信息。"
+  },
+  "샘플" : {
+    "en" : "Sample",
+    "ja" : "サンプル",
+    "vi" : "Mẫu",
+    "zh" : "样本"
+  },
+  "등록된 양식이 없습니다." : {
+    "en" : "No registered forms.",
+    "ja" : "登録されたフォームがありません。",
+    "vi" : "Không có bản mẫu đăng ký",
+    "zh" : "没有登录的样式"
+  },
+  "모듈" : {
+    "en" : "Module",
+    "ja" : "モジュール",
+    "vi" : "Mô-đun",
+    "zh" : "模块"
+  },
+  "세션" : {
+    "en" : "Session",
+    "ja" : "セッション",
+    "vi" : "Phiên làm việc",
+    "zh" : "会话"
+  },
+  "회사메일" : {
+    "en" : "Company mail",
+    "ja" : "会社メール",
+    "vi" : "Hòm thư công ty",
+    "zh" : "公司邮件"
+  },
+  "분류 순서" : {
+    "en" : "Category order",
+    "ja" : "カテゴリ順",
+    "vi" : "Thứ tự danh mục",
+    "zh" : "分类顺序"
+  },
+  "실행" : {
+    "en" : "Execute",
+    "ja" : "実行",
+    "vi" : "Thực thi",
+    "zh" : "实行"
+  },
+  "위쪽 정렬" : {
+    "en" : "Top Align",
+    "ja" : "上側の並べ替え",
+    "vi" : "Căn trên",
+    "zh" : "上边整队"
+  },
+  "양식이 없습니다. 관리자에게 문의 해주세요." : {
+    "en" : "There is no form available. Please contact the administrator.",
+    "ja" : "フォームがありません。管理者にお問い合わせください。",
+    "vi" : "Không có mẫu. Vui lòng liên hệ quản trị viên.",
+    "zh" : "没有规范表格。请咨询管理员。"
+  },
+  "선두께" : {
+    "en" : "Line thickness",
+    "ja" : "線の太さ",
+    "vi" : "Độ dày đường",
+    "zh" : "线粗细"
+  },
+  "리소스 추가" : {
+    "en" : "Add Resources",
+    "ja" : "リソース追加",
+    "vi" : "Thêm tài nguyên",
+    "zh" : "添加资源"
+  },
+  "중간 정렬" : {
+    "en" : "Center Align",
+    "ja" : "中間の並べ替え",
+    "vi" : "Căn giữa",
+    "zh" : "中间整队"
+  },
+  "업무 선택" : {
+    "en" : "Select Task",
+    "ja" : "業務選択",
+    "vi" : "Chọn công việc",
+    "zh" : "选择业务"
+  },
+  "공용 폼릿 복사" : {
+    "en" : "Public Formlet Copy",
+    "ja" : "共用フォームをコピー",
+    "vi" : "Sao chép formlet chung",
+    "zh" : "复制共享Formlet"
+  },
+  "삭제하시면 복구 하실 수 없습니다. 삭제 하시겠습니까?" : {
+    "en" : "Once you delete, you can't restore it. Do you still want to delete?",
+    "ja" : "削除すると、復旧できません。削除してもよろしいですか？",
+    "vi" : "Nếu xóa thì không thể khôi phục lại. Bạn có muốn xóa không?",
+    "zh" : "删除的话不可复原。要删除吗？"
+  },
+  "리소스 수정" : {
+    "en" : "Resource Modification",
+    "ja" : "リソース修正",
+    "vi" : "Sửa tài nguyên",
+    "zh" : "修改资源"
+  },
+  "툴팁" : {
+    "en" : "Tooltip",
+    "ja" : "ツールTIP",
+    "vi" : "Chú thích",
+    "zh" : "tooltip"
+  },
+  "셀 너비에 맞게" : {
+    "en" : "Fit to cell width",
+    "ja" : "セルの幅に合わせる",
+    "vi" : "Vừa với chiều rộng của ô",
+    "zh" : "按照cell宽度"
+  },
+  "직책코드" : {
+    "en" : "Job title code",
+    "ja" : "役職コード",
+    "vi" : "Mã chức danh công việc",
+    "zh" : "职责代码"
+  },
+  "배경색 적용" : {
+    "en" : "Apply background color",
+    "ja" : "背景カラー適用",
+    "vi" : "Áp dụng màu nền",
+    "zh" : "适用背景色"
+  },
+  "정보" : {
+    "en" : "Info",
+    "ja" : "情報",
+    "vi" : "Thông tin",
+    "zh" : "全部"
+  },
+  "우편번호 검색" : {
+    "en" : "Search Zip Code",
+    "ja" : "郵便番号の検索",
+    "vi" : "Tìm kiếm Mã bưu điện",
+    "zh" : "搜索邮政编码"
+  },
+  "회사정보" : {
+    "en" : "Company Information",
+    "ja" : "会社情報",
+    "vi" : "Thông tin công ty",
+    "zh" : "公司信息"
+  },
+  "도움말" : {
+    "en" : "Help",
+    "ja" : "ヘルプ",
+    "vi" : "Trợ giúp",
+    "zh" : "帮助"
+  },
+  "직책명" : {
+    "en" : "Title Name",
+    "ja" : "役職名",
+    "vi" : "Tên chức trách",
+    "zh" : "职责名"
+  },
+  "오류 코드" : {
+    "en" : "Error code",
+    "ja" : "エラーコード",
+    "vi" : "Mã lỗi",
+    "zh" : "错误编码"
+  },
+  "형식" : {
+    "en" : "Format",
+    "ja" : "フォーマット",
+    "vi" : "Định dạng",
+    "zh" : "形式"
+  },
+  "문서고유번호" : {
+    "en" : "Document identification number\\t",
+    "ja" : "文書固有番号",
+    "vi" : "Số nhận dạng tài liệu\\t",
+    "zh" : "文件固有号码"
+  },
+  "이미 추가된 오류코드입니다." : {
+    "en" : "It is an already added error code.",
+    "ja" : "既に追加されたエラーコードです。",
+    "vi" : "Mã lỗi đã được thêm rồi.",
+    "zh" : "已经追加的错误编码。"
+  },
+  "양식" : {
+    "en" : "Forms",
+    "ja" : "フォーム",
+    "vi" : "bản mẫu",
+    "zh" : "样式"
+  },
+  "인터페이스 목록" : {
+    "en" : "Interface list",
+    "ja" : "インターフェースリスト",
+    "vi" : "Danh sách giao diện",
+    "zh" : "接口目录"
+  },
+  "대외공문인장" : {
+    "en" : "External Official Document Seal",
+    "ja" : "対外公文書引張",
+    "vi" : "Hình ảnh con dấu",
+    "zh" : "印章图象"
+  },
+  "양식 보관" : {
+    "en" : "Form Storage",
+    "ja" : "フォーム保管",
+    "vi" : "Lưu trữ biểu mẫu",
+    "zh" : "表单保管"
+  },
+  "하단홍보문구" : {
+    "en" : "Promotional Phrase (Bottom)",
+    "ja" : "下段の広報フレーズ",
+    "vi" : "Cụm từ quảng cáo phía dưới",
+    "zh" : "下端宣传文句"
+  },
+  "연동 시스템을 선택하세요." : {
+    "en" : "Select a linked system.",
+    "ja" : "連動システムを選択してください。",
+    "vi" : "Hãy chọn hệ thống liên kết.",
+    "zh" : "请选择联动系统"
+  },
+  "홈페이지" : {
+    "en" : "Homepage",
+    "ja" : "ホームページ",
+    "vi" : "Trang chủ",
+    "zh" : "主页"
+  },
+  "연결정보가 있어 제외되었습니다." : {
+    "en" : "Excluded Due to Existing Connection Information.",
+    "ja" : "接続情報があるため除外されました。",
+    "vi" : "Tài nguyên có thông tin liên kết sẽ được loại trừ.",
+    "zh" : "存在连接信息，已被排除。"
+  },
+  "파선" : {
+    "en" : "Dashed Lines",
+    "ja" : "破線",
+    "vi" : "Đường nét đứt",
+    "zh" : "破线"
+  },
+  "오른쪽" : {
+    "en" : "Right",
+    "ja" : "右",
+    "vi" : "Bên phải",
+    "zh" : "右边"
+  },
+  "연동 로그" : {
+    "en" : "Linked log",
+    "ja" : "連携ロゴ",
+    "vi" : "Nhật ký liên kết",
+    "zh" : "联动运行记录"
+  },
+  "공람자" : {
+    "en" : "Sharer",
+    "ja" : "供覧者",
+    "vi" : "Người chia sẻ",
+    "zh" : "供览者"
+  },
+  "비교" : {
+    "en" : "Comparison",
+    "ja" : "比較",
+    "vi" : "So sánh",
+    "zh" : "比较"
+  },
+  "선택범위" : {
+    "en" : "Selection range",
+    "ja" : "選択範囲",
+    "vi" : "Phạm vi lựa chọn",
+    "zh" : "选择范围"
+  },
+  "내림" : {
+    "en" : "Rounding down",
+    "ja" : "下げる",
+    "vi" : "Làm tròn xuống",
+    "zh" : "下舍入"
+  },
+  "상위부서" : {
+    "en" : "Parent Department",
+    "ja" : "上位部署",
+    "vi" : "Bộ phận trên",
+    "zh" : "上位部门"
+  },
+  "테두리 안쪽 여백" : {
+    "en" : "Inside Margin (Border)",
+    "ja" : "枠の内側余白",
+    "vi" : "Lề trong viền",
+    "zh" : "界线里边空白"
+  },
+  "인터페이스 유형" : {
+    "en" : "Interface type",
+    "ja" : "インターフェイスタイプ",
+    "vi" : "Loại hình giao diện",
+    "zh" : "接口类型"
+  },
+  "분류변경" : {
+    "en" : "Change Category",
+    "ja" : "カテゴリを変更",
+    "vi" : "Thay đổi hạng mục",
+    "zh" : "变更分类"
+  },
+  "연동 추가" : {
+    "en" : "Add Linkage",
+    "ja" : "連動追加",
+    "vi" : "Thêm một kết nối",
+    "zh" : "追加联动"
+  },
+  "최소" : {
+    "en" : "Minimum",
+    "ja" : "最小",
+    "vi" : "Tối thiểu",
+    "zh" : "取消"
+  },
+  "선택한 양식" : {
+    "en" : "Selected form",
+    "ja" : "選択したフォーム",
+    "vi" : "bản mẫu đã chọn",
+    "zh" : "选择的样式"
+  },
+  "로그보기" : {
+    "en" : "View log",
+    "ja" : "ログを見る",
+    "vi" : "Xem nhật ký",
+    "zh" : "看运行记录"
+  },
+  "보기" : {
+    "en" : "View",
+    "ja" : "表示",
+    "vi" : "Xem",
+    "zh" : "看"
+  },
+  "반복 추가 버튼" : {
+    "en" : "Add Repeat button",
+    "ja" : "繰返し追加ボタン",
+    "vi" : "Nút thêm lặp lại",
+    "zh" : "反复追加按钮"
+  },
+  "오류" : {
+    "en" : "Error",
+    "ja" : "エラー",
+    "vi" : "Lỗi",
+    "zh" : "错误"
+  },
+  "양식을 다수 업로드시 중복되는 인터페이스, 공용 폼릿, 컨트롤 리소스는 한번만 표기 합니다." : {
+    "en" : "Only unique interfaces, shared formlets, and control resources will be displayed when uploading multiple forms.",
+    "ja" : "複数のフォームをアップロードする際、重複するインターフェース、共用フォームレット、コントロールリソースは一度だけ表示されます。",
+    "vi" : "Khi tải lên nhiều biểu mẫu, các giao diện, mẫu chung và tài nguyên điều khiển trùng lặp sẽ chỉ được hiển thị một lần.",
+    "zh" : "如果上传多个表单，请仅显示重复的接口、公共表单和控制资源一次。"
+  },
+  "이중 실선" : {
+    "en" : "Double Solid Line",
+    "ja" : "二重実線",
+    "vi" : "2 nét liền",
+    "zh" : "双实线"
+  },
+  "부서고유번호" : {
+    "en" : "Department identification number",
+    "ja" : "部署の固有番号",
+    "vi" : "Mã số nhận dạng bộ phận",
+    "zh" : "部门固有号码"
+  },
+  "작성 중인 양식이 삭제됩니다. 진행 하시겠습니까?" : {
+    "en" : "The form you are currently using will be deleted. Do you want to proceed?",
+    "ja" : "作成中のフォームが削除されます。続行しますか？",
+    "vi" : "bản mẫu đang viết sẽ bị xóa. Bạn có muốn tiến hành không?",
+    "zh" : "制作中的样式会删除。要进行吗？"
+  },
+  "추가할 공용폼릿을 선택하세요." : {
+    "en" : "Select a public formlet to add.",
+    "ja" : "追加する共用フォームレットを選んでください。",
+    "vi" : "Chọn nền tảng được chia sẻ để tiến hành thêm vào",
+    "zh" : "请选择要追加的公用Pomnit。"
+  },
+  "메일" : {
+    "en" : "E-mail",
+    "ja" : "メール",
+    "vi" : "Mail",
+    "zh" : "邮件"
+  },
+  "회사주소" : {
+    "en" : "Company address",
+    "ja" : "会社住所",
+    "vi" : "Địa chỉ công ty",
+    "zh" : "公司地址"
+  },
+  "사원번호" : {
+    "en" : "Employee No.",
+    "ja" : "社員番号",
+    "vi" : "Mã số nhân viên",
+    "zh" : "员工序号"
+  },
+  "업로드 양식" : {
+    "en" : "Upload Form",
+    "ja" : "アップロード様式",
+    "vi" : "Mẫu tải lên",
+    "zh" : "上传格式"
+  },
+  "양식 너비" : {
+    "en" : "Form width",
+    "ja" : "フォーム幅",
+    "vi" : "Hướng giấy",
+    "zh" : "样式宽度"
+  },
+  "스페이스양식" : {
+    "en" : "Space form",
+    "ja" : "スペースフォーム",
+    "vi" : "bản mẫu Space",
+    "zh" : "空间样式"
+  },
+  "입력형" : {
+    "en" : "Input type",
+    "ja" : "入力型",
+    "vi" : "Kiểu đầu vào",
+    "zh" : "输入型"
+  },
+  "엑셀파일 샘플" : {
+    "en" : "Excel file sample",
+    "ja" : "Excelファイルのサンプル",
+    "vi" : "Mẫu file excel",
+    "zh" : "excel文档样本"
+  },
+  "문서함" : {
+    "en" : "Document Box",
+    "ja" : "文書",
+    "vi" : "Hộp tài liệu",
+    "zh" : "文件箱"
+  },
+  "회사로고" : {
+    "en" : "Company logo",
+    "ja" : "会社ロゴ",
+    "vi" : "Logo công ty",
+    "zh" : "公司标志"
+  },
+  "복사할 인터페이스를 선택 해주세요." : {
+    "en" : "Please select an interface to copy.",
+    "ja" : "コピーするインタフェースを選択してください。",
+    "vi" : "Vui lòng chọn một giao diện để sao chép.",
+    "zh" : "请选择要拷贝的接口。"
+  },
+  "모든결재선(텍스트)" : {
+    "en" : "All Line of Approval (Text)",
+    "ja" : "すべての決裁ライン（テキスト）",
+    "vi" : "Tất cả quy trình phê duyệt (Văn bản)",
+    "zh" : "所有批准线（原文）"
+  },
+  "작성한 폼릿이 삭제됩니다. 계속 하시겠습니까?" : {
+    "en" : "The formlet you created will be deleted. Do you want to continue?",
+    "ja" : "作成したformletフォームレットが削除されます。続行しますか？",
+    "vi" : "Formet đang tạo sẽ bị xóa. Bạn có muốn tiếp tục không?",
+    "zh" : "制作的 formlet会删除。要继续做吗？"
+  },
+  "고정결재선(박스)" : {
+    "en" : "Fixed Line of Approval (Box)",
+    "ja" : "固定決裁ライン（Box）",
+    "vi" : "Các quy trình phê duyệt cố định (Hộp)",
+    "zh" : "固定批准线（箱子）"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "掲示板",
+    "vi" : "Bảng tin",
+    "zh" : "布告栏"
+  },
+  "취소선" : {
+    "en" : "Strikethrough",
+    "ja" : "キャンセル線",
+    "vi" : "Đường xóa",
+    "zh" : "取消线"
+  },
+  "바인딩명" : {
+    "en" : "Binding name",
+    "ja" : "バインディング名",
+    "vi" : "Tên ràng buộc",
+    "zh" : "捆扎机名"
+  },
+  "결재상태별 연동" : {
+    "en" : "Link by approval status",
+    "ja" : "決裁状態別の連動",
+    "vi" : "Liên kết theo trạng thái phê duyệt",
+    "zh" : "按批准状态别联动"
+  },
+  "양식 삭제 선택 시 관련된 인터페이스도 같이 삭제됩니다." : {
+    "en" : "Selecting to delete the format will also delete the related interface.",
+    "ja" : "様式削除を選択すると、関連したインタフェースも一緒に削除されます。",
+    "vi" : "Khi chọn xóa mẫu, giao diện liên quan cũng sẽ được xóa cùng.",
+    "zh" : "若选择删除格式，相关界面将一并删除。"
+  },
+  "들여쓰기" : {
+    "en" : "Indentation",
+    "ja" : "インデント",
+    "vi" : "Viết",
+    "zh" : "缩排"
+  },
+  "오류로그 저장" : {
+    "en" : "Save error log",
+    "ja" : "エラーログ保存",
+    "vi" : "Lưu nhật ký lỗi",
+    "zh" : "存储错误运行记录"
+  },
+  "컨트롤이 없습니다." : {
+    "en" : "There is no control.",
+    "ja" : "コントロールはありません。",
+    "vi" : "Không có sự điều khiển nào.",
+    "zh" : "控件丢失。"
+  },
+  "연동 시스템" : {
+    "en" : "Linked system",
+    "ja" : "連動システム",
+    "vi" : "Hệ thống liên kết",
+    "zh" : "联动系统"
+  }
+}

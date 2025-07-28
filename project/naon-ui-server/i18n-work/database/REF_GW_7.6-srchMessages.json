@@ -1,0 +1,1802 @@
+{
+  "사용자가 검색어(기호, 숫자 제외)로 입력한 로그 데이터로 1년만 보관 후 삭제됩니다." : {
+    "en" : "User-entered search terms (excluding symbols and numbers) are stored as log data for one year before being deleted.",
+    "ja" : "ユーザーが検索ワード（記号、数字除外）として入力したログデータは、1年間保存後削除されます。",
+    "vi" : "Các từ khóa tìm kiếm do người dùng nhập (không bao gồm ký tự và số) được lưu trữ dưới dạng dữ liệu nhật ký trong một năm trước khi bị xóa.",
+    "zh" : "用户输入的搜索词（排除符号和数字）的日志数据，仅保存一年后删除。"
+  },
+  "최근 검색어 펼침" : {
+    "en" : "Expand Recent Search Terms",
+    "ja" : "最近の検索語を展開",
+    "vi" : "Mở rộng các thuật ngữ tìm kiếm gần đây.",
+    "zh" : "展开最近的搜索词"
+  },
+  "사전 업데이트" : {
+    "en" : "Dictionary Update",
+    "ja" : "辞書アップデート",
+    "vi" : "Cập nhật từ điển",
+    "zh" : "词典更新"
+  },
+  "회사전화" : {
+    "en" : "Company phone",
+    "ja" : "会社電話",
+    "vi" : "Số điện thoại công ty",
+    "zh" : "公司电话"
+  },
+  "업무보고" : {
+    "en" : "Report",
+    "ja" : "业务报告",
+    "vi" : "Báo cáo Công việc",
+    "zh" : "業務報告"
+  },
+  "검색에서 불필요한 단어를 제외해 검색 효율성과 정확성을 높이는 기능입니다. 예를 들어, 한국어의 '입니다', '하다'나 영어의 'is', 'the', 'a' 등이 이에 해당합니다." : {
+    "en" : "This feature improves search efficiency and accuracy by excluding unnecessary words from the search. For example, Korean words like '입니다' and '하다', or English words like 'is', 'the', and 'a' fall under this category.",
+    "ja" : "この機能は、検索から不要な単語を除外することで、検索効率と精度を向上させます。例えば、「です」「ます」「だ」「する」などの日本語や、「is」「the」「a」などの英語がこのカテゴリに該当します。",
+    "vi" : "Tính năng này cải thiện hiệu quả và độ chính xác tìm kiếm bằng cách loại trừ các từ không cần thiết khỏi việc tìm kiếm. Ví dụ: các từ tiếng Hàn như '입니다' và '하다', hoặc các từ tiếng Anh như 'is', 'the' và 'a'.",
+    "zh" : "此功能通过从搜索中排除不必要的词语来提高搜索效率和准确性。例如，韩语中的“입니다”和“하다”，或英语中的“is”、“the”和“a”等词语属于此类。"
+  },
+  "개인별 검색어와 고정 검색어를 가지고 자동완성 서비스를 제공 합니다." : {
+    "en" : "Autocomplete service is provided with personal search terms and fixed search terms.",
+    "ja" : "個人別検索語と固定検索語を使用して自動完了サービスを提供します。",
+    "vi" : "Cung cấp dịch vụ tự động hoàn thành với các từ khóa tìm kiếm cá nhân và từ khóa tìm kiếm cố định.",
+    "zh" : "提供个人搜索词和固定搜索词的自动完成服务。"
+  },
+  "해당 단어는 검색되지 않음" : {
+    "en" : "This word will not be searchable.",
+    "ja" : "該当単語は検索されません",
+    "vi" : "Từ này sẽ không thể tìm kiếm được.",
+    "zh" : "此单词将不会被搜索到。"
+  },
+  "목록 개수" : {
+    "en" : "Show per page",
+    "ja" : "リスト数",
+    "vi" : "Số lượng danh sách",
+    "zh" : "目录个数"
+  },
+  "처리" : {
+    "en" : "Process",
+    "ja" : "処理",
+    "vi" : "Xử lý",
+    "zh" : "处理"
+  },
+  "숫자만 입력해 주세요." : {
+    "en" : "Please enter a number.",
+    "ja" : "数字を入力してください。",
+    "vi" : "Vui lòng nhập một số.",
+    "zh" : "请输入一个编号。"
+  },
+  "3자 이상, 미완성 한글은 검색어 등록 불가" : {
+    "en" : "Cannot register search terms with 3 or more characters or incomplete Hangeul words",
+    "ja" : "3文字以上、未完成のハングルは検索語登録不可",
+    "vi" : "Không thể thêm từ tiếng Hàn chưa hoàn thành, có từ 3 ký tự trở lên làm từ tìm kiếm",
+    "zh" : "3个字符以上，未完成的韩文无法注册为搜索词"
+  },
+  "ID를 30byte 이하로 입력하세요." : {
+    "en" : "Please enter an ID within 30 bytes.",
+    "ja" : "IDを30byte以下で入力してください。",
+    "vi" : "Vui lòng nhập ID không quá 30 byte.",
+    "zh" : "请输入30byte以下的ID。"
+  },
+  "동작방식 파라미터가 없습니다." : {
+    "en" : "There is no action data parameter.",
+    "ja" : "動作方式パラメータがありません。",
+    "vi" : "Không có tham số dữ liệu hành động.",
+    "zh" : "无运行方式参数。"
+  },
+  "검색어" : {
+    "en" : "Search keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "데이터 유형 파라미터가 없습니다." : {
+    "en" : "No data type parameters.",
+    "ja" : "データ型パラメータはありません。",
+    "vi" : "Không có tham số loại dữ liệu.",
+    "zh" : "没有数据类型参数。"
+  },
+  "보낸 메일" : {
+    "en" : "Sent Mail",
+    "ja" : "送信メール",
+    "vi" : "Hộp thư đi",
+    "zh" : "发送邮件"
+  },
+  "금칙어를 다시 입력해주세요." : {
+    "en" : "Please re-enter the banned word.",
+    "ja" : "禁止語を再入力してください。",
+    "vi" : "Vui lòng nhập lại từ cấm.",
+    "zh" : "请重新输入禁忌语。"
+  },
+  "인증키를 입력해 주세요." : {
+    "en" : "Please enter the authentication key.",
+    "ja" : "認証キーを入力してください。",
+    "vi" : "Vui lòng nhập khóa xác thực.",
+    "zh" : "请输入认证密钥。"
+  },
+  "연관 검색어 등록" : {
+    "en" : "Register related search terms",
+    "ja" : "関連検索語登録",
+    "vi" : "Thêm từ tìm kiếm liên quan",
+    "zh" : "注册相关搜索词"
+  },
+  "모두삭제" : {
+    "en" : "Delete all",
+    "ja" : "全て削除",
+    "vi" : "Xóa tất cả",
+    "zh" : "全部删除"
+  },
+  "첨부파일" : {
+    "en" : "Attachments",
+    "ja" : "添付ファイル",
+    "vi" : "Tệp đính kèm",
+    "zh" : "附件"
+  },
+  "최초 등록경로" : {
+    "en" : "Initial registration path.",
+    "ja" : "最初の登録経路",
+    "vi" : "Đường dẫn đăng ký ban đầu.",
+    "zh" : "最初注册路径"
+  },
+  "금칙어" : {
+    "en" : "Prohibited Word",
+    "ja" : "禁止ワード",
+    "vi" : "Từ bị cấm",
+    "zh" : "禁止词"
+  },
+  "사용자 사전" : {
+    "en" : "User Dictionary",
+    "ja" : "ユーザー辞書",
+    "vi" : "Từ điển người dùng",
+    "zh" : "用户词典"
+  },
+  "파일 수집" : {
+    "en" : "File collection.",
+    "ja" : "ファイル収集",
+    "vi" : "Thu thập tệp tin.",
+    "zh" : "文件采集"
+  },
+  "단어를 200byte 이하로 입력하세요." : {
+    "en" : "Please enter less than 200 bytes.",
+    "ja" : "単語を200byte以下で入力してください。",
+    "vi" : "Vui lòng nhập từ không quá 200 byte.",
+    "zh" : "请输入200byte以下的单词。"
+  },
+  "사용자 사전에 없는 단어입니다. 단어를 등록하시겠습니까?" : {
+    "en" : "This word is not in the user dictionary. Would you like to register the word?",
+    "ja" : "ユーザー辞書にない単語です。単語を登録しますか？",
+    "vi" : "Từ này không có trong từ điển người dùng. Bạn có muốn thêm từ này không?",
+    "zh" : "用户词典中没有的单词。 是否要注册单词？"
+  },
+  "특정 단어를 금칙어로 설정하여 검색을 제한하는 기능입니다." : {
+    "en" : "This feature allows you to set specific words as prohibited terms to restrict searches.",
+    "ja" : "特定ワードを禁止ワードに設定して検索を制限する機能です。",
+    "vi" : "Tính năng này đặt các từ cụ thể là từ bị cấm để hạn chế tìm kiếm.",
+    "zh" : "此功能将特定单词设置为禁止词,以限制搜索。"
+  },
+  "DB 유형을 선택하세요." : {
+    "en" : "Select the DB type.",
+    "ja" : "DBのタイプを選択してください。",
+    "vi" : "Chọn loại DB.",
+    "zh" : "请选择数据库类型。"
+  },
+  "사용빈도" : {
+    "en" : "Frequency of use",
+    "ja" : "使用頻度",
+    "vi" : "Tần suất sử dụng",
+    "zh" : "使用频度"
+  },
+  "정확히 일치하는 단어/문장(&quot; &quot;)" : {
+    "en" : "Exact matching word/sentence (\")",
+    "ja" : "正確に一致する単語/文（&quot; &quot;）",
+    "vi" : "Từ/Câu khớp chính xác (\" \")",
+    "zh" : "精确匹配的单词/句子(&quot; &quot;)"
+  },
+  "수신자" : {
+    "en" : "Recipient",
+    "ja" : "受信者",
+    "vi" : "người nhận",
+    "zh" : "收信人"
+  },
+  "모듈 아이디를 입력하세요." : {
+    "en" : "Please enter the module ID.",
+    "ja" : "モジュールIDを入力してください。",
+    "vi" : "Vui lòng nhập ID mô-đun.",
+    "zh" : "请输入模块ID。"
+  },
+  "여러 개의 단어 입력은 쉼표(,)로 구분하세요." : {
+    "en" : "Separate multiple word entries with a comma (,).",
+    "ja" : "複数の単語入力はコンマ（)で区分してください。",
+    "vi" : "Phân tách nhiều từ bằng dấu phẩy (,).",
+    "zh" : "输入多个单词，请用逗号（，）区分。"
+  },
+  "자동완성 펼침" : {
+    "en" : "Show auto complete.",
+    "ja" : "自動完成を見る",
+    "vi" : "Hiển thị tự động hoàn thành.",
+    "zh" : "展开自动完成"
+  },
+  "통합 탭은 모듈별 2개로 고정" : {
+    "en" : "The unified tab is fixed with 2 modules for each.",
+    "ja" : "統合タブはモジュールごとに2つに固定",
+    "vi" : "Tab hợp nhất được cố định với 2 mô-đun cho mỗi cái.",
+    "zh" : "整合选项卡保持两个模块。"
+  },
+  "2자 이상, 공백 및 특수문자 불가" : {
+    "en" : "At least 2 characters, no spaces or special characters.",
+    "ja" : "2文字以上、スペース及び特殊文字不可",
+    "vi" : "Ít nhất 2 ký tự, không có khoảng trắng hoặc ký tự đặc biệt.",
+    "zh" : "至少为2个字符，不允许有空格和特殊字符。"
+  },
+  "총 {0}{1}{2}개의 자료가 있습니다." : {
+    "en" : "There are a total of {0}{1}{2} data.",
+    "ja" : "総 {0}{1}{2}個の資料があります。",
+    "vi" : "Có tổng cộng {0}{1}{2} dữ liệu.",
+    "zh" : "共有{0}{1}{2}个资料。"
+  },
+  "모듈대상 파라미터가 없습니다." : {
+    "en" : "No module target parameters.",
+    "ja" : "モジュール対象パラメータはありません。",
+    "vi" : "Không có tham số đích mô-đun.",
+    "zh" : "没有模块目标参数。"
+  },
+  "반복사용" : {
+    "en" : "Repeated use.",
+    "ja" : "反復使用",
+    "vi" : "Sử dụng lặp lại",
+    "zh" : "重复使用"
+  },
+  "완료, 오류는 1개월 보관 후 영구 삭제" : {
+    "en" : "Completed, errors will be permanently deleted after 1 month.",
+    "ja" : "完了、エラーは1ヶ月保存後、永久削除",
+    "vi" : "Đã hoàn thành, lỗi sẽ bị xóa vĩnh viễn sau 1 tháng.",
+    "zh" : "完成后，错误将保留1个月，然后永久删除。"
+  },
+  "일치" : {
+    "en" : "Match",
+    "ja" : "一致",
+    "vi" : "Đồng nhất",
+    "zh" : "匹配"
+  },
+  "동의어" : {
+    "en" : "Synonyms",
+    "ja" : "同義語",
+    "vi" : "Đồng nghĩa",
+    "zh" : "同义词"
+  },
+  "{0}을(를) 포함하고 " : {
+    "en" : "including {0} ",
+    "ja" : "{0}を含み ",
+    "vi" : "bao gồm {0} ",
+    "zh" : "包括{0} "
+  },
+  "{0}을(를) 제외한 결과에 대해 " : {
+    "en" : "For search results that exclude {0} ",
+    "ja" : "{0}を除いた結果について ",
+    "vi" : "Dành cho kết quả tìm kiếm không bao gồm {0} ",
+    "zh" : "对于除了{0}的结果 "
+  },
+  "받은 메일" : {
+    "en" : "Inbox",
+    "ja" : "受信メール",
+    "vi" : "Hộp thư đến",
+    "zh" : "接收邮件"
+  },
+  "학습 로그" : {
+    "en" : "Learning log.",
+    "ja" : "学習ログ",
+    "vi" : "Nhật ký học.",
+    "zh" : "学习日志"
+  },
+  "통합" : {
+    "en" : "Integrated",
+    "ja" : "統合",
+    "vi" : "Tổng hợp",
+    "zh" : "联合"
+  },
+  "자동" : {
+    "en" : "Automatic",
+    "ja" : "自動",
+    "vi" : "Tự động",
+    "zh" : "自动"
+  },
+  "입력한 횟수 이상으로 검색어가 입력되면 자동 학습 처리합니다." : {
+    "en" : "When a search term is entered more than a set number of times, it is automatically processed for learning.",
+    "ja" : "入力された回数以上の検索ワードが入力されると、自動的に学習処理されます。",
+    "vi" : "Khi một từ khóa tìm kiếm được nhập nhiều hơn số lần quy định, nó sẽ tự động được xử lý để học.",
+    "zh" : "当搜索词输入次数超过设定值时，将处理为自动学习。"
+  },
+  "모듈 아이디 중복체크 해주세요." : {
+    "en" : "Please check for module ID duplication.",
+    "ja" : "モジュールIDの重複チェックを行ってください。",
+    "vi" : "Vui lòng kiểm tra trùng lặp ID mô-đun.",
+    "zh" : "请检查模块ID是否重复。"
+  },
+  "최대 {0}자, 영문 대소문자, 숫자, 특수기호({1}) 허용" : {
+    "en" : "Up to {0} characters, English uppercase and lowercase letters, numbers, and special symbols ({1}) are allowed.",
+    "ja" : "最大{0}字、アルファベット大文字小文字、数字、特殊記号({1})許可",
+    "vi" : "Tối đa {0} ký tự, có thể sử dụng chữ cái viết hoa và viết thường, không dấu, số và ký tự đặc biệt ({1})",
+    "zh" : "最多{0}个字符，允许英文字母大小写、数字、特殊符号({1})"
+  },
+  "인기 검색어" : {
+    "en" : "Popular Search Terms",
+    "ja" : "人気検索語",
+    "vi" : "Từ khóa tìm kiếm phổ biến",
+    "zh" : "热门搜索词"
+  },
+  "포트" : {
+    "en" : "Port",
+    "ja" : "ポート",
+    "vi" : "Cổng",
+    "zh" : "端口"
+  },
+  "포트를 입력해 주세요." : {
+    "en" : "Please enter the port number.",
+    "ja" : "ポートを入力してください。",
+    "vi" : "Vui lòng nhập số cổng.",
+    "zh" : "请输入端口号。"
+  },
+  "모듈관리" : {
+    "en" : "Module management.",
+    "ja" : "モジュール管理",
+    "vi" : "Quản lý mô-đun.",
+    "zh" : "模块管理"
+  },
+  "DB 접속 아이디를 입력하세요." : {
+    "en" : "Enter the DB access ID.",
+    "ja" : "DBのアクセスIDを入力してください。",
+    "vi" : "Nhập ID truy cập DB.",
+    "zh" : "请输入数据库连接ID。"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "アドレス帳",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "분석은 매일 새벽에 일괄적으로 처리되나 수기로 분석 처리를 할 수 있습니다." : {
+    "en" : "Analysis is batch-processed every dawn, but can also be conducted manually.",
+    "ja" : "分析は毎日明け方に一括で処理されますが、手動で分析処理を行うこともできます。",
+    "vi" : "Việc phân tích được xử lý hàng loạt vào sáng sớm mỗi ngày, nhưng cũng có thể được thực hiện theo cách thủ công.",
+    "zh" : "分析每天凌晨批量处理，但也可以手动进行分析处理。"
+  },
+  "접속 URL을 입력해 주세요." : {
+    "en" : "Please enter the access URL.",
+    "ja" : "アクセスのURLを入力してください。",
+    "vi" : "Vui lòng nhập URL truy cập.",
+    "zh" : "请输入连接URL。"
+  },
+  "입력한 단어가 하나이상 포함된 컨텐츠 검색" : {
+    "en" : "Search for content that includes at least one of the entered words",
+    "ja" : "入力した単語が一つ以上含まれたコンテンツを検索",
+    "vi" : "Tìm kiếm nội dung bao gồm ít nhất một trong số các từ đã nhập",
+    "zh" : "搜索包括一个输入单词以上的内容"
+  },
+  "{0}은(는) 사용할 수 없습니다." : {
+    "en" : "{0} cannot be used.",
+    "ja" : "{0}は使用できません。",
+    "vi" : "Bạn không thể sử dụng {0}",
+    "zh" : "无法使用{0}。"
+  },
+  "시작일이 종료일보다 큽니다." : {
+    "en" : "The start date is later than the end date.",
+    "ja" : "開始日が終了日より未来の日付で設定されています。",
+    "vi" : "Ngày bắt đầu đang bị muộn hơn ngày kết thúc.",
+    "zh" : "开始日比结束日大。"
+  },
+  "중복된 단어가 존재합니다. 해당 정보를 표기할까요?" : {
+    "en" : "Duplicate words exist. Display this information?",
+    "ja" : "重複する単語が存在します。この情報を表示しますか？",
+    "vi" : "Tồn tại từ trùng lặp. Hiển thị thông tin này?",
+    "zh" : "存在重复的单词。是否显示相关信息？"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "ファックス番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "중복 사용이 많은 검색어에 가중치를 추가 합니다." : {
+    "en" : "Weight is added to frequently used search terms.",
+    "ja" : "重複使用が多い検索語にウエイトを追加します。",
+    "vi" : "Thêm chỉ số cộng thêm cho các từ khóa tìm kiếm được sử dụng nhiều lần.",
+    "zh" : "向重复使用较多的搜索词添加权重。"
+  },
+  "자동완성의 기준은 개인별 최근 사용한 검색어로 자동완성 합니다." : {
+    "en" : "Autocomplete is based on the most recently used search terms for each individual.",
+    "ja" : "自動完了の基準は個人別最近使用した検索語で自動完了します。",
+    "vi" : "Tự động hoàn thành dựa trên các từ khóa tìm kiếm gần đây của mỗi cá nhân.",
+    "zh" : "自动完成的标准是通过个人最近使用的搜索词自动完成。"
+  },
+  "학습" : {
+    "en" : "Learning.",
+    "ja" : "学習",
+    "vi" : "Học.",
+    "zh" : "学习"
+  },
+  "인증키 오류" : {
+    "en" : "Authentication key error.",
+    "ja" : "認証キーのエラー",
+    "vi" : "Lỗi khóa xác thực.",
+    "zh" : "认证密钥错误"
+  },
+  "아이디 규칙에 어긋납니다." : {
+    "en" : "This violates the ID rules.",
+    "ja" : "ID規則に反します。",
+    "vi" : "Vi phạm quy tắc ID.",
+    "zh" : "不符合ID规则。"
+  },
+  "동일한 검색어라도 사용자가 다르면 추가 됩니다." : {
+    "en" : "Even if the search term is the same, it will be added if the user is different.",
+    "ja" : "同じ検索語でもユーザーが異なれば追加されます。",
+    "vi" : "Từ khóa tìm kiếm có thể được tự động thêm dựa trên nhật ký tìm kiếm hoặc được quản trị viên thêm vào.",
+    "zh" : "如果用户不同，则会添加相同的搜索词。"
+  },
+  "단어완성" : {
+    "en" : "Autocomplete",
+    "ja" : "完了",
+    "vi" : "Hoàn thành từ",
+    "zh" : "单词完成"
+  },
+  "파라미터가 없습니다." : {
+    "en" : "No parameter.",
+    "ja" : "パラメータがありません。",
+    "vi" : "Không có tham số.",
+    "zh" : "无参数。"
+  },
+  "전자결재(기업)" : {
+    "en" : "Approval",
+    "ja" : "電子決裁(企業)",
+    "vi" : "Phê duyệt điện tử (Công ty)",
+    "zh" : "电子批准(企业)"
+  },
+  "사내쪽지" : {
+    "en" : "In-house Message",
+    "ja" : "公司内纸条",
+    "vi" : "Tin nhắn nội bộ",
+    "zh" : "社内メッセージ"
+  },
+  "최근 검색어" : {
+    "en" : "Recent Keywords",
+    "ja" : "最近の検索ワード",
+    "vi" : "Từ khóa gần đây",
+    "zh" : "最近搜索词"
+  },
+  "최근 사용" : {
+    "en" : "Recently Used Words",
+    "ja" : "最近使用単語",
+    "vi" : "Sử dụng gần đây",
+    "zh" : "最近使用"
+  },
+  "종료일자를 선택해주세요." : {
+    "en" : "Please select an end date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Vui lòng ngày kết thúc.",
+    "zh" : "请输入结束日子。"
+  },
+  "순위" : {
+    "en" : "Ranking",
+    "ja" : "ランキング",
+    "vi" : "Xếp hạng",
+    "zh" : "顺序"
+  },
+  "아이피" : {
+    "en" : "IP",
+    "ja" : "IPアドレス",
+    "vi" : "Địa chỉ IP",
+    "zh" : "IP 地址"
+  },
+  "사용가능" : {
+    "en" : "Available",
+    "ja" : "使用可能",
+    "vi" : "Có thể sử dụng",
+    "zh" : "可以使用"
+  },
+  "{0}을(를) 하나이상 포함한 검색결과 중 " : {
+    "en" : "Among search results that include at least one {0} ",
+    "ja" : "{0}を一つ以上含んだ検索結果の内 ",
+    "vi" : "Trong số các kết quả tìm kiếm bao gồm ít nhất một {0} ",
+    "zh" : "正在搜索包括{0}一个以上的结果 "
+  },
+  "입력된 값이 너무 큽니다." : {
+    "en" : "The input value you entered is too large.",
+    "ja" : "入力値が大きすぎます。",
+    "vi" : "Giá trị nhập quá lớn",
+    "zh" : "输入价太大了。"
+  },
+  "인기 검색어 추가" : {
+    "en" : "Add popular search term",
+    "ja" : "人気検索語の追加",
+    "vi" : "Thêm từ khóa tìm kiếm phổ biến",
+    "zh" : "添加热门搜索词"
+  },
+  "통합검색을 사용하지 않습니다." : {
+    "en" : "Does not use unified search",
+    "ja" : "統合検索を使用しません。",
+    "vi" : "Không sử dụng tìm kiếm hợp nhất",
+    "zh" : "不使用综合搜索。"
+  },
+  "불용어 정보" : {
+    "en" : "Stop Words Information",
+    "ja" : "ストップワード情報",
+    "vi" : "Thông tin Stop Words",
+    "zh" : "停用词信息"
+  },
+  "기간 적용" : {
+    "en" : "Application Period",
+    "ja" : "期間適用",
+    "vi" : "Áp dụng thời gian",
+    "zh" : "适用期限"
+  },
+  "필터 적용" : {
+    "en" : "Apply Filter",
+    "ja" : "フィルターを適用",
+    "vi" : "Áp dụng bộ lọc",
+    "zh" : "应用过滤器"
+  },
+  "포트는 2~4자리로 입력하세요." : {
+    "en" : "The port number should be between 2 to 4 digits.",
+    "ja" : "ポートは2〜4桁で入力してください。",
+    "vi" : "Số cổng phải từ 2 đến 4 chữ số.",
+    "zh" : "端口号请输入2至4位数字。"
+  },
+  "단어에 포함되지 않은 복합어가 존재합니다." : {
+    "en" : "Compound words not included in the word list.",
+    "ja" : "単語に含まれていない複合語が存在します。",
+    "vi" : "Các từ ghép không được bao gồm trong danh sách từ.",
+    "zh" : "存在未包含在单词中的复合词。"
+  },
+  "명" : {
+    "en" : "Name",
+    "ja" : "人",
+    "vi" : "Tên",
+    "zh" : "名"
+  },
+  "동의어[\\\"{0}\\\"]를 200byte 이하로 입력하세요." : {
+    "en" : "Please enter a synonym [\\\"{0}\\\"] within 200 bytes.",
+    "ja" : "同義語[\\\"{0}\\\"]を200byte以下で入力してください。",
+    "vi" : "Vui lòng nhập từ đồng nghĩa [\\\"{0}\\\"] không quá 200 byte.",
+    "zh" : "请输入200byte以下的同义词[\\\"{0}\\\"]。"
+  },
+  "생성버튼을 클릭해주세요." : {
+    "en" : "Please click the create button.",
+    "ja" : "生成ボタンをクリックしてください。",
+    "vi" : "Vui lòng nhấp vào nút tạo.",
+    "zh" : "请点击创建按钮。"
+  },
+  "사전 템플릿" : {
+    "en" : "Dictionary template.",
+    "ja" : "辞書テンプレート",
+    "vi" : "Mẫu từ điển.",
+    "zh" : "字典模板"
+  },
+  "자동생성" : {
+    "en" : "Auto-generate",
+    "ja" : "自動生成",
+    "vi" : "Tự động tạo",
+    "zh" : "自动新建"
+  },
+  "쉼표(,)로 구분, 공백 및 특수문자 불가" : {
+    "en" : "Separate by commas (,), no spaces or special characters allowed.",
+    "ja" : "カンマ（,）で区切り、スペースおよび特殊文字は使用不可",
+    "vi" : "Phân cách bằng dấu phẩy (,), không có khoảng trắng hoặc ký tự đặc biệt được phép.",
+    "zh" : "逗号(,)分隔，不允许空格和特殊字符。"
+  },
+  "단어 관리" : {
+    "en" : "Word Management",
+    "ja" : "単語管理",
+    "vi" : "Quản lý từ",
+    "zh" : "单词管理"
+  },
+  "문서관리" : {
+    "en" : "Document",
+    "ja" : "文件管理",
+    "vi" : "Quản lý tài liệu",
+    "zh" : "文書管理"
+  },
+  "검색어에서 단어를 추출하여 사전에 없는 단어를 학습 데이터로 등록하는데 사용합니다." : {
+    "en" : "Search terms are analyzed to extract words, which are then used to register non-dictionary words as learning data.",
+    "ja" : "検索ワードから単語を抽出し、辞書にない単語を学習データとして登録する際に使用します。",
+    "vi" : "Các từ ngữ trong từ khóa tìm kiếm được trích xuất và sử dụng để làm dữ liệu học các từ không có trong từ điển.",
+    "zh" : "从搜索词中提取单词，用于将字典中不存在的单词注册为学习数据。"
+  },
+  "생성하시겠습니까?" : {
+    "en" : "Would you like to create it?",
+    "ja" : "作成しますか？",
+    "vi" : "Bạn có muốn tạo không?",
+    "zh" : "您要创建吗？"
+  },
+  "확장자" : {
+    "en" : "File Extension",
+    "ja" : "拡張者",
+    "vi" : "Đuôi mở rộng của tệp tin",
+    "zh" : "扩展名"
+  },
+  "검색기간 종료일" : {
+    "en" : "Search period end date",
+    "ja" : "検索期間終了日",
+    "vi" : "Ngày kết thúc khoảng thời gian tìm kiếm",
+    "zh" : "搜索结束日期"
+  },
+  "단어의 대문자를 소문자로 변경합니다." : {
+    "en" : "Change uppercase letters in words to lowercase.",
+    "ja" : "単語の大文字を小文字に変更します。",
+    "vi" : "Chuyển đổi chữ hoa của từ thành chữ thường.",
+    "zh" : "将单词的大写字母更改为小写字母。"
+  },
+  "불용어는 복합어 및 동의어 등록이 불가능합니다. 복합어 및 동의어를 제거하시겠습니까?" : {
+    "en" : "Compound words and synonyms cannot be registered. Do you want to remove compound words and synonyms?",
+    "ja" : "ストップワードは複合語および同義語の登録ができません。複合語および同義語を削除しますか？",
+    "vi" : "Không thể đăng ký từ ghép và từ đồng nghĩa. Bạn có muốn loại bỏ từ ghép và từ đồng nghĩa không?",
+    "zh" : "无法注册复合词和同义词。是否要移除复合词和同义词？"
+  },
+  "학습단어" : {
+    "en" : "Learned words.",
+    "ja" : "学習単語",
+    "vi" : "Các từ đã học.",
+    "zh" : "学习单词"
+  },
+  "더보기" : {
+    "en" : "View more",
+    "ja" : "もっと見る",
+    "vi" : "Xem thêm",
+    "zh" : "继续看"
+  },
+  "제안 검색어" : {
+    "en" : "Suggested search terms",
+    "ja" : "提案検索ワード",
+    "vi" : "Các cụm từ tìm kiếm được đề xuất",
+    "zh" : "建议检索词"
+  },
+  "{0}의 검색결과 중 " : {
+    "en" : "Among {0} search results ",
+    "ja" : "{0}の検索結果の内、 ",
+    "vi" : "Trong số các kết quả tìm kiếm của {0} ",
+    "zh" : "{0}的搜索结果中 "
+  },
+  "템플릿 사전을 일괄적용했습니다." : {
+    "en" : "Template dictionary has been applied in bulk.",
+    "ja" : "テンプレート辞書を一括適用しました。",
+    "vi" : "Từ điển mẫu đã được áp dụng hàng loạt.",
+    "zh" : "批量应用了词典模板。"
+  },
+  "1년 이내" : {
+    "en" : "Within 1 year",
+    "ja" : "1年以内",
+    "vi" : "Trong vòng 1 năm",
+    "zh" : "一年以内"
+  },
+  "대상ID" : {
+    "en" : "Target ID",
+    "ja" : "対象ID",
+    "vi" : "ID đích",
+    "zh" : "目标ID"
+  },
+  "정렬" : {
+    "en" : "Sort",
+    "ja" : "整列",
+    "vi" : "Sắp xếp",
+    "zh" : "排列"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "개인 검색어는 최대 6개월 까지만 보관 됩니다." : {
+    "en" : "Personal search terms are kept for up to 6 months.",
+    "ja" : "個人検索語は最大6ヶ月間まで保管されます。",
+    "vi" : "Từ khóa tìm kiếm cá nhân chỉ được lưu trữ trong tối đa 6 tháng.",
+    "zh" : "个人搜索词最多保存6个月。"
+  },
+  "선택한 로그를 학습 처리합니다." : {
+    "en" : "The selected log will be processed for learning.",
+    "ja" : "選択されたログを学習処理します。",
+    "vi" : "Xử lý học nhật ký đã chọn.",
+    "zh" : "对选定的日志进行学习处理。"
+  },
+  "문장 분석" : {
+    "en" : "Sentence Analysis",
+    "ja" : "文章解析",
+    "vi" : "Phân tích câu",
+    "zh" : "句子分析"
+  },
+  "첨부파일 내용" : {
+    "en" : "Attachment content.",
+    "ja" : "添付ファイル内容",
+    "vi" : "Nội dung tệp đính kèm.",
+    "zh" : "附件内容"
+  },
+  "작성일" : {
+    "en" : "Date (Written)",
+    "ja" : "作成日",
+    "vi" : "Ngày",
+    "zh" : "制作日"
+  },
+  "쪽지" : {
+    "en" : "Messages",
+    "ja" : "メッセージ",
+    "vi" : "Tin nhắn",
+    "zh" : "纸条"
+  },
+  "소유자 규칙에 어긋납니다." : {
+    "en" : "It does not comply with the owner rule.",
+    "ja" : "所有者規則に違反します。",
+    "vi" : "Không đúng quy tắc của chủ sở hữu.",
+    "zh" : "不符合所有者规则。"
+  },
+  "신규와 삭제는 시스템에서 자동으로 처리합니다." : {
+    "en" : "New and deleted items are automatically processed by the system.",
+    "ja" : "新規と削除はシステムで自動処理します。",
+    "vi" : "Các mục mới và đã xóa sẽ được xử lý tự động bởi hệ thống.",
+    "zh" : "新增和删除将由系统自动处理。"
+  },
+  "검색 로그" : {
+    "en" : "Search log.",
+    "ja" : "検索ログ",
+    "vi" : "Nhật ký tìm kiếm.",
+    "zh" : "搜索日志"
+  },
+  "수동 학습" : {
+    "en" : "Manual learning.",
+    "ja" : "手動学習",
+    "vi" : "Học thủ công.",
+    "zh" : "手动学习"
+  },
+  "불용어 검사를 해주세요." : {
+    "en" : "Please perform stop words checking.",
+    "ja" : "ストップワード確認を行ってください。",
+    "vi" : "Vui lòng thực hiện kiểm tra stop words.",
+    "zh" : "请进行停用词检查。"
+  },
+  "검색어를 바로 분석하시겠습니까?" : {
+    "en" : "Would you like to analyze the search term immediately?",
+    "ja" : "検索ワードをすぐに分析しますか？",
+    "vi" : "Bạn có muốn phân tích từ khóa tìm kiếm ngay lập tức không?",
+    "zh" : "您要立即分析这个搜索词吗？"
+  },
+  "최근 검색어가 없습니다." : {
+    "en" : "No recent search terms.",
+    "ja" : "最近の検索語はありません。",
+    "vi" : "Không có thuật ngữ tìm kiếm gần đây.",
+    "zh" : "没有最近的搜索词。"
+  },
+  "기준에 따라 가장 많이 검색된 검색어 순위를 표기합니다. 각 사람은 한 단어에 대하여 하나의 검색으로 계산됩니다." : {
+    "en" : "The most searched search terms are displayed according to the criteria. Each person counts as one search for a word.",
+    "ja" : "基準によって最も多く検索された検索語順位を表示します。各人は一単語に対して一つの検索として計算されます。",
+    "vi" : "Hiển thị thứ hạng các từ khóa tìm kiếm được sử dụng nhiều nhất theo tiêu chí. Mỗi người được tính là một lượt tìm kiếm cho một từ.",
+    "zh" : "根据标准列出搜索最多的搜索词的排名。 每个人对一个单词计算为一个搜索。"
+  },
+  "정렬순서" : {
+    "en" : "Sort Order",
+    "ja" : "ソート順",
+    "vi" : "Thứ tự sắp xếp",
+    "zh" : "排序顺序"
+  },
+  "일치하는 단어만 대상이며, 복합어와 N그램 필드는 불용어 처리가 되지 않습니다. 사전 배치가 실행된 후 적용됩니다." : {
+    "en" : "Only matching words are targeted, and compound words and N-gram fields are not processed as stopwords. Applied after batch processing is executed.",
+    "ja" : "一致する単語のみが対象で、複合語とNグラムフィールドはストップワード処理されません。事前バッチが実行された後に適用されます。",
+    "vi" : "Chỉ các từ phù hợp được hướng đến, và từ ghép và các trường N-gram không được xử lý như stopwords. Được áp dụng sau khi xử lý hàng loạt được thực hiện.",
+    "zh" : "仅匹配的词语有效，复合词和Ngram字段不受停用词处理。执行事先分配后生效。"
+  },
+  "미사용 및 UI별도 모듈은 순서와 상관없이 통합검색에서 표기하지 않습니다." : {
+    "en" : "Unused modules and those with separate UIs are not displayed in the integrated search, regardless of their order.",
+    "ja" : "未使用及びUIの別途モジュールは、順序に関係なく総合検索には表示されません。",
+    "vi" : "Các mô-đun không sử dụng và những mô-đun có giao diện người dùng riêng sẽ không được hiển thị trong tìm kiếm tổng hợp hợp.",
+    "zh" : "未使用和UI独立的模块不论顺序，都不在综合搜索中显示。"
+  },
+  "개인" : {
+    "en" : "Personal",
+    "ja" : "個人",
+    "vi" : "Cá nhân",
+    "zh" : "个人"
+  },
+  "처리하시겠습니까?" : {
+    "en" : "Would you like to process it?",
+    "ja" : "人気検索語 処理しますか？",
+    "vi" : "Bạn có muốn xử lý không?",
+    "zh" : "您要处理吗？"
+  },
+  "모듈 목록이 없습니다." : {
+    "en" : "There is no module list.",
+    "ja" : "モジュールリストがありません。",
+    "vi" : "Không có danh sách mô-đun.",
+    "zh" : "没有模块列表。"
+  },
+  "파일 수집방식" : {
+    "en" : "File collection method.",
+    "ja" : "ファイル収集方法",
+    "vi" : "Phương pháp thu thập tệp tin.",
+    "zh" : "文件采集方式"
+  },
+  "에 대해 전체" : {
+    "en" : "all about",
+    "ja" : "について全体",
+    "vi" : "tất cả về",
+    "zh" : "全局"
+  },
+  "수동" : {
+    "en" : "Manual.",
+    "ja" : "手動",
+    "vi" : "Thủ công.",
+    "zh" : "手动"
+  },
+  "유지시간" : {
+    "en" : "Retention Time",
+    "ja" : "有効時間",
+    "vi" : "Thời gian duy trì",
+    "zh" : "维护时间"
+  },
+  "색인도 중지" : {
+    "en" : "Stop indexing",
+    "ja" : "インデックスマップを停止します。",
+    "vi" : "Dừng lập chỉ mục",
+    "zh" : "停止索引"
+  },
+  "불용처리" : {
+    "en" : "Stop Words Processing",
+    "ja" : "ストップ処理",
+    "vi" : "Xử lý Stop Words",
+    "zh" : "停用词处理"
+  },
+  "보낸 쪽지" : {
+    "en" : "Send",
+    "ja" : "送信メッセージ",
+    "vi" : "Lời nhắn đã gửi",
+    "zh" : "发送的纸条"
+  },
+  "{0}을(를) 포함한 결과에 대해 " : {
+    "en" : "For search results that include {0} ",
+    "ja" : "{0}を含んだ結果について ",
+    "vi" : "Dành cho kết quả tìm kiếm bao gồm {0} ",
+    "zh" : "对于包括{0}的结果 "
+  },
+  "모듈 설정" : {
+    "en" : "Module settings",
+    "ja" : "入力値が大きすぎます。",
+    "vi" : "Cài đặt mô-đun",
+    "zh" : "模板设置"
+  },
+  "결재" : {
+    "en" : "e-Approval",
+    "ja" : "电子批准",
+    "vi" : "Phê duyệt điện tử",
+    "zh" : "電子決裁"
+  },
+  "검색어 자동완성" : {
+    "en" : "Search term autocomplete",
+    "ja" : "検索語 自動完了",
+    "vi" : "Tự động hoàn thành từ tìm kiếm",
+    "zh" : "自动完成查询"
+  },
+  "고정 검색어 등록" : {
+    "en" : "Register fixed search term",
+    "ja" : "固定検索語 登録",
+    "vi" : "Thêm từ khóa tìm kiếm cố định",
+    "zh" : "注册固定查询"
+  },
+  "사전 관리" : {
+    "en" : "Dictionary Management",
+    "ja" : "辞書管理",
+    "vi" : "Quản lý từ điển",
+    "zh" : "词汇管理"
+  },
+  "인기 검색어 설정" : {
+    "en" : "Popular search term settings",
+    "ja" : "人気検索語の設定",
+    "vi" : "Cài đặt từ khóa tìm kiếm phổ biến",
+    "zh" : "热门搜索词设置"
+  },
+  "목록개수" : {
+    "en" : "Show per page",
+    "ja" : "リスト数",
+    "vi" : "Số cái danh sách",
+    "zh" : "目录数量"
+  },
+  "아이피를 입력해 주세요." : {
+    "en" : "Please enter the IP address.",
+    "ja" : "IPを入力してください。",
+    "vi" : "Vui lòng nhập địa chỉ IP.",
+    "zh" : "请输入IP地址。"
+  },
+  "기본키 파라미터가 없습니다." : {
+    "en" : "There is no default key parameter.",
+    "ja" : "基本キーパラメータがありません。",
+    "vi" : "Không có tham số khóa mặc định.",
+    "zh" : "无主关键字参数。"
+  },
+  "쉼표(,)로 구분, 2자 이상, 공백 및 특수문자 불가" : {
+    "en" : "Separated by commas (,), at least 2 characters, no spaces or special characters.",
+    "ja" : "カンマ（,）で区切り、2文字以上、スペース及び特殊文字不可",
+    "vi" : "Phân cách bằng dấu phẩy (,), ít nhất 2 ký tự, không có khoảng trắng hoặc ký tự đặc biệt.",
+    "zh" : "使用逗号(,)分隔，至少为2个字符，不允许有空格和特殊字符。"
+  },
+  "{0}가 정확하게 일치한 결과에 대해 " : {
+    "en" : "For search results that exactly match {0} ",
+    "ja" : "{0}が正しく一致した結果について ",
+    "vi" : "Dành cho kết quả tìm kiếm khớp chính xác với {0} ",
+    "zh" : "对于{0}正确一致的结果 "
+  },
+  "기본 검색기간" : {
+    "en" : "Default Search Period",
+    "ja" : "デフォルトの検索期間",
+    "vi" : "Khoảng thời gian tìm kiếm mặc định",
+    "zh" : "默认搜索时段"
+  },
+  "선택하신 검색어를 바로 분석하시겠습니까?" : {
+    "en" : "Would you like to immediately analyze the selected search term?",
+    "ja" : "選択された検索ワードをすぐに分析しますか？",
+    "vi" : "Bạn có muốn ngay lập tức phân tích từ khóa tìm kiếm đã chọn không?",
+    "zh" : "您要立即分析您选择的搜索词吗？"
+  },
+  "중복확인 필수, 2자 이상, 공백 및 특수문자 불가, 등록 후 수정불가" : {
+    "en" : "Duplicate check is mandatory, at least 2 characters, no spaces or special characters, cannot be edited after registration.",
+    "ja" : "重複確認が必須、2文字以上、スペース及び特殊文字不可、登録後の修正不可",
+    "vi" : "Kiểm tra trùng lặp là bắt buộc, ít nhất 2 ký tự, không có khoảng trắng hoặc ký tự đặc biệt, không thể chỉnh sửa sau khi đã đăng ký.",
+    "zh" : "必须进行重复检查，至少为2个字符，不允许有空格和特殊字符，注册后无法修改。"
+  },
+  "해당 단어가 포함되면 검색 제한" : {
+    "en" : "Search is restricted if the word is included.",
+    "ja" : "特定ワードが含まれている場合は検索制限",
+    "vi" : "Hạn chế tìm kiếm nếu có từ này",
+    "zh" : "如果单词包含在内则搜索限制"
+  },
+  "최근 {0} 기간만 검색" : {
+    "en" : "Search for the last {0} period",
+    "ja" : "最近の{0}期間のみ検索",
+    "vi" : "Tìm kiếm trong {0} khoảng thời gian gần đây",
+    "zh" : "最近 {0} 期间搜索"
+  },
+  "{0}은(는) 통합검색을 사용하지 않습니다." : {
+    "en" : "{0} does not used unified search.",
+    "ja" : "{0}は統合検索を使用しません。",
+    "vi" : "{0} không sử dụng tìm kiếm hợp nhất.",
+    "zh" : "{0}不使用综合搜索。"
+  },
+  "분석은 30분마다 일괄적으로 처리되나 수기로 분석 처리를 할 수 있습니다." : {
+    "en" : "Analysis is processed in batches every 30 minutes, but it can also be processed manually.",
+    "ja" : "分析は30分ごとに一括して処理されますが、手動で分析処理を行うこともできます。",
+    "vi" : "Việc phân tích được xử lý hàng loạt 30 phút một lần, nhưng bạn cũng có thể tự xử lý phân tích thủ công.",
+    "zh" : "分析每 30 分钟批量处理一次，但也可以手动进行分析处理。"
+  },
+  "DB 접속정보를 선택해주세요." : {
+    "en" : "Please select the DB access information.",
+    "ja" : "DBアクセス情報を選択してください。",
+    "vi" : "Vui lòng chọn thông tin truy cập DB.",
+    "zh" : "请选择数据库连接信息。"
+  },
+  "비밀번호 규칙에 어긋납니다." : {
+    "en" : "The password does not meet the requirements.",
+    "ja" : "パスワード規則に違反します。",
+    "vi" : "Không đúng quy tắc mật khẩu.",
+    "zh" : "不符合密码规则。"
+  },
+  "모듈 정보 조회 중 오류가 발생하였습니다." : {
+    "en" : "An error occurred while retrieving module information.",
+    "ja" : "モジュール情報の照会中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi khi truy xuất thông tin mô-đun.",
+    "zh" : "检索模块信息时发生错误。"
+  },
+  "분석진행" : {
+    "en" : "Analysis in progress.",
+    "ja" : "分析進行",
+    "vi" : "Đang tiến hành phân tích.",
+    "zh" : "进行分析"
+  },
+  "수집기간" : {
+    "en" : "Collection Period",
+    "ja" : "収集期間",
+    "vi" : "Khoảng thời gian thu thập",
+    "zh" : "收集期间"
+  },
+  "검색 결과" : {
+    "en" : "Search results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "직원검색" : {
+    "en" : "Search Employee",
+    "ja" : "查询职员",
+    "vi" : "Tìm kiếm Nhân viên",
+    "zh" : "社員検索"
+  },
+  "직접입력" : {
+    "en" : "Enter Manually",
+    "ja" : "直接入力",
+    "vi" : "Nhập trực tiếp",
+    "zh" : "自己输入"
+  },
+  "본문내용" : {
+    "en" : "Body content.",
+    "ja" : "本文内容",
+    "vi" : "Nội dung chính.",
+    "zh" : "正文内容"
+  },
+  "사용횟수" : {
+    "en" : "Total times used",
+    "ja" : "使用回数",
+    "vi" : "Tổng số lần sử dụng",
+    "zh" : "使用次数"
+  },
+  "학습 제외" : {
+    "en" : "Exclude from learning.",
+    "ja" : "学習除外",
+    "vi" : "Không học",
+    "zh" : "学习排除"
+  },
+  "DB 접속정보" : {
+    "en" : "DB access information.",
+    "ja" : "DBのアクセス情報",
+    "vi" : "Thông tin truy cập DB.",
+    "zh" : "数据库连接信息。"
+  },
+  "아이피 형식" : {
+    "en" : "IP format.",
+    "ja" : "IP形式",
+    "vi" : "Định dạng IP.",
+    "zh" : "IP格式"
+  },
+  "문장 학습" : {
+    "en" : "Sentence Learning",
+    "ja" : "文章学習",
+    "vi" : "Học câu",
+    "zh" : "句子学习"
+  },
+  "데이터" : {
+    "en" : "Data",
+    "ja" : "データ",
+    "vi" : "Dữ liệu",
+    "zh" : "数据"
+  },
+  "발신자" : {
+    "en" : "Sender",
+    "ja" : "送信者",
+    "vi" : "Người gửi",
+    "zh" : "发信人"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "통합검색" : {
+    "en" : "Unified search",
+    "ja" : "統合検索",
+    "vi" : "Tìm kiếm tổng hợp",
+    "zh" : "综合搜索"
+  },
+  "기본검색" : {
+    "en" : "Default Search",
+    "ja" : "基本検索",
+    "vi" : "Tìm kiếm mặc định",
+    "zh" : "基本搜索"
+  },
+  "모듈 순서" : {
+    "en" : "Module order.",
+    "ja" : "モジュールの順序",
+    "vi" : "Thứ tự mô-đun.",
+    "zh" : "模块顺序"
+  },
+  "{0}가 정확하게 일치하고 " : {
+    "en" : "exact match with {0} ",
+    "ja" : "{0}が正しく一致し、 ",
+    "vi" : "khớp chính xác với {0} ",
+    "zh" : "{0}完全一致 "
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter keyword",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ khóa tìm kiếm.",
+    "zh" : "请输入搜索语."
+  },
+  "담당자" : {
+    "en" : "Manager",
+    "ja" : "担当者",
+    "vi" : "Người phụ trách",
+    "zh" : "负责人"
+  },
+  "1시간 마다 자동으로 대기 상태의 검색어를 처리 합니다." : {
+    "en" : "Pending search terms are processed automatically every hour.",
+    "ja" : "1時間ごとに自動的に待機状態の検索語を処理します。",
+    "vi" : "Tự động xử lý các từ khóa tìm kiếm đang chờ sau mỗi 1 giờ.",
+    "zh" : "每1小时自动处理处于等待状态的搜索词。"
+  },
+  "이미 존재하는 모듈 아이디입니다." : {
+    "en" : "This module ID already exists.",
+    "ja" : "すでに存在するモジュールIDです。",
+    "vi" : "ID mô-đun này đã tồn tại.",
+    "zh" : "该模块ID已存在。"
+  },
+  "분석 단어를 추가했습니다." : {
+    "en" : "The analysis word has been added.",
+    "ja" : "分析した単語を追加しました。",
+    "vi" : "Từ phân tích đã được thêm vào.",
+    "zh" : "已添加分析单词。"
+  },
+  "사용불가" : {
+    "en" : "Not available",
+    "ja" : "使用不可",
+    "vi" : "Không có sẵn",
+    "zh" : "不可用"
+  },
+  "학습 대상 목록으로 매일 새벽에 대기 상태의 단어를 자동으로 학습합니다." : {
+    "en" : "The list of learning targets is automatically updated daily at dawn, learning words that are in a pending state.",
+    "ja" : "学習対象リストにて、毎日夜明けに待機状態の単語を自動で学習します。",
+    "vi" : "Danh sách các đối tượng cần học được cập nhật tự động vào mỗi sáng sớm, học các từ ở trạng thái chờ.",
+    "zh" : "使用学习对象目录在每日凌晨自动学习等待状态的单词。"
+  },
+  "복합어나 N그램 필드에서는 이 기능이 적용되지 않을 수 있어, '사과박스' 검색 시 '사과'와 '박스'가 개별적으로 검색될 수 있습니다." : {
+    "en" : "This feature may not apply to compound words or N-gram fields, so searching for \"apple box\" may result in separate searches for \"apple\" and \"box.\"",
+    "ja" : "複合語やNグラムフィールドではこの機能が適用されない場合があり、「リンゴボックス」検索時に「リンゴ」と「ボックス」が個別に検索されることがあります。",
+    "vi" : "Tính năng này có thể không áp dụng cho các từ phức hợp hoặc các trường n-gram, vì vậy khi tìm kiếm \"apple box\" , \"apple\" và \"box\" có thể được tìm kiếm riêng lẻ.",
+    "zh" : "此功能可能不适用于复合词或N-gram字段,因此在搜索'苹果箱'时,'苹果'和'箱'可能会单独搜索。"
+  },
+  "내용을 가져오는 중입니다" : {
+    "en" : "Retrieving content.",
+    "ja" : "コンテンツを読み込み中です。",
+    "vi" : "Đang lấy nội dung.",
+    "zh" : "正在检索内容。"
+  },
+  "생성주기" : {
+    "en" : "Creation Cycle",
+    "ja" : "生成周期",
+    "vi" : "Chu kỳ tạo",
+    "zh" : "创建周期"
+  },
+  "미리보기" : {
+    "en" : "Preview",
+    "ja" : "プレビュー",
+    "vi" : "Xem trước",
+    "zh" : "预览"
+  },
+  "모듈명({0})을 100byte 이하로 입력하세요." : {
+    "en" : "Please enter the module name ({0}) within 100 bytes.",
+    "ja" : "モジュール名({0})を100byte以下で入力してください。",
+    "vi" : "Vui lòng nhập tên mô-đun ({0}) không quá 100 byte.",
+    "zh" : "请输入100byte以下的模块名({0})。"
+  },
+  "일괄 적용" : {
+    "en" : "Apply in bulk",
+    "ja" : "一括適用",
+    "vi" : "Áp dụng hàng loạt",
+    "zh" : "批量应用"
+  },
+  "검색기간 시작일" : {
+    "en" : "Search period start date",
+    "ja" : "検索期間開始日",
+    "vi" : "Ngày bắt đầu khoảng thời gian tìm kiếm",
+    "zh" : "搜索起始日期"
+  },
+  "회사메일" : {
+    "en" : "Company mail",
+    "ja" : "会社メール",
+    "vi" : "Hòm thư công ty",
+    "zh" : "公司邮件"
+  },
+  "해당 단어는 색인하지 않음" : {
+    "en" : "The word is not indexed.",
+    "ja" : "当該ワードは索引しない",
+    "vi" : "Từ không được tìm kiếm",
+    "zh" : "该词未被索引"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "목록을 선택해주세요." : {
+    "en" : "Please select from the list.",
+    "ja" : "リストを選択してください。",
+    "vi" : "Vui lòng chọn danh sách.",
+    "zh" : "请选择列表。"
+  },
+  "파일 경로를 입력해 주세요." : {
+    "en" : "Please enter the file path.",
+    "ja" : "ファイル経路を入力してください。",
+    "vi" : "Vui lòng nhập đường dẫn tệp.",
+    "zh" : "请输入文件路径。"
+  },
+  "검색 수" : {
+    "en" : "Number of Searches",
+    "ja" : "検索数",
+    "vi" : "Số lượng tìm kiếm",
+    "zh" : "搜索次数"
+  },
+  "모듈명을 입력하세요." : {
+    "en" : "Enter the module name.",
+    "ja" : "モジュール名を入力してください。",
+    "vi" : "Nhập tên mô-đun.",
+    "zh" : "请输入模块名称。"
+  },
+  "학습대기" : {
+    "en" : "Awaiting learning.",
+    "ja" : "学習待機",
+    "vi" : "Đang chờ học.",
+    "zh" : "等待学习"
+  },
+  "담당업무" : {
+    "en" : "Duties",
+    "ja" : "担当業務",
+    "vi" : "Tác vụ phụ trách",
+    "zh" : "担当业务"
+  },
+  "검색 후 사용자에게 관련 검색어를 추천하는 기능 입니다." : {
+    "en" : "This feature recommends related search terms to the user after a search.",
+    "ja" : "検索後、ユーザーに関連検索語を推薦する機能です。",
+    "vi" : "Đây là chức năng đề xuất các từ khóa tìm kiếm liên quan đến người dùng sau khi họ tìm kiếm.",
+    "zh" : "搜索后向用户推荐相关搜索词的功能。"
+  },
+  "주소록" : {
+    "en" : "Contacts",
+    "ja" : "アドレス帳",
+    "vi" : "Danh bạ",
+    "zh" : "地址录"
+  },
+  "불용어 관리" : {
+    "en" : "Stop Words Management",
+    "ja" : "ストップワード管理",
+    "vi" : "Quản lý Stop Words",
+    "zh" : "停用词管理"
+  },
+  "본문 내용" : {
+    "en" : "Body content.",
+    "ja" : "本文内容",
+    "vi" : "Nội dung chính.",
+    "zh" : "正文内容"
+  },
+  "검색기간 제약" : {
+    "en" : "Search period constraint",
+    "ja" : "検索期間制限",
+    "vi" : "Ràng buộc thời gian tìm kiếm",
+    "zh" : "搜索期限限制"
+  },
+  "금칙어 검사를 해주세요." : {
+    "en" : "Please check for prohibited words.",
+    "ja" : "禁止語句検査をしてください。",
+    "vi" : "Vui lòng kiểm tra từ cấm.",
+    "zh" : "请进行禁用词检查。"
+  },
+  "등록일 기준 최근 6개월까지 검색" : {
+    "en" : "Search up to the last 6 months based on the registration date.",
+    "ja" : "登録日基準で最近6か月まで検索",
+    "vi" : "Tìm kiếm đến 6 tháng gần nhất dựa trên ngày đăng ký.",
+    "zh" : "基于注册日期的最近6个月内的搜索"
+  },
+  "등록단어" : {
+    "en" : "Registered words.",
+    "ja" : "登録単語",
+    "vi" : "Các từ đã thêm.",
+    "zh" : "注册单词"
+  },
+  "데이터 수집방식" : {
+    "en" : "Data collection method.",
+    "ja" : "データ収集方法",
+    "vi" : "Phương pháp thu thập dữ liệu.",
+    "zh" : "数据采集方式"
+  },
+  "접속 인증키" : {
+    "en" : "Access authentication key.",
+    "ja" : "アクセス認証キー",
+    "vi" : "Khóa xác thực truy cập.",
+    "zh" : "连接认证密钥"
+  },
+  "태스크보드" : {
+    "en" : "Task Board",
+    "ja" : "タスクボード",
+    "vi" : "Bảng công việc",
+    "zh" : "任务版"
+  },
+  "입력된 단어가 너무 짧습니다." : {
+    "en" : "The entered word is too short.",
+    "ja" : "入力された単語が短すぎます。",
+    "vi" : "Từ đã nhập quá ngắn.",
+    "zh" : "输入的单词太短。"
+  },
+  "단어완성 등록" : {
+    "en" : "Register word completion",
+    "ja" : "単語補完登録",
+    "vi" : "Thêm hoàn thành từ",
+    "zh" : "注册单词完成"
+  },
+  "댓글" : {
+    "en" : "Comments",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "贴文"
+  },
+  "시작일자를 선택해주세요." : {
+    "en" : "Please select a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Vui lòng chọn ngày bắt đầu.",
+    "zh" : "请输入开始日子。"
+  },
+  "유효성을 검사해주세요." : {
+    "en" : "Please check the validity.",
+    "ja" : "有効性を検査してください。",
+    "vi" : "Vui lòng kiểm tra tính hợp lệ.",
+    "zh" : "请检查有效性。"
+  },
+  "추가한 색인은 증분색인 배치 실행 후 적용됩니다." : {
+    "en" : "Added indexes will be applied after incremental indexing batch execution.",
+    "ja" : "追加した索引は増分索引バッチ実行後に適用されます。",
+    "vi" : "Các chỉ mục đã được thêm sẽ được áp dụng sau khi thực hiện xử lý hàng loạt tạo chỉ mục tăng dần.",
+    "zh" : "添加的索引将在增量索引批处理执行后生效。"
+  },
+  "사용함" : {
+    "en" : "Used",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "동일한 사용자의 동일한 단어는 학습 로그에 카운트 되지 않습니다." : {
+    "en" : "The same word from the same user is not counted in the learning log.",
+    "ja" : "同一ユーザーの同じ単語は学習ログにカウントされません。",
+    "vi" : "Cùng một từ, từ cùng một người dùng sẽ không được tính trong nhật ký học.",
+    "zh" : "同一用户的同一单词不会被计入学习日志。"
+  },
+  "종료일을 입력하세요." : {
+    "en" : "Enter a finish date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Nhập ngày kết thúc.",
+    "zh" : "请输入结束日。"
+  },
+  "대표부서" : {
+    "en" : "Representative department",
+    "ja" : "代表部署",
+    "vi" : "Bộ phận đại diện",
+    "zh" : "代表部门"
+  },
+  "자동 학습 처리" : {
+    "en" : "Automatic learning processing.",
+    "ja" : "自動学習処理",
+    "vi" : "Xử lý học tự động.",
+    "zh" : "自动学习处理"
+  },
+  "관련도순" : {
+    "en" : "Relevance",
+    "ja" : "関連度順",
+    "vi" : "Liên quan",
+    "zh" : "按相关度排序"
+  },
+  "접속명" : {
+    "en" : "Access name.",
+    "ja" : "アクセス名",
+    "vi" : "Tên truy cập.",
+    "zh" : "连接名称"
+  },
+  "3자 이상, 띄어 쓰기, 숫자로 이루어진 글자 및 미완성 한글은 검색어 등록 불가" : {
+    "en" : "Words with less than 3 characters, spaces, numbers, or incomplete Hangeul cannot be registered as search terms.",
+    "ja" : "3文字以上、スペース、数字で構成された文字および未完成ハングルは検索語登録不可",
+    "vi" : "Không thể thêm từ khóa tìm kiếm có 3 ký tự trở lên, có khoảng trắng, chứa số hoặc tiếng Hàn chưa hoàn chỉnh.",
+    "zh" : "3 个字符以上，空格、数字组成的字符和未完成的韩文不能注册为搜索词"
+  },
+  "2자 이상, 숫자로 이루어진 글자 및 미완성 한글은 검색어 등록 불가" : {
+    "en" : "Cannot register search terms with 2 or more characters, words consisting of numbers, or incomplete Hangeul words",
+    "ja" : "2文字以上、数字のみで構成された文字および未完成のハングルは検索語登録不可",
+    "vi" : "Không thể thêm từ tiếng Hàn chưa hoàn thành, ký tự bao gồm số, có từ 2 ký tự trở lên làm từ tìm kiếm",
+    "zh" : "2个字符以上，由数字组成的字符和未完成的韩文无法注册为搜索词"
+  },
+  "받은 쪽지" : {
+    "en" : "Inbox",
+    "ja" : "受信メッセージ",
+    "vi" : "Lời nhắn nhận được",
+    "zh" : "受到的纸条"
+  },
+  "건 의 자료가 있습니다." : {
+    "en" : "result",
+    "ja" : "件の資料があります。",
+    "vi" : "Có một số dữ liệu.",
+    "zh" : "建议的材料已存在。"
+  },
+  "문장" : {
+    "en" : "Sentence",
+    "ja" : "文章",
+    "vi" : "Câu",
+    "zh" : "句子"
+  },
+  "등록/수정된 정보는 다음날 부터 적용되며, 이전 데이터는 재색인 필요" : {
+    "en" : "Registered/updated information will take effect from the next day, and previous data requires reindexing.",
+    "ja" : "登録/修正された情報は翌日から適用され、既存のデータには再インデックスが必要です。",
+    "vi" : "Thông tin đã đăng ký/cập nhật sẽ có hiệu lực từ ngày mai, và dữ liệu trước đó yêu cầu việc tạo chỉ số lại.",
+    "zh" : "注册/修改的信息将从第二天开始生效，以前的数据需要重新索引。"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "중복 단어입니다." : {
+    "en" : "Duplicate word.",
+    "ja" : "重複単語です。",
+    "vi" : "Từ trùng lặp.",
+    "zh" : "重复的单词。"
+  },
+  "접속" : {
+    "en" : "Access.",
+    "ja" : "アクセス",
+    "vi" : "Truy cập.",
+    "zh" : "连接"
+  },
+  "통합검색 관리자" : {
+    "en" : "Unified Search Manager",
+    "ja" : "統合検索管理者",
+    "vi" : "Quản lý tìm kiếm tích hợp",
+    "zh" : "综合搜索管理员"
+  },
+  "최근 3년" : {
+    "en" : "Last 3 years",
+    "ja" : "最近3年",
+    "vi" : "Trong vòng 3 năm qua",
+    "zh" : "最近三年"
+  },
+  "접속정보관리" : {
+    "en" : "Access information management.",
+    "ja" : "アクセス情報管理",
+    "vi" : "Quản lý thông tin truy cập.",
+    "zh" : "连接信息管理"
+  },
+  "접속명을 입력하세요." : {
+    "en" : "Please enter the access name.",
+    "ja" : "アクセス名を入力してください。",
+    "vi" : "Vui lòng nhập tên truy cập.",
+    "zh" : "请输入连接名称。"
+  },
+  "고정필드" : {
+    "en" : "Fixed field.",
+    "ja" : "固定フィールド",
+    "vi" : "Trường cố định.",
+    "zh" : "固定字段"
+  },
+  "모듈명 파라미터가 없습니다." : {
+    "en" : "There is no module name parameter.",
+    "ja" : "モジュール名パラメータがありません。",
+    "vi" : "Không có tham số tên mô-đun.",
+    "zh" : "无模块名参数。"
+  },
+  "별도" : {
+    "en" : "Separate.",
+    "ja" : "別途",
+    "vi" : "Tách biệt.",
+    "zh" : "分别处理"
+  },
+  "조직도" : {
+    "en" : "Organizational Chart",
+    "ja" : "組職図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "중복된 단어가 존재합니다. 해당 정보를 표기합니다." : {
+    "en" : "Duplicate words exist. This information is displayed.",
+    "ja" : "重複した単語が存在します。該当情報を表示します。",
+    "vi" : "Tồn tại trùng lặp. Thông tin này được hiển thị.",
+    "zh" : "存在重复的词语。显示相关信息。"
+  },
+  "영어는 소문자만 사용이 가능합니다." : {
+    "en" : "Only lowercase letters can be used for English.",
+    "ja" : "英語は小文字のみ使用可能です。",
+    "vi" : "Tiếng Anh chỉ có thể sử dụng chữ thường.",
+    "zh" : "英语只能使用小写字母。"
+  },
+  "포트는 숫자로만 입력하세요." : {
+    "en" : "Enter the port number using digits only.",
+    "ja" : "ポートは数字のみで入力してください。",
+    "vi" : "Nhập số cổng bằng chữ số.",
+    "zh" : "端口号只能输入数字。"
+  },
+  "학습유형" : {
+    "en" : "Type of learning.",
+    "ja" : "学習タイプ",
+    "vi" : "Loại học.",
+    "zh" : "学习类型"
+  },
+  "등록일순" : {
+    "en" : "by registration date",
+    "ja" : "登録日順",
+    "vi" : "theo ngày",
+    "zh" : "登录日顺"
+  },
+  "템플릿" : {
+    "en" : "Template",
+    "ja" : "テンプレート",
+    "vi" : "Mẫu",
+    "zh" : "模板"
+  },
+  "상세검색" : {
+    "en" : "Advanced Search",
+    "ja" : "詳細検索",
+    "vi" : "Tìm kiếm chi tiết",
+    "zh" : "详细搜索"
+  },
+  "색인 추가" : {
+    "en" : "Add an Index",
+    "ja" : "インデックス追加",
+    "vi" : "Thêm một chỉ số",
+    "zh" : "添加索引"
+  },
+  "삭제되었거나 존재하지 않는 모듈입니다." : {
+    "en" : "The module has been deleted or does not exist.",
+    "ja" : "削除又は存在しないモジュールです。",
+    "vi" : "Mô-đun đã bị xóa hoặc không tồn tại.",
+    "zh" : "已删除或不存在的模块。"
+  },
+  "프로젝트" : {
+    "en" : "Project",
+    "ja" : "项目",
+    "vi" : "Dự án",
+    "zh" : "プロジェクト"
+  },
+  "3년 이내" : {
+    "en" : "Within 3 years",
+    "ja" : "3年以内",
+    "vi" : "Trong vòng 3 năm",
+    "zh" : "三年以内"
+  },
+  "연관 검색어" : {
+    "en" : "Related Search Terms",
+    "ja" : "関連検索語",
+    "vi" : "Từ khóa tìm kiếm liên quan",
+    "zh" : "相关搜索词"
+  },
+  "모듈명" : {
+    "en" : "Module name",
+    "ja" : "モジュール名",
+    "vi" : "Tên Mô-đun",
+    "zh" : "模块名"
+  },
+  "학습 제외 취소 처리합니다." : {
+    "en" : "The exclusion from learning is now cancelled.",
+    "ja" : "学習除外のキャンセル処理を行います。",
+    "vi" : "Hủy cài đặt \\\"Không học\\\".",
+    "zh" : "取消学习排除。"
+  },
+  "학습일" : {
+    "en" : "Date of learning.",
+    "ja" : "学習日",
+    "vi" : "Ngày học.",
+    "zh" : "学习日期"
+  },
+  "통합검색에서 보여지는 순서를 설정합니다." : {
+    "en" : "Set the order in which modules appear in the integrated search.",
+    "ja" : "総合検索で表示される順序を設定します。",
+    "vi" : "Thiết lập thứ tự xuất hiện của các mô-đun trong tìm kiếm tổng hợp.",
+    "zh" : "设置在综合搜索中显示的顺序。"
+  },
+  "해당 단어로는 앞으로 학습 하지 않습니다." : {
+    "en" : "This word will not be used for future learning.",
+    "ja" : "該当の単語では今後から学習しません。",
+    "vi" : "Từ này sẽ không được sử dụng cho việc học trong tương lai.",
+    "zh" : "该词将不再用于未来的学习。"
+  },
+  "자동 학습" : {
+    "en" : "Automatic learning.",
+    "ja" : "自動学習",
+    "vi" : "Học tự động.",
+    "zh" : "自动学习"
+  },
+  "메일" : {
+    "en" : "Mail",
+    "ja" : "メール",
+    "vi" : "Thư",
+    "zh" : "电子邮件"
+  },
+  "검색대상 파라미터가 없습니다." : {
+    "en" : "No search target parameters.",
+    "ja" : "検索対象パラメータはありません。",
+    "vi" : "Không có tham số tìm kiếm.",
+    "zh" : "没有搜索目标参数。"
+  },
+  "데이터 수집" : {
+    "en" : "Data collection.",
+    "ja" : "データ収集",
+    "vi" : "Thu thập dữ liệu.",
+    "zh" : "数据采集"
+  },
+  "검색로그 기반으로 검색어를 자동으로 등록 하거나 관리자가 추가 할 수 있습니다." : {
+    "en" : "Search terms can be automatically registered based on search logs or added by the administrator.",
+    "ja" : "検索ログに基づいて検索語を自動的に登録したり、管理者が追加することができます。",
+    "vi" : "Có thể tự động thêm từ khóa tìm kiếm dựa trên nhật ký tìm kiếm hoặc quản trị viên có thể thêm vào.",
+    "zh" : "可以根据搜索日志自动注册搜索词，或由管理员添加。"
+  },
+  "6개월 이내" : {
+    "en" : "Within 6 months",
+    "ja" : "6か月以内",
+    "vi" : "Trong vòng 6 tháng",
+    "zh" : "六个月以内"
+  },
+  "제외" : {
+    "en" : "Exclude",
+    "ja" : "除外",
+    "vi" : "Loại trừ",
+    "zh" : "排除"
+  },
+  "관리자가 추가한 고정 검색어는 모든 사람에게 적용 됩니다." : {
+    "en" : "Fixed search terms added by the administrator apply to everyone.",
+    "ja" : "管理者が追加した固定検索語はすべての人に適用されます。",
+    "vi" : "Từ khóa tìm kiếm cố định do quản trị viên thêm vào sẽ được áp dụng cho tất cả mọi người.",
+    "zh" : "管理员添加的固定搜索词将适用于所有人。"
+  },
+  "사용여부" : {
+    "en" : "Use or not",
+    "ja" : "使用可否",
+    "vi" : "Có sử dụng hay không",
+    "zh" : "是否使用"
+  },
+  "아이피를 형식에 맞지 않습니다." : {
+    "en" : "The IP address format is incorrect.",
+    "ja" : "IPの形式が正しくありません。",
+    "vi" : "Định dạng địa chỉ IP không chính xác.",
+    "zh" : "IP地址格式不正确。"
+  },
+  "최근 1년" : {
+    "en" : "Last 1 year",
+    "ja" : "最近1年",
+    "vi" : "Trong vòng 1 năm qua",
+    "zh" : "最近一年"
+  },
+  "사용안함" : {
+    "en" : "Not in use.",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng.",
+    "zh" : "不使用"
+  },
+  "DB 접속 비밀번호를 입력하세요." : {
+    "en" : "Enter the DB access password.",
+    "ja" : "DBのアクセスパスワードを入力してください。",
+    "vi" : "Nhập mật khẩu truy cập DB.",
+    "zh" : "请输入数据库连接密码。"
+  },
+  "반복" : {
+    "en" : "Repeat",
+    "ja" : "繰り返し",
+    "vi" : "Lặp lại",
+    "zh" : "反复"
+  },
+  "색인 대상 ID를 입력해주세요." : {
+    "en" : "Please enter the target ID for indexing.",
+    "ja" : "インデックス対象IDを入力してください。",
+    "vi" : "Vui lòng nhập ID mục tiêu để tạo chỉ số.",
+    "zh" : "请输入索引目标ID。"
+  },
+  "어제 날짜까지만 선택 가능합니다." : {
+    "en" : "You can select up to yesterday's date.",
+    "ja" : "昨日の日付までしか選択できません。",
+    "vi" : "Bạn có thể chọn đến ngày hôm qua.",
+    "zh" : "只能选择到昨天的日期。"
+  },
+  "스마트워크" : {
+    "en" : "Smartwork",
+    "ja" : "智能工作",
+    "vi" : "Công việc thông minh",
+    "zh" : "スマートワーク"
+  },
+  "등록일" : {
+    "en" : "Date added",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "화면에서 표기하지 않음" : {
+    "en" : "Not displayed on the screen.",
+    "ja" : "画面に表示しない",
+    "vi" : "Không hiển thị trên màn hình.",
+    "zh" : "屏幕上不显示"
+  },
+  "금칙어 관리" : {
+    "en" : "Prohibited Word Management",
+    "ja" : "禁止ワード管理",
+    "vi" : "Quản lý từ bị cấm",
+    "zh" : "禁止词管理"
+  },
+  "영문으로 시작, 영문, 숫자 조합 2자 이상, 저장 시 수정불가" : {
+    "en" : "Must start with English letters, be a combination of letters and numbers, at least two characters long, and cannot be modified once saved.",
+    "ja" : "英字で始まり、英字と数字の組み合わせで2文字以上、保存時に修正不可",
+    "vi" : "Phải bắt đầu bằng chữ cái tiếng Anh, là sự kết hợp của chữ cái và số, ít nhất hai ký tự, và không thể chỉnh sửa sau khi đã lưu.",
+    "zh" : "以英文开头，英文和数字组合，2个字符以上，保存后无法修改。"
+  },
+  "예를 들어, '사과'를 금칙어로 설정하면 '사과', '사과박스', '사과를' 등 사과가 포함된 모든 검색어의 검색이 제한됩니다." : {
+    "en" : "For example, if you set \"apple\" as a prohibited term, searches for \"apple,\" \"apple box,\" \"apples,\" etc., will be restricted.",
+    "ja" : "例えば、「リンゴ」を禁止ワードに設定すると、「リンゴ」、「リンゴボックス」、「リンゴを」など、リンゴが含まれているすべての検索語の検索が制限されます。",
+    "vi" : "Ví dụ, nếu bạn đặt \"apple\" là từ bị cấm, thì việc tìm kiếm các cụm từ \"apple\", \"apple box\", v.v. sẽ bị hạn chế.",
+    "zh" : "例如,如果将'苹果'设置为禁止词,对'苹果'、'苹果箱'、'把苹果'等的搜索将受到限制。"
+  },
+  "단어" : {
+    "en" : "Words",
+    "ja" : "単語",
+    "vi" : "Từ",
+    "zh" : "单词"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "专栏",
+    "vi" : "Diễn đàn",
+    "zh" : "掲示板"
+  },
+  "시작일을 입력하세요." : {
+    "en" : "Enter a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu.",
+    "zh" : "请输入开始日。"
+  },
+  "사전 배치가 실행된 후 적용됩니다." : {
+    "en" : "Applied after the batch processing is executed.",
+    "ja" : "事前バッチが実行された後に適用されます。",
+    "vi" : "Được áp dụng sau khi xử lý hàng loạt được thực hiện.",
+    "zh" : "执行事先分配后生效。"
+  },
+  "<strong>{0}</strong>에 대해 <strong>총 {1}건</strong>의 자료가 있습니다." : {
+    "en" : "There are a total of <strong> {1} </strong> data about <strong> {0} </strong>.",
+    "ja" : "<strong>{0}</strong>について <strong>総 {1}件</strong>の資料があります。",
+    "vi" : "Có tổng cộng <strong> {1} </ strong> dữ liệu về <strong> {0} </ strong>.",
+    "zh" : "关于<strong>{0}</strong>共享<strong>{1}件</strong>的资料。"
+  },
+  "전자결재" : {
+    "en" : "e-Approval",
+    "ja" : "电子批准",
+    "vi" : "Phê duyệt điện tử",
+    "zh" : "電子決裁"
+  },
+  "전자우편" : {
+    "en" : "Mail",
+    "ja" : "电子邮件",
+    "vi" : "Thư",
+    "zh" : "メール"
+  },
+  "단어에 부적절한 문자가 포함되어 있습니다." : {
+    "en" : "The word contains inappropriate characters.",
+    "ja" : "単語に不適切な文字が含まれています。",
+    "vi" : "Từ chứa các ký tự không phù hợp.",
+    "zh" : "单词包含不适当的字符。"
+  },
+  "색인 관리" : {
+    "en" : "Index Management",
+    "ja" : "インデックス管理",
+    "vi" : "Quản lý chỉ số",
+    "zh" : "索引管理"
+  },
+  "중복체크를 해주세요." : {
+    "en" : "Please perform a duplicate check.",
+    "ja" : "重複チェックを行ってください。",
+    "vi" : "Vui lòng thực hiện kiểm tra trùng lặp.",
+    "zh" : "请进行重复检查。"
+  },
+  "대상테이블 파라미터가 없습니다." : {
+    "en" : "No target table parameter.",
+    "ja" : "対象テーブルパラメータがありません。",
+    "vi" : "Không có tham số bảng mục tiêu.",
+    "zh" : "无对象桌面参数。"
+  },
+  "접속정보" : {
+    "en" : "Access information.",
+    "ja" : "アクセス情報",
+    "vi" : "Thông tin truy cập.",
+    "zh" : "连接信息"
+  },
+  "단어와 일치하는 복합어가 존재합니다." : {
+    "en" : "Compound words matching the word list exist.",
+    "ja" : "単語と一致する複合語が存在します。",
+    "vi" : "Tồn tại các từ ghép khớp với danh sách từ.",
+    "zh" : "存在与单词匹配的复合词。"
+  },
+  "포트 형식" : {
+    "en" : "Port format.",
+    "ja" : "ポート形式",
+    "vi" : "Định dạng cổng kết nối.",
+    "zh" : "端口格式"
+  },
+  "복합어" : {
+    "en" : "Compound Words",
+    "ja" : "複合語",
+    "vi" : "Từ ghép",
+    "zh" : "复合词"
+  }
+}

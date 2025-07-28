@@ -1,0 +1,1430 @@
+{
+  "인쇄 미리보기" : {
+    "en" : "Print Preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "js 파일" : {
+    "en" : "JS file",
+    "ja" : "jsファイル",
+    "vi" : "Tệp js",
+    "zh" : "js文件"
+  },
+  "업무보고" : {
+    "en" : "Task Report",
+    "ja" : "業務報告",
+    "vi" : "Báo cáo tác vụ",
+    "zh" : "业务报告"
+  },
+  "유효하지 않은 라이선스 사용자입니다." : {
+    "en" : "It is an invalid license user.",
+    "ja" : "有効ではないライセンスユーザーです。",
+    "vi" : "Đây là người dùng giấy phép không còn hiệu lực.",
+    "zh" : "没有效的许可证使用者。"
+  },
+  "할당된 {0} 라이선스를 초과하였습니다." : {
+    "en" : "It exceeds {0} licenses allocated.",
+    "ja" : "割り当てられた {0} ライセンスを超過しました。",
+    "vi" : "Đã vượt quá giấy phép {0} được cấp.",
+    "zh" : "超过了分配的  {0}许可证。"
+  },
+  "모바일 포틀릿 관리" : {
+    "en" : "Mobile portlet management",
+    "ja" : "モバイルポートレットの管理",
+    "vi" : "Quản lý portlet di động",
+    "zh" : "移动端模块管理"
+  },
+  "자원예약" : {
+    "en" : "Resource booking",
+    "ja" : "資源予約",
+    "vi" : "Đặt trước tài nguyên",
+    "zh" : "预约资源"
+  },
+  "추석" : {
+    "en" : "Chuseok",
+    "ja" : "秋夕",
+    "vi" : "Trung thu",
+    "zh" : "中秋节"
+  },
+  "파일유형" : {
+    "en" : "File type",
+    "ja" : "ファイルタイプ",
+    "vi" : "Loại tệp",
+    "zh" : "文件类型"
+  },
+  "라이선스 관리" : {
+    "en" : "Manage licenses",
+    "ja" : "ライセンス管理",
+    "vi" : "Quản lý giấy phép",
+    "zh" : "许可证管理"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "搜索"
+  },
+  "그룹" : {
+    "en" : "Group",
+    "ja" : "グループ",
+    "vi" : "Nhóm",
+    "zh" : "组织"
+  },
+  "제목" : {
+    "en" : "title",
+    "ja" : "題目",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "리소스ID" : {
+    "en" : "Resource ID",
+    "ja" : "リソースID",
+    "vi" : "ID tài nguyên",
+    "zh" : "资源ID"
+  },
+  "라이선스 관리 이력" : {
+    "en" : "License management history",
+    "ja" : "ライセンス管理履歴",
+    "vi" : "Lịch sử quản lý giấy phép",
+    "zh" : "管理许可证履历"
+  },
+  "다국어 리소스 관리" : {
+    "en" : "Multilingual resource management",
+    "ja" : "多言語リソース管理",
+    "vi" : "Quản lý tài nguyên đa ngôn ngữ",
+    "zh" : "多语言资源管理"
+  },
+  "자세한 사항은 시스템관리자에게 문의하세요." : {
+    "en" : "Please contact your system administrator for details.",
+    "ja" : "詳しい内容はシステム管理者に質問してください。",
+    "vi" : "ãy liên hệ với quản trị viên hệ thống để biết thông tin chi tiết.",
+    "zh" : "详细的内容请跟系统管理者联系。"
+  },
+  "선택 파일을" : {
+    "en" : "Selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "Tệp chọn",
+    "zh" : "选择的文档"
+  },
+  "개" : {
+    "en" : "EA",
+    "ja" : "個",
+    "vi" : "Cái",
+    "zh" : "个"
+  },
+  "그룹게시판 팝업공지" : {
+    "en" : "Group bulletin board pop-up notification.",
+    "ja" : "グループ掲示板のポップアップお知らせ",
+    "vi" : "Thông báo pop-up bảng tin nhóm.",
+    "zh" : "群组公告弹窗通知"
+  },
+  "게시판명" : {
+    "en" : "Board name",
+    "ja" : "掲示板名",
+    "vi" : "Tên Bảng tin",
+    "zh" : "公告栏名"
+  },
+  "첨부파일" : {
+    "en" : "Attachment",
+    "ja" : "添付ファイル名",
+    "vi" : "Tệp đính kèm",
+    "zh" : "附件名"
+  },
+  "상태" : {
+    "en" : "status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "단말기가 추가되었습니다. 아래 인증번호를 기억하셨다가 그룹웨어 앱에서 로그인시\n아이디, 비밀번호와 함께 입력해주세요." : {
+    "en" : "The device has been registered. Remember the authentication code below\n and enter them along with your ID/PW when you login at the GroupWare app.",
+    "ja" : "端末が追加されました。次の認証番号をグループウェアのアプリでのログイン時に\nID、パスワードと一緒に入力してください。",
+    "vi" : "Thiết bị đầu cuối đã được thêm vào. Hãy nhớ số xác thực bên dưới và khi đăng nhập vào ứng dụng Groupware, vui lòng nhập số đó cùng với ID và mật khẩu.",
+    "zh" : "追加了终端机。请记住下边认证号码后在群件应用程序 登录时请跟\n用户名，密码一起输入。"
+  },
+  "단말기 접속 관리" : {
+    "en" : "Manage Device Access",
+    "ja" : "端末接続管理",
+    "vi" : "Quản lý truy cập thiết bị đầu cuối",
+    "zh" : "终端机连接管理"
+  },
+  "너비" : {
+    "en" : "width",
+    "ja" : "幅",
+    "vi" : "Độ rộng",
+    "zh" : "宽度"
+  },
+  "저장하시겠습니까?" : {
+    "en" : "Do you want to save it?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu không?",
+    "zh" : "要保存吗？"
+  },
+  "할당용량" : {
+    "en" : "Quota",
+    "ja" : "割当容量",
+    "vi" : "Dung lượng phân bổ",
+    "zh" : "分配用量"
+  },
+  "목록 확인으로 파티션 처리되는 목록을 확인 할 수 있습니다." : {
+    "en" : "You can find the list that is partitioned by checking the list.",
+    "ja" : "「リストを確認」からパーティション処理されるリストを確認することができます。",
+    "vi" : "Có thể xác nhận danh mục được xử lý partition bằng Xác nhận danh mục.",
+    "zh" : "可以通过确认目录确认分区处理目录。"
+  },
+  "리소스 업로드" : {
+    "en" : "Upload resources",
+    "ja" : "リソースのアップロード",
+    "vi" : "Tải lên tài nguyên",
+    "zh" : "资源上传"
+  },
+  "전체 라이선스" : {
+    "en" : "Licenses (All)",
+    "ja" : "全体ライセンス",
+    "vi" : "Toàn bộ giấy phép",
+    "zh" : "全体许可证"
+  },
+  "영구게시" : {
+    "en" : "Post Permanently",
+    "ja" : "永久掲示",
+    "vi" : "Đăng vĩnh viễn",
+    "zh" : "永久布告"
+  },
+  "일치" : {
+    "en" : "Match",
+    "ja" : "一致",
+    "vi" : "Đồng nhất",
+    "zh" : "匹配"
+  },
+  "숫자만 입력 가능합니다." : {
+    "en" : "Enter numbers only.",
+    "ja" : "数字のみ入力できます。",
+    "vi" : "Chỉ có thể nhập số",
+    "zh" : "只能输入数字"
+  },
+  "삭제 확인" : {
+    "en" : "Check Deletion Status",
+    "ja" : "削除確認",
+    "vi" : "Xác nhận xóa",
+    "zh" : "删除确认"
+  },
+  "작업" : {
+    "en" : "Task",
+    "ja" : "作業",
+    "vi" : "tác nghiệp",
+    "zh" : "项目"
+  },
+  "다시 보지 않기" : {
+    "en" : "Do not open ever again",
+    "ja" : "は開かない",
+    "vi" : "Không xem lại",
+    "zh" : "不再打开。"
+  },
+  "일치하는" : {
+    "en" : "Matching",
+    "ja" : "一致する",
+    "vi" : "Phù hợp",
+    "zh" : "匹配"
+  },
+  "사용 안함으로 변경" : {
+    "en" : "Change the selected resource to \"Disabled\"",
+    "ja" : "無効に変更",
+    "vi" : "Thay đổi tài nguyên đã chọn thành \"Chưa kích hoạt\"",
+    "zh" : "变更为不使用"
+  },
+  "진행" : {
+    "en" : "progress",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "검색" : {
+    "en" : "search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "查询"
+  },
+  "파일확장자를 js대신에 txt로 변경해서 추가해주세요." : {
+    "en" : "Please change the file extension from .js to .txt and add it.",
+    "ja" : "ファイル拡張子をjsの代わりにtxtに変更して追加してください。",
+    "vi" : "Vui lòng thay đổi phần mở rộng tệp thành txt để tải lên.",
+    "zh" : "请将文件扩展名由js更改为txt。"
+  },
+  "합계" : {
+    "en" : "Total",
+    "ja" : "合計",
+    "vi" : "Tổng",
+    "zh" : "合计"
+  },
+  "모듈별 제한 목록 설정으로 대량의 목록을 년 단위 파티션 처리하여 빠른 성능을 보장합니다." : {
+    "en" : "By using this setting (Restrictions By Module), you can improve the overall performance by setting a partition within the large list based on the year that the item/document has been created.",
+    "ja" : "モジュール別に制限リストを設定することによって、大量のリストを1年単位でパーティション処理し、迅速な性能を発揮します。",
+    "vi" : "Xử lý partition theo đơn vị năm đối với danh mục số lượng lớn bằng cài đặt danh mục hạn chế theo module để đảm bảo tính năng nhanh.",
+    "zh" : "设置各模型限制目录并将大量目录以年为单位进行分区处理，保证运转速度。"
+  },
+  "사용중인 라이선스" : {
+    "en" : "Licenses (in use)",
+    "ja" : "使用中ライセンス",
+    "vi" : "Giấy phép đang dùng",
+    "zh" : "使用中的许可证"
+  },
+  "팝업창 스킨" : {
+    "en" : "Popup Theme",
+    "ja" : "ポップアップウィンドウのスキン",
+    "vi" : "Giao diện trang cửa sổ bật lên",
+    "zh" : "弹出窗口颜色"
+  },
+  "제목+내용" : {
+    "en" : "title&content",
+    "ja" : "タイトル+内容",
+    "vi" : "Tiêu đề + Nội dung",
+    "zh" : "题目+内容"
+  },
+  "3일간 열지않기" : {
+    "en" : "Don't open for 3 days",
+    "ja" : "3日間開かない",
+    "vi" : "Không mở trong vòng 3 ngày",
+    "zh" : "3天不打开"
+  },
+  "업로드할 파일은 보안상 js확장자를 사용할 수 없습니다." : {
+    "en" : "You cannot use the .js extension for the uploaded file due to security reasons.",
+    "ja" : "アップロードするファイルはセキュリティ上のjs拡張子を使用できません。",
+    "vi" : "Không thể sử dụng phần mở rộng js cho tệp tải lên vì lý do bảo mật.",
+    "zh" : "出于安全目的，上传的文件无法使用js扩展名。"
+  },
+  "사내쪽지" : {
+    "en" : "In-house messaging",
+    "ja" : "社内メッセージ",
+    "vi" : "Tin nhắn nội bộ",
+    "zh" : "公司内纸条"
+  },
+  "파일관리" : {
+    "en" : "Manage files",
+    "ja" : "ファイル管理",
+    "vi" : "Quản lý tệp",
+    "zh" : "管理文档"
+  },
+  "제목을 입력해주세요." : {
+    "en" : "Enter a title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề",
+    "zh" : "请输入题目"
+  },
+  "시작일을 입력해주세요." : {
+    "en" : "Please select a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu",
+    "zh" : "请输入开始日。"
+  },
+  "안내" : {
+    "en" : "Information",
+    "ja" : "案内",
+    "vi" : "Hướng dẫn",
+    "zh" : "向导"
+  },
+  "오류가 발생하였습니다." : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi.",
+    "zh" : "发生了错误。"
+  },
+  "관리자 설정 : 다국어 관리" : {
+    "en" : "Administrator settings: Multilingual management",
+    "ja" : "管理者設定: 多言語管理",
+    "vi" : "Cài đặt quản trị viên: Quản lý đa ngôn ngữ",
+    "zh" : "管理员设置：多语言管理"
+  },
+  "리소스 샘플파일" : {
+    "en" : "Resource sample file",
+    "ja" : "リソースサンプルファイル",
+    "vi" : "Tệp mẫu tài nguyên",
+    "zh" : "资源示例文件"
+  },
+  "전체기록물, 공유기록물 전체, 업무 기록물 전체는 전체 목록 개수 기준으로 처리" : {
+    "en" : "Process all records, all shared records, and all business records based on the total number of items in the list.",
+    "ja" : "記録物や共有記録物および業務記録物の全ては、全リスト数を基準として処理",
+    "vi" : "Toàn bộ hồ sơ, toàn bộ hồ sơ chia sẻ, toàn bộ hồ sơ nghiệp vụ được xử lý dựa trên tổng số danh sách",
+    "zh" : "所有记录、所有共享记录以及所有业务记录将以整体目录数为标准进行处理"
+  },
+  "진행중" : {
+    "en" : "In Progress",
+    "ja" : "進行中",
+    "vi" : "Đang tiến hành",
+    "zh" : "进行中"
+  },
+  "라이선스 일괄 수정" : {
+    "en" : "Batch Edit License",
+    "ja" : "ライセンス一括修正",
+    "vi" : "Sửa đồng loạt giấy phép",
+    "zh" : "统合修改许可证"
+  },
+  "현재 IP에서는 해당페이지로 접근할 수 없습니다." : {
+    "en" : "You cannot access the page from the current IP.",
+    "ja" : "現在のIPではこのページにアクセスできません。",
+    "vi" : "Không thể tiếp cận trang này với IP hiện tại.",
+    "zh" : "当前IP无法访问该页面。"
+  },
+  "일정관리 전체 용량이 부족합니다." : {
+    "en" : "Need more space for schedule management.",
+    "ja" : "スケジュール全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ quản lý lịch trình bị thiếu",
+    "zh" : "日程管理全体用量不足。"
+  },
+  "데이터용량" : {
+    "en" : "Data size",
+    "ja" : "データ容量",
+    "vi" : "Dung lượng dữ liệu",
+    "zh" : "数据用量"
+  },
+  "요청하신 사항을 완료할 수 없습니다." : {
+    "en" : "Your request cannot be completed.",
+    "ja" : "要請した事項を完了することが出来ません。",
+    "vi" : "Không thể hoàn thành hạng mục bạn đã yêu cầu.",
+    "zh" : "不可完了您邀请的事项。"
+  },
+  "글 등록" : {
+    "en" : "Upload Post",
+    "ja" : "記事登録",
+    "vi" : "Đăng bài",
+    "zh" : "登录文章"
+  },
+  "권한에 따라 사용이 제한될 수 있습니다." : {
+    "en" : "Use may be restricted depending on permissions.",
+    "ja" : "権限に応じて使用が制限されることがあります。",
+    "vi" : "Tùy theo quyền hạn mà tính năng sử dụng có thể bị hạn chế",
+    "zh" : "按照权限使用会有限制。"
+  },
+  "알림(테마)" : {
+    "en" : "Notice(theme)",
+    "ja" : "通知（テーマ）",
+    "vi" : "Thông báo (chủ đề)",
+    "zh" : "提醒(主题)"
+  },
+  "남은용량" : {
+    "en" : "Remaining space",
+    "ja" : "残り容量",
+    "vi" : "Dung lượng còn lại",
+    "zh" : "剩余容量"
+  },
+  "커뮤니티" : {
+    "en" : "Communities",
+    "ja" : "コミュニティ",
+    "vi" : "Cộng đồng",
+    "zh" : "管理文件"
+  },
+  "그룹웨어 관리" : {
+    "en" : "Manage Groupware",
+    "ja" : "グループウェア管理",
+    "vi" : "Quản lý Groupware",
+    "zh" : "管理群件"
+  },
+  "전체 용량" : {
+    "en" : "Total storage",
+    "ja" : "全体容量",
+    "vi" : "Toàn bộ dung lượng",
+    "zh" : "全体用量"
+  },
+  "파일함 전체 용량이 부족합니다." : {
+    "en" : "Need more space for filebox.",
+    "ja" : "ファイル全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ hộp file bị thiếu.",
+    "zh" : "文档箱全体用量不足。"
+  },
+  "동호회 전체 용량이 부족합니다." : {
+    "en" : "Need more space for My Club.",
+    "ja" : "同好会全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ hội người cùng sở thích bị thiếu.",
+    "zh" : "同好会全体用量不足。"
+  },
+  "라이선스" : {
+    "en" : "Licenses",
+    "ja" : "ライセンス",
+    "vi" : "Giấy phép",
+    "zh" : "许可证"
+  },
+  "공지 관리" : {
+    "en" : "Manage Notice",
+    "ja" : "お知らせ管理",
+    "vi" : "Quản lý thông báo",
+    "zh" : "公告管理"
+  },
+  "매칭필터" : {
+    "en" : "Matching filter",
+    "ja" : "マッチングフィルタ",
+    "vi" : "Bộ lọc kết nối",
+    "zh" : "配合过滤"
+  },
+  "문서관리" : {
+    "en" : "Manage documents",
+    "ja" : "文書管理",
+    "vi" : "Quản lý hồ sơ",
+    "zh" : "管理文件"
+  },
+  "작업관리 전체 용량이 부족합니다." : {
+    "en" : "Need more space for task management.",
+    "ja" : "作業管理全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ hộp tư liệu bị thiếu.",
+    "zh" : "工作管理全体用量不足。"
+  },
+  "결재문서관리는 전체 목록 기준으로 처리" : {
+    "en" : "Process the approval document management based on the entire list",
+    "ja" : "決裁文書の管理は「すべてのリスト」を基に処理する",
+    "vi" : "Quản lý tài liệu phê duyệt được xử lý theo tiêu chuẩn toàn bộ danh mục.",
+    "zh" : "审批文件管理将以整体目录为标准进行处理"
+  },
+  "메일 전체 용량보다 메일 사용자들에게 할당된 용량의 합이 더 큽니다. \\n 메일 전체 용량 : {0} GB \\n 메일 사용자 용량 총합 : {1} GB" : {
+    "en" : "The total allocated capacity to mail users exceeds the total mailbox capacity. \\nMailbox Capacity: {0} GB \\n Total User Capacity: {1} GB",
+    "ja" : "メール全体の容量より、メールユーザーに割り当てられた容量の合計が大きいです。\\n メール全体の容量: {0} GB \\n メールユーザーの容量合計: {1} GB",
+    "vi" : "Tổng dung lượng đã phân bổ cho người dùng thư điện tử vượt quá tổng dung lượng hộp thư. \\nDung lượng hộp thư: {0} GB \\nTổng dung lượng người dùng: {1} GB",
+    "zh" : "电子邮件用户的总使用空间超过了电子邮件的总容量。\\n电子邮件总容量：{0} GB\\n用户总使用容量：{1} GB"
+  },
+  "모바일 그룹웨어" : {
+    "en" : "Mobile Groupware",
+    "ja" : "モバイルグループウェア",
+    "vi" : "Groupware trên di động",
+    "zh" : "移动群件"
+  },
+  "모바일 버전" : {
+    "en" : "Mobile version",
+    "ja" : "モバイル版",
+    "vi" : "Phiên bản di động",
+    "zh" : "移动版本"
+  },
+  "번호" : {
+    "en" : "number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "모듈 전체" : {
+    "en" : "All modules",
+    "ja" : "モジュール全体",
+    "vi" : "Tất cả các mô-đun",
+    "zh" : "全部模块"
+  },
+  "yaml 파일" : {
+    "en" : "YAML file",
+    "ja" : "yamlファイル",
+    "vi" : "Tệp yaml",
+    "zh" : "yaml文件"
+  },
+  "라이선스 변경 이력이 없습니다." : {
+    "en" : "No license modification history.",
+    "ja" : "ライセンス変更履歴がありません。",
+    "vi" : "Không có lịch sử thay đổi giấy phép",
+    "zh" : "没有许可证变更履历。"
+  },
+  "단말기 관리" : {
+    "en" : "Manage Device",
+    "ja" : "端末管理",
+    "vi" : "Quản lý thiết bị đầu cuối",
+    "zh" : "终端机管理"
+  },
+  "닫기" : {
+    "en" : "close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "설정/관리" : {
+    "en" : "Setting/Management",
+    "ja" : "設定/管理",
+    "vi" : "Cài đặt/ Quản lý",
+    "zh" : "设定/管理"
+  },
+  "팝업 공지" : {
+    "en" : "Popup Notice",
+    "ja" : "ポップアップお知らせ",
+    "vi" : "Thông báo cửa sổ bật lên",
+    "zh" : "弹出窗口公告"
+  },
+  "취소" : {
+    "en" : "cancel",
+    "ja" : "取り消し",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "메모" : {
+    "en" : "Memo",
+    "ja" : "メモ",
+    "vi" : "Ghi chú",
+    "zh" : "纪录"
+  },
+  "목록" : {
+    "en" : "list",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "리소스 다운로드" : {
+    "en" : "Download resources",
+    "ja" : "リソースのダウンロード",
+    "vi" : "Tải xuống tài nguyên",
+    "zh" : "资源下载"
+  },
+  "전자결재 전체 용량이 부족합니다." : {
+    "en" : "Need more space for E-approval.",
+    "ja" : "電子決裁全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ phê duyệt điện tử bị thiếu.",
+    "zh" : "电子批准全体用量不足。"
+  },
+  "사용중인 모듈" : {
+    "en" : "Used modules",
+    "ja" : "使用中のモジュール",
+    "vi" : "Các mô-đun đã sử dụng",
+    "zh" : "正在使用的模块"
+  },
+  "선택한 리소스를" : {
+    "en" : "Selected resource",
+    "ja" : "選択したリソース",
+    "vi" : "Thay đổi tài nguyên đã chọn",
+    "zh" : "将选择的资源"
+  },
+  "적용" : {
+    "en" : "Apply",
+    "ja" : "適用",
+    "vi" : "Áp dụng",
+    "zh" : "适用"
+  },
+  "입력가능한 최대 용량을 초과하였습니다." : {
+    "en" : "You have exceeded the maximum input quota.",
+    "ja" : "入力可能な最大容量を超過しています。",
+    "vi" : "Đã vượt quá dung lượng tối đa có thể nhập.",
+    "zh" : "已超过可输入的最大容量。"
+  },
+  "영구 열지않기" : {
+    "en" : "Do not open (forever)",
+    "ja" : "永久に開かない",
+    "vi" : "Vĩnh viễn không mở",
+    "zh" : "永久不打开"
+  },
+  "로그인 공지" : {
+    "en" : "Login Notice",
+    "ja" : "ログインお知らせ",
+    "vi" : "Thông báo đăng nhập",
+    "zh" : "登录公告"
+  },
+  "리소스종류" : {
+    "en" : "Resource type",
+    "ja" : "リソースの種類",
+    "vi" : "Loại tài nguyên",
+    "zh" : "资源类型"
+  },
+  "중지" : {
+    "en" : "Stop",
+    "ja" : "中止",
+    "vi" : "Dừng",
+    "zh" : "停止"
+  },
+  "리소스 이름을 입력하세요." : {
+    "en" : "Enter the resource name.",
+    "ja" : "リソース名を入力してください。",
+    "vi" : "Nhập tên tài nguyên.",
+    "zh" : "请输入资源名称。"
+  },
+  "쪽지 전체 용량이 부족합니다." : {
+    "en" : "Need more space for messages.",
+    "ja" : "メッセージ全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ tin nhắn bị thiếu.",
+    "zh" : "纸条全体用量不足。"
+  },
+  "첨부파일 용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付ファイル容量",
+    "vi" : "Dung lượng tệp đính kèm",
+    "zh" : "附件用量"
+  },
+  "라이선스 수정" : {
+    "en" : "Modify License",
+    "ja" : "ライセンス修正",
+    "vi" : "chỉnh sửa giấy phép",
+    "zh" : "修改许可证"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Chỉnh sửa",
+    "zh" : "修改"
+  },
+  "모듈 정보" : {
+    "en" : "Module information",
+    "ja" : "モジュール情報",
+    "vi" : "Thông tin mô-đun",
+    "zh" : "模块信息"
+  },
+  "PC저장" : {
+    "en" : "Save (PC)",
+    "ja" : "PC保存",
+    "vi" : "Lưu PC",
+    "zh" : "电脑上保存"
+  },
+  "메뉴별 용량 기본정보를 설정합니다." : {
+    "en" : "You can set up the default space information by menu.",
+    "ja" : "メニュー別容量の基本情報を設定します。",
+    "vi" : "Cài đặt thông tin cơ bản dung lượng theo từng menu",
+    "zh" : "设定各个项目的用量基本信息。"
+  },
+  "포함" : {
+    "en" : "Include",
+    "ja" : "含む",
+    "vi" : "Bao gồm",
+    "zh" : "包含"
+  },
+  "결재" : {
+    "en" : "Approval",
+    "ja" : "決裁",
+    "vi" : "Lượt phê duyệt",
+    "zh" : "决裁"
+  },
+  "등록 단말기" : {
+    "en" : "Registered Device",
+    "ja" : "登録端末",
+    "vi" : "Thiết bị đầu cuối đăng ký",
+    "zh" : "注册终端机"
+  },
+  "덮어쓰기 옵션" : {
+    "en" : "Overwrite option",
+    "ja" : "上書きオプション",
+    "vi" : "Tùy chọn ghi đè",
+    "zh" : "覆盖选项"
+  },
+  "첨부파일명" : {
+    "en" : "Attachment Name (File Name)",
+    "ja" : "添付ファイル名",
+    "vi" : "Tên tệp đính kèm",
+    "zh" : "附件名"
+  },
+  "사용 안 하는 모듈" : {
+    "en" : "Unused modules",
+    "ja" : "無効なモジュール",
+    "vi" : "Các mô-đun chưa sử dụng",
+    "zh" : "未使用的模块"
+  },
+  "종료" : {
+    "en" : "End",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  },
+  "단말기 추가" : {
+    "en" : "Add Device",
+    "ja" : "端末追加",
+    "vi" : "Thêm thiết bị đầu cuối",
+    "zh" : "追加终端机"
+  },
+  "실제 사용 용량을 표시합니다. (남은 용량 = 전체 용량 – 실 사용량)" : {
+    "en" : "It shows the actual space available. (Remaining Space = Total Capacity - Used Capacity)",
+    "ja" : "実際の使用容量を表示します。（残りの容量 = 全体使用量 - 実使用量)",
+    "vi" : "Biểu thị dung lượng sử dụng thực tế. (dung lượng còn lại = Toàn bộ dung lượng - Đã dùng)",
+    "zh" : "表示实际使用用量。（剩下用量 = 全体用量 - 实际使用量)"
+  },
+  "전체 구매 정보" : {
+    "en" : "Purchase Information (All)",
+    "ja" : "全体購買情報",
+    "vi" : "Toàn bộ thông tin mua",
+    "zh" : "全体购买信息"
+  },
+  "리소스 관리" : {
+    "en" : "Resource management",
+    "ja" : "リソース管理",
+    "vi" : "Quản lý tài nguyên",
+    "zh" : "资源管理"
+  },
+  "등록된 공지사항이 없습니다." : {
+    "en" : "There are no notices.",
+    "ja" : "登録されたお知らせはありません。",
+    "vi" : "Không có hạng mục thông báo được đăng ký.",
+    "zh" : "没有登录的公告事项。"
+  },
+  "전계열사 공지" : {
+    "en" : "Notice to all affiliates.",
+    "ja" : "全系列会社へのお知らせ",
+    "vi" : "Thông báo tới toàn bộ chi nhánh",
+    "zh" : "全连锁公司公告"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator Setting",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "실사용량" : {
+    "en" : "Used space",
+    "ja" : "実使用量",
+    "vi" : "Dung lượng sử dụng thực tế",
+    "zh" : "实际使用量"
+  },
+  "포털 관리" : {
+    "en" : "Portal management",
+    "ja" : "ポータル管理",
+    "vi" : "Quản lý cổng thông tin",
+    "zh" : "门户管理"
+  },
+  "팝업구분" : {
+    "en" : "Pop-up types",
+    "ja" : "ポップアップ区分",
+    "vi" : "Loại cửa sổ bật lên",
+    "zh" : "弹出窗口区分"
+  },
+  "단말기를 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the registered device?",
+    "ja" : "端末を削除しますか？",
+    "vi" : "Bạn có muốn xóa thiết bị đầu cuối không?",
+    "zh" : "要删除终端机吗？"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "사용 여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Có/không sử dụng",
+    "zh" : "样式类型"
+  },
+  "종료일은 시작일보다 클 수 없습니다." : {
+    "en" : "The end date must not be greater than the start date.",
+    "ja" : "終了日は、開始日より前の日付にはできません。",
+    "vi" : "Ngày kết thúc không thể lớn hơn ngày bắt đầu.",
+    "zh" : "结束日不可大于开始日。"
+  },
+  "등록된 대상자만 모듈 및 리소스를 등록,수정,삭제할 수 있습니다." : {
+    "en" : "Only registered recipients can register, modify, and delete modules and resources.",
+    "ja" : "登録された対象者のみがモジュールとリソースを登録、修正、削除できます。",
+    "vi" : "Chỉ người nhận đã đăng ký mới có thể đăng ký, sửa đổi và xóa các mô-đun và tài nguyên.",
+    "zh" : "只有注册的目标用户才能注册、修改和删除模块和资源。"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "等待"
+  },
+  "할당된 {0} 라이선스 수가 0건 입니다." : {
+    "en" : "There are 0 cases of {0} licenses allocated.",
+    "ja" : "割り当てられた{0}のライセンス数が0件です。",
+    "vi" : "Số lượng {0} giấy phép được cấp là 0.",
+    "zh" : "分配的 {0} 许可数有0件。"
+  },
+  "게시판 전체 용량이 부족합니다." : {
+    "en" : "Need more space for bulletin boards.",
+    "ja" : "掲示板全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ phê duyệt điện tử bị thiếu",
+    "zh" : "布告栏全体用量不足。"
+  },
+  "게시판 팝업 공지" : {
+    "en" : "Board pop-up notice",
+    "ja" : "掲示板ポップアップ通知",
+    "vi" : "Thông báo cửa sổ bật lên của Bảng tin",
+    "zh" : "布告栏弹出公告"
+  },
+  "인증번호" : {
+    "en" : "Authentication Code",
+    "ja" : "認証番号",
+    "vi" : "Mã xác thực",
+    "zh" : "认证号码"
+  },
+  "{0}의 전체 용량이 부족합니다." : {
+    "en" : "Need more space for {0}.",
+    "ja" : "{0}の全体容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ của {0} bị thiếu.",
+    "zh" : "{0}的全体用量不够。"
+  },
+  "미리보기" : {
+    "en" : "preview",
+    "ja" : "プレビュー",
+    "vi" : "Xem trước",
+    "zh" : "预览"
+  },
+  "사용중인 {0} 라이선스 보다 적습니다." : {
+    "en" : "It is smaller than {0} licenses that are in use.",
+    "ja" : "使用している {0} ライセンスより少ないです。",
+    "vi" : "Nhỏ hơn so với giấy phép {0} đang dùng.",
+    "zh" : "少于使用中的 {0}许可证。"
+  },
+  "선거/투표" : {
+    "en" : "Election/vote",
+    "ja" : "選挙/投票",
+    "vi" : "Bầu cử/ Bỏ phiếu",
+    "zh" : "选举/投票"
+  },
+  "일정관리" : {
+    "en" : "Manage schedules",
+    "ja" : "スケジュール管理",
+    "vi" : "Quản lý lịch biểu",
+    "zh" : "日程管理"
+  },
+  "모듈" : {
+    "en" : "Module",
+    "ja" : "モジュール",
+    "vi" : "Mô-đun",
+    "zh" : "模块"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登记"
+  },
+  "사용함으로 변경" : {
+    "en" : "Change the selected resource to \"Enabled\"",
+    "ja" : "有効に変更",
+    "vi" : "thành \"Đã kích hoạt\"",
+    "zh" : "变更为使用"
+  },
+  "파일첨부" : {
+    "en" : "Attached file",
+    "ja" : "添付",
+    "vi" : "Đính kèm tệp",
+    "zh" : "附加文档"
+  },
+  "공지사항" : {
+    "en" : "Notice",
+    "ja" : "お知らせ事項",
+    "vi" : "Hạng mục thông báo",
+    "zh" : "通知事项"
+  },
+  "앱으로 로그인시 등록됩니다." : {
+    "en" : "It will be registered when you login through the app.",
+    "ja" : "アプリでログイン時に登録されます。",
+    "vi" : "Được đăng ký khi đăng nhập bằng app",
+    "zh" : "通过应用程序登录时可以注册。"
+  },
+  "모듈선택" : {
+    "en" : "Select module",
+    "ja" : "モジュール選択",
+    "vi" : "Chọn mô-đun",
+    "zh" : "选择模块"
+  },
+  "공지 목록에서 상태가 진행중인 공지의 제목을 티커 형식으로 노출합니다." : {
+    "en" : "The title of the notice in progress will be exposed on the list in a ticker notice format",
+    "ja" : "お知らせリストから進行中のお知らせのタイトルをティッカー形式に露出します。",
+    "vi" : "Trong danh sách thông báo, tiêu đề của thông báo có trạng thái đang tiến hành được hiển thị ở định dạng biểu ngữ.",
+    "zh" : "公告目录中在进行中的通知标题将以挂牌的形式出现。"
+  },
+  "저장되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu",
+    "zh" : "保存完了."
+  },
+  "관리 이력" : {
+    "en" : "Management history",
+    "ja" : "管理履歴",
+    "vi" : "Lịch sử quản lý",
+    "zh" : "管理履历"
+  },
+  "종료일을 입력해주세요." : {
+    "en" : "Please select an end date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc",
+    "zh" : "请输入结束日。"
+  },
+  "결재함" : {
+    "en" : "Approval Box",
+    "ja" : "決裁箱",
+    "vi" : "hộp phê duyệt",
+    "zh" : "决裁箱"
+  },
+  "공지 높이 최소 사이즈는 300px 입니다. 300px 보다 크게 입력해 주세요." : {
+    "en" : "The minimum height of a notice is 300px. Please enter a value greater than 300px.",
+    "ja" : "お知らせの高さ最小サイズは300pxです。300pxより大きく入力してください。",
+    "vi" : "Chiều cao tối thiểu thông báo là 300px. Hãy nhập lớn hơn 300px.",
+    "zh" : "通知高度最小大小为300px 。请输入300px 以上。"
+  },
+  "전체용량을 입력해주세요." : {
+    "en" : "Please enter the total storage.",
+    "ja" : "合計容量を入力してください。",
+    "vi" : "Hãy nhập toàn bộ dung lượng.",
+    "zh" : "请输入全体用量。"
+  },
+  "단말기 등록" : {
+    "en" : "Register Device",
+    "ja" : "端末登録",
+    "vi" : "Đăng ký thiết bị đầu cuối",
+    "zh" : "登录终端机"
+  },
+  "인쇄" : {
+    "en" : "print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "모바일앱" : {
+    "en" : "Mobile App",
+    "ja" : "モバイルアプリ",
+    "vi" : "Ứng dụng di động",
+    "zh" : "移动通信应用"
+  },
+  "{0}의 {1} 라이선스를 {2}에서 {3}으로 변경하였습니다." : {
+    "en" : "{1} license of {0} have been changed from {2} to {3}.",
+    "ja" : "{0}の{1} ライセンスを {2}から {3}に変更しました。",
+    "vi" : "Đã thay đổi giấy phép {1} cuả {0}  sang {3} trong {2}.",
+    "zh" : "{0}的{1}许可证从{2}变更到 {3}了。"
+  },
+  "본문" : {
+    "en" : "Body",
+    "ja" : "本文",
+    "vi" : "Nội dung chính",
+    "zh" : "编辑器/本文 领域"
+  },
+  "등록된 데이터가 없습니다." : {
+    "en" : "No registered data.",
+    "ja" : "登録されたデータがありません。",
+    "vi" : "Không có dữ liệu được đăng ký",
+    "zh" : "没有登录的数据。"
+  },
+  "파일선택" : {
+    "en" : "Select file",
+    "ja" : "ファイル選択",
+    "vi" : "chọn tệp",
+    "zh" : "选择文件"
+  },
+  "사용자" : {
+    "en" : "user",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "등록 확인" : {
+    "en" : "Check Registration Status",
+    "ja" : "登録確認",
+    "vi" : "Kiểm tra đăng ký",
+    "zh" : "确认登录"
+  },
+  "권한이 없습니다." : {
+    "en" : "You don't have permission.",
+    "ja" : "権限がありません。",
+    "vi" : "Không có quyền hạn",
+    "zh" : "没有权限。"
+  },
+  "삭제할 공지를 선택하세요." : {
+    "en" : "Please select the notice you want to delete.",
+    "ja" : "削除するお知らせを選択してください。",
+    "vi" : "Hãy chọn thông báo cần xóa.",
+    "zh" : "请选择要删除的公告。"
+  },
+  "사용" : {
+    "en" : "use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "년 단위 목록설정" : {
+    "en" : "Yearly List Settings",
+    "ja" : "1年単位でリストを設定する",
+    "vi" : "Cài đặt danh mục đơn vị năm",
+    "zh" : "年单位目录设置"
+  },
+  "사용함" : {
+    "en" : "use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "기록물철관리" : {
+    "en" : "Manage Record Binders",
+    "ja" : "記録バインダー管理",
+    "vi" : "Quản lý kho lưu trữ",
+    "zh" : "档案册管理"
+  },
+  "도움말" : {
+    "en" : "Help",
+    "ja" : "ヘルプ",
+    "vi" : "Trợ giúp",
+    "zh" : "帮助"
+  },
+  "첨부제한" : {
+    "en" : "Restrict Attachment extension",
+    "ja" : "添付ファイルの拡張子制限",
+    "vi" : "Hạn chế đính kèm",
+    "zh" : "限制附件扩展名"
+  },
+  "대상 메뉴" : {
+    "en" : "Target Menu",
+    "ja" : "対象メニュー",
+    "vi" : "menu đối tượng",
+    "zh" : "对象菜单"
+  },
+  "업무보고 전체 용량이 부족합니다." : {
+    "en" : "Need more space for task reports.",
+    "ja" : "業務報告全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ báo cáo công việc bị thiếu.",
+    "zh" : "业务报告全体用量不足。"
+  },
+  "용량 제한" : {
+    "en" : "Size limit",
+    "ja" : "容量制限",
+    "vi" : "Giới hạn kích thước",
+    "zh" : "用量限制"
+  },
+  "{0}의 {1}를 변경하였습니다." : {
+    "en" : "{1} of {0} has been changed.",
+    "ja" : "{0}の{1}を変更しました。",
+    "vi" : "Đã thay đổi {1} của {0}.",
+    "zh" : "{0}的 {1}变更了。"
+  },
+  "라이선스 사용자 관리" : {
+    "en" : "Manage license users",
+    "ja" : "ライセンスユーザー管理",
+    "vi" : "Quản lý người dùng giấy phép",
+    "zh" : "管理许可证使用者"
+  },
+  "용량 관리" : {
+    "en" : "Manage storage",
+    "ja" : "容量管理",
+    "vi" : "Quản lý dung lượng",
+    "zh" : "管理用量"
+  },
+  "리소스" : {
+    "en" : "Resource",
+    "ja" : "リソース",
+    "vi" : "Tài nguyên",
+    "zh" : "资源"
+  },
+  "properties 파일" : {
+    "en" : "Properties file",
+    "ja" : "propertiesファイル",
+    "vi" : "Tệp properties",
+    "zh" : "properties文件"
+  },
+  "첨부파일 개수" : {
+    "en" : "Number of attachments",
+    "ja" : "添付ファイル数",
+    "vi" : "Số tệp đính kèm",
+    "zh" : "附件数量"
+  },
+  "문서함 전체 용량이 부족합니다." : {
+    "en" : "Need more space for document boxes.",
+    "ja" : "文書全体の容量が不足しています。",
+    "vi" : "Dung lượng toàn bộ bảng tin bị thiếu.",
+    "zh" : "文件箱全体用量不足。"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "적용 대상자" : {
+    "en" : "Target User",
+    "ja" : "適用対象者",
+    "vi" : "Đối tượng áp dụng",
+    "zh" : "适用对象人"
+  },
+  "팝업창 크기" : {
+    "en" : "Popup size",
+    "ja" : "ポップアップウィンドウのサイズ",
+    "vi" : "Kích cỡ trang cửa sổ bật lên",
+    "zh" : "弹出窗口大小"
+  },
+  "엑셀 파일" : {
+    "en" : "Excel file",
+    "ja" : "Excelファイル",
+    "vi" : "Tệp Excel",
+    "zh" : "Excel文件"
+  },
+  "최근 게시함은 전체 목록 개수 기준 처리" : {
+    "en" : "Process the recent posts based on the total number of items in the list.",
+    "ja" : "最近の投稿は全リスト数を基準として処理",
+    "vi" : "Hòm thông báo gần đây được xử lý dựa trên tổng số danh sách",
+    "zh" : "最近公告箱将以整体目录数为标准进行处理"
+  },
+  "엑셀저장" : {
+    "en" : "Save as excel",
+    "ja" : "Excel保存",
+    "vi" : "Lưu excel",
+    "zh" : "存储在excel"
+  },
+  "할당 용량을 그룹웨어 전체 용량에 적용하시겠습니까?" : {
+    "en" : "Do you want to apply the space quota to the total Groupware space?",
+    "ja" : "割当容量をグループウェアの全体容量に適用しますか？",
+    "vi" : "Bạn có muốn áp dụng dung lượng phân bổ cho dung lượng toàn bộ Groupware không?",
+    "zh" : "要把分配用量运用在群件全体用量吗？"
+  },
+  "내역" : {
+    "en" : "Details",
+    "ja" : "内訳",
+    "vi" : "lịch sử chi tiết",
+    "zh" : "细目"
+  },
+  "모바일 메신저" : {
+    "en" : "Mobile Messenger",
+    "ja" : "モバイルメッセンジャー",
+    "vi" : "Messenger di động",
+    "zh" : "移动通信聊天工具"
+  },
+  "프로젝트" : {
+    "en" : "Project",
+    "ja" : "プロジェクト",
+    "vi" : "Dự án",
+    "zh" : "项目"
+  },
+  "작업관리" : {
+    "en" : "Manage Tasks",
+    "ja" : "作業管理",
+    "vi" : "Quản lý tác nghiệp",
+    "zh" : "管理工作"
+  },
+  "리소스이름" : {
+    "en" : "Resource name",
+    "ja" : "リソース名",
+    "vi" : "Tên tài nguyên",
+    "zh" : "资源名称"
+  },
+  "티커 공지" : {
+    "en" : "Ticker Notice",
+    "ja" : "ティッカーお知らせ",
+    "vi" : "Thông báo biểu ngữ",
+    "zh" : "挂牌通知"
+  },
+  "회사" : {
+    "en" : "company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "공지 너비 최소 사이즈는 400px 입니다. 400px 보다 크게 입력해 주세요. " : {
+    "en" : "The minimum width of a notice is 400px. Please enter a value greater than 400px. ",
+    "ja" : "お知らせの幅最小サイズは400pxです。400pxより大きく入力してください。 ",
+    "vi" : "Chiều rộng tối thiểu thông báo là 400px. Hãy nhập lớn hơn 400px. ",
+    "zh" : "通知宽度最小大小为400px 。请输入400px 以上。 "
+  },
+  "기준개수를 입력하세요." : {
+    "en" : "Enter the base number.",
+    "ja" : "基準数を入力してください。",
+    "vi" : "Hãy nhập số tiêu chuẩn.",
+    "zh" : "请输入基准数量"
+  },
+  "저장" : {
+    "en" : "save",
+    "ja" : "保存",
+    "vi" : "Lưu",
+    "zh" : "存储"
+  },
+  "최근 문서함은 전체 목록 개수 기준 처리" : {
+    "en" : "Process the recent mailbox based on the total number of items in the list.",
+    "ja" : "最近使ったドキュメントボックスは、全リスト数を基準として処理",
+    "vi" : "Hòm tài liệu gần đây được xử lý dựa trên tổng số danh sách",
+    "zh" : "最近文件箱将以整体目录数为标准进行处理"
+  },
+  "첨부제한에는 파일첨부를 제한할 파일의 확장자를 입력합니다. 여러 개일 경우 세미콜론(;)으로 구분하세요." : {
+    "en" : "In 'Restrict Attachments', enter the type of files (extensions) that you wish to not allow to be added as an attachment. If there are multiple types of files that you wish to restrict, separate them with a semicolon (;).",
+    "ja" : "添付制限にはファイル添付を制限するファイルの拡張子を入力します。複数の場合、セミコロン(;)で区分してください。",
+    "vi" : "Trong Hạn chế phần đính kèm, hãy nhập phần mở rộng tệp để hạn chế phần đính kèm tệp. Phân tách nhiều số bằng dấu chấm phẩy (;).",
+    "zh" : "在制限附加上输入制限附加文件的文件扩展名。多数的话请用 semicolon(;)来区分。"
+  },
+  "목록 제한" : {
+    "en" : "List Limit",
+    "ja" : "リストの制限",
+    "vi" : "Giới hạn danh mục",
+    "zh" : "限制目录"
+  },
+  "사용여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Có/không sử dụng",
+    "zh" : "是否使用"
+  },
+  "이미 리소스가 있는 경우 건너뛰기" : {
+    "en" : "Skip if the resource already exists.",
+    "ja" : "既にリソースがある場合はスキップ",
+    "vi" : "Bỏ qua nếu tài nguyên đã tồn tại",
+    "zh" : "如果资源已存在，则跳过"
+  },
+  "최대 높이" : {
+    "en" : "max height",
+    "ja" : "最大の高さ",
+    "vi" : "Chiều cao tối đa",
+    "zh" : "最大高度"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "나의 업무함, 모든업무함, 업무현황은 전체 목록 개수 기준으로 처리" : {
+    "en" : "Process my task box, all task boxes, and task status based on the total number of items in the list.",
+    "ja" : "マイ業務や全業務、業務の状況は全リスト数を基準として処理",
+    "vi" : "Hòm công việc của tôi, hòm toàn bộ công việc, hiện trạng công việc được xử lý dựa trên tổng số danh sách",
+    "zh" : "我的业务箱，所有业务箱以及业务现况将以整体目录数为标准进行处理"
+  },
+  "스마트워크" : {
+    "en" : "Smart Work",
+    "ja" : "スマートウォーク",
+    "vi" : "Smart Work - Làm việc thông minh",
+    "zh" : "智能工作"
+  },
+  "등록일" : {
+    "en" : "Date Added",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "설정/통계" : {
+    "en" : "Settings/Statistics",
+    "ja" : "設定/統計",
+    "vi" : "Cài đặt/Thống kê",
+    "zh" : "设置/统计"
+  },
+  "PC 버전" : {
+    "en" : "PC version",
+    "ja" : "PC版",
+    "vi" : "Phiên bản PC",
+    "zh" : "PC版本"
+  },
+  "그룹웨어 전체 용량이 부족합니다. 그룹웨어 전체 용량을 늘려주세요." : {
+    "en" : "Groupware storage is almost full. Please increase the total storage space of Groupware.",
+    "ja" : "グループウェア全体の容量が不足しています。グループウェア全体の容量を増やしてください。",
+    "vi" : "Dung lượng toàn bộ Groupware bị thiếu. Hãy tăng toàn bộ dung lượng Groupware.",
+    "zh" : "群件全体用量不足。请扩充群件全体用量。"
+  },
+  "시스템 알림" : {
+    "en" : "System Notification",
+    "ja" : "システム通知",
+    "vi" : "Thông báo hệ thống",
+    "zh" : "系统提示"
+  },
+  "오늘 다시 열지 않기" : {
+    "en" : "Do not open this window today.",
+    "ja" : "今日は開かない",
+    "vi" : "Không mở lại hôm nay",
+    "zh" : "今日不再打开。"
+  },
+  "공지기간" : {
+    "en" : "Notice period",
+    "ja" : "お知らせ期間",
+    "vi" : "Thời gian thông báo",
+    "zh" : "公告期间"
+  },
+  "홈으로" : {
+    "en" : "Home",
+    "ja" : "ホームへ",
+    "vi" : "Trang chủ",
+    "zh" : "返回首页"
+  },
+  "회사명" : {
+    "en" : "Company name",
+    "ja" : "会社名",
+    "vi" : "Tên công ty",
+    "zh" : "公司名"
+  },
+  "확인" : {
+    "en" : "confirm",
+    "ja" : "確認",
+    "vi" : "Kiểm tra",
+    "zh" : "确认"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Lựa chọn",
+    "zh" : "选项"
+  },
+  "쪽지 전체 용량보다 쪽지 사용자들에게 할당된 용량의 합이 더 큽니다. \\n 쪽지 전체 용량 : {0} GB \\n 쪽지 사용자 용량 총합 : {1} GB" : {
+    "en" : "The allocated space for message users is greater than the total messagebox capacity. \\n Total messagebox capacity : {0} GB \\n Total allocated space for message users : {1} GB",
+    "ja" : "メッセージ全体の容量よりメッセージユーザーに割り当てられた容量の合計が大きいです。\\nメッセージ全体の容量：{0} GB\\nメッセージユーザー容量の合計：{1} GB",
+    "vi" : "Tổng dung lượng được cấp cho người dùng lời nhắn lớn hơn tổng dung lượng của tin nhắn. \\ n Tổng dung lượng lời nhắn : {0} GB \\ n Tổng dung lượng lời nhắn trực tiếp của người dùng: {1} GB",
+    "zh" : "纸条全体用量比给纸条使用者分配的总计用量大。\\n 纸条全体用量 : {0} GB \\n 纸条使用者用量总计 : {1} GB"
+  },
+  "이미 리소스가 있는 경우 덮어쓰기" : {
+    "en" : "Overwrite if the resource already exists.",
+    "ja" : "既にリソースがある場合は上書き",
+    "vi" : "Ghi đè nếu tài nguyên đã tồn tại",
+    "zh" : "如果资源已存在，则覆盖"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "掲示板",
+    "vi" : "Bảng tin",
+    "zh" : "布告栏"
+  },
+  "전자결재" : {
+    "en" : "E-Approval",
+    "ja" : "電子決裁",
+    "vi" : "Phê duyệt điện tử",
+    "zh" : "电子审批"
+  },
+  "전자우편" : {
+    "en" : "E-Mail",
+    "ja" : "電子メール",
+    "vi" : "Thư tín điện tử",
+    "zh" : "电子邮件"
+  },
+  "TOP 메뉴 관리" : {
+    "en" : "TOP menu management",
+    "ja" : "TOPメニュー管理",
+    "vi" : "Quản lý menu TOP",
+    "zh" : "TOP菜单管理"
+  },
+  "시스템" : {
+    "en" : "system",
+    "ja" : "システム",
+    "vi" : "Hệ thống",
+    "zh" : "系统"
+  },
+  "그룹웨어 전체 용량을 갱신 하였습니다." : {
+    "en" : "Total storage space of Groupware has been updated.",
+    "ja" : "グループウェアの全体容量を更新しました。",
+    "vi" : "Đã làm mới toàn bộ dung lương Groupware.",
+    "zh" : "更新了群件全体用量。"
+  },
+  "목록필터" : {
+    "en" : "List filter",
+    "ja" : "リストフィルタ",
+    "vi" : "Lọc danh sách",
+    "zh" : "目录过滤"
+  },
+  "제한 목록에 0으로 세팅하면 제한을 하지 않습니다." : {
+    "en" : "There will be no limit if you set the value to 0.",
+    "ja" : "制限リストを0にセットすると制限されません。",
+    "vi" : "Nếu thiết lập danh mục giới hạn là 0 thì sẽ không bị hạn chế.",
+    "zh" : "若将限制目录设置为0，将无法限制。"
+  },
+  "오류가 발생 하였습니다" : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi",
+    "zh" : "发生了错误。"
+  },
+  "최근 문서함, 통합검색은 전체 목록 개수 기준 처리" : {
+    "en" : "Process recent mailbox and integrated search based on the total number of items in the list.",
+    "ja" : "最近使ったドキュメントボックス及び統合検索は、全リスト数を基準として処理",
+    "vi" : "Hòm tài liệu gần đây, tìm kiếm tổng hợp được xử lý dựa trên tổng số danh sách",
+    "zh" : "最近文件箱，综合搜索将以整体目录数为标准进行处理"
+  },
+  "모두선택" : {
+    "en" : "Select all",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "选择全部"
+  },
+  "전계열사" : {
+    "en" : "All affiliates",
+    "ja" : "全系列会社",
+    "vi" : "Toàn bộ công ty chi nhánh",
+    "zh" : "全连锁公司"
+  },
+  "회사별 라이선스" : {
+    "en" : "Licenses (by company)",
+    "ja" : "会社別ライセンス",
+    "vi" : "Giấy phép theo từng công ty",
+    "zh" : "公司别许可证"
+  },
+  "업로드 파일 유형" : {
+    "en" : "Upload file type",
+    "ja" : "アップロードファイルの種類",
+    "vi" : "Loại tệp tải lên",
+    "zh" : "上传文件类型"
+  },
+  "단말기" : {
+    "en" : "Device",
+    "ja" : "端末",
+    "vi" : "thiết bị đầu cuối",
+    "zh" : "终端机"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "복사" : {
+    "en" : "Copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "复制"
+  },
+  "수정사항을 입력해주세요." : {
+    "en" : "Please enter the modifications.",
+    "ja" : "修正事項を入力してください。",
+    "vi" : "Vui lòng nhập nội dung sửa đổi.",
+    "zh" : "请输入修改内容。"
+  },
+  "메모" : {
+    "en" : "Memo",
+    "ja" : "メモ",
+    "vi" : "Ghi chú",
+    "zh" : "记录"
+  },
+  "사이드바가 있는 세 개 열" : {
+    "en" : "Three columns with sidebar",
+    "ja" : "サイドバー付きの三つの列",
+    "vi" : "Ba cột có thanh công cụ",
+    "zh" : "三列侧边栏"
+  },
+  "레이아웃" : {
+    "en" : "Layout",
+    "ja" : "レイアウト",
+    "vi" : "Bố cục",
+    "zh" : "布局"
+  },
+  "미결정사항" : {
+    "en" : "Undecided Items",
+    "ja" : "未決定事項",
+    "vi" : "Nội dung chưa quyết định",
+    "zh" : "未决"
+  },
+  "라벨 입력" : {
+    "en" : "Enter label",
+    "ja" : "ラベル入力",
+    "vi" : "Nhập nhãn",
+    "zh" : "输入标签"
+  },
+  "접기 블럭" : {
+    "en" : "Fold Block",
+    "ja" : "ブロックを折りたたむ",
+    "vi" : "Khối gấp",
+    "zh" : "折叠块"
+  },
+  "미결정" : {
+    "en" : "Undecided",
+    "ja" : "未決定",
+    "vi" : "Chưa được quyết định",
+    "zh" : "未决"
+  },
+  "결정, 미결정 내용이 하나라도 있어야 됩니다." : {
+    "en" : "At least one decision or undecided item is required.",
+    "ja" : "決定事項または未決定事項が少なくとも1つ必要です。",
+    "vi" : "Phải có ít nhất một nội dung đã quyết định hoặc chưa quyết định.",
+    "zh" : "必须至少有一项已决定或未决定的内容。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "왼쪽 사이드바" : {
+    "en" : "Left sidebar",
+    "ja" : "左サイドバー",
+    "vi" : "Thanh công cụ bên trái",
+    "zh" : "左侧边栏"
+  },
+  "정보 블럭" : {
+    "en" : "Information Block",
+    "ja" : "情報ブロック",
+    "vi" : "Khối Thông Tin",
+    "zh" : "信息块"
+  },
+  "크기" : {
+    "en" : "Size",
+    "ja" : "サイズ",
+    "vi" : "Kích thước",
+    "zh" : "大小"
+  },
+  "결정사항" : {
+    "en" : "Decided Items",
+    "ja" : "決定事項",
+    "vi" : "Nội dung quyết định",
+    "zh" : "已决"
+  },
+  "두 개 열" : {
+    "en" : "Two columns",
+    "ja" : "二つの列",
+    "vi" : "Hai cột",
+    "zh" : "两列"
+  },
+  "페이지 링크" : {
+    "en" : "Page link",
+    "ja" : "ページリンク",
+    "vi" : "Liên kết trang",
+    "zh" : "页面链接"
+  },
+  "정보" : {
+    "en" : "Information",
+    "ja" : "情報",
+    "vi" : "Thông tin",
+    "zh" : "信息"
+  },
+  "세 개 열" : {
+    "en" : "Three columns",
+    "ja" : "三つの列",
+    "vi" : "Ba cột",
+    "zh" : "三列"
+  },
+  "확장" : {
+    "en" : "Expand",
+    "ja" : "拡張",
+    "vi" : "Mở rộng",
+    "zh" : "扩展"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日期"
+  },
+  "오류" : {
+    "en" : "Error",
+    "ja" : "エラー",
+    "vi" : "Lỗi",
+    "zh" : "谬误"
+  },
+  "결정" : {
+    "en" : "Decision",
+    "ja" : "決定",
+    "vi" : "Đã quyết định",
+    "zh" : "已决定"
+  },
+  "라벨" : {
+    "en" : "Label",
+    "ja" : "ラベル",
+    "vi" : "Nhãn",
+    "zh" : "标签"
+  },
+  "결정 보고서" : {
+    "en" : "Decision Report",
+    "ja" : "決裁レポート",
+    "vi" : "Báo cáo quyết định",
+    "zh" : "决策报告"
+  },
+  "오른쪽 사이드바" : {
+    "en" : "Right sidebar",
+    "ja" : "右サイドバー",
+    "vi" : "Thanh công cụ bên phải",
+    "zh" : "右侧边栏"
+  }
+}

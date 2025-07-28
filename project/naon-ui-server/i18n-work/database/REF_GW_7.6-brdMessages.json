@@ -1,0 +1,6506 @@
+{
+  "예약신청" : {
+    "en" : "Booking Request",
+    "ja" : "予約申請",
+    "vi" : "Đăng kí đặt trước",
+    "zh" : "预订处理"
+  },
+  "사용할 수 있는 DLP 코드입니다" : {
+    "en" : "This DLP code is available for use.",
+    "ja" : "使用できるDLPコードです。",
+    "vi" : "Đây là mã code DLP có thể sử dụng.",
+    "zh" : "可以使用的DLP 代码。"
+  },
+  "다운로드" : {
+    "en" : "Download",
+    "ja" : "ダウンロード",
+    "vi" : "Tải xuống",
+    "zh" : "下载"
+  },
+  "검색된 게시물이 없습니다." : {
+    "en" : "No posts have been found.",
+    "ja" : "検索した掲示物がありません。",
+    "vi" : "Không có bài viết nào được tìm kiếm",
+    "zh" : "没有搜索的公告内容。"
+  },
+  "검색식명" : {
+    "en" : "Search formula name",
+    "ja" : "検索式名",
+    "vi" : "Tên phương thức tìm kiếm",
+    "zh" : "所艘式名"
+  },
+  "보관 후 삭제 처리" : {
+    "en" : "Delete after storing",
+    "ja" : "保管後、削除処理",
+    "vi" : "Xử lý xóa sau khi lưu giữ.",
+    "zh" : "保管后删除处理。"
+  },
+  "소분류" : {
+    "en" : "3rd category",
+    "ja" : "第三カテゴリ",
+    "vi" : "Phân loại nhỏ",
+    "zh" : "小分类"
+  },
+  "{0}까지" : {
+    "en" : "up to {0}",
+    "ja" : "{0} まで",
+    "vi" : "Đến {0}",
+    "zh" : "到（0）"
+  },
+  "등록 승인자의 승인을 거쳐 게시글이 등록됩니다. 익명게시판에서는 등록자가 등록 반려를 인지할 수 없으며, 게시 글 예약이 불가능합니다." : {
+    "en" : "Posts need approval from the registrant before being published. In the anonymous board, the registrant cannot be aware of post rejection, and post scheduling is not possible.",
+    "ja" : "登録承認者の承認を経て投稿が登録されます。匿名掲示板では、登録者が登録の却下を認識できず、投稿予約が不可能です。",
+    "vi" : "Các bài viết cần được sự chấp thuận từ người đăng ký trước khi được xuất bản. Trong bảng ẩn danh, người đăng ký không thể biết được việc từ chối bài viết, và việc lên lịch bài viết không thực hiện được.",
+    "zh" : "帖子需要通过注册批准者的批准后才能发布。在匿名留言板上，发布者无法知道拒绝了注册申请，也无法预定帖子。"
+  },
+  "video 요소를 지원하는 브라우저를 이용하여 주십시오." : {
+    "en" : "Please use a browser that supports video elements.",
+    "ja" : "video要素をサポートするブラウザをご利用ください。",
+    "vi" : "Hãy sử dụng trình duyệt hỗ trợ yếu tố video",
+    "zh" : "请使用支援 video 的浏览器。"
+  },
+  "별표" : {
+    "en" : "Star",
+    "ja" : "スター",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "항목명" : {
+    "en" : "Item name",
+    "ja" : "項目名",
+    "vi" : "Tên hạng mục",
+    "zh" : "项目名"
+  },
+  "검색어" : {
+    "en" : "Search keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "{0}님의 질문에 답변이 등록되었습니다." : {
+    "en" : "An answer to {0}'s question has been posted.",
+    "ja" : "{0}さんの質問に回答が登録されました。",
+    "vi" : "Phần trả lời cho câu hỏi của Anh/Chị {0} đã được đăng.",
+    "zh" : "{0}的提问上有答复注册。"
+  },
+  "게시글 예약설정은 불가합니다." : {
+    "en" : "Posts cannot be scheduled.",
+    "ja" : "記事の予約設定はできません。",
+    "vi" : "Không thể cài đặt Đặt trước bài đăng.",
+    "zh" : "不可预约设定布告文章。"
+  },
+  "첨부파일 영역" : {
+    "en" : "Attachment area",
+    "ja" : "添付ファイル領域",
+    "vi" : "Vùng tệp đính kèm",
+    "zh" : "附件领域"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "Tệp đã chọn",
+    "zh" : "选择的文档"
+  },
+  "글 삭제" : {
+    "en" : "Delete Post",
+    "ja" : "テキスト削除",
+    "vi" : "Xóa bài",
+    "zh" : "删除文章"
+  },
+  "수량을 입력하세요." : {
+    "en" : "Enter quantity.",
+    "ja" : "数量を入力してください。",
+    "vi" : "Hãy nhập số lượng",
+    "zh" : "请输入数量。"
+  },
+  "원본 본문 접기/펴기" : {
+    "en" : "Fold/Unfold Original Message",
+    "ja" : "元の本文を閉じる/開く",
+    "vi" : "Đóng/mở nguyên văn bản gốc",
+    "zh" : "原本本文折叠/打开"
+  },
+  "컬럼을 선택하세요." : {
+    "en" : "Select a column",
+    "ja" : "カラムを選択してください。",
+    "vi" : "Hãy chọn cột",
+    "zh" : "请选择专栏。"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "템플릿 정보" : {
+    "en" : "Template information",
+    "ja" : "テンプレート情報",
+    "vi" : "Thông tin bản mẫu",
+    "zh" : "模板信息"
+  },
+  "메일주소 형식이 맞지 않습니다." : {
+    "en" : "Invalid e-mail address format.",
+    "ja" : "メールアドレスの形式が正しくありません。",
+    "vi" : "Định dạng địa chỉ mail không đúng.",
+    "zh" : "不符合邮件地址形式。"
+  },
+  "이동/복사 기능" : {
+    "en" : "Move/Copy",
+    "ja" : "移動/コピー機能",
+    "vi" : "Tính năng di chuyển/sao chép",
+    "zh" : "移动/拷贝技能"
+  },
+  "태그 검색" : {
+    "en" : "Search for tags",
+    "ja" : "タグ検索",
+    "vi" : "Tìm kiếm tag",
+    "zh" : "搜索标记"
+  },
+  "익명 게시물은 추천 이력을 저장하지 않습니다." : {
+    "en" : "Anonymous posts do not save recommendation history.",
+    "ja" : "匿名投稿は推薦履歴を保存しません。",
+    "vi" : "Bài đăng ẩn danh sẽ không lưu lại lịch sử đề xuất.",
+    "zh" : "匿名帖子不会保存推荐历史记录。"
+  },
+  "개인환경설정" : {
+    "en" : "Personal preferences",
+    "ja" : "個人の環境設定",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "个人环境设定"
+  },
+  "이미 사용중인 DLP 코드입니다. \\n다른 코드를 입력하세요" : {
+    "en" : "That DLP code is already in use. \\n Please enter a different code.",
+    "ja" : "既に使用されているDLPコードです。\\ n他のコードを入力してください。",
+    "vi" : "Mã DLP này đã được sử dụng. \\n Vui lòng nhập một đoạn mã khác",
+    "zh" : "已经使用中的DLP 代码。\\n请使用其他代码。"
+  },
+  "게시판 정보" : {
+    "en" : "Board information",
+    "ja" : "掲示板情報",
+    "vi" : "Thông tin bảng tin",
+    "zh" : "公告栏信息"
+  },
+  "대여가 완료되었습니다." : {
+    "en" : "You have successfully lent the item.",
+    "ja" : "貸出しが完了しました。",
+    "vi" : "Đăng ký mượn đã hoàn tất.",
+    "zh" : "已出租完毕。"
+  },
+  "선택한 게시판을 복사하시겠습니까?" : {
+    "en" : "Do you want to copy the selected board?",
+    "ja" : "選択した掲示板をコピーしますか？",
+    "vi" : "Bạn muốn sao chép bảng tin đã chọn?",
+    "zh" : "是否复制已选公告栏？"
+  },
+  "게시물 내용" : {
+    "en" : "Content",
+    "ja" : "掲示物内容",
+    "vi" : "Nội dung bài đăng",
+    "zh" : "公告内容"
+  },
+  "소유부서를 변경하시겠습니까?" : {
+    "en" : "Would you like to change the department that owns this board?",
+    "ja" : "所有部署を変更しますか？",
+    "vi" : "Bạn có muốn thay đổi phòng ban sở hữu không?",
+    "zh" : "要变更所属部门吗？"
+  },
+  "선택한 게시판을 대상 폴더로 복사합니다." : {
+    "en" : "Copy the selected bulletin board to the folder.",
+    "ja" : "選択した掲示板を対象フォルダにコピーします。",
+    "vi" : "Sao chép bảng tin đã chọn sang thư mục đối tượng.",
+    "zh" : "您选择的布告栏拷贝到对象文件夹。"
+  },
+  "첨부파일 등록 시 다운로드 제한 날짜를 등록할 수 있습니다." : {
+    "en" : "When you add attachments, you can set a download expiration date.",
+    "ja" : "添付ファイル登録時にダウンロードを制限する日付を登録できます。",
+    "vi" : "Khi đăng tệp đính kèm, bạn có thể thiết lập ngày hết hạn tải về.",
+    "zh" : "登录附件时可以登录下载控制日子。"
+  },
+  "마일리지" : {
+    "en" : "Mileage",
+    "ja" : "マイレージ",
+    "vi" : "Số dặm",
+    "zh" : "积分"
+  },
+  "게시 기한이 만료되면 해당 게시물은 게시판에서 삭제됩니다." : {
+    "en" : "If the post expires, it will be deleted from the bulletin board.",
+    "ja" : "掲示期限満了時、当該記事は掲示板から削除されます。",
+    "vi" : "Nếu kết thúc thời hạn đăng thì bài viết tương ứng sẽ bị xóa trên bảng tin.",
+    "zh" : "布告期限结束的话有关告示会在布告栏上被删除。"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境の設定",
+    "vi" : "Cài đặt môi trường mặc định",
+    "zh" : "基本环境设定"
+  },
+  "배경색상" : {
+    "en" : "Background color",
+    "ja" : "背景の色",
+    "vi" : "Màu nền",
+    "zh" : "背景颜色"
+  },
+  "그룹 게시판 관리" : {
+    "en" : "Group board management.",
+    "ja" : "グループ掲示板の管理",
+    "vi" : "Quản lý bảng nhóm.",
+    "zh" : "组论坛管理"
+  },
+  "이 글의 트랙백 주소를 클립보드에 복사하시겠습니까?" : {
+    "en" : "Do you wish to copy the trackback address of this post to your clipboard?",
+    "ja" : "この記事のトラックバックアドレスをクリップボードにコピーしますか？",
+    "vi" : "Bạn có muốn sao chép địa chỉ theo dõi lại bài viết này vào Clipboard không?",
+    "zh" : "要把这个文章的track back地址拷贝到剪贴板吗？"
+  },
+  "반려사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "退回原因"
+  },
+  "의견" : {
+    "en" : "Opinion",
+    "ja" : "意見",
+    "vi" : "Ý kiến",
+    "zh" : "意见"
+  },
+  "익명 속성이 해제되었습니다. 등록자 이름이 공개됩니다. \\n저장하시겠습니까?" : {
+    "en" : "You have chosen to disable 'Write as Anonymous'. The name of the registrant will be disclosed. \\nWould you like to save?",
+    "ja" : "匿名プロパティが解除されました。登録者名が公開されます。\\n保存しますか？",
+    "vi" : "Thuộc tính ẩn danh đã được gỡ bỏ. Tên người đăng sẽ được công khai. \\nBạn muốn lưu chứ?",
+    "zh" : "匿名属性已解除。公开上传者姓名。\\n是否保存?"
+  },
+  "이미 동일한 이름의 분류가 있습니다." : {
+    "en" : "This classification name already exists.",
+    "ja" : "既に同じ名前の分類があります。",
+    "vi" : "Có phân loại trùng lặp tên.",
+    "zh" : "已有同样名称分类。"
+  },
+  "템플릿 저장" : {
+    "en" : "Save template",
+    "ja" : "テンプレート保存",
+    "vi" : "Lưu bản mẫu",
+    "zh" : "模板保存"
+  },
+  "최근 글 선택" : {
+    "en" : "Select recent message",
+    "ja" : "最新記事の選択",
+    "vi" : "Chọn bài viết gần đây",
+    "zh" : "选择最近文章"
+  },
+  "최대 {0}개까지 선택 가능" : {
+    "en" : "You can select up to {0}.",
+    "ja" : "最大 {0} 個まで選択可能",
+    "vi" : "Có thể chọn tối đa {0}",
+    "zh" : "最多可以选择（0）个"
+  },
+  "내부 링크" : {
+    "en" : "Internal link",
+    "ja" : "内部リンク",
+    "vi" : "Link nội bộ",
+    "zh" : "内部链接"
+  },
+  "상품 설명을 입력하세요." : {
+    "en" : "Enter a description.",
+    "ja" : "商品説明を入力してください。",
+    "vi" : "Hãy nhập miêu tả sản phẩm.",
+    "zh" : "请输入说明。"
+  },
+  "컬럼 Type" : {
+    "en" : "Column Type",
+    "ja" : "カラムタイプ",
+    "vi" : "Loại cột",
+    "zh" : "专栏 Type"
+  },
+  "글을 등록할 게시판을 선택하세요." : {
+    "en" : "Select a bulletin board to post your message.",
+    "ja" : "記事を登録する掲示板を選択してください。",
+    "vi" : "Hãy chọn bảng tin để đăng bài",
+    "zh" : "请选择要登录文章的布告栏。"
+  },
+  "댓글 쓰기" : {
+    "en" : "Add a comment",
+    "ja" : "コメント作成",
+    "vi" : "Viết bình luận",
+    "zh" : "写回帖"
+  },
+  "관리자만 사용" : {
+    "en" : "Only available for admins",
+    "ja" : "管理者のみが使用",
+    "vi" : "Chỉ cho phép người quản lý sử dụng",
+    "zh" : "只允许管理者使用"
+  },
+  "컨설팅" : {
+    "en" : "Consulting",
+    "ja" : "コンサルティング",
+    "vi" : "Tư vấn",
+    "zh" : "咨询"
+  },
+  "처리중" : {
+    "en" : "Processing",
+    "ja" : "処理中です。",
+    "vi" : "Đang xử lý",
+    "zh" : "处理中"
+  },
+  "복원" : {
+    "en" : "Restore",
+    "ja" : "復元",
+    "vi" : "Khôi phục",
+    "zh" : "复原"
+  },
+  "조회 확인" : {
+    "en" : "Check view",
+    "ja" : "照会確認",
+    "vi" : "Kiểm tra xem",
+    "zh" : "确认查询"
+  },
+  "게시판 목록에 추가하지 않은 컬럼은 정렬 기준으로 설정할 수 없습니다." : {
+    "en" : "Columns not added to the postbox list cannot be set as sorting criteria.",
+    "ja" : "掲示板リストに追加していないカラムは、ソート基準として設定できません。",
+    "vi" : "Các cột không được thêm vào danh sách bảng thông báo không thể được thiết lập theo tiêu chuẩn sắp xếp.",
+    "zh" : "未添加至公告栏目录的栏无法被设为排列标准。"
+  },
+  "댓글단 글 보기" : {
+    "en" : "View posts that I have left a comment",
+    "ja" : "コメント文を表示",
+    "vi" : "Xem bài có bình luận",
+    "zh" : "看跟帖的文章"
+  },
+  "일괄 권한설정" : {
+    "en" : "Batch setup permissions",
+    "ja" : "一括権限設定",
+    "vi" : "Cài đặt quyền đồng loạt",
+    "zh" : "批量处理设置权限"
+  },
+  "{0}님이 예약 신청을 하였습니다." : {
+    "en" : "Mr./Ms.{0} has requested for booking.",
+    "ja" : "{0}さんが予約を申請しました。",
+    "vi" : "Anh/chị {0} đã đăng ký hẹn trước.",
+    "zh" : "{0}先生、女士申请了预订。"
+  },
+  "게시물 등록 시 사용자에게 알림을 발송합니다." : {
+    "en" : "Notifications Sent to Users Upon Posting.",
+    "ja" : "投稿登録時にユーザーに通知を送信します。",
+    "vi" : "Gửi thông báo cho người dùng khi đăng bài viết.",
+    "zh" : "用户发布帖子时，将发送通知。"
+  },
+  "승인했습니다." : {
+    "en" : "Successfully Approved.",
+    "ja" : "承認しました。",
+    "vi" : "Đã chấp nhận",
+    "zh" : "已承认"
+  },
+  "승인처리 버튼명" : {
+    "en" : "Button name for approval",
+    "ja" : "承認処理のボタン名",
+    "vi" : "Tên nút Xử lý duyệt",
+    "zh" : "承认处理按钮名"
+  },
+  "기본 컬럼" : {
+    "en" : "Default column",
+    "ja" : "基本カラム",
+    "vi" : "Cột cơ bản",
+    "zh" : "默认专栏"
+  },
+  "게시판 이력" : {
+    "en" : "Bulletin board history",
+    "ja" : "掲示板履歴",
+    "vi" : "Lịch sử bảng tin",
+    "zh" : "布告栏履历"
+  },
+  "익명으로 작성되어 등록 후 수정/삭제를 할 수 없습니다." : {
+    "en" : "Posts written anonymously cannot be modified or deleted after registration.",
+    "ja" : "匿名で作成されているため、登録後の修正および削除はできません。",
+    "vi" : "Không thể chỉnh sửa/xóa sau khi đăng ẩn danh.",
+    "zh" : "由于是匿名上传，上传后将无法进行修改/删除。"
+  },
+  "행의 컬럼 배치 유형을 선택하세요." : {
+    "en" : "Select the Column Arrangement Type for the row.",
+    "ja" : "行のカラム配置タイプを選択してください。",
+    "vi" : "Hãy chọn hình thức sắp xếp cột trong dòng",
+    "zh" : "请选择行的专栏配置类型。"
+  },
+  "파일첨부 기본용량" : {
+    "en" : "Default space of attachments (files)",
+    "ja" : "ファイル添付の基本容量",
+    "vi" : "Dung lượng mặc định của đính kèm tệp",
+    "zh" : "附件基本用量"
+  },
+  "공지기한" : {
+    "en" : "Notice period",
+    "ja" : "お知らせ期限",
+    "vi" : "Thời hạn thông báo",
+    "zh" : "通知期限"
+  },
+  "{0} 분류를 {1}로 이동하시겠습니까?" : {
+    "en" : "Do you want to move the {0} category to {1}?",
+    "ja" : "{0} カテゴリを {1}に移動しますか？",
+    "vi" : "Bạn có muốn di chuyển danh mục {0} sang {1} không?",
+    "zh" : "要把{0}分类移动到{1}吗？"
+  },
+  "신청승인자" : {
+    "en" : "Approver",
+    "ja" : "申請承認者",
+    "vi" : "Người phê duyệt",
+    "zh" : "申请批准者"
+  },
+  "선택한 글을 대상 게시판으로 복사합니다." : {
+    "en" : "Copy the selected message to the bulletin board.",
+    "ja" : "選択した記事を対象掲示板にコピーします。",
+    "vi" : "Sao chép bài viết đã chọn sang bảng tin đối tượng.",
+    "zh" : "把您选择的文章拷贝到对象布告栏。"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "남은용량" : {
+    "en" : "Remaining space",
+    "ja" : "残り容量",
+    "vi" : "Dung lượng còn lại",
+    "zh" : "剩下的用量"
+  },
+  "노출안함" : {
+    "en" : "Don't show",
+    "ja" : "公開しない",
+    "vi" : "Không hiển thị",
+    "zh" : "不显示"
+  },
+  "분류를 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the category?",
+    "ja" : "カテゴリを削除しますか？",
+    "vi" : "Bạn chắc chắn muốn xóa bỏ hạng mục này chứ?",
+    "zh" : "要删除分类吗？"
+  },
+  "좋아요" : {
+    "en" : "Like",
+    "ja" : "いいね",
+    "vi" : "Thích",
+    "zh" : "好"
+  },
+  "등록반려" : {
+    "en" : "Reject Upload",
+    "ja" : "登録差戻し",
+    "vi" : "Từ chối đăng",
+    "zh" : "退回登录"
+  },
+  "종료없음" : {
+    "en" : "Not Finished",
+    "ja" : "終了なし",
+    "vi" : "Không có kết thúc",
+    "zh" : "未结束"
+  },
+  "대여자" : {
+    "en" : "Borrower",
+    "ja" : "貸与者",
+    "vi" : "người thuê",
+    "zh" : "出租者"
+  },
+  "댓글단 게시글 보기" : {
+    "en" : "Show posts that you have left a comment",
+    "ja" : "コメントを書いた記事を表示",
+    "vi" : "Xem bài viết có bình luận",
+    "zh" : "看写回帖的布告文章"
+  },
+  "대여일" : {
+    "en" : "Date of Borrowing",
+    "ja" : "貸与日",
+    "vi" : "ngày thuê",
+    "zh" : "出租日"
+  },
+  "삭제된 댓글입니다." : {
+    "en" : "The comment has been deleted",
+    "ja" : "削除されたコメントです。",
+    "vi" : "Bình luận đã xóa",
+    "zh" : "是已删除的留言。"
+  },
+  "등록순" : {
+    "en" : "By added date",
+    "ja" : "登録順",
+    "vi" : "Thứ tự đăng",
+    "zh" : "登录顺"
+  },
+  "등록수" : {
+    "en" : "Total",
+    "ja" : "登録数",
+    "vi" : "Số đăng ký",
+    "zh" : "登录数"
+  },
+  "선택옵션" : {
+    "en" : "Select Options",
+    "ja" : "選択オプション",
+    "vi" : "Phương án lựa chọn",
+    "zh" : "选择选项"
+  },
+  "글 등록시 바로 등록되지않고 등록승인자의 승인후 등록됩니다." : {
+    "en" : "When someone attempts to upload a post, they must receive approval from the admin (manager).",
+    "ja" : "記事の登録はすぐに行われず、登録承認者の承認のうえ登録されます。",
+    "vi" : "Khi đăng bài, bài không được đăng ngay mà phải đăng sau khi có chấp nhận của người chấp nhận đăng bài.",
+    "zh" : "登录文章时不可直接登录而通过登录承认者的承认后进行登录。"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên phòng  ban",
+    "zh" : "部门名"
+  },
+  "의견&nbsp;제목" : {
+    "en" : "Opinion title",
+    "ja" : "意見&nbsp;タイトル",
+    "vi" : "Nếu muốn xem ý kiến, hãy nhấp chọn Xem bài viết dưới đây.",
+    "zh" : "意见&nbsp;题目"
+  },
+  "작성일" : {
+    "en" : "Date",
+    "ja" : "作成日",
+    "vi" : "Ngày viết",
+    "zh" : "制作日"
+  },
+  "관심 게시함" : {
+    "en" : "Interesting Posts",
+    "ja" : "お気に入り掲示板",
+    "vi" : "Hộp bảng tin quan tâm",
+    "zh" : "关心布告箱"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "キャンセル",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "저장했습니다." : {
+    "en" : "Successfully saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu",
+    "zh" : "保存完了。"
+  },
+  "Drag&amp;Drop 으로 행의 상하 위치를 변경할 수 있습니다." : {
+    "en" : "You can change the order (up and down) via drag & drop.",
+    "ja" : "ドラッグ＆ドロップで行の上下位置を変更できます。",
+    "vi" : "Có thể thay đổi vị trí trên dưới của dòng bằng Drag&amp;Drop",
+    "zh" : "利用Drag&amp;Drop 可以变更行的上下位置。"
+  },
+  "방콕, 하노이, 자카르타" : {
+    "en" : "Bangkok, Hanoi, Jakarta",
+    "ja" : "バンコク、ハノイ、ジャカルタ",
+    "vi" : "Băng Cốc, Hà Nội, Jakarta",
+    "zh" : "曼谷，河内，雅加达"
+  },
+  "대여관리" : {
+    "en" : "Management (Lend/Borrow)",
+    "ja" : "貸与管理",
+    "vi" : "Quản lý Thuê",
+    "zh" : "貸し出し管理"
+  },
+  "추천받을 경우" : {
+    "en" : "When getting recommended",
+    "ja" : "おすすめを受ける場合",
+    "vi" : "Trường hợp nhận được đề cử",
+    "zh" : "被推荐的话"
+  },
+  "빈 양식 사용" : {
+    "en" : "Use a blank form",
+    "ja" : "ブランクフォームを使用",
+    "vi" : "Sử dụng bản mẫu để trống",
+    "zh" : "使用空样式"
+  },
+  "비밀번호가 일치하지 않습니다." : {
+    "en" : "The password you entered does not match.",
+    "ja" : "パスワードが一致しません。",
+    "vi" : "Mật khẩu không đúng",
+    "zh" : "密码不一致。"
+  },
+  "인쇄할 글을 선택하세요." : {
+    "en" : "Select a message you want to print.",
+    "ja" : "印刷する記事を選択してください。",
+    "vi" : "Hãy chọn bài bạn cần in.",
+    "zh" : "请选择要打印的文章。"
+  },
+  "득표 현황" : {
+    "en" : "Voting status",
+    "ja" : "得票の状況",
+    "vi" : "Tình hình phiếu bầu",
+    "zh" : "得票现况"
+  },
+  "반납일" : {
+    "en" : "Return date",
+    "ja" : "返却日",
+    "vi" : "Ngày trả",
+    "zh" : "退还日"
+  },
+  "소유스페이스" : {
+    "en" : "Your Space",
+    "ja" : "所有スペース",
+    "vi" : "Space sở hữu",
+    "zh" : "所有空间"
+  },
+  "폴더명에 공백또는 특수문자를 사용할 수 없습니다." : {
+    "en" : "You cannot use empty spaces or special characters in a folder name.",
+    "ja" : "フォルダ名にスペースや特殊文字を使用することはできません。",
+    "vi" : "Không thể sử dụng dấu cách hoặc ký tự đặc biệt trong tên thư mục.",
+    "zh" : "文件夹名上不能使用空白和特殊文字。"
+  },
+  "삭제함" : {
+    "en" : "Deleted",
+    "ja" : "削除する",
+    "vi" : "Hộp xóa",
+    "zh" : "删除箱"
+  },
+  "작성자" : {
+    "en" : "Written by",
+    "ja" : "作成者",
+    "vi" : "Người viết",
+    "zh" : "制作人"
+  },
+  "제목은 공백 포함 {0} 글자 이하여야 합니다." : {
+    "en" : "A subject must be less than {0} characters including spaces.",
+    "ja" : "件名はスペースを含む{0}文字以下である必要があります。",
+    "vi" : "Tiêu đề phải dưới {0}chữ bao gồm cả dấu cách",
+    "zh" : "题目得写包括空白 {0} 字以下。"
+  },
+  "게시판 위치" : {
+    "en" : "Bulletin board location",
+    "ja" : "掲示板位置",
+    "vi" : "Vị trí bảng tin",
+    "zh" : "布告栏位置"
+  },
+  "글 등록 시 바로 등록되지 않고 등록승인자의 승인 후 등록되며 익명게시판은 반려 시에도 등록자가 알 수 없습니다." : {
+    "en" : "Posts are not immediately registered upon submission but only after approval by the approval authority. Even if an anonymous post is rejected, the registrant cannot know.",
+    "ja" : "書き込みは即座に登録されるのではなく、登録承認者の承認後に登録されます。なお、匿名掲示板への書き込みは、却下された場合でも登録者は分かりません。",
+    "vi" : "Khi đăng bài, bài viết sẽ không được đăng ngay mà cần chờ phê duyệt từ người quản lý, nếu bài trên thông báo ẩn danh bị từ chối đăng, người đăng cũng không thể biết.",
+    "zh" : "在上传文章后将不予立即上传，需通过上传审核员的审核后进行上传，若匿名公告栏的贴文被驳回，上传人也将无法得知。"
+  },
+  "분류는 3Depth 까지 추가할 수 있습니다." : {
+    "en" : "You can add classifications up to 3 levels deep.",
+    "ja" : "カテゴリーは 3 階層まで追加できます。",
+    "vi" : "Bạn có thể thêm các phân loại với tối đa 3 cấp độ.",
+    "zh" : "您最多可以添加3级深度的分类。"
+  },
+  "최근게시함" : {
+    "en" : "Recent Posts",
+    "ja" : "最近の掲示板",
+    "vi" : "Hòm bài viết gần đây",
+    "zh" : "最近公告箱"
+  },
+  "0은 제한이 없음을 의미합니다." : {
+    "en" : "0 means that there are no limits.",
+    "ja" : "0は制限がないことを意味します。",
+    "vi" : "0 có nghĩa là không giới hạn",
+    "zh" : "0是没有限制的意思。"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Chỉnh sửa",
+    "zh" : "修改"
+  },
+  "다음 게시물" : {
+    "en" : "Next post",
+    "ja" : "次の記事",
+    "vi" : "Bài đăng kế tiếp",
+    "zh" : "下一个布告内容"
+  },
+  "게시글을 복사하였습니다." : {
+    "en" : "The article has been copied.",
+    "ja" : "掲示物をコピーしました。",
+    "vi" : "Đã sao chép bài viết",
+    "zh" : "公告内容拷贝完了。"
+  },
+  "보안 게시" : {
+    "en" : "Private Post",
+    "ja" : "セキュリティ掲示",
+    "vi" : "Bài viết bảo mật",
+    "zh" : "保安布告"
+  },
+  "제목/배경색상 선택" : {
+    "en" : "Select title/background color",
+    "ja" : "タイトル/背景色の選択",
+    "vi" : "Chọn màu nền/tiêu đề",
+    "zh" : "选择题目/背景颜色"
+  },
+  "설문참여" : {
+    "en" : "Participate in survey",
+    "ja" : "アンケート参加",
+    "vi" : "Tham gia khảo sát",
+    "zh" : "参与设问"
+  },
+  "기능 사용함" : {
+    "en" : "Use function",
+    "ja" : "機能を使用する",
+    "vi" : "Sử dụng tính năng",
+    "zh" : "使用技能"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "글 수정시 등록일" : {
+    "en" : "Modified Date",
+    "ja" : "記事修正時の登録日",
+    "vi" : "Ngày đăng khi chỉnh sửa bài viết",
+    "zh" : "修改文章时登录日"
+  },
+  "첨부파일명" : {
+    "en" : "Attachment Name",
+    "ja" : "添付ファイル名",
+    "vi" : "Tên tệp đính kèm",
+    "zh" : "附件名"
+  },
+  "한 개의 행에는 최대 4개의 컬럼을 추가할 수 있으며, 한번 추가된 컬럼은 다시 추가할 수 없습니다." : {
+    "en" : "You can add up to 4 columns to a single row. Added columns can't be added again.",
+    "ja" : "一行に最大4つのカラムを追加でき、一度追加されたカラムは再度追加できません。",
+    "vi" : "Có thể thêm tối đa 4 cột vào 1 dòng, không thể lại cột đã được thêm.",
+    "zh" : "一个行里最多可以追加4个专栏，而且已经追加的专栏不可再追加。"
+  },
+  "원본글 등록자에게 글 등록 알림" : {
+    "en" : "When a user posts a message, send a post notification to the original author.",
+    "ja" : "元記事の登録者に記事登録を通知",
+    "vi" : "Thông báo đăng bài đến người đăng bài gốc",
+    "zh" : "给原本文章登录者提醒文章登录"
+  },
+  "말머리 사용" : {
+    "en" : "Use a heading",
+    "ja" : "ラベル使用",
+    "vi" : "Sử dụng lời nói đầu",
+    "zh" : "使用话头"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "Duplicate users with the manager status on Space are excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、そのユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong Space, người dùng này sẽ được loại bỏ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "선택한 폴더의 하위 폴더의 상하 위치를 변경합니다." : {
+    "en" : "Re-order the sub-folders of the selected folder.",
+    "ja" : "選択したフォルダ内のサブフォルダの上下位置を変更します。",
+    "vi" : "Thay đổi vị trí trên dưới của thư mục bên trong thư mục đã chọn.",
+    "zh" : "变更把您选择的文件夹的下位文件夹上下位置。"
+  },
+  "종료" : {
+    "en" : "Finished",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  },
+  "조직도 선택 버튼명" : {
+    "en" : "Organizational Chart Selection Button Name",
+    "ja" : "組織図選択のボタン名",
+    "vi" : "Tên nút chọn sơ đồ tổ chức",
+    "zh" : "组织图选择按钮名"
+  },
+  "통계는 하루 전날까지 등록된 데이터 대상입니다. 게시판을 클릭하면 부서별, 사용자별 등록 현황을 조회할 수 있습니다." : {
+    "en" : "Only the data recorded until yesterday will be reflected in the Statistics. Click the bulletin board to view the registration status by department/user.",
+    "ja" : "統計は前日までに登録されたデータが対象となります。掲示板をクリックすると、部署別、ユーザー別の登録状況を照会できます。",
+    "vi" : "Thống kê là đối tượng dữ liệu được đăng trước đó một ngày. Khi nhấp vào bảng tin, có thể xem tình hình đăng theo phòng ban và theo người dùng.",
+    "zh" : "统计对象以前一天登录的数据为止。点击公告栏时可查询各个部门和使用者的登录现况。"
+  },
+  "신청 버튼명을 입력하세요." : {
+    "en" : "Enter a name for the 'Request' button.",
+    "ja" : "申請ボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút đăng ký",
+    "zh" : "请输入申请按钮名。"
+  },
+  "지식" : {
+    "en" : "Knowledge",
+    "ja" : "知識",
+    "vi" : "Tri thức",
+    "zh" : "知识"
+  },
+  "게시기한을 선택해주세요." : {
+    "en" : "Select an expiry date for the post.",
+    "ja" : "掲示期限を選択してください。",
+    "vi" : "Hãy chọn thời hạn đăng.",
+    "zh" : "请选择布告期限。"
+  },
+  "선택한 분류를 삭제하시겠습니까?\\n게시글에 설정한 분류도 초기화됩니다." : {
+    "en" : "Do you want to delete the selected classification? The classifications set for the posts will also be reset.",
+    "ja" : "選択したカテゴリーを削除しますか？ 投稿に設定したカテゴリーもリセットされます。",
+    "vi" : "Bạn có muốn xóa phân loại đã chọn không? Các phân loại được đặt cho các bài viết cũng sẽ được đặt lại.",
+    "zh" : "您确定要删除所选分类吗？\\n帖子中设置的分类也将被重置。"
+  },
+  "관리자 설정" : {
+    "en" : "Admin settings",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt của quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "완료요청일" : {
+    "en" : "Completion request date",
+    "ja" : "完了要請日",
+    "vi" : "Ngày yêu cầu hoàn thành",
+    "zh" : "完了邀请日"
+  },
+  "글 조회" : {
+    "en" : "View Messages",
+    "ja" : "記事照会",
+    "vi" : "Xem bài viết",
+    "zh" : "查询文章"
+  },
+  "등록된 판매 정보가 없습니다." : {
+    "en" : "No registered sales information",
+    "ja" : "登録された販売情報がありません。",
+    "vi" : "Không có thông tin bán hàng được đăng.",
+    "zh" : "没有登录的销售信息。"
+  },
+  "시작일자를 입력해주세요." : {
+    "en" : "Please select a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu",
+    "zh" : "请输入开始日子。"
+  },
+  "예약신청이 등록되었습니다." : {
+    "en" : "Your booking request has been successfully registered.",
+    "ja" : "予約申請が登録されました。",
+    "vi" : "Đăng kí Đặt trước đã được đăng.",
+    "zh" : "预订申请注册完了。"
+  },
+  "댓글 영역" : {
+    "en" : "Comment area",
+    "ja" : "コメント領域",
+    "vi" : "Phần bình luận",
+    "zh" : "回帖领域"
+  },
+  "컬럼 너비를 입력하세요." : {
+    "en" : "Enter the width of the column.",
+    "ja" : "カラムの幅を入力してください。",
+    "vi" : "Hãy nhập độ rộng của cột",
+    "zh" : "请输入专栏宽度。"
+  },
+  "대리등록" : {
+    "en" : "Add (via agent)",
+    "ja" : "代理登録",
+    "vi" : "Đăng thay/đăng bởi người đại diện",
+    "zh" : "代理登录"
+  },
+  "이메일" : {
+    "en" : "E-mail",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "검색 조건을 추가해주세요." : {
+    "en" : "Add Search Conditions.",
+    "ja" : "検索条件を追加してください。",
+    "vi" : "Thêm bộ lọc tìm kiếm.",
+    "zh" : "请追加搜索条件。"
+  },
+  "첨부 가능 파일" : {
+    "en" : "Files that can be attached",
+    "ja" : "添付可能なファイル",
+    "vi" : "Tệp có thể đính kèm",
+    "zh" : "可以附加的文件"
+  },
+  "추천했습니다." : {
+    "en" : "Recommendation complete.",
+    "ja" : "おすすめしました。",
+    "vi" : "Đã đề cử.",
+    "zh" : "已推荐。"
+  },
+  "대여중" : {
+    "en" : "Unavailable (Borrowed by someone else)",
+    "ja" : "貸出し中",
+    "vi" : "Đang mượn",
+    "zh" : "出租中"
+  },
+  "RSS검사" : {
+    "en" : "RSS Check",
+    "ja" : "RSS検査",
+    "vi" : "Kiểm tra RSS",
+    "zh" : "RSS检查"
+  },
+  "설문 항목을 선택하세요." : {
+    "en" : "Please select a survey item.",
+    "ja" : "アンケート項目を選択してください。",
+    "vi" : "Hãy chọn hạng mục khảo sát",
+    "zh" : "请选择设问项目。"
+  },
+  "{0} 분류를 {1} 하위로 이동하시겠습니까?" : {
+    "en" : "Do you want to move the {0} category to the lower location of {1}?",
+    "ja" : "{0} カテゴリを {1} 下に移動しますか？",
+    "vi" : "Bạn có muốn di chuyển danh mục {0} xuống dưới {1} không?",
+    "zh" : "要把{0}分类移动到{1}下位吗？"
+  },
+  "소유스페이스를 변경하시겠습니까?" : {
+    "en" : "Do you want to change your Space?",
+    "ja" : "所有スペースを変更しますか？",
+    "vi" : "Bạn có muốn thay đổi Space sở hữu không?",
+    "zh" : "要变更所有空间吗？"
+  },
+  "게시판 생성시 적용할 기본 용량을 설정합니다." : {
+    "en" : "Set the default space for the board that will be applied when creating new boards.",
+    "ja" : "掲示板の作成時に適用する基本容量を設定します。",
+    "vi" : "Cài dặt dung lượng mặc định để áp dụng khi hình bảng tin mới.",
+    "zh" : "设定新建布告栏时要适用的基本用量。"
+  },
+  "글 선택 안함" : {
+    "en" : "Don't select the message",
+    "ja" : "記事を選択しない",
+    "vi" : "Không chọn bài viết",
+    "zh" : "不选择文章"
+  },
+  "게시판 기본 형태" : {
+    "en" : "Default Style (Bulletin Board)",
+    "ja" : "掲示板の基本タイプ",
+    "vi" : "Hình thái cơ bản của bảng tin",
+    "zh" : "布告栏基本形态"
+  },
+  "도서대여 게시판으로 사용할 수 있으며, 대여내역을 대여관리자가 등록합니다." : {
+    "en" : "It can be used as a bulletin board for borrowing books. The 'Borrowing History' of books will be registered by the admin.",
+    "ja" : "本の貸出掲示板として使用することができ、貸出内訳を貸出管理者が登録します。",
+    "vi" : "Có thể sử dụng làm bảng thông báo mượn sách, và người quản lý Thuê sẽ đăng lịch sử mượn.",
+    "zh" : "可以使用为借书布告栏，而且出租管理者登陆出租细目。"
+  },
+  "작&nbsp;&nbsp;성&nbsp;&nbsp;자" : {
+    "en" : "Author",
+    "ja" : "作&nbsp;&nbsp;成&nbsp;&nbsp;者",
+    "vi" : "Người viết",
+    "zh" : "制&nbsp;&nbsp;作&nbsp;&nbsp;人"
+  },
+  "{0}님의 게시물 등록이 반려되었습니다." : {
+    "en" : "Mr. / Ms. {0} request to post his/her article has been rejected",
+    "ja" : "{0}さんの掲示物登録が差戻されました。",
+    "vi" : "Việc đăng bài viết của anh/chị {0} đã bị từ chối",
+    "zh" : "{0}的登录公告内容被退回了。"
+  },
+  "DLP 구분값을 입력하시기 바랍니다." : {
+    "en" : "Please add DLP values.",
+    "ja" : "DLP区分値を入力してください。",
+    "vi" : "Vui lòng nhập giá trị phân loại DLP.",
+    "zh" : "请输入DLP 区分值。"
+  },
+  "연락처를 입력하세요." : {
+    "en" : "Enter contact information.",
+    "ja" : "連絡先を入力してください。",
+    "vi" : "Hãy nhập địa chỉ liên lạc",
+    "zh" : "请输入联络处。"
+  },
+  "라디오버튼" : {
+    "en" : "Radio button",
+    "ja" : "ラジオボタン",
+    "vi" : "Nút radio",
+    "zh" : "广播按钮"
+  },
+  "대상 분류" : {
+    "en" : "Target Category",
+    "ja" : "対象分類",
+    "vi" : "Phân loại mục tiêu",
+    "zh" : "目标分类"
+  },
+  "대상 폴더를 선택하세요." : {
+    "en" : "Select target folder.",
+    "ja" : "対象フォルダを選択してください。",
+    "vi" : "Hãy chọn thư mục đối tượng.",
+    "zh" : "请选择对象文件夹。"
+  },
+  "공유자 설정" : {
+    "en" : "Sharer settings",
+    "ja" : "共有者の設定",
+    "vi" : "Cài đặt Người chia sẻ",
+    "zh" : "设定共有人"
+  },
+  "쓰기 권한이 있는 게시판이 없습니다." : {
+    "en" : "There are no bulletin boards where you have permission to write.",
+    "ja" : "書き込み権限のある掲示板がありません。",
+    "vi" : "Không có bảng tin có quyền viết.",
+    "zh" : "不存在有编写权限的公告栏。"
+  },
+  "글 제목에 마우스 오버시 글 내용 표시" : {
+    "en" : "Show message when you mouse over a subject of a message.",
+    "ja" : "マウスオーバー時、記事件名に記事の内容を表示",
+    "vi" : "Hiển thị nội dung bài viết khi di chuột qua tiêu đề bài viết.",
+    "zh" : "在题目上放鼠标时表示出文章内容。"
+  },
+  "예약기간을 입력해주세요." : {
+    "en" : "Select reservation period.",
+    "ja" : "予約期間を入力してください。",
+    "vi" : "Hãy nhập khoảng thời gian đặt trước.",
+    "zh" : "请输入预订期间。"
+  },
+  "게시물 등록승인을 요청하였습니다. 관리자의 승인 후 등록됩니다." : {
+    "en" : "You have requested for approval to post the article. It will be posted after the administrator approves of it.",
+    "ja" : "掲示物登録の承認を要請しました。管理者の承認後に登録されます。",
+    "vi" : "Đã yêu cầu chấp nhận đăng bài viết. Bạn có thể đăng bài sau khi quản trị viên chấp nhận.",
+    "zh" : "邀请了登录公告内容承认。管理者承认后会被登录。"
+  },
+  "작&nbsp;&nbsp;성&nbsp;&nbsp;일" : {
+    "en" : "Date",
+    "ja" : "作&nbsp;&nbsp;成&nbsp;&nbsp;日",
+    "vi" : "Ngày viết",
+    "zh" : "制&nbsp;&nbsp;作&nbsp;&nbsp;日"
+  },
+  "소유스페이스 변경" : {
+    "en" : "Change your Space",
+    "ja" : "所有スペース変更",
+    "vi" : "Thay đổi Space sở hữu",
+    "zh" : "变更所有空间"
+  },
+  "설문 주제" : {
+    "en" : "Survey title",
+    "ja" : "アンケートテーマ",
+    "vi" : "Chủ đề khảo sát",
+    "zh" : "设问主题"
+  },
+  "산악지방 표준시" : {
+    "en" : "Mountain Standard Time",
+    "ja" : "山岳地方標準時刻",
+    "vi" : "Giờ chuẩn khu vực miền núi",
+    "zh" : "山岳地区  标准时"
+  },
+  "평가" : {
+    "en" : "Rate",
+    "ja" : "評価",
+    "vi" : "Đánh giá",
+    "zh" : "评价"
+  },
+  "상품 구매 신청이 취소 되었습니다." : {
+    "en" : "Product purchase application has been canceled.",
+    "ja" : "商品購入申請がキャンセルされました。",
+    "vi" : "Đề xuất mua sản phẩm đã bị hủy.",
+    "zh" : "购买商品申请已取消。"
+  },
+  "mp4형식만 첨부가 가능합니다." : {
+    "en" : "Only mp4. files can be attached.",
+    "ja" : "mp4形式のみ添付できます。",
+    "vi" : "Chỉ có thể đính kèm định dạng mp4",
+    "zh" : "mp4形式才能附加。"
+  },
+  "등록한 질문 삭제시 해당 질문을 통해 등록자에게 부여한 마일리지" : {
+    "en" : "Mileage given to the user who posted the question when deleting the question",
+    "ja" : "登録した質問の削除時に、当該質問によって登録者に付与したマイレージ",
+    "vi" : "Số dặm cấp cho người dùng thông qua câu hỏi tương ứng khi xóa câu hỏi đã đăng",
+    "zh" : "删除登录的答复时通过有关答复给登录者赋予的积分"
+  },
+  "게시물 등록시 게시판 사용자들에게 게시물 등록을 쪽지로 알립니다." : {
+    "en" : "When a new post is added, a notification message will be sent to all board users.",
+    "ja" : "記事の登録時、掲示板のユーザーに記事登録をメッセージで通知します。",
+    "vi" : "Thông báo đăng bằng tin nhắn đến người sử dụng bảng tin khi đăng bài.",
+    "zh" : "登录布告内容时给布告栏使用者发布告内容登录纸条。"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "첨부초기화" : {
+    "en" : "Reset attachments",
+    "ja" : "添付初期化",
+    "vi" : "Đặt lại tệp đính kèm",
+    "zh" : "附加初始化"
+  },
+  "공유자 정보가 변경되어 게시글 대리인 정보를 초기화합니다." : {
+    "en" : "The posting agent information will be reset due to the changes made to the sharer's information.",
+    "ja" : "共有者情報をリセットし、記事代理人情報を初期化します。",
+    "vi" : "Thông tin người đại diện đăng bài đã được khởi tạo do thông tin người chia sẻ có thay đổi.",
+    "zh" : "由于共有人的信息有变更而把帖子代理人的信息也进行初始化。"
+  },
+  "채택받음" : {
+    "en" : "Chosen",
+    "ja" : "選択される",
+    "vi" : "Được chọn",
+    "zh" : "受到采取"
+  },
+  "세로 분할" : {
+    "en" : "Vertical Split",
+    "ja" : "縦分割",
+    "vi" : "Chia dọc",
+    "zh" : "竖分割"
+  },
+  "댓글 첨부파일명" : {
+    "en" : "Attachment Name (to comment)",
+    "ja" : "コメントのファイルの添付名",
+    "vi" : "Tên tệp đính kèm vào bình luận",
+    "zh" : "回帖附加文档"
+  },
+  "하위 게시판의 글 목록 제공" : {
+    "en" : "Provide a list of posts in the sub-bulletin board",
+    "ja" : "下位掲示板の記事リスト提供",
+    "vi" : "Cung cấp danh sách bài đăng của bảng tin dưới.",
+    "zh" : "给下位布告栏提供文章目录"
+  },
+  "부동소수점 숫자를 입력하세요." : {
+    "en" : "Please enter a floating point number.",
+    "ja" : "浮動小数点数を入力してください。",
+    "vi" : "Hãy nhập số thực dấu phẩy động",
+    "zh" : "请输入浮点数字。"
+  },
+  "게시물등록 요청이 반려되었습니다." : {
+    "en" : "Post registration request has been rejected.",
+    "ja" : "投稿登録リクエストが却下されました。",
+    "vi" : "Yêu cầu đăng ký bài viết đã bị từ chối.",
+    "zh" : "帖子注册请求已拒绝。"
+  },
+  "보안게시" : {
+    "en" : "Private Post",
+    "ja" : "セキュリティ掲示",
+    "vi" : "Nội dung bảo mật",
+    "zh" : "保安布告"
+  },
+  "메모를 입력하세요." : {
+    "en" : "Write a memo.",
+    "ja" : "メモを入力してください。",
+    "vi" : "Hãy nhập ghi chú",
+    "zh" : "请输入留言"
+  },
+  "체크한 폴더는 트리에서 펼친 상태로 보여집니다." : {
+    "en" : "Checked folders will be seen unfolded in the Tree.",
+    "ja" : "チェックしたフォルダは、ツリーで広げた状態に表示されます。",
+    "vi" : "Thư mục đã chọn được hiển thị với trạng thái bung ra từ cây thư mục.",
+    "zh" : "打钩的文件夹在树形表示为打开的状态。"
+  },
+  "양식함" : {
+    "en" : "Formbox",
+    "ja" : "フォームBox",
+    "vi" : "Hộp bản mẫu",
+    "zh" : "样式箱"
+  },
+  "비밀번호 입력" : {
+    "en" : "Enter password",
+    "ja" : "パスワード入力",
+    "vi" : "Nhập mật khẩu",
+    "zh" : "输入密码"
+  },
+  "{0} 상태로 처리했습니다." : {
+    "en" : "It has been processed as {0}.",
+    "ja" : "{0} 状態に処理しました。",
+    "vi" : "Đã xử lý sang trạng thái {0}",
+    "zh" : "处理为{0}的状态了。"
+  },
+  "파일등록" : {
+    "en" : "Add files",
+    "ja" : "ファイル登録",
+    "vi" : "đăng tệp",
+    "zh" : "登录文档"
+  },
+  "하위 의견과 함께 삭제됩니다. 게시물을 삭제하시겠습니까?" : {
+    "en" : "It will be deleted with the comments below together. Do you want to delete the article?",
+    "ja" : "下部の意見も一緒に削除されます. 掲示物を削除しますか",
+    "vi" : "Bị xóa cùng ý kiến bên dưới. Bạn có muốn xóa bài đăng không?",
+    "zh" : "会跟下位意见一起删除。要删除布告内容吗？"
+  },
+  "추천" : {
+    "en" : "Recommend",
+    "ja" : "おすすめ",
+    "vi" : "Đề cử",
+    "zh" : "推荐"
+  },
+  "리스트" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "列表"
+  },
+  "판매중" : {
+    "en" : "On sale",
+    "ja" : "販売中",
+    "vi" : "Đang bán",
+    "zh" : "销售中"
+  },
+  "게시자료 카운트" : {
+    "en" : "Posts Count",
+    "ja" : "掲示資料のカウント",
+    "vi" : "Bộ đếm tư liệu đăng",
+    "zh" : "布告资料计数"
+  },
+  "질문 등록" : {
+    "en" : "Add Questions",
+    "ja" : "質問登録",
+    "vi" : "Đăng câu hỏi",
+    "zh" : "登录提问"
+  },
+  "등록을 승인했습니다." : {
+    "en" : "The post has been approved.",
+    "ja" : "登録を承認しました。",
+    "vi" : "Đã duyệt đăng bài",
+    "zh" : "登录已承认。"
+  },
+  "기존 이미지" : {
+    "en" : "Current images",
+    "ja" : "既存の画像",
+    "vi" : "Hình ảnh có sẵn",
+    "zh" : "现有图像"
+  },
+  "작성중인 내용을 임시저장하시겠습니까?" : {
+    "en" : "Would you like to save your draft?",
+    "ja" : "作成中の内容を下書き保存しますか？",
+    "vi" : "Bạn có muốn lưu tạm thời nội dung đang viết không?",
+    "zh" : "要临时保存进行中的内容吗？"
+  },
+  "실명 데이터는 저장되며, 화면에서만 익명 처리됩니다. 단, 익명 속성을 해제하면 실명으로 표시됩니다." : {
+    "en" : "Real name data is stored and displayed anonymously only on the screen. However, if you disable the 'Write as Anonymous' feature, it will be displayed as a real name.",
+    "ja" : "実名データは保存され、画面でのみ匿名になります。ただし、匿名プロパティを解除すると実名が表示されます。",
+    "vi" : "Dữ liệu tên thật được lưu và chỉ được giấu tên trên màn hình. Tuy nhiên, nếu gỡ thuộc tính ẩn danh thì tên thật sẽ được hiển thị.",
+    "zh" : "实名数据将被保存，且仅于画面进行匿名处理。但，若解除匿名属性，将以实名显示。"
+  },
+  "체크한 게시판에 등록된 글은 관심 게시함을 통해 통합하여 조회할 수 있습니다." : {
+    "en" : "You can view all checked messages in your 'Interesting Posts' board.",
+    "ja" : "チェックした掲示板に登録された記事は、お気に入り掲示板を通じて統合して照会できます。",
+    "vi" : "Bài viết được đăng trên bảng tin đã tích chọn có thể tổng hợp và xem thông qua Hộp bài đăng quan tâm.",
+    "zh" : "打钩的布告栏上登录的文章通过关心布告箱可以联合查询。"
+  },
+  "등록" : {
+    "en" : "Add",
+    "ja" : "登録",
+    "vi" : "Đăng ký",
+    "zh" : "登录"
+  },
+  "게시함을 선택해주세요." : {
+    "en" : "Please select a postbox",
+    "ja" : "掲示板を選択してください。",
+    "vi" : "Vui lòng chọn hộp thông báo.",
+    "zh" : "请选择公告箱。"
+  },
+  "게시기한" : {
+    "en" : "Posting period",
+    "ja" : "掲示期限",
+    "vi" : "Thời hạn đăng bài",
+    "zh" : "公告期限"
+  },
+  "게시글 작성 시, 기본값으로 사용할 분류를 지정합니다." : {
+    "en" : "Specify the classification to be used as the default when writing a post.",
+    "ja" : "投稿の作成時に、デフォルト値として使用するカテゴリーを指定します。",
+    "vi" : "Chỉ định phân loại sử dụng mặc định khi viết một bài viết.",
+    "zh" : "在发布文章时，将指定分类用作默认值。"
+  },
+  "지식평가" : {
+    "en" : "Rate knowledge",
+    "ja" : "知識評価",
+    "vi" : "Đánh giá kiến thức",
+    "zh" : "评价知识"
+  },
+  "게시판 기본환경 설정" : {
+    "en" : "Default Preferences Setting (Bulletin Board)",
+    "ja" : "掲示板の基本環境設定",
+    "vi" : "Cài đặt môi trường cá nhân của bảng tin",
+    "zh" : "设定布告栏基本环境"
+  },
+  "게시판 추가" : {
+    "en" : "Add board",
+    "ja" : "掲示板追加",
+    "vi" : "Thêm bảng tin",
+    "zh" : "追加公告栏"
+  },
+  "중부 표준시_미국/캐나다" : {
+    "en" : "Central Standard Time_USA/Canada",
+    "ja" : "中部標準時刻_アメリカ/カナダ",
+    "vi" : "Giờ tiêu chuẩn trung bộ- Mỹ/ Canada",
+    "zh" : "中部标准时间-美国/加拿大"
+  },
+  "상세검색" : {
+    "en" : "Advanced search",
+    "ja" : "詳細検索",
+    "vi" : "Tìm kiếm chi tiết",
+    "zh" : "详细搜索"
+  },
+  "전체 할당용량" : {
+    "en" : "Total space allocated",
+    "ja" : "全体割当容量",
+    "vi" : "Toàn bộ dung lượng phân bổ",
+    "zh" : "全体分配用量"
+  },
+  "선택한 폴더를 대상 폴더의 하위로 이동합니다." : {
+    "en" : "Move the selected folder to the sub(folder) of the target folder.",
+    "ja" : "選択したフォルダを対象フォルダの下位に移動します。",
+    "vi" : "Di chuyển thự mục đã chọn vào bên trong thư mục đối tượng.",
+    "zh" : "把您选择的文件夹移动到对象文件夹的下位。"
+  },
+  "색상코드" : {
+    "en" : "Color code",
+    "ja" : "カラーコード",
+    "vi" : "mã màu",
+    "zh" : "颜色代码"
+  },
+  "게시판형" : {
+    "en" : "Board type",
+    "ja" : "掲示板型",
+    "vi" : "Dạng Bảng Tin",
+    "zh" : "公告栏型"
+  },
+  "{0}번" : {
+    "en" : "{0}",
+    "ja" : "{0} 番",
+    "vi" : "{0}  lần",
+    "zh" : "（0）号"
+  },
+  "신청일" : {
+    "en" : "Date of Application",
+    "ja" : "申請日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "申请日"
+  },
+  "같은 폴더로 이동할 수 없습니다." : {
+    "en" : "Cannot move to the same folder.",
+    "ja" : "同じフォルダに移動できません。",
+    "vi" : "Không thể di chuyển sang cùng 1 thư mục",
+    "zh" : "不可移动到一样的文件夹上。"
+  },
+  "게시판 수정" : {
+    "en" : "Edit Board",
+    "ja" : "掲示板の修正",
+    "vi" : "Chỉnh sửa Bảng tin",
+    "zh" : "修改布告栏"
+  },
+  "최근 1개월 정보만 출력, 검색시 모든 정보 조회 가능" : {
+    "en" : "Only the last one month information can be printed and all information can be retrieved when searching.",
+    "ja" : "最近の1か月の情報のみアウトプット、検索の際、すべての情報の照会可能",
+    "vi" : "Chỉ có thể in thông tin trong vòng một tháng và có thể được truy xuất tất cả thông tin.",
+    "zh" : "仅打印近1个月内的信息，搜索时可查询所有信息"
+  },
+  "게시물에 답변이 등록되었습니다." : {
+    "en" : "Reply has been registered on the post.",
+    "ja" : "投稿に回答が登録されました。",
+    "vi" : "Phản hồi đã được đăng ký trên bài viết.",
+    "zh" : "帖子已有回复。"
+  },
+  "상품 구매 신청이 완료 되었습니다." : {
+    "en" : "Product purchase application has been completed.",
+    "ja" : "商品購入申請が完了しました。",
+    "vi" : "Đề xuất mua sản phẩm đã được hoàn thành.",
+    "zh" : "购买商品申请已完成。"
+  },
+  "하위부서포함" : {
+    "en" : "Include sub-departments",
+    "ja" : "下部の部署を含む",
+    "vi" : "Bao gồm phòng ban trực thuộc",
+    "zh" : "包括下位"
+  },
+  "게시판 템플릿의 이름을 수정하거나 삭제할 수 있습니다." : {
+    "en" : "You can modify the name of the template, or even delete it.",
+    "ja" : "掲示板テンプレートの名前を修正したり削除する事が出来ます。",
+    "vi" : "Có thể sửa hoặc xóa tên bản mẫu của bảng tin.",
+    "zh" : "可以修改或删除布告板模板的名字。"
+  },
+  "최종 확인" : {
+    "en" : "Last checked",
+    "ja" : "最終確認",
+    "vi" : "Kiểm tra lần cuối",
+    "zh" : "最终确认"
+  },
+  "분류 변경" : {
+    "en" : "Change categories",
+    "ja" : "カテゴリ変更",
+    "vi" : "Thay đổi phân loại",
+    "zh" : "变更分类"
+  },
+  "동영상은 블럭에디터에서 지원하지 않습니다." : {
+    "en" : "Videos are not supported in the block editor.",
+    "ja" : "動画はブロックエディターでサポートしません。",
+    "vi" : "Video không được hỗ trợ trong trình soạn thảo văn bản ở dạng khối (Block Editor).",
+    "zh" : "块编辑器不支持视频。"
+  },
+  "신청승인" : {
+    "en" : "Date",
+    "ja" : "申請日",
+    "vi" : "Chấp thuận đăng ký",
+    "zh" : "申请日"
+  },
+  "목록의 상단과 목록의 원래 위치에 함께 노출" : {
+    "en" : "Show at the top of the page AND the original position of the list.",
+    "ja" : "リストの上部とリストの元の位置を一緒に表示",
+    "vi" : "Chỉ hiển thị ở vị trí phía trên của danh sách và vị trí ban đầu của danh sách",
+    "zh" : "在目录上端和目录原来位置上同时显示"
+  },
+  "반려의견은 한글 665자, 영문 2000자 이내로 작성해주세요." : {
+    "en" : "Your opinion for rejection must be less than 665 Korean characters or 2000 English characters.",
+    "ja" : "差戻し意見はハングル665文字、英文2000文字以内で作成してください。",
+    "vi" : "Hãy viết ý kiến từ chối dưới 665 chữ tiếng Hàn hoặc dưới 2000 chữ tiếng Anh.",
+    "zh" : "书写退回意见时请保持在韩文665字,英文2000字以内。"
+  },
+  "익명 게시판" : {
+    "en" : "Anonymous bulletin board",
+    "ja" : "匿名掲示板",
+    "vi" : "Bảng thông báo ẩn danh",
+    "zh" : "匿名公告栏"
+  },
+  "그룹게시글 팝업 공지는 전 계열사에 공개됩니다. 게시판 권한을 따르지 않습니다." : {
+    "en" : "The group bulletin board pop-up notifications are made public across all affiliated companies and do not adhere to board permissions.",
+    "ja" : "グループ掲示板のポップアップお知らせは、全ての系列社に公開されます。掲示板の権限にしたがいません。",
+    "vi" : "Thông báo pop-up bài viết nhóm sẽ không tuân theo quyền hạn của bảng thông báo mà được công khai với toàn bộ các công ty thành viên.",
+    "zh" : "群组帖子的弹窗公告向全体关联公司公开。不遵循论坛权限。"
+  },
+  "분류를 선택하세요." : {
+    "en" : "Select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn phân loại",
+    "zh" : "请选择分类。"
+  },
+  "분류 위치" : {
+    "en" : "Category Location",
+    "ja" : "カテゴリ位置",
+    "vi" : "phân loại vị trí",
+    "zh" : "分类位置"
+  },
+  "{0}님이 게시물등록 승인을 요청하였습니다." : {
+    "en" : "{0} has requested for approval to post an article",
+    "ja" : "{0}さんが掲示物登録の承認を要請しました。",
+    "vi" : "Anh/chị {0} đã yêu cầu chấp thuận bài đăng",
+    "zh" : "{0}邀请了登录公告内容承认。"
+  },
+  "게시판 첫 화면" : {
+    "en" : "Bulletin Board Home",
+    "ja" : "掲示板のホーム画面",
+    "vi" : "Màn hình đầu tiên của bảng tin",
+    "zh" : "布告栏主画面"
+  },
+  "원본글" : {
+    "en" : "Original message",
+    "ja" : "元記事",
+    "vi" : "Bài viết gốc",
+    "zh" : "原本文章"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Lựa chọn",
+    "zh" : "选项"
+  },
+  "글 목록화면 디자인에서 변경가능합니다." : {
+    "en" : "You can make changes in the Message List Screen Design.",
+    "ja" : "記事リストの画面デザインで変更できます。",
+    "vi" : "Có thể thay đổi trong thiết kế màn hình danh sách bài viết.",
+    "zh" : "在文章目录画面设计上可以变更。"
+  },
+  "대여신청" : {
+    "en" : "Request to Borrow",
+    "ja" : "貸し出し申請",
+    "vi" : "Đăng kí thuê",
+    "zh" : "申请出租"
+  },
+  "댓글 내용을 입력하세요." : {
+    "en" : "Enter a comment.",
+    "ja" : "コメント内容を入力してください。",
+    "vi" : "Hãy nhập nội dung bình luận",
+    "zh" : "请输入回帖内容。"
+  },
+  "이 게시물의 주소가 복사되었습니다.\\n게시판이나 메신저 창에서 Ctrl+V를 눌러보세요." : {
+    "en" : "The URL of this post has been copied. \\n Press Ctrl+V on the bulletin board or Messenger to paste.",
+    "ja" : "この記事のアドレスがコピーされました。\\ n掲示板やメッセンジャーのウィンドウでCtrl + Vを押してみてください。",
+    "vi" : "URL của bài viết này đã được sao chép.\\n Vui lòng nhấn nút Ctrl + V trên bảng tin thông báo hoặc Messenger để dán.",
+    "zh" : "这个帖子的地址拷贝完了。\\n请在布告栏或聊天工具窗按Ctrl+V。"
+  },
+  "게시판 분류를 일괄 변경합니다. 해당 게시판에서 사용하는 분류를 선택한 분류로 변경합니다." : {
+    "en" : "Change the category of the board in bulk. Change the category used in the specific board to the selected category.",
+    "ja" : "掲示板の分類を一括で変更します。該当掲示板で使用する分類を選択した分類に変更します。",
+    "vi" : "Thay đổi phân loại bảng tin đồng loạt. Thay đổi phân loại được sử dụng trên bảng tin này sang phân loại đã chọn.",
+    "zh" : "将论坛分类统一更改。选择该论坛使用的分类，并更改为所选分类。"
+  },
+  "개인정보의 기념일(생일, 결혼기념일)에 설정된 축하글이 자동으로 게시됩니다." : {
+    "en" : "Congratulatory messages will be sent automatically based on the anniversaries (birthday, wedding anniversary) set in your personal information.",
+    "ja" : "個人情報の記念日（誕生日、結婚記念日）に設定されたお祝い文が自動的に表示されます。",
+    "vi" : "Lời chúc được cài đặt ở ngày kỷ niệm của thông tin cá nhân (sinh nhật, ngày kết hôn) sẽ được đăng tự động.",
+    "zh" : "个人信息的纪念日(生日, 结婚纪念日)上设定的祝贺文章会自动表示。"
+  },
+  "이다" : {
+    "en" : "is",
+    "ja" : "である",
+    "vi" : "Là",
+    "zh" : "是"
+  },
+  "덧글취소" : {
+    "en" : "Cancel comment",
+    "ja" : "コメントキャンセル",
+    "vi" : "Hủy bình luận",
+    "zh" : "取消回帖"
+  },
+  "분류 일괄 변경" : {
+    "en" : "Bulk Category Change",
+    "ja" : "分類一括変更",
+    "vi" : "Thay đổi phân loại đồng loạt",
+    "zh" : "分类批量更改"
+  },
+  "핫라인 사용자" : {
+    "en" : "Hotline user",
+    "ja" : "ホットラインユーザー",
+    "vi" : "Người dùng đường dây nóng",
+    "zh" : "热线使用者"
+  },
+  "첨부용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付容量",
+    "vi" : "Dung lượng đính kèm",
+    "zh" : "附加用量"
+  },
+  "{0}님의 신청 처리결과입니다" : {
+    "en" : "A result has came out for Mr. / Ms. {0}'s request.",
+    "ja" : "{0}さんの申込処理結果です",
+    "vi" : "Đây là kết quả xử lý đăng ký của anh/chị {0}",
+    "zh" : "{0}先生、女士的申请处理结果。"
+  },
+  "예약종료일자를 입력해주세요." : {
+    "en" : "Enter an end date for booking.",
+    "ja" : "予約終了日を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc đặt trước.",
+    "zh" : "请输入预订结束日子。"
+  },
+  "사용자 지식평가 점수를 선택하세요." : {
+    "en" : "Please, select the user knowledge rating score.",
+    "ja" : "ユーザーの知識評価スコアを選択してください。",
+    "vi" : "Hãy chọn điểm số đánh giá kiến thức người dùng.",
+    "zh" : "请选择使用者知识评价分数。"
+  },
+  "신청승인사용자" : {
+    "en" : "User who have requested for approval",
+    "ja" : "申請承認のユーザー",
+    "vi" : "Người dùng chấp nhận đăng ký",
+    "zh" : "申请承认使用者"
+  },
+  "메일주소" : {
+    "en" : "E-mail address",
+    "ja" : "メールアドレス",
+    "vi" : "Địa chỉ mail",
+    "zh" : "邮件地址。"
+  },
+  "예약게시" : {
+    "en" : "Schedule Post",
+    "ja" : "予約掲示",
+    "vi" : "Đăng Đặt trước",
+    "zh" : "预订布告"
+  },
+  "최초 확인" : {
+    "en" : "First checked",
+    "ja" : "最初の確認",
+    "vi" : "Kiểm tra lần đầu tiên",
+    "zh" : "最初确认"
+  },
+  "결과 표시방법" : {
+    "en" : "Result display method",
+    "ja" : "結果表示方法",
+    "vi" : "Phương thức hiển thị kết quả",
+    "zh" : "结果表示方法"
+  },
+  "등록승인 사용자" : {
+    "en" : "Approval for posting users",
+    "ja" : "登録承認のユーザー",
+    "vi" : "Người dùng chấp nhận đăng",
+    "zh" : "登录承认使用者"
+  },
+  "익명 게시글을 제외하고 읽음처리를 했습니다." : {
+    "en" : "All the posts have been marked read except for anonymous posts.",
+    "ja" : "匿名投稿以外を既読に処理しました。",
+    "vi" : "Đã xử lý đã đọc trừ những bài viết ẩn danh.",
+    "zh" : "除匿名贴文外，均已做已读处理。"
+  },
+  "게시판 공유자는 중요 공지를 모두 볼 수 있습니다." : {
+    "en" : "Board sharers have access to view all important notices.",
+    "ja" : "掲示板の共有者は、全ての重要なお知らせを閲覧することができます。",
+    "vi" : "Người chia sẻ bảng tin có quyền truy cập xem tất cả các thông báo quan trọng.",
+    "zh" : "论坛共享者可以查看所有重要通知。"
+  },
+  "대여 관리자" : {
+    "en" : "Administrator (Borrow/Lend)",
+    "ja" : "貸出し管理者",
+    "vi" : "Quản trị viên Mượn",
+    "zh" : "出租管理者"
+  },
+  "관리자만 공지 등록" : {
+    "en" : "Only administrators can add notices.",
+    "ja" : "管理者のみお知らせ登録",
+    "vi" : "Chỉ người quản lý mới có thể đăng thông  báo",
+    "zh" : "管理者才能登录通知"
+  },
+  "폴더경로" : {
+    "en" : "Folder path",
+    "ja" : "フォルダパス",
+    "vi" : "lộ trình thư mục",
+    "zh" : "文件夹路径"
+  },
+  "대여 등록되었습니다." : {
+    "en" : "Loan has been registered.",
+    "ja" : "貸出が登録されました。",
+    "vi" : "Mượn đã được đăng ký.",
+    "zh" : "租用已注册。"
+  },
+  "판매자" : {
+    "en" : "Seller",
+    "ja" : "販売者",
+    "vi" : "Người bán",
+    "zh" : "销售者"
+  },
+  "그룹" : {
+    "en" : "Group",
+    "ja" : "グループ",
+    "vi" : "Nhóm",
+    "zh" : "小组"
+  },
+  "파일을 선택하세요" : {
+    "en" : "Select a file.",
+    "ja" : "ファイルを選択してください。",
+    "vi" : "Hãy chọn tệp.",
+    "zh" : "请选择文档。"
+  },
+  "DLP 구분값 중복체크를 해주세요" : {
+    "en" : "Please check DLP duplicate values.",
+    "ja" : "DLP区分値の重複チェックをしてください。",
+    "vi" : "Xin hãy kiểm tra trùng lặp giá trị phân loại DLP.",
+    "zh" : "请在DLP区分值上重复画钩。"
+  },
+  "태그 기능" : {
+    "en" : "Tag function",
+    "ja" : "タグ機能",
+    "vi" : "Tính năng tag",
+    "zh" : "标记技能"
+  },
+  "상품명을 입력하세요." : {
+    "en" : "Enter a product name.",
+    "ja" : "商品名を入力してください。",
+    "vi" : "Hãy nhập tên sản phẩm",
+    "zh" : "请输入商品名。"
+  },
+  "첨부파일" : {
+    "en" : "Attachments",
+    "ja" : "添付ファイル",
+    "vi" : "Tệp đính kèm",
+    "zh" : "附件"
+  },
+  "등록자에게 사용자 평가점수" : {
+    "en" : "Registrar to grant the User rating",
+    "ja" : "登録者にユーザーの評価点数",
+    "vi" : "Điểm đánh giá người dùng cho người đăng ký",
+    "zh" : "给登录人使用者评价分数"
+  },
+  "생일" : {
+    "en" : "Birthday",
+    "ja" : "誕生日",
+    "vi" : "Sinh nhật",
+    "zh" : "生日"
+  },
+  "게시물을 수정했습니다." : {
+    "en" : "Post has been modified.",
+    "ja" : "投稿を編集しました。",
+    "vi" : "Bài viết đã được chỉnh sửa.",
+    "zh" : "已编辑帖子。"
+  },
+  "등록요청" : {
+    "en" : "Request Upload",
+    "ja" : "登録リクエスト",
+    "vi" : "Yêu cầu đăng",
+    "zh" : "邀请登录"
+  },
+  "의견작성" : {
+    "en" : "Write an opinion",
+    "ja" : "意見作成",
+    "vi" : "Viết ý kiến",
+    "zh" : "写意见"
+  },
+  "설문 작성" : {
+    "en" : "Create a survey",
+    "ja" : "アンケート作成",
+    "vi" : "Viết khảo sát",
+    "zh" : "写问卷"
+  },
+  "기본 컬럼 설정" : {
+    "en" : "Default column settings",
+    "ja" : "基本カラム設定",
+    "vi" : "Cài đặt cột cơ bản",
+    "zh" : "设定默认专栏"
+  },
+  "태그를 입력하세요." : {
+    "en" : "Enter a tag.",
+    "ja" : "タグを入力してください。",
+    "vi" : "Hãy nhập tag",
+    "zh" : "请输入标记。"
+  },
+  "통합에서 링크게시로 유형 변경할때 기능이 제한됩니다." : {
+    "en" : "When you change the type from 'Integrated' to 'Post Link', the function will be restricted.",
+    "ja" : "統合掲示からリンク掲示にタイプ変更する場合は機能が制限されます。",
+    "vi" : "Khi thay đổi kiểu đăng từ tích hợp sang sạng link, tính năng sẽ bị hạn chế.",
+    "zh" : "在整合变更为链接公告类型时功能会有限制。"
+  },
+  "게시기한까지" : {
+    "en" : "Until Post Deadline",
+    "ja" : "掲示物期限まで",
+    "vi" : "Cho đến khi hết hạn đăng",
+    "zh" : "公告内容期限"
+  },
+  "글 목록화면" : {
+    "en" : "Message List Screen",
+    "ja" : "記事リスト画面",
+    "vi" : "Màn hình danh sách bài viết",
+    "zh" : "文章目录画面"
+  },
+  "글 이동" : {
+    "en" : "Move Article",
+    "ja" : "記事移動",
+    "vi" : "Di chuyển bài viết",
+    "zh" : "移动文章"
+  },
+  "펼침" : {
+    "en" : "Unfold",
+    "ja" : "開く",
+    "vi" : "Bung ra",
+    "zh" : "打开"
+  },
+  "{0}에 신규 게시물이 등록되었습니다." : {
+    "en" : "A new article has been added to {0}",
+    "ja" : "{0}に新規掲示物が登録されました。",
+    "vi" : "Có bài viết mới được đăng trên {0}",
+    "zh" : "{0}上新的公告内容登录完了。"
+  },
+  "태그를 입력한 후 콤마(,) 세미콜론(;)으로 구분합니다. 태그는 최대 30개까지 입력 가능합니다." : {
+    "en" : "Enter tags and separate them with a comma (,) or a semicolon(;). You can enter up to 30 tags.",
+    "ja" : "タグを入力した後、コンマ(,)、セミコロン(;)で区別します。タグは最大30個まで入力できます。",
+    "vi" : "Sau khi nhập tag, hãy phân biệt bằng dấu phẩy(,) dấu chấm phẩy(;). Có thể nhập tối đa 30 tag",
+    "zh" : "输入标记后利用逗号(,) 分号(;)来区分。标记最多可以输入30个。"
+  },
+  "안읽은 게시" : {
+    "en" : "Unread Posts",
+    "ja" : "未読掲示",
+    "vi" : "Bài viết chưa đọc",
+    "zh" : "没读的布告"
+  },
+  "계속 진행하시겠습니까?" : {
+    "en" : "Do you want to continue?",
+    "ja" : "続行しますか？",
+    "vi" : "Bạn có muốn tiếp tục không?",
+    "zh" : "要继续进行吗？"
+  },
+  "[컬럼 선택] 레이어의 좌측 '선택 컬럼' 에서 글 목록 화면에 표시될 컬럼을 체크합니다." : {
+    "en" : "Check the column to be displayed on the text list screen from the left hand side 'Select column' of the [Select Column] layer",
+    "ja" : "「カラム選択」レイヤー左側の「選択カラム」項目でテキスト目録画面に表すカラムをチェックします。",
+    "vi" : "Kiểm tra cột sẽ hiển thị trên màn hình danh sách bài viết tại  ' Cột chọn'  bên trái của ô [Chọn Cột].",
+    "zh" : "在[专栏选择]层的左侧‘选择专栏’中选择将显示到内容目录画面的专栏。"
+  },
+  "지정양식" : {
+    "en" : "Designated forms",
+    "ja" : "指定様式",
+    "vi" : "Bản mẫu chỉ định",
+    "zh" : "指定样式"
+  },
+  "등록취소" : {
+    "en" : "Undo Registration",
+    "ja" : "登録キャンセル",
+    "vi" : "Hủy đăng",
+    "zh" : "取消登录"
+  },
+  "복사" : {
+    "en" : "Copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "拷贝"
+  },
+  "목록 값" : {
+    "en" : "List value",
+    "ja" : "リスト値",
+    "vi" : "Giá trị mục lục",
+    "zh" : "目录价"
+  },
+  "보안 게시 조회를 위해 비밀번호를 입력해주세요." : {
+    "en" : "Enter PW for viewing Private Post",
+    "ja" : "保安掲示照会のため、パスワードを入力してください。",
+    "vi" : "Xin hãy nhập mật khẩu để xem bài viết bảo mật.",
+    "zh" : "请输入密码以进行安全提示查询。"
+  },
+  "콘도나 회사내 자원을 등록하여 사용 예약을 신청하고 승인하는 게시판입니다." : {
+    "en" : "Through this board, the user can request a reservation for a condo or other registered company resources.",
+    "ja" : "マンションや社内の資源を登録して使用予約を申請し、承認する掲示板です。",
+    "vi" : "Đăng ký một căn hộ hoặc tài nguyên riêng của công ty. Áp dụng cho cuộc hẹn đã sử dụng và phê duyệt.",
+    "zh" : "登录公寓式酒店或公司内的资源申请使用预约而承认的布告栏。"
+  },
+  "처리 결과" : {
+    "en" : "Result",
+    "ja" : "処理結果",
+    "vi" : "Kết quả xử lý",
+    "zh" : "处理结果"
+  },
+  "통합" : {
+    "en" : "Integrated",
+    "ja" : "統合",
+    "vi" : "Tổng hợp",
+    "zh" : "联合"
+  },
+  "해당 폴더에는 게시판을 생성할 수 없습니다." : {
+    "en" : "You cannot create a bulletin board in this folder.",
+    "ja" : "そのフォルダに掲示板を作成することはできません。",
+    "vi" : "Bạn không thể tạo bảng tin trong thư mục này.",
+    "zh" : "您无法在这些文件夹中创建公告栏。"
+  },
+  "최초 등록일 유지" : {
+    "en" : "Maintain registration date",
+    "ja" : "最初の登録日を維持",
+    "vi" : "Giữ ngày đăng ký ban đầu",
+    "zh" : "维持最初登录日"
+  },
+  "게시글 대리인" : {
+    "en" : "Posting agent",
+    "ja" : "記事代理人",
+    "vi" : "Người đại diện đăng bài",
+    "zh" : "帖子代理人"
+  },
+  "보안 게시 비밀번호 입력" : {
+    "en" : "Enter PW for Private Post",
+    "ja" : "保安掲示パスワードを入力",
+    "vi" : "Nhập mật khẩu bài viết bảo mật",
+    "zh" : "输入安全提示密码"
+  },
+  "상품 이미지" : {
+    "en" : "Product image",
+    "ja" : "商品画像",
+    "vi" : "Hình ảnh sản phẩm",
+    "zh" : "商品图像"
+  },
+  "분류 필수" : {
+    "en" : "Mandatory Classification",
+    "ja" : "カテゴリーの必須",
+    "vi" : "Phân loại bắt buộc",
+    "zh" : "必需分类"
+  },
+  "부서 게시판 관리" : {
+    "en" : "Manage department bulletin boards",
+    "ja" : "部署掲示板の管理",
+    "vi" : "Quản lý bảng tin phòng ban",
+    "zh" : "管理部门布告栏"
+  },
+  "읽지않은 신규댓글이 없습니다." : {
+    "en" : "There are no new comments that you haven't read.",
+    "ja" : "未読の新規コメントはありません。",
+    "vi" : "Không có bình luận mới nào chưa đọc",
+    "zh" : "不存在没读的新的回帖。"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "기능" : {
+    "en" : "Functions",
+    "ja" : "機能",
+    "vi" : "Tính năng",
+    "zh" : "技能"
+  },
+  "양식명" : {
+    "en" : "Form name",
+    "ja" : "フォーム名",
+    "vi" : "Tên bản mẫu",
+    "zh" : "样式名"
+  },
+  "할당량" : {
+    "en" : "Allocation",
+    "ja" : "割当量",
+    "vi" : "Lượng phân bổ",
+    "zh" : "配额"
+  },
+  "반납완료" : {
+    "en" : "Already returned",
+    "ja" : "返却完了",
+    "vi" : "Đã trả",
+    "zh" : "退还完毕"
+  },
+  "수정일로 변경" : {
+    "en" : "Change to Date Modified",
+    "ja" : "修正日に変更",
+    "vi" : "Thay đổi thành ngày chỉnh sửa",
+    "zh" : "变更为修改日"
+  },
+  "정상 게시판" : {
+    "en" : "Normal bulletin board",
+    "ja" : "正常掲示板",
+    "vi" : "Bảng tin bình thường",
+    "zh" : "正常布告栏"
+  },
+  "등록을 반려하시겠습니까?" : {
+    "en" : "Do you want to reject the post?",
+    "ja" : "登録を差戻しますか？",
+    "vi" : "Bạn có muốn từ chối đăng ký?",
+    "zh" : "要退回登录吗？"
+  },
+  "댓글 삭제" : {
+    "en" : "Delete Coment",
+    "ja" : "コメント削除",
+    "vi" : "Xóa bình luận",
+    "zh" : "删除回帖"
+  },
+  "분류명" : {
+    "en" : "Category name",
+    "ja" : "カテゴリ名",
+    "vi" : "Tên phân loại",
+    "zh" : "分类名"
+  },
+  "목록 설정" : {
+    "en" : "List settings",
+    "ja" : "リスト設定",
+    "vi" : "Cài đặt danh sách",
+    "zh" : "列表设置"
+  },
+  "글 작성 권한이 없습니다." : {
+    "en" : "You don't have permission to compose a message.",
+    "ja" : "記事の作成権限がありません。",
+    "vi" : "Bạn không có quyền viết bài.",
+    "zh" : "您没有权限写文章。"
+  },
+  "조회수" : {
+    "en" : "Views",
+    "ja" : "照会数",
+    "vi" : "Lượt xem",
+    "zh" : "查询数"
+  },
+  "폴더 위치" : {
+    "en" : "Folder location",
+    "ja" : "フォルダの位置",
+    "vi" : "Vị trí thư mục",
+    "zh" : "文件夹位置"
+  },
+  "예약 설정" : {
+    "en" : "Schedule settings",
+    "ja" : "予約設定",
+    "vi" : "Cài đặt Đặt trước",
+    "zh" : "设定预订"
+  },
+  "최신순" : {
+    "en" : "Recent",
+    "ja" : "新着順",
+    "vi" : "Thứ tự mới nhất",
+    "zh" : "最新顺"
+  },
+  "명" : {
+    "en" : "people",
+    "ja" : "人",
+    "vi" : "tên/người",
+    "zh" : "名"
+  },
+  "첨부 개수를 선택하세요." : {
+    "en" : "Select the number of attachments.",
+    "ja" : "添付数を選択してください。",
+    "vi" : "Hãy chọn số đính kèm",
+    "zh" : "请选择附加个数。"
+  },
+  "공유안함" : {
+    "en" : "Do not share",
+    "ja" : "共有しない",
+    "vi" : "Không chia sẻ",
+    "zh" : "不共有"
+  },
+  "RSS게시판" : {
+    "en" : "RSS Board",
+    "ja" : "RSS掲示板",
+    "vi" : "Bảng tin RSS",
+    "zh" : "RSS布告栏"
+  },
+  "커뮤니티" : {
+    "en" : "Communities",
+    "ja" : "コミュニティ",
+    "vi" : "Cộng đồng",
+    "zh" : "社区"
+  },
+  "게시글을 복원할 게시판을 선택하세요." : {
+    "en" : "Please select the board where you want to restore your post.",
+    "ja" : "投稿を復元する掲示板を選択します。",
+    "vi" : "Hãy chọn bảng tin cần phục hồi bài đăng.",
+    "zh" : "请选择要复原帖子的留言板。"
+  },
+  "게시판 사용통계" : {
+    "en" : "Bulletin board usage statistics",
+    "ja" : "掲示板の使用統計",
+    "vi" : "Thống kê sử dụng bảng tin",
+    "zh" : "布告栏使用统计"
+  },
+  "가나다순" : {
+    "en" : "By alphabetical order",
+    "ja" : "五十音順",
+    "vi" : "Theo thứ tự bảng chữ cái",
+    "zh" : "字母顺"
+  },
+  "목록 정보표시" : {
+    "en" : "Show List Information",
+    "ja" : "リスト情報表示",
+    "vi" : "Hiển thị thông tin danh sách",
+    "zh" : "表示目录信息"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "현재 권한으로 이동 됨으로 이동 후 필요한 권한을 설정 해야 됩니다. 이동하시겠습니까?" : {
+    "en" : "You are currently moving with your current permissions. You need to set the necessary permissions after the move. Do you want to proceed with the move?",
+    "ja" : "現在の権限に移動されることで、移動後、必要な権限を設定する必要があります。移動しますか。",
+    "vi" : "Bạn đang di chuyển với quyền hiện tại của mình. Bạn cần thiết lập các quyền cần thiết sau khi di chuyển. Bạn có muốn tiếp tục di chuyển không?",
+    "zh" : "已使用当前权限移动。您必须重新设置所需权限。您要继续吗？"
+  },
+  "게시글" : {
+    "en" : "Posts",
+    "ja" : "ポスト",
+    "vi" : "Bài viết",
+    "zh" : "帖子"
+  },
+  "축하자" : {
+    "en" : "Congratulator",
+    "ja" : "祝賀者",
+    "vi" : "Người chúc mừng",
+    "zh" : "祝贺者"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "Danh sách chọn",
+    "zh" : "选择目录"
+  },
+  "답변을 확인하려면 아래 게시물보기를 클릭하세요." : {
+    "en" : "To see the answer, click the 'View Article' button below.",
+    "ja" : "回答を確認するには、下の記事表示をクリックしてください。",
+    "vi" : "Nếu muốn kiểm tra câu trả lời hãy nhấp chọn thông tin bài đăng dưới đây.",
+    "zh" : "要确认答复的话，请点击下边收看布告内容。"
+  },
+  "처리할 양식을 선택하세요." : {
+    "en" : "Select a form to process.",
+    "ja" : "処理するフォームを選択してください。",
+    "vi" : "Hãy chọn bản mẫu để xử lý.",
+    "zh" : "请选择要处理的样式。"
+  },
+  "찬성" : {
+    "en" : "Agree",
+    "ja" : "賛成",
+    "vi" : "Tán thành",
+    "zh" : "赞成"
+  },
+  "글 조회화면 디자인" : {
+    "en" : "Message View Screen Design",
+    "ja" : "記事照会の画面デザイン",
+    "vi" : "Thiết kế màn hình xem bài viết",
+    "zh" : "文章查询画面设计"
+  },
+  "검색 시작 일자를 입력하세요." : {
+    "en" : "Enter a start date for your search.",
+    "ja" : "検索開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu tìm kiếm",
+    "zh" : "请输入搜索开始日子。"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "chọn ngày tháng",
+    "zh" : "选择日期"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "에디터 / 본문 영역" : {
+    "en" : "Editor/Body area",
+    "ja" : "エディタ/本文領域",
+    "vi" : "trình soạn thảo / phần nội dung chính",
+    "zh" : "编辑器/本文 领域"
+  },
+  "이미 추가했습니다." : {
+    "en" : "It has already been added.",
+    "ja" : "すでに追加しました。",
+    "vi" : "Bạn đã thêm trước rồi.",
+    "zh" : "已经追加了。"
+  },
+  "익명유형은 등록을 알 수 없으며, 등록자도 등록 후 수정/삭제를 할 수 없습니다." : {
+    "en" : "Anonymous types cannot be registered; even the registrant cannot modify or delete them after registration.",
+    "ja" : "匿名タイプは登録の確認ができず、登録者も登録後の修正および削除はできません。",
+    "vi" : "Loại ẩn danh không thể biết được việc đăng, người đăng cũng không thể chỉnh sửa/xóa sau khi đã đăng.",
+    "zh" : "匿名类型无法得知上传与否，上传后上传者也无法进行修改/删除。"
+  },
+  "상품 정보" : {
+    "en" : "Product information",
+    "ja" : "商品情報",
+    "vi" : "Thông tin sản phẩm",
+    "zh" : "商品信息"
+  },
+  "기본값은 한 개만 선택해주세요." : {
+    "en" : "Please select only one as the default value.",
+    "ja" : "デフォルト値は 1 つだけ選択してください。",
+    "vi" : "Vui lòng chỉ chọn một giá trị mặc định.",
+    "zh" : "请只选择一个默认值。"
+  },
+  "{0} 분류를 {1} 상위로 이동하시겠습니까?" : {
+    "en" : "Do you want to move the {0} category to the upper(parent) location of {1}?",
+    "ja" : "{0} カテゴリを {1} 上に移動しますか？",
+    "vi" : "Bạn có muốn di chuyển danh mục {0} lên trên {1} không?",
+    "zh" : "要把{0}分类移动到{1}上位吗？"
+  },
+  "검색조건 추가" : {
+    "en" : "Add search rules",
+    "ja" : "検索条件の追加",
+    "vi" : "Thêm điều kiện tìm kiếm",
+    "zh" : "追加搜索条件"
+  },
+  "외부접속" : {
+    "en" : "External connections",
+    "ja" : "外部アクセス",
+    "vi" : "Truy cập bên ngoài",
+    "zh" : "外部连接"
+  },
+  "직책" : {
+    "en" : "Duty",
+    "ja" : "役職",
+    "vi" : "Chức trách",
+    "zh" : "职责"
+  },
+  "쓰기 권한 이상인 사용자만 선택할 수 있습니다" : {
+    "en" : "Only users with write permissions or higher can select.",
+    "ja" : "書き込み権限以上のユーザーのみ選択できます。",
+    "vi" : "Chỉ người dùng có quyền ghi hoặc cao hơn mới có thể chọn.",
+    "zh" : "只有具有写权限以上的用户才能选择。"
+  },
+  "컬럼위치" : {
+    "en" : "Column location",
+    "ja" : "カラム位置",
+    "vi" : "Vị trí cột",
+    "zh" : "专栏位置"
+  },
+  "예약시작일자를 입력해주세요." : {
+    "en" : "Enter a start date for booking.",
+    "ja" : "予約開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu đặt trước.",
+    "zh" : "请输入预订开始日子。"
+  },
+  "필수 여부" : {
+    "en" : "Required/Optional",
+    "ja" : "要/不要",
+    "vi" : "có/không bắt buộc",
+    "zh" : "是否必须"
+  },
+  "목록 정렬 변경 시 의견이 원글 하위에 표시되지 않습니다." : {
+    "en" : "If you change the sorting order of the list, comments will not be displayed under the original post.",
+    "ja" : "リストの並べ替えをすると、意見が原文の下位に表示されません。",
+    "vi" : "Khi thay đổi sắp xếp danh sách, ý kiến sẽ không được hiển thị ở dưới bài viết gốc nữa.",
+    "zh" : "若更改目录排列，意见将不显示于原文下方。"
+  },
+  "댓글 파일첨부" : {
+    "en" : "Attach File (to comment)",
+    "ja" : "コメントファイルの添付",
+    "vi" : "Đính kèm tệp vào bình luận",
+    "zh" : "回帖附加文档"
+  },
+  "용량 변경" : {
+    "en" : "Change storage space",
+    "ja" : "容量変更",
+    "vi" : "Thay đổi dung lượng",
+    "zh" : "变更用量"
+  },
+  "메모" : {
+    "en" : "Memo",
+    "ja" : "メモ",
+    "vi" : "Ghi chú",
+    "zh" : "纪录"
+  },
+  "등록된 이미지가 없습니다." : {
+    "en" : "No added images.",
+    "ja" : "登録された画像がありません。",
+    "vi" : "Không có hình ảnh được đăng.",
+    "zh" : "没有登录的图像。"
+  },
+  "검색식 저장" : {
+    "en" : "Save search rules",
+    "ja" : "検索式保存",
+    "vi" : "Lưu phương thức tìm kiếm",
+    "zh" : "搜索方式保存"
+  },
+  "대여내역이 없습니다." : {
+    "en" : "There is no rental/borrowing history.",
+    "ja" : "貸与の内訳がありません。",
+    "vi" : "Không có lịch sử thông tin thuê.",
+    "zh" : "没有出租细目"
+  },
+  "현재 남은용량" : {
+    "en" : "Current remaining space",
+    "ja" : "現在の残数",
+    "vi" : "Dung lượng còn lại ở hiện tại",
+    "zh" : "现在剩下的用量"
+  },
+  "분류를 변경하시겠습니까?" : {
+    "en" : "Do you want to change the category?",
+    "ja" : "カテゴリを変更しますか？",
+    "vi" : "Bạn có muốn thay đổi phân loại hay không?",
+    "zh" : "要变更分类吗？"
+  },
+  "사이트명을 입력하세요." : {
+    "en" : "Enter a site name.",
+    "ja" : "サイト名を入力してください。",
+    "vi" : "Hãy nhập tên site",
+    "zh" : "请输入网站名。"
+  },
+  "게시판 분류 펼침" : {
+    "en" : "Expand Bulletin Board Classification",
+    "ja" : "掲示板カテゴリー展開",
+    "vi" : "Mở rộng phân loại bảng thông báo",
+    "zh" : "展开论坛分类"
+  },
+  "첨부파일 다운로드 기한을 선택해주세요." : {
+    "en" : "Please select an expiration date for downloading the attachment.",
+    "ja" : "添付ファイルのダウンロード期限を選択してください。",
+    "vi" : "Hãy chọn kỳ hạn tải tệp đính kèm",
+    "zh" : "请选择下载附件期限。"
+  },
+  "NEW 아이콘 노출기간" : {
+    "en" : "NEW icon displayed for",
+    "ja" : "NEWアイコンの表示期間",
+    "vi" : "Thời gian hiển thị của icon MỚI",
+    "zh" : "NEW 图标露出期间"
+  },
+  "통합 게시판" : {
+    "en" : "Integrated board",
+    "ja" : "統合掲示板",
+    "vi" : "Bảng tin tổng hợp",
+    "zh" : "统合布告栏"
+  },
+  "메인화면에 팝업 알림" : {
+    "en" : "Pop-up notification on the main page.",
+    "ja" : "メイン画面にポップアップ通知",
+    "vi" : "Thông báo dạng cửa sổ bật lên ở màn hình chính",
+    "zh" : "在主页上提醒弹出窗口"
+  },
+  "글 작성" : {
+    "en" : "Write a Post",
+    "ja" : "記事の作成",
+    "vi" : "Viết bài",
+    "zh" : "写文章"
+  },
+  "결혼기념일" : {
+    "en" : "Wedding anniversary",
+    "ja" : "結婚記念日",
+    "vi" : "Ngày kỷ niệm kết hôn",
+    "zh" : "结婚纪念日"
+  },
+  "내 게시" : {
+    "en" : "My posts.",
+    "ja" : "自分の投稿",
+    "vi" : "Bài viết của tôi.",
+    "zh" : "我的帖子"
+  },
+  "조직도 추가 맵핑" : {
+    "en" : "Organization chart _ additional mapping",
+    "ja" : "組織図の追加マッピング",
+    "vi" : "Mapping bổ sung sơ đồ tổ chức",
+    "zh" : "组织图追加映射"
+  },
+  "답변 등록" : {
+    "en" : "Add answers",
+    "ja" : "回答登録",
+    "vi" : "Đăng trả lời",
+    "zh" : "登录答复"
+  },
+  "게시글을 이동하였습니다." : {
+    "en" : "The article has been moved.",
+    "ja" : "掲示物を移動しました。",
+    "vi" : "Đã di chuyển bài viết",
+    "zh" : "公告内容移动完了。"
+  },
+  "시" : {
+    "en" : "Hour",
+    "ja" : "時",
+    "vi" : "khi/giờ",
+    "zh" : "点"
+  },
+  "구매정보" : {
+    "en" : "Purchase information",
+    "ja" : "購入情報",
+    "vi" : "Thông tin mua",
+    "zh" : "购买信息"
+  },
+  "최근 게시" : {
+    "en" : "Recent Posts",
+    "ja" : "最新掲示",
+    "vi" : "Bài đăng gần đây",
+    "zh" : "最近布告"
+  },
+  "조직도팝업" : {
+    "en" : "Organizational Chart Pop-up",
+    "ja" : "組織図ポップアップ",
+    "vi" : "Cửa sổ bật lên của sơ đồ tổ chức",
+    "zh" : "组织图弹出窗口"
+  },
+  "첨부기한" : {
+    "en" : "Attachment expiration date",
+    "ja" : "添付期限",
+    "vi" : "Kì hạn đính kèm",
+    "zh" : "附加期限"
+  },
+  "최근순" : {
+    "en" : "Order (recent)",
+    "ja" : "新着順",
+    "vi" : "Thứ tự gần đây nhất",
+    "zh" : "最近顺"
+  },
+  "답변 추천" : {
+    "en" : "Recommend Answer",
+    "ja" : "おすすめ回答",
+    "vi" : "Gợi ý trả lời",
+    "zh" : "推存答复"
+  },
+  "첨부 가능한 파일의 확장자를 입력하세요. 여러 개일 경우 콤마(,)로 구분" : {
+    "en" : "Enter the extensions of the files that can be attached. Separate each extension with a comma (,) if there is more than 1.",
+    "ja" : "添付可能なファイルの拡張子を入力してください。複数の場合はコンマ(,)で区別",
+    "vi" : "Hãy nhập phần mở rộng của file bạn có thể đính kèm. Trường hợp có nhiều  hãy phân biệt bằng dấu phẩy (,)",
+    "zh" : "请输入可以附加的文件夹扩展名。个数多时请用逗号(,)来区分"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại hình",
+    "zh" : "类型"
+  },
+  "동부 표준시_미국/캐나다" : {
+    "en" : "Eastern Standard Time_USA/Canada",
+    "ja" : "東部標準時刻_アメリカ/カナダ",
+    "vi" : "Giờ tiêu chuẩn phía đông- Mỹ/ Canada",
+    "zh" : "东部标准时间-美国/加拿大"
+  },
+  "기본값" : {
+    "en" : "Default Value",
+    "ja" : "基本値",
+    "vi" : "Giá trị mặc định",
+    "zh" : "基本值"
+  },
+  "기존 데이터 처리" : {
+    "en" : "Process existing data",
+    "ja" : "既存データの処理",
+    "vi" : "Xử lý dữ liệu hiện có",
+    "zh" : "处理现有数据"
+  },
+  "답변채택" : {
+    "en" : "Select as answer",
+    "ja" : "回答選択",
+    "vi" : "Chọn câu trả lời",
+    "zh" : "采取答复"
+  },
+  "말머리는 50개까지 등록 가능 합니다." : {
+    "en" : "You can add up to 50 headings.",
+    "ja" : "表題は50個まで登録できます。",
+    "vi" : "Bạn có thể đăng tới 50 lời nói đầu.",
+    "zh" : "话头最多可以注册50个。"
+  },
+  "대여" : {
+    "en" : "Rent",
+    "ja" : "貸与",
+    "vi" : "mượn",
+    "zh" : "出租"
+  },
+  "상단 배너" : {
+    "en" : "Top banner",
+    "ja" : "上部バナー",
+    "vi" : "Banner phía trên",
+    "zh" : "上端网幅广告"
+  },
+  "이동" : {
+    "en" : "Move",
+    "ja" : "移動",
+    "vi" : "Di chuyển",
+    "zh" : "移动"
+  },
+  "반납 예정일이 오늘 날짜보다 이전일 수 없습니다." : {
+    "en" : "The return date cannot be earlier than today.",
+    "ja" : "返却予定日は今日の日付より前の日付には設定できません。",
+    "vi" : "Ngày dự định trả không thể trước ngày hôm nay.",
+    "zh" : "退还日子不可前于今日。"
+  },
+  "태평양 표준시" : {
+    "en" : "Pacific Standard Time",
+    "ja" : "太平洋標準時刻",
+    "vi" : "Giờ tiêu chuẩn Thái Bình Dương",
+    "zh" : "太平洋标准时间"
+  },
+  "파일 저장" : {
+    "en" : "Save file",
+    "ja" : "ファイル保存",
+    "vi" : "Lưu tệp",
+    "zh" : "保存文件"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全期间"
+  },
+  "{0}님의 [{1}] 게시물 등록이 반려되었습니다." : {
+    "en" : "Mr./Ms.{0}'s post [{1}] has been rejected.",
+    "ja" : "{0}さんの [{1}] 掲示物登録が差戻されました。",
+    "vi" : "Bài viết [{1}] của {0} đã bị từ chối đăng.",
+    "zh" : "{0}的 [{1}] 登录公告内容被退回了。"
+  },
+  "등록된 게시물이 없습니다." : {
+    "en" : "No added posts.",
+    "ja" : "登録された掲示物がありません。",
+    "vi" : "Không có bài được đăng.",
+    "zh" : "没有登录的布告内容。"
+  },
+  "게시물 등록 요청입니다." : {
+    "en" : "It is a request to post an article",
+    "ja" : "掲示物登録の要請です。",
+    "vi" : "Đây là yêu cầu đăng bài",
+    "zh" : "邀请登录公告内容。"
+  },
+  "댓글 알림" : {
+    "en" : "Comment notifications",
+    "ja" : "コメント通知",
+    "vi" : "Thông báo bình luận",
+    "zh" : "回帖提醒"
+  },
+  "사이드 메뉴 상단 영역인 주요 게시판에 추가할 게시판을 선택하세요." : {
+    "en" : "Please select the postbox to add to the top area of the side menu.",
+    "ja" : "サイドメニューの上部にあるメイン掲示板に追加する掲示板を選択してください。",
+    "vi" : "Hãy chọn bảng thông báo để thêm vào bảng thông báo chính ở trên cùng thanh công cụ.",
+    "zh" : "请于副菜单上级领域的主要公告栏中选择要添加的公告板"
+  },
+  "핫라인 기능은 분류를 사용할 수 없습니다." : {
+    "en" : "The hotline feature cannot use categories.",
+    "ja" : "ホットライン機能では分類を使用することができません。",
+    "vi" : "Không thể sử dụng phân loại đối với chức năng tin nóng.",
+    "zh" : "热线功能无法使用分类。"
+  },
+  "선택 분류" : {
+    "en" : "Selected Classification",
+    "ja" : "選択した分類",
+    "vi" : "Phân loại lựa chọn",
+    "zh" : "选择分类"
+  },
+  "사용권한" : {
+    "en" : "Usage permission",
+    "ja" : "使用権限",
+    "vi" : "Quyền hạn sử dụng",
+    "zh" : "使用权限"
+  },
+  "메뉴별 삭제 데이터 처리" : {
+    "en" : "Processing of deleted data (by menu)",
+    "ja" : "メニュー別の削除データ処理",
+    "vi" : "Xử lý dữ liệu đã xóa theo từng menu",
+    "zh" : "菜单别删除数据处理"
+  },
+  "등록자와 대리인을 선택하세요." : {
+    "en" : "Please select an author and an agent",
+    "ja" : "登録者と代理人を選択してください。",
+    "vi" : "Hãy chọn người đăng và người đại diện.",
+    "zh" : "请选择登录人和代理人。"
+  },
+  "조직도 종류" : {
+    "en" : "Organizational Chart Type",
+    "ja" : "組織図の種類",
+    "vi" : "Loại sơ đồ tổ chức",
+    "zh" : "组织图种类"
+  },
+  "관심 게시함 선택" : {
+    "en" : "Select an interesting bulletin board",
+    "ja" : "お気に入り掲示板の選択",
+    "vi" : "Chọn hộp tin quan tâm.",
+    "zh" : "选择关心布告栏"
+  },
+  "hh:mm형식에 맞게 입력해주세요." : {
+    "en" : "Please type in the hh:mm format.",
+    "ja" : "hh:mmの形式に合わせて入力してください。",
+    "vi" : "Hãy nhập đúng định dạng hh:mm.",
+    "zh" : "请按照hh:mm形式来输入。"
+  },
+  "태그는 최대 30개까지 입력 가능합니다." : {
+    "en" : "Up to a maximum of 30 tags can be entered.",
+    "ja" : "タグは最大30個まで入力可能です。",
+    "vi" : "Có thể nhập tối đa 30 tag.",
+    "zh" : "标签最多可登录30个。"
+  },
+  "예약시간을 선택해주세요." : {
+    "en" : "Select the time you wish to book (schedule)",
+    "ja" : "予約時間を選択してください。",
+    "vi" : "Hãy chọn thời gian đặt trước.",
+    "zh" : "请选择预订时间。"
+  },
+  "승인 버튼명을 입력하세요." : {
+    "en" : "Enter a name for the 'Approve' button.",
+    "ja" : "承認ボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút chấp nhận",
+    "zh" : "请输入承认按钮名。"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "待机"
+  },
+  "변경할 분류를 선택하세요." : {
+    "en" : "Select a category to change.",
+    "ja" : "変更するカテゴリを選択してください。",
+    "vi" : "Hãy chọn hạng mục cần thay đổi!",
+    "zh" : "请选择要变更的分类。"
+  },
+  "{0}개 선택가능" : {
+    "en" : "You can select {0}.",
+    "ja" : "{0} 個選択可能",
+    "vi" : "Có thể chọn {0} cái",
+    "zh" : "可以选择（0）个"
+  },
+  "관심게시" : {
+    "en" : "Interesting post",
+    "ja" : "お気に入り記事",
+    "vi" : "Bài viết quan tâm",
+    "zh" : "关心布告"
+  },
+  "경로" : {
+    "en" : "Path",
+    "ja" : "パス",
+    "vi" : "lộ trình",
+    "zh" : "路径"
+  },
+  "에디터 양식" : {
+    "en" : "Editor form",
+    "ja" : "エディタフォーム",
+    "vi" : "Mẫu trình soạn thảo",
+    "zh" : "编辑器样式"
+  },
+  "양식사용" : {
+    "en" : "Use form",
+    "ja" : "フォームを使用",
+    "vi" : "Sử dụng bản mẫu",
+    "zh" : "使用样式"
+  },
+  "찬반 버튼명" : {
+    "en" : "YES/NO button name",
+    "ja" : "YES/NOボタン名",
+    "vi" : "Tên nút tán thành/đồng ý",
+    "zh" : "赞成反对按钮名"
+  },
+  "관심게시함" : {
+    "en" : "Interesting Posts",
+    "ja" : "お気に入り掲示板",
+    "vi" : "Hộp bảng tin quan tâm",
+    "zh" : "关心布告箱"
+  },
+  "동부 표준시" : {
+    "en" : "Eastern Standard Time",
+    "ja" : "東部標準時刻",
+    "vi" : "Giờ chuẩn miền đông(EST)",
+    "zh" : "东部标准时"
+  },
+  "목록만 보기" : {
+    "en" : "View list only",
+    "ja" : "リストのみ表示",
+    "vi" : "Chỉ xem danh sách",
+    "zh" : "只看目录"
+  },
+  "이 게시글을" : {
+    "en" : "This post",
+    "ja" : "この記事を",
+    "vi" : "Bài viết này",
+    "zh" : "把这个布告内容"
+  },
+  "부서 선택시 이름 또는 부서만 사용할 수 있습니다." : {
+    "en" : "When selecting a department, you can use name or department only.",
+    "ja" : "部署を選択時、名前又は部署のみ使用することができます。",
+    "vi" : "Chỉ có thể sử dụng tên hoặc phòng ban khi chọn phòng ban.",
+    "zh" : "选择部门时只能使用名字或部门。"
+  },
+  "양식명을 입력하세요." : {
+    "en" : "Enter a form name.",
+    "ja" : "フォーム名を入力してください。",
+    "vi" : "Hãy nhập tên bản mẫu.",
+    "zh" : "请输入样式名。"
+  },
+  "대여신청이 등록되었습니다." : {
+    "en" : "Borrow request has been registered.",
+    "ja" : "貸出し申請が登録されました。",
+    "vi" : "Đăng ký mượn đã được đăng.",
+    "zh" : "申请出租登录完了。"
+  },
+  "폴더 추가" : {
+    "en" : "Add folder",
+    "ja" : "フォルダを追加",
+    "vi" : "Thêm thư mục",
+    "zh" : "追加文件夹"
+  },
+  "핫라인 속성이 해제 되면, 등록된 글이 공개됩니다. \\n저장하시겠습니까?" : {
+    "en" : "If the hotline attribute is disabled, the registered post will be made public. \\nWould you like to save?",
+    "ja" : "ホットラインのプロパティが解除されると、登録された書き込みが公開されます。\\n保存しますか？",
+    "vi" : "Nếu gỡ thuộc tính hot line, bài viết đã đăng sẽ được công khai. \\n Bạn chắc chắn muốn lưu chứ?",
+    "zh" : "若解除热线属性，已上传文章将被删除。\\n是否保存？"
+  },
+  "기준시간" : {
+    "en" : "Standard time",
+    "ja" : "基準時間",
+    "vi" : "Khoảng thời gian tiêu chuẩn",
+    "zh" : "基准时间"
+  },
+  "동영상첨부" : {
+    "en" : "Attach videos",
+    "ja" : "動画添付",
+    "vi" : "Đính kèm video",
+    "zh" : "附加视频"
+  },
+  "구매했습니다." : {
+    "en" : "Purchase complete.",
+    "ja" : "購入しました。",
+    "vi" : "Đã mua",
+    "zh" : "购买了。"
+  },
+  "게시판의 분류를 선택한 분류로 일괄 변경합니다." : {
+    "en" : "Change the category of the board to the selected category in bulk.",
+    "ja" : "掲示板の分類を選択した分類に一括変更します。",
+    "vi" : "Thay đổi phân loại của bảng tin sang phân loại đã chọn.",
+    "zh" : "将论坛的分类统一更改为所选分类。"
+  },
+  "주요 게시함 추가" : {
+    "en" : "Add to Favorites",
+    "ja" : "主要掲示板追加",
+    "vi" : "Thêm vào Mục Ưa thích",
+    "zh" : "添加到主要公告箱"
+  },
+  "답변 선택수" : {
+    "en" : "Number of answers selected",
+    "ja" : "返答選択数",
+    "vi" : "Số lựa chọn câu trả lời",
+    "zh" : "答复选择数"
+  },
+  "글 복사" : {
+    "en" : "Copy Article",
+    "ja" : "記事をコピー",
+    "vi" : "Sao chép bài viết",
+    "zh" : "拷贝文章"
+  },
+  "익명 게시물은 조회 이력을 저장하지 않습니다." : {
+    "en" : "The browsing history of anonymous posts is not saved.",
+    "ja" : "匿名投稿は照会履歴が保存されません。",
+    "vi" : "Bài thông báo ẩn danh không lưu lịch sử truy cập.",
+    "zh" : "匿名贴文不保存查看历史。"
+  },
+  "게시판 용량" : {
+    "en" : "Board space",
+    "ja" : "掲示板容量",
+    "vi" : "Dung lượng bảng tin",
+    "zh" : "公告栏用量"
+  },
+  "산악지방 표준시 - 아리조나" : {
+    "en" : "Mountain Standard Time - Arizona",
+    "ja" : "山岳地方標準時刻 - アリゾナ州",
+    "vi" : "Giờ chuẩn khu vực miền núi - Arizona",
+    "zh" : "山岳地区  标准时 - 亚利桑那州"
+  },
+  "핫라인 사용자는 모든 사용자의 글을 조회할 수 있고 사용자는 본인의 글만 조회 가능합니다." : {
+    "en" : "Hotline users can view the posts of all users, and the user can only view their own posts.",
+    "ja" : "ホットラインユーザーは、すべてのユーザーの記事を照会することができ、ユーザーは本人の記事のみ照会できます。",
+    "vi" : "Người dùng đường dây nóng có thể xem bài viết của tất cả người dùng và người dùng chỉ có thể xem bài viết của bản thân.",
+    "zh" : "热线使用者可以查询所有使用者的文章，而使用者只能查询自己的文章。"
+  },
+  "추천 확인" : {
+    "en" : "Check recommendation",
+    "ja" : "おすすめ確認",
+    "vi" : "Kiểm tra đề cử",
+    "zh" : "确认推存"
+  },
+  "게시물등록 요청이 승인되었습니다." : {
+    "en" : "Post registration request has been approved.",
+    "ja" : "投稿登録リクエストが承認されました。",
+    "vi" : "Yêu cầu đăng ký bài viết đã được chấp nhận.",
+    "zh" : "帖子注册请求已批准。"
+  },
+  "반대 버튼명을 입력하세요." : {
+    "en" : "Please enter a name for the 'No' (Disagree) button.",
+    "ja" : "反対ボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút Phản đối.",
+    "zh" : "请输入反对按钮名。"
+  },
+  "게시물 등록" : {
+    "en" : "Add Post",
+    "ja" : "掲示物登録",
+    "vi" : "Đăng bài",
+    "zh" : "上传内容"
+  },
+  "같은 분류로 이동할 수 없습니다." : {
+    "en" : "Unable to move to the same category.",
+    "ja" : "同じカテゴリには移動できません。",
+    "vi" : "Không thể di chuyển đến cùng một hạng mục.",
+    "zh" : "不可移动到同样的分类。"
+  },
+  "게시 기한" : {
+    "en" : "Post expiration date",
+    "ja" : "掲示期限",
+    "vi" : "Thời hạn đăng bài",
+    "zh" : "布告期限"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the end date.",
+    "ja" : "期間選択の開始日は終了日より未来の日付にはできません。",
+    "vi" : "Ngày bắt đầu Lựa chọn thời gian không thể lớn hơn ngày kết thúc",
+    "zh" : "选择期间时开始日子不可大于结束日子。"
+  },
+  "게시물의 답변이 채택되었습니다." : {
+    "en" : "Reply on the post has been accepted.",
+    "ja" : "投稿の回答が採用されました。",
+    "vi" : "Phản hồi trên bài viết đã được chấp nhận.",
+    "zh" : "帖子的回复已被采纳。"
+  },
+  "삭제 데이터 처리" : {
+    "en" : "Deleting data processing",
+    "ja" : "削除データ処理",
+    "vi" : "Xử lý dữ liệu xóa",
+    "zh" : "处理删除数据"
+  },
+  "사용자를 클릭하면 사용자의 게시판별 상세 마일리지를 조회할 수 있습니다." : {
+    "en" : "Click on a specific user to view how much mileage they own (by bulletin board).",
+    "ja" : "ユーザーをクリックすると、ユーザーの掲示板別の詳細マイレージを照会できます。",
+    "vi" : "Nếu click vào người dùng có thể xem được số dặm chi tiết theo từng bảng tin của người dùng.",
+    "zh" : "点击使用者的话可以查询使用者的各个布告栏详细积分。"
+  },
+  "권한이 없습니다." : {
+    "en" : "You have no permission.",
+    "ja" : "権限がありません。",
+    "vi" : "Không có quyền",
+    "zh" : "没有权限。"
+  },
+  "사용함" : {
+    "en" : "Used",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "게시판 템플릿" : {
+    "en" : "Bulletin board templates",
+    "ja" : "掲示板テンプレート",
+    "vi" : "Bản mẫu bảng tin",
+    "zh" : "布告栏模板"
+  },
+  "미선택" : {
+    "en" : "Unselected",
+    "ja" : "未選択",
+    "vi" : "Chưa chọn",
+    "zh" : "未选择"
+  },
+  "숫자를 입력하세요." : {
+    "en" : "Enter a number.",
+    "ja" : "数字を入力してください。",
+    "vi" : "Hãy nhập số.",
+    "zh" : "请输入数字。"
+  },
+  "검색결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果がありません。",
+    "vi" : "Không có kết quả tìm kiếm",
+    "zh" : "没有搜索结果。"
+  },
+  "{0} 항목은 필수선택항목입니다." : {
+    "en" : "{0} item is required.",
+    "ja" : "{0}項目は必須選択項目です。",
+    "vi" : "Hạng mục {0} là hạng mục bắt buộc chọn",
+    "zh" : "{0} 项目是必须选择的项目。"
+  },
+  "사이트주소" : {
+    "en" : "Site URL",
+    "ja" : "サイトアドレス",
+    "vi" : "Địa chỉ trang web",
+    "zh" : "网站地址"
+  },
+  "목록에서 조회할 게시글을 선택하세요." : {
+    "en" : "Please select the articles you wish to view from the list.",
+    "ja" : "リストから照会する記事を選択してください。",
+    "vi" : "Hãy chọn bài viết cần xem trong danh sách.",
+    "zh" : "请在目录选择要查询的布告文章。"
+  },
+  "다중선택" : {
+    "en" : "Multiple choice",
+    "ja" : "多重選択",
+    "vi" : "Chọn đa số",
+    "zh" : "选择多种"
+  },
+  "공지 너비 최소 사이즈는 400px 입니다. 400px 보다 크게 입력해 주세요." : {
+    "en" : "The minimum width of a notice is 400px. Please make it bigger than 400px.",
+    "ja" : "お知らせの幅の最小サイズは400pxです。400pxより大きい値で入力してください。",
+    "vi" : "Chiều rộng tối thiểu của thông báo phải là 400px. Vui lòng nhập vào giá trị lớn hơn 400px.",
+    "zh" : "通知宽度最小大小为400px 。请输入400px 以上。"
+  },
+  "분류를 삭제 하시겠습니까?\\n하위에 분류가 있으면, 포함하여 삭제합니다.\\n게시글에 설정한 분류는 초기화됩니다." : {
+    "en" : "Do you want to delete the classification? If there are sub-classifications, they will also be deleted. The classifications set for the posts will be reset.",
+    "ja" : "カテゴリーを削除しますか？ 下位にカテゴリーがある場合、それらも含めて削除されます。 投稿に設定したカテゴリーもリセットされます。",
+    "vi" : "Bạn có muốn xóa phân loại không? Nếu có các phân loại con, chúng cũng sẽ bị xóa. Các phân loại được đặt cho các bài viết sẽ được đặt lại.",
+    "zh" : "您确定要删除分类吗？\\n如果有子分类，将一并删除。\\n在帖子中设置的分类将被重置。"
+  },
+  "임시보관함" : {
+    "en" : "Drafts",
+    "ja" : "一時保管",
+    "vi" : "Hộp lưu giữ tạm thời",
+    "zh" : "草稿箱"
+  },
+  "최근 게시함" : {
+    "en" : "Recent Posts",
+    "ja" : "最近の掲示板",
+    "vi" : "Hòm bài viết gần đây",
+    "zh" : "最近公告箱"
+  },
+  "공지" : {
+    "en" : "notice",
+    "ja" : "お知らせ",
+    "vi" : "Thông báo",
+    "zh" : "通知"
+  },
+  "스페이스 게시판 관리" : {
+    "en" : "Manage Space boards",
+    "ja" : "スペース掲示板管理",
+    "vi" : "Quản lý bảng tin của Space",
+    "zh" : "管理空间布告栏"
+  },
+  "추가했습니다." : {
+    "en" : "Successfully Added.",
+    "ja" : "追加しました。",
+    "vi" : "Đã thêm.",
+    "zh" : "已追加。"
+  },
+  "여러 개일 경우 콤마(,) 세미콜론(;)으로 구분" : {
+    "en" : "Separate using a Comma (,) or a Semicolon (;) when there are multiple entries",
+    "ja" : "複数ある場合、コンマ(,) セミコロン(;)で区分",
+    "vi" : "Phân tách bằng dấu phẩy (,) dấu chấm phẩy (;) trong trường hợp có nhiều",
+    "zh" : "若有多个项目，请以逗号（，）或分号（；）进行区分"
+  },
+  "사이트명" : {
+    "en" : "Site name",
+    "ja" : "サイト名",
+    "vi" : "Tên trang web",
+    "zh" : "网站名"
+  },
+  "찬성 버튼명을 입력하세요." : {
+    "en" : "Please enter a name for the 'Yes' (Agree) button.",
+    "ja" : "賛成ボタン名を入力してください。",
+    "vi" : "Vui lòng nhập tên cho nút tán thành",
+    "zh" : "请输入赞成按钮名。"
+  },
+  "메&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;모" : {
+    "en" : "Memo",
+    "ja" : "メ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;モ",
+    "vi" : "Ghi chú",
+    "zh" : "纪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;录"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space in Charge",
+    "ja" : "スペースのホスト",
+    "vi" : "gười phụ trách Space",
+    "zh" : "空间负责人"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "phòng ban",
+    "zh" : "部门"
+  },
+  "작성자에 의해 삭제된 댓글입니다." : {
+    "en" : "The comment has been deleted by the author",
+    "ja" : "作成者により削除されたコメントです。",
+    "vi" : "Là bình luận bị xóa bởi người viết.",
+    "zh" : "已被编辑者删除的回帖。"
+  },
+  "게시물이 수정되었습니다." : {
+    "en" : "The article has been modified.",
+    "ja" : "記事が修正されました。",
+    "vi" : "Bài viết đã được chỉnh sửa.",
+    "zh" : "布告内容修改完了。"
+  },
+  "{0} 항목은 {1}자이내로 입력해야합니다." : {
+    "en" : "{0} item must be less than {1} characters.",
+    "ja" : "{0}項目は{1}文字以内で入力する必要があります。",
+    "vi" : "Mục {0} phải nhập trong vòng {1} chữ.",
+    "zh" : "{0} 项目得输入 {1}字以内。"
+  },
+  "모두 사용" : {
+    "en" : "Use all",
+    "ja" : "すべて使用",
+    "vi" : "Sử dụng tất cả",
+    "zh" : "全部使用"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件名"
+  },
+  "양식을 선택하세요." : {
+    "en" : "Select a form.",
+    "ja" : "フォームを選択してください。",
+    "vi" : "Sử dụng bản mẫu để trống",
+    "zh" : "请选择样式。"
+  },
+  "익명 게시판에는 이동할 수 없습니다." : {
+    "en" : "Unable to move to Anonymous bulletin board.",
+    "ja" : "匿名掲示板には移動できません。",
+    "vi" : "Không thể di chuyển đến bảng thông báo ẩn danh",
+    "zh" : "不可移动到匿名布告栏。"
+  },
+  "설문저장" : {
+    "en" : "Save survey",
+    "ja" : "アンケート保存",
+    "vi" : "Lưu khảo sát",
+    "zh" : "存储设问"
+  },
+  "게시물 수정" : {
+    "en" : "Modify Post",
+    "ja" : "掲示物修正",
+    "vi" : "Chỉnh sửa bài viết",
+    "zh" : "修改内容"
+  },
+  "태그 선택" : {
+    "en" : "Select tag",
+    "ja" : "タグ選択",
+    "vi" : "Chọn tag",
+    "zh" : "选择标记"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "검색 조건" : {
+    "en" : "Search rules",
+    "ja" : "検索条件",
+    "vi" : "Điều kiện tìm kiếm",
+    "zh" : "搜索条件"
+  },
+  "포함하는" : {
+    "en" : "Including",
+    "ja" : "含む",
+    "vi" : "Bao gồm",
+    "zh" : "包括"
+  },
+  "등록된 게시물을 확인하려면 아래 게시물보기를 클릭하세요." : {
+    "en" : "To check the posted article, click the 'View Article' button below.",
+    "ja" : "登録された掲示物を確認するには、下の掲示物表示ボタンをクリックしてください。",
+    "vi" : "Hãy click vào xem bài viết dưới đây nếu muốn kiểm tra bài viết đã được đăng",
+    "zh" : "要确认登录的公告内容的话，请点击下边收看公告内容。"
+  },
+  "내댓글" : {
+    "en" : "My Comments",
+    "ja" : "自分のコメント",
+    "vi" : "Bình luận của tôi",
+    "zh" : "我的评论"
+  },
+  "내역" : {
+    "en" : "Details",
+    "ja" : "内訳",
+    "vi" : "Nội dung chi tiết",
+    "zh" : "明细"
+  },
+  "반납지연" : {
+    "en" : "Overdue",
+    "ja" : "返却遅延",
+    "vi" : "Hoãn trả",
+    "zh" : "推迟退还"
+  },
+  "익명 속성은 게시판 통계에서 제외됩니다." : {
+    "en" : "Posts/Comments written as Anonymous will be excluded from Forum/Board Statistics.",
+    "ja" : "匿名プロパティは掲示板統計から除外されます。",
+    "vi" : "Thuộc tính ẩn danh không áp dụng tại thống kê bảng thông báo.",
+    "zh" : "匿名属性将被排除于公告栏统计数据外。"
+  },
+  "기본값 지정" : {
+    "en" : "Set as Default",
+    "ja" : "デフォルト値の指定",
+    "vi" : "Đặt làm mặc định",
+    "zh" : "设定默认值"
+  },
+  "설문 항목을 입력해주세요." : {
+    "en" : "Please enter a survey item.",
+    "ja" : "アンケート項目を入力してください。",
+    "vi" : "Hãy nhập hạng mục khảo sát",
+    "zh" : "请输入设问项目。"
+  },
+  "회사" : {
+    "en" : "Company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "반려 버튼명을 입력하세요." : {
+    "en" : "Enter a name for the 'Reject' button.",
+    "ja" : "差戻しボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút từ chối",
+    "zh" : "请输入退回按钮名。"
+  },
+  "더 넓게" : {
+    "en" : "Wider",
+    "ja" : "広げる",
+    "vi" : "Rộng hơn",
+    "zh" : "更宽大"
+  },
+  "첨부 용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付容量",
+    "vi" : "Dung lượng đính kèm",
+    "zh" : "附加用量"
+  },
+  "등록승인대기" : {
+    "en" : "Pending approval",
+    "ja" : "登録承認待ち",
+    "vi" : "Chờ chấp nhận đăng",
+    "zh" : "登录待处理"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Khoảng thời gian",
+    "zh" : "期间"
+  },
+  "항목 정보" : {
+    "en" : "Item information",
+    "ja" : "項目情報",
+    "vi" : "Thông tin hạng mục",
+    "zh" : "项目信息"
+  },
+  "동일한 연도 내에서만 지정" : {
+    "en" : "Only specified within the same year.",
+    "ja" : "同じ年度内でのみ指定",
+    "vi" : "Chỉ được chọn trong cùng một năm.",
+    "zh" : "只能在同一年内指定"
+  },
+  "종료일자를 입력해주세요." : {
+    "en" : "Please select an end date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc",
+    "zh" : "请输入结束日子。"
+  },
+  "승인" : {
+    "en" : "Approve",
+    "ja" : "承認",
+    "vi" : "Chấp nhận",
+    "zh" : "承认"
+  },
+  "행 추가" : {
+    "en" : "Insert row",
+    "ja" : "行の追加",
+    "vi" : "Thêm hàng",
+    "zh" : "追加行"
+  },
+  "그리니치 표준시_런던" : {
+    "en" : "Greenwich Mean Time_London",
+    "ja" : "グリニッジ標準時刻_ロンドン",
+    "vi" : "Giờ tiêu chuẩn GMT_ London",
+    "zh" : "格林威治标准时间-伦敦"
+  },
+  "사용안함" : {
+    "en" : "Do not use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "알림대상" : {
+    "en" : "Send notifications to",
+    "ja" : "通知対象",
+    "vi" : "Đối tượng thông báo",
+    "zh" : "提醒对象"
+  },
+  "판매자 연락처" : {
+    "en" : "Seller Information (Contact)",
+    "ja" : "販売者の連絡先",
+    "vi" : "Địa chỉ liên lạc người bán",
+    "zh" : "销售者联络处"
+  },
+  "뉴스/새소식" : {
+    "en" : "News",
+    "ja" : "ニュース/新着ニュース",
+    "vi" : "Tin tức/ Tin mới",
+    "zh" : "新闻/新消息"
+  },
+  "기본으로 체크 해제" : {
+    "en" : "Uncheck as default",
+    "ja" : "基本にチェックを解除",
+    "vi" : "Bỏ chế độ kiểm tra mặc định",
+    "zh" : "解除打钩为基本"
+  },
+  "기간 설정" : {
+    "en" : "Period settings",
+    "ja" : "期間設定",
+    "vi" : "Thiết lập thời hạn",
+    "zh" : "设定期间"
+  },
+  "대분류 전체의 승인사용자는 모든 하위분류에 대해 승인권한을 가집니다." : {
+    "en" : "Users who have the authority to approve in the parent category shall have the same authority on all sub-categories.",
+    "ja" : "全分類の承認ユーザーは、すべての下位カテゴリの承認権限を持ちます。",
+    "vi" : "Người dùng duyệt cho hạng mục đầu tiên có quyền duyệt tất cả các hạng mục nhỏ bên trong.",
+    "zh" : "大分类全体承认使用者有所有下位分类的承认权限。"
+  },
+  "의견 게시판은 등록일 내림차순에 한해 원 글 하위에 의견이 표시됩니다." : {
+    "en" : "The comment board displays comments under the original post in descending order of the registration date.",
+    "ja" : "意見掲示板は登録日の降順に限り、原文の下位に意見が表示されます。",
+    "vi" : "Bảng thông báo ý kiến chỉ hiển thị ý kiến ở dưới bài viết gốc theo thứ tự ngày đăng.",
+    "zh" : "意见留言板将以日期降序进行排序，并于原文下方显示出意见内容。"
+  },
+  "내글" : {
+    "en" : "My Posts",
+    "ja" : "自分の投稿",
+    "vi" : "Bài viết của tôi",
+    "zh" : "我的文章"
+  },
+  "게시판별 마일리지" : {
+    "en" : "Mileage by bulletin board",
+    "ja" : "掲示板別のマイレージ",
+    "vi" : "Số dặm theo từng bảng tin",
+    "zh" : "布告栏别积分"
+  },
+  "종료 {0} 일전" : {
+    "en" : "{0} day(s) before end",
+    "ja" : "終了 {0} 日前",
+    "vi" : "{0} ngày trước khi kết thúc",
+    "zh" : "结束（0）天前"
+  },
+  "추가 컬럼 설정" : {
+    "en" : "Additional columns settings",
+    "ja" : "追加カラム設定",
+    "vi" : "Cài đặt cột thêm vào",
+    "zh" : "设定追加专栏"
+  },
+  "게시판 용량이 부족합니다." : {
+    "en" : "Insufficient bulletin board capacity (storage space).",
+    "ja" : "掲示板容量が不足します。",
+    "vi" : "Thiếu dung lượng bảng tin",
+    "zh" : "布告栏容量不足。"
+  },
+  "설문 참여자" : {
+    "en" : "Survey participants",
+    "ja" : "アンケート参加者",
+    "vi" : "Người tham gia khảo sát",
+    "zh" : "设问参加人"
+  },
+  "그룹분류" : {
+    "en" : "Group Classification",
+    "ja" : "グループカテゴリー",
+    "vi" : "Phân loại nhóm",
+    "zh" : "分类分组"
+  },
+  "삭제된 게시물입니다." : {
+    "en" : "The post has already been deleted.",
+    "ja" : "削除された記事です。",
+    "vi" : "Đây là bài viết đã bị xóa",
+    "zh" : "被删除的布告内容。"
+  },
+  "검색 조건이 비어있습니다. 검색할 값을 입력해 주세요." : {
+    "en" : "The search criteria is empty. Please enter a value to search for.",
+    "ja" : "検索条件が空いています。検索する値を入力してください。",
+    "vi" : "Tiêu chí tìm kiếm trống. Vui lòng nhập giá trị để tìm kiếm.",
+    "zh" : "搜索条件为空。请输入搜索值。"
+  },
+  "읽음 시 해제" : {
+    "en" : "Icon is removed when you read",
+    "ja" : "既読時解除",
+    "vi" : "Gỡ bỏ khi đã đọc",
+    "zh" : "读时解除"
+  },
+  "설문 진행중" : {
+    "en" : "Survey in progress",
+    "ja" : "アンケート実施中",
+    "vi" : "Đang tiến hành khảo sát",
+    "zh" : "设问进行中"
+  },
+  "게시물에 의견이 등록되었습니다." : {
+    "en" : "Comment has been registered on the post.",
+    "ja" : "投稿に意見が登録されました。",
+    "vi" : "Bình luận đã được đăng ký trên bài viết.",
+    "zh" : "帖子已收到意见。"
+  },
+  "예약&nbsp;기간" : {
+    "en" : "Booking period",
+    "ja" : "予約&nbsp;期間",
+    "vi" : "Thời gian đặt hẹn",
+    "zh" : "预订&nbsp;期间"
+  },
+  "RSS 주소" : {
+    "en" : "RSS Address",
+    "ja" : "RSSアドレス",
+    "vi" : "Địa chỉ RSS",
+    "zh" : "RSS地址"
+  },
+  "검색된 태그가 없습니다." : {
+    "en" : "No searched tags.",
+    "ja" : "検索されたタグがありません。",
+    "vi" : "Không có tag được tìm kiếm",
+    "zh" : "没有搜索的标记."
+  },
+  "분류를 선택해주세요." : {
+    "en" : "Please select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn phân loại",
+    "zh" : "请选择分类。"
+  },
+  "중요공지 게시기한은 6개월을 넘을 수 없습니다." : {
+    "en" : "Important notices cannot be posted longer than 6 months.",
+    "ja" : "重要なお知らせ投稿期限は、6ヶ月を超えることはできません。",
+    "vi" : "Thời hạn đăng thông báo quan trọng không thể quá 6 tháng",
+    "zh" : "重要公告告示期限不可超过6个月。"
+  },
+  "양식분류" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục bản mẫu",
+    "zh" : "样式分类"
+  },
+  "상품가격" : {
+    "en" : "Product price",
+    "ja" : "商品価格",
+    "vi" : "Giá sản phẩm",
+    "zh" : "商品价格"
+  },
+  "공지기한까지" : {
+    "en" : "Until Notice Deadline",
+    "ja" : "お知らせ期限まで",
+    "vi" : "Cho tới thời hạn thông báo",
+    "zh" : "到公告期限"
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi mail",
+    "zh" : "发送邮件"
+  },
+  "조회" : {
+    "en" : "View",
+    "ja" : "照会",
+    "vi" : "Xem",
+    "zh" : "查询"
+  },
+  "총마일리지" : {
+    "en" : "Total mileage",
+    "ja" : "マイレージの合計",
+    "vi" : "Tổng số dặm",
+    "zh" : "总积分"
+  },
+  "검색조건으로 사용됨" : {
+    "en" : "Used as search rule",
+    "ja" : "検索条件で使用される",
+    "vi" : "Được sử dụng làm điều kiện tìm kiếm.",
+    "zh" : "使用为搜索条件"
+  },
+  "구매자가 없습니다." : {
+    "en" : "There are no buyers.",
+    "ja" : "購入者がいません。",
+    "vi" : "Không có người mua.",
+    "zh" : "无购买者"
+  },
+  "연간" : {
+    "en" : "Yearly",
+    "ja" : "年間",
+    "vi" : "theo năm",
+    "zh" : "年间"
+  },
+  "목록 개수" : {
+    "en" : "Show per page",
+    "ja" : "リスト数",
+    "vi" : "Số lượng danh sách",
+    "zh" : "目录个数"
+  },
+  "일간" : {
+    "en" : "Daily",
+    "ja" : "日間",
+    "vi" : "Hằng ngày",
+    "zh" : "每日的"
+  },
+  "점수" : {
+    "en" : "Score",
+    "ja" : "スコア",
+    "vi" : "Điểm",
+    "zh" : "分数"
+  },
+  "익명유형은 조회이력을 저장하지 않으며, 등록자 이외 찬반/설문 등은 실명으로 처리 됩니다." : {
+    "en" : "Anonymous types do not save browsing history, and approval/voting/surveys, etc., are handled by real names except for the registrant.",
+    "ja" : "匿名タイプは照会履歴を保存せず、登録者以外の賛否/アンケートなどは実名で処理されます。",
+    "vi" : "Lịch sử xem không được lưu đối với loại ẩn danh và các hành động như bỏ phiếu/khảo sát sẽ được xử lý bằng tên thật, ngoại trừ người đăng.",
+    "zh" : "匿名类型不存储查询历史记录，注册者以外的赞成和反对/调查等将以实名处理。"
+  },
+  "간단설문" : {
+    "en" : "Simple Survey",
+    "ja" : "簡単なアンケート",
+    "vi" : "Khảo sát đơn giản",
+    "zh" : "简单问卷"
+  },
+  "판매완료" : {
+    "en" : "Sold out",
+    "ja" : "販売完了",
+    "vi" : "Đã bán",
+    "zh" : "销售完了"
+  },
+  "상세보기" : {
+    "en" : "View details",
+    "ja" : "詳細表示",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细看"
+  },
+  "게시판을 복사하였습니다." : {
+    "en" : "The board has been copied.",
+    "ja" : "掲示板をコピーしました。",
+    "vi" : "Đã sao chép bảng tin.",
+    "zh" : "已复制公告栏。"
+  },
+  "빈양식사용" : {
+    "en" : "Use a blank form",
+    "ja" : "ブランクフォームを使用",
+    "vi" : "Sử dụng bản mẫu để trống",
+    "zh" : "使用空样式"
+  },
+  "핫라인(신문고)" : {
+    "en" : "Hotline",
+    "ja" : "ホットライン",
+    "vi" : "Đường dây nóng (Hotline)",
+    "zh" : "热线"
+  },
+  "개" : {
+    "en" : "Items",
+    "ja" : "個",
+    "vi" : "Cái",
+    "zh" : "个"
+  },
+  "게시판명" : {
+    "en" : "Board name",
+    "ja" : "掲示板名",
+    "vi" : "Tên bảng tin",
+    "zh" : "公告栏名"
+  },
+  "양식내용" : {
+    "en" : "Form content",
+    "ja" : "フォーム内容",
+    "vi" : "Nội dung bản mẫu",
+    "zh" : "样式内样式内容"
+  },
+  "속성 더보기" : {
+    "en" : "See properties (detail)",
+    "ja" : "属性をもっと見る",
+    "vi" : "Xem thêm thuộc tính",
+    "zh" : "了解更多属性"
+  },
+  "상품 구매 신청이 대기로 변경 되었습니다." : {
+    "en" : "Product purchase application has been changed to pending.",
+    "ja" : "商品購入申請が保留中に変更されました。",
+    "vi" : "Đề xuất mua sản phẩm đã được thay đổi thành chờ xử lý.",
+    "zh" : "购买商品申请已更改为等待状态。"
+  },
+  "허용된 길이를 초과했습니다." : {
+    "en" : "It has exceeded the length limit.",
+    "ja" : "許容長さを超えました。",
+    "vi" : "Đã vượt quá giới hạn độ dài.",
+    "zh" : "超过了允许的长度。"
+  },
+  "반려의견" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し意見",
+    "vi" : "Ý kiến từ chối",
+    "zh" : "退回意见"
+  },
+  "설문결과가 없습니다." : {
+    "en" : "There are no survey results.",
+    "ja" : "アンケート結果がありません。",
+    "vi" : "Không có kết quả khảo sát",
+    "zh" : "没有设问结果。"
+  },
+  "게시판 설정" : {
+    "en" : "Bulletin board settings",
+    "ja" : "掲示板設定",
+    "vi" : "Cài đặt bảng tin",
+    "zh" : "布告栏设定"
+  },
+  "조직도 종류를 선택하세요." : {
+    "en" : "Select a style for the organizational chart.",
+    "ja" : "組織図の種類を選択してください。",
+    "vi" : "Hãy chọn loại sơ đồ tổ chức",
+    "zh" : "请选择组织图种类。"
+  },
+  "이미지" : {
+    "en" : "Image",
+    "ja" : "画像",
+    "vi" : "Hình ảnh",
+    "zh" : "图像"
+  },
+  "최소 - 최대길이" : {
+    "en" : "Minimum - Maximum Length",
+    "ja" : "最小 - 最大の長さ",
+    "vi" : "Chiều dài tối thiểu- tối đa",
+    "zh" : "最小-最大长度"
+  },
+  "추가 컬럼명" : {
+    "en" : "Additional Column name",
+    "ja" : "追加カラム名",
+    "vi" : "Tên cột thêm vào",
+    "zh" : "追加的专栏名"
+  },
+  "신청 게시물이 승인되었습니다." : {
+    "en" : "Application post has been approved.",
+    "ja" : "申請投稿が承認されました。",
+    "vi" : "Bài viết ứng dụng đã được phê duyệt.",
+    "zh" : "申请帖子已批准。"
+  },
+  "분류 사용" : {
+    "en" : "Use Classification",
+    "ja" : "カテゴリーの使用",
+    "vi" : "Sử dụng phân loại",
+    "zh" : "使用分类"
+  },
+  "{0}님의 신청이 접수되었습니다" : {
+    "en" : "Mr./Ms.{0}'s request has been accepted.",
+    "ja" : "{0}さんの申込が受付されました。",
+    "vi" : "Đăng ký của anh/chị {0} đã được tiếp nhận.",
+    "zh" : "{0}的申请受理完毕。"
+  },
+  "분류" : {
+    "en" : "Category",
+    "ja" : "分類",
+    "vi" : "hạng mục",
+    "zh" : "分类"
+  },
+  "사이드 메뉴" : {
+    "en" : "Sidebar",
+    "ja" : "サイドメニュー",
+    "vi" : "Side Menu",
+    "zh" : "副菜单"
+  },
+  "분류 설정" : {
+    "en" : "Category settings",
+    "ja" : "カテゴリ設定",
+    "vi" : "Cài đặt hạng mục",
+    "zh" : "设定分类"
+  },
+  "목록 제공 안함" : {
+    "en" : "Don't provide the list",
+    "ja" : "リストを提供しない",
+    "vi" : "Không cung cấp danh sách",
+    "zh" : "不提供目录"
+  },
+  "양식 선택" : {
+    "en" : "Select a form",
+    "ja" : "フォーム選択",
+    "vi" : "Chọn bản mẫu",
+    "zh" : "选择样式"
+  },
+  "사이" : {
+    "en" : "Between",
+    "ja" : "間",
+    "vi" : "Giữa",
+    "zh" : "之间"
+  },
+  "사내 벼룩시장 게시판으로 상품을 등록하고 구매할 수 있습니다." : {
+    "en" : "You can register your own products and purchase other people's products at the 'Flea Market' board.",
+    "ja" : "社内フリーマーケット掲示板に商品を登録して、購入することができます。",
+    "vi" : "Bạn có thể đăng và mua sản phẩm bằng bảng tin chợ truyền thống nội bộ công ty.",
+    "zh" : "通过公司跳蚤市场布告栏可以登录商品及购买东西。"
+  },
+  "등록을 승인하시겠습니까?" : {
+    "en" : "Do you want to approve the post?",
+    "ja" : "登録を承認しますか？",
+    "vi" : "Bạn có chấp nhận đăng không?",
+    "zh" : "要承认登录吗？"
+  },
+  "검색어 입력" : {
+    "en" : "Enter Search Keyword",
+    "ja" : "検索ワード入力",
+    "vi" : "Nhập từ khóa tìm kiếm",
+    "zh" : "输入关键词"
+  },
+  "연락처" : {
+    "en" : "Contact",
+    "ja" : "連絡先",
+    "vi" : "Địa chỉ liên lạc",
+    "zh" : "联系地址"
+  },
+  "검색된 분류가 없습니다." : {
+    "en" : "No categories found.",
+    "ja" : "検索された分類はありません。",
+    "vi" : "Không tìm thấy danh mục.",
+    "zh" : "没有找到搜索到的分类。"
+  },
+  "선택한 게시판 삭제 시, 주요 게시판에서만 삭제됩니다." : {
+    "en" : "When a selected postbox is deleted, it is only deleted from the main postbox.",
+    "ja" : "選択した掲示板を削除する場合、メイン掲示板からのみ削除されます。",
+    "vi" : "Khi xóa bảng thông báo đã chọn, nó sẽ chỉ được xóa ở bảng thông báo chính.",
+    "zh" : "若想删除已选公告栏，仅可于主要公告栏删除。"
+  },
+  "관심게시함에 추가" : {
+    "en" : "Add to 'Interesting Posts' board",
+    "ja" : "お気に入り掲示板に追加",
+    "vi" : "Thêm vào hộp bài quan tâm",
+    "zh" : "追加关心布告箱"
+  },
+  "항목순서 무작위" : {
+    "en" : "Randomize item order",
+    "ja" : "ランダム順",
+    "vi" : "Thứ tự hạng mục ngẫu nhiên",
+    "zh" : "项目顺序随机"
+  },
+  "게시물등록 요청을 했습니다." : {
+    "en" : "Post registration request has been made.",
+    "ja" : "投稿登録リクエストを送信しました。",
+    "vi" : "Yêu cầu đăng ký bài viết đã được thực hiện.",
+    "zh" : "已提交帖子注册请求。"
+  },
+  "대여 신청이 승인되었습니다." : {
+    "en" : "Loan request has been approved.",
+    "ja" : "貸出申請が承認されました。",
+    "vi" : "Yêu cầu mượn đã được phê duyệt.",
+    "zh" : "租用申请已批准。"
+  },
+  "공지사항은 삭제할 수 없습니다." : {
+    "en" : "The notice cannot be deleted.",
+    "ja" : "お知らせは削除できません。",
+    "vi" : "Không thể xóa nội dung thông báo.",
+    "zh" : "公告事项不可删除。"
+  },
+  "디폴트 값" : {
+    "en" : "Default value",
+    "ja" : "デフォルト値",
+    "vi" : "Giá trị mặc định",
+    "zh" : "默认值"
+  },
+  "읽은 게시" : {
+    "en" : "Read Posts",
+    "ja" : "既読掲示",
+    "vi" : "Bài đã đọc",
+    "zh" : "已经读的布告"
+  },
+  "체크한 분류는 트리에서 펼친 상태로 보여집니다." : {
+    "en" : "The checked classifications will be displayed in an expanded state in the tree.",
+    "ja" : "チェックしたカテゴリーはツリーで展開された状態で表示されます。",
+    "vi" : "Các phân loại đã được chọn sẽ được hiển thị ở trạng thái mở rộng trong cây.",
+    "zh" : "已选分类会显示为在树上散开的状态。"
+  },
+  "게시글 대리작성" : {
+    "en" : "Written by posting agent",
+    "ja" : "記事代理作成",
+    "vi" : "Viết bởi ngườiđại diện đăng bài",
+    "zh" : "代替写帖子"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name.",
+    "ja" : "フォルダ名を入力してください。",
+    "vi" : "Hãy nhập tên thư mục",
+    "zh" : "请输入文件夹名。"
+  },
+  "게시 알림" : {
+    "en" : "Post Notification",
+    "ja" : "掲示通知",
+    "vi" : "Thông báo đăng bài",
+    "zh" : "提醒公告"
+  },
+  "제목색상 선택" : {
+    "en" : "Select title color",
+    "ja" : "タイトルの色を選択",
+    "vi" : "Chọn màu cho tiêu đề",
+    "zh" : "选择题目颜色"
+  },
+  "별표 게시" : {
+    "en" : "Starred posts",
+    "ja" : "スター付き記事",
+    "vi" : "Thông báo có dấu sao",
+    "zh" : "星号布告"
+  },
+  "개 까지 추가할 수 있습니다. RSS 포스트는 10분 간격으로 수집, 3일 보관 후 삭제" : {
+    "en" : "RSS addresses. RSS posts will be gathered every 10 minutes, and will be stored for 3 days.",
+    "ja" : "個まで追加できます。 RSSポストは、10分間隔で収集、3日保管後に削除",
+    "vi" : "Có thể thêm đến…cái. RSS post được thu thập với giãn cách 10 phút, và xóa sau 3 ngày lưu giữ.",
+    "zh" : "可以追加（ ） 个。 RSS信箱每隔10分钟进行收集，保管3天后删除。"
+  },
+  "먼저 폴더를 선택하세요." : {
+    "en" : "First, please select the folder.",
+    "ja" : "先にフォルダを選択してください。",
+    "vi" : "Hãy chọn  trước thư mục.",
+    "zh" : "请先选择文件夹。"
+  },
+  "노출함" : {
+    "en" : "Show",
+    "ja" : "公開する",
+    "vi" : "Hiển thị",
+    "zh" : "露出"
+  },
+  "그룹 게시판" : {
+    "en" : "Group bulletin board",
+    "ja" : "グループ掲示板",
+    "vi" : "Bảng tin nhóm",
+    "zh" : "小组布告板"
+  },
+  "메일주소를 입력하세요." : {
+    "en" : "Enter an E-mail address.",
+    "ja" : "メールアドレスを入力してください。",
+    "vi" : "Hãy nhập địa chỉ mail",
+    "zh" : "请输入邮件地址。"
+  },
+  "글 등록" : {
+    "en" : "Add a message",
+    "ja" : "記事登録",
+    "vi" : "Đăng bài viết",
+    "zh" : "登录文章"
+  },
+  "부서 선택" : {
+    "en" : "Select department",
+    "ja" : "部署選択",
+    "vi" : "Chọn phòng ban",
+    "zh" : "选择部门"
+  },
+  "댓글단 게시물" : {
+    "en" : "Posts with comments.",
+    "ja" : "コメントの投稿",
+    "vi" : "Bài viết đã bình luận",
+    "zh" : "已评论的帖子"
+  },
+  "게시&nbsp;제목" : {
+    "en" : "Title",
+    "ja" : "掲示&nbsp;件名",
+    "vi" : "tiêu đề bài đăng",
+    "zh" : "公告&nbsp;题目"
+  },
+  "선택한 글을 대상 게시판으로 이동합니다." : {
+    "en" : "Move the selected message to the bulletin board.",
+    "ja" : "選択した記事を対象掲示板に移動します。",
+    "vi" : "Dichuyển bài viết đã chọn sang bảng tin đối tượng.",
+    "zh" : "把您选择的文章移动到对象布告栏。"
+  },
+  "{0}님의 게시글에 의견이 등록되었습니다." : {
+    "en" : "There is a new opinion on the article written by Mr./Ms. {0}",
+    "ja" : "{0}さんの掲示物に意見が登録されました。",
+    "vi" : "Ý kiến trên bài viết của anh/chị {0} đã được đăng",
+    "zh" : "{0}先生、女士的公告内容上登录了意见。"
+  },
+  "사용자를 선택해주세요." : {
+    "en" : "Please select a user.",
+    "ja" : "ユーザーを選択してください。",
+    "vi" : "Vui lòng chọn người dùng.",
+    "zh" : "请选择使用者。"
+  },
+  "{0}님이 대여 신청을 하였습니다." : {
+    "en" : "Mr./Ms.{0} has requested to borrow a material.",
+    "ja" : "{0}さんが貸し出しを申請しました。",
+    "vi" : "Anh/Chị {0} đã đăng ký mượn",
+    "zh" : "{0}申请了出租。"
+  },
+  "기본값이 너무 깁니다." : {
+    "en" : "Default value is too long.",
+    "ja" : "基本値が長すぎます。",
+    "vi" : "Giá trị mặc định quá dài",
+    "zh" : "基本值过长。"
+  },
+  "반납예정일을 입력해주세요." : {
+    "en" : "Enter the due date (return).",
+    "ja" : "返却予定日を入力してください。",
+    "vi" : "Hãy nhập ngày dự định trả",
+    "zh" : "请输入交换预订日。"
+  },
+  "핫라인 기능은 분류 사용이 제한됩니다. 핫라인 사용자는 모든 사용자의 게시물을 볼 수 있습니다. 등록자는 자신이 등록한 게시물만 볼 수 있습니다. 단, 익명 유형의 게시판에서는 등록자도 자신이 등록한 게시물을 확인할 수 없습니다." : {
+    "en" : "The hotline feature limits the use of categories. Hotline users can view posts from all users. The registrant can only view their own posts. However, in anonymous-type boards, registrants cannot view even their own posts.",
+    "ja" : "ホットライン機能は分類の使用が制限されます。ホットラインユーザーは全ユーザーの掲示物を閲覧できます。登録者は自分が登録した掲示物のみ閲覧することができます。但し、匿名タイプの掲示板では、登録者も自分が登録した掲示物を確認できません。",
+    "vi" : "Việc sử dụng phân loại bị hạn chế đối với chức năng tin nóng. Người sử dụng tin nóng có thể xem tất cả bài viết của người dùng. Người đăng chỉ có thể xem bài viết do mình đăng. Tuy nhiên, đối với bảng tin ẩn danh, người đăng cũng không thể xem bài viết do mình đăng.",
+    "zh" : "热线功能的分类使用受限。热线用户可以查看所有用户的帖子。注册者只能查看自己发布的帖子。但在匿名类型的论坛中，注册者也无法查看自己发布的帖子。"
+  },
+  "템플릿 명 수정" : {
+    "en" : "Change Template Name",
+    "ja" : "テンプレート名を修正",
+    "vi" : "Chỉnh sửa tên bản mẫu(template)",
+    "zh" : "修改模板名"
+  },
+  "버튼명을 입력하세요." : {
+    "en" : "Enter a button name.",
+    "ja" : "ボタン名を入力してください。",
+    "vi" : "Hãy nhập tên nút",
+    "zh" : "请输入按钮名。"
+  },
+  "답변 쓰기" : {
+    "en" : "Write a reply",
+    "ja" : "回答作成",
+    "vi" : "Viết câu trả lời",
+    "zh" : "写回复"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "사용중인 양식입니다. \\n삭제하시겠습니까?" : {
+    "en" : "This form is already in use. \\n Are you sure you wish to delete this form?",
+    "ja" : "使用中のフォームです。\\n削除しますか？",
+    "vi" : "Đây là bản mẫu đang được sử dụng. Wn bạn có muốn xóa không?",
+    "zh" : "使用中的样式。 \\n确定要删除吗?"
+  },
+  "{0} 은(는) 이미 등록한 게시함입니다." : {
+    "en" : "{0} is already a registered postbox.",
+    "ja" : "{0}はすでに登録済みの掲示板です。",
+    "vi" : "{0} là hộp thông báo đã thêm rồi.",
+    "zh" : "{0} 为已上传公告箱。"
+  },
+  "게시판 생성" : {
+    "en" : "Create Board",
+    "ja" : "掲示板の生成",
+    "vi" : "Tạo Bảng tin",
+    "zh" : "做布告栏"
+  },
+  "설정/관리" : {
+    "en" : "Settings/Manage",
+    "ja" : "設定/管理",
+    "vi" : "Cài đặt/ Quản lý",
+    "zh" : "设定/管理"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다. 이페이지에서 벗어나시겠습니까?" : {
+    "en" : "All progress will be lost. Are you sure you wish to leave this page?",
+    "ja" : "現在作成中の内容がすべて削除されます。このページを閉じますか？",
+    "vi" : "Nội dung đang viết hiện tại sẽ bị xóa hết. Bạn có muốn rời khỏi trang này không?",
+    "zh" : "现在制作中的内容会被全部删除。要离开这个网页吗？"
+  },
+  "사용자 설정" : {
+    "en" : "User settings",
+    "ja" : "ユーザー設定",
+    "vi" : "Cài đặt người dùng",
+    "zh" : "使用者设定"
+  },
+  "하와이 표준시" : {
+    "en" : "Hawaii Standard Time",
+    "ja" : "ハワイ標準時刻",
+    "vi" : "Giờ chuẩn Hawaii",
+    "zh" : "夏威夷 标准时"
+  },
+  "말머리 50개까지 등록, 한글 기준 30자 이내, 특수문자는 _ - . / 만 허용" : {
+    "en" : "You can add up to 50 headings. Max. 30 characters. Available special characters: _ - . /",
+    "ja" : "表題50個まで登録、30文字以内、特殊文字は _ - . / のみを許可",
+    "vi" : "Có thể đăng ký 50 lời mở đầu. Chỉ chấp nhận dưới 30 kí tự tiếng Hàn và ký tự đặc biệt là _ - . /",
+    "zh" : "话题最多可以登录50个，韩文为准30字以内，特殊文字只允许使用 _ - . /"
+  },
+  "게시판 추가시 공유자에 기본 설정됩니다." : {
+    "en" : "When adding a bulletin board, the people sharing this bulletin board will be set as default.",
+    "ja" : "掲示板の追加時、共有者に基本設定されます。",
+    "vi" : "Khi thêm bảng tin, người chia sẻ được cài đặt mặc định.",
+    "zh" : "当添加公告栏时共享这个公告栏的人将被设置为默认值。"
+  },
+  "등록을 반려했습니다." : {
+    "en" : "The post has been rejected.",
+    "ja" : "登録を差戻しました。",
+    "vi" : "Đã từ chối đăng",
+    "zh" : "登录已退回。"
+  },
+  "등록자를 선택하세요." : {
+    "en" : "Please select an author.",
+    "ja" : "登録者を選択してください。",
+    "vi" : "Vui lòng chọn người đăng.",
+    "zh" : "请选择登录人。"
+  },
+  "기본으로 체크" : {
+    "en" : "Check as default",
+    "ja" : "基本にチェック",
+    "vi" : "Kiểm tra mặc định",
+    "zh" : "打钩为基本"
+  },
+  "{0}님의 생일을 축하드립니다." : {
+    "en" : "Happy Birthday to Mr./Ms. {0}!",
+    "ja" : "{0}さん、お誕生日おめでとうございます。",
+    "vi" : "Xin chúc mừng sinh nhật tới anh/chị {0}",
+    "zh" : "恭喜{0}的生日。"
+  },
+  "게시판 작성" : {
+    "en" : "Create Bulletins",
+    "ja" : "掲示板作成",
+    "vi" : "Viết bảng tin",
+    "zh" : "编辑留言板"
+  },
+  "분류 이동" : {
+    "en" : "Move category",
+    "ja" : "カテゴリを移動",
+    "vi" : "Di chuyển phân loại",
+    "zh" : "分流转移"
+  },
+  "판매자 정보" : {
+    "en" : "Seller information",
+    "ja" : "販売者情報",
+    "vi" : "Thông tin người bán",
+    "zh" : "销售者信息"
+  },
+  "예약이 승인되었습니다." : {
+    "en" : "Reservation has been approved.",
+    "ja" : "予約が承認されました。",
+    "vi" : "Đặt chỗ đã được phê duyệt.",
+    "zh" : "预订已批准。"
+  },
+  "제목 색상" : {
+    "en" : "Title color",
+    "ja" : "タイトルの色",
+    "vi" : "Màu tiêu đề",
+    "zh" : "题目颜色"
+  },
+  "주요 게시함" : {
+    "en" : "Main postbox",
+    "ja" : "メイン掲示板",
+    "vi" : "Hộp thông báo chính",
+    "zh" : "主要公告箱"
+  },
+  "사진첨부" : {
+    "en" : "Attach images",
+    "ja" : "写真添付",
+    "vi" : "Đính kèm hình ảnh",
+    "zh" : "附加照片"
+  },
+  "[컬럼 선택]의 '선택 컬럼' 항목에서 Drag&Drop 으로 컬럼의 위치를 변경한 후 [적용] 버튼을 클릭합니다." : {
+    "en" : "Change the position of the column from the 'Select column' item in [Select column] via drag & drop. When you are finished, click the [Apply] button",
+    "ja" : "「カラム選択」の項目でドラッグ＆ドロップしてカラムの位置を変更した後、「適用」ボタンをクリックします。",
+    "vi" : "Sau khi sử dụng tính năng Kéo và thả để thay đổi vị trí cột trong mục 'Cột chọn' trong ô [Chọn cột], sau đó nhấp vào nút [Áp dụng].",
+    "zh" : "[专栏选择]的‘选择专栏’项目中通过Drag&Drop更改专栏位置后点击[适用]键。"
+  },
+  "태그 기능을 사용하면 게시물 태그 검색을 지원합니다." : {
+    "en" : "If you use the Tag function, you can search the post using tags.",
+    "ja" : "タグ機能を使用すると、記事のタグ検索をサポートします。",
+    "vi" : "Hỗ trợ tìm kiếm  tag  bài đăng khi sử dụng chức năng tag.",
+    "zh" : "使用标记技能的话支持布告内容标记搜索。"
+  },
+  "실패" : {
+    "en" : "Failure",
+    "ja" : "失敗",
+    "vi" : "Thất bại",
+    "zh" : "失败"
+  },
+  "기본" : {
+    "en" : "Default",
+    "ja" : "基本",
+    "vi" : "mặc định",
+    "zh" : "默认"
+  },
+  "제목없음" : {
+    "en" : "No Title",
+    "ja" : "件名なし",
+    "vi" : "Không có tựa đề",
+    "zh" : "没有题目"
+  },
+  "{0}이 반려되었습니다." : {
+    "en" : "{0} has been rejected.",
+    "ja" : "{0}が差戻されました。",
+    "vi" : "{0} đã bị từ chối",
+    "zh" : "{0}已被退回。"
+  },
+  "{0}개이상 추가할 수 없습니다." : {
+    "en" : "You can't add more than {0}.",
+    "ja" : "{0}個以上は追加できません。",
+    "vi" : "Không thể thêm hơn {0} cái",
+    "zh" : "{0}个以上不可追加。"
+  },
+  "사용용량" : {
+    "en" : "Used Space",
+    "ja" : "使用容量",
+    "vi" : "Dung lượng sử dụng",
+    "zh" : "使用用量"
+  },
+  "게시판에서 사용할 분류를 선택합니다." : {
+    "en" : "Select the category to be used in the board.",
+    "ja" : "掲示板で使用する分類を選択します。",
+    "vi" : "Chọn phân loại sẽ sử dụng trên bảng tin.",
+    "zh" : "选择论坛将要使用的分类。"
+  },
+  "이번주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "这个星期"
+  },
+  "왼쪽메뉴 포함" : {
+    "en" : "Menu (Left Side) included",
+    "ja" : "左側メニューを含む",
+    "vi" : "Bao gồm menu bên trái",
+    "zh" : "包括右边项目"
+  },
+  "글 목록화면 디자인" : {
+    "en" : "Message List Screen Design",
+    "ja" : "記事リスト画面のデザイン",
+    "vi" : "Thiết kế màn hình mục lục bài viết",
+    "zh" : "设计文章目录画面"
+  },
+  "{0}만 가능합니다." : {
+    "en" : "Only {0} can be used.",
+    "ja" : "{0}のみ可能です。",
+    "vi" : "Chỉ có thể {0}",
+    "zh" : "只能进行{0}"
+  },
+  "컬럼 선택" : {
+    "en" : "Select a column",
+    "ja" : "カラム選択",
+    "vi" : "Chọn cột",
+    "zh" : "选择专栏"
+  },
+  "차감" : {
+    "en" : "Deduct",
+    "ja" : "差し引き",
+    "vi" : "Giảm",
+    "zh" : "扣除"
+  },
+  "선택한 분류의 하위 분류의 상하 위치를 변경합니다." : {
+    "en" : "Change the position (up/down) of the subcategories in the selected category.",
+    "ja" : "選択した分類の下位カテゴリの上下位置を変更します。",
+    "vi" : "Thay đổi vị trí danh mục trên và dưới thuộc danh mục đã chọn",
+    "zh" : "变更已选择的下属分类的上下位置。"
+  },
+  "한번에 4개까지만 선택할 수 있습니다." : {
+    "en" : "You can select up to 4 at one time.",
+    "ja" : "一度に4個まで選択できます。",
+    "vi" : "Chỉ có thể chọn 4 cái một lần",
+    "zh" : "一次最多可以输入4个。"
+  },
+  "분류관리" : {
+    "en" : "Manage categories",
+    "ja" : "カテゴリ管理",
+    "vi" : "Quản lý phân loại",
+    "zh" : "管理分类"
+  },
+  "별표하기" : {
+    "en" : "Star",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "부서 게시판" : {
+    "en" : "Department bulletin board",
+    "ja" : "部署掲示板",
+    "vi" : "Bảng tin phòng ban",
+    "zh" : "部门布告栏"
+  },
+  "게시판 선택" : {
+    "en" : "Select a bulltin board",
+    "ja" : "掲示板選択",
+    "vi" : "Chọn bảng tin",
+    "zh" : "选择布告栏"
+  },
+  "대리인" : {
+    "en" : "Agent",
+    "ja" : "代理人",
+    "vi" : "người đại  diện",
+    "zh" : "代替人"
+  },
+  "폴더 복사" : {
+    "en" : "Copy folder",
+    "ja" : "フォルダをコピー",
+    "vi" : "Sao chép thư mục",
+    "zh" : "拷贝文件夹"
+  },
+  "설문 항목" : {
+    "en" : "Survey items",
+    "ja" : "アンケート項目",
+    "vi" : "Hạng mục khảo sát",
+    "zh" : "设问项目"
+  },
+  "목록 순서" : {
+    "en" : "List order",
+    "ja" : "リスト順",
+    "vi" : "Thứ tự mục lục",
+    "zh" : "目录顺序"
+  },
+  "게시물등록승인" : {
+    "en" : "Approve post",
+    "ja" : "記事登録の承認",
+    "vi" : "Chấp nhận đăng bài thông báo",
+    "zh" : "承认注册布告内容"
+  },
+  "선택한 게시물에 대한 권한이 없습니다." : {
+    "en" : "No authorization on a selected posting.",
+    "ja" : "選択した掲示物に対する権限がありません。",
+    "vi" : "Không có quyền hạn về bài viết đã chọn.",
+    "zh" : "您没有对所选文章的权限 。"
+  },
+  "수정된 게시물을 확인하려면 아래 게시물보기를 클릭하세요." : {
+    "en" : "To view the modified article, click the 'View Article' button below.",
+    "ja" : "修正された記事を確認するためには、下の記事を表示をクリックしてください。",
+    "vi" : "Nếu muốn kiểm tra bài đăng được sửa, hãy nhấp chọn thông tin bài đăng dưới đây.",
+    "zh" : "要确认修改的布告内容的话，请点击下边收看布告内容。"
+  },
+  "반려된 게시물은 임시보관함에 저장됩니다." : {
+    "en" : "Rejected articles will be saved in 'Drafts.'",
+    "ja" : "差戻された掲示物は下書き保管Boxに保存されます。",
+    "vi" : "Bài viết bị từ chối được lưu vào hộp lưu giữ tạm thời.",
+    "zh" : "发还的公告内容会保存在临时保管箱。"
+  },
+  "분류 관리" : {
+    "en" : "Classification Management",
+    "ja" : "カテゴリー管理",
+    "vi" : "Quản lý phân loại",
+    "zh" : "分类管理"
+  },
+  "사용자 선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Lựa chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "구매수량" : {
+    "en" : "Quantity",
+    "ja" : "購入数量",
+    "vi" : "Số lượng mua",
+    "zh" : "购买数量"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Enter content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Hãy nhập nội dung",
+    "zh" : "请输入内容。"
+  },
+  "데이터" : {
+    "en" : "Data",
+    "ja" : "データ",
+    "vi" : "Dữ liệu",
+    "zh" : "数据"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "남은수량" : {
+    "en" : "Remaining",
+    "ja" : "残数",
+    "vi" : "Số lượng còn lại",
+    "zh" : "剩下数量"
+  },
+  "총" : {
+    "en" : "Total",
+    "ja" : "計",
+    "vi" : "Tổng",
+    "zh" : "总"
+  },
+  "게시판별 등록 현황" : {
+    "en" : "Statistics (by bulletin board)",
+    "ja" : "掲示板別の登録状況",
+    "vi" : "Tình hình đăng theo bảng tin",
+    "zh" : "布告栏别登录现况"
+  },
+  "익명게시판은 사용자 조회가 불가합니다." : {
+    "en" : "You cannot see the user information in the anonymous board.",
+    "ja" : "匿名掲示板ではユーザー照会ができません。",
+    "vi" : "Không thể tra cứu người dùng trong bảng tin ẩn danh.",
+    "zh" : "匿名布告栏不可查询使用者。"
+  },
+  "게시판 대상 분류 글을 선택 분류로 일괄 변경합니다." : {
+    "en" : "Change all posts in the target category of the board to the selected category in bulk.",
+    "ja" : "掲示板の対象分類のポストを選択した分類に一括変更します。",
+    "vi" : "Thay đổi tất cả bài viết trong phân loại mục tiêu của bảng tin sang phân loại đã chọn.",
+    "zh" : "将论坛目标分类帖子统一更改为所选分类。"
+  },
+  "대리인 등록 사용" : {
+    "en" : "Add an agent",
+    "ja" : "代理人の登録に使用",
+    "vi" : "Sử dụng Đăng bởi người đại điện",
+    "zh" : "使用代理人登录"
+  },
+  "RSS 추가" : {
+    "en" : "Add RSS",
+    "ja" : "RSS追加",
+    "vi" : "Thêm RSS",
+    "zh" : "RSS 追加"
+  },
+  "게시예약" : {
+    "en" : "Schedule a Post",
+    "ja" : "掲示予約",
+    "vi" : "Đặt trước đăng bài",
+    "zh" : "预订布告"
+  },
+  "상위폴더" : {
+    "en" : "Parent folder",
+    "ja" : "上位フォルダ",
+    "vi" : "Thư mục trên",
+    "zh" : "上位文件夹"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày tháng",
+    "zh" : "日期"
+  },
+  "게시판명을 입력하세요." : {
+    "en" : "Type a board name.",
+    "ja" : "掲示板名を入力してください。",
+    "vi" : "Hãy nhập tên bảng tin",
+    "zh" : "请输入布告栏名。"
+  },
+  "모든 게시함" : {
+    "en" : "All bulletin boards",
+    "ja" : "すべての掲示板",
+    "vi" : "Hộp tất cả bài đăng",
+    "zh" : "所有布告箱"
+  },
+  "검색식" : {
+    "en" : "Search formula",
+    "ja" : "検索式",
+    "vi" : "Phương thức tìm kiếm",
+    "zh" : "所艘式"
+  },
+  "첨부파일 기한 제한" : {
+    "en" : "Limit attachment expiration",
+    "ja" : "添付ファイル期限制限",
+    "vi" : "Giới hạn kỳ hạn tập tin đính kèm",
+    "zh" : "附件期限限制"
+  },
+  "게시함" : {
+    "en" : "Publish",
+    "ja" : "投稿",
+    "vi" : "Xuất bản",
+    "zh" : "论坛"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng",
+    "zh" : "登录人"
+  },
+  "반납예정일" : {
+    "en" : "Scheduled Return date",
+    "ja" : "返却予定日",
+    "vi" : "Ngày dự định trả",
+    "zh" : "退还预定日"
+  },
+  "파일첨부" : {
+    "en" : "Attach file",
+    "ja" : "ファイル添付",
+    "vi" : "Đính kèm tệp",
+    "zh" : "附加文档"
+  },
+  "{0}님의 결혼기념일을 축하드립니다." : {
+    "en" : "Happy wedding anniversary to Mr./Ms. {0}!",
+    "ja" : "{0}さん、結婚記念日おめでとうございます。",
+    "vi" : "Chúc mừng ngày kỉ niệm kết hôn tới anh/chị {0}",
+    "zh" : "恭喜{0}的结婚纪念日。"
+  },
+  "설문결과" : {
+    "en" : "Survey results",
+    "ja" : "アンケート結果",
+    "vi" : "Kết quả khảo sát",
+    "zh" : "设问结果"
+  },
+  "종료방법" : {
+    "en" : "How to end",
+    "ja" : "終了方法",
+    "vi" : "Cách kết thúc",
+    "zh" : "结束方法"
+  },
+  "[컬럼수정]버튼으로 [컬럼선택] 레이어에서 글 목록 화면 디자인을 변경할 수 있습니다." : {
+    "en" : "Use the [Modify Column] button to change the text list screen design in the [Select Column] layer",
+    "ja" : "「カラム修正」ボタンで「カラム」選択レイヤーからテキスト目録画面のデザインを変更することができます。",
+    "vi" : "Có thể thay đổi thiết kế màn hình danh sách bài viết bằng nút [Chỉnh sửa cột] tại ô [Chọn cột].",
+    "zh" : "通过[专栏修改]键在[专栏选择]层中可更改内容目录画面设计。"
+  },
+  "화면 디자인은 통합게시판일 경우에만 제공됩니다." : {
+    "en" : "Screen design is only available for the integrated board.",
+    "ja" : "画面デザインは、統合掲示板でのみ利用できます。",
+    "vi" : "Thiết kế màn hình chỉ được cung cấp trong trường hợp là bảng tin tổng hợp",
+    "zh" : "画面设计为综合布告栏的话才能提供。"
+  },
+  "추가 후 계속" : {
+    "en" : "Add & Continue",
+    "ja" : "追加後に継続",
+    "vi" : "Tiếp tục sau khi thêm",
+    "zh" : "追加后继续"
+  },
+  "회사구분" : {
+    "en" : "Affiliate",
+    "ja" : "会社区分",
+    "vi" : "Phân loại công ty",
+    "zh" : "公司区分"
+  },
+  "게시글 목록" : {
+    "en" : "Posts List",
+    "ja" : "掲示物 リスト",
+    "vi" : "Bài viết Danh sách",
+    "zh" : "布告文章 目录"
+  },
+  "템플릿 관리" : {
+    "en" : "Manage templates",
+    "ja" : "テンプレート管理",
+    "vi" : "Quản lý bản mẫu",
+    "zh" : "模板管理"
+  },
+  "링크유형은 화면 디자인을 제공하지 않습니다." : {
+    "en" : "Link type does not provide a screen design.",
+    "ja" : "リンクタイプは画面デザインを提供していません。",
+    "vi" : "Loại liên kết không cung cấp thiết kế màn hình.",
+    "zh" : "链接类型不提供画面设计。"
+  },
+  "익명 유형은 등록자를 알 수 없으며, 등록자도 등록 후 수정/삭제를 할 수 없습니다." : {
+    "en" : "Anonymous posts cannot identify the registrant, and registrants cannot modify or delete their posts after registration.",
+    "ja" : "匿名タイプは登録者を特定できず、登録者自身も登録後に修正または削除することはできません。",
+    "vi" : "Các bài đăng ẩn danh không thể xác định người đăng ký, và người đăng ký không thể chỉnh sửa hoặc xóa bài đăng của họ sau khi đăng ký.",
+    "zh" : "匿名类型的注册者是未知的，注册者也无法在注册后进行修改/删除。"
+  },
+  "폴더 이동" : {
+    "en" : "Move folder",
+    "ja" : "フォルダを移動",
+    "vi" : "Di chuyển thư mục",
+    "zh" : "移动文件夹"
+  },
+  "필수" : {
+    "en" : "Required",
+    "ja" : "必須",
+    "vi" : "Bắt buộc",
+    "zh" : "必须"
+  },
+  "동영상 제외" : {
+    "en" : "Exclude video",
+    "ja" : "動画を除く",
+    "vi" : "Ngoại trừ video",
+    "zh" : "排除视频"
+  },
+  "선택 컬럼" : {
+    "en" : "Selected column",
+    "ja" : "選択カラム",
+    "vi" : "Cột được chọn",
+    "zh" : "选择的专栏"
+  },
+  "대여 반납 완료되었습니다." : {
+    "en" : "Loan has been completed.",
+    "ja" : "貸出の返却が完了しました。",
+    "vi" : "Mượn đã được hoàn thành.",
+    "zh" : "已完成租用归还。"
+  },
+  "이미 투표한 설문입니다." : {
+    "en" : "You have already participated in this survey.",
+    "ja" : "既に投票したアンケートです。",
+    "vi" : "Đây là nội dung khảo sát đã được bỏ phiếu",
+    "zh" : "已经投票的设问。"
+  },
+  "핫라인 사용자는 모든 사용자의 글을 조회할 수 있고 사용자는 본인의 글만 조회 가능하나 익명 게시판은 등록자가 확인을 할 수 없습니다." : {
+    "en" : "Hotline users can view posts from all users, while regular users can only view their own posts. However, the registrant cannot check anonymous posts.",
+    "ja" : "ホットラインのユーザーは全ユーザーの書き込みを照会することができ、ユーザーは本人の書き込みに限って照会することができます。ただし、匿名掲示板は登録者が確認できません。",
+    "vi" : "Người dùng hot line có thể truy cập bài viết của tất cả người dùng và người dùng chỉ có thể truy cập bài viết của bản thân nhưng đối với bảng thông báo ẩn danh, người đăng không thể xác nhận.",
+    "zh" : "热线使用者可查看所有使用者的文章，使用者仅可查看本人的文章，但上传者无法确认匿名公告栏。"
+  },
+  "댓글" : {
+    "en" : "Comment",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "留言"
+  },
+  "계속" : {
+    "en" : "Continue",
+    "ja" : "継続",
+    "vi" : "Liên tục",
+    "zh" : "继续"
+  },
+  "내부공개구분" : {
+    "en" : "Show approval process internally",
+    "ja" : "内部公開区分",
+    "vi" : "Phân loại công khai nội bộ",
+    "zh" : "内部公开区分"
+  },
+  "모바일 url" : {
+    "en" : "Mobile URL",
+    "ja" : "モバイル url",
+    "vi" : "URL di động",
+    "zh" : "手机Url"
+  },
+  "상품등록" : {
+    "en" : "Add Products",
+    "ja" : "商品登録",
+    "vi" : "Đăng sản phẩm",
+    "zh" : "登录商品"
+  },
+  "채택된 답변의 답변자" : {
+    "en" : "Answerer (Chosen answer)",
+    "ja" : "選択された回答の回答者",
+    "vi" : "Người trả lời có câu trả lời được lựa chọn",
+    "zh" : "被采取的答复答复者"
+  },
+  "게시물 보기" : {
+    "en" : "View Article",
+    "ja" : "掲示物表示",
+    "vi" : "Xem bài viết",
+    "zh" : "收看公告内容"
+  },
+  "상세숨김" : {
+    "en" : "Hide Details",
+    "ja" : "詳細非表示",
+    "vi" : "Ẩn chi tiết",
+    "zh" : "隐藏详细"
+  },
+  "{0} 항목값은  {1} 이상이어야 합니다." : {
+    "en" : "{0} item value must be more than {1}.",
+    "ja" : "{0}項目値は{1}以上でなければなりません。",
+    "vi" : "Giá trị của mục {0} phải lớn hơn {1}",
+    "zh" : "{0} 项目值得  {1}以上。"
+  },
+  "통계 대상은 현재까지 등록된 데이터입니다." : {
+    "en" : "The target for statistics is the data registered so far.",
+    "ja" : "統計対象は現在までに登録されたデータです。",
+    "vi" : "Đối tượng thống kê là dữ liệu đã đăng ký cho đến nay.",
+    "zh" : "统计对象为目前为止已上传数据。"
+  },
+  "예약 시간은 현재 시간보다 늦은 시간이어야 합니다." : {
+    "en" : "The scheduled time must be later than the current time.",
+    "ja" : "予約時間は現在時間より遅い時間にする必要があります。",
+    "vi" : "Thời gian đặt trước phải là thời gian muộn hơn thời gian hiện tại.",
+    "zh" : "要预订的时间得比现在时间晚。"
+  },
+  "이미지 크기 000 x 00, 형식 gif, jpg, png, swf" : {
+    "en" : "Image size  000 x 00, Format gif, jpg, png, swf",
+    "ja" : "画像サイズ 000 x 00、形式 gif、jpg、png、swf",
+    "vi" : "Kích cỡ hình ảnh 000x 00, hình thức gif, jpg, png, swf",
+    "zh" : "图像大小 000 x 00, 形式 gif, jpg, png, swf"
+  },
+  "저장된 검색식은 이 게시판에서만 사용할 수 있습니다." : {
+    "en" : "Saved search formulas can be used in this bulletin board only.",
+    "ja" : "保存された検索方式はこの掲示板でのみ使用できます。",
+    "vi" : "Phương thức tìm kiếm được lưu chỉ sử dụng ở bảng tin này.",
+    "zh" : "保存完的搜索方式只能在本布告栏上使用。"
+  },
+  "익명유형은 조회이력을 저장하지 않으며, 등록자 이외 추천/댓글/찬반/설문 등은 실명으로 처리 됩니다." : {
+    "en" : "The browsing history of anonymous posts are not saved. All recommendations/comments/opinions/surveys, etc. from people other than the registrant will be posted under their real names.",
+    "ja" : "匿名タイプは照会履歴が保存されず、登録者以外の推薦・コメント・賛否・アンケートなどは実名で処理されます。",
+    "vi" : "Loại ẩn danh không lưu lịch sử truy cập, ngoài người đăng, những gợi ý/bình luận/tán thành phản đối/khảo sát đều được xử lý bằng tên thật.",
+    "zh" : "匿名类型不保存查看历史，除上传者外的推荐/留言/赞成与反对/问卷调查将以实名处理。"
+  },
+  "익명 게시판에는 복사할 수 없습니다." : {
+    "en" : "Unable to copy to Anonymous bulletin board.",
+    "ja" : "匿名掲示板にはコピーできません。",
+    "vi" : "Không thể sao chép vào bảng thông báo ẩn danh",
+    "zh" : "不可拷贝到匿名布告栏。"
+  },
+  "등록된 태그가 없습니다." : {
+    "en" : "No added tags.",
+    "ja" : "登録されたタグがありません。",
+    "vi" : "Không có tag được đăng.",
+    "zh" : "没有登录的标记。"
+  },
+  "파일 등록" : {
+    "en" : "Add Files",
+    "ja" : "ファイル登録",
+    "vi" : "Đăng tệp",
+    "zh" : "登录文件夹"
+  },
+  "최소-최대길이 값을 확인해주세요." : {
+    "en" : "Please check the minimum-maximum length of the value.",
+    "ja" : "最小―最大の長さの数値を確認してください。",
+    "vi" : "Vui lòng kiểm tra giá trị độ dài tối thiểu-tối đa.",
+    "zh" : "请确认最小-最大长度值。"
+  },
+  "찬반" : {
+    "en" : "For-Against",
+    "ja" : "賛否",
+    "vi" : "Tán thành hoặc phản đối",
+    "zh" : "赞反"
+  },
+  "관심표시" : {
+    "en" : "Mark as 'Interesting'",
+    "ja" : "お気に入り表示",
+    "vi" : "Đánh dấu quan tâm",
+    "zh" : "表示关心"
+  },
+  "마일리지 통계" : {
+    "en" : "Mileage statistics",
+    "ja" : "マイレージ統計",
+    "vi" : "Thống kê số dặm",
+    "zh" : "积分统计"
+  },
+  "이름을 입력하세요." : {
+    "en" : "Enter a name.",
+    "ja" : "名前を入力してください。",
+    "vi" : "Hãy nhập tên",
+    "zh" : "请输入名字。"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "폴더 목록" : {
+    "en" : "Folders list",
+    "ja" : "フォルダリスト",
+    "vi" : "Danh sách thư mục",
+    "zh" : "文件夹目录"
+  },
+  "선택한 글을" : {
+    "en" : "The selected message",
+    "ja" : "選択した記事を",
+    "vi" : "Bài viết đã chọn",
+    "zh" : "把选择的文章"
+  },
+  "게시판 삭제" : {
+    "en" : "Delete Board",
+    "ja" : "掲示板の削除",
+    "vi" : "Xóa Bảng tin",
+    "zh" : "删除布告栏"
+  },
+  "텍스트" : {
+    "en" : "Text",
+    "ja" : "テキスト",
+    "vi" : "Văn bản",
+    "zh" : "文本"
+  },
+  "지난 일자를 선택할 수 없습니다." : {
+    "en" : "You cannot select a date that has already passed.",
+    "ja" : "過去の日付は選択できません。",
+    "vi" : "Không thể chọn ngày đã qua",
+    "zh" : "不可选择已经过去的日子。"
+  },
+  "관심해제" : {
+    "en" : "Uninterested",
+    "ja" : "お気に入り削除",
+    "vi" : "Bỏ Quan tâm.",
+    "zh" : "解除关注"
+  },
+  "예약자를 선택해주세요." : {
+    "en" : "Select a borrower.",
+    "ja" : "予約者を選択してください。",
+    "vi" : "Hãy chọn người đặt trước.",
+    "zh" : "请选择预订人。"
+  },
+  "앨범형" : {
+    "en" : "Album type",
+    "ja" : "アルバム型",
+    "vi" : "Dạng Album",
+    "zh" : "相册型"
+  },
+  "폴더 선택" : {
+    "en" : "Select Folder",
+    "ja" : "フォルダを選択",
+    "vi" : "Chọn thư mục",
+    "zh" : "选择文件夹"
+  },
+  "핫라인 사용자는 모든 사용자의 게시물을 볼 수 있으나, 다른 사용자는 본인 게시물만 볼 수 있습니다. 단, 익명게시판은 등록자도 본인 게시물을 확인할 수 없습니다." : {
+    "en" : "Hotline users can view posts from all users, but other users can only view their own posts. However, in the anonymous board, even the registrant cannot check their own posts.",
+    "ja" : "ホットラインユーザーは、すべてのユーザーの投稿を閲覧することができますが、他のユーザーは自分の投稿のみ閲覧可能です。ただし、匿名掲示板では登録者も自分の投稿を確認することはできません。",
+    "vi" : "Người dùng Hotline có thể xem bài viết từ tất cả người dùng, nhưng người dùng khác chỉ có thể xem bài viết của họ. Tuy nhiên, trong bảng ẩn danh, ngay cả người đăng ký cũng không thể kiểm tra bài viết của họ.",
+    "zh" : "热线用户可以查看所有用户的帖子，但其他用户只能查看自己的帖子。但是，匿名留言板的发布者无法察觉到发布被拒绝，并且无法预定帖子。"
+  },
+  "지식 게시판의 지식 활동을 통해 획득한 마일리지를 조회합니다." : {
+    "en" : "You can view the mileage you have earned through knowledge activities you have performed in the [Knowledge] board.",
+    "ja" : "知識掲示板の知識活動により獲得したマイレージを照会します。",
+    "vi" : "Bạn có thể xem số dặm đạt được thông qua hoạt động kiến thức ở trên bảng tin tri thức",
+    "zh" : "查询通过在知识布告栏的知识活动取得的积分。"
+  },
+  "최근 1개월 정보만 보여주며, 검색으로 모든 정보를 조회 할 수 있습니다." : {
+    "en" : "Only information from the last 1 month will be seen. You can view all information by searching.",
+    "ja" : "最近1ヶ月の情報のみを表示し、検索にすべての情報を照会することができます。",
+    "vi" : "Chỉ hiển thị thông tin 1 tháng gần nhất, có thể tra cứu tất cả thông tin bằng Tìm kiếm.",
+    "zh" : "表示出最近1个月的信息而通过搜索可以查询所有的信息。"
+  },
+  "등록한 게시물에 대한 댓글이 등록되었습니다." : {
+    "en" : "A comment has been added to your article.",
+    "ja" : "登録した掲示物に対するコメントが登録されました。",
+    "vi" : "Bình luận về bài viết đã được đăng.",
+    "zh" : "有关登录的公告内容的留言被登录了。"
+  },
+  "제목등 목록 정보를 한줄 또는 전체 표시를 합니다." : {
+    "en" : "Show list information (subject etc.) in one line or show all.",
+    "ja" : "件名等のリスト情報を一行または全体表示します。",
+    "vi" : "Hiển thị toàn bộ hoặc một dòng thông tin danh sách như tiêu đề, v.v.",
+    "zh" : "题目等目录信息表示为单行或者全体表示。"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete input",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa nội dung đã nhập",
+    "zh" : "删除输入内容"
+  },
+  "읽은 게시물이 없습니다." : {
+    "en" : "No read posts.",
+    "ja" : "既読の記事がありません。",
+    "vi" : "Không có bài viết đã đọc",
+    "zh" : "没有已经读的布告内容。"
+  },
+  "조직도 연동" : {
+    "en" : "Link with organization chart",
+    "ja" : "組織図連動",
+    "vi" : "Liên kết với sơ đồ tổ chức",
+    "zh" : "联动组织图"
+  },
+  "글 복원" : {
+    "en" : "Restore Article",
+    "ja" : "テキスト復元",
+    "vi" : "Khôi phục bài viết",
+    "zh" : "复原文章"
+  },
+  "글 삭제시 해당 글의 등록자에게 부여한 마일리지" : {
+    "en" : "Mileage granted to the original author of the post when the post is deleted",
+    "ja" : "記事の削除時、その記事の登録者に付与されたマイレージ",
+    "vi" : "Khi xóa bài, số dặm đã cấp cho người đăng của bài tương ứng",
+    "zh" : "删除文章时给有关文章登录人给予的积分"
+  },
+  "사용 권한" : {
+    "en" : "User permission",
+    "ja" : "使用権限",
+    "vi" : "Quyền sử dụng",
+    "zh" : "使用权限"
+  },
+  "설문 항목을 추가해주세요" : {
+    "en" : "Please add a survey item.",
+    "ja" : "アンケート項目を追加してください。",
+    "vi" : "Xin hãy thêm mục khảo sát.",
+    "zh" : "请追加设问项目。"
+  },
+  "개인 환경 설정" : {
+    "en" : "Personal preferences",
+    "ja" : "個人環境の設定",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "设定个人环境"
+  },
+  "{0}개 주문하였습니다.\\n아래 구매현황을 확인해주세요." : {
+    "en" : "{0} orders have been placed. \\n Please check the purchase status below.",
+    "ja" : "{0}個注文しました。\\n下の購入状況を確認してください。",
+    "vi" : "Đã đặt hàng  {0} cái. Vui lòng xác nhận tình hình mua hàng bên dưới Wn.",
+    "zh" : "订购了{0}个。请确认\\n如下购买情况。"
+  },
+  "점을 마일리지로 부여" : {
+    "en" : "points to mileage",
+    "ja" : "点をマイレージとして付与",
+    "vi" : "Cho điểm bằng số dặm.",
+    "zh" : "点数以积分型式给与"
+  },
+  "소유부서 변경" : {
+    "en" : "Change department in possession",
+    "ja" : "所有部署の変更",
+    "vi" : "Thay đổi phòng ban sở hữu",
+    "zh" : "变更所有部门"
+  },
+  "분할 보기" : {
+    "en" : "View divisions",
+    "ja" : "分割表示",
+    "vi" : "Xem theo chế độ chia tách",
+    "zh" : "分割看"
+  },
+  "스페이스를 선택하세요." : {
+    "en" : "Select a Space",
+    "ja" : "スペースを選択してください。",
+    "vi" : "Chọn Space",
+    "zh" : "请选择空间。"
+  },
+  "[사용안함]으로 설정할 경우 게시판 트리에 나타나지 않습니다." : {
+    "en" : "If you choose [Do Not Use], it will not appear in the Bulletin Board Tree.",
+    "ja" : "[使用しない]に設定する場合、掲示板ツリーに表示されません。",
+    "vi" : "Trường hợp cài đặt [Không sử dụng] thì sẽ không hiện trên cây bảng tin",
+    "zh" : "设定为[不使用]的话在布告栏标记上表示不出来。"
+  },
+  "부서,사용자명" : {
+    "en" : "Department, User name",
+    "ja" : "部署、ユーザー名",
+    "vi" : "Phòng ban, tên người dùng",
+    "zh" : "部门，使用者名"
+  },
+  "검색식 수정" : {
+    "en" : "Modify search expression",
+    "ja" : "検索式を編集",
+    "vi" : "Sửa biểu thức tìm kiếm",
+    "zh" : "修改搜索表达式"
+  },
+  "{0}이 승인되었습니다." : {
+    "en" : "{0} has been approved.",
+    "ja" : "{0}が承認されました。",
+    "vi" : "{0} đã được đồng ý",
+    "zh" : "{0}被承认了。"
+  },
+  "안읽은 댓글" : {
+    "en" : "Unread comments",
+    "ja" : "未読のコメント",
+    "vi" : "Bình luận chưa đọc",
+    "zh" : "没有读的帖子"
+  },
+  "익명 게시글은 추천에서 제외됩니다." : {
+    "en" : "Anonymous posts are excluded from recommendations.",
+    "ja" : "匿名投稿は推薦から除外されます。",
+    "vi" : "Bài đăng ẩn danh sẽ không xuất hiện trong mục đề xuất.",
+    "zh" : "匿名帖子将从推荐中排除。"
+  },
+  "예약내역이 없습니다." : {
+    "en" : "There is no booking/reservation details.",
+    "ja" : "予約内訳がありません。",
+    "vi" : "Không có lịch sử thông tin Đặt trước.",
+    "zh" : "没有预订细目"
+  },
+  "신청 게시물이 등록되었습니다." : {
+    "en" : "Application post has been registered.",
+    "ja" : "申請投稿が登録されました。",
+    "vi" : "Bài viết ứng dụng đã được đăng ký.",
+    "zh" : "申请帖子已注册。"
+  },
+  "컬럼 목록" : {
+    "en" : "Column List",
+    "ja" : "カラムリスト",
+    "vi" : "Mục lục cột",
+    "zh" : "专栏目录"
+  },
+  "판매개수를 넘었습니다." : {
+    "en" : "Exceeded the number of maximum products for sale.",
+    "ja" : "販売数を超過しました。",
+    "vi" : "Đã vượt quá số hàng bán.",
+    "zh" : "已经超过了销售数量。"
+  },
+  "이 사람이" : {
+    "en" : "This person",
+    "ja" : "この人が",
+    "vi" : "Người này",
+    "zh" : "这个人"
+  },
+  "게시물을 삭제했습니다." : {
+    "en" : "Post has been deleted.",
+    "ja" : "投稿を削除しました。",
+    "vi" : "Bài viết đã bị xóa.",
+    "zh" : "已删除帖子。"
+  },
+  "등록일" : {
+    "en" : "Date added",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng",
+    "zh" : "登录日"
+  },
+  "넓게" : {
+    "en" : "Wide",
+    "ja" : "広く",
+    "vi" : "Rộng",
+    "zh" : "宽大"
+  },
+  "까지 다운로드 가능" : {
+    "en" : "Can be downloaded by",
+    "ja" : "までダウンロード可能",
+    "vi" : "Có thể tải về đến…",
+    "zh" : "次可以下载到"
+  },
+  "추가 항목" : {
+    "en" : "Added item",
+    "ja" : "追加項目",
+    "vi" : "Mục bổ sung",
+    "zh" : "追加项目"
+  },
+  "분류 사용이 제한됩니다." : {
+    "en" : "Category usage is restricted.",
+    "ja" : "分類の使用が制限されます。",
+    "vi" : "Sử dụng phân loại bị hạn chế.",
+    "zh" : "分类使用受限。"
+  },
+  "신청" : {
+    "en" : "Request",
+    "ja" : "申請",
+    "vi" : "Đăng ký",
+    "zh" : "申请"
+  },
+  "댓글 첨부파일" : {
+    "en" : "Comments Attachments",
+    "ja" : "コメント添付ファイル",
+    "vi" : "Tệp đính kèm bình luận",
+    "zh" : "评论附件"
+  },
+  "예약이 반려되었습니다." : {
+    "en" : "Reservation has been rejected.",
+    "ja" : "予約が却下されました。",
+    "vi" : "Đặt chỗ đã bị từ chối.",
+    "zh" : "预订已拒绝。"
+  },
+  "3개월이 지난 로그는 자동 삭제됩니다." : {
+    "en" : "Logs older than 3 months will be automatically deleted.",
+    "ja" : "3ヵ月経過したログは、自動削除されます。",
+    "vi" : "Logo quá 3 tháng sẽ bị xóa tự động.",
+    "zh" : "经过三个月的运行记录会自动删除。"
+  },
+  "축하게시" : {
+    "en" : "Congratulatory notice",
+    "ja" : "お祝い掲示",
+    "vi" : "Thông báo chúc mừng",
+    "zh" : "祝贺公告"
+  },
+  "조직도 선택 버튼 사용" : {
+    "en" : "Use Organizational Chart Select Button",
+    "ja" : "組織図の選択ボタンを使用",
+    "vi" : "Sử dụng nút chọn sơ đồ tổ chức",
+    "zh" : "使用组织图选择按钮"
+  },
+  "댓글 작성" : {
+    "en" : "Write comment",
+    "ja" : "コメント作成",
+    "vi" : "Viết bình luận",
+    "zh" : "写回帖"
+  },
+  "대분류" : {
+    "en" : "1st category",
+    "ja" : "第一カテゴリ",
+    "vi" : "Phân loại lớn",
+    "zh" : "大分类"
+  },
+  "이미 처리된 상태입니다." : {
+    "en" : "It has already been processed.",
+    "ja" : "すでに処理された状態です。",
+    "vi" : "Trạng thái đã được xử lý",
+    "zh" : "已经被处理的状态。"
+  },
+  "레이아웃 디자인" : {
+    "en" : "Layout design",
+    "ja" : "レイアウトデザイン",
+    "vi" : "Thiết kế layout",
+    "zh" : "页面布局设计"
+  },
+  "게시판 관리" : {
+    "en" : "Manage boards",
+    "ja" : "掲示板管理",
+    "vi" : "Quản lý bảng tin",
+    "zh" : "管理公告栏"
+  },
+  "알림" : {
+    "en" : "Notification",
+    "ja" : "通知",
+    "vi" : "Thông báo",
+    "zh" : "开始日"
+  },
+  "사용자별" : {
+    "en" : "by user",
+    "ja" : "ユーザー別",
+    "vi" : "Theo người dùng",
+    "zh" : "各个使用者"
+  },
+  "추천일" : {
+    "en" : "Recommended on (Date)",
+    "ja" : "おすすめ日時",
+    "vi" : "Ngày đề cử",
+    "zh" : "推存日"
+  },
+  "게시판 권한변경" : {
+    "en" : "Change permission on bulletin board",
+    "ja" : "掲示板の権限変更",
+    "vi" : "Thay đổi quyển bảng tin",
+    "zh" : "变更公告板权限"
+  },
+  "대상 분류 글" : {
+    "en" : "Posts in Target Category",
+    "ja" : "対象分類のポスト",
+    "vi" : "Bài viết trong phân loại mục tiêu",
+    "zh" : "目标分类帖子"
+  },
+  "관심등록" : {
+    "en" : "Add to 'Interesting Posts'",
+    "ja" : "お気に入り登録",
+    "vi" : "Đăng ký quan tâm",
+    "zh" : "添加为关注"
+  },
+  "대외공개여부" : {
+    "en" : "Open to Public?",
+    "ja" : "公開の可否",
+    "vi" : "Có/không công khai đối ngoại",
+    "zh" : "是否对外公开"
+  },
+  "트리" : {
+    "en" : "Tree",
+    "ja" : "ツリー",
+    "vi" : "Cây",
+    "zh" : "路径"
+  },
+  "생성 후 유형 변경이 불가능 합니다." : {
+    "en" : "Type cannot be changed after creation.",
+    "ja" : "作成後にタイプの変更はできません。",
+    "vi" : "Không thể thay đổi loại hình sau khi tạo.",
+    "zh" : "创建后不可更改类型。"
+  },
+  "본인이 작성한 글은 추천할 수 없습니다." : {
+    "en" : "You cannot recommend your own posts.",
+    "ja" : "自分が作成した記事は推薦できません。",
+    "vi" : "Bạn không thể đề xuất bài đăng của mình.",
+    "zh" : "不能推荐自己撰写的文章。"
+  },
+  "대여자를 선택해주세요." : {
+    "en" : "Select the lender.",
+    "ja" : "貸与者を選択してください。",
+    "vi" : "Hãy chọn người mượn.",
+    "zh" : "请选择出租人。"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다." : {
+    "en" : "All progress will be lost.",
+    "ja" : "現在作成中の内容がすべて削除されます。",
+    "vi" : "Tất cả nội dung đang viết sẽ bị xóa.",
+    "zh" : "现在写中的内容会全部被删除。"
+  },
+  "{0}번 항목을 선택한 참여자" : {
+    "en" : "Participants who have selected Item No. {0}.",
+    "ja" : "{0} 回項目を選択した参加者",
+    "vi" : "Người tham gia đã chọn mục số {0}",
+    "zh" : "选择（0）项目的参加人"
+  },
+  "등록자 정보" : {
+    "en" : "Registrant information",
+    "ja" : "登録者情報",
+    "vi" : "Thông tin người đăng",
+    "zh" : "登录者信息"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Giải thích",
+    "zh" : "说明"
+  },
+  "폴더" : {
+    "en" : "Folder",
+    "ja" : "フォルダ",
+    "vi" : "Thư mục",
+    "zh" : "文件夹"
+  },
+  "분류 선택" : {
+    "en" : "Select Category",
+    "ja" : "カテゴリを選択",
+    "vi" : "Chọn phân loại",
+    "zh" : "分类选择"
+  },
+  "조회자" : {
+    "en" : "Viewers",
+    "ja" : "照会者",
+    "vi" : "Người xem",
+    "zh" : "查询者"
+  },
+  "신청 게시물이 반려되었습니다." : {
+    "en" : "Application post has been rejected.",
+    "ja" : "申請投稿が却下されました。",
+    "vi" : "Bài viết ứng dụng đã bị từ chối.",
+    "zh" : "申请帖子已拒绝。"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "사이드 메뉴 접기" : {
+    "en" : "Hide Side Menu",
+    "ja" : "サイドメニューを閉じる",
+    "vi" : "Đóng side menu",
+    "zh" : "折叠边线菜单"
+  },
+  "회사전화" : {
+    "en" : "Company phone",
+    "ja" : "会社電話",
+    "vi" : "Số điện thoại công ty",
+    "zh" : "公司电话"
+  },
+  "예약기간" : {
+    "en" : "Booking period",
+    "ja" : "予約期間",
+    "vi" : "Thời hạn Đặt trước",
+    "zh" : "预订期间"
+  },
+  "기존 등록된 글에 디폴트 값 일괄 적용" : {
+    "en" : "Apply all default values to existing posts.",
+    "ja" : "既存登録された記事にデフォルト値を一括適用",
+    "vi" : "Áp dụng đồng loạt giá trị mặc định vào bài được hiện đã được đăng.",
+    "zh" : "现有登录的文章上一批适用默认值。"
+  },
+  "이미 평가하셨습니다." : {
+    "en" : "You have already evaluated this item.",
+    "ja" : "既に評価しました。",
+    "vi" : "Bạn đã đánh giá xong trước rồi.",
+    "zh" : "已经投票了。"
+  },
+  "제목" : {
+    "en" : "Subject",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "관심 게시판에 추가" : {
+    "en" : "Add to 'Interesting Posts' board",
+    "ja" : "お気に入り掲示板に追加",
+    "vi" : "Thêm vào hộp bài quan tâm",
+    "zh" : "追加关心布告箱"
+  },
+  "부서별/사용자별 등록 현황" : {
+    "en" : "Status by department/by user",
+    "ja" : "部署別/ユーザー別の登録状況",
+    "vi" : "Tình hình đăng kí theo phòng ban/người dùng",
+    "zh" : "部门别/使用者别登录现况"
+  },
+  "반&nbsp;&nbsp;려&nbsp;&nbsp;자" : {
+    "en" : "Rejected by",
+    "ja" : "差し&nbsp;&nbsp;戻し&nbsp;&nbsp;者",
+    "vi" : "Người từ chối",
+    "zh" : "发&nbsp;&nbsp;还&nbsp;&nbsp;者"
+  },
+  "여러 개일 경우 콤마(,)로 구분" : {
+    "en" : "If you wish to add multiple tags, separate each tag with a comma (,).",
+    "ja" : "複数の場合はコンマ(,)で区別すること",
+    "vi" : "Trường hợp nhiều, đánh dấu phẩy (,) để phân biệt",
+    "zh" : "个数多时请用逗号(,)来区分"
+  },
+  "댓글 수정" : {
+    "en" : "Edit Comment",
+    "ja" : "コメント修正",
+    "vi" : "Chỉnh sửa bình luận",
+    "zh" : "修改回帖"
+  },
+  "최소 - 최대값" : {
+    "en" : "Minimum  - Maximum Value",
+    "ja" : "最小 - 最大値",
+    "vi" : "Giá trị tối thiểu- Giá trị tối đa",
+    "zh" : "最小 - 最多价"
+  },
+  "선택한 폴더에 속한 게시판의 상하 위치를 변경합니다." : {
+    "en" : "Re-locate the order of the bulletin boards in the selected folder",
+    "ja" : "選択したフォルダに属する掲示板の上下位置を変更します。",
+    "vi" : "Thay đổi vị trí trên dưới của bảng tin nằm trong folder đã chọn",
+    "zh" : "变更属于您选择的文件夹的布告栏上下位置。"
+  },
+  "{0}에 게시물이 수정되었습니다." : {
+    "en" : "The article in {0} has been modified.",
+    "ja" : "{0}に記事が修正されました。",
+    "vi" : "ài viết được đăng trên {0} đã được chỉnh sửa.",
+    "zh" : "在{0}布告内容修改完了。"
+  },
+  "답변 공개" : {
+    "en" : "Show answers",
+    "ja" : "回答を公開",
+    "vi" : "Công khai câu trả lời",
+    "zh" : "公开答复"
+  },
+  "축하자를 선택하세요." : {
+    "en" : "Select a user to congratulate.",
+    "ja" : "祝賀者を選択してください。",
+    "vi" : "Hãy chọn người chúc mừng",
+    "zh" : "请选择祝贺人。"
+  },
+  "저장하시겠습니까?" : {
+    "en" : "Would you like to save it?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu không?",
+    "zh" : "要保存吗？"
+  },
+  "쓸수 있는 권한이 없습니다." : {
+    "en" : "You have no permission to write.",
+    "ja" : "書き込み権限がありません。",
+    "vi" : "Bạn không có quyền viết.",
+    "zh" : "没有权限写。"
+  },
+  "질문자가 답변을 채택하였습니다. 추가 답변 등록을 할 수 없습니다." : {
+    "en" : "The questioner has chosen the answer. Additional answers can't be added.",
+    "ja" : "質問者が回答を選択しました。追加の回答登録はできません。",
+    "vi" : "Người hỏi đã chọn câu trả lời. Không thể đăng thêm câu trả lời.",
+    "zh" : "提问者采取了答复。不可登录追加答复。"
+  },
+  "할당용량" : {
+    "en" : "Allocated space",
+    "ja" : "割当容量",
+    "vi" : "Dung lượng phân bổ",
+    "zh" : "分配的用量"
+  },
+  "중분류" : {
+    "en" : "2nd category",
+    "ja" : "第二カテゴリ",
+    "vi" : "Phân loại trung",
+    "zh" : "中分类"
+  },
+  "행 삭제" : {
+    "en" : "Delete row",
+    "ja" : "行の削除",
+    "vi" : "Xóa dòng",
+    "zh" : "删除行"
+  },
+  "첨부 제한" : {
+    "en" : "Limit attachments",
+    "ja" : "添付制限",
+    "vi" : "Giới hạn đính kèm",
+    "zh" : "限制附加"
+  },
+  "알래스카 표준시" : {
+    "en" : "Alaska Standard Time",
+    "ja" : "アラスカ標準時刻",
+    "vi" : "Giờ chuẩn Alaska",
+    "zh" : "阿拉斯加 标准时"
+  },
+  "첨부표시" : {
+    "en" : "Show attachments",
+    "ja" : "添付表示",
+    "vi" : "Hiển thị đính kèm",
+    "zh" : "附加表示"
+  },
+  "부서를 선택하세요." : {
+    "en" : "Select a department.",
+    "ja" : "部署を選択してください。",
+    "vi" : "Hãy chọn phòng ban.",
+    "zh" : "请选择部门。"
+  },
+  "추가된 컬럼의 디폴트 값을 입력하세요. 체크시 디폴트 값은 기 등록된 글에 일괄 적용됩니다." : {
+    "en" : "Please enter a default value for the added columns. If checked, the default value will be applied to all registered posts.",
+    "ja" : "追加されたカラムにデフォルト値を入力してください。チェックすると、デフォルト値は、既登録された記事に一括適用されます。",
+    "vi" : "Hãy nhập giá trị mặc định của cột được thêm vào. Giá trị mặc định khi chọn sẽ được áp dụng đồng loạt vào các bài viết được đăng trước đó.",
+    "zh" : "请输入追加的专栏默认值。选择时默认值会一批适用在现有登录的文章上。"
+  },
+  "게시물을 조회하려면 아래 게시물보기를 클릭하세요." : {
+    "en" : "To view the article, click the 'View Article' button below.",
+    "ja" : "掲示物を照会するには、下の掲示物表示ボタンをクリックしてください。",
+    "vi" : "Nếu muốn xem bài đăng hãy nhấp chọn thông tin bài đăng dưới đây.",
+    "zh" : "要查询公告内容的话请点击下面看公告内容。"
+  },
+  "포함하지 않는" : {
+    "en" : "Not including",
+    "ja" : "含まない",
+    "vi" : "Không bao gồm",
+    "zh" : "不包括"
+  },
+  "구매자" : {
+    "en" : "Buyer",
+    "ja" : "購入者",
+    "vi" : "Người mua",
+    "zh" : "购买者"
+  },
+  "컬럼명을 입력하세요." : {
+    "en" : "Type a column name.",
+    "ja" : "カラム名を入力してください。",
+    "vi" : "Hãy nhập tên cột",
+    "zh" : "请输入专栏名。"
+  },
+  "모바일에서 수정할 수 없는 부분이 내용에 있습니다.\\nPC버전을 이용해서 수정해주세요." : {
+    "en" : "Some parts cannot be modified on a mobile environment. \\n Please use the PC version.",
+    "ja" : "モバイルで修正できない部分があります。\\nPC版を利用して修正してください。",
+    "vi" : "Trong nội dung có phần không thể chỉnh sửa bằng điện thoại. Hãy sử dụng  phiên bản máy tính Wn  để chỉnh sửa.",
+    "zh" : "移动通讯里不可修改的部分在内容里存在。请使用\\nPC版本进行修改。"
+  },
+  "지정양식사용" : {
+    "en" : "Use Designated Form",
+    "ja" : "指定様式使用",
+    "vi" : "Sử dụng bản mẫu chỉ định",
+    "zh" : "使用指定样式"
+  },
+  "종료일을 선택하세요." : {
+    "en" : "Please select an end date.",
+    "ja" : "終了日を選択してください。",
+    "vi" : "Hãy chọn ngày kết thúc",
+    "zh" : "请选择结束日。"
+  },
+  "{0}건중에서 {1}건을 추천했습니다." : {
+    "en" : "You have recommended {1} out of {0}.",
+    "ja" : "{0}件中{1}件をおすすめしました。",
+    "vi" : "Bạn đã đề cử  {1} trong số {0}.",
+    "zh" : "{0}件中 推存了 {1}件。"
+  },
+  "모든게시함에 글 노출" : {
+    "en" : "Show the message in all bulletin boards.",
+    "ja" : "すべての掲示板に記事を公開",
+    "vi" : "Hiển thị bài viết trong Hộp tất cả bài đăng",
+    "zh" : "在所有布告箱上发布文章"
+  },
+  "해당 분류로 등록된 양식도 함께 삭제 됩니다. 삭제 하시겠습니까?" : {
+    "en" : "Forms in the category will be lost together. Are you sure you want to delete it?",
+    "ja" : "該当カテゴリに登録されたフォームも削除されます。削除しますか？",
+    "vi" : "Bản mẫu được đăng ký với danh mục tương ứng cũng sẽ bị xóa. Bạn có muốn xóa không?",
+    "zh" : "有关分类也跟登录的样式一起被删除。要进行删除吗？"
+  },
+  "신규 게시물이 등록되었습니다." : {
+    "en" : "A new article has been posted.",
+    "ja" : "新規掲示物が登録されました。",
+    "vi" : "Có bài viết mới được đăng",
+    "zh" : "新的公告内容登录完了。"
+  },
+  "중요 공지 기한이 게시 기한보다 클 수 없습니다." : {
+    "en" : "The important notice period cannot be greater than the posting period.",
+    "ja" : "重要なお知らせの期限は掲示期限よりも長くすることはできません。",
+    "vi" : "Thời hạn của thông báo quan trọng không thể lớn hơn thời hạn đăng bài.",
+    "zh" : "重要公告期限不可大于布告期限。"
+  },
+  "분류는 게시판 추가 시 '분류설정'에서 추가한 분류만 해당 게시판에서 글 작성 시 사용합니다." : {
+    "en" : "Classifications added in \"Classification Settings\" when adding a bulletin board are the only ones that will be used when writing a post on that bulletin board.",
+    "ja" : "カテゴリーは掲示板追加時に 'カテゴリー設定' で追加したカテゴリーのみ、該当掲示板で投稿を作成する際に使用されます。",
+    "vi" : "Các phân loại được thêm trong \"Cài đặt phân loại\" khi thêm một bảng thông báo là những phân loại duy nhất sẽ được sử dụng khi viết một bài viết trên bảng thông báo đó.",
+    "zh" : "分类仅在添加到论坛时才会在该论坛中发布文章时可供选择使用。"
+  },
+  "이미 취소했습니다." : {
+    "en" : "It was already cancelled.",
+    "ja" : "すでにキャンセルしました。",
+    "vi" : "Đã hủy trước.",
+    "zh" : "已经取消了。"
+  },
+  "참여자" : {
+    "en" : "Participants",
+    "ja" : "参加者",
+    "vi" : "Người tham gia",
+    "zh" : "参加人"
+  },
+  "모든게시함" : {
+    "en" : "All posts",
+    "ja" : "すべての掲示板",
+    "vi" : "Hộp tất cả bài đăng",
+    "zh" : "所有布告箱"
+  },
+  "태그명" : {
+    "en" : "Tag name",
+    "ja" : "タグ名",
+    "vi" : "Tên tag",
+    "zh" : "标记名"
+  },
+  "대서양 표준시" : {
+    "en" : "Atlantic Standard Time",
+    "ja" : "大西洋標準時刻",
+    "vi" : "Giờ tiêu chuẩn Đại Tây Dương",
+    "zh" : "大西洋标准时间"
+  },
+  "댓글등록시 알림" : {
+    "en" : "Notify when comment has been posted",
+    "ja" : "コメント登録時に通知",
+    "vi" : "Thông báo khi đăng bình luận",
+    "zh" : "登录回帖时提醒"
+  },
+  "게시물에 댓글이 등록되었습니다." : {
+    "en" : "Comment has been registered on the post.",
+    "ja" : "投稿にコメントが登録されました。",
+    "vi" : "Bình luận đã được đăng ký trên bài viết.",
+    "zh" : "帖子已有评论。"
+  },
+  "예약이 대기로 변경 되었습니다." : {
+    "en" : "Reservation has been changed to pending.",
+    "ja" : "予約が保留中に変更されました。",
+    "vi" : "Đặt chỗ đã được thay đổi thành chờ xử lý.",
+    "zh" : "预订已更改为等待状态。"
+  },
+  "작성중" : {
+    "en" : "Writing",
+    "ja" : "作成中",
+    "vi" : "Đang viết",
+    "zh" : "制作中"
+  },
+  "용량" : {
+    "en" : "Space",
+    "ja" : "容量",
+    "vi" : "Dung lượng",
+    "zh" : "用量"
+  },
+  "반응형 레이아웃" : {
+    "en" : "Responsive layout",
+    "ja" : "反応型レイアウト",
+    "vi" : "Giao diện dạng phản ứng",
+    "zh" : "反映形布局"
+  },
+  "게시판 기본용량" : {
+    "en" : "Board default space",
+    "ja" : "掲示板の基本容量",
+    "vi" : "Dung lượng mặc định của bảng tin",
+    "zh" : "公告栏基本用量"
+  },
+  "삭제된 게시판입니다." : {
+    "en" : "The board has already been deleted.",
+    "ja" : "削除された掲示板です。",
+    "vi" : "Bản tin này đã được xóa.",
+    "zh" : "删除的布告栏。"
+  },
+  "최근 게시함에 글 노출" : {
+    "en" : "Posts exposed in the recent post box.",
+    "ja" : "最近の掲示板の投稿の上位表示",
+    "vi" : "Hiển thị bài viết trong hộp bài viết gần đây",
+    "zh" : "最近的帖子箱中的帖子"
+  },
+  "최근 공지" : {
+    "en" : "Recent Notice",
+    "ja" : "最新のお知らせ",
+    "vi" : "Thông báo gần đây",
+    "zh" : "最近布告"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "ファックス番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "선택된 게시판 템플릿과 동일한 게시판을 생성합니다." : {
+    "en" : "Create a new bulletin board using the template of the selected bulletin board",
+    "ja" : "選択された掲示板のテンプレートと同じ掲示板を作成します。",
+    "vi" : "Tạo bảng tin đồng nhất với template bảng tin đã chọn",
+    "zh" : "建立跟选择的布告栏模板同样的布告栏。"
+  },
+  "자료실형" : {
+    "en" : "Archive type",
+    "ja" : "資料室型",
+    "vi" : "Dạng Phòng tư liệu",
+    "zh" : "资料室型"
+  },
+  "필드 추가" : {
+    "en" : "Insert field",
+    "ja" : "フィールド追加",
+    "vi" : "Chèn cột",
+    "zh" : "追加字段"
+  },
+  "추천받은 답변의 등록자" : {
+    "en" : "User who added the recommended answer",
+    "ja" : "おすすめ回答の登録者",
+    "vi" : "Người đăng có câu trả lời được đề cử",
+    "zh" : "被推存的答复登录者"
+  },
+  "상품 구매 신청을 했습니다." : {
+    "en" : "Product purchase application has been made.",
+    "ja" : "商品購入申請を行いました。",
+    "vi" : "Đề xuất mua sản phẩm đã được thực hiện.",
+    "zh" : "购买商品申请已提交。"
+  },
+  "파이 그래프" : {
+    "en" : "Pie chart",
+    "ja" : "円グラフ",
+    "vi" : "Biểu đồ tròn",
+    "zh" : "排形图"
+  },
+  "신청승인 사용자" : {
+    "en" : "Request approval users.",
+    "ja" : "申請承認のユーザー",
+    "vi" : "Người dùng chấp nhận đăng kí",
+    "zh" : "申请承认使用者"
+  },
+  "결과내 재검색" : {
+    "en" : "Search within results",
+    "ja" : "結果内で再検索",
+    "vi" : "Tìm lại trong kết quả",
+    "zh" : "结果内结果内再搜索"
+  },
+  "부서별" : {
+    "en" : "by department",
+    "ja" : "部署別",
+    "vi" : "Theo phòng ban",
+    "zh" : "各个部门"
+  },
+  "구매하기" : {
+    "en" : "Purchase",
+    "ja" : "購入する",
+    "vi" : "Mua",
+    "zh" : "购买"
+  },
+  "분류를 먼저 등록하세요." : {
+    "en" : "Add a category first.",
+    "ja" : "カテゴリを先に登録してください。",
+    "vi" : "Thêm một danh mục trước.",
+    "zh" : "请先注册分类。"
+  },
+  "임시저장했습니다." : {
+    "en" : "Draft has been saved successfully.",
+    "ja" : "一時保存しました。",
+    "vi" : "Đã lưu tạm thời",
+    "zh" : "临时保存完了。"
+  },
+  "선택한 분류와 하위 분류를 사용할 수 있습니다." : {
+    "en" : "You may use the selected category and its subcategories.",
+    "ja" : "選択した分類とその下位分類を使用することができます。",
+    "vi" : "Có thể sử dụng các phân loại và phân loại con đã chọn.",
+    "zh" : "可以使用所选分类及其子分类。"
+  },
+  "글 조회화면" : {
+    "en" : "Message View Screen",
+    "ja" : "記事照会画面",
+    "vi" : "Màn hình xem bài viết",
+    "zh" : "文章查询画面"
+  },
+  "조회확인" : {
+    "en" : "Check 'View' status",
+    "ja" : "照会確認",
+    "vi" : "XÁc nhận xem",
+    "zh" : "确认查询"
+  },
+  "게시판을 선택하세요." : {
+    "en" : "Select a bulletin board.",
+    "ja" : "掲示板を選択してください。",
+    "vi" : "Hãy chọn bảng tin",
+    "zh" : "请选择布告栏。"
+  },
+  "게시판 용량 변경" : {
+    "en" : "Change bulletin board storage capacity",
+    "ja" : "掲示板容量の変更",
+    "vi" : "Thay đổi dung lượng bảng tin",
+    "zh" : "变更布告栏用量"
+  },
+  "기본용량을 입력해주세요." : {
+    "en" : "Set the default space.",
+    "ja" : "基本容量を入力してください。",
+    "vi" : "Hãy nhập dung lượng mặc định",
+    "zh" : "请输入基本用量。"
+  },
+  "의견을 확인하려면 아래 게시물보기를 클릭하세요." : {
+    "en" : "To view the opinions, click the 'View Article' button below.",
+    "ja" : "意見を確認するには、下の意見表示ボタンをクリックしてください。",
+    "vi" : "Hãy click vào xem bài viết dưới đây để kiếm tra ý kiến",
+    "zh" : "要确认意见的话、请点击下边收看意见。"
+  },
+  "실명 데이터는 저장되며, 해당 게시판 내에서 이름을 숨김 처리합니다. \\n또한 익명 속성 해제 시 익명이 보장되지 않습니다." : {
+    "en" : "Real name data is stored and names are hidden within the relevant posting box. \\nIf you un-check 'Write as Anonymous', your anonymity will not be ensured.",
+    "ja" : "実名データは保存され、その掲示板内で非表示になります。\\nまた、匿名プロパティを解除すると匿名が保護されません。",
+    "vi" : "Dữ liệu tên thật được lưu, và sẽ được ẩn trong bảng thông báo này. \\n Khi bỏ chế độ ẩn danh, thì việc giấu tên sẽ không được đảm bảo.",
+    "zh" : "实名数据将被保存，该公告栏中的姓名将被进行隐藏处理。\\n另外若解除匿名属性，则无法保障匿名。"
+  },
+  "하위에 분류가 존재합니다. 삭제할 수 없습니다." : {
+    "en" : "Subcategories exist under this category. It cannot be deleted.",
+    "ja" : "下位に分類が存在するため、削除できません。",
+    "vi" : "Tồn tại mục phân loại con. Không thể xóa.",
+    "zh" : "存在子分类，无法删除。"
+  },
+  "날짜를 설정해주세요" : {
+    "en" : "Select a date",
+    "ja" : "日付を設定してください",
+    "vi" : "Xin hãy cài đặt ngày tháng.",
+    "zh" : "请设定日子。"
+  },
+  "설문" : {
+    "en" : "Survey",
+    "ja" : "アンケート",
+    "vi" : "Khảo sát",
+    "zh" : "设问"
+  },
+  "주요 게시판 순서를 변경합니다." : {
+    "en" : "Change the order of the main postboxes.",
+    "ja" : "メイン掲示板の順番を変更します。",
+    "vi" : "Thay đổi thứ tự bảng thông báo chính.",
+    "zh" : "调整主要公告栏顺序。"
+  },
+  "삭제자" : {
+    "en" : "Deleted by",
+    "ja" : "削除者",
+    "vi" : "Người xóa",
+    "zh" : "删除者"
+  },
+  "대여 신청이 반려되었습니다." : {
+    "en" : "Loan request has been rejected.",
+    "ja" : "貸出申請が却下されました。",
+    "vi" : "Yêu cầu mượn đã bị từ chối.",
+    "zh" : "租用申请已拒绝。"
+  },
+  "{0}님에게 덧글 쓰기" : {
+    "en" : "Reply to {0}",
+    "ja" : "{0}さんにコメントを書く",
+    "vi" : "Viết bình luận cho  {0}.",
+    "zh" : "给{0}写回帖"
+  },
+  "추천받음" : {
+    "en" : "Recommendation received",
+    "ja" : "おすすめを受ける",
+    "vi" : "được đề cử",
+    "zh" : "被推荐"
+  },
+  "다수조회" : {
+    "en" : "Multi-View",
+    "ja" : "多数照会",
+    "vi" : "Tìm kiếm đa số",
+    "zh" : "多数查询"
+  },
+  "말머리" : {
+    "en" : "Heading",
+    "ja" : "表題",
+    "vi" : "Lời nói đầu",
+    "zh" : "话头"
+  },
+  "왼쪽메뉴 미포함" : {
+    "en" : "Menu (Left Side) not included",
+    "ja" : "左側メニューを含まない",
+    "vi" : "Không bao gồm menu trái",
+    "zh" : "未包括右边项目"
+  },
+  "삭제일" : {
+    "en" : "Deletion date",
+    "ja" : "削除日",
+    "vi" : "Ngày xóa",
+    "zh" : "删除日"
+  },
+  "한줄로 표시" : {
+    "en" : "Show in one line",
+    "ja" : "一行で表示",
+    "vi" : "Hiển thị bằng 1 dòng",
+    "zh" : "表示为单行"
+  },
+  "예약을 신청 했습니다." : {
+    "en" : "Reservation request has been made.",
+    "ja" : "予約を申請しました。",
+    "vi" : "Yêu cầu đặt chỗ đã được thực hiện.",
+    "zh" : "已申请预订。"
+  },
+  "읽을수 있는 권한이 없습니다." : {
+    "en" : "You have no permission to read.",
+    "ja" : "読み込み権限がありません。",
+    "vi" : "Không có quyền đọc",
+    "zh" : "没有权限读。"
+  },
+  "{0}건중 {1}건을 삭제했습니다." : {
+    "en" : "{1} of {0} have been deleted.",
+    "ja" : "{0}件中{1}件を削除しました。",
+    "vi" : "Bạn đã xóa <1> trong tổng số <0>",
+    "zh" : "{0}件中 删除了{1}件。"
+  },
+  "등록자 또는 대리자를 선택해주세요." : {
+    "en" : "Please select an author or an agent.",
+    "ja" : "登録者または代理人を選択してください。",
+    "vi" : "Vui lòng chọn người đăng hoặc người đại diện.",
+    "zh" : "请选择登录人或者代理人。"
+  },
+  "중요 공지" : {
+    "en" : "Important notices",
+    "ja" : "重要なお知らせ",
+    "vi" : "Thông báo quan trọng",
+    "zh" : "重要通知"
+  },
+  "읽지않은 게시물이 없습니다." : {
+    "en" : "No unread posts.",
+    "ja" : "未読の記事がありません。",
+    "vi" : "Không có bài đăng chưa đọc.",
+    "zh" : "不存在没读的布告内容。"
+  },
+  "예약자" : {
+    "en" : "Booked by",
+    "ja" : "予約者",
+    "vi" : "Người Đặt trước",
+    "zh" : "预订者"
+  },
+  "공유여부" : {
+    "en" : "Share?",
+    "ja" : "共有する/しない",
+    "vi" : "Có/không chia sẻ",
+    "zh" : "是否共有"
+  },
+  "댓글을 확인하려면 아래 게시물보기를 클릭하세요." : {
+    "en" : "To view the comments, click the 'View Article' button below.",
+    "ja" : "コメントを確認するには、下の掲示物表示ボタンをクリックしてください。",
+    "vi" : "Nếu muốn kiểm tra bình luận hãy nhấp chọn thông tin bài đăng dưới đây.",
+    "zh" : "要确认留言的话请点击下面看公告内容。"
+  },
+  "분류 수정" : {
+    "en" : "Modify category",
+    "ja" : "カテゴリ修正",
+    "vi" : "Chỉnh sửa danh mục",
+    "zh" : "修改分类"
+  },
+  "이미 선택하셨습니다." : {
+    "en" : "You have already selected.",
+    "ja" : "すでに選択しました。",
+    "vi" : "Bạn đã chọn trước rồi.",
+    "zh" : "已经选择了。"
+  },
+  "게시기한만료" : {
+    "en" : "Post has been expired",
+    "ja" : "掲示期限切れ",
+    "vi" : "Đã hết thời gian đăng bài",
+    "zh" : "布告期限满期了"
+  },
+  "모두" : {
+    "en" : "All",
+    "ja" : "すべて",
+    "vi" : "Tất cả",
+    "zh" : "全部"
+  },
+  "설문은 실명으로 참여 됩니다." : {
+    "en" : "Surveys require real names for participation.",
+    "ja" : "アンケートは実名で参加されます。",
+    "vi" : "Các cuộc khảo sát yêu cầu sử dụng tên thật để tham gia.",
+    "zh" : "调查将以实名方式进行。"
+  },
+  "분류 추가" : {
+    "en" : "Add category",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm danh mục",
+    "zh" : "追加分类"
+  },
+  "양식구분" : {
+    "en" : "Classify form",
+    "ja" : "フォーム区分",
+    "vi" : "Phân loại bản mẫu",
+    "zh" : "样式区分"
+  },
+  "Q&A 게시판으로서 질문/답변 활동에 따라 설정된 지식마일리지를 부여받습니다." : {
+    "en" : "You can receive 'Knowledge Mileage' based on your activities (asking questions/making answers) at the Q&A board.",
+    "ja" : "Q＆A掲示板にての質問/回答の活動によって、設定された知識マイレージが付与されます。",
+    "vi" : "Nhận số dặm tri thức được cài đặt theo hoạt động hỏi đáp trên bảng tin Q&A",
+    "zh" : "通过Q&A 布告栏可以得到按照提问/回答活动设定的知识积分。"
+  },
+  "협업공간" : {
+    "en" : "Collaborative workspace",
+    "ja" : "協業スペース",
+    "vi" : "Không gian làm việc cộng tác",
+    "zh" : "协作空间"
+  },
+  "게시판 신규댓글" : {
+    "en" : "New Comments",
+    "ja" : "掲示板の新規コメント",
+    "vi" : "Bình luận mới của bảng tin",
+    "zh" : "布告栏新的回帖"
+  },
+  "주요공지RSS" : {
+    "en" : "Notice RSS",
+    "ja" : "主要お知らせRSS",
+    "vi" : "RSS Thông báo quan trọng",
+    "zh" : "主要公告RSS"
+  },
+  "중요공지 노출" : {
+    "en" : "Show important notices",
+    "ja" : "重要なお知らせの公開",
+    "vi" : "Hiện thông báo quan trọng",
+    "zh" : "露出重要通知"
+  },
+  "알람 대상을 선택해주세요." : {
+    "en" : "Please select the list of people you wish to send the notifications to.",
+    "ja" : "通知対象を選択してください。",
+    "vi" : "Hãy chọn đối tượng để thông báo",
+    "zh" : "请选择提醒对象。"
+  },
+  "적용" : {
+    "en" : "Apply",
+    "ja" : "適用",
+    "vi" : "Áp dụng",
+    "zh" : "适用"
+  },
+  "분류는 최대 3-depth까지 가능합니다." : {
+    "en" : "Classification is possible up to a maximum depth of 3.",
+    "ja" : "カテゴリーは最大 3 階層まで可能です。",
+    "vi" : "Phân loại có thể thực hiện với tối đa 3 cấp độ.",
+    "zh" : "分类最多可以有3层深度。"
+  },
+  "반려&nbsp;의견" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し&nbsp;意見",
+    "vi" : "Ý kiến phản đối",
+    "zh" : "发还&nbsp意见"
+  },
+  "최상위 폴더인 부서게시판은 선택할 수 없습니다." : {
+    "en" : "You cannot select the department bulletin board because it is the top folder.",
+    "ja" : "最上位フォルダの部署掲示板は選択できません。",
+    "vi" : "Không thể chọn bảng tin phòng ban ở thư mục vị trí cao nhất.",
+    "zh" : "不可选择最上位文件架部门布告板。"
+  },
+  "답변을 채택한 질문자" : {
+    "en" : "Questioner who chose the answer.",
+    "ja" : "回答を選択した質問者",
+    "vi" : "Người hỏi đã chọn câu trả lời",
+    "zh" : "采取答复的提问者"
+  },
+  "배치 유형 선택" : {
+    "en" : "Select an arrangement type",
+    "ja" : "配置タイプの選択",
+    "vi" : "Chọn loại hình sắp xếp",
+    "zh" : "选择配置类型"
+  },
+  "게시글 등록 반려의견을 입력해 주세요." : {
+    "en" : "Enter the reason why you wish to reject the message from being posted.",
+    "ja" : "掲示文登録の差戻し理由を入力してください。",
+    "vi" : "Hãy nhập ý kiến từ chối đăng bài viết.",
+    "zh" : "请输入登录布告栏退回意见。"
+  },
+  "양식관리 양식" : {
+    "en" : "Manage Form",
+    "ja" : "フォーム管理様式",
+    "vi" : "Mẫu Quản lý bản mẫu",
+    "zh" : "样式管理样式"
+  },
+  "예약시간" : {
+    "en" : "Booking time",
+    "ja" : "予約期間",
+    "vi" : "Thời gian Đặt trước",
+    "zh" : "预订期间"
+  },
+  "게시판별" : {
+    "en" : "by bulletin board",
+    "ja" : "掲示板別",
+    "vi" : "Theo từng bảng tin",
+    "zh" : "各个布告栏"
+  },
+  "스페이스 게시판" : {
+    "en" : "Space bulletin board",
+    "ja" : "スペース掲示板",
+    "vi" : "Bảng tin của Space",
+    "zh" : "空格留言板"
+  },
+  "설문 주제를 입력하세요." : {
+    "en" : "Please enter the title (subject) of the survey.",
+    "ja" : "アンケートテーマを入力してください。",
+    "vi" : "Hãy nhập chủ đề khảo sát",
+    "zh" : "请输入设问主题。"
+  },
+  "체크된 항목만 목록에 표시됩니다." : {
+    "en" : "Only the checked items will be seen in the list.",
+    "ja" : "チェックされた項目のみリストに表示されます。",
+    "vi" : "Chỉ hiển thị mục đã chọn trong danh sách.",
+    "zh" : "在目录上只表示打钩的项目。"
+  },
+  "신규" : {
+    "en" : "New",
+    "ja" : "新規",
+    "vi" : "Mới",
+    "zh" : "新"
+  },
+  "중부 표준시" : {
+    "en" : "Central Standard Time",
+    "ja" : "中部標準時刻",
+    "vi" : "Giờ chuẩn Miền Trung (CST)",
+    "zh" : "中部 标准时"
+  },
+  "게시판 통계" : {
+    "en" : "Bulletin board statistics",
+    "ja" : "掲示板統計",
+    "vi" : "Thống kê bảng tin",
+    "zh" : "布告栏统计"
+  },
+  "템플릿 명" : {
+    "en" : "Template name",
+    "ja" : "テンプレート名",
+    "vi" : "Tên bản mẫu",
+    "zh" : "模板名"
+  },
+  "컬럼명" : {
+    "en" : "Column name",
+    "ja" : "カラム名",
+    "vi" : "Tên cột",
+    "zh" : "专栏名"
+  },
+  "스페이스명" : {
+    "en" : "Space Name",
+    "ja" : "スペース名",
+    "vi" : "Tên Space",
+    "zh" : "空格名"
+  },
+  "게시글 팝업 공지는 모든 사용자에게 공개됩니다. 게시판 권한을 따르지 않습니다." : {
+    "en" : "Pop-up notifications for posts will be disclosed to all users regardless of the permissions to the target board/forum.",
+    "ja" : "掲示文のポップアップ通知は、すべてのユーザーに開示されます。掲示板の権限に従いません。",
+    "vi" : "Thông báo pop-up sẽ được công khai với tất cả người dùng (không tuân theo quyền hạn của bảng tin).",
+    "zh" : "弹出窗口公告将公开给所有使用者。不遵从公告权限。"
+  },
+  "삭제 게시판" : {
+    "en" : "Deleted bulletin board",
+    "ja" : "削除された掲示板",
+    "vi" : "Bảng tin đã xóa",
+    "zh" : "删除布告栏"
+  },
+  "첨부 가능파일 기본설정" : {
+    "en" : "Default settings for attachable files",
+    "ja" : "添付可能なファイルの基本設定",
+    "vi" : "Cài đặt mặc định các tệp có thể đính kèm",
+    "zh" : "可附加文件基本设定"
+  },
+  "이 질문이 받은 추천" : {
+    "en" : "Recommendations given to this question",
+    "ja" : "よくある質問",
+    "vi" : "Đề cử nhận được cho câu hỏi này",
+    "zh" : "这个提问受到的推存"
+  },
+  "첨부 개수" : {
+    "en" : "Total attachments",
+    "ja" : "添付数",
+    "vi" : "Số lượng đính kèm",
+    "zh" : "附加数量"
+  },
+  "{0}개까지만 가능합니다." : {
+    "en" : "You can select up to {0}.",
+    "ja" : "{0} 個まで可能です。",
+    "vi" : "Chỉ có thể chọn đến {0}",
+    "zh" : "可以做到（0）个"
+  },
+  "항목을 입력해주세요." : {
+    "en" : "Enter an item.",
+    "ja" : "項目を入力してください。",
+    "vi" : "Hãy nhập hạng mục",
+    "zh" : "请输入项目。"
+  },
+  "첨부 제한 파일" : {
+    "en" : "Restricted files",
+    "ja" : "添付制限ファイル",
+    "vi" : "Tệp bị giới hạn đính kèm",
+    "zh" : "限制附加文件夹"
+  },
+  "예약신청관리자" : {
+    "en" : "Administrator (Booking Requests)",
+    "ja" : "予約申請の管理者",
+    "vi" : "Quản trị viên Đăng ký đặt trước",
+    "zh" : "预订申请管理者"
+  },
+  "분류명을 입력하세요." : {
+    "en" : "Enter a category name.",
+    "ja" : "カテゴリ名を入力してください。",
+    "vi" : "Hãy nhập tên danh mục.",
+    "zh" : "请输入分类名。"
+  },
+  "부동소수" : {
+    "en" : "Floating number",
+    "ja" : "浮動小数",
+    "vi" : "Số thực dấu phẩy động",
+    "zh" : "浮点"
+  },
+  "검색식 선택" : {
+    "en" : "Select Search Formula",
+    "ja" : "検索式選択",
+    "vi" : "Chọn phương thức tìm kiếm",
+    "zh" : "选择搜索式"
+  },
+  "전체 글" : {
+    "en" : "All Posts",
+    "ja" : "全体のポスト",
+    "vi" : "Tất cả bài viết",
+    "zh" : "全部帖子"
+  },
+  "이미 추천했습니다." : {
+    "en" : "You have already recommended this item.",
+    "ja" : "既におすすめしました。",
+    "vi" : "Đã đề cử trước rồi.",
+    "zh" : "已推荐。"
+  },
+  "컬럼을 선택해주세요." : {
+    "en" : "Select a column.",
+    "ja" : "カラムを選んでください。",
+    "vi" : "Hãy chọn cột.",
+    "zh" : "请选择专栏。"
+  },
+  "이미 추가된 검색옵션입니다." : {
+    "en" : "Search options have already been added.",
+    "ja" : "すでに追加された検索オプションです。",
+    "vi" : "Tùy chọn tìm kiếm đã được thêm.",
+    "zh" : "已添加的搜索选项。"
+  },
+  "답변등록" : {
+    "en" : "Add answers",
+    "ja" : "回答登録",
+    "vi" : "Đăng trả lời",
+    "zh" : "登录答复"
+  },
+  "중국 표준시 - 베이징" : {
+    "en" : "China Standard Time - Beijing",
+    "ja" : "中国標準時刻 - 北京",
+    "vi" : "Giờ chuẩn Trung Quốc- Bắc Kinh",
+    "zh" : "中国 标准时 - 北京"
+  },
+  "참여자의 선택항목 공개" : {
+    "en" : "Show the items selected by participants",
+    "ja" : "参加者の選択項目公開",
+    "vi" : "Công khai hạng mục lựa chọn của người tham gia",
+    "zh" : "公开参加人的选择项目"
+  },
+  "주요 게시함 관리" : {
+    "en" : "Manage Favorites",
+    "ja" : "主要掲示板管理",
+    "vi" : "Quản lý Mục Ưa thích",
+    "zh" : "管理主要公告箱"
+  },
+  "게시판 목록을 정렬할 기준 컬럼과 정렬 방식을 선택합니다." : {
+    "en" : "Select the criteria column and sorting method to list up the postbox list.",
+    "ja" : "掲示板リストをソートする基準カラムとソート方式を選択します。",
+    "vi" : "Chọn cột tiêu chuẩn và phương thức sắp xếp để sắp xếp danh sách bảng thông báo.",
+    "zh" : "选择排列公告栏目录的标准栏与排列方式。"
+  },
+  "지식게시판이 생성되며 게시판의 활동에 따라 설정된 지식마일리지를 부여받습니다." : {
+    "en" : "Knowledge' board will be created. 'Knowledge Mileage' will be given based on the activities within the board.",
+    "ja" : "知識掲示板が作成され、掲示板の活動によって設定された知識マイレージが付与されます。",
+    "vi" : "Bảng tin kiến thức được tạo, bạn có thể được cấp số dặm kiến thức đã cài đặt theo hoạt động của bảng tin.",
+    "zh" : "会新建知识布告栏而且按照布告栏的活动情况可以得到设定的知识积分。"
+  },
+  "선택한 참여자가 없습니다." : {
+    "en" : "There are no participants selected.",
+    "ja" : "選択した参加者がいません。",
+    "vi" : "Không có người tham gia được chọn",
+    "zh" : "没有选择的参加人。"
+  },
+  "조회자가 없습니다." : {
+    "en" : "No viewer.",
+    "ja" : "照会者がいません。",
+    "vi" : "Không có người xem.",
+    "zh" : "无人查询。"
+  },
+  "태그 많은 순서" : {
+    "en" : "Order (by number of tags)",
+    "ja" : "タグの多い順",
+    "vi" : "Theo thứ tự nhiều tag",
+    "zh" : "为标记多顺"
+  },
+  "항목추가" : {
+    "en" : "Add an item",
+    "ja" : "項目追加",
+    "vi" : "Thêm mục",
+    "zh" : "追加项目"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト型",
+    "vi" : "Dạng Danh sách",
+    "zh" : "目录型"
+  },
+  "축하 글" : {
+    "en" : "Congratulatory message",
+    "ja" : "お祝いメッセージ",
+    "vi" : "Bài viết chúc mừng",
+    "zh" : "祝贺文章"
+  },
+  "분류를 등록 수정합니다." : {
+    "en" : "You can add and edit categories.",
+    "ja" : "カテゴリを登録修正します。",
+    "vi" : "Sửa đăng ký phân loại",
+    "zh" : "登录和修改分类。"
+  },
+  "형식에 맞지 않습니다." : {
+    "en" : "The format is incorrect.",
+    "ja" : "形式が合っていません。",
+    "vi" : "Định dạng không đúng.",
+    "zh" : "格式不正确。"
+  },
+  "반려" : {
+    "en" : "Reject",
+    "ja" : "差戻し",
+    "vi" : "Từ chối",
+    "zh" : "退回"
+  },
+  "파일 선택" : {
+    "en" : "Select files",
+    "ja" : "ファイル選択",
+    "vi" : "Chọn tệp",
+    "zh" : "选择文档"
+  },
+  "기존첨부" : {
+    "en" : "Existing Attachment",
+    "ja" : "既存の添付",
+    "vi" : "Đính kèm có sẵn",
+    "zh" : "基本附加"
+  },
+  "삭제할 수 있는 권한이 없습니다." : {
+    "en" : "You have no permission to delete.",
+    "ja" : "削除権限がありません。",
+    "vi" : "Không có quyền được xóa.",
+    "zh" : "没有权限删除。"
+  },
+  "평가했습니다." : {
+    "en" : "Evaluation complete.",
+    "ja" : "評価しました。",
+    "vi" : "Đã đánh giá",
+    "zh" : "评价了。"
+  },
+  "RSS 이동" : {
+    "en" : "Move RSS",
+    "ja" : "RSS移動",
+    "vi" : "Di chuyển RSS",
+    "zh" : "RSS 移动"
+  },
+  "등록된 양식이 없습니다." : {
+    "en" : "No registered forms.",
+    "ja" : "登録されたフォームがありません。",
+    "vi" : "Không có bản mẫu đăng ký",
+    "zh" : "没有登录的样式"
+  },
+  "컬럼 수정" : {
+    "en" : "Edit column",
+    "ja" : "カラム修正",
+    "vi" : "Sửa cột",
+    "zh" : "修改专栏"
+  },
+  "파일 다운로드" : {
+    "en" : "Download File",
+    "ja" : "ファイルのダウンロード",
+    "vi" : "Tải tệp",
+    "zh" : "下载文件"
+  },
+  "첨부 제한 파일의 확장자를 입력하세요. 여러 개일 경우 콤마(,)로 구분" : {
+    "en" : "Enter the extensions of the files that you wish to restrict from being attached. Separate each extension with a comma (,) if there is more than 1.",
+    "ja" : "添付制限ファイルの拡張子を入力してください。複数の場合はコンマ(,)で区別",
+    "vi" : "Hãy nhập phần mở rộng ở file bị hạn chế đính kèm. Trường hợp có nhiều  hãy đánh dấu phẩy (,) để phân biệt.",
+    "zh" : "请输入限制附加的文件夹扩展名。个数多时请用逗号(,)来区分"
+  },
+  "복원했습니다." : {
+    "en" : "Successfully restored.",
+    "ja" : "復元しました。",
+    "vi" : "Đã khôi phục",
+    "zh" : "已复原。"
+  },
+  "선택한 게시판을 대상 폴더로 이동합니다." : {
+    "en" : "Move the selected bulletin board to the folder.",
+    "ja" : "選択した掲示板を対象フォルダに移動します。",
+    "vi" : "Di chuyển bảng tin đã chọn sang thư mục đối tượng.",
+    "zh" : "您选择的布告栏移动到对象文件夹。"
+  },
+  "RSS 목록" : {
+    "en" : "RSS List",
+    "ja" : "RSSリスト",
+    "vi" : "Danh sách RSS",
+    "zh" : "RSS 目录"
+  },
+  "정렬 기준 컬럼이 목록에 추가되지 않았습니다. [컬럼수정]으로 목록에 추가해 주세요." : {
+    "en" : "The sorting criteria column has not been added to the list. Please add it to the list by clicking [Modify a column].",
+    "ja" : "ソート基準カラムがリストに追加されていません。「カラム修正」を行い、リストに追加してください。",
+    "vi" : "Cột tiêu chuẩn sắp xếp chưa được thêm vào danh sách. Vui lòng thêm vào danh sách bằng [Chỉnh sửa cột].",
+    "zh" : "排列标准栏未添加至目录。请使用【修改栏】添加至目录。"
+  },
+  "공지사항" : {
+    "en" : "Notice",
+    "ja" : "お知らせ事項",
+    "vi" : "Nội dung thông báo",
+    "zh" : "公告事项"
+  },
+  "제목을 입력하세요." : {
+    "en" : "Enter a title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề",
+    "zh" : "请输入题目。"
+  },
+  "등록 승인" : {
+    "en" : "Approve posting",
+    "ja" : "登録承認",
+    "vi" : "chấp nhận đăng bài",
+    "zh" : "登录承认"
+  },
+  "등록한 답변 삭제시 해당 답변을 통해 등록자에게 부여한 마일리지" : {
+    "en" : "Mileage given to the user who posted the answer when deleting the answer",
+    "ja" : "登録した回答の削除時に、当該回答によって登録者に付与したマイレージ",
+    "vi" : "Số dặm cấp cho người dùng thông qua câu hỏi tương ứng khi xóa trả lời đã đăng",
+    "zh" : "删除登录的答复时通过有关答复给登录者赋予的积分"
+  },
+  "대여 신청이 등록되었습니다." : {
+    "en" : "Loan request has been registered.",
+    "ja" : "貸出申請が登録されました。",
+    "vi" : "Yêu cầu mượn đã được đăng ký.",
+    "zh" : "已注册租用申请。"
+  },
+  "{0}명" : {
+    "en" : "{0} people",
+    "ja" : "{0} 名",
+    "vi" : "{0} người",
+    "zh" : "（0）名"
+  },
+  "템플릿 명을 입력해주세요." : {
+    "en" : "Enter Template Name",
+    "ja" : "テンプレート名を入力してください。",
+    "vi" : "Nhập tên bản mẫu.",
+    "zh" : "请输入模板名。"
+  },
+  "공지기한 기본설정" : {
+    "en" : "Notice period settings",
+    "ja" : "通知期限の基本設定",
+    "vi" : "Cài đăt mặc định kỳ hạn thông báo",
+    "zh" : "公告期限基本设定"
+  },
+  "게시물 추천 발송 입니다." : {
+    "en" : "Post Recommendation Notification",
+    "ja" : "おすすめ掲示物の送信です。",
+    "vi" : "Gửi đề cử gửi bài viết.",
+    "zh" : "发送推荐公告内容。"
+  },
+  "문자열" : {
+    "en" : "Strings",
+    "ja" : "文字列",
+    "vi" : "Chuỗi ký tự",
+    "zh" : "字符串"
+  },
+  "소유부서" : {
+    "en" : "Owned by (Department)",
+    "ja" : "所有部署",
+    "vi" : "Phòng ban sở hữu",
+    "zh" : "所属部门"
+  },
+  "설문 항목을 선택하면 참여자 목록을 볼 수 있습니다." : {
+    "en" : "Select the survey item to view the list of participants.",
+    "ja" : "アンケート項目を選択したら、参加者リストを閲覧できます。",
+    "vi" : "Nếu chọn hạng mục khảo sát có thể xem được danh sách người tham gia",
+    "zh" : "选择设问项目的话可以看参加人目录。"
+  },
+  "선택한 분류를 대상 분류의 하위로 이동합니다." : {
+    "en" : "Move the selected category to the destination category",
+    "ja" : "選択した分類を対象分類の下位に移動します。",
+    "vi" : "Di chuyển đên hạng mục đã chọn bên dưới đối tượng",
+    "zh" : "把选择的分类移动到分类的下位。"
+  },
+  "게시판 복사" : {
+    "en" : "Copy bulletin board",
+    "ja" : "掲示板コピー",
+    "vi" : "Sao chép bảng tin",
+    "zh" : "拷贝布告栏"
+  },
+  "공지 높이 최소 사이즈는 300px 입니다. 300px 보다 크게 입력해 주세요." : {
+    "en" : "The minimum height of a notice is 300px. Please add a value greater than 300px.",
+    "ja" : "お知らせの高さの最小サイズは300pxです。300pxより大きい値を入力してください。",
+    "vi" : "Chiều cao tối thiểu của thông báo phải là 300px. Vui lòng nhập vào giá trị lớn hơn 300px.",
+    "zh" : "通知高度最小大小为300px 。请输入300px 以上。"
+  },
+  "글 내용의 처음 부분 표시" : {
+    "en" : "Show a preview of the post",
+    "ja" : "記事内容の最初の部分を表示",
+    "vi" : "Hiển thị phần đầu tiên của nội dung bài viết.",
+    "zh" : "表示文章内容的开初部份"
+  },
+  "분류가 삭제되었습니다." : {
+    "en" : "The classification has been deleted.",
+    "ja" : "カテゴリーが削除されました。",
+    "vi" : "Phân loại đã bị xóa.",
+    "zh" : "分类已删除。"
+  },
+  "공유함" : {
+    "en" : "Sharebox",
+    "ja" : "共有する",
+    "vi" : "Hộp chia sẻ",
+    "zh" : "共有"
+  },
+  "쪽지 발송" : {
+    "en" : "Send note",
+    "ja" : "メッセージ送信",
+    "vi" : "Gửi tin nhắn",
+    "zh" : "发送纸条"
+  },
+  "날짜 변경선 서쪽" : {
+    "en" : "International Date Line (Western side)",
+    "ja" : "日付変更線 西側",
+    "vi" : "Phía tây đường thay đổi ngày",
+    "zh" : "日子变更线西边"
+  },
+  "게시판 펼침" : {
+    "en" : "Show Bulletin Boards",
+    "ja" : "掲示板を開く",
+    "vi" : "Bung ra bảng tin",
+    "zh" : "打开布告栏"
+  },
+  "덧글" : {
+    "en" : "Comment",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "回帖"
+  },
+  "도움말" : {
+    "en" : "Help",
+    "ja" : "ヘルプ",
+    "vi" : "Trợ giúp",
+    "zh" : "帮助"
+  },
+  "총 금액" : {
+    "en" : "Total amount",
+    "ja" : "合計金額",
+    "vi" : "Tổng số tiền",
+    "zh" : "总金额"
+  },
+  "이 글의 트랙백 주소입니다.\\nCtrl+C를 눌러 클립보드로 복사하세요." : {
+    "en" : "This is the trackback address for this post. \\nPress Ctrl+C to copy it to your clipboard.",
+    "ja" : "この記事のトラックバックアドレスです。\\nCtrl+Cを押してクリップボードにコピーしてください。",
+    "vi" : "ây là địa chỉ theo dõi lại bài viết. Hãy nhấn WnCtrl+C để sao chép vào Clipboard.",
+    "zh" : "是这个文章的track back地址.请按\\nCtrl+C拷贝到剪贴板。"
+  },
+  "구매일시" : {
+    "en" : "Date",
+    "ja" : "購入日時",
+    "vi" : "Ngày mua",
+    "zh" : "购买日时"
+  },
+  "댓글의 댓글" : {
+    "en" : "Reply",
+    "ja" : "コメントの返信",
+    "vi" : "Bình luận của bình luận",
+    "zh" : "回帖的回帖"
+  },
+  "산지 표준시_미국/캐나다" : {
+    "en" : "Mountain Standard Time_USA/Canada",
+    "ja" : "山地標準時刻_アメリカ/カナダ",
+    "vi" : "Giờ tiêu chuẩn vùng núi_ Mỹ/ Canada",
+    "zh" : "产地标准时间-美国/加拿大"
+  },
+  "공유자를 설정하세요." : {
+    "en" : "Please select the people you wish to share this item.",
+    "ja" : "共有者を設定してください。",
+    "vi" : "Hãy chọn người chia sẻ.",
+    "zh" : "请设定一下共有人。"
+  },
+  "사이트 이미지" : {
+    "en" : "Site Image",
+    "ja" : "サイト画面",
+    "vi" : "Hình ảnh trang web",
+    "zh" : "网站图像"
+  },
+  "미조회자" : {
+    "en" : "People who haven't viewed",
+    "ja" : "未照会者",
+    "vi" : "Người chưa tra cứu",
+    "zh" : "未查询者"
+  },
+  "설문참여전 결과공개" : {
+    "en" : "Show results before participating in a survey",
+    "ja" : "アンケート参加前の結果公開",
+    "vi" : "Công bố kết quả trước khi tham gia khảo sát",
+    "zh" : "参加设问前公开结果"
+  },
+  "말머리 없음" : {
+    "en" : "No headings",
+    "ja" : "表題なし",
+    "vi" : "Không có lời nói đầu",
+    "zh" : "没有话头"
+  },
+  "도서대여 게시판으로 사용할 수 있으며, 대여내역을 사용자가 등록후 대여 신청합니다." : {
+    "en" : "It can be used as a bulletin board for borrowing books. The user can borrow books after registering the 'Borrowing History' by themselves.",
+    "ja" : "本の貸出掲示板として使用することができ、貸出内訳をユーザーが登録後、貸出を申請します。",
+    "vi" : "Có thể sử dụng làm bảng thông báo mượn sách, và người dùng sẽ đăng lịch sử thuê rồi đăng ký.",
+    "zh" : "可以使用为借书布告栏。使用者登录出租细目后申请出租。"
+  },
+  "파일첨부 기본개수" : {
+    "en" : "Default number of attachments (files)",
+    "ja" : "ファイル添付の基本数",
+    "vi" : "Số lượng mặc định của đính kèm tệp",
+    "zh" : "附件基本个数"
+  },
+  "선택한 폴더를 대상 폴더의 하위로 복사합니다." : {
+    "en" : "Copy the selected folder to the sub(folder) of the target folder.",
+    "ja" : "選択したフォルダを対象フォルダの下位にコピーします。",
+    "vi" : "Sao chép thự mục đã chọn vào bên trong thư mục đối tượng.",
+    "zh" : "把您选择的文件夹拷贝到对象文件夹的下位。"
+  },
+  "익명 유형 게시글은 제외하고 추천되었습니다." : {
+    "en" : "Anonymous posts are excluded and recommended.",
+    "ja" : "匿名タイプの投稿は除外され、推薦されました。",
+    "vi" : "Danh sách đề xuất không bao gồm những bài đăng ẩn danh.",
+    "zh" : "已排除匿名类型的帖子，并推荐了其他帖子。"
+  },
+  "스크랩 삭제" : {
+    "en" : "Cancel scrap",
+    "ja" : "スクラップ削除",
+    "vi" : "Xóa scrap",
+    "zh" : "删除剪报"
+  },
+  "기한선택" : {
+    "en" : "Select due date.",
+    "ja" : "期限選択",
+    "vi" : "Lựa chọn thời hạn",
+    "zh" : "选择期限"
+  },
+  "폴더를 선택하세요." : {
+    "en" : "Select a folder.",
+    "ja" : "フォルダを選択してください。",
+    "vi" : "Hãy chọn thư mục",
+    "zh" : "请选择文件夹。"
+  },
+  "추가컬럼선택" : {
+    "en" : "Select additional column",
+    "ja" : "追加カラム選択",
+    "vi" : "Chọn cột để thêm",
+    "zh" : "选择追加专栏"
+  },
+  "게시판에서 사용할 분류를 선택하세요." : {
+    "en" : "Select the classifications to use on the bulletin board.",
+    "ja" : "掲示板で使用するカテゴリーを選択してください。",
+    "vi" : "Chọn các phân loại để sử dụng trên bảng thông báo.",
+    "zh" : "请在论坛中选择要使用的分类。"
+  },
+  "{0} 항목값은  {1} 이하이어야 합니다." : {
+    "en" : "{0} item value must be less than {1}.",
+    "ja" : "{0}項目値は{1}以下でなければなりません。",
+    "vi" : "Giá trị của mục {0} phải nhỏ hơn {1}",
+    "zh" : "{0} 项目值得  {1}以下。"
+  },
+  "대상 RSS 게시판을 선택하세요." : {
+    "en" : "Please select target RSS board.",
+    "ja" : "対象RSS掲示板を選択してください。",
+    "vi" : "Hãy chọn bảng tin RSS đối tượng .",
+    "zh" : "请选择对象 RSS 布告栏。"
+  },
+  "아니다" : {
+    "en" : "is not",
+    "ja" : "ではない",
+    "vi" : "Không phải là",
+    "zh" : "不是"
+  },
+  "RSS 주소는 최대" : {
+    "en" : "You can add up to",
+    "ja" : "RSSアドレスは、最大",
+    "vi" : "Địa chỉ RSS là tối đa",
+    "zh" : "RSS 地址最多"
+  },
+  "댓글 이미지첨부" : {
+    "en" : "Attach image (to comment)",
+    "ja" : "コメント画像添付",
+    "vi" : "Đính kèm hình ảnh vào bình luận",
+    "zh" : "回帖附加图像"
+  },
+  "목록의 상단에만 노출" : {
+    "en" : "Only show at the top of the list.",
+    "ja" : "リストの上部にのみ表示",
+    "vi" : "Chỉ hiển thị phía trên danh sách",
+    "zh" : "只在目录上端显示"
+  },
+  "분류변경" : {
+    "en" : "Change Category",
+    "ja" : "カテゴリ変更",
+    "vi" : "Thay đổi loại",
+    "zh" : "变更分类"
+  },
+  "한국어는 필수 입력 언어입니다. 입력하지 않은 언어는 한국어로 표시됩니다." : {
+    "en" : "Korean is set as the default language. All languages that have not been entered will be shown in Korean.",
+    "ja" : "韓国語は必須入力言語です。入力していない言語は韓国語で表示されます。",
+    "vi" : "Tiếng Hàn là ngôn ngữ nhập bắt buộc. Nếu là ngôn ngữ không được nhập thì sẽ chuyển sang tiếng Hàn.",
+    "zh" : "韩语是必须输入语言。没输入的语言会自动表示出韩语。"
+  },
+  "월간" : {
+    "en" : "Monthly",
+    "ja" : "月間",
+    "vi" : "Theo tháng",
+    "zh" : "月间"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "검색 종료 일자를 입력하세요." : {
+    "en" : "Enter an end date to search.",
+    "ja" : "検索終了日を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc tìm kiếm",
+    "zh" : "请输入搜索结束日子。"
+  },
+  "게시판 이동" : {
+    "en" : "Move board",
+    "ja" : "掲示板移動",
+    "vi" : "Di chuyển bảng tin",
+    "zh" : "移动公告栏"
+  },
+  "보기 설정" : {
+    "en" : "'View' settings",
+    "ja" : "表示設定",
+    "vi" : "Cài đăt Xem",
+    "zh" : "设定看法"
+  },
+  "취소했습니다." : {
+    "en" : "Successfully Cancelled.",
+    "ja" : "キャンセルしました。",
+    "vi" : "Đã hủy",
+    "zh" : "已取消。"
+  },
+  "막대 그래프" : {
+    "en" : "Bar chart",
+    "ja" : "棒グラフ",
+    "vi" : "Biểu đồ cột",
+    "zh" : "条形图"
+  },
+  "추천할 경우" : {
+    "en" : "When recommending",
+    "ja" : "おすすめする場合",
+    "vi" : "Trường hợp đề cử",
+    "zh" : "推荐的话"
+  },
+  "말머리를 입력해주세요." : {
+    "en" : "Enter a heading.",
+    "ja" : "表題を入力してください。",
+    "vi" : "Hãy nhập lời nói đầu",
+    "zh" : "请输入话题。"
+  },
+  "하단 배너" : {
+    "en" : "Bottom banner",
+    "ja" : "下部バナー",
+    "vi" : "Banner phía dưới",
+    "zh" : "下段网幅广告"
+  },
+  "기간을 선택하세요." : {
+    "en" : "Select a period.",
+    "ja" : "期間を選択してください。",
+    "vi" : "Chọn thời hạn.",
+    "zh" : "请输入期间。"
+  },
+  "익명여부" : {
+    "en" : "Anonymity",
+    "ja" : "匿名可否",
+    "vi" : "Có/không ẩn danh",
+    "zh" : "是否匿名"
+  },
+  "판매가격을 입력하세요." : {
+    "en" : "Enter the price.",
+    "ja" : "販売価格を入力してください。",
+    "vi" : "Hãy nhập giá bán.",
+    "zh" : "请输入销售价格。"
+  },
+  "반려했습니다." : {
+    "en" : "The article has been rejected.",
+    "ja" : "掲示物登録を差し戻しました。",
+    "vi" : "Đã từ chối",
+    "zh" : "发还了登录公告内容。"
+  },
+  "사원번호" : {
+    "en" : "Employee No.",
+    "ja" : "社員番号",
+    "vi" : "Mã số nhân viên",
+    "zh" : "员工序号"
+  },
+  "이전 게시물" : {
+    "en" : "Previous post",
+    "ja" : "前の記事",
+    "vi" : "Bài viết trước",
+    "zh" : "前一个布告内容"
+  },
+  "사용여부" : {
+    "en" : "Was it used?",
+    "ja" : "使用可否",
+    "vi" : "Có/không sử dụng",
+    "zh" : "是否使用"
+  },
+  "답변을 채택하였습니다." : {
+    "en" : "You have chosen an answer.",
+    "ja" : "回答を選択しました",
+    "vi" : "Đã chọn câu trả lời",
+    "zh" : "采取了答复。"
+  },
+  "읽은 상태로 표시" : {
+    "en" : "Mark as 'Read'",
+    "ja" : "既読にする",
+    "vi" : "Biểu thị trạng thái đã đọc",
+    "zh" : "标示为已读"
+  },
+  "관리자에 의해 삭제된 댓글입니다." : {
+    "en" : "The comment has been deleted by the admin",
+    "ja" : "管理者により削除されたコメントです。",
+    "vi" : "Là bình luận bị xóa bởi quản trị viên.",
+    "zh" : "已被管理者删除的留言。"
+  },
+  "게시한 글 보기" : {
+    "en" : "View posts",
+    "ja" : "投稿した記事を表示",
+    "vi" : "Xem bài đã đăng",
+    "zh" : "看揭示的文章"
+  },
+  "{0} 항목은 {1}자이상 입력해야합니다." : {
+    "en" : "{0} item must be more than {1} characters.",
+    "ja" : "{0}項目は{1}文字以上で入力する必要があります。",
+    "vi" : "Bạn phải nhập hơn {1} ký tự ở hạng mục {0}",
+    "zh" : "{0} 项目得输入 {1}字以上。"
+  },
+  "물품등을 신청하고 이를 승인하는 게시판입니다. 관리자는 신청내용을 수정할 수 있습니다." : {
+    "en" : "A board that is used for the request and approval of new goods. The admin can modify the content of a request.",
+    "ja" : "物品等の申請、承認掲示板です。管理者は、申請内容を変更することができます。",
+    "vi" : "Đây là bảng tin đăng kí các đồ dùng và phê duyệt nó. Quản trị viên có thể chỉnh sửa nội dung đăng ký.",
+    "zh" : "申请物品等而承认的布告栏。管理者可以修改申请内容。"
+  },
+  "추천했습니다. 본인이 작성한 글은 추천에서 제외합니다." : {
+    "en" : "Recommended. Your own posts are excluded from recommendations.",
+    "ja" : "推薦しました。自分が作成した記事は推薦から除外します。",
+    "vi" : "Được đề xuất. Bài đăng của bạn sẽ không được đề xuất.",
+    "zh" : "已进行了推荐。自己撰写的文章将被排除在外。"
+  },
+  "문서함" : {
+    "en" : "Document Box",
+    "ja" : "文書",
+    "vi" : "Hộp hồ sơ",
+    "zh" : "文件箱"
+  },
+  "뉴스형" : {
+    "en" : "News type",
+    "ja" : "ニュース型",
+    "vi" : "Dạng Tin tức",
+    "zh" : "新闻型"
+  },
+  "게시물이 등록되었습니다." : {
+    "en" : "Post has been registered.",
+    "ja" : "投稿が登録されました。",
+    "vi" : "Bài viết đã được đăng ký.",
+    "zh" : "帖子已注册。"
+  },
+  "청원" : {
+    "en" : "Petition",
+    "ja" : "申請",
+    "vi" : "Thỉnh cầu",
+    "zh" : "请愿"
+  },
+  "신&nbsp;&nbsp;청&nbsp;&nbsp;자" : {
+    "en" : "Requested by",
+    "ja" : "申込者",
+    "vi" : "Người đăng ký",
+    "zh" : "申&nbsp;&nbsp;请&nbsp;&nbsp;者"
+  },
+  "첨부 제한파일 기본설정" : {
+    "en" : "Default settings for restricted attachments",
+    "ja" : "添付制限ファイルの基本設定",
+    "vi" : "Cài đặt mặc định các tệp bị hạn chế đính kèm",
+    "zh" : "限制附加文件基本设定"
+  },
+  "컬럼 추가" : {
+    "en" : "Add column",
+    "ja" : "項目追加",
+    "vi" : "Thêm cột",
+    "zh" : "追加项目"
+  },
+  "등록된 게시판이 없습니다." : {
+    "en" : "There are no registered bulletin boards.",
+    "ja" : "登録された掲示板がありません。",
+    "vi" : "Không có bảng tin được đăng",
+    "zh" : "无已登录公告栏"
+  },
+  "최대 {0}까지 선택 가능합니다." : {
+    "en" : "You can choose up to {0}.",
+    "ja" : "最大 {0} まで選択可能です。",
+    "vi" : "Có thể chọn tối đa đến {0}.",
+    "zh" : "最多可以选择（0）个"
+  },
+  "태그는 최대 {0}개까지만 입력가능합니다." : {
+    "en" : "You can enter up to  {0} tags.",
+    "ja" : "タグは最大{0}個まで入力できます。",
+    "vi" : "Bạn có thể nhập tag tối đa {0} cái.",
+    "zh" : "标记最多可以输入{0}个。"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "掲示板",
+    "vi" : "Bảng tin",
+    "zh" : "布告栏"
+  },
+  "반&nbsp;&nbsp;려&nbsp;&nbsp;일" : {
+    "en" : "Rejection date",
+    "ja" : "差&nbsp;&nbsp;戻し&nbsp;&nbsp;日",
+    "vi" : "Ngày từ chối",
+    "zh" : "发&nbsp;&nbsp;还&nbsp;&nbsp;日"
+  },
+  "셀렉트" : {
+    "en" : "Select",
+    "ja" : "セレクト",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "중요게시글" : {
+    "en" : "Important post",
+    "ja" : "重要記事",
+    "vi" : "Hạng mục đánh dấu sao",
+    "zh" : "重要布告内容"
+  },
+  "좋아요 취소" : {
+    "en" : "Cancel 'Like'",
+    "ja" : "いいねをキャンセル",
+    "vi" : "Hủy thích",
+    "zh" : "取消好"
+  },
+  "댓글첨부" : {
+    "en" : "Attach comment",
+    "ja" : "コメント添付",
+    "vi" : "Đính kèm bình luận",
+    "zh" : "附加留言"
+  },
+  "변경" : {
+    "en" : "Change",
+    "ja" : "変更",
+    "vi" : "Thay đổi",
+    "zh" : "变更"
+  },
+  "외부 게시" : {
+    "en" : "External posting",
+    "ja" : "外部掲示",
+    "vi" : "Đăng bên ngoài",
+    "zh" : "外部公告"
+  },
+  "예약내역" : {
+    "en" : "Booking/Reservation History",
+    "ja" : "予約詳細",
+    "vi" : "Lịch sử đặt trước",
+    "zh" : "预订细目"
+  },
+  "링크 게시판" : {
+    "en" : "Link board",
+    "ja" : "リンク掲示板",
+    "vi" : "Bảng tin dạng link",
+    "zh" : "链接公告栏"
+  },
+  "첨부파일 기한" : {
+    "en" : "Attachment expiration date",
+    "ja" : "添付ファイル期限",
+    "vi" : "Kì hạn tệp đính kèm",
+    "zh" : "附件期限"
+  },
+  "신&nbsp;&nbsp;청&nbsp;&nbsp;일" : {
+    "en" : "Date",
+    "ja" : "申&nbsp;&nbsp込&nbsp;&nbsp;日",
+    "vi" : "Ngày đăng kí",
+    "zh" : "申&nbsp;&nbsp;请&nbsp;&nbsp;日"
+  },
+  "게시판에서 사용할 분류를 관리합니다." : {
+    "en" : "Manage classifications for use on the bulletin board.",
+    "ja" : "掲示板で使用するカテゴリーを管理します。",
+    "vi" : "Quản lý các phân loại được sử dụng trên bảng thông báo.",
+    "zh" : "在论坛管理中，您可以管理用于分类的内容。"
+  },
+  "지정한 양식을 사용하여 글을 작성합니다." : {
+    "en" : "Use the specified form to create a post.",
+    "ja" : "指定されたフォームで記事を作成します。",
+    "vi" : "Sử dụng bản mẫu đã lưu để viết bài.",
+    "zh" : "按照指定的样式来写文章。"
+  },
+  "첨부 용량를 선택하세요." : {
+    "en" : "Select the size of attachments.",
+    "ja" : "添付容量を選択してください。",
+    "vi" : "Hãy chọn dung lượng đính kèm",
+    "zh" : "请选择附加用量。"
+  },
+  "허용되지 않는 특수기호가 있습니다." : {
+    "en" : "It contains special characters that are not allowed.",
+    "ja" : "許可されていない特殊記号があります。",
+    "vi" : "Có kí hiệu đặc biệt không được chấp nhận.",
+    "zh" : "有不允许使用的特殊符号。"
+  },
+  "속성 접기" : {
+    "en" : "Hide properties",
+    "ja" : "属性を隠す",
+    "vi" : "Đóng phần thuộc tính",
+    "zh" : "折叠属性"
+  },
+  "추천함" : {
+    "en" : "Recommended",
+    "ja" : "おすすめ",
+    "vi" : "Đề cử",
+    "zh" : "推荐"
+  },
+  "대여내역" : {
+    "en" : "Borrow/Rent History",
+    "ja" : "貸出し内訳",
+    "vi" : "Lịch sử mượn",
+    "zh" : "出租细目"
+  },
+  "읽기 권한 이상인 사용자만 선택할 수 있습니다" : {
+    "en" : "This can only be selected by users who have an authorization level of 'Read-only' and higher.",
+    "ja" : "読み取り専用より上の権限を持つユーザのみ選択することができます。",
+    "vi" : "Chỉ có người dùng có quyền cao hơn quyền Đọc mới có thể chọn.",
+    "zh" : "拥有阅读权限以上使用者才可选择。"
+  }
+}

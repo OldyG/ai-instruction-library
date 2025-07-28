@@ -1,0 +1,950 @@
+{
+  "새로운 항목 우선" : {
+    "en" : "Prioritize Newer Items",
+    "ja" : "新しい項目を優先",
+    "vi" : "Ưu tiên Các Mục Mới hơn",
+    "zh" : "优先处理新项目"
+  },
+  "마지막" : {
+    "en" : "Last",
+    "ja" : "最後",
+    "vi" : "Cuối cùng",
+    "zh" : "最后"
+  },
+  "작업을 반복합니다." : {
+    "en" : "Repeat the task.",
+    "ja" : "作業を繰り返します。",
+    "vi" : "Lặp lại công việc.",
+    "zh" : "重复该任务。"
+  },
+  "편집" : {
+    "en" : "Edit",
+    "ja" : "編集",
+    "vi" : "Chỉnh sửa",
+    "zh" : "编辑"
+  },
+  "이 보기에 표시 할 항목이 없습니다." : {
+    "en" : "There are no items to display in this view.",
+    "ja" : "このビューに表示する項目はありません。",
+    "vi" : "Không có mục để hiển thị trong chế độ xem này.",
+    "zh" : "此视图中没有要显示的项目。"
+  },
+  "공유 받은 폴더에 새 폴더를 생성할 수 없습니다." : {
+    "en" : "Unable to create a new folder in the shared folder.",
+    "ja" : "共有受信フォルダに新しいフォルダを作成できません。",
+    "vi" : "Không thể tạo một thư mục mới trong thư mục được chia sẻ.",
+    "zh" : "无法在共享文件夹中创建新文件夹。"
+  },
+  "목요일" : {
+    "en" : "Thursday",
+    "ja" : "木曜日",
+    "vi" : "Thứ năm",
+    "zh" : "星期四"
+  },
+  "완료 날짜는 미래 날짜로 설정 될 수 없습니다." : {
+    "en" : "The completion date cannot be set to a future date.",
+    "ja" : "完了日付は未来の日付に設定できません。",
+    "vi" : "Ngày hoàn thành không thể được đặt trong tương lai.",
+    "zh" : "完成日期不能设置为未来日期。"
+  },
+  "마다" : {
+    "en" : "Per",
+    "ja" : "ごとに",
+    "vi" : "Mỗi",
+    "zh" : "每"
+  },
+  "매월 같은 주" : {
+    "en" : "Same week every month",
+    "ja" : "毎月同じ週",
+    "vi" : "Cùng một tuần hàng tháng",
+    "zh" : "每月同一周"
+  },
+  "매일" : {
+    "en" : "Daily.",
+    "ja" : "毎日",
+    "vi" : "Hàng ngày.",
+    "zh" : "每天"
+  },
+  "작업이 없습니다." : {
+    "en" : "No tasks.",
+    "ja" : "作業がありません。",
+    "vi" : "Không có công việc.",
+    "zh" : "没有任务。"
+  },
+  "완료" : {
+    "en" : "Complete.",
+    "ja" : "完了",
+    "vi" : "Hoàn tất",
+    "zh" : "完成"
+  },
+  "주마다" : {
+    "en" : "Per week",
+    "ja" : "週毎に",
+    "vi" : "Mỗi tuần",
+    "zh" : "每周"
+  },
+  "미리 알림 날짜, 시간을 입력해주세요." : {
+    "en" : "Please enter the reminder date and time.",
+    "ja" : "事前アラーム日付、時間を入力してください。",
+    "vi" : "Vui lòng nhập ngày và giờ nhắc nhở.",
+    "zh" : "请输入提醒日期和时间。"
+  },
+  "반복 방법 선택" : {
+    "en" : "Select repeat method",
+    "ja" : "繰り返し方法の選択",
+    "vi" : "Chọn phương pháp lặp lại",
+    "zh" : "选择重复方法"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト型",
+    "vi" : "Hình thức mục lục",
+    "zh" : "目录形"
+  },
+  "어제 끝났습니다." : {
+    "en" : "Ended yesterday.",
+    "ja" : "昨日終了しました。",
+    "vi" : "Đã kết thúc vào ngày hôm qua.",
+    "zh" : "昨天已完成。"
+  },
+  "작업 폴더 관리" : {
+    "en" : "Task folder management.",
+    "ja" : "作業フォルダ管理",
+    "vi" : "Quản lý thư mục nhiệm vụ",
+    "zh" : "管理任务文件夹"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Enter the content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Nhập nội dung.",
+    "zh" : "请输入内容。"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "タイトル",
+    "vi" : "Tiêu đề",
+    "zh" : "标题"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "새 작업" : {
+    "en" : "New task",
+    "ja" : "新しい作業",
+    "vi" : "Công việc mới",
+    "zh" : "新建任务"
+  },
+  "상세보기" : {
+    "en" : "View details",
+    "ja" : "詳細を見る",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细信息"
+  },
+  "첨부파일" : {
+    "en" : "Attachment",
+    "ja" : "添付ファイル",
+    "vi" : "Tệp đính kèm",
+    "zh" : "附件"
+  },
+  "작업 제목을 입력해야 합니다." : {
+    "en" : "You must enter a task title.",
+    "ja" : "作業タイトルを入力してください",
+    "vi" : "Bạn phải nhập tiêu đề công việc.",
+    "zh" : "必须输入任务标题。"
+  },
+  "삭제하였습니다." : {
+    "en" : "Deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đã xóa.",
+    "zh" : "已删除。"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "토요일" : {
+    "en" : "Saturday",
+    "ja" : "土曜日",
+    "vi" : "Thứ bảy",
+    "zh" : "星期六"
+  },
+  "기존첨부" : {
+    "en" : "Existing attachment",
+    "ja" : "既存添付",
+    "vi" : "Đính kèm hiện có",
+    "zh" : "现有附件"
+  },
+  "네번째" : {
+    "en" : "Fourth",
+    "ja" : "第四",
+    "vi" : "Thứ tư",
+    "zh" : "第四个"
+  },
+  "범주 선택" : {
+    "en" : "Cateogry selection",
+    "ja" : "カテゴリ選択",
+    "vi" : "Hạng mục lựa chọn",
+    "zh" : "选择范畴"
+  },
+  "지연" : {
+    "en" : "Delayed",
+    "ja" : "遅延",
+    "vi" : "Bị trễ",
+    "zh" : "延迟"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日期"
+  },
+  "내 작업" : {
+    "en" : "My tasks.",
+    "ja" : "自分の作業",
+    "vi" : "Công việc của tôi.",
+    "zh" : "我的任务"
+  },
+  "매월 {}일" : {
+    "en" : "Monthly on the {} day.",
+    "ja" : "毎月{}日",
+    "vi" : "Hàng tháng vào ngày {}.",
+    "zh" : "每月{}日"
+  },
+  "진행 중" : {
+    "en" : "In progress",
+    "ja" : "進行中",
+    "vi" : "Đang tiến hành",
+    "zh" : "进行中"
+  },
+  "완료하였습니다." : {
+    "en" : "Completed.",
+    "ja" : "完了しました。",
+    "vi" : "Đã hoàn thành.",
+    "zh" : "已完成。"
+  },
+  "비공개로 표시" : {
+    "en" : "Mark as private",
+    "ja" : "非公開に表示",
+    "vi" : "Đánh dấu là riêng tư",
+    "zh" : "标记为私密"
+  },
+  "오름차순" : {
+    "en" : "Ascending",
+    "ja" : "昇順",
+    "vi" : "theo thứ tự tăng lên",
+    "zh" : "升幂"
+  },
+  "없는 항목 우선" : {
+    "en" : "Prioritize Nonexistent Items",
+    "ja" : "存在しない項目優先",
+    "vi" : "Ưu tiên Các Mục Không Tồn Tại",
+    "zh" : "优先处理不存在项目"
+  },
+  "매년 같은 주" : {
+    "en" : "Same week every year",
+    "ja" : "毎年同じ週",
+    "vi" : "Cùng một tuần hàng năm",
+    "zh" : "每年同一周"
+  },
+  "첨부 초기화" : {
+    "en" : "Reset attachments.",
+    "ja" : "添付初期化",
+    "vi" : "Khởi tạo lại mục đính kèm",
+    "zh" : "重置附件"
+  },
+  "월요일" : {
+    "en" : "Monday",
+    "ja" : "月曜日",
+    "vi" : "Thứ hai",
+    "zh" : "星期一"
+  },
+  "폴더 추가" : {
+    "en" : "Add folder",
+    "ja" : "フォルダ追加",
+    "vi" : "Thêm thư mục",
+    "zh" : "添加文件夹"
+  },
+  "완료율 정보가 올바르지 않습니다. 0부터 100 사이의 숫자를 입력하세요." : {
+    "en" : "The completion rate information is incorrect. Please enter a number between 0 and 100.",
+    "ja" : "完了率情報が正しくありません。0から100の間で正しい数字を入力ください。",
+    "vi" : "Thông tin tỷ lệ hoàn thành không chính xác. Vui lòng nhập số trong khoảng từ 0 đến 100.",
+    "zh" : "完成率信息不正确。请输入0到100之间的数字。"
+  },
+  "세번째" : {
+    "en" : "Third",
+    "ja" : "第三",
+    "vi" : "Thứ ba",
+    "zh" : "第三个"
+  },
+  "낮은 항목 우선" : {
+    "en" : "Prioritize Low Items",
+    "ja" : "低い項目優先",
+    "vi" : "Ưu tiên Các Mục Thấp",
+    "zh" : "优先处理较低项目"
+  },
+  "저장되었습니다." : {
+    "en" : "Saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu.",
+    "zh" : "已保存。"
+  },
+  "주마다 다음 요일" : {
+    "en" : "Every next day of the week",
+    "ja" : "週ごとの次の曜日",
+    "vi" : "Mỗi ngày tiếp theo trong tuần",
+    "zh" : "每周的下一个星期几"
+  },
+  "작업" : {
+    "en" : "Task",
+    "ja" : "作業",
+    "vi" : "Công việc",
+    "zh" : "任务"
+  },
+  "주행 거리" : {
+    "en" : "Travel distance",
+    "ja" : "走行距離",
+    "vi" : "Khoảng cách di chuyển",
+    "zh" : "行驶距离"
+  },
+  "첫번째" : {
+    "en" : "First",
+    "ja" : "第一",
+    "vi" : "Thứ nhất",
+    "zh" : "第一个"
+  },
+  "{}월 {}마다" : {
+    "en" : "Every {} month on the {}th",
+    "ja" : "{}月{}ごとに",
+    "vi" : "Mỗi {} tháng vào ngày {}",
+    "zh" : "每月的第{}个{}"
+  },
+  "예상 작업 시간" : {
+    "en" : "Estimated task time",
+    "ja" : "予想作業時間",
+    "vi" : "Thời gian dự kiến cho công việc",
+    "zh" : "预计工作时间"
+  },
+  "입력한 기간이 잘못되었습니다. [실제 작업 시간] 상자에 1, 2, 33,75와 같은 양수를 입력해주세요." : {
+    "en" : "The entered duration is incorrect. Please enter a positive number, such as 1, 2, 33.75, in the [Actual Work Time] box.",
+    "ja" : "入力の期間に誤りがあります。［実際作業時間］ボックスに1、2、33、75の様な陽数を入力してください。",
+    "vi" : "Thời gian mà bạn nhập khong đúng. Vui lòng nhập một số dương, ví dụ như 1, 2, 33.75, vào ô [Thời gian làm việc thực tế].",
+    "zh" : "输入的期间错误。请在[实际工作时间]框中输入正数，如1、2、33、75等。"
+  },
+  "폴더 수정" : {
+    "en" : "Modify folder",
+    "ja" : "フォルダ修正",
+    "vi" : "Sửa thư mục",
+    "zh" : "修改文件夹"
+  },
+  "보통" : {
+    "en" : "Normal",
+    "ja" : "通常",
+    "vi" : "Bình thường",
+    "zh" : "普通"
+  },
+  "완료 날짜" : {
+    "en" : "Completion date",
+    "ja" : "完了日",
+    "vi" : "Ngày hoàn thành",
+    "zh" : "完成日期"
+  },
+  "조직도로 설정" : {
+    "en" : "Set as organization chart",
+    "ja" : "組織図に設定",
+    "vi" : "Cài đặt như sơ đồ tổ chức",
+    "zh" : "设定为组织图"
+  },
+  "선택한 작업을 완료하시겠습니까?" : {
+    "en" : "Would you like to complete the selected task?",
+    "ja" : "選択した作業を完了しますか。",
+    "vi" : "Bạn có muốn đánh dấu hoàn thành công việc đã chọn không?",
+    "zh" : "您确定要完成所选任务吗？"
+  },
+  "내림차순" : {
+    "en" : "Descending",
+    "ja" : "降順",
+    "vi" : "Theo thứ tự giảm xuống",
+    "zh" : "递减"
+  },
+  "폴더 생성" : {
+    "en" : "Create folder",
+    "ja" : "フォルダ作成",
+    "vi" : "Tạo thư mục",
+    "zh" : "创建文件夹"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "완료할 작업을 선택해주세요." : {
+    "en" : "Please select the task to mark as completed.",
+    "ja" : "完了する作業を選択してください",
+    "vi" : "Vui lòng chọn công việc để đánh dấu là đã hoàn thành.",
+    "zh" : "请选择要完成的任务。"
+  },
+  "개월마다" : {
+    "en" : "Monthly",
+    "ja" : "月ごとに",
+    "vi" : "Mỗi tháng",
+    "zh" : "每月"
+  },
+  "실제 작업 시간" : {
+    "en" : "Actual working time",
+    "ja" : "実際の作業時間",
+    "vi" : "Thời gian thực hiện công việc",
+    "zh" : "实际工作时间"
+  },
+  "발송전 미리보기" : {
+    "en" : "Preview before sending",
+    "ja" : "発送前プレビュー",
+    "vi" : "Xem trước trước khi gửi",
+    "zh" : "发送前预览"
+  },
+  "수요일" : {
+    "en" : "Wednesday",
+    "ja" : "水曜日",
+    "vi" : "Thứ tư",
+    "zh" : "星期三"
+  },
+  "삭제할 작업을 선택해주세요." : {
+    "en" : "Please select the task to delete.",
+    "ja" : "削除する作業を選択してください。",
+    "vi" : "Vui lòng chọn công việc muốn xóa.",
+    "zh" : "请选择要删除的任务。"
+  },
+  "보안등급으로 설정" : {
+    "en" : "Set as security level",
+    "ja" : "保安レベルに設定",
+    "vi" : "Cài đặt như cấp độ bảo mật",
+    "zh" : "设定保安等级"
+  },
+  "정렬기준" : {
+    "en" : "Sorting criteria",
+    "ja" : "ソート基準",
+    "vi" : "Tiêu chí sắp xếp",
+    "zh" : "排序标准"
+  },
+  "같은 이름의 폴더가 이미 존재합니다." : {
+    "en" : "A folder with the same name already exists.",
+    "ja" : "同じ名前のフォルダが既に存在します。",
+    "vi" : "Tồn tại thư mục cùng tên.",
+    "zh" : "同名文件夹已存在。"
+  },
+  "입력한 기한이 시작 날짜보다 빠릅니다." : {
+    "en" : "The entered deadline is earlier than the start date.",
+    "ja" : "入力の期間が開始日より前です。",
+    "vi" : "Thời hạn mà bạn nhập sớm hơn ngày bắt đầu.",
+    "zh" : "输入的截止日期早于开始日期。"
+  },
+  "작업을 삭제하시겠습니까?" : {
+    "en" : "Would you like to delete the task?",
+    "ja" : "作業を削除しますか。",
+    "vi" : "Bạn có muốn xóa công việc không?",
+    "zh" : "您确定要删除任务吗？"
+  },
+  "두번째" : {
+    "en" : "Second",
+    "ja" : "第二",
+    "vi" : "Thứ hai",
+    "zh" : "第二个"
+  },
+  "하단에서 시작 안 함" : {
+    "en" : "Do Not Start at the Bottom",
+    "ja" : "下段から開始しない",
+    "vi" : "Không Bắt Đầu Ở Cuối Danh Sách",
+    "zh" : "不从底端开始"
+  },
+  "폴더명을 확인해주세요." : {
+    "en" : "Please check the folder name.",
+    "ja" : "フォルダ名を確認してください",
+    "vi" : "Vui lòng kiểm tra tên thư mục.",
+    "zh" : "请确认文件夹名称。"
+  },
+  "새 폴더 만들기" : {
+    "en" : "Create New Folder",
+    "ja" : "新しいフォルダ作成",
+    "vi" : "Tạo Thư mục Mới",
+    "zh" : "新建文件夹"
+  },
+  "이름 바꾸기" : {
+    "en" : "Rename",
+    "ja" : "名前の変更",
+    "vi" : "Đổi tên",
+    "zh" : "重命名"
+  },
+  "화요일" : {
+    "en" : "Tuesday",
+    "ja" : "火曜日",
+    "vi" : "Thứ ba",
+    "zh" : "星期二"
+  },
+  "분" : {
+    "en" : "Minute",
+    "ja" : "分",
+    "vi" : "Phút",
+    "zh" : "分钟"
+  },
+  "기타" : {
+    "en" : "Other.",
+    "ja" : "その他",
+    "vi" : "Khác.",
+    "zh" : "其他"
+  },
+  "오래된 항목 우선" : {
+    "en" : "Prioritize Older Items",
+    "ja" : "古い項目を優先",
+    "vi" : "Ưu tiên Các Mục Cũ hơn",
+    "zh" : "优先处理旧项目"
+  },
+  "중요도" : {
+    "en" : "Priority",
+    "ja" : "重要度",
+    "vi" : "Độ quan trọng",
+    "zh" : "重要性"
+  },
+  "{0}년 {1}월 {2}일 {3}요일" : {
+    "en" : "{0} year {1} month {2} day {3}day",
+    "ja" : "{0}年{1}月{2}日{3}曜日",
+    "vi" : "Thứ {3} ngày {2} tháng {1} năm {0}",
+    "zh" : "{0}年{1}月{2}日{3}"
+  },
+  "미리 알림" : {
+    "en" : "Pre-alert",
+    "ja" : "リマインダー",
+    "vi" : "Thông báo trước",
+    "zh" : "预先通知"
+  },
+  "매주" : {
+    "en" : "Every week",
+    "ja" : "毎週",
+    "vi" : "Hàng tuần",
+    "zh" : "每周"
+  },
+  "메시지 나중" : {
+    "en" : "Message Later",
+    "ja" : "メッセージ優先しない",
+    "vi" : "Tin Nhắn Sau",
+    "zh" : "稍后处理消息"
+  },
+  "왼쪽메뉴 미포함" : {
+    "en" : "Exclude from the left menu.",
+    "ja" : "左メニューなし",
+    "vi" : "Không bao gồm trong menu bên trái.",
+    "zh" : "不包括左侧菜单"
+  },
+  "사용자그룹으로 설정" : {
+    "en" : "Set as a user group",
+    "ja" : "ユーザグループに設定",
+    "vi" : "Thiết lập với tư cách người dùng trong nhóm",
+    "zh" : "设定使用者小组"
+  },
+  "{}째 {}요일마다" : {
+    "en" : "Every {}th {}day",
+    "ja" : "{}番目{}曜日ごとに",
+    "vi" : "Mỗi ngày thứ {} thứ {}",
+    "zh" : "每月的第{}周的{}"
+  },
+  "상세 등록" : {
+    "en" : "Detailed registration",
+    "ja" : "詳細登録",
+    "vi" : "Đăng ký chi tiết",
+    "zh" : "详细注册"
+  },
+  "일마다" : {
+    "en" : "Daily",
+    "ja" : "日ごとに",
+    "vi" : "Hàng ngày",
+    "zh" : "每日"
+  },
+  "매월 같은 날" : {
+    "en" : "Same day every month",
+    "ja" : "毎月同じ日",
+    "vi" : "Cùng một ngày hàng tháng",
+    "zh" : "每月同一天"
+  },
+  "입력한 기간이 잘못되었습니다. [예상 작업 시간] 상자에 1, 2, 33,75와 같은 양수를 입력해주세요." : {
+    "en" : "The entered duration is incorrect. Please enter a positive number, such as 1, 2, 33.75, in the [Estimated Work Time] box.",
+    "ja" : "入力の期間に誤りがあります。［予想作業時間］ボックスに1、2、33、75の様な陽数を入力してください。",
+    "vi" : "Thời gian mà bạn nhập khong đúng. Vui lòng nhập một số dương, ví dụ như 1, 2, 33.75, vào ô [Thời gian làm việc dự kiến].",
+    "zh" : "输入的期间错误。请在[预计工作时间]框中输入正数，如1、2、33、75等。"
+  },
+  "PC저장할 첨부파일을 선택해주세요." : {
+    "en" : "Please select the attachment file to save on your PC.",
+    "ja" : "PCに保存する添付ファイルを選択してください。",
+    "vi" : "Vui lòng chọn tệp đính kèm mà bạn muốn lưu.",
+    "zh" : "请选择要在PC上保存的附件文件。"
+  },
+  "선택한 작업을 삭제하시겠습니까?" : {
+    "en" : "Would you like to delete the selected task?",
+    "ja" : "選択した作業を削除しますか。",
+    "vi" : "Bạn có muốn xóa công việc đã chọn không?",
+    "zh" : "您确定要删除所选任务吗？"
+  },
+  "부터" : {
+    "en" : "From",
+    "ja" : "から",
+    "vi" : "Từ",
+    "zh" : "起"
+  },
+  "상단에서 시작 안 함" : {
+    "en" : "Do Not Start at the Top",
+    "ja" : "上段から開始しない",
+    "vi" : "Không Bắt Đầu Ở Đầu Danh Sách",
+    "zh" : "不从顶端开始"
+  },
+  "메시지 우선" : {
+    "en" : "Prioritize Messages",
+    "ja" : "メッセージ優先",
+    "vi" : "Ưu tiên Tin Nhắn",
+    "zh" : "优先处理消息"
+  },
+  "높은 항목 우선" : {
+    "en" : "Prioritize High Items",
+    "ja" : "高い項目優先",
+    "vi" : "Ưu tiên Các Mục Cao",
+    "zh" : "优先处理较高项目"
+  },
+  "시간" : {
+    "en" : "Hour",
+    "ja" : "時間",
+    "vi" : "Giờ",
+    "zh" : "时间"
+  },
+  "이 작업은 지연되었습니다." : {
+    "en" : "This task is delayed.",
+    "ja" : "本作業は遅延されました。",
+    "vi" : "Công việc này bị quá hạn.",
+    "zh" : "该任务已延迟。"
+  },
+  "되풀이" : {
+    "en" : "Repeat",
+    "ja" : "繰り返し",
+    "vi" : "Lặp lại",
+    "zh" : "重复"
+  },
+  "닫기" : {
+    "en" : "Close.",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "관리자권한이 없어 새 폴더를 생성할 수 없습니다." : {
+    "en" : "You don't have administrator privileges to create a new folder.",
+    "ja" : "管理者権限がないため、新しいフォルダを作成することはできません。",
+    "vi" : "Bạn không có quyền quản trị để tạo một thư mục mới.",
+    "zh" : "没有管理权限，无法创建新文件夹。"
+  },
+  "되풀이 시작일자를 입력해주세요" : {
+    "en" : "Please enter the start date of the repetition.",
+    "ja" : "繰り返し開始日を入力してください。",
+    "vi" : "Vui lòng nhập ngày bắt đầu lặp lại.",
+    "zh" : "请输入重复起始日期。"
+  },
+  "회사" : {
+    "en" : "Company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "바둑판형" : {
+    "en" : "Checkerboard type",
+    "ja" : "格子型",
+    "vi" : "Loại bàn cờ vây",
+    "zh" : "棋盘形"
+  },
+  "취소" : {
+    "en" : "Cancel.",
+    "ja" : "キャンセル",
+    "vi" : "Hủy bỏ.",
+    "zh" : "取消"
+  },
+  "시작 날짜" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "起始日期"
+  },
+  "개월의" : {
+    "en" : "Months",
+    "ja" : "数ヶ月の",
+    "vi" : "Tháng",
+    "zh" : "个月的"
+  },
+  "폴더 명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件夹名称"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "이전 게시물" : {
+    "en" : "Previous post",
+    "ja" : "前の投稿",
+    "vi" : "Bài viết trước đó",
+    "zh" : "上一篇文章"
+  },
+  "플래그가 지정된 항목 및 작업" : {
+    "en" : "Items and tasks flagged.",
+    "ja" : "フラグ付き項目と作業",
+    "vi" : "Các mục và nhiệm vụ có đánh dấu cờ.",
+    "zh" : "标记为已指定的项目和任务"
+  },
+  "가변형" : {
+    "en" : "Variable type",
+    "ja" : "可変型",
+    "vi" : "Loại khả biến",
+    "zh" : "可转型"
+  },
+  "다른 작업 대기중" : {
+    "en" : "Waiting for other tasks",
+    "ja" : "別の作業待ち",
+    "vi" : "Chờ các công việc khác",
+    "zh" : "等待其他任务"
+  },
+  "사용안함" : {
+    "en" : "Not in use",
+    "ja" : "無効",
+    "vi" : "Không sử dụng",
+    "zh" : "未使用"
+  },
+  "반복" : {
+    "en" : "Repeat",
+    "ja" : "繰り返し",
+    "vi" : "Lặp lại",
+    "zh" : "重复"
+  },
+  "{0}일 후에 끝납니다." : {
+    "en" : "Ending in {0} days.",
+    "ja" : "{0}日後に終了します。",
+    "vi" : "Kết thúc sau {0} ngày.",
+    "zh" : "将在{0}天后完成。"
+  },
+  "있는 항목 우선" : {
+    "en" : "Prioritize Existing Items",
+    "ja" : "存在する項目優先",
+    "vi" : "Ưu tiên Các Mục Đã Tồn Tại",
+    "zh" : "优先处理已存在项目"
+  },
+  "일자는 31일 이상 지정할 수 없습니다." : {
+    "en" : "The date cannot be specified for more than 31 days.",
+    "ja" : "日付は31日以降に指定することはできません。",
+    "vi" : "Không thể chỉ định quá 31 ngày.",
+    "zh" : "日期不能设定超过31日。"
+  },
+  "오늘 끝납니다." : {
+    "en" : "Ending today.",
+    "ja" : "本日終了します。",
+    "vi" : "Kết thúc vào hôm nay.",
+    "zh" : "今天完成。"
+  },
+  "에" : {
+    "en" : "At",
+    "ja" : "に",
+    "vi" : "Vào",
+    "zh" : "于"
+  },
+  "공개" : {
+    "en" : "Public",
+    "ja" : "公開",
+    "vi" : "Công khai",
+    "zh" : "公开"
+  },
+  "{0}일 지연되었습니다." : {
+    "en" : "Delayed by {0} days.",
+    "ja" : "{0}日遅延されました。",
+    "vi" : "Trễ {0} ngày.",
+    "zh" : "已延迟{0}天。"
+  },
+  "금요일" : {
+    "en" : "Friday",
+    "ja" : "金曜日",
+    "vi" : "Thứ sáu",
+    "zh" : "星期五"
+  },
+  "이 작업은 {0}에 완료되었습니다." : {
+    "en" : "This task has been completed on {0}.",
+    "ja" : "本作業は｛0｝に完了しました。",
+    "vi" : "Công việc này đã hoàn thành vào {0}.",
+    "zh" : "该任务已于{0}完成。"
+  },
+  "완료기한" : {
+    "en" : "Due date",
+    "ja" : "完了期限",
+    "vi" : "Hạn hoàn thành",
+    "zh" : "截止日期"
+  },
+  "우선 순위" : {
+    "en" : "Priority",
+    "ja" : "優先順位",
+    "vi" : "Thứ tự ưu tiên",
+    "zh" : "优先级"
+  },
+  "작성" : {
+    "en" : "Create",
+    "ja" : "作成",
+    "vi" : "Tạo",
+    "zh" : "撰写"
+  },
+  "사용자 지정 패턴" : {
+    "en" : "User-defined pattern",
+    "ja" : "カスタムパターン",
+    "vi" : "Mẫu được người dùng chỉ định",
+    "zh" : "指定用户模式"
+  },
+  "매년 같은 날" : {
+    "en" : "Same day every year",
+    "ja" : "毎年同じ日",
+    "vi" : "Cùng một ngày hàng năm",
+    "zh" : "每年同一天"
+  },
+  "완료율" : {
+    "en" : "Completion rate",
+    "ja" : "完了率",
+    "vi" : "Tỷ lệ hoàn thành",
+    "zh" : "完成率"
+  },
+  "까지" : {
+    "en" : "To",
+    "ja" : "まで",
+    "vi" : "Đến",
+    "zh" : "至"
+  },
+  "일요일" : {
+    "en" : "Sunday",
+    "ja" : "日曜日",
+    "vi" : "Chủ nhật",
+    "zh" : "星期天"
+  },
+  "시작 안 함" : {
+    "en" : "Not started",
+    "ja" : "開始しない",
+    "vi" : "Chưa bắt đầu",
+    "zh" : "未开始"
+  },
+  "작업을 완료하시겠습니까?" : {
+    "en" : "Would you like to complete the task?",
+    "ja" : "作業を完了しますか。",
+    "vi" : "Bạn có muốn hoàn thành công việc không?",
+    "zh" : "您确定要完成任务吗？"
+  },
+  "매" : {
+    "en" : "Every",
+    "ja" : "毎",
+    "vi" : "Hàng",
+    "zh" : "每"
+  },
+  "다음 게시물" : {
+    "en" : "Next post",
+    "ja" : "次の投稿",
+    "vi" : "Bài viết kế tiếp",
+    "zh" : "下一篇文章"
+  },
+  "내일 끝납니다." : {
+    "en" : "Ending tomorrow.",
+    "ja" : "明日終了します。",
+    "vi" : "Kết thúc vào ngày mai.",
+    "zh" : "明天完成。"
+  },
+  "{}요일마다" : {
+    "en" : "Every {}day",
+    "ja" : "{}曜日ごとに",
+    "vi" : "Mỗi thứ {}",
+    "zh" : "每周{}"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "내 작업 및 해당 내용을 모두 지운 편지함으로\\n이동하시겠습니까?" : {
+    "en" : "Would you like to move this task and its contents to the trash, deleting all?",
+    "ja" : "ご自身の作業及び内容を全て消したメールライブラリに移動しますか。",
+    "vi" : "Bạn chắc chắn muốn chuyển tất cả nội dung liên quan đến công việc này vào thùng rác chứ?",
+    "zh" : "是否要将所有任务及其内容\\n移动至已删除邮箱中？"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại",
+    "zh" : "类型"
+  },
+  "{0}만 가능합니다." : {
+    "en" : "Only {0} is allowed.",
+    "ja" : "{0}のみ可能です。",
+    "vi" : "Chỉ cho phép {0}.",
+    "zh" : "只有{0}允许。"
+  },
+  "작업일마다" : {
+    "en" : "Every working day",
+    "ja" : "作業日ごとに",
+    "vi" : "Mỗi ngày làm việc",
+    "zh" : "每工作日"
+  },
+  "첨부용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付容量",
+    "vi" : "Dung lượng tệp đính kèm",
+    "zh" : "附件容量"
+  },
+  "기타 클릭서" : {
+    "en" : "Click for more options",
+    "ja" : "その他クリック書",
+    "vi" : "Nhấp để xem thêm tùy chọn",
+    "zh" : "其他点击"
+  },
+  "비용" : {
+    "en" : "Cost",
+    "ja" : "コスト",
+    "vi" : "Chi phí",
+    "zh" : "费用"
+  },
+  "{}월 14마다" : {
+    "en" : "For every {} month 14th",
+    "ja" : "｛｝月１４ごとに",
+    "vi" : "Vào ngày 14 sau mỗi {} tháng",
+    "zh" : "每{}月14号"
+  },
+  "매년" : {
+    "en" : "Yearly",
+    "ja" : "毎年",
+    "vi" : "Hàng năm",
+    "zh" : "每年"
+  },
+  "째" : {
+    "en" : "th",
+    "ja" : "目",
+    "vi" : "Thứ",
+    "zh" : "第"
+  },
+  "주" : {
+    "en" : "Week",
+    "ja" : "週",
+    "vi" : "Tuần",
+    "zh" : "周"
+  },
+  "오류가 발생했습니다." : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi.",
+    "zh" : "发生了错误。"
+  },
+  "범주" : {
+    "en" : "Category",
+    "ja" : "カテゴリー",
+    "vi" : "Danh mục",
+    "zh" : "范畴"
+  }
+}

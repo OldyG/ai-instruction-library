@@ -1,0 +1,1886 @@
+{
+  "png, jpg, gif 만 가능합니다." : {
+    "en" : "only .png, .jpg, .gif files are allowed",
+    "ja" : "png、jpg、gifのみ可能です。",
+    "vi" : "Chỉ có thể sử dụng png, jpg, gif.",
+    "zh" : "只能用png, jpg, gif 。"
+  },
+  "비밀번호 확인" : {
+    "en" : "Confirm password",
+    "ja" : "パスワード確認",
+    "vi" : "Xác nhận mật khẩu",
+    "zh" : "确认密码"
+  },
+  "최초 확인" : {
+    "en" : "Initial confirmation",
+    "ja" : "初回確認",
+    "vi" : "Xác nhận ban đầu",
+    "zh" : "初次确认"
+  },
+  "공동 편집 중" : {
+    "en" : "Co-editing in progress",
+    "ja" : "共同編集中",
+    "vi" : "Đang chỉnh sửa chung",
+    "zh" : "正在共同编辑"
+  },
+  "저장하였습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "동일한 년도 내에서만 지정 가능합니다." : {
+    "en" : "Can only be specified within the same year.",
+    "ja" : "同一の年度内でのみ指定可能です。",
+    "vi" : "Chỉ có thể chọn thời gian trong cùng năm.",
+    "zh" : "只能在同一年内指定。"
+  },
+  "라이선스 보유" : {
+    "en" : "License owned",
+    "ja" : "ライセンス保有",
+    "vi" : "Có giấy phép",
+    "zh" : "持有许可证"
+  },
+  "링크 추가" : {
+    "en" : "Add link",
+    "ja" : "リンク追加",
+    "vi" : "Thêm liên kết",
+    "zh" : "添加链接"
+  },
+  "공동 편집" : {
+    "en" : "Co-editing",
+    "ja" : "共同編集",
+    "vi" : "Chỉnh sửa chung",
+    "zh" : "共同编辑"
+  },
+  "완전 삭제할 목록을 선택해 주세요" : {
+    "en" : "Please select the list to completely delete",
+    "ja" : "完全削除する項目を選択してください。",
+    "vi" : "Vui lòng chọn danh sách để xóa hoàn toàn",
+    "zh" : "请选择要完全删除的列表"
+  },
+  "{0}의 <strong>{1}</strong> 라이선스를 {2}에서 <strong>{3}</strong>로 변경하였습니다." : {
+    "en" : "{0}'s <strong>{1}</strong> license has been changed from {2} to <strong>{3}</strong>.",
+    "ja" : "{0}の<strong> {1}</strong>ライセンスを{2}から<strong> {3} </strong>に変更しました。",
+    "vi" : "Giấy phép <strong>{1}</strong> của {0} đã được thay đổi từ {2} thành <strong>{3}</strong>.",
+    "zh" : "{0}的<strong>{1}</strong>许可已从{2}更改为<strong>{3}</strong>。"
+  },
+  "주제 URL 복사" : {
+    "en" : "Copy Subject URL",
+    "ja" : "主題URLコピー",
+    "vi" : "Chủ đề: Sao chép URL",
+    "zh" : "复制主题 URL"
+  },
+  "이번 주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "本周"
+  },
+  "가입된 스페이스가 없습니다." : {
+    "en" : "There are no joined spaces.",
+    "ja" : "登録されたスペースがありません。",
+    "vi" : "Không có không gian nào đã tham gia.",
+    "zh" : "没有加入的空间。"
+  },
+  "회사 관리자" : {
+    "en" : "Company administrator",
+    "ja" : "会社管理者",
+    "vi" : "Quản trị viên công ty",
+    "zh" : "公司管理员"
+  },
+  "추천 취소" : {
+    "en" : "Cancel recommendation",
+    "ja" : "おすすめキャンセル",
+    "vi" : "Hủy đề nghị",
+    "zh" : "取消推荐"
+  },
+  "페이지 삭제" : {
+    "en" : "Delete page",
+    "ja" : "ページ削除",
+    "vi" : "Xóa trang",
+    "zh" : "删除页面"
+  },
+  "양식순서" : {
+    "en" : "Order of forms",
+    "ja" : "様式順序",
+    "vi" : "Trình tự các mẫu form",
+    "zh" : "样式顺序"
+  },
+  "신규반려" : {
+    "en" : "New rejection",
+    "ja" : "新規却下",
+    "vi" : "Từ chối mới",
+    "zh" : "新建被拒绝"
+  },
+  "외부 조회" : {
+    "en" : "External View",
+    "ja" : "外部照会",
+    "vi" : "Xem bên ngoài",
+    "zh" : "外部查看"
+  },
+  "잠금 상태는 조회만 가능합니다." : {
+    "en" : "The lock status is only available for viewing.",
+    "ja" : "ロック状態では参照のみ可能です。",
+    "vi" : "Trạng thái khóa chỉ có sẵn cho việc xem.",
+    "zh" : "锁定状态仅可进行查询。"
+  },
+  "목록을 선택해 주세요." : {
+    "en" : "Please select a list.",
+    "ja" : "項目を選択してください。",
+    "vi" : "Vui lòng chọn một danh sách.",
+    "zh" : "请选择列表。"
+  },
+  "이미지" : {
+    "en" : "Image",
+    "ja" : "画像",
+    "vi" : "Hình ảnh",
+    "zh" : "图像"
+  },
+  "공유 취소할 목록을 선택해 주세요" : {
+    "en" : "Please select a list to cancel the share.",
+    "ja" : "共有をキャンセルする項目を選択してください。",
+    "vi" : "Vui lòng chọn một danh sách để hủy chia sẻ.",
+    "zh" : "请选择要取消共享的列表"
+  },
+  "커버" : {
+    "en" : "Cover",
+    "ja" : "カバー",
+    "vi" : "Bìa",
+    "zh" : "封面"
+  },
+  "최근" : {
+    "en" : "Recent",
+    "ja" : "最新",
+    "vi" : "Gần đây",
+    "zh" : "最近"
+  },
+  "이미지 크기 {0}, gif, jpg, png 형식" : {
+    "en" : "Image size is {0} and Image format in gif, jpg, png only.",
+    "ja" : "白い背景のロゴ画像は、画像サイズ{0}、gif、jpg、png形式",
+    "vi" : "Kích cỡ hình ảnh {0}, loại file gif, jpn, png",
+    "zh" : "图像大小 {0}, gif, jpg, png 形式"
+  },
+  "설정됨" : {
+    "en" : "Set",
+    "ja" : "設定済み",
+    "vi" : "Đã được thiết lập",
+    "zh" : "已设置"
+  },
+  "승인 할 목록을 선택 해주세요." : {
+    "en" : "Please select the list to approve.",
+    "ja" : "承認する項目を選択してください。",
+    "vi" : "Vui lòng chọn danh sách để phê duyệt.",
+    "zh" : "请选择要批准的列表。"
+  },
+  "모든 정보가 삭제됩니다. 하시겠습니까?" : {
+    "en" : "All information will be deleted. Are you sure?",
+    "ja" : "全ての情報が削除されます。よろしいですか？",
+    "vi" : "Tất cả thông tin sẽ bị xóa. Bạn có chắc chắn không?",
+    "zh" : "所有信息都将被删除。您确定要继续吗？"
+  },
+  "커버 업데이트" : {
+    "en" : "Update cover",
+    "ja" : "カバー更新",
+    "vi" : "Cập nhật bìa",
+    "zh" : "更新封面"
+  },
+  "주제 등록" : {
+    "en" : "Register topic",
+    "ja" : "トピック登録",
+    "vi" : "Đăng ký chủ đề",
+    "zh" : "注册主题"
+  },
+  "페이지가 공유 되었습니다." : {
+    "en" : "The page has been shared.",
+    "ja" : "ページが共有されました。",
+    "vi" : "Trang đã được chia sẻ.",
+    "zh" : "该页面已被分享。"
+  },
+  "양식을 선택해주세요." : {
+    "en" : "Please select form.",
+    "ja" : "様式を選択してください。",
+    "vi" : "Vui lòng chọn mẫu.",
+    "zh" : "请选择格式"
+  },
+  "별표해제" : {
+    "en" : "Unstar",
+    "ja" : "スターを外す",
+    "vi" : "Bỏ đánh dấu sao",
+    "zh" : "取消星标"
+  },
+  "파일첨부 개수 제한" : {
+    "en" : "File attachment limit",
+    "ja" : "ファイル添付数制限",
+    "vi" : "Giới hạn tệp đính kèm",
+    "zh" : "文件附件数量限制"
+  },
+  "페이지 추가" : {
+    "en" : "Add page",
+    "ja" : "ページ追加",
+    "vi" : "Thêm trang",
+    "zh" : "添加页面"
+  },
+  "참여자" : {
+    "en" : "Participants",
+    "ja" : "参加者",
+    "vi" : "Người tham gia",
+    "zh" : "参加人"
+  },
+  "승인 관리" : {
+    "en" : "Approval management",
+    "ja" : "承認管理",
+    "vi" : "Quản lý phê duyệt",
+    "zh" : "管理批准"
+  },
+  "통합" : {
+    "en" : "Integrated",
+    "ja" : "統合",
+    "vi" : "Tổng hợp",
+    "zh" : "联合"
+  },
+  "수정순" : {
+    "en" : "Modify",
+    "ja" : "修正順",
+    "vi" : "Theo thứ tự sửa đổi",
+    "zh" : "修改顺序"
+  },
+  "양식 선택" : {
+    "en" : "Select a form",
+    "ja" : "フォーマット選択",
+    "vi" : "Chọn một biểu mẫu",
+    "zh" : "选择表单"
+  },
+  "공유(누구나)" : {
+    "en" : "Share (Anyone)",
+    "ja" : "共有（一般公開）",
+    "vi" : "Chia sẻ (Bất kỳ ai)",
+    "zh" : "共享（任何人）"
+  },
+  "작성중" : {
+    "en" : "In progress",
+    "ja" : "作成中",
+    "vi" : "Đang tiến hành",
+    "zh" : "正在编辑"
+  },
+  "아이콘" : {
+    "en" : "Icon",
+    "ja" : "アイコン",
+    "vi" : "Biểu tượng",
+    "zh" : "图标"
+  },
+  "페이지 공유" : {
+    "en" : "Share page",
+    "ja" : "ページ共有",
+    "vi" : "Chia sẻ trang",
+    "zh" : "页面共享"
+  },
+  "URL을 클립보드에 저장하였습니다." : {
+    "en" : "The URL has been copied to the clipboard.",
+    "ja" : "URLはクリップボードに保存されました。",
+    "vi" : "URL đã được sao chép vào bộ nhơ tạm.",
+    "zh" : "已将URL复制到剪贴板。"
+  },
+  "공유(회사)" : {
+    "en" : "Share (company)",
+    "ja" : "共有（会社）",
+    "vi" : "Chia sẻ (công ty)",
+    "zh" : "共享（公司）"
+  },
+  "첨부 제한할 파일의 확장자를 입력하세요. 여러 개일 경우 콤마(,)로 구분" : {
+    "en" : "Enter the file extensions to be restricted. If there are multiple, separate them with commas (,).",
+    "ja" : "限定するファイル拡張子を入力してください。複数の場合は、カンマ（,）で区切ってください。",
+    "vi" : "Nhập các phần mở rộng tệp bị hạn chế. Nếu có nhiều hơn, hãy phân cách chúng bằng dấu phẩy (,).",
+    "zh" : "请输入要限制附件的文件扩展名，如果有多个，请用逗号(,)分隔。"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "다른 주제" : {
+    "en" : "Other topics",
+    "ja" : "他のトピック",
+    "vi" : "Các chủ đề khác",
+    "zh" : "不同主题"
+  },
+  "위키 관리자" : {
+    "en" : "Wiki Manager",
+    "ja" : "ウィキ管理者",
+    "vi" : "Quản lý wiki",
+    "zh" : "维基管理员"
+  },
+  "추천 취소했습니다." : {
+    "en" : "Cancelled recommendations.",
+    "ja" : "おすすめをキャンセルしました。",
+    "vi" : "Đã hủy các đề xuất.",
+    "zh" : "已取消推荐。"
+  },
+  "추천 페이지가 없습니다." : {
+    "en" : "No recommended pages.",
+    "ja" : "おすすめページはありません。",
+    "vi" : "Không có trang được đề xuất.",
+    "zh" : "没有推荐页面。"
+  },
+  "양식 저장" : {
+    "en" : "Save form",
+    "ja" : "フォーマット保存",
+    "vi" : "Lưu biểu mẫu",
+    "zh" : "保存表单"
+  },
+  "주제를 표시합니다." : {
+    "en" : "Displays the topic.",
+    "ja" : "主題を表示します。",
+    "vi" : "Hiển thị chủ đề.",
+    "zh" : "显示主题。"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name.",
+    "ja" : "フォルダ名を入力してください",
+    "vi" : "Hãy nhập tên thư mục",
+    "zh" : "请输入文件夹名。"
+  },
+  "최신 페이지만 년 단위 적용" : {
+    "en" : "Apply the latest page only every year.",
+    "ja" : "最新ページのみ年単位で適用",
+    "vi" : "Chỉ áp dụng trang mới nhất mỗi năm.",
+    "zh" : "仅最新页面以年度单位适用"
+  },
+  "페이지 등록 요청을 했습니다." : {
+    "en" : "I have requested page registration.",
+    "ja" : "ページ登録リクエストを行いました。",
+    "vi" : "Tôi đã yêu cầu đăng ký trang.",
+    "zh" : "请求注册页面。"
+  },
+  "복원" : {
+    "en" : "Restore",
+    "ja" : "復元",
+    "vi" : "Khôi phục",
+    "zh" : "恢复"
+  },
+  "하위 페이지 추가" : {
+    "en" : "Add subpage",
+    "ja" : "下位ページを追加",
+    "vi" : "Thêm trang con",
+    "zh" : "添加子页面"
+  },
+  "조회 확인" : {
+    "en" : "View confirmation",
+    "ja" : "閲覧確認",
+    "vi" : "Xem xác nhận",
+    "zh" : "查看确认"
+  },
+  "잠금" : {
+    "en" : "Lock",
+    "ja" : "ロック",
+    "vi" : "Khóa",
+    "zh" : "锁定"
+  },
+  "주제 선택" : {
+    "en" : "Select a topic",
+    "ja" : "トピック選択",
+    "vi" : "Chọn một chủ đề",
+    "zh" : "选择主题"
+  },
+  "조회 제한일" : {
+    "en" : "View restriction date",
+    "ja" : "閲覧制限日",
+    "vi" : "Xem ngày hạn chế",
+    "zh" : "阅读截止日期"
+  },
+  "조회수" : {
+    "en" : "Views",
+    "ja" : "閲覧数",
+    "vi" : "Lượt xem",
+    "zh" : "阅读次数"
+  },
+  "목록에서 선택 한 항목을 삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete the selected item from the list?",
+    "ja" : "リストから選択したアイテムを削除してもよろしいですか。",
+    "vi" : "Bạn có muốn xóa mục đã chọn khỏi danh sách không?",
+    "zh" : "您确定想要从列表中删除所选项目吗 ？"
+  },
+  "복원할 목록을 선택해 주세요" : {
+    "en" : "Please select a list to restore.",
+    "ja" : "復元する項目を選択してください。",
+    "vi" : "Vui lòng chọn một danh sách để khôi phục.",
+    "zh" : "请选择要还原的列表"
+  },
+  "폴더 위치" : {
+    "en" : "Folder location",
+    "ja" : "フォルダの位置",
+    "vi" : "Vị trí thư mục",
+    "zh" : "文件夹位置"
+  },
+  "최신순" : {
+    "en" : "Recent",
+    "ja" : "新着順",
+    "vi" : "Gần đây",
+    "zh" : "最新顺"
+  },
+  "수정 관리" : {
+    "en" : "Edit management",
+    "ja" : "修正管理",
+    "vi" : "Quản lý chỉnh sửa",
+    "zh" : "修改管理"
+  },
+  "페이지가 등록되었습니다." : {
+    "en" : "The page has been registered.",
+    "ja" : "ページが登録されました。",
+    "vi" : "Trang đã được đăng ký.",
+    "zh" : "页面已注册。"
+  },
+  "명" : {
+    "en" : "Names",
+    "ja" : "名称",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "책임자" : {
+    "en" : "Administrator",
+    "ja" : "責任者",
+    "vi" : "Quản trị viên",
+    "zh" : "负责人"
+  },
+  "목차" : {
+    "en" : "Table of contents",
+    "ja" : "目次",
+    "vi" : "Mục lục",
+    "zh" : "目录"
+  },
+  "댓글이 없습니다." : {
+    "en" : "There are no new comments.",
+    "ja" : "登録されたコメントがありません。",
+    "vi" : "Không có bình luận được thêm vào",
+    "zh" : "没有新的跟帖。"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "氏名",
+    "vi" : "Tên",
+    "zh" : "姓名"
+  },
+  "추천순" : {
+    "en" : "By Recommended",
+    "ja" : "推薦順",
+    "vi" : "Xếp theo đề xuất",
+    "zh" : "按推荐顺序"
+  },
+  "커뮤니티" : {
+    "en" : "Communities",
+    "ja" : "コミュニティ",
+    "vi" : "Cộng đồng",
+    "zh" : "社区"
+  },
+  "조회순" : {
+    "en" : "By View",
+    "ja" : "閲覧順",
+    "vi" : "Xếp theo lượt xem",
+    "zh" : "按浏览顺序"
+  },
+  "공동편집 잠금" : {
+    "en" : "Co-editing lock",
+    "ja" : "共同編集ロック",
+    "vi" : "Khóa chỉnh sửa chung",
+    "zh" : "共同编辑锁定"
+  },
+  "최근 방문한 스페이스가 없습니다." : {
+    "en" : "No recent spaces visited.",
+    "ja" : "最近訪れたスペースはありません。",
+    "vi" : "Không có không gian được truy cập gần đây.",
+    "zh" : "没有最近访问的空间。"
+  },
+  "삭제자" : {
+    "en" : "Deleted User",
+    "ja" : "削除者",
+    "vi" : "Người xóa",
+    "zh" : "删除人"
+  },
+  "최신 페이지" : {
+    "en" : "Latest page",
+    "ja" : "最新ページ",
+    "vi" : "Trang mới nhất",
+    "zh" : "最新页面"
+  },
+  "커버 제거" : {
+    "en" : "Remove cover",
+    "ja" : "カバー削除",
+    "vi" : "Gỡ bỏ bìa",
+    "zh" : "移除封面"
+  },
+  "페이지 선택" : {
+    "en" : "Page selection",
+    "ja" : "ページ選択",
+    "vi" : "Lựa chọn trang",
+    "zh" : "选择页面"
+  },
+  "멘션 된 사용자에게 페이지 수정 알림을 발송하시겠습니까?" : {
+    "en" : "Would you like to send a page modification notification to mentioned users?",
+    "ja" : "メンションされたユーザーにページ編集通知を送信しますか？",
+    "vi" : "Bạn có muốn gửi thông báo chỉnh sửa trang cho người dùng được nhắc đến không?",
+    "zh" : "向提及的用户发送页面编辑通知？"
+  },
+  "협업그룹" : {
+    "en" : "Collaboration group",
+    "ja" : "協業グループ",
+    "vi" : "Nhóm làm việc cộng tác",
+    "zh" : "协作小组"
+  },
+  "분 전" : {
+    "en" : "Minutes ago",
+    "ja" : "分前",
+    "vi" : "phút trước",
+    "zh" : "分钟前"
+  },
+  "펼치기" : {
+    "en" : "Expand",
+    "ja" : "展開",
+    "vi" : "Mở rộng",
+    "zh" : "展开"
+  },
+  "삭제일" : {
+    "en" : "Date Deleted",
+    "ja" : "削除日",
+    "vi" : "Ngày xóa",
+    "zh" : "删除日"
+  },
+  "템플릿 아이콘 선택" : {
+    "en" : "Select template icon",
+    "ja" : "テンプレートアイコンを選択",
+    "vi" : "Chọn biểu tượng mẫu",
+    "zh" : "选择模板图标"
+  },
+  "편집자" : {
+    "en" : "Editor",
+    "ja" : "編集者",
+    "vi" : "Người chỉnh sửa",
+    "zh" : "编辑者"
+  },
+  "열기" : {
+    "en" : "Open",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "주제를 이동하였습니다." : {
+    "en" : "The topic has been moved.",
+    "ja" : "トピックを移動しました。",
+    "vi" : "Chủ đề đã được di chuyển.",
+    "zh" : "主题已移动。"
+  },
+  "제목순" : {
+    "en" : "Title Order",
+    "ja" : "題名順",
+    "vi" : "Theo thứ tự tiêu đề",
+    "zh" : "标题顺序"
+  },
+  "공유수정" : {
+    "en" : "Modify sharing",
+    "ja" : "共有と編集",
+    "vi" : "Thay đổi chia sẻ",
+    "zh" : "共享编辑"
+  },
+  "폴더 순서" : {
+    "en" : "Order of Folders",
+    "ja" : "フォルダの並び順",
+    "vi" : "Thứ tự thư mục",
+    "zh" : "文件夹顺序"
+  },
+  "등록순" : {
+    "en" : "Date added",
+    "ja" : "登録順",
+    "vi" : "Ngày được thêm",
+    "zh" : "登录顺"
+  },
+  "페이지를 선택해주세요." : {
+    "en" : "Please select a page.",
+    "ja" : "ページを選択してください。",
+    "vi" : "Vui lòng chọn một trang.",
+    "zh" : "请选择页面。"
+  },
+  "암호 없음" : {
+    "en" : "No password",
+    "ja" : "パスワードなし",
+    "vi" : "Không có mật khẩu",
+    "zh" : "无密码"
+  },
+  "연결이 끊겼습니다. 다시 연결하려면 확인 버튼을 눌러주세요." : {
+    "en" : "The connection has been lost. Please press the OK button to reconnect.",
+    "ja" : "接続が切れました。再接続するには確認ボタンを押してください。",
+    "vi" : "Kết nối bị gián đoạn. Vui lòng nhấn nút xác nhận để kết nối lại.",
+    "zh" : "连接中断。 要重新连接，请按确认按钮。"
+  },
+  "메뉴" : {
+    "en" : "Menu",
+    "ja" : "メニュー",
+    "vi" : "menu",
+    "zh" : "项目"
+  },
+  "주제" : {
+    "en" : "Topic",
+    "ja" : "主題",
+    "vi" : "Chủ đề",
+    "zh" : "主题"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다. 이페이지에서 벗어나시겠습니까?" : {
+    "en" : "All progress will be lost. Are you sure you wish to leave this page?",
+    "ja" : "現在作成中の内容がすべて削除されます。このページを閉じますか？",
+    "vi" : "Nội dung đang viết hiện tại sẽ bị xóa hết. Bạn có muốn rời khỏi trang này không?",
+    "zh" : "现在制作中的内容会被全部删除。要离开这个网页吗？"
+  },
+  "사용자 설정" : {
+    "en" : "User Settings",
+    "ja" : "ユーザー設定",
+    "vi" : "Cài đặt người dùng",
+    "zh" : "设定使用者"
+  },
+  "승인 요청" : {
+    "en" : "Request for approval",
+    "ja" : "承認要求",
+    "vi" : "Yêu cầu phê duyệt",
+    "zh" : "邀请承认"
+  },
+  "공동편집" : {
+    "en" : "Co-edit",
+    "ja" : "共同編集",
+    "vi" : "Chỉnh sửa chung",
+    "zh" : "共同编辑"
+  },
+  "폴더를 선택하세요" : {
+    "en" : "Select a folder",
+    "ja" : "フォルダを選択してください。",
+    "vi" : "Chọn một thư mục",
+    "zh" : "请选择文件夹"
+  },
+  "수정자" : {
+    "en" : "Editor",
+    "ja" : "修正者",
+    "vi" : "Người chỉnh sửa",
+    "zh" : "修改者"
+  },
+  "주제를 선택하세요." : {
+    "en" : "Select a topic.",
+    "ja" : "トピックを選択してください。",
+    "vi" : "Chọn một chủ đề.",
+    "zh" : "请选择主题。"
+  },
+  "협업공간" : {
+    "en" : "Collaborative workspace",
+    "ja" : "協業スペース",
+    "vi" : "Không gian làm việc cộng tác",
+    "zh" : "协作空间"
+  },
+  "아이콘 수정" : {
+    "en" : "Edit icon",
+    "ja" : "アイコン修正",
+    "vi" : "Chỉnh sửa biểu tượng",
+    "zh" : "修改图标"
+  },
+  "개인" : {
+    "en" : "Personal",
+    "ja" : "個人",
+    "vi" : "Cá nhân",
+    "zh" : "个人"
+  },
+  "중요 페이지" : {
+    "en" : "Important Page",
+    "ja" : "重要ページ",
+    "vi" : "Trang quan trọng",
+    "zh" : "重要页面"
+  },
+  "하위 페이지" : {
+    "en" : "Subpage",
+    "ja" : "下位ページ",
+    "vi" : "Trang con",
+    "zh" : "子页面"
+  },
+  "빈값으로 저장하면 비밀번호는 설정되지 않습니다." : {
+    "en" : "Leaving it blank will not set a password.",
+    "ja" : "空の値で保存すると、パスワードは設定されません。",
+    "vi" : "Nếu lưu với giá trị trống, mật khẩu sẽ không được thiết lập.",
+    "zh" : "如果保存为空值，则不设置密码。"
+  },
+  "아이콘 추가" : {
+    "en" : "Add icon",
+    "ja" : "アイコン追加",
+    "vi" : "Thêm biểu tượng",
+    "zh" : "添加图标"
+  },
+  "링크" : {
+    "en" : "Link",
+    "ja" : "リンク",
+    "vi" : "Liên kết",
+    "zh" : "链接"
+  },
+  "공유" : {
+    "en" : "Share",
+    "ja" : "共有する",
+    "vi" : "chia sẻ",
+    "zh" : "共有"
+  },
+  "공유설정" : {
+    "en" : "Share Settings",
+    "ja" : "容量設定",
+    "vi" : "Cài đặt chia sẻ",
+    "zh" : "设定共有"
+  },
+  "이전내용 보기" : {
+    "en" : "Show Previous Content (Before Modification)",
+    "ja" : "以前の内容を表示",
+    "vi" : "Hiển thị nội dung cũ hơn",
+    "zh" : "看以前内容"
+  },
+  "초대" : {
+    "en" : "Invited",
+    "ja" : "招待",
+    "vi" : "Đã mời",
+    "zh" : "邀请"
+  },
+  "신규" : {
+    "en" : "New",
+    "ja" : "新規",
+    "vi" : "Mới",
+    "zh" : "新建"
+  },
+  "수정" : {
+    "en" : "Edit",
+    "ja" : "修正",
+    "vi" : "Chỉnh sửa",
+    "zh" : "修改"
+  },
+  "주제를 선택해주세요." : {
+    "en" : "Please select a topic.",
+    "ja" : "トピックを選択してください。",
+    "vi" : "Vui lòng chọn một chủ đề.",
+    "zh" : "请选择主题。"
+  },
+  "방금" : {
+    "en" : "Just now",
+    "ja" : "ちょうど今",
+    "vi" : "Vừa xong",
+    "zh" : "刚刚"
+  },
+  "양식 미리보기" : {
+    "en" : "Form preview",
+    "ja" : "フォームプレビュー",
+    "vi" : "Xem trước biểu mẫu",
+    "zh" : "表单预览"
+  },
+  "반려 사유를 입력하세요" : {
+    "en" : "Please enter a reason for rejection.",
+    "ja" : "差戻し理由を入力してください。",
+    "vi" : "Vui lòng nhập lý do từ chối",
+    "zh" : "请输入退回原因。"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "주제명" : {
+    "en" : "Topic name",
+    "ja" : "トピック名",
+    "vi" : "Tên chủ đề",
+    "zh" : "主题名称"
+  },
+  "수정일" : {
+    "en" : "Date modified",
+    "ja" : "修正日",
+    "vi" : "Ngày sửa đổi",
+    "zh" : "修改日"
+  },
+  "별표하기" : {
+    "en" : "Star",
+    "ja" : "スターをつける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "加星标"
+  },
+  "잠금해제" : {
+    "en" : "Unlock",
+    "ja" : "ロック解除",
+    "vi" : "Bỏ khóa",
+    "zh" : "解除锁定"
+  },
+  "멘션 된 사용자에게 페이지 등록 알림을 발송하시겠습니까?" : {
+    "en" : "Would you like to send a page registration notification to mentioned users?",
+    "ja" : "メンションされたユーザーにページ登録通知を送信しますか？",
+    "vi" : "Bạn có muốn gửi thông báo đăng ký trang cho người dùng được nhắc đến không?",
+    "zh" : "向提及的用户发送页面注册通知？"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "Duplicate users with the manager status on Space are excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、当該のユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong không gian trống, người dùng này sẽ được loại bỏ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "커버 선택" : {
+    "en" : "Select a cover",
+    "ja" : "カバー選択",
+    "vi" : "Chọn một bìa",
+    "zh" : "选择封面"
+  },
+  "선택한 폴더의 하위 폴더의 상하 위치를 변경합니다." : {
+    "en" : "Re-order the sub-folders of the selected folder.",
+    "ja" : "選択したフォルダ内のサブフォルダの上下位置を変更します。",
+    "vi" : "Thay đổi vị trí trên dưới của thư mục bên trong thư mục đã chọn.",
+    "zh" : "变更把您选择的文件夹的下位文件夹上下位置。"
+  },
+  "이전내용으로 변경" : {
+    "en" : "Change to previous content",
+    "ja" : "以前の内容に変更",
+    "vi" : "Chuyển đến nội dung trước đó",
+    "zh" : "恢复到以前的内容"
+  },
+  "페이지 등록 요청이 반려되었습니다." : {
+    "en" : "Page registration request has been rejected.",
+    "ja" : "ページ登録リクエストが却下されました。",
+    "vi" : "Yêu cầu đăng ký trang đã bị từ chối.",
+    "zh" : "页面注册请求已被拒绝。"
+  },
+  "요청일" : {
+    "en" : "Request Date",
+    "ja" : "要請日",
+    "vi" : "Ngày yêu cầu",
+    "zh" : "邀请日"
+  },
+  "누구나" : {
+    "en" : "Anyone",
+    "ja" : "一般公開",
+    "vi" : "Bất kỳ ai",
+    "zh" : "任何人"
+  },
+  "다른 사람이 수정 할 수 없도록 공동편집 잠금처리 하시겠습니까?" : {
+    "en" : "Would you like to lock co-editing so that others cannot edit?",
+    "ja" : "他の人が編集できないように共同編集ロック処理しますか？",
+    "vi" : "Bạn có muốn khóa chế độ chỉnh sửa chung để người khác không thể chỉnh sửa không?",
+    "zh" : "您要锁定共同编辑以防止其他人修改吗？"
+  },
+  "URL 복사" : {
+    "en" : "URL Copy",
+    "ja" : "URL コピー",
+    "vi" : "URL Sao chép",
+    "zh" : "URL 拷贝"
+  },
+  "한번에 업로드할 수 있는 용량 입니다." : {
+    "en" : "Capacity for uploading at once.",
+    "ja" : "一度にアップロードできる容量です。",
+    "vi" : "Khả năng tải lên cùng một lúc.",
+    "zh" : "可以一次上传的容量。"
+  },
+  "작게" : {
+    "en" : "Smaller",
+    "ja" : "縮小",
+    "vi" : "Nhỏ hơn",
+    "zh" : "缩小"
+  },
+  "템플릿 에디터" : {
+    "en" : "Template editor",
+    "ja" : "テンプレートエディタ",
+    "vi" : "Trình biên tập mẫu",
+    "zh" : "模板编辑器"
+  },
+  "삭제 페이지" : {
+    "en" : "Deleted pages",
+    "ja" : "削除されたページ",
+    "vi" : "Các trang đã xóa",
+    "zh" : "删除页面"
+  },
+  "주제의 쓰기 권한이 있는 사용자만 초대 할 수 있습니다." : {
+    "en" : "Only users with write permission for the topic can be invited.",
+    "ja" : "主題の書き込み権限があるユーザーのみ招待できます。",
+    "vi" : "Chỉ người dùng có quyền viết chủ đề mới có thể mời người khác.",
+    "zh" : "只能邀请具有主题写入权限的用户。"
+  },
+  "추천자가 없습니다." : {
+    "en" : "No recommenders.",
+    "ja" : "推薦者がいません。",
+    "vi" : "Không có người đề xuất.",
+    "zh" : "没有推荐人。"
+  },
+  "페이지를 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete the page?",
+    "ja" : "ページを削除しますか？",
+    "vi" : "Bạn có muốn xóa trang không?",
+    "zh" : "您确定要删除此页面吗？"
+  },
+  "양식 순서" : {
+    "en" : "Order of forms",
+    "ja" : "様式順序",
+    "vi" : "Trình tự các mẫu form",
+    "zh" : "样式顺序"
+  },
+  "공유취소" : {
+    "en" : "Cancel sharing",
+    "ja" : "共有キャンセル",
+    "vi" : "Hủy chia sẻ",
+    "zh" : "取消共享"
+  },
+  "조회자가 없습니다." : {
+    "en" : "No viewers",
+    "ja" : "閲覧者がいません。",
+    "vi" : "Không có người xem",
+    "zh" : "没有查看者。"
+  },
+  "URL복사" : {
+    "en" : "Copy URL",
+    "ja" : "URLコピー",
+    "vi" : "Sao chép URL",
+    "zh" : "复制 URL"
+  },
+  "삭제중" : {
+    "en" : "Deleting",
+    "ja" : "削除中",
+    "vi" : "Đang xóa",
+    "zh" : "正在删除中"
+  },
+  "최근 조회" : {
+    "en" : "Recent views",
+    "ja" : "最近の照会",
+    "vi" : "Lịch sử tìm kiếm gần đây",
+    "zh" : "最近查询"
+  },
+  "선택한 이력으로 복원 하시겠습니까?" : {
+    "en" : "Would you like to restore to the selected history?",
+    "ja" : "選択した履歴に復元しますか？",
+    "vi" : "Bạn có muốn khôi phục với lịch sử đã chọn không?",
+    "zh" : "您要使用选定的历史记录恢复吗？"
+  },
+  "설정 메뉴" : {
+    "en" : "Settings menu",
+    "ja" : "設定メニュー",
+    "vi" : "Menu thiết lập",
+    "zh" : "设置菜单"
+  },
+  "수정요청" : {
+    "en" : "Modification request",
+    "ja" : "修正依頼",
+    "vi" : "Yêu cầu sửa đổi",
+    "zh" : "请求修改"
+  },
+  "요청자" : {
+    "en" : "Requested by",
+    "ja" : "要請者",
+    "vi" : "Người đề nghị",
+    "zh" : "邀请人"
+  },
+  "추가 기능" : {
+    "en" : "Additional features",
+    "ja" : "追加機能",
+    "vi" : "Tính năng bổ sung",
+    "zh" : "额外功能"
+  },
+  "페이지 삭제 요청이 승인되었습니다." : {
+    "en" : "Page deletion request has been approved.",
+    "ja" : "ページ削除のリクエストが承認されました。",
+    "vi" : "Yêu cầu xóa trang đã được phê duyệt.",
+    "zh" : "页面删除请求已批准。"
+  },
+  "페이지 삭제 요청이 반려되었습니다." : {
+    "en" : "Page deletion request has been rejected.",
+    "ja" : "ページ削除のリクエストが却下されました。",
+    "vi" : "Yêu cầu xóa trang đã bị từ chối.",
+    "zh" : "页面删除请求已被拒绝。"
+  },
+  "비밀번호는 4자이상으로 입력해주세요." : {
+    "en" : "Password must be more than 4 characters.",
+    "ja" : "パスワードは4文字以上で入力してください。",
+    "vi" : "Mật khẩu phải có nhiều hơn 4 ký tự.",
+    "zh" : "密码请输入4字以上的字。"
+  },
+  "페이지 너비" : {
+    "en" : "Page width",
+    "ja" : "ページ幅",
+    "vi" : "Chiều rộng trang",
+    "zh" : "页面宽度"
+  },
+  "그룹 관리자" : {
+    "en" : "Group administrator",
+    "ja" : "グループ管理者",
+    "vi" : "Người quản lý Nhóm",
+    "zh" : "小组管理者"
+  },
+  "추천했습니다." : {
+    "en" : "Recommended.",
+    "ja" : "おすすめしました。",
+    "vi" : "Được đề xuất.",
+    "zh" : "已推荐。"
+  },
+  "최근 페이지" : {
+    "en" : "Recent pages",
+    "ja" : "最近のページ",
+    "vi" : "Trang gần đây",
+    "zh" : "最近的页面"
+  },
+  "이력 조회" : {
+    "en" : "View history",
+    "ja" : "履歴照会",
+    "vi" : "Xem lịch sử",
+    "zh" : "查看历史记录"
+  },
+  "최근 페이지가 없습니다." : {
+    "en" : "No recent pages.",
+    "ja" : "最近のページはありません。",
+    "vi" : "Không có trang gần đây.",
+    "zh" : "最近没有页面。"
+  },
+  "글자 크기" : {
+    "en" : "Font size",
+    "ja" : "フォントサイズ",
+    "vi" : "Cỡ chữ",
+    "zh" : "字体大小"
+  },
+  "반려 사유를 입력하세요." : {
+    "en" : "Please enter a reason for rejection.",
+    "ja" : "差戻し理由を入力してください。",
+    "vi" : "Vui lòng nhập lý do từ chối",
+    "zh" : "请输入退回原因。"
+  },
+  "수정취소" : {
+    "en" : "Undo edit",
+    "ja" : "編集キャンセル",
+    "vi" : "Hoàn tác chỉnh sửa",
+    "zh" : "撤销修改"
+  },
+  "삭제하였습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đối tượng này đã bị xóa.",
+    "zh" : "删除完了。"
+  },
+  "주제 이미지 선택" : {
+    "en" : "Select a topic image",
+    "ja" : "トピック画像を選択",
+    "vi" : "Chọn một hình ảnh cho chủ đề",
+    "zh" : "选择主题图像"
+  },
+  "기존첨부" : {
+    "en" : "Existing attachment",
+    "ja" : "既存の添付",
+    "vi" : "Đính kèm hiện tại",
+    "zh" : "現有的附件"
+  },
+  "등록된 주제가 없습니다." : {
+    "en" : "No registered topics.",
+    "ja" : "登録されたトピックがありません。",
+    "vi" : "Không có chủ đề được đăng ký.",
+    "zh" : "没有注册的主题。"
+  },
+  "승인대상을 선택하세요." : {
+    "en" : "Select the approval target.",
+    "ja" : "承認対象を選択してください。",
+    "vi" : "Chọn mục tiêu phê duyệt.",
+    "zh" : "请选择批准目标。"
+  },
+  "위키 페이지 목록" : {
+    "en" : "Wiki page list",
+    "ja" : "Wikiページ一覧",
+    "vi" : "Danh sách trang Wiki",
+    "zh" : "维基页面列表"
+  },
+  "페이지 제목" : {
+    "en" : "Page title",
+    "ja" : "ページ題名",
+    "vi" : "Tiêu đề trang",
+    "zh" : "页面标题"
+  },
+  "모든 사용자" : {
+    "en" : "All users",
+    "ja" : "すべてのユーザー",
+    "vi" : "Tất cả người dùng",
+    "zh" : "所有使用者"
+  },
+  "이전 내용으로 변경하시겠습니까?" : {
+    "en" : "Would you like to revert to the previous content?",
+    "ja" : "前の内容に戻しますか？",
+    "vi" : "Bạn có muốn quay lại nội dung trước đó không?",
+    "zh" : "是否恢复至先前内容？"
+  },
+  "파일첨부 확장자 제한" : {
+    "en" : "File attachment extension restriction",
+    "ja" : "ファイル添付拡張子制限",
+    "vi" : "Giới hạn phần mở rộng tệp đính kèm",
+    "zh" : "文件附件扩展名限制"
+  },
+  "양식이 없습니다." : {
+    "en" : "No forms available.",
+    "ja" : "フォーマットがありません。",
+    "vi" : "Không có biểu mẫu nào có sẵn.",
+    "zh" : "没有表格。"
+  },
+  "암호 있음" : {
+    "en" : "Password protected",
+    "ja" : "パスワードあり",
+    "vi" : "Được bảo vệ bằng mật khẩu",
+    "zh" : "有密码"
+  },
+  "{0}의 <strong>{1} 라이선스</strong>를 제거하였습니다." : {
+    "en" : "The <strong>{1} license</strong> of {0} has been removed.",
+    "ja" : "{0}の<strong> {1} ライセンス</strong>を削除しました。",
+    "vi" : "<strong>{1} Giấy phép</strong> của {0} đã bị xóa.",
+    "zh" : "{0} 的<strong>{1}许可证</strong>已被删除。"
+  },
+  "다른 양식 보기" : {
+    "en" : "View other forms",
+    "ja" : "他のフォーマットを表示",
+    "vi" : "Xem các biểu mẫu khác",
+    "zh" : "查看其他格式"
+  },
+  "업로드된 이미지가 없습니다." : {
+    "en" : "No uploaded images.",
+    "ja" : "アップロードされた画像はありません。",
+    "vi" : "Không có hình ảnh đã tải lên.",
+    "zh" : "没有上传的图像。"
+  },
+  "한번에 업로드할 수 있는 개수 입니다." : {
+    "en" : "Number of items that can be uploaded at once.",
+    "ja" : "一度にアップロードできる数です。",
+    "vi" : "Số lượng mục có thể tải lên cùng một lúc.",
+    "zh" : "一次可上传的数量。"
+  },
+  "주제 수정" : {
+    "en" : "Edit topic",
+    "ja" : "トピック修正",
+    "vi" : "Chỉnh sửa chủ đề",
+    "zh" : "修改主题"
+  },
+  "완전 삭제 시 복원할 수 없습니다. 하시겠습니까?" : {
+    "en" : "It cannot be restored when completely deleted. Are you sure you want to proceed?",
+    "ja" : "完全削除すると復元できません。よろしいですか？",
+    "vi" : "Không thể khôi phục sau khi xóa. Bạn có muốn tiếp tục không?",
+    "zh" : "完全删除后无法恢复。您确定要继续吗？"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "암호설정" : {
+    "en" : "Password setting",
+    "ja" : "パスワード設定",
+    "vi" : "Thiết lập mật khẩu",
+    "zh" : "设置密码"
+  },
+  "대상자는 조회 기간 내 암호를 입력해야 됩니다." : {
+    "en" : "Target users must enter a password within the viewing period.",
+    "ja" : "対象者は照会期間内のパスワードを入力する必要があります。",
+    "vi" : "Người nhận cần nhập mật khẩu trong khoảng thời gian được truy cập.",
+    "zh" : "收件人必须在查询期限内输入密码。"
+  },
+  "복사 추가" : {
+    "en" : "Add copy",
+    "ja" : "コピー追加",
+    "vi" : "Thêm bản sao",
+    "zh" : "添加复制"
+  },
+  "제목을 입력하세요." : {
+    "en" : "Enter title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề",
+    "zh" : "请输入题目。"
+  },
+  "요청 취소할 목록을 선택해 주세요" : {
+    "en" : "Please select the list to cancel the request.",
+    "ja" : "リクエストをキャンセルする項目を選択してください。",
+    "vi" : "Vui lòng chọn danh sách để hủy yêu cầu.",
+    "zh" : "请选择要取消的请求列表。"
+  },
+  "하위에 주제가 존재하여 삭제 할 수 없습니다." : {
+    "en" : "You cannot delete it because there are subtopics below.",
+    "ja" : "下位にトピックが存在するため、削除できません。",
+    "vi" : "Bạn không thể xóa nó vì có các chủ đề con bên dưới.",
+    "zh" : "无法删除，因为下面有子主题。"
+  },
+  "등록 승인" : {
+    "en" : "Approve Registration",
+    "ja" : "登録承認",
+    "vi" : "chấp nhận đăng bài",
+    "zh" : "登录承认"
+  },
+  "페이지가 삭제되었습니다." : {
+    "en" : "The page has been deleted.",
+    "ja" : "ページが削除されました。",
+    "vi" : "Trang đã bị xóa.",
+    "zh" : "该页面已被删除。"
+  },
+  "수정중" : {
+    "en" : "Editing",
+    "ja" : "修正中",
+    "vi" : "Đang chỉnh sửa",
+    "zh" : "正在编辑中"
+  },
+  "댓글을 입력하세요." : {
+    "en" : "Enter a comment.",
+    "ja" : "コメントを入力してください。",
+    "vi" : "Hãy nhập bình luận.",
+    "zh" : "请输入回帖。"
+  },
+  "비교하기" : {
+    "en" : "Compare",
+    "ja" : "比較する",
+    "vi" : "So sánh",
+    "zh" : "比较"
+  },
+  "대상자는 설정한 날까지 조회 가능 합니다." : {
+    "en" : "Target users can view until the set date.",
+    "ja" : "対象者は設定した日まで照会可能です。",
+    "vi" : "Người nhận có thể truy cập cho đến ngày đã được thiết lập.",
+    "zh" : "收件人可在您设置的日期前查看。"
+  },
+  "삭제 할 목록을 선택 해주세요." : {
+    "en" : "Please select a list to delete.",
+    "ja" : "削除する項目を選択してください。",
+    "vi" : "Vui lòng chọn một danh sách để xóa.",
+    "zh" : "请选择要删除的列表。"
+  },
+  "폴더 이동" : {
+    "en" : "Move folder",
+    "ja" : "フォルダを移動",
+    "vi" : "Di chuyển thư mục",
+    "zh" : "移动文件夹"
+  },
+  "추천 확인" : {
+    "en" : "Confirm recommendations",
+    "ja" : "おすすめ確認",
+    "vi" : "Xác nhận đề xuất",
+    "zh" : "阅读推荐"
+  },
+  "해당 페이지가 존재하지 않습니다. 페이지를 종료합니다." : {
+    "en" : "The page does not exist. Closing the page.",
+    "ja" : "該当ページは存在しません。ページを終了します。",
+    "vi" : "Trang không tồn tại. Đóng trang.",
+    "zh" : "该页面不存在。页面已关闭。"
+  },
+  "인쇄" : {
+    "en" : "Print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "보통" : {
+    "en" : "Normal",
+    "ja" : "標準",
+    "vi" : "Bình thường",
+    "zh" : "通常"
+  },
+  "페이지" : {
+    "en" : "Page",
+    "ja" : "ページ",
+    "vi" : "Trang",
+    "zh" : "页"
+  },
+  "회사 주제 생성" : {
+    "en" : "Create company topic",
+    "ja" : "会社トピック作成",
+    "vi" : "Tạo chủ đề công ty",
+    "zh" : "创建公司主题"
+  },
+  "삭제 시 복원 할 수 없습니다. 하시겠습니까?" : {
+    "en" : "It cannot be restored once deleted. Do you want to proceed?",
+    "ja" : "削除すると復元できません。よろしいですか？",
+    "vi" : "Không thể khôi phục sau khi xóa. Bạn có muốn tiếp tục không?",
+    "zh" : "删除后无法恢复。确定要继续吗？"
+  },
+  "댓글" : {
+    "en" : "Comment",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "留言"
+  },
+  "추천 페이지" : {
+    "en" : "Recommended page.",
+    "ja" : "おすすめページ",
+    "vi" : "Trang được đề xuất.",
+    "zh" : "推荐页面"
+  },
+  "양식 관리" : {
+    "en" : "Manage Forms",
+    "ja" : "フォーム管理",
+    "vi" : "Quản lý bản mẫu",
+    "zh" : "样式管理"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "승인 대상" : {
+    "en" : "Approval target",
+    "ja" : "承認対象",
+    "vi" : "Mục tiêu phê duyệt",
+    "zh" : "批准对象"
+  },
+  "주제명이 너무 깁니다." : {
+    "en" : "The subject name is too long.",
+    "ja" : "主題名が長すぎます。",
+    "vi" : "Tên chủ đề quá dài.",
+    "zh" : "主题名太长了。"
+  },
+  "공유(관계사)" : {
+    "en" : "Share (affiliated companies)",
+    "ja" : "共有（関連会社）",
+    "vi" : "Chia sẻ (công ty liên kết)",
+    "zh" : "共享（关联公司）"
+  },
+  "조회 기한이 지난 페이지입니다." : {
+    "en" : "The viewing period for this page has expired.",
+    "ja" : "閲覧期限が過ぎたページです。",
+    "vi" : "Đây là trang đã hết thời hạn xem.",
+    "zh" : "查询期限 已过的页面"
+  },
+  "스페이스 주제 생성" : {
+    "en" : "Space topic creation",
+    "ja" : "スペーストピック作成",
+    "vi" : "Tạo chủ đề không gian",
+    "zh" : "创建空间主题"
+  },
+  "삭제된 폴더가 있습니다.\\n 폴더를 선택해주세요." : {
+    "en" : "There are deleted folders. Please select a folder.",
+    "ja" : "削除されたフォルダがあります。フォルダを選択してください。",
+    "vi" : "Có các thư mục đã bị xóa. Vui lòng chọn một thư mục.",
+    "zh" : "已删除的文件夹存在。\\n 请选择文件夹。"
+  },
+  "주제 관리" : {
+    "en" : "Topic management",
+    "ja" : "トピック管理",
+    "vi" : "Quản lý chủ đề",
+    "zh" : "主题管理"
+  },
+  "공유 페이지" : {
+    "en" : "Shared page",
+    "ja" : "共有ページ",
+    "vi" : "Trang chia sẻ",
+    "zh" : "共享页面"
+  },
+  "요청 취소하시겠습니까?" : {
+    "en" : "Do you want to cancel the request?",
+    "ja" : "リクエストをキャンセルしますか？",
+    "vi" : "Bạn có muốn hủy yêu cầu không?",
+    "zh" : "您确定要取消请求吗？"
+  },
+  "페이지에 댓글이 등록되었습니다." : {
+    "en" : "A comment has been added to the page.",
+    "ja" : "ページにコメントが登録されました。",
+    "vi" : "Một bình luận đã được thêm vào trang.",
+    "zh" : "页面已添加评论。"
+  },
+  "삭제 관리" : {
+    "en" : "Delete management",
+    "ja" : "削除管理",
+    "vi" : "Quản lý xóa",
+    "zh" : "管理删除"
+  },
+  "커버 이미지 수정" : {
+    "en" : "Edit cover image",
+    "ja" : "カバー画像修正",
+    "vi" : "Chỉnh sửa hình bìa",
+    "zh" : "修改封面图片"
+  },
+  "파일첨부 용량 제한" : {
+    "en" : "File attachment size limit",
+    "ja" : "ファイル添付容量制限",
+    "vi" : "Giới hạn kích thước tệp đính kèm",
+    "zh" : "文件附件大小限制"
+  },
+  "양식" : {
+    "en" : "Form",
+    "ja" : "フォーム",
+    "vi" : "Biểu mẫu",
+    "zh" : "表单"
+  },
+  "삭제요청" : {
+    "en" : "Request Deletion",
+    "ja" : "削除要請",
+    "vi" : "Yêu cầu xóa",
+    "zh" : "邀请删除"
+  },
+  "페이지편집에 초대 되었습니다." : {
+    "en" : "Page you have been invited to edit.",
+    "ja" : "ページ編集に招待されました。",
+    "vi" : "Bạn đã được mời chỉnh sửa.",
+    "zh" : "您已被邀请编辑页面。"
+  },
+  "그룹 주제 생성" : {
+    "en" : "Create group topic",
+    "ja" : "グループトピック作成",
+    "vi" : "Tạo chủ đề nhóm",
+    "zh" : "创建群组主题"
+  },
+  "위키 페이지 조회를 위한 비밀번호를 입력하세요." : {
+    "en" : "Enter a password to view wiki page.",
+    "ja" : "Wikiページ閲覧のためのパスワードを入力してください。",
+    "vi" : "Nhập mật khẩu để xem trang wiki.",
+    "zh" : "输入密码以查看维基页面。"
+  },
+  "에 대한 검색 결과가 없습니다." : {
+    "en" : "There are no search results for",
+    "ja" : "に関する検索結果はありません。",
+    "vi" : "Không có kết quả tìm kiếm cho",
+    "zh" : "没有搜索结果。"
+  },
+  "작성 페이지" : {
+    "en" : "Page creation",
+    "ja" : "作成したページ",
+    "vi" : "Tạo trang",
+    "zh" : "创建页面"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Vị trí",
+    "zh" : "职位"
+  },
+  "사용자의 등록,수정,삭제를 승인 후 처리 하며, 관리자는 바로 처리 됩니다." : {
+    "en" : "User registrations, updates, and deletions are processed after approval, and administrators are processed immediately.",
+    "ja" : "ユーザーの登録・修正・削除は承認後に処理されますが、管理者は即時処理されます。",
+    "vi" : "Đăng ký, cập nhật và xóa người dùng sẽ được xử lý sau khi được phê duyệt, và các quản trị viên sẽ được xử lý ngay lập tức.",
+    "zh" : "用户的注册、编辑和删除将在获得批准后进行处理，管理员将立即处理。"
+  },
+  "아래 페이지 추가" : {
+    "en" : "Add subpage below",
+    "ja" : "下位ページを追加",
+    "vi" : "Thêm trang con bên dưới",
+    "zh" : "添加下方页面"
+  },
+  "복원하였습니다." : {
+    "en" : "Restored.",
+    "ja" : "復元しました。",
+    "vi" : "Đã khôi phục.",
+    "zh" : "已恢复。"
+  },
+  "수정 중" : {
+    "en" : "Editing in progress",
+    "ja" : "編集中",
+    "vi" : "Đang chỉnh sửa",
+    "zh" : "正在编辑"
+  },
+  "선택한 페이지 아래 복사됩니다." : {
+    "en" : "It will be copied below the selected page.",
+    "ja" : "選択したページの下にコピーされます。",
+    "vi" : "Nó sẽ được sao chép dưới trang được chọn.",
+    "zh" : "所选页面将在下面复制。"
+  },
+  "수정완료" : {
+    "en" : "Modification completed",
+    "ja" : "修正完了",
+    "vi" : "Hoàn tất chỉnh sửa",
+    "zh" : "已完成编辑"
+  },
+  "수정반려" : {
+    "en" : "Modification rejected",
+    "ja" : "修正却下",
+    "vi" : "Sửa đổi bị từ chối",
+    "zh" : "修改被拒绝"
+  },
+  "이모지" : {
+    "en" : "Emoji",
+    "ja" : "絵文字",
+    "vi" : "Biểu tượng cảm xúc",
+    "zh" : "表情符号"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space Manager",
+    "ja" : "スペース責任者",
+    "vi" : "Người chịu trách nhiệm không gian",
+    "zh" : "空间负责人"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "페이지 수정승인을 요청하였습니다.\\n관리자의 승인 후 수정됩니다." : {
+    "en" : "A request for page modification approval has been submitted. It will be modified after the administrator's approval.",
+    "ja" : "ページ登録承認をリクエストしました。\\n管理者の承認後に修正されます。",
+    "vi" : "Đã yêu cầu phê duyệt chỉnh sửa trang.\\nSẽ được chỉnh sửa sau khi quản trị viên phê duyệt.",
+    "zh" : "已请求页面修改批准。\\n将在管理员批准后修改。"
+  },
+  "제목은 영어 200자 기타언어는 66자 이내로 입력하세요." : {
+    "en" : "The length of a subject must be less than 200 characters in English and 66 characters in other language.",
+    "ja" : "件名は英語200文字、その他の言語は66文字以内で入力してください。",
+    "vi" : "Chiều dài của chủ đề phải ít hơn 200 ký tự tiếng Anh và ít hơn 66 ký tự trong ngôn ngữ khác.",
+    "zh" : "题目请输入英文200字其他语言66字以内。"
+  },
+  "조회 기한" : {
+    "en" : "Expiry date",
+    "ja" : "照会期限",
+    "vi" : "Ngày hết hạn",
+    "zh" : "查询期限"
+  },
+  "승인하시겠습니까?" : {
+    "en" : "Do you want to approve it?",
+    "ja" : "承認しますか？",
+    "vi" : "Bạn có muốn phê duyệt không?",
+    "zh" : "要承认吗？"
+  },
+  "시간 전" : {
+    "en" : "Hours ago",
+    "ja" : "時間前",
+    "vi" : "Giờ trước",
+    "zh" : "小时前"
+  },
+  "해당 주제의 마지막 페이지로 복원 됩니다. 하시겠습니까?" : {
+    "en" : "It will be restored to the last page of the topic. Are you sure?",
+    "ja" : "該当トピックの最後のページに復元されます。よろしいですか？",
+    "vi" : "Nó sẽ được khôi phục về trang cuối cùng của chủ đề. Bạn có chắc chắn không?",
+    "zh" : "它将还原到该主题的最后一页。确定要继续吗？"
+  },
+  "페이지 등록승인을 요청하였습니다.\\n관리자의 승인 후 등록됩니다." : {
+    "en" : "A request for page registration approval has been submitted. It will be registered after the administrator's approval.",
+    "ja" : "ページ登録承認をリクエストしました。\\n管理者の承認後に登録されます。",
+    "vi" : "Đã yêu cầu phê duyệt đăng ký trang.\\nSẽ được đăng ký sau khi quản trị viên phê duyệt.",
+    "zh" : "已请求页面注册批准。\\n将在管理员批准后注册。"
+  },
+  "비교" : {
+    "en" : "Compare",
+    "ja" : "比較",
+    "vi" : "So sánh",
+    "zh" : "比较"
+  },
+  "댓글 사용" : {
+    "en" : "Use comments",
+    "ja" : "コメント使用",
+    "vi" : "Sử dụng bình luận",
+    "zh" : "使用评论"
+  },
+  "선택한 페이지 아래 이동됩니다." : {
+    "en" : "Will be moved below the selected page.",
+    "ja" : "選択したページの下へ移動します。",
+    "vi" : "Sẽ được di chuyển xuống dưới trang được chọn.",
+    "zh" : "将选择的页面移到下方。"
+  },
+  "페이지가 없습니다." : {
+    "en" : "There are no pages.",
+    "ja" : "ページが存在しません。",
+    "vi" : "Không có trang nào",
+    "zh" : "没有页面。"
+  },
+  "요청취소" : {
+    "en" : "Cancel request",
+    "ja" : "リクエストキャンセル",
+    "vi" : "Yêu cầu hủy",
+    "zh" : "请求取消"
+  },
+  "다른 사람이 공동편집을 할 수 있도록 잠금해지 하시겠습니까?" : {
+    "en" : "Would you like to unlock co-editing so that others can co-edit?",
+    "ja" : "他の人が共同編集できるようにロック解除しますか？",
+    "vi" : "Bạn có muốn mở khóa để người khác có thể chỉnh sửa chung không?",
+    "zh" : "您要解锁以便其他人可以共同编辑吗？"
+  },
+  "주제를 입력하세요." : {
+    "en" : "Please enter the topic.",
+    "ja" : "トピックを入力してください。",
+    "vi" : "Hãy nhập chủ đề.",
+    "zh" : "请输入主题。"
+  },
+  "양식 설명" : {
+    "en" : "Form description",
+    "ja" : "フォーマット説明",
+    "vi" : "Mô tả biểu mẫu",
+    "zh" : "表格描述"
+  },
+  "신규요청" : {
+    "en" : "New request",
+    "ja" : "新規リクエスト",
+    "vi" : "Yêu cầu mới",
+    "zh" : "新请求"
+  },
+  "최신 주제" : {
+    "en" : "Latest topics",
+    "ja" : "最新トピック",
+    "vi" : "Các chủ đề mới nhất",
+    "zh" : "最新主题"
+  },
+  "페이지가 수정되었습니다." : {
+    "en" : "The page has been modified.",
+    "ja" : "ページが修正されました。",
+    "vi" : "Trang đã được chỉnh sửa.",
+    "zh" : "页面已被修改。"
+  },
+  "커버 추가" : {
+    "en" : "Add cover",
+    "ja" : "カバー追加",
+    "vi" : "Thêm bìa",
+    "zh" : "添加封面"
+  },
+  "새로운 페이지를 추가하고, 정보를 체계적으로 정리해 보세요." : {
+    "en" : "Create a new page and organize information systematically.",
+    "ja" : "新しいページを追加し、情報を体系的に整理してください。",
+    "vi" : "Tạo một trang mới và tổ chức thông tin một cách có hệ thống.",
+    "zh" : "添加新页面并系统化整理信息。"
+  },
+  "선택한 폴더를 대상 폴더의 하위로 이동합니다." : {
+    "en" : "Move the selected folder to the sub(folder) of the target folder.",
+    "ja" : "選択したフォルダを対象フォルダの下位に移動します。",
+    "vi" : "Di chuyển thự mục đã chọn vào bên trong thư mục đối tượng.",
+    "zh" : "把您选择的文件夹移动到对象文件夹的下位。"
+  },
+  "라이선스 미보유" : {
+    "en" : "No license",
+    "ja" : "ライセンス未保有",
+    "vi" : "Không có giấy phép",
+    "zh" : "未持有许可证"
+  },
+  "주제 정보" : {
+    "en" : "Topic information",
+    "ja" : "トピック情報",
+    "vi" : "Thông tin chủ đề",
+    "zh" : "主题信息"
+  },
+  "최근 주제" : {
+    "en" : "Recent topics",
+    "ja" : "最近のトピック",
+    "vi" : "Chủ đề gần đây.",
+    "zh" : "最近主题"
+  },
+  "제한일" : {
+    "en" : "Limit date",
+    "ja" : "制限日",
+    "vi" : "Ngày giới hạn",
+    "zh" : "限制日期"
+  },
+  "페이지 관리" : {
+    "en" : "Page management",
+    "ja" : "ページ管理",
+    "vi" : "Quản lý trang",
+    "zh" : "页面管理"
+  },
+  "크게" : {
+    "en" : "Enlarge",
+    "ja" : "拡大",
+    "vi" : "Phóng to",
+    "zh" : "放大"
+  },
+  "선택한 페이지 및 하위 페이지로는 이동할 수 없습니다." : {
+    "en" : "You cannot move to the selected page and subpages.",
+    "ja" : "選択したページと下位ページへは移動できません。",
+    "vi" : "Bạn không thể di chuyển đến trang được chọn và các trang con.",
+    "zh" : "无法移动所选页面和其子页面。"
+  },
+  "링크 복사" : {
+    "en" : "Copy link",
+    "ja" : "リンクコピー",
+    "vi" : "Sao chép liên kết",
+    "zh" : "复制链接"
+  },
+  "페이지 등록 요청이 승인되었습니다." : {
+    "en" : "Page registration request has been approved.",
+    "ja" : "ページ登録のリクエストが承認されました。",
+    "vi" : "Yêu cầu đăng ký trang đã được phê duyệt.",
+    "zh" : "页面注册请求已批准。"
+  },
+  "최종 확인" : {
+    "en" : "Final confirmation",
+    "ja" : "最終確認",
+    "vi" : "Xác nhận cuối cùng",
+    "zh" : "最终确认"
+  },
+  "하위 페이지 모두 삭제" : {
+    "en" : "Delete all subpages",
+    "ja" : "下位ページを全て削除",
+    "vi" : "Xóa tất cả các trang con",
+    "zh" : "删除所有子页面"
+  },
+  "첨부" : {
+    "en" : "Attachment",
+    "ja" : "添付",
+    "vi" : "Tệp đính kèm",
+    "zh" : "附件"
+  },
+  "페이지 삭제승인을 요청하였습니다.\\n관리자의 승인 후 삭제됩니다." : {
+    "en" : "A request for page deletion approval has been submitted. It will be deleted after the administrator's approval.",
+    "ja" : "ページ登録承認をリクエストしました。\\n管理者の承認後に削除されます。",
+    "vi" : "Đã yêu cầu phê duyệt xóa trang.\\nSẽ được xóa sau khi quản trị viên phê duyệt.",
+    "zh" : "已请求页面删除批准。\\n将在管理员批准后删除。"
+  },
+  "페이지 삭제 요청을 했습니다." : {
+    "en" : "I have requested the deletion of the page.",
+    "ja" : "ページ削除のリクエストを行いました。",
+    "vi" : "Tôi đã yêu cầu xóa trang.",
+    "zh" : "请求删除页面。"
+  },
+  "커버 이미지" : {
+    "en" : "Cover image",
+    "ja" : "カバー画像",
+    "vi" : "Hình ảnh bìa",
+    "zh" : "封面图像"
+  },
+  "페이지 잠금" : {
+    "en" : "Page Lock",
+    "ja" : "ページロック",
+    "vi" : "Khóa trang",
+    "zh" : "页面锁定"
+  },
+  "제목 없는 페이지" : {
+    "en" : "Untitled page",
+    "ja" : "タイトルなしのページ",
+    "vi" : "Trang chưa có tiêu đề",
+    "zh" : "无标题页面"
+  },
+  "잠금 해지" : {
+    "en" : "Unlock",
+    "ja" : "ロック解除",
+    "vi" : "Mở khóa",
+    "zh" : "解锁"
+  },
+  "승인 대기" : {
+    "en" : "Waiting for approval",
+    "ja" : "承認待機",
+    "vi" : "Chờ phê duyệt",
+    "zh" : "待机承认"
+  },
+  "페이지 내용" : {
+    "en" : "Page content",
+    "ja" : "ページ内容",
+    "vi" : "Nội dung trang",
+    "zh" : "页面内容"
+  },
+  "사용자가 없습니다" : {
+    "en" : "There is no user",
+    "ja" : "ユーザーがありません",
+    "vi" : "Không có người dùng",
+    "zh" : "没有使用者"
+  },
+  "{0}에게 <strong>{1} 라이선스</strong>를 부여하였습니다." : {
+    "en" : "{0} is granted a <strong>{1} license</strong>.",
+    "ja" : "{0}に<strong> {1} ライセンス</strong>を追加しました。",
+    "vi" : "<strong>{1} Giấy phép</strong> đã được cấp cho {0}.",
+    "zh" : "<strong>{1} 许可证</strong>已授予 {0}。"
+  },
+  "신규 추가" : {
+    "en" : "Add new",
+    "ja" : "新規追加",
+    "vi" : "Thêm mới",
+    "zh" : "添加新内容"
+  },
+  "페이지 검색" : {
+    "en" : "Page search",
+    "ja" : "ページ検索",
+    "vi" : "Tìm kiếm trang",
+    "zh" : "页面搜索"
+  },
+  "현재 페이지만 삭제" : {
+    "en" : "Delete only the current page",
+    "ja" : "現在のページのみ削除",
+    "vi" : "Chỉ xóa trang hiện tại",
+    "zh" : "仅删除当前页面"
+  },
+  "페이지 순서" : {
+    "en" : "Page order",
+    "ja" : "ページ順序",
+    "vi" : "Thứ tự trang",
+    "zh" : "页面顺序"
+  },
+  "회원" : {
+    "en" : "Member",
+    "ja" : "会員",
+    "vi" : "thành viên",
+    "zh" : "会员"
+  },
+  "댓글 내용을 입력하세요." : {
+    "en" : "Enter a comment.",
+    "ja" : "コメント内容を入力してください。",
+    "vi" : "Hãy nhập nội dung bình luận",
+    "zh" : "请输入回帖内容。"
+  },
+  "하위 폴더가 존재하여 삭제 할 수 없습니다." : {
+    "en" : "You cannot delete this item. A subfolder exists.",
+    "ja" : "下位フォルダが存在するため、削除できません。",
+    "vi" : "Tồn tại thư mục con nên không thể xóa.",
+    "zh" : "该文件夹中包含下级文件夹，无法删除。"
+  },
+  "수정취소 하시면 수정한 내용은 삭제 됩니다." : {
+    "en" : "Canceling the edit will delete the edited content.",
+    "ja" : "修正をキャンセルすると、修正した内容は削除されます。",
+    "vi" : "Hủy chỉnh sửa sẽ xóa nội dung đã chỉnh sửa.",
+    "zh" : "取消修改将删除已修改的内容。"
+  },
+  "페이지 변경이력 비교" : {
+    "en" : "Compare page change history",
+    "ja" : "ページ変更履歴比較",
+    "vi" : "So sánh lịch sử thay đổi trang",
+    "zh" : "比较页面更改历史记录"
+  },
+  "추천일" : {
+    "en" : "Recommended date",
+    "ja" : "推奨日",
+    "vi" : "Ngày đề xuất",
+    "zh" : "推荐日期"
+  },
+  "반려 사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do trả lại",
+    "zh" : "退回原因"
+  },
+  "조회일" : {
+    "en" : "View date",
+    "ja" : "照会日",
+    "vi" : "Ngày xem",
+    "zh" : "查看日期"
+  },
+  "이력은 1년간 보관되며, 페이지의 순서변경/댓글은 이력으로 저장하지 않습니다." : {
+    "en" : "History is stored for 1 year, and changes in page order/comments are not saved as history.",
+    "ja" : "履歴は1年間保管されますが、ページの並び替えやコメントは履歴に保存されません。",
+    "vi" : "Lịch sử được lưu trong vòng 1 năm và các thay đổi về thứ tự trang/bình luận không được lưu lại như lịch sử.",
+    "zh" : "历史记录将保留一年，页面顺序更改/评论将不会保存在历史记录中。"
+  },
+  "트리" : {
+    "en" : "Tree",
+    "ja" : "ツリー",
+    "vi" : "Cây thư mục",
+    "zh" : "树"
+  },
+  "현재 내용을 저장 후 공동편집 모드로 전환 하시겠습니까?" : {
+    "en" : "Would you like to save the current content and switch to co-editing mode?",
+    "ja" : "現在の内容を保存した後、共同編集モードに切り替えますか？",
+    "vi" : "Bạn có muốn lưu nội dung hiện tại và chuyển sang chế độ chỉnh sửa chung không?",
+    "zh" : "您要保存当前内容并切换到共同编辑模式吗？"
+  },
+  "반려 할 목록을 선택 해주세요." : {
+    "en" : "Please select the list to reject.",
+    "ja" : "却下する項目を選択してください。",
+    "vi" : "Vui lòng chọn danh sách để từ chối.",
+    "zh" : "请选择要拒绝的列表。"
+  },
+  "관계사" : {
+    "en" : "Related company",
+    "ja" : "関連会社",
+    "vi" : "Công ty thành viên",
+    "zh" : "有关公司"
+  },
+  "편집 초대 및 알림을 발송합니다. 초대하시겠습니까?" : {
+    "en" : "Edit invitations and notifications will be sent. Would you like to invite?",
+    "ja" : "編集招待と通知を送信します。招待しますか？",
+    "vi" : "Gửi thông báo và lời mời chỉnh sửa. Bạn có muốn gửi lời mời không?",
+    "zh" : "发送编辑邀请和通知。要邀请吗？"
+  },
+  "하위 {0}건 포함하여 페이지 삭제 요청을 했습니다." : {
+    "en" : "I have requested the deletion of {0} pages, including subpages.",
+    "ja" : "下位の{0}件を含むページ削除のリクエストを行いました。",
+    "vi" : "Tôi đã yêu cầu xóa {0} trang, bao gồm các trang con.",
+    "zh" : "请求删除页面，包括{0}个子页面。"
+  },
+  "가져오기" : {
+    "en" : "Import",
+    "ja" : "取得する",
+    "vi" : "Nhập",
+    "zh" : "导入"
+  },
+  "양식 제목" : {
+    "en" : "Form title",
+    "ja" : "フォーマットタイトル",
+    "vi" : "Tiêu đề biểu mẫu",
+    "zh" : "表单标题"
+  },
+  "개인 위키" : {
+    "en" : "Personal wiki",
+    "ja" : "個人Wiki",
+    "vi" : "Wiki cá nhân",
+    "zh" : "个人维基"
+  }
+}

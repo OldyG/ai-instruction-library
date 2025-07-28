@@ -1,0 +1,3014 @@
+{
+  "크게보기" : {
+    "en" : "Zoom In",
+    "ja" : "大きく表示",
+    "vi" : "Phóng to",
+    "zh" : "发大表示"
+  },
+  "아래쪽지" : {
+    "en" : "Below Note",
+    "ja" : "下のメッセージ",
+    "vi" : "Dưới",
+    "zh" : "下纸条"
+  },
+  "받는 사람" : {
+    "en" : "Recipient (To)",
+    "ja" : "宛先",
+    "vi" : "Người nhận",
+    "zh" : "收件人"
+  },
+  "조회" : {
+    "en" : "View",
+    "ja" : "照会",
+    "vi" : "Xem",
+    "zh" : "查询"
+  },
+  "선택한 쪽지함의 하위 쪽지함 위치를 변경합니다." : {
+    "en" : "Reposition the sub-notebox of the selected notebox.",
+    "ja" : "選択したメッセージBoxの位置を変更します。",
+    "vi" : "Thay đổi vị trí hộp lời nhắn dưới của hộp lời nhắn đã chọn.",
+    "zh" : "变更选择的纸条箱的下位纸条箱的位置。"
+  },
+  "기본 용량" : {
+    "en" : "Default storage",
+    "ja" : "基本容量",
+    "vi" : "Dung lượng mặc định",
+    "zh" : "基本用量"
+  },
+  "저장하였습니다." : {
+    "en" : "Successfully saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu",
+    "zh" : "已存储。"
+  },
+  "환경설정 정보를 셋팅해주세요." : {
+    "en" : "Please set up your preferences.",
+    "ja" : "環境設定情報を設定してください。",
+    "vi" : "Hãy cài đặt thông tin cài đặt môi trường",
+    "zh" : "请安排环境设定信息。"
+  },
+  "업무보고" : {
+    "en" : "Report Task",
+    "ja" : "業務報告",
+    "vi" : "Báo cáo",
+    "zh" : "业务报告"
+  },
+  "예약 날짜와 시간을 모두 입력해주세요." : {
+    "en" : "Please enter both the scheduled date and time.",
+    "ja" : "予約日と時間を全て入力してください。",
+    "vi" : "Hãy nhập ngày và giờ hẹn",
+    "zh" : "这两个计划的日期和时间请输入。"
+  },
+  "백업대상 쪽지가 없습니다." : {
+    "en" : "No messages to backup.",
+    "ja" : "バックアップ対象のメッセージがありません。",
+    "vi" : "Không có lời nhắn nào để sao lưu.",
+    "zh" : "没有备份对象的纸条。"
+  },
+  "영구보관함 현 사용량" : {
+    "en" : "Archive - used space",
+    "ja" : "永久保存Boxの現在使容量",
+    "vi" : "Dung lượng sử dụng hiện tại của hộp lưu giữ vĩnh viễn",
+    "zh" : "永久保管箱现在使用量"
+  },
+  "본문 미리보기" : {
+    "en" : "Preview Content",
+    "ja" : "本文のプレビュー",
+    "vi" : "Xem trước nội dung chính",
+    "zh" : "预览本文"
+  },
+  "별표" : {
+    "en" : "Star",
+    "ja" : "スター",
+    "vi" : "Dấu sao",
+    "zh" : "星号"
+  },
+  "자원예약" : {
+    "en" : "Resource booking",
+    "ja" : "資源予約",
+    "vi" : "Đặt trước tài nguyên",
+    "zh" : "预约资源"
+  },
+  "숨은참조 보이기" : {
+    "en" : "Show Bcc",
+    "ja" : "Bcc表示",
+    "vi" : "Hiện người tham chiếu ẩn",
+    "zh" : "打开隐藏参照"
+  },
+  "쪽지가 도착했습니다." : {
+    "en" : "A message has arrived.",
+    "ja" : "メッセージが届きました。",
+    "vi" : "Có tin nhắn đến.",
+    "zh" : "便条到了。"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "搜索"
+  },
+  "선택 쪽지를" : {
+    "en" : "Selected message",
+    "ja" : "選択メッセージを",
+    "vi" : "Lời nhắn được chọn",
+    "zh" : "选择的纸条"
+  },
+  "상세보기" : {
+    "en" : "See Details",
+    "ja" : "詳細表示",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细看"
+  },
+  "읽음표시" : {
+    "en" : "Mark as read",
+    "ja" : "開封済みにする",
+    "vi" : "Đánh dấu đã đọc",
+    "zh" : "表示为已读"
+  },
+  "쪽지 기본용량 사용자" : {
+    "en" : "Message Default Storage User",
+    "ja" : "メッセージ基本容量ユーザー",
+    "vi" : "Dung lượng lời nhắn mặc định người dùng",
+    "zh" : "纸条基本用量使用者"
+  },
+  "개" : {
+    "en" : "messages",
+    "ja" : "個",
+    "vi" : "lời nhắn",
+    "zh" : "个"
+  },
+  "{0}에 저장된 쪽지는 <span>3개월 보관 후 자동 삭제</span>됩니다." : {
+    "en" : "Messages saved in {0} will be <span>automatically deleted after 3 months.</span>",
+    "ja" : "{0}に保存されているメッセージは<span>3ヶ月後に自動削除</span>されます。",
+    "vi" : "Lời nhắn được lưu trên {0} sẽ được lưu giữ trong vòng 3 tháng, sau đó được xóa tự động </span>.",
+    "zh" : "{0}上保存的纸条保管在 <span>3个月以后自动删除</span>。"
+  },
+  "{0} 등록하지 않은 직책명입니다." : {
+    "en" : "{0} is not a registered duty",
+    "ja" : "{0} 登録されていない役職名です。",
+    "vi" : "Đây là tên chức trách chưa đăng ký {0}",
+    "zh" : "{0} 没有登录的职责名。"
+  },
+  "현재 쪽지 사용량이 할당량의 {0}%를 초과했습니다." : {
+    "en" : "The current message usage have exceeded {0}% of the allocated capacity.",
+    "ja" : "現在メッセージの使用量が{0}%を超えました。",
+    "vi" : "Dung lượng lời nhắn hiện tại đã vượt quá {0}% giới hạn dung lượng.",
+    "zh" : "现在纸条使用量超过了分配量的 {0}%。"
+  },
+  "비우기" : {
+    "en" : "Empty",
+    "ja" : "空にする",
+    "vi" : "Xóa",
+    "zh" : "清空"
+  },
+  "접기" : {
+    "en" : "Fold",
+    "ja" : "閉じる",
+    "vi" : "Ẩn",
+    "zh" : "折叠"
+  },
+  "쪽지함의 백업은 쪽지함의 쪽지수에 따라 다소 시간이 걸릴 수 있습니다." : {
+    "en" : "Backing up a messagebox may take some time according to the number of messages in the messagebox.",
+    "ja" : "メッセージBoxのバックアップはメッセージ件数によって多少時間がかかります。",
+    "vi" : "Việc sao lưu hộp lời nhắn có sự khác biệt về thời gian tùy theo số lời nhắn ở hộp lời nhắn.",
+    "zh" : "纸条箱的备份按照纸条数量会需要稍微时间。"
+  },
+  "임시저장하였습니다." : {
+    "en" : "It has been saved in the Temporary Storage.",
+    "ja" : "下書き保存しました。",
+    "vi" : "Đã lưu tạm thời",
+    "zh" : "临时保存完了。"
+  },
+  "{0} 등록하지 않은 직위명입니다." : {
+    "en" : "{0} is not a registered position.",
+    "ja" : "{0} 登録されていない職位名です。",
+    "vi" : "Đây là tên chức vụ chưa đăng ký {0}",
+    "zh" : "{0}没有登录的职位名。"
+  },
+  "전체 쪽지" : {
+    "en" : "All Messages",
+    "ja" : "全体メッセージ",
+    "vi" : "Toàn bộ lời nhắn",
+    "zh" : "全体纸条"
+  },
+  "개인환경설정" : {
+    "en" : "Personal Preferences",
+    "ja" : "個人環境設定",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "设定个人环境"
+  },
+  "첨부 이미지" : {
+    "en" : "Attached image",
+    "ja" : "画像添付",
+    "vi" : "Hình ảnh đính kèm",
+    "zh" : "附加形象"
+  },
+  "쪽지 읽기" : {
+    "en" : "Read Message",
+    "ja" : "メッセージを読む",
+    "vi" : "Đọc lời nhắn",
+    "zh" : "读纸条"
+  },
+  "쪽지함" : {
+    "en" : "Messagebox",
+    "ja" : "メッセージBox",
+    "vi" : "Hộp lời nhắn",
+    "zh" : "纸条箱"
+  },
+  "전체회수" : {
+    "en" : "Retrieve All",
+    "ja" : "全体回収",
+    "vi" : "Chọn toàn bộ",
+    "zh" : "全体回收"
+  },
+  "{0}외 {1}명" : {
+    "en" : "{0} & {1} people",
+    "ja" : "{0}の他{1}名",
+    "vi" : "{0} và {1} đối tượng khác",
+    "zh" : "{0}外{1}名"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境の設定",
+    "vi" : "Cài đặt môi trường mặc định",
+    "zh" : "基本环境设定"
+  },
+  "기본쪽지함은 수정할 수 없습니다." : {
+    "en" : "The default messagebox cannot be modified.",
+    "ja" : "基本メッセージBoxを選択してください。",
+    "vi" : "Không thể sửa hộp lời nhắn mặc định.",
+    "zh" : "基本纸条箱不可修改。"
+  },
+  "노포크 아일랜드" : {
+    "en" : "Norfolk Island",
+    "ja" : "ノーフォーク島",
+    "vi" : "Norfolk Ireland",
+    "zh" : "新民歌爱尔兰"
+  },
+  "안읽음" : {
+    "en" : "Unread",
+    "ja" : "未読",
+    "vi" : "Chưa đọc",
+    "zh" : "没有读"
+  },
+  "오늘 보낼 수 있는 최대 쪽지 개수를 초과했습니다." : {
+    "en" : "You have exceeded the maximum number of messages that you are allowed to send today.",
+    "ja" : "今日送信できる最大メッセージ件数を超過しました。",
+    "vi" : "Số lời nhắn có thể nhập hôm nay đã vượt quá số lượng có thể gửi hôm nay.",
+    "zh" : "已经超过了、今日可以发送的最多纸条数量。"
+  },
+  "작업" : {
+    "en" : "Task",
+    "ja" : "メニュー",
+    "vi" : "Menu",
+    "zh" : "项目"
+  },
+  "쪽지가 존재하지 않습니다. 새로고침후 다시 시도해주세요." : {
+    "en" : "The message does not exist. Please refresh the page and try again.",
+    "ja" : "メッセージが存在しません。リロード後、もう一度お試しください。",
+    "vi" : "Lời nhắn không tồn tại. Làm mới và thử lại.",
+    "zh" : "不存在纸条。请刷新后再试试。"
+  },
+  "읽은 전달 쪽지" : {
+    "en" : "Forwarded Messages (Read)",
+    "ja" : "既読転送メッセージ",
+    "vi" : "Đọc ghi chú chuyển tiếp",
+    "zh" : "读过的传达纸条"
+  },
+  "퇴사자에게는 쪽지를 발송할 수 없습니다." : {
+    "en" : "You cannot send a message to the people who already resigned.",
+    "ja" : "退社者にはメッセージを送信することができません。",
+    "vi" : "Bạn không thể gửi lời nhắn tới người nghỉ việc.",
+    "zh" : "给辞职人不可发送纸条。"
+  },
+  "확인안함" : {
+    "en" : "Not read",
+    "ja" : "未確認",
+    "vi" : "Chưa đọc",
+    "zh" : "没有确认"
+  },
+  "주소를 입력하세요." : {
+    "en" : "Enter an e-mail address.",
+    "ja" : "アドレスを入力してください。",
+    "vi" : "Hãy nhập địa chỉ",
+    "zh" : "显示为已读状态"
+  },
+  "쪽지 비우는 방법" : {
+    "en" : "How to empty your messagebox",
+    "ja" : "メッセージBoxを空にする方法",
+    "vi" : "Phương pháp làm trống lời nhắn",
+    "zh" : "空出纸条方法"
+  },
+  "쪽지함 이동" : {
+    "en" : "Move notebox",
+    "ja" : "メッセージBox移動",
+    "vi" : "Di chuyển hộp lời nhắn",
+    "zh" : "纸条箱移动"
+  },
+  "모두 선택" : {
+    "en" : "Select all",
+    "ja" : "すべて選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "지난시간을 선택해서 예약 발송 될 수 없습니다." : {
+    "en" : "You cannot schedule to send using the time already passed.",
+    "ja" : "過去の時間を選択すると、予約送信できません。",
+    "vi" : "Bạn không thể hẹn gửi thời gian đã trôi qua.",
+    "zh" : "您选择的时间已经过了。不能进行预约发送。"
+  },
+  "완전 삭제된 쪽지는 복원할 수 없습니다. 선택한 쪽지를 완전 삭제하시겠습니까?" : {
+    "en" : "Completely deleted messages cannot be restored ever again. Are you sure you want to completely delete the selected message?",
+    "ja" : "完全削除したメッセージは復元できません。選択したメッセージを完全削除しますか？",
+    "vi" : "Lời nhắn bị xóa hoàn toàn sẽ không thể khôi phục lại. Bạn có muốn xóa hoàn toàn lời nhắn đã chọn không?",
+    "zh" : "完全删除的纸条不可再恢复。您选泽的纸条要完全删除吗？"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "내게도 발송" : {
+    "en" : "Also send to myself",
+    "ja" : "自分にも送信",
+    "vi" : "Gửi cho cả tôi",
+    "zh" : "给我发送"
+  },
+  "안읽은 상태로 표시" : {
+    "en" : "Check all messages as unread",
+    "ja" : "未読にする",
+    "vi" : "Hiển thị trạng thái chưa đọc",
+    "zh" : "表示为未读状态"
+  },
+  "회수하시겠습니까?" : {
+    "en" : "Would you like to retrieve it?",
+    "ja" : "回収しますか？",
+    "vi" : "Bạn có muốn thu hồi không?",
+    "zh" : "要回收吗？"
+  },
+  "보관 하시겠습니까?" : {
+    "en" : "Do you want to archive it?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu giữ không?",
+    "zh" : "要保管吗？"
+  },
+  "보낼시간" : {
+    "en" : "Time to send",
+    "ja" : "送信する時間",
+    "vi" : "Thời gian để gửi",
+    "zh" : "得发送时间"
+  },
+  "{0} 등록하지 않은 회사입니다." : {
+    "en" : "{0} is not a registered company.",
+    "ja" : "{0} 登録されていない会社です。",
+    "vi" : "Đây là công ty chưa đăng ký {0}",
+    "zh" : "{0} 没有登录的公司。"
+  },
+  "미드웨이 아일랜드, 사모아" : {
+    "en" : "Midway Island, Samoa",
+    "ja" : "ミッドウェイ島、サモア",
+    "vi" : "Ireland, Samoa",
+    "zh" : "中途岛 爱尔兰，萨摩亚"
+  },
+  "받는사람 검색 시 검색어를 중괄호로 감싸면 부서명을 검색하고, 소괄호로 감싸면 회사명을 검색합니다." : {
+    "en" : "When you search for recipients, if you cover the name with a bracket, the program will search for department name. If you cover it with a parentheses, it will search for company name.",
+    "ja" : "受信者の検索時、検索ワードを中括弧で囲むと部署名の検索になり、小括弧で囲むと会社名の検索になります。",
+    "vi" : "Khi tìm kiếm người nhận, nếu đặt từ khóa tìm kiếm vào dấu ngoặc móc thì chương trình sẽ tìm kiếm tên bộ phận, nếu đặt vào dấu ngoặc đơn, nó sẽ tìm kiếm tên công ty.",
+    "zh" : "搜索收件人时关键词利用中括号的话搜索部门名，利用小括号的话搜索公司名。"
+  },
+  "최대 첨부용량은 1024MB 입니다." : {
+    "en" : "The maximum attachment size limit is 1024MB.",
+    "ja" : "最大添付容量は1024MBです。",
+    "vi" : "Giới hạn kích thước file đính kèm tối đa là 1024MB.",
+    "zh" : "最多附加用量是1024MB。"
+  },
+  "쪽지개수" : {
+    "en" : "Total No. of messages",
+    "ja" : "メッセージ件数",
+    "vi" : "Số lời nhắn",
+    "zh" : "纸条个数"
+  },
+  "사내쪽지" : {
+    "en" : "In-house messaging",
+    "ja" : "社内メッセージ",
+    "vi" : "Tin nhắn nội bộ",
+    "zh" : "公司内纸条"
+  },
+  "안읽은 사용자" : {
+    "en" : "Unread user",
+    "ja" : "未読ユーザー",
+    "vi" : "Người dùng chưa đọc",
+    "zh" : "没读使用者"
+  },
+  "{0} 등록하지 않은 사용자입니다." : {
+    "en" : "{0} is not a registered user.",
+    "ja" : "{0} 登録されていないユーザーです。",
+    "vi" : "Đây là người dùng chưa đăng ký {0}",
+    "zh" : "{0} 没有登录的使用者。"
+  },
+  "받은쪽지, 보낸쪽지함에서 보관 기간이 지난 쪽지는 자동으로 완전삭제됩니다." : {
+    "en" : "Expired messages in your Sent Messages & Inbox will be automatically deleted.",
+    "ja" : "受信メッセージ・送信メッセージBoxから保管期間が過ぎたメッセージは自動的に完全削除されます。",
+    "vi" : "Lời nhắn đã quá thời gian lưu giữ trong hộp lời nhắn nhận/ gửi sẽ được di chuyển sang hộp xóa.",
+    "zh" : "在接受的纸条，发送的纸条经过保管期间的过去纸条会自动完全删除。"
+  },
+  "보관할 쪽지가 없습니다." : {
+    "en" : "There are no notes to keep.",
+    "ja" : "保管するメッセージがありません。",
+    "vi" : "Không có lởi nhắn để lưu giữ",
+    "zh" : "没有要保管的纸条。"
+  },
+  "보낸쪽지함" : {
+    "en" : "Sent Messages",
+    "ja" : "メッセージ送信Box",
+    "vi" : "Hộp lời nhắn đã gửi",
+    "zh" : "发送纸条箱"
+  },
+  "자동 삭제 설정" : {
+    "en" : "Settings (Auto-delete)",
+    "ja" : "自動削除の設定",
+    "vi" : "Cài đặt xóa tự động",
+    "zh" : "设定自动删除"
+  },
+  "쪽지함의 남은 용량이 없으면 쪽지 수신 혹은 발신이 제한될 수 있으니, 쪽지를 삭제하여 쪽지함의 용량을 일정량 비워주세요." : {
+    "en" : "When the messagebox is full, you cannot send or receive any messages. Make sure to delete unimportant messages to create some room in your messagebox.",
+    "ja" : "メッセージBoxの容量が足りない場合、メッセージの送受信が制限されることがありますので、メッセージを削除してメッセージBoxの容量を確保してください。",
+    "vi" : "Dung lượng còn lại của hộp lời nhắn đã hết nên việc nhận/ gửi lời nhắn sẽ bị hạn chế. Hãy xóa lời nhắn và làm trống dung lượng của hộp lời nhắn.",
+    "zh" : "纸条箱里没有剩下的用量的话纸条收发信会有限制，请删除一些纸条而空出纸条箱的用量。"
+  },
+  "쪽지 읽기 창" : {
+    "en" : "Read Message' Window",
+    "ja" : "メッセージ読み込みウィンドウ",
+    "vi" : "Trang đọc lời nhắn",
+    "zh" : "纸条读窗"
+  },
+  "사이드 메뉴 열기" : {
+    "en" : "Open Side Menu (Sidebar)",
+    "ja" : "サイドメニューを開く",
+    "vi" : "Mở side menu",
+    "zh" : "打开边线菜单"
+  },
+  "수정하시겠습니까?" : {
+    "en" : "Do you want to modify it?",
+    "ja" : "修正しますか？",
+    "vi" : "Bạn có muốn sửa không?",
+    "zh" : "要进行修改吗？"
+  },
+  "보관 기간" : {
+    "en" : "Retention period",
+    "ja" : "保管期間",
+    "vi" : "Thời gian lưu",
+    "zh" : "保管期间"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "남은용량" : {
+    "en" : "Remaining space",
+    "ja" : "残り容量",
+    "vi" : "Dung lượng còn lại",
+    "zh" : "剩下的用量"
+  },
+  "쪽지 기본용량 예외자" : {
+    "en" : "Exceptions from Default Storage Capacity",
+    "ja" : "メッセージ基本容量例外者",
+    "vi" : "Dung lượng lời nhắn mặc định ngoại lệ",
+    "zh" : "纸条基本用量例外者"
+  },
+  "받은 쪽지는 {0} 동안 보관후 자동 삭제 됩니다." : {
+    "en" : "Received notes are automatically deleted after {0} days.",
+    "ja" : "受信メッセージは、{0}間保管後、自動的に削除されます。",
+    "vi" : "Lời nhắn đã nhận sẽ được lưu giữ trong vòng {0} và bị xóa tự động.",
+    "zh" : "受到的纸条保管{0}后会自动被删除。"
+  },
+  "링크 설정" : {
+    "en" : "Settings (Link)",
+    "ja" : "リンク設定",
+    "vi" : "Cài đặt liên kết",
+    "zh" : "链接设定"
+  },
+  "문서관리" : {
+    "en" : "Document Management",
+    "ja" : "文書管理",
+    "vi" : "tài liệu",
+    "zh" : "管理文件"
+  },
+  "{0}에 저장된 쪽지는 영구 보존됩니다." : {
+    "en" : "Messages stored in {0} will be kept permanently.",
+    "ja" : "{0}に保存されているメッセージは永久保存されます。",
+    "vi" : "Lời nhắn được lưu trên {0} sẽ được lưu giữ vĩnh viễn.",
+    "zh" : "{0}上保存的纸条会永久保存。"
+  },
+  "첨부용량이 기본용량보다 클 수 없습니다." : {
+    "en" : "The attachment size cannot be larger than the default size limit.",
+    "ja" : "添付容量は基本容量よりも大きくできません。",
+    "vi" : "Kích thước file đính kèm không thể lớn hơn giới hạn kích thước mặc định.",
+    "zh" : "附加用量不可大于基本用量。"
+  },
+  "받은 쪽지 화면에서 알림 쪽지를 표시 합니다. 사용안함으로 설정될 경우 받은 쪽지만 표시" : {
+    "en" : "Show notification notes on the Inbox page. If you select 'Not use', only received notes will be seen.",
+    "ja" : "受信メッセージの画面に通知メッセージを表記します。使用しないに設定する場合は受信メッセージのみ表記",
+    "vi" : "Hiển thị lời nhắn thông báo ở màn hình lời nhắn đã nhận. Trường hơp cài đặt là không sử dụng thì chỉ hiển thị lời nhắn đã nhận.",
+    "zh" : "在接受的纸条画面上表示提醒纸条。设定为不使用的话只表示接受的纸条。"
+  },
+  "일부가 수신한 쪽지" : {
+    "en" : "Read by a part of the receivers",
+    "ja" : "一部が受信したメッセージ",
+    "vi" : "Một phần lời nhắn đã nhận",
+    "zh" : "有一部分人收信的纸条"
+  },
+  "보낸 사람" : {
+    "en" : "Sender",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "기간선택 삭제" : {
+    "en" : "Delete All Messages (between a certain time period)",
+    "ja" : "期間選択の削除",
+    "vi" : "Xóa lựa chọn khoảng thời gian",
+    "zh" : "删除期间选择"
+  },
+  "알림쪽지 중복표기 설정" : {
+    "en" : "Configure Notification Overlapping Message",
+    "ja" : "通知メッセージ重複表記設定",
+    "vi" : "Cài đặt ký hiệu trùng lặp tin thông báo",
+    "zh" : "设置提醒纸条重复显示"
+  },
+  "개인 쪽지함" : {
+    "en" : "Personal Messagebox",
+    "ja" : "個人メッセージ",
+    "vi" : "Hộp lời nhắn cá nhân",
+    "zh" : "个人纸条箱"
+  },
+  "선택한 쪽지함으로 보관합니다." : {
+    "en" : "Send & Store in the selected messagebox.",
+    "ja" : "選択されたメッセージBoxに保管します。",
+    "vi" : "Lưu giữ như hộp lời nhắn đã chọn",
+    "zh" : "保管为选择的纸条箱。"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "수정하였습니다." : {
+    "en" : "Successfully modified.",
+    "ja" : "修正しました。",
+    "vi" : "Đã sửa.",
+    "zh" : "修改了。"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "보관취소" : {
+    "en" : "Unarchive",
+    "ja" : "保管をキャンセル",
+    "vi" : "Hủy lưu trữ",
+    "zh" : "取消保管"
+  },
+  "영어 대소문자,숫자(0-9),한글,_(언더바),-(대시)만 사용할 수 있습니다." : {
+    "en" : "You can use English uppercase and lowercase alphabet characters, numbers (0-9),Korean characters,_(underscore) and -(dash) only.",
+    "ja" : "英語の大文字と小文字、数字（0～9）、ハングル、_（アンダーバー）、-（ハイフン）のみを使用することができます。",
+    "vi" : "Chỉ có thể sử dụng ký tự tiếng Anh viết hoa viết thường, số (0-9), tiếng Hàn, _ gạch dưới, - (gạch ngang).",
+    "zh" : "只能使用英文大小文字,数字(0-9),韩文,_(underbar),-(dash)."
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다. 이페이지에서 벗어나시겠습니까?" : {
+    "en" : "You will lose all progress. Are you sure you want to leave this page?",
+    "ja" : "現在作成中の内容がすべて削除されます。このページを閉じますか？",
+    "vi" : "Nội dung đang viết hiện tại sẽ bị xóa tất cả. Bạn có muốn thoát khỏi trang này không?",
+    "zh" : "现在制作中的内容会被全部删除。要离开这个网页吗？"
+  },
+  "사용자 설정" : {
+    "en" : "User setting",
+    "ja" : "ユーザー設定",
+    "vi" : "Cài đặt người dùng",
+    "zh" : "设定使用者"
+  },
+  "쪽지 용량이 초과되어 쪽지를 작성할 수 없습니다. \\n쪽지 용량을 확보하기 위해 [사용자 설정>쪽지함관리]에서 필요없는 쪽지를 삭제 또는 백업후 삭제하세요." : {
+    "en" : "You cannot write a message because the messagebox is full. \\nDelete unimportant messages (after backing up) in [User Settings > Manage Messagebox] to make room in your messagebox.",
+    "ja" : "メッセージ容量超過の為、メッセージの作成が出来ません。\\nメッセージ容量を確保する為に、[ユーザー設定>メッセージ箱管理]で不要なメッセージを削除してください。",
+    "vi" : "Dung lượng lời nhắn đã vượt quá nên không thể viết lời nhắn. Để kiểm tra dung lượng lời nhắn, hãy xóa lời nhắn không cần thiết trong [ Cài đặt người dùng> Quản lý hộp lời nhắn> hoặc sao lưu để xóa",
+    "zh" : "超过了纸条用量而不可写纸条。\\n为了确保纸条用量在[使用者设定〉纸条箱管理]删除或备份不需要的纸条后进行删除。"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "キャンセル",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "모두 수신한 쪽지" : {
+    "en" : "Read by all receivers",
+    "ja" : "全員が受信したメッセージ",
+    "vi" : "Tất cả lời nhắn đã nhận",
+    "zh" : "全部收信的纸条"
+  },
+  "이 모든 사람을" : {
+    "en" : "All people",
+    "ja" : "このすべての人を",
+    "vi" : "Tất cả những người này",
+    "zh" : "把这些人"
+  },
+  "그룹웨어 전체 남은 할당 용량보다 값이 큽니다. \\n 그룹웨어 남은 할당 용량 : {0} GB" : {
+    "en" : "The value is larger than the remaining quota for Groupware. \\n Remaining quota for Groupware : {0} GB",
+    "ja" : "グループウェア全体の残りの割当て容量よりも値が大きいです。 \\ nグループウェア残りの割当て容量：{0} GB",
+    "vi" : "Giá trị bạn chọn đã lớn hơn mức giới hạn còn lại dành cho Groupware. \\n Dung lượng còn lại cho Groupware : {0} GB",
+    "zh" : "比群件全体剩下用量更大。\\n 群件剩下用量 : {0} GB"
+  },
+  "보낸 알림 쪽지" : {
+    "en" : "Sent Notification Messages",
+    "ja" : "送信通知メッセージ",
+    "vi" : "Ghi chú thông báo đã gửi",
+    "zh" : "发送的提醒纸条"
+  },
+  "모두 읽은상태로 표시" : {
+    "en" : "Mark all as read",
+    "ja" : "すべて既読にする",
+    "vi" : "Hiển thị bằng trạng thái đã đọc tất cả",
+    "zh" : "表示为全部读完"
+  },
+  "사용자의 쪽지 용량 초과시 수신 허용 여부" : {
+    "en" : "Allow incoming messages even when the message storage is full.",
+    "ja" : "ユーザーメッセージの容量が超過時、受信許可の可否",
+    "vi" : "Khi vượt quá dung lượng lời nhắn của người dùng thì sẽ cho phép hỏi có nhận hay không.",
+    "zh" : "超过使用者的纸条用量时是否允许收信。"
+  },
+  "사용자의 쪽지 용량을 관리합니다." : {
+    "en" : "Manage the capacity of the user's messagebox.",
+    "ja" : "ユーザーのメッセージ容量を管理します。",
+    "vi" : "Quản lý dung lượng lời nhắn của người dùng",
+    "zh" : "管理使用者的纸条用量。"
+  },
+  "쪽지수" : {
+    "en" : "Total No. of Messages",
+    "ja" : "メッセージ件数",
+    "vi" : "Số lời nhắn",
+    "zh" : "纸条数"
+  },
+  "수신 확인" : {
+    "en" : "Check Receipt Status",
+    "ja" : "受信確認",
+    "vi" : "Kiểm tra nhận",
+    "zh" : "确认收信"
+  },
+  "쪽지 첫 화면" : {
+    "en" : "Main Page (Message)",
+    "ja" : "メッセージの最初の画面",
+    "vi" : "Màn hình đầu tiên của lời nhắn",
+    "zh" : "纸条第一画面"
+  },
+  "인쇄할 글을 선택하세요." : {
+    "en" : "Select a message you want to print.",
+    "ja" : "印刷する記事を選択してください。",
+    "vi" : "Hãy chọn lời nhắn để in.",
+    "zh" : "请选择要打印的文章。"
+  },
+  "삭제함" : {
+    "en" : "Deleted (Trash Bin)",
+    "ja" : "削除",
+    "vi" : "Đã xóa",
+    "zh" : "删除箱"
+  },
+  "제목은 공백 포함 {0} 글자 이하여야 합니다." : {
+    "en" : "The title should be less than {0} characters , including spaces .",
+    "ja" : "タイトルは空白を含め {0} 文字以下でなければなりません。",
+    "vi" : "Tiêu đề phải dưới {0} ký tự bao gồm cả dấu cách.",
+    "zh" : "标题应小于 {0}个字符，包括空格。"
+  },
+  "안 읽은 상태로 변경할 쪽지를 선택하세요." : {
+    "en" : "Please select the note you want to mark as unread.",
+    "ja" : "未読に変更するメッセージを選択してください。",
+    "vi" : "Hãy chọn lời nhắn để thay đổi sang trạng thái chưa đọc.",
+    "zh" : "请选择要变更为没读的纸条。"
+  },
+  "임시저장" : {
+    "en" : "Save draft",
+    "ja" : "下書きの保存",
+    "vi" : "Lưu tạm thời",
+    "zh" : "临时保存"
+  },
+  "기본 쪽지함" : {
+    "en" : "Default Messagebox",
+    "ja" : "基本メッセージBox",
+    "vi" : "Hộp lời nhắn mặc định",
+    "zh" : "基本纸条箱"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "PC저장" : {
+    "en" : "Save on PC",
+    "ja" : "PC保存",
+    "vi" : "Lưu PC",
+    "zh" : "电脑上保存"
+  },
+  "검색선택의 종료일자를 입력해주세요." : {
+    "en" : "Enter a finish date of the search period.",
+    "ja" : "検索選択の終了日付を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc của khoảng thời gian tìm kiếm",
+    "zh" : "请输入搜索选择的结束日子。"
+  },
+  "사용용량" : {
+    "en" : "Used Space",
+    "ja" : "使用容量",
+    "vi" : "Dung lượng sử dụng",
+    "zh" : "使用用量"
+  },
+  "예약 발송" : {
+    "en" : "Schedule Send",
+    "ja" : "予約送信",
+    "vi" : "Hẹn để gửi",
+    "zh" : "订单出货"
+  },
+  "최근1주" : {
+    "en" : "Last 1 week",
+    "ja" : "最近1週",
+    "vi" : "1 tuần gần đây",
+    "zh" : "最近1周"
+  },
+  "임시저장후 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it after saving temporarily (draft)?",
+    "ja" : "下書きの保存後、削除しますか？",
+    "vi" : "Bạn có muốn lưu tạm thời không?",
+    "zh" : "要临时保存后进行删除吗？"
+  },
+  "보낸 쪽지는 {0} 동안 보관후 자동 삭제 됩니다." : {
+    "en" : "Sent notes are automatically deleted after {0} days.",
+    "ja" : "送信メッセージは、{0}間保管後、自動的に削除されます。",
+    "vi" : "Lời nhắn đã gửi sẽ được lưu giữ trong vòng {0} và bị xóa tự động.",
+    "zh" : "发送的纸条保管{0}后会自动被删除。"
+  },
+  "숨은 참조" : {
+    "en" : "BCC",
+    "ja" : "Bcc",
+    "vi" : "Người tham chiếu ẩn",
+    "zh" : "隐藏参照"
+  },
+  "첨부파일명" : {
+    "en" : "Attachment Name",
+    "ja" : "添付ファイル名",
+    "vi" : "Tên file đính kèm",
+    "zh" : "附件名"
+  },
+  "쪽지 용량 초과 알림" : {
+    "en" : "Notify when the note storage is full.",
+    "ja" : "メッセージ容量の超過通知",
+    "vi" : "Thông báo quá dung lượng lời nhắn",
+    "zh" : "提醒纸条用量超过"
+  },
+  "별표하기" : {
+    "en" : "Add star mark",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "사용자의  쪽지 영구보관함 남은 용량이 부족합니다. 관리자에게 문의하세요." : {
+    "en" : "Not enough space in the Permanent Storage. Please contact the admin.",
+    "ja" : "ユーザーのメッセージ永久保存Boxの残り容量が不足しています。管理者にお問い合わせください。",
+    "vi" : "Thiếu dung lượng còn lại trong hộp lưu giữ vĩnh viễn lời nhắn của người dùng. Hãy liên hệ với người quản lý.",
+    "zh" : "使用者的纸条永久保管箱剩下的用量不够、请向管理者咨询。"
+  },
+  "쪽지 전체용량" : {
+    "en" : "Total space",
+    "ja" : "メッセージ全体容量",
+    "vi" : "Toàn bộ dung lượng lời nhắn",
+    "zh" : "纸条全体用量"
+  },
+  "이름, {부서명 또는 회사명} %사용자그룹% $직책$ #직위# 입력" : {
+    "en" : "Enter name, {Department} or (Company),%User Group%,$Job duty$,#Job position#",
+    "ja" : "名前、{部署名}または(会社名)、％利用者グループ％,$役職$,＃職位＃入力",
+    "vi" : "nhập tên, {tên bộ phận} hoặc {tên công ty} %nhóm người dùng% $chức trách$ #chức vụ#",
+    "zh" : "名字， {部门名}或者 (公司名) ,%使用者组织%,$职责$,#职位# 输入"
+  },
+  "다음" : {
+    "en" : "Next",
+    "ja" : "次",
+    "vi" : "Tiếp theo",
+    "zh" : "以后"
+  },
+  "읽은 사용자" : {
+    "en" : "Read user",
+    "ja" : "既読ユーザー",
+    "vi" : "Người dùng đã đọc",
+    "zh" : "已读使用者"
+  },
+  "검색결과" : {
+    "en" : "Search Results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "남은 용량이 부족합니다. 다시 입력하세요." : {
+    "en" : "Not enough space. Please enter again.",
+    "ja" : "残り容量が不足しています。もう一度入力してください。",
+    "vi" : "Thiếu dung lượng còn lại. Xin hãy nhập lại.",
+    "zh" : "剩下的用量不够。请再输入。"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator Setting",
+    "ja" : "管理者設定",
+    "vi" : "Thiết lập quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "실사용량" : {
+    "en" : "Used space",
+    "ja" : "実使用量",
+    "vi" : "Dung lượng sử dụng thực tế",
+    "zh" : "实际使用量"
+  },
+  "상세정보 접기/펴기" : {
+    "en" : "Details Fold/Unfold",
+    "ja" : "詳細情報を閉じる/開く",
+    "vi" : "Đóng/ Mở thông tin chi tiết",
+    "zh" : "详细信息折叠/打开"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다.\\n\\n현재 내용을 저장하시려면 취소 후  화면 상단의 임시저장 버튼을 눌러 내용을 저장하십시오." : {
+    "en" : "All progress will be lost.\\n\\nIf you wish to save your current progress, click the Cancel button. Then, save your draft by clicking on the 'Save Draft' button above.",
+    "ja" : "現在作成中の内容が全部削除されます。\\n\\n内容を保存するためには、キャンセル後に画面上部の下書きの保存ボタンをクリックすると、内容が保存されます。",
+    "vi" : "Lời nhắn đang viết giờ sẽ bị mất. \\n\\nNếu bạn muốn lưu lời nhắn hiện tại, hãy nhấp vào nút Hủy, sau đó bạn lưu bản thảo của mình bằng cách nhấp vào nút Lưu bản thảo.",
+    "zh" : "现在进行中的所有内容会删除。\\n\\n要保存现在内容的话取消后请按画面上部的临时保存钮扣进行保存内容。"
+  },
+  "백업이 필요한 경우" : {
+    "en" : "If you need to back up",
+    "ja" : "バックアップが必要な場合",
+    "vi" : "Nếu bạn cần tiến hành sao lưu",
+    "zh" : "需要的备份的话"
+  },
+  "회수" : {
+    "en" : "Retrieve",
+    "ja" : "回収",
+    "vi" : "Thu hồi",
+    "zh" : "回收"
+  },
+  "삭제" : {
+    "en" : "DELETE",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter a keyword.",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ khóa tìm kiếm.",
+    "zh" : "请输入搜索语。"
+  },
+  "쪽지 쓰기" : {
+    "en" : "New",
+    "ja" : "メッセージ作成",
+    "vi" : "Viết lời nhắn",
+    "zh" : "写纸条"
+  },
+  "쪽지 용량이 {0}%를 초과했습니다." : {
+    "en" : "The note capacity has exceeded {0}%.",
+    "ja" : "メッセージ容量が{0}％を超えました。",
+    "vi" : "Dung lượng ghi chú đã vượt quá {0}%.",
+    "zh" : "便条容量超过{0}%。"
+  },
+  "삭제하였습니다." : {
+    "en" : "Successfully deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đã xóa.",
+    "zh" : "删除完了。"
+  },
+  "사용자지정" : {
+    "en" : "Add users",
+    "ja" : "利用者指定",
+    "vi" : "Chỉ định người dùng",
+    "zh" : "使用者指定"
+  },
+  "남는용량" : {
+    "en" : "Remaining space",
+    "ja" : "残り容量",
+    "vi" : "Dung lượng còn lại",
+    "zh" : "剩下的用量"
+  },
+  "관리자 퇴사 알림" : {
+    "en" : "Notify when the administrator resigns",
+    "ja" : "管理者退社通知",
+    "vi" : "Thông báo khi quản trị viên từ chức",
+    "zh" : "提醒管理者辞职"
+  },
+  "기본용량을 할당받은 전체 사용자들의 기본용량이 일괄적으로 변경됩니다. 변경하시겠습니까?" : {
+    "en" : "The default space allocated to all users will be changed at once. Are you sure you want to change it?",
+    "ja" : "基本容量を割当された全体ユーザーの基本容量が一括変更されます。変更しますか？",
+    "vi" : "Dung lượng mặc định của toàn bộ người dùng được thay đổi một cách nhất quán. Bạn có muốn thay đổi không?",
+    "zh" : "分配基本用量的全体使用者的基本用量会变更。要进行变更吗？"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "보내기" : {
+    "en" : "Send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "모든 사용자" : {
+    "en" : "All users",
+    "ja" : "すべてのユーザー",
+    "vi" : "Tất cả người dùng",
+    "zh" : "所有使用者"
+  },
+  "쪽지메뉴에 할당된 전체용량입니다." : {
+    "en" : "The total space allocated to the message archive (by user)",
+    "ja" : "メッセージメニューに割当てられた全体容量です。",
+    "vi" : "Đây là toàn bộ dung lượng được phân bổ trên menu lời nhắn.",
+    "zh" : "纸条项目上分配的全体容量。"
+  },
+  "{0}개" : {
+    "en" : "{0} messages",
+    "ja" : "{0}個",
+    "vi" : "{0} lời nhắn",
+    "zh" : "{0}个"
+  },
+  "바로보내기" : {
+    "en" : "Send Immediately",
+    "ja" : "今すぐ送信",
+    "vi" : "Gửi ngay",
+    "zh" : "直接发送"
+  },
+  "보낸사람" : {
+    "en" : "Sender (From)",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "{{noteToCnt}}명중 {{readCnt}}명 읽음" : {
+    "en" : "{{readCnt}} of {{noteToCnt}} read",
+    "ja" : "{{noteToCnt}}人の内、{{readCnt}}人が既読",
+    "vi" : "Trong số {{noteToCnt}} người, có {{readCnt}} đã đọc.",
+    "zh" : "{{noteToCnt}}名中{{readCnt}}名读"
+  },
+  "모두 안읽음" : {
+    "en" : "Unread all",
+    "ja" : "すべて未開封",
+    "vi" : "Chưa đọc tất cả",
+    "zh" : "全部没读"
+  },
+  "{0}주일이 지난 쪽지" : {
+    "en" : "{0} weeks old",
+    "ja" : "{0}週が過ぎたメッセージ",
+    "vi" : "Lời nhắn đã quá {0} tuần",
+    "zh" : "已经过{1}个星期的纸条"
+  },
+  "예약발송" : {
+    "en" : "Schedule Send",
+    "ja" : "予約送信",
+    "vi" : "Hẹn để gửi",
+    "zh" : "预约发送"
+  },
+  "파일첨부" : {
+    "en" : "Attachment",
+    "ja" : "ファイル添付",
+    "vi" : "File đính kèm",
+    "zh" : "附件"
+  },
+  "허용(발송은 차단)" : {
+    "en" : "Allow (Do not allow 'sending' messages)",
+    "ja" : "許可(送信は遮断)",
+    "vi" : "cho phép (chặn gửi)",
+    "zh" : "允许（折断发送)"
+  },
+  "작게보기" : {
+    "en" : "Zoom Out",
+    "ja" : "小さく表示",
+    "vi" : "Thu nhỏ",
+    "zh" : "发小表示"
+  },
+  "쪽지 읽기 화면에서 보낸사람, 참조등 세부 내용을 표시합니다. 사용안함으로 설정될 경우 보낸사람만 표시" : {
+    "en" : "Show detailed information such as sender, CC, etc. at the 'Read Message' page. Show only the sender when you mark this option as 'Don't Use'.",
+    "ja" : "メッセージを読む画面に送信者、参照など詳細を表示します。使用しないに設定してある場合、送信者のみを表示",
+    "vi" : "Hiển thị nội dung chi tiết như người gửi, đính kèm trên màn hình đọc lời nhắn. Trường hợp cài đặt là không sử dụng thì chỉ biểu thị người gửi.",
+    "zh" : "在读纸条画面上表示发件人，参照等详细内容。设定为不使用的话只表示发件人"
+  },
+  "이 쪽지를" : {
+    "en" : "This message",
+    "ja" : "このメッセージを",
+    "vi" : "lời nhắn này",
+    "zh" : "把这个纸条"
+  },
+  "pc저장할 쪽지를 선택하세요." : {
+    "en" : "Please select a note you want to save on your computer.",
+    "ja" : "pc保存するメッセージを選択してください。",
+    "vi" : "Hãy chọn lời nhắn để lưu PC",
+    "zh" : "请选择要pc存储的纸条。"
+  },
+  "주소록" : {
+    "en" : "Contact list",
+    "ja" : "アドレス帳",
+    "vi" : "Sổ địa chỉ",
+    "zh" : "通讯录"
+  },
+  "쪽지 삭제는 쪽지함의 쪽지수에 따라 삭제 소요시간의 차이가 있습니다." : {
+    "en" : "The deletion process may take some time depending on the number of messages in a messagebox.",
+    "ja" : "メッセージの削除はメッセージの数によって削除所要時間に差があります。",
+    "vi" : "Quá trình xóa lời nhắn có sự khác biệt về thời gian tùy theo số lời nhắn ở hộp lời nhắn.",
+    "zh" : "删除纸条由纸条箱的纸条数会有删除时间的差异。"
+  },
+  "제목, 내용, 보낸사람, 받는사람, 파일명" : {
+    "en" : "Subject, Content, Sender, Recipient, File Name",
+    "ja" : "件名、内容、送信者、受信者、ファイル名",
+    "vi" : "Chủ đề, Nội dung, Người gửi, Người nhận, Tên tệp",
+    "zh" : "标题、内容、发件人、收件人、文件名"
+  },
+  "모두펼침" : {
+    "en" : "Unfold All",
+    "ja" : "全て開く",
+    "vi" : "Mở tất cả",
+    "zh" : "全部打开"
+  },
+  "(회사명), {0}부서명{1} 또는 이름을 입력하면 쪽지를 발송할 수 있습니다." : {
+    "en" : "You can also enter (company name), or {0}department name{1}, or a name to send a message.",
+    "ja" : "(会社名){0}部署名{1}または名前を入力するとメッセージの送信ができます。",
+    "vi" : "Nếu nhập tên hoặc (tên công ty), {0} tên bộ phận {1} thì có thể gửi lời nhắn.",
+    "zh" : "您输入(公司名), {0}部门名{1}, 名字也可以发送纸条。"
+  },
+  "쪽지 사용량이 할당량의 {0}%를 초과했습니다." : {
+    "en" : "Note usage exceeds {0}% of the allocated space.",
+    "ja" : "メッセージ使用容量が割当量の{0}％を超えました。",
+    "vi" : "Lượng sử dụng lời nhắn đã vượt quá {0}% giới hạn.",
+    "zh" : "纸条使用量超过了分配量的{0}%。"
+  },
+  "삭제된 쪽지는 <strong>완전 삭제되어 복원이 불가능</strong> 합니다." : {
+    "en" : "Deleted notes <strong>will be permanently lost.</strong> You will NOT be able to restore them ever again.",
+    "ja" : "削除したメッセージは<strong>完全に削除され、復元/strong>できません。",
+    "vi" : "Tin nhắn bị xóa <strong> sẽ bị xóa hoàn toàn nên không thể khôi phục <strong>.",
+    "zh" : "删除的纸条 <strong>已经完全删除不能再复原</strong>。"
+  },
+  "쪽지함관리" : {
+    "en" : "Manage Messagebox",
+    "ja" : "メッセージBox管理",
+    "vi" : "Quản lý hộp lời nhắn",
+    "zh" : "管理纸条箱"
+  },
+  "삭제함 쪽지 자동 삭제" : {
+    "en" : "Automatically delete the notes from the Deleted folder",
+    "ja" : "削除メッセージを自動削除",
+    "vi" : "Tự động xóa lời nhắn trong hộp xóa",
+    "zh" : "删除箱纸条自动删除"
+  },
+  "읽은 쪽지" : {
+    "en" : "Read Notes",
+    "ja" : "既読メッセージ",
+    "vi" : "Lời nhắn đã đọc",
+    "zh" : "已读的枝条"
+  },
+  "인쇄" : {
+    "en" : "Print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "{0}님의 할당량은 {1}이고, 현재 사용량은 {2}입니다." : {
+    "en" : "{1} space has been allocated to {0}, and {2} is currently being used.",
+    "ja" : "{0}さんの割当量は{1}、現在使用量は{2}です。",
+    "vi" : "Giới hạn dung lượng của anh/chị {0} là {1} và lượng đang sử dụng hiện tại là {2}",
+    "zh" : "{0}的分配量是 {1}，而现在使用量是{2}。"
+  },
+  "수신 확인 정보가 없습니다." : {
+    "en" : "No receipt status information",
+    "ja" : "受信確認の情報がありません。",
+    "vi" : "Không có thông tin xác nhận",
+    "zh" : "没有收信确认信息。"
+  },
+  "받은쪽지,보낸쪽지함에서 보관 기간이 지난 쪽지는 설정된 주기에 삭제함으로 이동됩니다." : {
+    "en" : "Messages that are past the storage period in the Inbox & Sent Messages will be moved to Trash Bin in a regular basis (you can set the period at 'Settings').",
+    "ja" : "受信メッセージ、送信メッセージで保管期間済みのメッセージは設定された周期に削除Boxへ移動されます。",
+    "vi" : "Các ghi chú đã qua thời hạn lưu trữ trong Ghi chú đã nhận và Ghi chú đã gửi sẽ được chuyển đến Thùng rác theo thời gian đã đặt.",
+    "zh" : "收纸条箱和发纸条箱中,超过保管期限的纸条在设定的周期内移入删除箱。"
+  },
+  "읽은 상태로 변경할 쪽지를 선택하세요." : {
+    "en" : "Please select the note you want to mark as read.",
+    "ja" : "既読に変更するメッセージを選択してください。",
+    "vi" : "Hãy chọn lởi nhắn để thay đổi sang trạng thái đã đọc.",
+    "zh" : "请选择要变更为已经读的纸条。"
+  },
+  "관리자만 접근할 수 있습니다." : {
+    "en" : "Only can be accessed by an admin.",
+    "ja" : "管理者のみアクセスできます。",
+    "vi" : "Chỉ người quản lý mới có thể tiếp cận được.",
+    "zh" : "只有管理者才能接近。"
+  },
+  "쪽지 전체 용량" : {
+    "en" : "Total note storage",
+    "ja" : "メッセージ全体容量",
+    "vi" : "Toàn bộ dung lượng lời nhắn",
+    "zh" : "纸条全体用量"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "백업이 필요한 경우 사용자 설정 > 쪽지함 관리에서 쪽지함 별로 백업한 후 쪽지를 삭제합니다." : {
+    "en" : "If you need to back up your messages, go to Settings > Manage Messagebox to backup your messages (by messagebox). Then, delete unimportant messages.",
+    "ja" : "バックアップが必要な場合、ユーザー設定＞メッセージBox別にバックアップ後メッセージを削除します。",
+    "vi" : "Trường hợp cần sao lưu, thì tiến hành sao lưu theo từng hộp lời nhắn trên Cài đặt người dùng > Quản lý hộp lời nhắn ,sau đó, xóa lời nhắn.",
+    "zh" : "需要备份时使用者设定-〉在纸条箱管理按照各个纸条箱备份后删除纸条。"
+  },
+  "{0} like 검색된 사용자가 없습니다." : {
+    "en" : "{0} like searched user is not found.",
+    "ja" : "{0} like 検索されたユーザーが存在しません。",
+    "vi" : "Không có người dùng được tìm thấy {0} like",
+    "zh" : "{0} 没有 like搜索的使用者。"
+  },
+  "받은 쪽지는 {0} 동안 보관하고 보낸 쪽지는 {1} 동안 보관후 자동 삭제 됩니다." : {
+    "en" : "Received notes are automatically deleted after {0} days and sent notes are automatically deleted after {1} days.",
+    "ja" : "受信メッセージは、{0}間保管し、送信メッセージは、{1}間保管後、自動的に削除されます。",
+    "vi" : "Lời nhắn đã nhận sẽ được lưu giữ trong vòng {0} và lời nhắn đã gửi sẽ được lưu giữ trong vòng {1} sau đó bị xóa tự động.",
+    "zh" : "受到的纸条保管{0}发送的纸条保管 {1} 后会自动被删除。"
+  },
+  "부서(회사명)" : {
+    "en" : "Department (Company name)",
+    "ja" : "部署(会社名)",
+    "vi" : "Bộ phận (tên công ty)",
+    "zh" : "部门（公司名）"
+  },
+  "인쇄가능" : {
+    "en" : "Printable",
+    "ja" : "印刷可能",
+    "vi" : "Có thể in",
+    "zh" : "可以打印"
+  },
+  "받은시간" : {
+    "en" : "Received time",
+    "ja" : "受信時間",
+    "vi" : "Thời gian nhận",
+    "zh" : "收件时间"
+  },
+  "세로 분할" : {
+    "en" : "Split height",
+    "ja" : "縦分割",
+    "vi" : "Chia dọc",
+    "zh" : "坚分割"
+  },
+  "최상위 쪽지함에는 이동할 수 없습니다." : {
+    "en" : "You cannot move it to the top messagebox.",
+    "ja" : "最上位のメッセージBoxには移動できません。",
+    "vi" : "Không thể di chuyển sang hộp lời nhắn trên cùng.",
+    "zh" : "不可移动到最上位纸条箱。"
+  },
+  "받은/보낸 쪽지 개수는 알림 쪽지를 포함합니다." : {
+    "en" : "The number of notes received/sent includes notification notes.",
+    "ja" : "受信/送信メッセージ数は通知メッセージを含めます。",
+    "vi" : "Số lượng ghi chú đã nhận/gửi, tính cả ghi chú thông báo.",
+    "zh" : "接受/发送 纸条个数里包括着提醒纸条。"
+  },
+  "전달이나 답장시 원문은 쪽지 내용 하단에 자동 첨부됩니다." : {
+    "en" : "When forwarding or replying, the original message will be automatically attached to the bottom of the message.",
+    "ja" : "転送や返信時、原文はメッセージ内容の下に自動的に添付されます。",
+    "vi" : "Khi chuyển tiếp hoặc trả lời, bản gốc được đính kèm tự động xuống phía dưới nội dung lời nhắn.",
+    "zh" : "传达或回信时原文会自动附加在纸条内容下端。"
+  },
+  "예약날짜" : {
+    "en" : "Scheduled Date",
+    "ja" : "予約日付",
+    "vi" : "Ngày hẹn",
+    "zh" : "预约日子"
+  },
+  "읽지않은 쪽지가 없습니다." : {
+    "en" : "No unread messages.",
+    "ja" : "未読メッセージがありません。",
+    "vi" : "Không có lời nhắn chưa đọc.",
+    "zh" : "没有没读的纸条。"
+  },
+  "쪽지를 회수하시겠습니까?" : {
+    "en" : "Would you like to retrieve the message?",
+    "ja" : "メッセージを回収しますか？",
+    "vi" : "Bạn có muốn thu hồi lời nhắn hay không?",
+    "zh" : "要回收纸条吗？"
+  },
+  "설문조사" : {
+    "en" : "Surveys",
+    "ja" : "アンケート調査",
+    "vi" : "Khảo sát",
+    "zh" : "设问调查"
+  },
+  "전체용량" : {
+    "en" : "Total space",
+    "ja" : "全体容量",
+    "vi" : "Toàn bộ dung lượng",
+    "zh" : "全体用量"
+  },
+  "신규 사용자에게 부여되는 쪽지 기본 용량입니다." : {
+    "en" : "This is the default capacity (messagebox) allocated for new users.",
+    "ja" : "新規ユーザーに付与されるメッセージの基本容量です。",
+    "vi" : "Đây là dung lượng mặc định lời nhắn cho người dùng mới.",
+    "zh" : "给新的使用者赋予的纸条基本用量。"
+  },
+  "보낸시간" : {
+    "en" : "Sent time",
+    "ja" : "送信時間",
+    "vi" : "Thời gian gửi",
+    "zh" : "发件时间"
+  },
+  "선택한 쪽지함의 하위로 이동합니다." : {
+    "en" : "Move into the selected messagebox.",
+    "ja" : "選択したメッセージBoxの下位に移動します。",
+    "vi" : "Di chuyển xuống phía dưới của hộp lời nhắn đã chọn",
+    "zh" : "移动到选择的纸条箱下位。"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "받은 쪽지의 쪽지개수는 알림 쪽지를 포함합니다." : {
+    "en" : "The number of notes in Inbox includes notification notes.",
+    "ja" : "受信メッセージのメッセージ数は通知メッセージを含めます。",
+    "vi" : "Số lượng ghi chú trong Hộp đến, bao gồm cả ghi chú thông báo.",
+    "zh" : "收到的纸条个数里包括着提醒纸条。"
+  },
+  "[예외자 지정] 선택시 예외자의 쪽지는 삭제하지 않습니다." : {
+    "en" : "[Set Exceptions] Notes from the person you set as exception will not be deleted.",
+    "ja" : "［例外者指定］選択時、例外者のメッセージは削除されません。",
+    "vi" : "Khi chọn [Chỉ định người ngoại lệ] thì lời nhắn của ngưởi ngoại lệ sẽ không bị xóa.",
+    "zh" : "选择[指定例外者]时不删除例外者的纸条。"
+  },
+  "분에 예약발송합니다." : {
+    "en" : "is scheduled to be sent at",
+    "ja" : "分に予約送信します。",
+    "vi" : "Hẹn gửi vào lúc",
+    "zh" : "分进行预约发送。"
+  },
+  "임시저장할 내용이 없습니다." : {
+    "en" : "There is no draft to save.",
+    "ja" : "下書き保存する内容がありません。",
+    "vi" : "Không có nội dung để lưu tạm thời.",
+    "zh" : "没有临时保存的内容。"
+  },
+  "답장시 원본" : {
+    "en" : "Include Original Message in case of Replying",
+    "ja" : "返信時の原文",
+    "vi" : "Lời nhắn gốc khi trả lời",
+    "zh" : "回信时原本"
+  },
+  "답장시 원문은 쪽지내용 하단에 자동 첨부됩니다." : {
+    "en" : "The original message will be automatically attached at the bottom of the message when replying.",
+    "ja" : "返信時に原文はメッセージ内容の下に自動的に添付されます。",
+    "vi" : "Khi trả lời, tự động đính kèm lời nhắn gốc phía dưới nội dung lời nhắn.",
+    "zh" : "回信时原文会自动附加在纸条下端上。"
+  },
+  "모두받기" : {
+    "en" : "Download all",
+    "ja" : "全てダウンロード",
+    "vi" : "Tải tất cả",
+    "zh" : "全部接收"
+  },
+  "쪽지 목록에서 마우스 오버시 본문의 일부를 미리 보여줍니다." : {
+    "en" : "You will be able to see a preview of the message when you put your mouse cursor over the title of the message in the message list.",
+    "ja" : "メッセージリストをマウスオーバーすると、本文の一部が表示されます。",
+    "vi" : "Nếu di chuột lên phía trên của danh sách lời nhắn thì có thể xem trước một phần của nội dung.",
+    "zh" : "在纸条目录放上鼠标的话表示本文的一部分。"
+  },
+  "{0}의 승인자로 지정된 사용자가 삭제되었거나 퇴사자입니다." : {
+    "en" : "The user who was designated as {0}'s approver has been deleted or resigned from the company.",
+    "ja" : "{0}の承認者に指定されているユーザーは削除されたか退社しました。",
+    "vi" : "Người dùng được chỉ định là người phê duyệt {0} đã bị xóa tên hoặc từ chức ở công ty.",
+    "zh" : "指定为{0}的承认者被删除或者是辞职者。"
+  },
+  "백업하시겠습니까?" : {
+    "en" : "Do you want to back up?",
+    "ja" : "バックアップしますか？",
+    "vi" : "Bạn có muốn sao lưu không?",
+    "zh" : "要进行备份吗？"
+  },
+  "목록에서 조회할 쪽지를 선택하세요." : {
+    "en" : "Select a message you wish to view from the list.",
+    "ja" : "リストから照会するメッセージを選択してください。",
+    "vi" : "Hãy chọn lời nhắn để xem ở mục lục",
+    "zh" : "请在目录选择要查询的纸条。"
+  },
+  "알림 쪽지 자동 삭제" : {
+    "en" : "Delete notification messages automatically",
+    "ja" : "通知メッセージの自動削除",
+    "vi" : "Tự động xóa giấy thông báo",
+    "zh" : "自动删除提醒"
+  },
+  "작성중인 내용을 임시저장하시겠습니까?" : {
+    "en" : "Would you like to save the message that you are currently writing?",
+    "ja" : "作成中の内容を下書き保存しますか？",
+    "vi" : "Bạn có muốn lưu nội dung đang viết vào hộp tạm thời không?",
+    "zh" : "要临时保存进行中的内容吗？"
+  },
+  "보관하였습니다." : {
+    "en" : "It has been archived.",
+    "ja" : "保管しました。",
+    "vi" : "Đã lưu giữ.",
+    "zh" : "保管了。"
+  },
+  "PC저장할 첨부파일을 선택해주세요." : {
+    "en" : "Select attachments to save to your computer.",
+    "ja" : "PC保存する添付ファイルを選択してください。",
+    "vi" : "Hãy chọn file đính kèm để lưu PC",
+    "zh" : "请选择要在电脑保存的附件。"
+  },
+  "파일명" : {
+    "en" : "File name",
+    "ja" : "ファイル名",
+    "vi" : "tên tệp",
+    "zh" : "文档名"
+  },
+  "중부 표준시_미국/캐나다" : {
+    "en" : "Central Standard Time_the United States/Canada",
+    "ja" : "中部標準時刻_アメリカ/カナダ",
+    "vi" : "Giờ tiêu chuẩn khu vực Miền Trung_ Mỹ/ Canada",
+    "zh" : "中部标准时间-美国/加拿大"
+  },
+  "중요한 쪽지는 개인쪽지함으로 이동시켜 보관하세요." : {
+    "en" : "Move important messages to your personal messagebox.",
+    "ja" : "重要メッセージは、個人メッセージBoxに移動して保管してください。",
+    "vi" : "Hãy di chuyển lởi nhắn quan trọng sang hộp lời nhắn cá nhân để lưu giữ.",
+    "zh" : "重要的纸条请移动到个人纸条箱而保管。"
+  },
+  "초과시 사용자에게 시스템 알림 쪽지" : {
+    "en" : "Send a system notification message when it exceeds storage capacity.",
+    "ja" : "超過時、ユーザーにシステム通知メッセージ",
+    "vi" : "Lời nhắn thông báo hệ thống tới người dùng khi vượt quá.",
+    "zh" : "超过时给使用者发送系统提醒纸条"
+  },
+  "남은용량=쪽지 전체용량-실사용량" : {
+    "en" : "Remaining space = Total space - Used space",
+    "ja" : "残り容量=メッセージ全体容量-実使用量",
+    "vi" : "Dung lượng còn lại = toàn bộ dung lượng lời nhắn- dung lượng sử dụng thực tế",
+    "zh" : "剩下的用量=纸条全体用量-实际使用量"
+  },
+  "쪽지 용량 임계치 도달시 알림 쪽지 발송" : {
+    "en" : "Send a notification when the message storage is almost full.",
+    "ja" : "メッセージ容量の臨界値に到達時、通知メッセージ送信",
+    "vi" : "Gửi lời nhắn khi dung lượng lời nhắn đầy.",
+    "zh" : "纸条用量到临界值时发送提醒纸条"
+  },
+  "콤마(,) 또는 세미콜론(;) 으로 구분, 이름 {부서명 또는 회사명} %사용자그룹% $직책$ #직위# 입력" : {
+    "en" : "Separate with commas(,) or semicolons(;), Enter a name(department or company) %usergroup% $duty$ #position#",
+    "ja" : "コンマ（,）またはセミコロン（;）で区分、名前{部署名または会社名}％ユーザーグループ％$役職$＃職位＃入力",
+    "vi" : "Phân biệt bằng dấu phẩy (,), hoặc dấu chấm phẩy (;), nhập tên (tên bộ phận hoặc tên công ty) % nhóm người dùng% $chức trách$ #chức vụ#",
+    "zh" : "区分为逗号(,) 或者逗号分号 (;) , 名字 {部门名或公司名} %使用者小组% $职责$ #职位# 输入"
+  },
+  "첨부 기본용량 사용자" : {
+    "en" : "Default Attachment Size User",
+    "ja" : "添付の基本容量のユーザー",
+    "vi" : "Dung lượng đính kèm mặc định người dùng",
+    "zh" : "附加基本用量使用者"
+  },
+  "첨부" : {
+    "en" : "Attachment",
+    "ja" : "添付",
+    "vi" : "Đính kèm",
+    "zh" : "附加"
+  },
+  "쪽지삭제" : {
+    "en" : "Delete Messages",
+    "ja" : "メッセージ削除",
+    "vi" : "Xóa lời nhắn",
+    "zh" : "删除纸条"
+  },
+  "오늘 하루 이 창을 열지 않습니다." : {
+    "en" : "Do not open this window today.",
+    "ja" : "本日はこのウィンドウを開くことが出来ません。。",
+    "vi" : "Không mở trang này ngày hôm nay",
+    "zh" : "今日不开这个窗口。"
+  },
+  "이 사람이" : {
+    "en" : "This person",
+    "ja" : "この人が",
+    "vi" : "Người này",
+    "zh" : "这个人"
+  },
+  "읽은 답장 쪽지" : {
+    "en" : "Replies (Read)",
+    "ja" : "既読返信メッセージ",
+    "vi" : "Đọc ghi chú trả lời",
+    "zh" : "读过的回答纸条"
+  },
+  "최대 글자수를 초과 하였습니다." : {
+    "en" : "Exceeded maximum chars allowed.",
+    "ja" : "最大文字数を超過しました。",
+    "vi" : "Văn bản nhập vào đã vượt quá giới hạn.",
+    "zh" : "超过了最多字数。"
+  },
+  "전체답장시 원문은 쪽지내용 하단에 자동 첨부됩니다." : {
+    "en" : "The original message will be automatically attached at the bottom of the note when replying to all.",
+    "ja" : "全体返信時に原文はメッセージ内容の下に自動的に添付されます。",
+    "vi" : "Khi trả lời tất cả, tự động đính kèm lời nhắn gốc xuống phía dưới nội dung lời nhắn.",
+    "zh" : "全体回信时原文会自动附加在纸条下端上。"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Lựa chọn",
+    "zh" : "选项"
+  },
+  "쪽지를 성공적으로 발송했습니다." : {
+    "en" : "You have successfully sent a message.",
+    "ja" : "メッセージ送信に成功しました。",
+    "vi" : "Đã gửi lời nhắn thành công",
+    "zh" : "发送纸条成功了。"
+  },
+  "쪽지 전체 용량보다 쪽지 사용자들에게 할당된 용량의 합이 더 큽니다. \\n 쪽지 전체 용량 : {0} GB \\n 쪽지 사용자 용량 총합 : {1} GB" : {
+    "en" : "The allocated space for message users is greater than the total messagebox capacity. \\n Total messagebox capacity : {0} GB \\n Total allocated space for message users : {1} GB",
+    "ja" : "メッセージ全体の容量よりメッセージユーザーに割り当てられた容量の合計が大きいです。\\nメッセージ全体の容量：{0} GB\\nメッセージユーザー容量の合計：{1} GB",
+    "vi" : "Dung lượng được phân bổ cho ghi chú người dùng đã lớn hơn tổng dung lượng lưu trữ cho mục Ghi chú. \\n Tổng dung lượng lưu trữ cho Ghi chú: {0} GB \\n Dung lượng được phân bổ cho ghi chú người dùng: {1} GB",
+    "zh" : "纸条全体用量比给纸条使用者分配的总计用量大。\\n 纸条全体用量 : {0} GB \\n 纸条使用者用量总计 : {1} GB"
+  },
+  "받은 날짜" : {
+    "en" : "Received date",
+    "ja" : "受信日付",
+    "vi" : "Ngày nhận",
+    "zh" : "收到日子"
+  },
+  "첨부된 파일" : {
+    "en" : "Attached Files",
+    "ja" : "添付されたファイル",
+    "vi" : "File đính kèm",
+    "zh" : "已附加的文件"
+  },
+  "보낸 쪽지 모두 보기" : {
+    "en" : "Show all sent messages",
+    "ja" : "送信メッセージすべてを表示",
+    "vi" : "Xem tất cả lời nhắn đã gửi",
+    "zh" : "发送的纸条全部看"
+  },
+  "모두 삭제" : {
+    "en" : "Delete all",
+    "ja" : "すべて削除",
+    "vi" : "Xóa tất cả",
+    "zh" : "全部删除"
+  },
+  "추가하였습니다." : {
+    "en" : "Successfully added.",
+    "ja" : "追加しました。",
+    "vi" : "Đã thêm.",
+    "zh" : "追加完了。"
+  },
+  "예약쪽지함" : {
+    "en" : "Scheduled Messages",
+    "ja" : "予約メッセージBox",
+    "vi" : "Hộp lời nhắn hẹn gửi",
+    "zh" : "预约纸条箱"
+  },
+  "전자우편" : {
+    "en" : "E-Mail",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "电子邮件"
+  },
+  "쪽지 보관" : {
+    "en" : "Keep/Archive Message",
+    "ja" : "メッセージ保管",
+    "vi" : "Lưu giữ lời nhắn",
+    "zh" : "保管纸条"
+  },
+  "알림쪽지 메뉴 분리" : {
+    "en" : "Separate Notification Message Menu",
+    "ja" : "通知メッセージメニュー分離",
+    "vi" : "Tách thông báo menu thông báo",
+    "zh" : "分离提醒纸条菜单"
+  },
+  "원본메세지" : {
+    "en" : "Original message",
+    "ja" : "原文メッセージ",
+    "vi" : "Tin nhắn gốc",
+    "zh" : "原本信息"
+  },
+  "새 쪽지함 추가" : {
+    "en" : "Add new message box",
+    "ja" : "新しいメッセージBoxの追加",
+    "vi" : "Thêm hộp lời nhắn mới",
+    "zh" : "追加新的纸条箱"
+  },
+  "받은 쪽지 표시" : {
+    "en" : "Show Inbox",
+    "ja" : "受信メッセージ表記",
+    "vi" : "Hiển thị lời nhắn đã nhận.",
+    "zh" : "表示接受的纸条"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다." : {
+    "en" : "You will lose all progress.",
+    "ja" : "現在作成中の内容がすべて削除されます。",
+    "vi" : "Nội dung đang viết hiện tại sẽ bị xóa tất cả.",
+    "zh" : "现在制作中的内容会被全部删除。"
+  },
+  "하위 쪽지함에 추가" : {
+    "en" : "Add to Sub-messagebox",
+    "ja" : "下位メッセージBoxに追加",
+    "vi" : "Thêm vào hộp lời nhắn phụ",
+    "zh" : "追加在下位纸条箱上"
+  },
+  "첨부파일 허용 개수" : {
+    "en" : "Maximum No. of Attachments Allowed",
+    "ja" : "添付可能なファイル数",
+    "vi" : "Số lượng file đính kèm tối đa",
+    "zh" : "附件允许个数"
+  },
+  "쪽지가 존재하지 않습니다." : {
+    "en" : "There is no message.",
+    "ja" : "メッセージが存在しません。",
+    "vi" : "Không tồn tại lời nhắn.",
+    "zh" : "没有纸条。"
+  },
+  "쪽지 보관 기간" : {
+    "en" : "Message Retention Period",
+    "ja" : "メッセージ保管期間",
+    "vi" : "Thời hạn lưu giữ lời nhắn",
+    "zh" : "纸条保管期限"
+  },
+  "사용자 기본용량" : {
+    "en" : "User default space",
+    "ja" : "ユーザーの基本容量",
+    "vi" : "Dung lượng mặc định của người dùng",
+    "zh" : "使用者基本用量"
+  },
+  "모두읽은상태로 표시" : {
+    "en" : "Mark all as read",
+    "ja" : "すべて既読にする",
+    "vi" : "Hiển thị trạng thái đã đọc tất cả",
+    "zh" : "表示为全部读的状态"
+  },
+  "오류가 발생했습니다." : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi.",
+    "zh" : "发生错误。"
+  },
+  "실제 사용 용량을 표시합니다. (남은 용량 = 쪽지 전체 용량 – 실 사용량)" : {
+    "en" : "It shows the actual space available. (Remaining Space = Total Capacity - Used Capacity)",
+    "ja" : "実際使用容量を表示します。",
+    "vi" : "Hiển thị dung lượng sử dụng thực tế (Dung lượng còn lại= Toàn bộ dung lượng thực tế- Dung lượng thực)",
+    "zh" : "表示实际使用用量。(剩下用量 = 纸条全体用量 – 实际使用量)"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "중복사용자 선택" : {
+    "en" : "Select Duplicate User",
+    "ja" : "重複ユーザーの選択",
+    "vi" : "Chọn người sử dụng trùng lặp",
+    "zh" : "选择重复使用者"
+  },
+  "원문링크" : {
+    "en" : "Link to the original message",
+    "ja" : "原文リンク",
+    "vi" : "Liên kết tới lời nhắn gốc",
+    "zh" : "链接原文"
+  },
+  "쪽지함 관리" : {
+    "en" : "Manage messagebox",
+    "ja" : "メッセージBoxの管理",
+    "vi" : "Quản lý hộp lời nhắn",
+    "zh" : "纸条箱管理"
+  },
+  "전달시 원문은 쪽지내용 하단에 자동 첨부됩니다." : {
+    "en" : "The original message will be automatically attached to the bottom of the note when forwarded.",
+    "ja" : "転送時に原文はメッセージ内容の下に自動的に添付されます。",
+    "vi" : "Lời nhắn gốc tự động được đính kèm bên dưới lời nhắn khi chuyển tiếp.",
+    "zh" : "传达时原文会自动附加在纸条下端上。"
+  },
+  "게시판 등록" : {
+    "en" : "Add a bulletin board",
+    "ja" : "掲示板登録",
+    "vi" : "Đăng ký bảng tin",
+    "zh" : "登录布告栏"
+  },
+  "한번에 첨부가능한 첨부 기본용량입니다." : {
+    "en" : "It is the default attachment size that can be attached at one time.",
+    "ja" : "一度に添付可能な添付の基本容量です。",
+    "vi" : "Đây là dung lượng mặc định có thể đính kèm trong 1 lần.",
+    "zh" : "一次可以附加的附加基本用量。"
+  },
+  "문서함 등록" : {
+    "en" : "Add a Document Box",
+    "ja" : "文書ファイルの登録",
+    "vi" : "Đăng ký hộp tài liệu",
+    "zh" : "登录文件箱"
+  },
+  "알집 사용자는 압축풀기시 알집의 [보기>언어변환]을 유니코드로 설정한 후 압축을 풀어야 합니다." : {
+    "en" : "ALZip users must set [View > Language Conversion] as Unicode to unzip the file.",
+    "ja" : "ALZipユーザーは圧縮を解凍する時、ALZipの[見る>言語変換]をユニコードで設定した後、圧縮を解凍する必要があります。",
+    "vi" : "Người dùng Alzip phải cài đặt [Xem> Thay đổi ngôn ngữ] của Alzip khi giải nén file sang Unicode rồi mới giải nén file.",
+    "zh" : "Alzip你需要提取，然后设置为Unicode ，查看> alzip的减压过程中语言转换。"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "쪽지쓰기" : {
+    "en" : "Write a New Message",
+    "ja" : "メッセージ作成",
+    "vi" : "Viết lời nhắn",
+    "zh" : "写纸条"
+  },
+  "보낸알림을 보낸쪽지에 표기" : {
+    "en" : "Mark a sent notification on a sent message",
+    "ja" : "送信した通知を送信したメッセージに表記",
+    "vi" : "Hiển thị thông báo gửi trong hộp đã gửi",
+    "zh" : "在发送提醒的纸条上标记"
+  },
+  "사용자정보" : {
+    "en" : "User information",
+    "ja" : "ユーザー情報",
+    "vi" : "Thông tin người dùng",
+    "zh" : "使用者信息"
+  },
+  "알림 쪽지" : {
+    "en" : "Notification Message",
+    "ja" : "通知メッセージ",
+    "vi" : "Lời nhắn thông báo",
+    "zh" : "提醒枝条"
+  },
+  "첨부 기본용량 예외자" : {
+    "en" : "Exceptions from Default Attachment Size",
+    "ja" : "添付の基本容量の例外者",
+    "vi" : "Dung lượng đính kèm mặc định ngoại lệ",
+    "zh" : "附加基本用量例外者"
+  },
+  "첨부파일" : {
+    "en" : "Attachment",
+    "ja" : "添付ファイル名",
+    "vi" : "File đính kèm",
+    "zh" : "附件名"
+  },
+  "이동하시겠습니까?" : {
+    "en" : "Do you want to move?",
+    "ja" : "移動しますか？",
+    "vi" : "Bạn có muốn di chuyển không?",
+    "zh" : "要移动吗？"
+  },
+  "삭제된 쪽지는 삭제함으로 이동됩니다. 선택한 쪽지를 삭제하시겠습니까?" : {
+    "en" : "Deleted messages will be sent to the Trash Bin. Are you sure you want to delete the selected message?",
+    "ja" : "削除したメッセージは削除Boxに移動します。選択したメッセージを削除しますか？",
+    "vi" : "Lời nhắn bị xóa được di chuyển sang hộp xóa. Bạn có muốn xóa lời nhắn đã chọn không?",
+    "zh" : "删除的纸条会移动到删除箱。您选泽的纸条要删除吗？"
+  },
+  "회수할 사용자가 없습니다." : {
+    "en" : "There are no users to retrieve.",
+    "ja" : "回収するユーザーがいません。",
+    "vi" : "Không có người dùng để thu hồi.",
+    "zh" : "没有要回收的使用者。"
+  },
+  "첨부 기본용량" : {
+    "en" : "Default attachment size",
+    "ja" : "添付の基本容量",
+    "vi" : "Dung lượng đính kèm mặc định",
+    "zh" : "附加基本用量"
+  },
+  "삭제할 파일을 선택하세요." : {
+    "en" : "Select the file you want to delete.",
+    "ja" : "削除するファイルを選択してください。",
+    "vi" : "Hãy chọn file để xóa.",
+    "zh" : "请选择要删除的文档。"
+  },
+  "쪽지 전체 용량을 설정합니다." : {
+    "en" : "Set the total capacity for your messages.",
+    "ja" : "メッセージ全体容量を設定します。",
+    "vi" : "Cài đặt toàn bộ dung lượng lời nhắn",
+    "zh" : "设定纸条全体用量。"
+  },
+  "용량초과" : {
+    "en" : "Storage is full",
+    "ja" : "容量超過",
+    "vi" : "Vượt quá dung lượng",
+    "zh" : "超过用量"
+  },
+  "파일첨부 쪽지" : {
+    "en" : "Messages with attachments",
+    "ja" : "ファイル添付メッセージ",
+    "vi" : "Lời nhắn với file đính kèm",
+    "zh" : "附件纸条"
+  },
+  "할당용량" : {
+    "en" : "Space quota",
+    "ja" : "割当容量",
+    "vi" : "Giới hạn dung lượng",
+    "zh" : "分配的用量"
+  },
+  "쪽지 전체 용량보다 값이 큽니다. \\n 변경시 사용자 할당된 총 용량 : {0} GB" : {
+    "en" : "The value is greater than the total storage for the messagebox. \\n After change, allocated space for user : {0} GB",
+    "ja" : "メッセージ全体の容量より値が大きいです。\\n変更時にユーザーに割り当てられた合計容量：{0} GB",
+    "vi" : "Giá trị này đã lớn hơn tổng dung lượng lưu trữ dành cho Ghi chú. \\n Khi tiến hành thay đổi, dung lượng phân bổ cho người dùng là: {0} GB {0} GB",
+    "zh" : "价比纸条全体用量大。\\n  变更时分配到使用者的总用量 : {0} GB"
+  },
+  "쪽지 목록 개수" : {
+    "en" : "No. of Message Lists",
+    "ja" : "メッセージリスト数",
+    "vi" : "Số danh sách lời nhắn",
+    "zh" : "纸条目录个数"
+  },
+  "쪽지 내용을 입력하세요." : {
+    "en" : "Enter the content for your message.",
+    "ja" : "メッセージ内容を入力してください。",
+    "vi" : "Hãy nhập nội dung lời nhắn",
+    "zh" : "请输入纸条内容。"
+  },
+  "오름차순" : {
+    "en" : "Ascending",
+    "ja" : "昇順",
+    "vi" : "theo thứ tự tăng lên",
+    "zh" : "升幂"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Khởi tạo",
+    "zh" : "韩语"
+  },
+  "예약발송 시간을 선택하세요." : {
+    "en" : "Select the time that you want to send the message at.",
+    "ja" : "予約送信時間を選択してください。",
+    "vi" : "Hãy nhập thời gian hẹn để gửi.",
+    "zh" : "请选择预约发送时间。"
+  },
+  "보냄" : {
+    "en" : "Sent",
+    "ja" : "送る",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "님은 퇴사자이므로 쪽지 발송에서 제외됩니다." : {
+    "en" : "already resigned. You cannot send a message to this person.",
+    "ja" : "さんは、退社者であるため、メッセージ送信から除外されます。",
+    "vi" : "Đã nghỉ việc nên bị ngoại lệ ở gửi lời nhắn.",
+    "zh" : "是辞职人而不可发送纸条。"
+  },
+  "삭제할 쪽지함을 선택하세요." : {
+    "en" : "Please select a messagebox to delete.",
+    "ja" : "削除するメッセージBoxを選択してください。",
+    "vi" : "Hãy chọn hộp lời nhắn để xóa.",
+    "zh" : "请选择要删除的纸条箱。"
+  },
+  "파일함" : {
+    "en" : "Filebox",
+    "ja" : "ファイル",
+    "vi" : "Các file",
+    "zh" : "文件箱"
+  },
+  "쪽지함 수정" : {
+    "en" : "Modify messagebox",
+    "ja" : "メッセージBoxの修正",
+    "vi" : "Sửa hộp lời nhắn",
+    "zh" : "修改纸条箱"
+  },
+  "선택한 쪽지가 없습니다." : {
+    "en" : "There are no notes selected.",
+    "ja" : "選択されたメッセージがありません。",
+    "vi" : "Không có lời nhắn được chọn.",
+    "zh" : "没有选择的纸条。"
+  },
+  "예약 쪽지" : {
+    "en" : "Scheduled Messages",
+    "ja" : "予約メッセージ",
+    "vi" : "Lời nhắn hẹn",
+    "zh" : "预约纸条"
+  },
+  "선택 쪽지을" : {
+    "en" : "selected messages",
+    "ja" : "選択したメッセージを",
+    "vi" : "lời nhắn được lựa chọn",
+    "zh" : "选择的纸条"
+  },
+  "대서양 표준시" : {
+    "en" : "Atlantic Standard Time",
+    "ja" : "大西洋標準時",
+    "vi" : "Giờ tiêu chuẩn Đại Tây Dương",
+    "zh" : "大西洋标准时间"
+  },
+  "쪽지를 지금 보내시겠습니까?" : {
+    "en" : "Would you like to send the message now?",
+    "ja" : "メッセージを今すぐ送信しますか？",
+    "vi" : "Bạn có muốn gửi lời nhắn bây giờ không?",
+    "zh" : "要现在发送纸条吗？"
+  },
+  "작성중" : {
+    "en" : "Writing",
+    "ja" : "作成中",
+    "vi" : "Đang viết",
+    "zh" : "制作中"
+  },
+  "쪽지함 추가" : {
+    "en" : "Add Messagebox",
+    "ja" : "メッセージBox追加",
+    "vi" : "Thêm hộp lời nhắn",
+    "zh" : "追加纸条箱"
+  },
+  "쪽지용량 초과 알림" : {
+    "en" : "Notify when the messagebox is full.",
+    "ja" : "メッセージ容量超過通知",
+    "vi" : "Thông báo quá dung lượng lời nhắn",
+    "zh" : "纸条用量超过提醒"
+  },
+  "용량" : {
+    "en" : "Space",
+    "ja" : "容量",
+    "vi" : "Dung lượng",
+    "zh" : "用量"
+  },
+  "접기/펴기" : {
+    "en" : "Fold / Unfold",
+    "ja" : "閉じる/開く",
+    "vi" : "Đóng/ Mở",
+    "zh" : "折叠/翻开"
+  },
+  "등록된 쪽지가 없습니다." : {
+    "en" : "No registered messages.",
+    "ja" : "登録されたメッセージがありません。",
+    "vi" : "Không có lời nhắn đăng ký",
+    "zh" : "没有登录的纸条。"
+  },
+  "반응형 레이아웃" : {
+    "en" : "Responsive Layout",
+    "ja" : "反応型レイアウト",
+    "vi" : "Bố cục thay đổi theo sự kiện",
+    "zh" : "反映形布局"
+  },
+  "그룹웨어 시스템 쪽지" : {
+    "en" : "Groupware system note",
+    "ja" : "グループウェアのシステムメッセージ",
+    "vi" : "Lời nhắn hệ thống Groupware",
+    "zh" : "群件系统纸条"
+  },
+  "완전삭제" : {
+    "en" : "Delete Permanently",
+    "ja" : "完全削除",
+    "vi" : "Xóa hoàn toàn",
+    "zh" : "完全删除"
+  },
+  "외 {0}명" : {
+    "en" : "and {0} people",
+    "ja" : "の他 {0}人",
+    "vi" : "và {0}",
+    "zh" : "以外 {0}名"
+  },
+  "숨은 참조는 보낸쪽지함의 쪽지에서만 보여집니다." : {
+    "en" : "Bcc is only shown from the outbox of the sender.",
+    "ja" : "Bccは送信メッセージのメッセージでのみ表示されます。",
+    "vi" : "Tham khảo ẩn chỉ được hiển thị trong tin nhắn của hòm tin đã gửi.",
+    "zh" : "密送只可在已发送纸条箱中确认"
+  },
+  "쪽지함명을 확인해주세요." : {
+    "en" : "Please check the messagebox name.",
+    "ja" : "メッセージBox名を確認してください。",
+    "vi" : "Hãy kiểm tra tên hộp lời nhắn.",
+    "zh" : "请确认一下纸条箱名。"
+  },
+  "임시 보관함" : {
+    "en" : "Temporary Storage",
+    "ja" : "下書き",
+    "vi" : "Hộp lưu giữ tạm thời",
+    "zh" : "草稿箱"
+  },
+  "숨은참조 감추기" : {
+    "en" : "Hide Bcc",
+    "ja" : "Bcc非表示",
+    "vi" : "Ẩn Người tham chiếu ẩn",
+    "zh" : "隐藏参照"
+  },
+  "쪽지원본내용" : {
+    "en" : "Original Message Content",
+    "ja" : "メッセージ原文の内容",
+    "vi" : "Nội dung lời nhắn gốc",
+    "zh" : "纸条原文内容"
+  },
+  "퇴사자" : {
+    "en" : "Retired employee",
+    "ja" : "退職者",
+    "vi" : "Người nghỉ việc",
+    "zh" : "退出公司者"
+  },
+  "쪽지함 삭제" : {
+    "en" : "Delete Messagebox",
+    "ja" : "メッセージBox削除",
+    "vi" : "Xóa hộp lời nhắn",
+    "zh" : "删除纸条箱"
+  },
+  "이 지난 쪽지는 완전 삭제" : {
+    "en" : "Permanently delete notes that have been more than (     ) days",
+    "ja" : "が過ぎたメッセージは完全削除",
+    "vi" : "Xóa hoàn toàn lời nhắn đã qua (     ) ngày",
+    "zh" : "经过的纸条完全删除"
+  },
+  "사용자 관리" : {
+    "en" : "Manage users",
+    "ja" : "ユーザー管理",
+    "vi" : "Quản lý người dùng",
+    "zh" : "使用者管理"
+  },
+  "쪽지 조회" : {
+    "en" : "View message",
+    "ja" : "メッセージ照会",
+    "vi" : "Xem lời nhắn",
+    "zh" : "查询纸条"
+  },
+  "오클랜드,피지" : {
+    "en" : "Auckland, Fiji",
+    "ja" : "オークランド、フィジー",
+    "vi" : "Auckland ,Oakland",
+    "zh" : "奥克兰、斐济"
+  },
+  "예약 설정" : {
+    "en" : "Settings (Reservation)",
+    "ja" : "予約設定",
+    "vi" : "Cài đặt hẹn",
+    "zh" : "设定预订"
+  },
+  "전체답장" : {
+    "en" : "Reply all",
+    "ja" : "全体返信",
+    "vi" : "Trả lời tất cả",
+    "zh" : "全体回信"
+  },
+  "모든 쪽지가 완전 삭제되고 복구할 수 없습니다. 비우시겠습니까?" : {
+    "en" : "All messages will be completely deleted and cannot be restored. Would you like to empty it?",
+    "ja" : "全てのメッセージが完全削除され、復元できません。空にしますか？",
+    "vi" : "Tất cả lời nhắn đã bị xóa hoàn toàn và không thể khôi phục lại. Bạn có muốn xóa không?",
+    "zh" : "所有纸条会完全删除、不可再恢复。要清空吗？"
+  },
+  "백업이 필요하지 않은 경우 사용자 설정 > 쪽지함 관리에서 쪽지함별로 모두 삭제를 하여 쪽지함을 비울수 있습니다." : {
+    "en" : "If you don't need to back up your messages, go to Settings > Manage Messagebox and delete all messages (by messagebox) to empty your messagebox.",
+    "ja" : "バックアップが必要ではない場合、ユーザー設定＞メッセージBox別にすべてを削除してメッセージ箱を空にする事が出来ます。",
+    "vi" : "Trường hợp không cần sao lưu, có thể xóa tất cả theo từng hộp lời nhắn trên Cài đặt người dùng > Quản lý hộp lời nhắn và làm trống hộp lời nhắn",
+    "zh" : "不需要备份时使用者设定-〉在纸条箱管理按照各个纸条箱全部删除而空出纸条箱。"
+  },
+  "읽은 쪽지도 회수 할 수 있습니다." : {
+    "en" : "You can also retrieve already read messages.",
+    "ja" : "既読メッセージも回収できます。",
+    "vi" : "Bạn có thể thu hồi lời nhắn đã đọc.",
+    "zh" : "已经读的纸条也可以回收。"
+  },
+  "{0}님 안녕하세요?" : {
+    "en" : "Hello, {0}?",
+    "ja" : "{0}さんこんにちは。",
+    "vi" : "Xin chào anh/chị {0}",
+    "zh" : "{0}您好吗？"
+  },
+  "답장시 원본 내용 포함 (첨부파일은 제외)" : {
+    "en" : "Include content of original message when replying (excluding attachment)",
+    "ja" : "返信時に原文の内容を含む（添付ファイルは除く）",
+    "vi" : "Bao gồm nội dung gốc khi trả lời (ngoại trừ file đính kèm)",
+    "zh" : "回信时包括原文内容（排除附件）"
+  },
+  "쪽지 회수 대상을 선택하세요." : {
+    "en" : "Please select the target for message retrieval.",
+    "ja" : "メッセージ回収の対象を選択してください。",
+    "vi" : "Xin hãy chọn đối tượng thu hồi lời nhắn.",
+    "zh" : "请选择回收纸条的对象。"
+  },
+  "삭제된 쪽지는 서버에서 완전 삭제되므로 복원이 불가능합니다." : {
+    "en" : "Deleted messages will be permanently removed from the server. The deleted messages cannot be restored.",
+    "ja" : "削除されたメッセージはサーバーで完全に削除されるので復元できません。",
+    "vi" : "Lời nhắn bị xóa sẽ bị xóa vĩnh viễn trên máy chủ nên không thể khôi phục lại.",
+    "zh" : "删除的纸条会在服务器完全被删除而不可再复原。"
+  },
+  "감사합니다." : {
+    "en" : "Thank you.",
+    "ja" : "ありがとうございます。",
+    "vi" : "Xin cảm ơn.",
+    "zh" : "谢谢。"
+  },
+  "쪽지 백업" : {
+    "en" : "Backup Messages",
+    "ja" : "メッセージバックアップ",
+    "vi" : "Sao lưu lời nhắn",
+    "zh" : "备份纸条"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "danh sách lựa chọn",
+    "zh" : "选择目录"
+  },
+  "다수조회" : {
+    "en" : "Multi-View",
+    "ja" : "多数照会",
+    "vi" : "Xem nhiều",
+    "zh" : "多数查询"
+  },
+  "알림 쪽지 메뉴 분리" : {
+    "en" : "Separate Notification Message Menu",
+    "ja" : "通知メッセージメニュー分離",
+    "vi" : "Tách thông báo menu thông báo",
+    "zh" : "分离提醒纸条菜单"
+  },
+  "모든 쪽지가 완전삭제되고 복구할 수 없습니다." : {
+    "en" : "All messages will be completely deleted and cannot be restored.",
+    "ja" : "全てのメッセージが完全削除され、復元できません。",
+    "vi" : "Tất cả lời nhắn đã bị xóa hoàn toàn và không thể khôi phục lại.",
+    "zh" : "所有纸条会完全删除、不可再恢复。"
+  },
+  "새창으로 열기" : {
+    "en" : "Open in New Window",
+    "ja" : "新しいウィンドウで開く",
+    "vi" : "Mở ở trang mới",
+    "zh" : "使用新窗口打开"
+  },
+  "쪽지 보기" : {
+    "en" : "See Message",
+    "ja" : "メッセージ表示",
+    "vi" : "Xem lời nhắn",
+    "zh" : "看纸条"
+  },
+  "개인 쪽지함 관리" : {
+    "en" : "Manage personal message",
+    "ja" : "個人メッセージの管理",
+    "vi" : "Quản lý hộp lời nhắn cá nhân",
+    "zh" : "个人纸条箱管理"
+  },
+  "대상 쪽지함" : {
+    "en" : "Target Message Box",
+    "ja" : "対象メッセージBox",
+    "vi" : "Hộp lời nhắn đích",
+    "zh" : "对象纸条箱"
+  },
+  "예외자 지정" : {
+    "en" : "Specify Exceptions",
+    "ja" : "例外者指定",
+    "vi" : "chỉ định người ngoại lệ",
+    "zh" : "指定例外者"
+  },
+  "쪽지 작성" : {
+    "en" : "Write Message",
+    "ja" : "メッセージ作成",
+    "vi" : "Viết lời nhắn",
+    "zh" : "写纸条"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "<a href=\"#\" onclick=\"fnViewUserInfo('{0}');\">{1}</a>외 {2}명" : {
+    "en" : "<a href=\"#\" onclick=\"fnViewUserInfo('{0}');\">{1} </a>and {2} others",
+    "ja" : "<a href=\"#\" onclick=\"fnViewUserInfo('{0}');\">{1}</a>の他{2}名",
+    "vi" : "<a href=\"#\" onclick=\"fnViewUserInfo('{0}');\">{1} </a>và {2} đối tượng khác",
+    "zh" : "<a href=\"#\" onclick=\"fnViewUserInfo('{0}');\">{1}</a>外 {2}名"
+  },
+  "정수 수치를 입력해주세요." : {
+    "en" : "Please enter integer numbers.",
+    "ja" : "整数値を入力してください。",
+    "vi" : "Hãy nhập số nguyên.",
+    "zh" : "请输入整数数值。"
+  },
+  "전체 쪽지 표시" : {
+    "en" : "Show all messages",
+    "ja" : "全体メッセージ表示",
+    "vi" : "Hiển thị toàn bộ lời nhắn",
+    "zh" : "全体纸条表示"
+  },
+  "쪽지함을 선택해주세요." : {
+    "en" : "Please select a messagebox.",
+    "ja" : "メッセージBoxを選択してください。",
+    "vi" : "Hãy chọn hộp lời nhắn.",
+    "zh" : "请选择纸条箱。"
+  },
+  "%s 이미 선택되었습니다." : {
+    "en" : "%s Already selected.",
+    "ja" : "%s すでに選択されました。",
+    "vi" : "%s Đã được chọn",
+    "zh" : "%s 已被选择。"
+  },
+  "쪽지함 이름은 영어 대소문자, 숫자, 한글, _(언더바), -(대시)만 사용할 수 있습니다." : {
+    "en" : "A notebox name can contain English uppercase letters, lowercase letters, numbers, Korean characters,  _(underscore) and -(hyphen) only.",
+    "ja" : "メッセージBox名は英語の大文字小文字、数字、ハングル、_（アンダーバー）、-（ハイフン）のみ使用出来ます。",
+    "vi" : "Tên hộp lời nhắn chỉ có thể sử dụng tiếng Anh viết hoa viết thường, số, tiếng Hàn, _(gạch dưới), -( gạch ngang).",
+    "zh" : "纸条箱的名字只能使用英文大小文字，数字，韩文， _(着重线), -(破折号)"
+  },
+  "알림 쪽지는 {0} 동안 보관후 자동 삭제 됩니다." : {
+    "en" : "Notification notes are automatically deleted after {0} days.",
+    "ja" : "通知メッセージは、{0}間保管後、自動的に削除されます。",
+    "vi" : "Lời nhắn thông báo được lưu trong vòng {0} và bị xóa tự động.",
+    "zh" : "提醒纸条保管{0}后会自动被删除。"
+  },
+  "이사람이" : {
+    "en" : "This person",
+    "ja" : "この人が",
+    "vi" : "Người này",
+    "zh" : "这个人"
+  },
+  "재발송" : {
+    "en" : "Re-send",
+    "ja" : "再送信",
+    "vi" : "Gửi lại",
+    "zh" : "再发送"
+  },
+  "쪽지 영구보관함 전체 용량이 부족합니다. 관리자에게 문의하세요." : {
+    "en" : "Not enough space in the Permanent Storage. Please contact the admin.",
+    "ja" : "メッセージ永久保存Boxの全体容量が不足しています。管理者にお問い合わせください。",
+    "vi" : "Tổng dung lượng cho hộp lưu giữ vĩnh viễn lời nhắn không đủ. Xin hãy liên hệ với người quản lý.",
+    "zh" : "纸条永久保管箱的全体用量不够、请向管理者咨询。"
+  },
+  "쪽지 환경설정" : {
+    "en" : "Settings (Message)",
+    "ja" : "メッセージの環境設定",
+    "vi" : "Cài đặt môi trường lời nhắn",
+    "zh" : "设定纸条环境"
+  },
+  "수신확인" : {
+    "en" : "Check Receipt Status",
+    "ja" : "受信確認",
+    "vi" : "Kiểm tra nhận",
+    "zh" : "确认收信"
+  },
+  "쪽지" : {
+    "en" : "Messages",
+    "ja" : "メッセージ",
+    "vi" : "Lời nhắn",
+    "zh" : "纸条"
+  },
+  "받는사람을 입력하세요." : {
+    "en" : "Enter a recipient.",
+    "ja" : "宛先を入力してください。",
+    "vi" : "Hãy nhập người nhận",
+    "zh" : "请输入收件人。"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "초과시 사용자에게 시스템 알림" : {
+    "en" : "Send a system notification to the user when the capacity is exceeded.",
+    "ja" : "超過時にユーザーにシステムを通知する",
+    "vi" : "Gửi thông báo hệ thống cho người dùng khi vượt quá dung lượng.",
+    "zh" : "如果超过容量，向用户发送系统通知。"
+  },
+  "{0}개월이 지난 쪽지" : {
+    "en" : "{0} months old",
+    "ja" : "{0}ヶ月が過ぎたメッセージ",
+    "vi" : "Lời nhắn đã quá {0} tháng",
+    "zh" : "已经过{1}个月的纸条"
+  },
+  "적용 대상" : {
+    "en" : "Apply to",
+    "ja" : "適用対象",
+    "vi" : "Đối tượng áp dụng",
+    "zh" : "适用对象"
+  },
+  "기본쪽지함" : {
+    "en" : "Default Messagebox",
+    "ja" : "基本メッセージBox",
+    "vi" : "Hộp ghi chú mặc định",
+    "zh" : "基本纸条箱"
+  },
+  "예약쪽지를 저장하였습니다." : {
+    "en" : "The scheduled note has been saved.",
+    "ja" : "予約メッセージ保存しました。",
+    "vi" : "Đã lưu lời nhắn hẹn.",
+    "zh" : "预约纸条存储完了。"
+  },
+  "읽지않은 쪽지" : {
+    "en" : "Unread Messages",
+    "ja" : "未確認メッセージ",
+    "vi" : "Lời nhắn chưa đọc",
+    "zh" : "没读的纸条"
+  },
+  "백업이 필요하지 않은 경우" : {
+    "en" : "When backup is not necessary",
+    "ja" : "バックアップが必要でない場合。",
+    "vi" : "Trường hợp không cần sao lưu",
+    "zh" : "不需要备份时"
+  },
+  "일이 지난 쪽지는 완전 삭제" : {
+    "en" : "days after, permanently delete message",
+    "ja" : "日が過ぎたメッセージは完全削除",
+    "vi" : "Xóa hoàn toàn lời nhắn đã qua ( ) ngày",
+    "zh" : "经过 天的纸条完全删除"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "皆閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "등록된 메세지가 없습니다." : {
+    "en" : "No new messages.",
+    "ja" : "登録されたメッセージがありません。",
+    "vi" : "Không có lời nhắn đã đăng ký",
+    "zh" : "没有登录的信息。"
+  },
+  "쪽지를 먼저 선택하세요." : {
+    "en" : "First, select a message.",
+    "ja" : "メッセージを先に選択してください。",
+    "vi" : "Đầu tiên hãy chọn lời nhắn.",
+    "zh" : "请先选择纸条。"
+  },
+  "시" : {
+    "en" : ":",
+    "ja" : "時",
+    "vi" : "Giờ",
+    "zh" : "点"
+  },
+  "보관취소하였습니다." : {
+    "en" : "Unarchived",
+    "ja" : "保管をキャンセルしました。",
+    "vi" : "Đã hủy lưu trữ.",
+    "zh" : "已取消保管"
+  },
+  "보낸 쪽지" : {
+    "en" : "Sent Messages",
+    "ja" : "送信メッセージ",
+    "vi" : "Lời nhắn gửi đi",
+    "zh" : "发送的纸条"
+  },
+  "저장시간" : {
+    "en" : "Saved time",
+    "ja" : "保存時間",
+    "vi" : "Thời gian lưu",
+    "zh" : "保存时间"
+  },
+  "받은쪽지함" : {
+    "en" : "Inbox",
+    "ja" : "メッセージ受信Box",
+    "vi" : "Hộp lời nhắn đã nhận",
+    "zh" : "接收纸条箱"
+  },
+  "전체선택" : {
+    "en" : "Select all",
+    "ja" : "全体選択",
+    "vi" : "Chọn toàn bộ",
+    "zh" : "选择全体"
+  },
+  "쪽지 용량 초과시 발송은 제한됩니다." : {
+    "en" : "When the messagebox is full, you won't be able to send new messages.",
+    "ja" : "メッセージ容量の超過時、送信が制限されます。",
+    "vi" : "Hạn chế gửi khi vượt quá dung lượng lời nhắn.",
+    "zh" : "纸条用量超过时发送会有限制。"
+  },
+  "사용자별 영구보관함 용량을 설정합니다." : {
+    "en" : "You can set the capacity of the user's Message Archive",
+    "ja" : "ユーザー別の永久保存Boxの容量を設定します。",
+    "vi" : "Cài đặt dung lượng hộp lưu giữ vĩnh viễn theo từng người dùng",
+    "zh" : "设定各个使用者的永久保管箱用量。"
+  },
+  "동부 표준시_미국/캐나다" : {
+    "en" : "Eastern Standard Time_the United States/Canada",
+    "ja" : "東部標準時刻_アメリカ/カナダ",
+    "vi" : "Giờ tiêu chuẩn khu vực Miền Đông_ Mỹ/ Canada",
+    "zh" : "东部标准时间-美国/加拿大"
+  },
+  "영구보관함 남은 용량" : {
+    "en" : "Archive - remaining space",
+    "ja" : "永久保存Boxの残り容量",
+    "vi" : "Dung lượng còn lại của hộp lưu giữ vĩnh viễn",
+    "zh" : "永久保管箱剩下用量"
+  },
+  "보낸사람 세부 내용 표시" : {
+    "en" : "Show detailed information of the sender",
+    "ja" : "送信者の詳細情報を表示",
+    "vi" : "Hiển thị nội dung chi tiết người gửi",
+    "zh" : "表示发件人详细内容"
+  },
+  "허용안함" : {
+    "en" : "Not allow",
+    "ja" : "許容しない",
+    "vi" : "không cho phép",
+    "zh" : "不允许"
+  },
+  "쪽지 쓰기 창" : {
+    "en" : "Write Message' Window",
+    "ja" : "メッセージ作成ウィンドウ",
+    "vi" : "Trang viết lời nhắn",
+    "zh" : "写纸条窗"
+  },
+  "이동" : {
+    "en" : "Move",
+    "ja" : "移動",
+    "vi" : "Di chuyển",
+    "zh" : "移动"
+  },
+  "쪽지 내용의 링크 클릭시 새창으로 열기" : {
+    "en" : "Open in a new window when you click the content (link) of the message.",
+    "ja" : "メッセージ内容のリンクをクリック時、新しいウィンドウで開く",
+    "vi" : "Mở trang mới khi nhấn vào liên kết trong nội dung lời nhắn",
+    "zh" : "点击纸条内容的链接时开新的窗口。"
+  },
+  "태평양 표준시" : {
+    "en" : "Pacific Standard Time",
+    "ja" : "太平洋標準時刻",
+    "vi" : "Giờ tiêu chuẩn Thái Bình Dương",
+    "zh" : "太平洋标准时间"
+  },
+  "기본용량" : {
+    "en" : "Default Storage (Capacity)",
+    "ja" : "基本容量",
+    "vi" : "Mặc định",
+    "zh" : "基本用量"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全体期间"
+  },
+  "이전" : {
+    "en" : "Previous",
+    "ja" : "前",
+    "vi" : "Trước đó",
+    "zh" : "以前"
+  },
+  "쪽지함 선택" : {
+    "en" : "Select Messagebox",
+    "ja" : "メッセージBoxの選択",
+    "vi" : "Chọn hộp lời nhắn",
+    "zh" : "纸条箱选择"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "읽은 쪽지는 회수 할 수 없습니다." : {
+    "en" : "You cannot retrieve already read messages.",
+    "ja" : "既読メッセージは回収できません。",
+    "vi" : "Không thể thu hồi lời nhắn đã đọc.",
+    "zh" : "已经读的纸条不可回收。"
+  },
+  "맨위로" : {
+    "en" : "Top",
+    "ja" : "上部へ",
+    "vi" : "Trên cùng",
+    "zh" : "最上边"
+  },
+  "안읽은 전달 쪽지" : {
+    "en" : "Forwarded Messages (Unread)",
+    "ja" : "未読転送メッセージ",
+    "vi" : "Chưa đọc chuyển tiếp",
+    "zh" : "未读的传达纸条"
+  },
+  "최근1달" : {
+    "en" : "Last 1 month",
+    "ja" : "最近1ヶ月",
+    "vi" : "1 tháng gần đây",
+    "zh" : "最近1个月"
+  },
+  "영구보관함" : {
+    "en" : "Permanently Stored Messages",
+    "ja" : "永久保存",
+    "vi" : "Hộp lời nhắn vĩnh viễn",
+    "zh" : "永久保管箱"
+  },
+  "쪽지함 백업" : {
+    "en" : "Backup Messagebox",
+    "ja" : "メッセージBoxバックアップ",
+    "vi" : "Sao lưu hộp lời nhắn",
+    "zh" : "备份纸条箱"
+  },
+  "삭제된 쪽지입니다." : {
+    "en" : "The message has been deleted.",
+    "ja" : "削除されたメッセージです。",
+    "vi" : "Đây là lời nhắn bị xóa.",
+    "zh" : "被删除的纸条。"
+  },
+  "용량변경" : {
+    "en" : "Change space",
+    "ja" : "容量変更",
+    "vi" : "Thay đổi dung lượng",
+    "zh" : "变更用量"
+  },
+  "목록정렬" : {
+    "en" : "Arrange List",
+    "ja" : "リストの並べ替え",
+    "vi" : "Sắp xếp danh sách",
+    "zh" : "整列目录"
+  },
+  "예약 날짜를 올바른 형식으로 입력해주세요." : {
+    "en" : "Please enter the scheduled date in the correct format .",
+    "ja" : "予約日を正しいフォームで入力してください。",
+    "vi" : "Hãy nhập đúng hình thức ngày hẹn.",
+    "zh" : "请以正确的格式输入您的预订日期。"
+  },
+  "목록만 보기" : {
+    "en" : "Only Show the List",
+    "ja" : "リストのみを表示",
+    "vi" : "Chỉ xem danh sách",
+    "zh" : "只看目录"
+  },
+  "발송 및 쪽지 접속시 경고창 표시" : {
+    "en" : "Show a warning message when sending or reading a note",
+    "ja" : "送信及びメッセージの接続時、警告ウィンドウ表示",
+    "vi" : "Hiển thị trang cảnh báo khi gửi hoặc đọc lời nhắn.",
+    "zh" : "连接发送及纸条时表示警告窗"
+  },
+  "{0}님은 유효하지 않은 사용자이므로 쪽지발송에서 제외됩니다." : {
+    "en" : "{0} is not a valid user. The message will not be sent to {0}.",
+    "ja" : "{0}さんは有効でないユーザーであるため、メッセージ送信から除外されます。",
+    "vi" : "{0} không hợp lệ và tin nhắn sẽ không được gửi.",
+    "zh" : "尊敬的{0}，因您是不有效的用户,故不能发送便条。"
+  },
+  "쪽지함명" : {
+    "en" : "Messagebox name",
+    "ja" : "メッセージBox名",
+    "vi" : "Tên hộp xóa",
+    "zh" : "纸条箱名"
+  },
+  "자신에게도 발송" : {
+    "en" : "Also send to myself",
+    "ja" : "自分にも送信",
+    "vi" : "Gửi đến cho bản thân",
+    "zh" : "发送给自己"
+  },
+  "개인쪽지" : {
+    "en" : "Personal message",
+    "ja" : "個人メッセージ",
+    "vi" : "Lời nhắn cá nhân",
+    "zh" : "个人纸条"
+  },
+  "쪽지함 위치" : {
+    "en" : "Messagebox Location",
+    "ja" : "メッセージBox位置",
+    "vi" : "Vị trí hộp lời nhắn",
+    "zh" : "纸条箱位置"
+  },
+  "쪽지 용량을 확보하기 위해 [사용자 설정 > 쪽지함 관리]에서 필요없는 쪽지을 삭제 또는 백업후 삭제하세요." : {
+    "en" : "To create some room in your messagebox, go to [Settings > Manage Messagebox] and delete unimportant messages (you can back up important messages before emptying your messagebox)",
+    "ja" : "メッセージ容量を確保する為に、[ユーザー設定>メッセージBox管理]で不要なメッセージを削除、またはバックアップ後削除してください。",
+    "vi" : "Để kiểm tra dung lượng lời nhắn, hãy xóa lời nhắn không cần thiết trên [Cài đặt người dùng > Quản lý hộp lời nhắn] hoặc xóa sau khi sao lưu.",
+    "zh" : "为了确保纸条用量在[使用者设定〉纸条箱管理]删除或备份不需要的纸条后进行删除。"
+  },
+  "기준시간" : {
+    "en" : "Standard time",
+    "ja" : "基準時間",
+    "vi" : "Thời gian tiêu chuẩn",
+    "zh" : "标准时间"
+  },
+  "답장" : {
+    "en" : "Reply",
+    "ja" : "返信",
+    "vi" : "Trả lời",
+    "zh" : "回信"
+  },
+  "검색 결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果なし",
+    "vi" : "Không có kết quả tìm kiếm",
+    "zh" : "没有搜索结果。"
+  },
+  "세션이 종료되었습니다. 로그인 후 다시 시도하세요." : {
+    "en" : "The session is over. Please try again after login.",
+    "ja" : "セッションが終了しました。ログイン後、もう一度お試しください。",
+    "vi" : "Phiên bản đã hết hạn. Đăng nhập để thử lại.",
+    "zh" : "session已被结束。请再登录后进行。"
+  },
+  "부서 중복" : {
+    "en" : "Duplicate department",
+    "ja" : "部署重複",
+    "vi" : "Bộ phận trùng lặp",
+    "zh" : "部门重复"
+  },
+  "게시물 등록" : {
+    "en" : "Add Post",
+    "ja" : "掲示物登録",
+    "vi" : "Đăng ký bài viết",
+    "zh" : "登录布告内容"
+  },
+  "하위 쪽지함이 없습니다." : {
+    "en" : "No sub-messagebox.",
+    "ja" : "下位メッセージBoxがありません。",
+    "vi" : "Không có hộp ghi chú phụ.",
+    "zh" : "没有下级纸条箱。"
+  },
+  "복원하시겠습니까?" : {
+    "en" : "Do you want to restore it?",
+    "ja" : "復元しますか？",
+    "vi" : "Bạn có muốn khôi phục không?",
+    "zh" : "要复原吗？"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の開始日は終了日より過去の日付を設定してください。",
+    "vi" : "Ngày bắt đầu của khoảng thời gian không thể lớn hơn ngày kết thúc.",
+    "zh" : "选择期间的开始日子不可大于结束日子。"
+  },
+  "내림차순" : {
+    "en" : "Descending",
+    "ja" : "降順",
+    "vi" : "theo thứ tự giảm xuống",
+    "zh" : "递减"
+  },
+  "안읽은 쪽지" : {
+    "en" : "Unread Notes",
+    "ja" : "未読メッセージ",
+    "vi" : "Lời nhắn chưa đọc",
+    "zh" : "没读的枝条"
+  },
+  "기간선택" : {
+    "en" : "Select a period",
+    "ja" : "期間選択",
+    "vi" : "Lựa chọn khoảng thời gian",
+    "zh" : "选择期间"
+  },
+  "날짜 변경선 서쪽" : {
+    "en" : "West Side of the International Date Line",
+    "ja" : "日付変更線 西側",
+    "vi" : "Phía tây của đường thay đổi ngày",
+    "zh" : "日子变更线西边"
+  },
+  "사용" : {
+    "en" : "use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "쪽지 백업은 쪽지함의 쪽지수에 따라 백업 소요시간의 차이가 있습니다." : {
+    "en" : "The backup process may take some time depending on the number of messages in the messagebox.",
+    "ja" : "メッセージの削除はメッセージBoxの数によって削除時間の差があります。",
+    "vi" : "Qua trình sao lưu lời nhắn có sự khác biệt về thời gian tùy theo số lời nhắn ở hộp lời nhắn.",
+    "zh" : "备份纸条由纸条箱的纸条数会有备份时间的差异。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "설정" : {
+    "en" : "Setting",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "삭제함은 {0} 보관후 자동 삭제됩니다." : {
+    "en" : "Messages in the Trash Bin will be automatically deleted after {0} days.",
+    "ja" : "削除Boxは{0}保管後に自動削除されます。",
+    "vi" : "Hộp xóa được lưu giữ trong vòng {0} và sẽ bị xóa.",
+    "zh" : "删除箱{0}保管后会自动删除。"
+  },
+  "검색된 쪽지가 없습니다." : {
+    "en" : "No messages have been searched.",
+    "ja" : "検索されたメッセージがありません。",
+    "vi" : "Không có lời nhắn tìm kiếm",
+    "zh" : "无搜索的便条。"
+  },
+  "쪽지함명은 한글 30자 이내,영어 60자 이내로 입력하세요." : {
+    "en" : "The messagebox name must be less than 30 Korean chars or 60 English chars.",
+    "ja" : "メッセージBox名はハングル30文字以内、英語60文字以内で入力してください。",
+    "vi" : "Hãy nhập tên hộp lời nhắn dưới 30 ký tự tiếng Hàn và dưới 60 ký tự tiếng Anh.",
+    "zh" : "纸条箱请输入名韩文 30字以内， 英文 60字以内。"
+  },
+  "영구보관함 용량관리" : {
+    "en" : "Manage Permanent Storage Capacity",
+    "ja" : "永久保存Boxの容量管理",
+    "vi" : "Quản lý dung lượng hộp lưu giữ vĩnh viễn",
+    "zh" : "管理永久保管箱用量"
+  },
+  "전달" : {
+    "en" : "Forward",
+    "ja" : "転送",
+    "vi" : "Chuyển tiếp",
+    "zh" : "传达"
+  },
+  "첨부제한" : {
+    "en" : "Attachment Restrictions",
+    "ja" : "添付ファイルの拡張子制限",
+    "vi" : "Hạn chế đính kèm",
+    "zh" : "限制附件扩展名"
+  },
+  "이동할 쪽지함을 선택하세요." : {
+    "en" : "Please select a messagebox to move.",
+    "ja" : "移動するメッセージBoxを選択してください。",
+    "vi" : "Hãy chọn hộp lời nhắn để di chuyển.",
+    "zh" : "请选择要移动的纸条箱。"
+  },
+  "받은 쪽지" : {
+    "en" : "Inbox",
+    "ja" : "受信メッセージ",
+    "vi" : "Lời nhắn nhận được",
+    "zh" : "受到的纸条"
+  },
+  "산지 표준시_미국/캐나다" : {
+    "en" : "Mountain Standard Time_the United States/Canada",
+    "ja" : "山地標準時刻_アメリカ/カナダ",
+    "vi" : "Giờ tiêu chuẩn khu vực miền núi_ Mỹ/ Canada",
+    "zh" : "产地标准时间-美国/加拿大"
+  },
+  "읽음" : {
+    "en" : "Read",
+    "ja" : "既読",
+    "vi" : "Đã đọc",
+    "zh" : "读"
+  },
+  "받은쪽지, 보낸쪽지함에서 보관 기간이 지난 쪽지는 삭제함으로 이동됩니다." : {
+    "en" : "Expired messages in your Sent Messages & Inbox will be automatically moved to the Trash Bin.",
+    "ja" : "受信メッセージ・送信メッセージBoxで保管期間が過ぎたメッセージは削除Boxに移動されます。",
+    "vi" : "Lời nhắn đã quá thời gian lưu giữ trong hộp lời nhắn nhận/ gửi sẽ được di chuyển sang hộp xóa.",
+    "zh" : "在受到的纸条，发送纸条箱理经过保管期间的过去纸条会移动到删除箱里。"
+  },
+  "선택한 사용자의 할당용량" : {
+    "en" : "Storage quota for the selected user",
+    "ja" : "選択したユーザーの割当容量",
+    "vi" : "Giới hạn dung lượng của người dùng được lựa chọn",
+    "zh" : "选择的使用者分配用量"
+  },
+  "일" : {
+    "en" : "day",
+    "ja" : "日",
+    "vi" : "Ngày",
+    "zh" : "星期日"
+  },
+  "임시보관함" : {
+    "en" : "Drafts",
+    "ja" : "下書き保存",
+    "vi" : "Hộp lưu giữ tạm thời",
+    "zh" : "临时保管箱"
+  },
+  "읽은상태로 표시" : {
+    "en" : "Mark as read",
+    "ja" : "開封済みにする",
+    "vi" : "Biểu thị như trạng thái đã đọc",
+    "zh" : "显示为已读状态"
+  },
+  "선택회수" : {
+    "en" : "Retrieve (Selected)",
+    "ja" : "選択回収",
+    "vi" : "Số lần chọn",
+    "zh" : "选择回收"
+  },
+  "중요 쪽지" : {
+    "en" : "Important Messages",
+    "ja" : "重量メッセージ",
+    "vi" : "Lời nhắn quan trọng",
+    "zh" : "重要纸条"
+  },
+  "복원하였습니다." : {
+    "en" : "The item has been restored.",
+    "ja" : "復元しました。",
+    "vi" : "Đã khôi phục.",
+    "zh" : "已复原。"
+  },
+  "보낸 날짜" : {
+    "en" : "Send date",
+    "ja" : "送信日付",
+    "vi" : "Ngày gửi",
+    "zh" : "发送日子"
+  },
+  "모두 읽음" : {
+    "en" : "Read all",
+    "ja" : "全て既読",
+    "vi" : "Đọc tất cả",
+    "zh" : "全部读"
+  },
+  "새쪽지" : {
+    "en" : "You have received a new message.",
+    "ja" : "新しいメッセージ",
+    "vi" : "Lời nhắn mới",
+    "zh" : "新纸条"
+  },
+  "쪽지를 발송하였습니다." : {
+    "en" : "Message successfully sent.",
+    "ja" : "メッセージを発送しました.",
+    "vi" : "Đã gửi lời nhắn",
+    "zh" : "发送了纸条。"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "용량이 초과되어 쪽지가 미도착했습니다." : {
+    "en" : "The note has not arrived due to exceeding the capacity.",
+    "ja" : "容量を超えているため、メッセージを読み取ることができません。",
+    "vi" : "Ghi chú không được gửi đến do vượt quá dung lượng.",
+    "zh" : "超过容量，便条未收到。"
+  },
+  "영구보관함 전체 용량" : {
+    "en" : "Archive - total space",
+    "ja" : "永久保存Boxの全体容量",
+    "vi" : "Toàn bộ dung lượng hộp lưu giữ vĩnh viễn",
+    "zh" : "永久保管箱全体用量"
+  },
+  "읽은 쪽지가 없습니다." : {
+    "en" : "No read messages.",
+    "ja" : "既読メッセージがありません。",
+    "vi" : "Không có lời nhắn đã đọc",
+    "zh" : "无已读便条。"
+  },
+  "이 쪽지을" : {
+    "en" : "This message",
+    "ja" : "このメッセージを",
+    "vi" : "lời nhắn này",
+    "zh" : "把这个纸条"
+  },
+  "회수하였습니다." : {
+    "en" : "The item has been retrieved.",
+    "ja" : "回収しました。",
+    "vi" : "Đã thu hồi.",
+    "zh" : "回收完了。"
+  },
+  "상위부서" : {
+    "en" : "Parent Department",
+    "ja" : "上位部署",
+    "vi" : "Bộ phận trên",
+    "zh" : "上位部门"
+  },
+  "알림쪽지 쪽지함에서 표기" : {
+    "en" : "Mark a notification message on the message box",
+    "ja" : "通知メッセージをメッセージBoxに表記",
+    "vi" : "Hiển thị thông báo trong hộp thông báo",
+    "zh" : "在提醒纸条箱中标记"
+  },
+  "보낸알림" : {
+    "en" : "Sent notification",
+    "ja" : "送信した通知",
+    "vi" : "Thông báo gửi",
+    "zh" : "发送提醒"
+  },
+  "위쪽지" : {
+    "en" : "Above Note",
+    "ja" : "上のメッセージ",
+    "vi" : "Trên",
+    "zh" : "上纸条"
+  },
+  "백업" : {
+    "en" : "Backup",
+    "ja" : "バックアップ",
+    "vi" : "Sao lưu",
+    "zh" : "备份"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "펼침옵션" : {
+    "en" : "Expand option",
+    "ja" : "「もっと見る」オプション",
+    "vi" : "Tùy chọn mở rộng",
+    "zh" : "伸缩选项"
+  },
+  "쪽지가 이동되었습니다." : {
+    "en" : "The note was moved.",
+    "ja" : "メッセージが移動されました。",
+    "vi" : "Lời nhắn đã được di chuyển",
+    "zh" : "纸条移动完了。"
+  },
+  "{0}년이 지난 쪽지" : {
+    "en" : "{0} years old",
+    "ja" : "{0}年が過ぎたメッセージ",
+    "vi" : "Lời nhắn đã quá {0} năm",
+    "zh" : "已经过{1}年的纸条"
+  },
+  "알림쪽지 메뉴 통합" : {
+    "en" : "Merge Notification Message Menu",
+    "ja" : "通知メッセージメニュー統合",
+    "vi" : "Gộp thông báo menu thông báo",
+    "zh" : "统合提醒纸条菜单"
+  },
+  "받은알림" : {
+    "en" : "Received notification",
+    "ja" : "受信した通知",
+    "vi" : "Thông báo nhận",
+    "zh" : "收到提醒"
+  },
+  "기간을 선택하세요." : {
+    "en" : "Select a period",
+    "ja" : "期間を選択してください。",
+    "vi" : "Hãy chọn khoảng thời gian.",
+    "zh" : "请输入期间。"
+  },
+  "첨부파일이 이미지일 경우 쪽지 내용 하단에 표시" : {
+    "en" : "If attached file is an image, show it at the bottom of the message",
+    "ja" : "添付ファイルが画像である場合、メッセージ内容の下に表示",
+    "vi" : "Hiển thị phía dưới nội dung lời nhắn trong trường hợp file đính kèm là hình ảnh.",
+    "zh" : "附件是图像的话在纸条内容下端表示"
+  },
+  "변경 시 기본용량을 할당받은 전체사용자의 기본용량이 일괄적으로 변경됩니다." : {
+    "en" : "If you click the Change button, the default space given to all users will be changed at once.",
+    "ja" : "変更の際、基本容量の割当を受けた全体ユーザーの基本容量が一括変更されます。",
+    "vi" : "Khi thay đổi, dung lượng mặc định của toàn bộ người dùng  được thay đổi một cách nhất quán.",
+    "zh" : "变更时分配基本用量的全体使用者的基本用量也一样进行变更。"
+  },
+  "선택한 쪽지를 영구보관함으로 보관하시겠습니까?" : {
+    "en" : "Would you like to store the selected message in your Permanent Storage (Archive)?",
+    "ja" : "選択したメッセージを永久保存Boxに保存しますか？",
+    "vi" : "Bạn có muốn lưu vào hộp lưu giữ vình viễn lời nhắn đã chọn không?",
+    "zh" : "您选泽的纸条要保管在永久保管箱吗?"
+  },
+  "저장" : {
+    "en" : "Save",
+    "ja" : "保存",
+    "vi" : "Lưu",
+    "zh" : "存储"
+  },
+  "첨부 용량" : {
+    "en" : "Attachment size",
+    "ja" : "添付容量",
+    "vi" : "Dung lượng đính kèm",
+    "zh" : "附加用量"
+  },
+  "받는사람" : {
+    "en" : "Recipient (To)",
+    "ja" : "宛先",
+    "vi" : "Người nhận",
+    "zh" : "收件人"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Khoảng thời gian",
+    "zh" : "期间"
+  },
+  "받은 알림 쪽지" : {
+    "en" : "Received Notification Messages",
+    "ja" : "受信通知メッセージ",
+    "vi" : "Ghi chú thông báo đã nhận",
+    "zh" : "收到的提醒纸条"
+  },
+  "읽은 상태로 표시" : {
+    "en" : "Check all messages as read",
+    "ja" : "既読にする",
+    "vi" : "Hiển thị trạng thái đã đọc",
+    "zh" : "表示为已经读"
+  },
+  "그리니치 표준시_런던" : {
+    "en" : "GMT_London",
+    "ja" : "グリニッジ標準時刻_ロンドン",
+    "vi" : "Giờ tiêu chuẩn GMT_ London",
+    "zh" : "格林威治标准时间-伦敦"
+  },
+  "사용안함" : {
+    "en" : "Don't use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "쪽지함을 삭제할 경우 쪽지함에 속해있는 쪽지까지 삭제됩니다. 선택한 쪽지함을 삭제하시겠습니까?" : {
+    "en" : "If you delete a messagebox, the messages in the messagebox will be deleted as well. Are you sure you want to delete the selected messagebox?",
+    "ja" : "メッセージBoxを削除する場合、メッセージBox内すべてのメッセージが削除されます。選択したメッセージBoxを削除しますか？",
+    "vi" : "Trường hợp xóa hộp lời nhắn thì lời nhắn thuộc vào hộp lời nhắn cũng sẽ bị xóa. Bạn có muốn xóa hộp lời nhắn đã chọn không?",
+    "zh" : "删除纸条箱的话属于纸条箱的纸条也会被删除。要删除您选择的纸条箱吗？"
+  },
+  "수신" : {
+    "en" : "Receive",
+    "ja" : "受信",
+    "vi" : "Nhận",
+    "zh" : "收信"
+  },
+  "모두완전삭제" : {
+    "en" : "Delete Permanently (All)",
+    "ja" : "すべて完全削除",
+    "vi" : "Xóa tất cả vĩnh viễn",
+    "zh" : "全部完全删除"
+  },
+  "{0}%이상 사용자" : {
+    "en" : "More than {0}% of the user",
+    "ja" : "{0}%以上の ユーザー",
+    "vi" : "Hơn {0}% người dùng",
+    "zh" : "{0}%以上用户"
+  },
+  "사용자 중복" : {
+    "en" : "Duplicate user",
+    "ja" : "ユーザー重複",
+    "vi" : "Người dùng trùng lặp",
+    "zh" : "使用者重复"
+  },
+  "읽지 않은 쪽지도 모두 삭제됩니다. 삭제시 주의하세요." : {
+    "en" : "All unread messages will be deleted as well. Please be careful when deleting.",
+    "ja" : "未読メッセージもすべて削除されます。削除時、ご注意ください。",
+    "vi" : "Lời nhắn chưa đọc cũng sẽ bị xóa hết. Hãy chú ý khi xóa.",
+    "zh" : "没有读的纸条也会被删除。删除时请注意。"
+  },
+  "검색선택의 시작일자를 입력해주세요." : {
+    "en" : "Enter a start date of the search period.",
+    "ja" : "検索選択の開始日付を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu của của khoản thời gian tìm kiếm",
+    "zh" : "请输入搜索选择的开始日子。"
+  },
+  "확인시간" : {
+    "en" : "Read time",
+    "ja" : "確認時間",
+    "vi" : "Thời gian kiểm tra",
+    "zh" : "确认时间"
+  },
+  "안읽은 답장 쪽지" : {
+    "en" : "Replies (Unread)",
+    "ja" : "未読返信メッセージ",
+    "vi" : "Chưa đọc ghi chú",
+    "zh" : "未读的回答纸条"
+  },
+  "확인" : {
+    "en" : "OK",
+    "ja" : "確認",
+    "vi" : "ĐỒNG Ý",
+    "zh" : "确认"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "掲示板",
+    "vi" : "Bảng tin",
+    "zh" : "布告栏"
+  },
+  "사용자 설정 &gt; 쪽지함 관리에서 쪽지함별로 모두삭제를 하여 쪽지함을 비울수 있습니다." : {
+    "en" : "Go to Settings > Manage Messagebox and delete all messages (by messagebox) to free up space.",
+    "ja" : "ユーザー設定&gt;メッセージBox管理から、メッセージ箱別にすべて削除してメッセージを空にすることが出来ます。",
+    "vi" : "Bạn có thể xóa toàn bộ theo hộp lời nhắn ở trên Cài đặt người dùng& gt; quản lý hộp lời nhắn và làm trống hộp lời nhắn.",
+    "zh" : "使用者设定 &gt; 在纸条箱管理按照各个纸条箱全部删除而空出纸条箱。"
+  },
+  "파일을 다운로드할 수 없습니다." : {
+    "en" : "You can't download the file.",
+    "ja" : "ファイルをダウンロードすることができません。",
+    "vi" : "Không thể tải file xuống",
+    "zh" : "不可下载文件。"
+  },
+  "임시저장후 삭제" : {
+    "en" : "Delete after saving temporarily",
+    "ja" : "下書きの保存後に削除する",
+    "vi" : "Xóa sau khi lưu tạm thời",
+    "zh" : "临时保存后删除"
+  },
+  "쪽지가 존재하지 않습니다. 새로 고침후 다시 시도해주세요." : {
+    "en" : "The message does not exist. Please refresh and try again.",
+    "ja" : "メッセージが存在しません。リロードしてから再度お試しください。",
+    "vi" : "Không tồn tại lời nhắn. Hãy làm mới và thử lại.",
+    "zh" : "该消息不存在。请刷新，然后再试一次。"
+  },
+  "변경" : {
+    "en" : "Change",
+    "ja" : "変更",
+    "vi" : "Thay đổi",
+    "zh" : "变更"
+  },
+  "로드 호우 아일랜드" : {
+    "en" : "Lord Howe Island",
+    "ja" : "ロードアイランド",
+    "vi" : "Rhode island",
+    "zh" : "暴雨路爱尔兰"
+  },
+  "받은알림을 받은쪽지에 표기" : {
+    "en" : "Mark a received notification on a received message",
+    "ja" : "受信した通知を受信したメッセージに表記",
+    "vi" : "Hiển thị thông báo đã nhận trong hộp đã nhận",
+    "zh" : "在收到提醒的纸条上标记"
+  },
+  "받는 사람이 여러명일 경우 쉼표(,) 혹은 세미콜론(;)으로 구분합니다." : {
+    "en" : "If you want to send a message to several recipients, separate them by comma (,) or semicolon (;).",
+    "ja" : "宛先が複数の場合、コンマ(,) あるいはセミコロン(;)で区分します。",
+    "vi" : "Trong trường hợp có nhiều người nhận, hãy phân biệt bằng dấu phẩy (,) hoặc dấu chấm phẩy (;)",
+    "zh" : "收件人多数的话用(,) 或(;)来进行区分。"
+  },
+  "모두보기" : {
+    "en" : "View All",
+    "ja" : "すべて表示",
+    "vi" : "Xem tất cả",
+    "zh" : "全部看"
+  },
+  "모든 쪽지를 회수하시겠습니까?" : {
+    "en" : "Would you like to retrieve all messages?",
+    "ja" : "全てのメッセージを回収しますか？",
+    "vi" : "Bạn có muốn thu hồi tất cả lời nhắn hay không?",
+    "zh" : "要回收所有纸条吗？"
+  },
+  "영구보관" : {
+    "en" : "Keep/Archive Forever",
+    "ja" : "永久保存",
+    "vi" : "Lưu giữ vĩnh viễn",
+    "zh" : "永久保管"
+  },
+  "모두선택" : {
+    "en" : "Select all",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "选择全部"
+  },
+  "사용자 설정 &gt; 쪽지함 관리에서 쪽지함별로 백업한 후 쪽지를 삭제합니다." : {
+    "en" : "Go to Settings > Manage Messagebox and back up your messages (by messagebox). Then, delete unimportant messages.",
+    "ja" : "ユーザー設定&gtメッセージBox別にバックアップ後、メッセージを削除します。",
+    "vi" : "Xóa lời nhắn sau khi sao lưu theo từng hộp lời nhắn ở Cài đặt người dùng& gt; quản lý hộp lời nhắn.",
+    "zh" : "使用者设定 &gt; 在纸条箱管理按照各个纸条箱备份后删除纸条。"
+  }
+}

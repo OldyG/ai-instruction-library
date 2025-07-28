@@ -1,0 +1,1454 @@
+{
+  "대기(필수)" : {
+    "en" : "Waiting (Mandatory)",
+    "ja" : "待機（必須）",
+    "vi" : "Đang chờ (bắt buộc)",
+    "zh" : "等待(必须)"
+  },
+  "조직도에서 선택하세요." : {
+    "en" : "Select from the organizational chart.",
+    "ja" : "組職図から選択してください。",
+    "vi" : "Lựa chọn từ sơ đồ tổ chức.",
+    "zh" : "请选择组织图。"
+  },
+  "불러오기" : {
+    "en" : "Import",
+    "ja" : "インポート",
+    "vi" : "Tải",
+    "zh" : "叫来"
+  },
+  "금" : {
+    "en" : "Fri",
+    "ja" : "金",
+    "vi" : "Thứ sáu",
+    "zh" : "周五"
+  },
+  "모든 문항을 분기사용으로 설정 할 수 없습니다." : {
+    "en" : "You can set up to use all questions to 'Use Branches'",
+    "ja" : "すべての質問を分岐使用に設定できません。",
+    "vi" : "Bạn có thể thiết lập để sử dụng tất cả câu hỏi trên cơ sở từng quý.",
+    "zh" : "所有问题不可设定为分期使用。"
+  },
+  "일간" : {
+    "en" : "Daily",
+    "ja" : "日間",
+    "vi" : "Hàng ngày",
+    "zh" : "日间"
+  },
+  "%s 번 질문에 답변을 작성해주세요." : {
+    "en" : "Type an answer to Question no.%s .",
+    "ja" : "%s 番質問に返事を作成してください。",
+    "vi" : "Nhập đáp án cho Câu hỏi số %s.",
+    "zh" : "请制作%s 号质问的回答。"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Chủ đề",
+    "zh" : "题目"
+  },
+  "삭제할 문항을 선택하세요." : {
+    "en" : "Select the question to delete.",
+    "ja" : "削除する質問項目を選択してください。",
+    "vi" : "Chọn câu hỏi cần xóa.",
+    "zh" : "请选择要删除问项。"
+  },
+  "수" : {
+    "en" : "Wed",
+    "ja" : "水",
+    "vi" : "Thứ Tư",
+    "zh" : "星期三"
+  },
+  "기간을 변경하였습니다." : {
+    "en" : "The period has been changed.",
+    "ja" : "期間を変更しました。",
+    "vi" : "Thời hạn đã được thay đổi.",
+    "zh" : "变更期间了。"
+  },
+  "작성자 이메일을 입력하세요." : {
+    "en" : "Please add an author's email address.",
+    "ja" : "作成者の電子メールを入力してください。",
+    "vi" : "Hãy nhập email người viết.",
+    "zh" : "确认小组箱-终结"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "이미 참여하였습니다." : {
+    "en" : "Already participated.",
+    "ja" : "すでに参加しています。",
+    "vi" : "Đã tham gia.",
+    "zh" : "已经参加了。"
+  },
+  "이미 참여 하셨습니다." : {
+    "en" : "Already participated.",
+    "ja" : "すでに参加しています。",
+    "vi" : "Đã tham gia.",
+    "zh" : "已经参加了。"
+  },
+  "평가대기" : {
+    "en" : "Waiting for evaluation",
+    "ja" : "評価待ち",
+    "vi" : "Chờ đánh giá",
+    "zh" : "等待评价"
+  },
+  "평가자" : {
+    "en" : "Evaluator",
+    "ja" : "評価者",
+    "vi" : "Người đánh giá",
+    "zh" : "评价人"
+  },
+  "임시저장하였습니다." : {
+    "en" : "It has been saved to the Drafts box.",
+    "ja" : "一時保存しました。",
+    "vi" : "Đã lưu trong hộp Bản thảo.",
+    "zh" : "临时保存完了。"
+  },
+  "평가 점수를 입력하세요." : {
+    "en" : "Please enter your rating.",
+    "ja" : "評価点数を入力してください。",
+    "vi" : "Vui lòng nhập số điểm đánh giá của bạn.",
+    "zh" : "请输入评价分数。"
+  },
+  "빈칸채우기형 빈칸을 추가해주세요." : {
+    "en" : "Please fill in the blanks. ('Fill in the Blanks' question)",
+    "ja" : "穴埋め型の空欄を追加してください。",
+    "vi" : "Vui lòng thêm khoảng trống để điền vào chỗ trống.",
+    "zh" : "请追加填写空格形空格。"
+  },
+  "기간을 변경하겠습니까?" : {
+    "en" : "Do you want to change the period?",
+    "ja" : "期間を変更しますか？",
+    "vi" : "Bạn có muốn thay đổi thời hạn không?",
+    "zh" : "要变更期间吗？"
+  },
+  "기간이 지난 설문은 종료됩니다." : {
+    "en" : "The expired survey will be terminated.",
+    "ja" : "期間が過ぎたアンケートは終了されます。",
+    "vi" : "Khảo sát quá thời hạn đã kết thúc.",
+    "zh" : "过期评价将终止。"
+  },
+  "파일을 선택하세요." : {
+    "en" : "Select a file.",
+    "ja" : "ファイルを選択してください。",
+    "vi" : "Chọn file",
+    "zh" : "请选择文件。"
+  },
+  "완전 삭제되어 조회 할수 없습니다." : {
+    "en" : "Permanently deleted items cannot be viewed.",
+    "ja" : "完全消去されたため照会することができません。",
+    "vi" : "Không thể xem các mục đã bị xóa vĩnh viễn.",
+    "zh" : "被完全删除而不可查询。"
+  },
+  "설문수정" : {
+    "en" : "Modify Survey",
+    "ja" : "アンケート修正",
+    "vi" : "Sửa đổi",
+    "zh" : "修改设文"
+  },
+  "설문 등록자" : {
+    "en" : "Registrants",
+    "ja" : "アンケート登録者",
+    "vi" : "Người đăng kí",
+    "zh" : "制作中设文"
+  },
+  "참여기간 : {0} - {1}" : {
+    "en" : "Participation period : {0} - {1}",
+    "ja" : "参加期間：{0} - {1}",
+    "vi" : "Giai đoạn tham gia: {0} - {1}",
+    "zh" : "参与期间 : {0} - {1}"
+  },
+  "종료된 설문" : {
+    "en" : "Finished Survey",
+    "ja" : "終了したアンケート",
+    "vi" : "Đã hoàn thành",
+    "zh" : "管理设文"
+  },
+  "실명" : {
+    "en" : "Real Name",
+    "ja" : "実名",
+    "vi" : "Tên thật",
+    "zh" : "实名"
+  },
+  "외부평가" : {
+    "en" : "External evaluation",
+    "ja" : "外部評価",
+    "vi" : "Đánh giá bên ngoài",
+    "zh" : "外部评价"
+  },
+  "조정점수" : {
+    "en" : "Adjusted score",
+    "ja" : "調整点数",
+    "vi" : "Điểm số đã điều chỉnh",
+    "zh" : "调整分数"
+  },
+  "내용이 초과 되었습니다.\\n초과된 내용은 자동으로 삭제 됩니다." : {
+    "en" : "Exceeded max. character limit.\\nThe excess will be automatically deleted.",
+    "ja" : "内容が超過されました。\\n 超過された内容は自動削除されます。",
+    "vi" : "Bạn đã nhập quá nhiều ký tự.\\nPhần bị thừa sẽ sẽ được tự động xóa bỏ.",
+    "zh" : "超过了内容。\\n超过的内容会被自动删除。"
+  },
+  "참여자" : {
+    "en" : "Participants",
+    "ja" : "参加者",
+    "vi" : "Người tham gia",
+    "zh" : "参加人"
+  },
+  "질문 보기의 #blank#개수와 빈칸 보기 개수를 동일하게 작성해 주세요." : {
+    "en" : "Please make sure that the number of # blank # for the questions and the number of blanks are the same.",
+    "ja" : "質問表示の＃blank＃数と表示数空欄が同一になるように作成してください。",
+    "vi" : "Vui lòng đảm bảo rằng số #blank# cho các câu hỏi và số lượng khoảng trống là bằng nhau.",
+    "zh" : "请同样制作看问题的#blank#个数和看空格个数。"
+  },
+  "반려사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "退回原因"
+  },
+  "제목은 한글 33자 이내, 영어 100자 이내로 입력하세요." : {
+    "en" : "Title names must be less than 33 characters in Korean or 100 characters in English..",
+    "ja" : "タイトルはハングル33文字以内、英語100文字以内で入力してください。",
+    "vi" : "Tên tiêu đề phải ít hơn 33 ký tự tiếng Hàn hoặc 100 ký tự tiếng Anh.",
+    "zh" : "题目输入为韩文33字以内, 英文 100字以内。"
+  },
+  "메일주소 입력" : {
+    "en" : "Enter an e-mail address.",
+    "ja" : "メールアドレス入力",
+    "vi" : "Nhập địa chỉ email.",
+    "zh" : "输入邮件地址"
+  },
+  "설문필수" : {
+    "en" : "Compulsory survey",
+    "ja" : "アンケート必須",
+    "vi" : "Khảo sát bắt buộc",
+    "zh" : "必须设文"
+  },
+  "1번 문항은 삭제할 수 없습니다." : {
+    "en" : "You can't delete Question No. 1",
+    "ja" : "1番の質問項目は削除できません。",
+    "vi" : "Bạn không thể xóa Câu hỏi số 1.",
+    "zh" : "1号问项不可删除。"
+  },
+  "등록을 승인하시겠습니까?" : {
+    "en" : "Do you want to approve the post?",
+    "ja" : "登録を承認しますか？",
+    "vi" : "Bạn có muốn phê duyệt bài đăng này không?",
+    "zh" : "要承认登录吗？"
+  },
+  "이메일 주소 형식이 올바르지 않습니다." : {
+    "en" : "Invalid e-mail address format.",
+    "ja" : "このメールアドレスの形式が正しくありません。",
+    "vi" : "Định dạng địa chỉ email mà bạn nhập không đúng.",
+    "zh" : "邮件地址形式有错误。"
+  },
+  "설문 문항의 첫번째 입니다." : {
+    "en" : "First of the survey question.",
+    "ja" : "アンケート質問項目の一番目です。",
+    "vi" : "Đây là câu hỏi số 1",
+    "zh" : "第一个设文问项。"
+  },
+  "평가자를 입력하세요." : {
+    "en" : "Enter the evaluator.",
+    "ja" : "評価者を入力してください。",
+    "vi" : "Vui lòng chọn người đánh giá.",
+    "zh" : "请输入评价人。"
+  },
+  "작성중" : {
+    "en" : "Writing",
+    "ja" : "作成中",
+    "vi" : "Đang viết",
+    "zh" : "制作中"
+  },
+  "시작 시간은 현재 시간 이후로 선택하여 주세요." : {
+    "en" : "The start time must be after the current time.",
+    "ja" : "開始時間は現在の時間以降に選択してください。",
+    "vi" : "Thời gian bắt đầu phải sau thời gian hiện tại.",
+    "zh" : "开始时间请选择现在时间以后。"
+  },
+  "화" : {
+    "en" : "Tue",
+    "ja" : "火",
+    "vi" : "Thứ ba",
+    "zh" : "周二"
+  },
+  "평가내용을 입력하세요." : {
+    "en" : "Enter the evaluation details.",
+    "ja" : "評価内容を入力してください。",
+    "vi" : "Nhập chi tiết đánh giá.",
+    "zh" : "请输入评价内容。"
+  },
+  "진행(참여)" : {
+    "en" : "Progress (Participate)",
+    "ja" : "進行（参加）",
+    "vi" : "Tiến trình (tham gia)",
+    "zh" : "进行(参与)"
+  },
+  "수정시 등록승인을 요청합니다. 수정하시겠습니까?" : {
+    "en" : "When modifying it , you need to make a request to the approver to register. Are you sure you want to modify?",
+    "ja" : "修正時に登録承認を要請します。修正しますか？",
+    "vi" : "Yêu cầu phê duyệt đăng ký khi sửa. Bạn có muốn sửa không?",
+    "zh" : "修改时邀请登录承认。要修改吗？"
+  },
+  "승인권자를 선택하세요." : {
+    "en" : "Select an approver",
+    "ja" : "承認権者を選択してください。",
+    "vi" : "Hãy chọn người có quyền phê duyệt",
+    "zh" : "请选择承认有权人。"
+  },
+  "이미지파일을 첨부 해주세요!" : {
+    "en" : "Attach an image file.",
+    "ja" : "画像ファイルを添付してください。",
+    "vi" : "Đính kèm file hình ảnh.",
+    "zh" : "请附加图象文件。"
+  },
+  "반려사유를 입력하세요." : {
+    "en" : "Please enter a reason for rejection.",
+    "ja" : "差戻し理由を入力してください。",
+    "vi" : "Vui lòng nhập lý do từ chối",
+    "zh" : "请输入退回原因。"
+  },
+  "설문 문항의 맨 마지막 입니다." : {
+    "en" : "Last of the survey question.",
+    "ja" : "アンケート質問項目の最後です。",
+    "vi" : "Đây là câu hỏi cuối cùng",
+    "zh" : "最后设文问项。"
+  },
+  "질문내용" : {
+    "en" : "Questions",
+    "ja" : "質問内容",
+    "vi" : "Câu hỏi",
+    "zh" : "问题内容"
+  },
+  "하위에 분류가 존재하여 삭제하지 못합니다.\\n 하위분류를 먼저 삭제 해주세요." : {
+    "en" : "Unable to delete because there are sub-categories. \\n Please delete the sub-categories first.",
+    "ja" : "下にカテゴリが存在しているため削除できません。\\ n下のカテゴリを先に削除してください。",
+    "vi" : "Không thể xóa vì có danh mục phụ. \\n Vui lòng xóa các danh mục phụ này trước.",
+    "zh" : "由于下位存在分类而不可进行删除。\\n请先删除下位分类。"
+  },
+  "쪽지를 발송하시겠습니까?" : {
+    "en" : "Would you like to send the message?",
+    "ja" : "メールを送信しますか?",
+    "vi" : "Bạn có muốn gửi ghi chú không?",
+    "zh" : "要发送邮件吗?"
+  },
+  "docMode를 지정해주세요." : {
+    "en" : "Designate docMode.",
+    "ja" : "docModeを指定してください。",
+    "vi" : "Vui lòng chọn docMode.",
+    "zh" : "请指定docMode。"
+  },
+  "기간이 지난 일정입니다.\\n종료일정을 수정해주세요." : {
+    "en" : "The period already expired.\\n Please modify the end date.",
+    "ja" : "期間が過ぎたスケジュールです。\\ n終了スケジュールを変更してください。",
+    "vi" : "Thời hạn này đã hết hạn. \\n Vui lòng chỉnh sửa ngày kết thúc của thời hạn.",
+    "zh" : "已经过去的日程。请修改\\n结束日程。"
+  },
+  "평가수정" : {
+    "en" : "Edit evaluation",
+    "ja" : "評価を修正する",
+    "vi" : "Chỉnh sửa đánh giá",
+    "zh" : "修改评价"
+  },
+  "미참여" : {
+    "en" : "Did not participate",
+    "ja" : "未参加",
+    "vi" : "Không tham gia",
+    "zh" : "未参与"
+  },
+  "작성중 설문" : {
+    "en" : "Ongoing surveys",
+    "ja" : "作成中のアンケート",
+    "vi" : "Khảo sát đang diễn ra",
+    "zh" : "完成的设文"
+  },
+  "{0}번 질문에 답변을 선택해주세요" : {
+    "en" : "Please select an answer to Question {0}.",
+    "ja" : "{0}番の質問に回答を選択してください",
+    "vi" : "Vui lòng chọn đáp án cho Câu hỏi {0}.",
+    "zh" : "请选择{0}号问题的回答。"
+  },
+  "{0}번 답안이 중복되지 않게 입력해주세요." : {
+    "en" : "Please fill in Answer No. {0} and make sure it doesn't overlap.",
+    "ja" : "{0}番の回答が重複しないようご記入ください。",
+    "vi" : "Vui lòng điền vào ô Câu trả lời số {0} và kiểm tra kỹ lưỡng để tránh hiện tượng chồng chéo.",
+    "zh" : "{0}答案请输入为不重复。"
+  },
+  "평가완료" : {
+    "en" : "Evaluated",
+    "ja" : "評価完了",
+    "vi" : "Đánh giá",
+    "zh" : "评价完了"
+  },
+  "진행중" : {
+    "en" : "In Progress",
+    "ja" : "進行中",
+    "vi" : "Đang trong tiến trình thực hiện",
+    "zh" : "进行中"
+  },
+  "설문에 참여하시겠습니까?" : {
+    "en" : "Do you want to participate in the survey?",
+    "ja" : "アンケートに参加しますか?",
+    "vi" : "Bạn có muốn tham gia vào cuộc khảo sát này không?",
+    "zh" : "要参与设文吗？"
+  },
+  "평가가 종료되어 참여 할 수 없습니다." : {
+    "en" : "You cannot participate in the evaluation because it has already been finished.",
+    "ja" : "評価が終了して参加できません。",
+    "vi" : "Bạn không thể tham gia vào đánh giá này vì nó đã kết thúc.",
+    "zh" : "由于评价已经结束而不可参与。"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "{0}번 문항 분기설정" : {
+    "en" : "Set a branch for Question {0}",
+    "ja" : "{0}番の項目分岐設定",
+    "vi" : "Thiết lập nhánh cho Câu hỏi {0}",
+    "zh" : "设定{0}号问题分期"
+  },
+  "설문" : {
+    "en" : "Survey",
+    "ja" : "アンケート",
+    "vi" : "Khảo sát",
+    "zh" : "设问"
+  },
+  "참여대상을 선택하세요." : {
+    "en" : "Select the target users that you created this survey for.",
+    "ja" : "参加対象を選択してください。",
+    "vi" : "Vui lòng chọn người dùng mục tiêu mà bạn muốn hướng đến khi tạo khảo sát này.",
+    "zh" : "请选择参与对象。"
+  },
+  "주간" : {
+    "en" : "Week",
+    "ja" : "週間",
+    "vi" : "Hàng tuần",
+    "zh" : "周间"
+  },
+  "%s 번 이미지" : {
+    "en" : "Image No. %s",
+    "ja" : "%s 番画像",
+    "vi" : "Ảnh thứ %s",
+    "zh" : "%s 号图象"
+  },
+  "내부평가" : {
+    "en" : "Internal evaluation",
+    "ja" : "内部評価",
+    "vi" : "Đánh giá nội bộ",
+    "zh" : "内部评价"
+  },
+  "알림을 발송하시겠습니까?" : {
+    "en" : "Would you like to send the notification?",
+    "ja" : "通知を送信しますか？",
+    "vi" : "Bạn có muốn gửi thông báo không?",
+    "zh" : "您要发送通知吗？"
+  },
+  "평가현황" : {
+    "en" : "Evaluation status",
+    "ja" : "評価状況",
+    "vi" : "Tình trạng đánh giá",
+    "zh" : "评价线框"
+  },
+  "메일을 발송하시겠습니까?" : {
+    "en" : "Would you like to send the mail?",
+    "ja" : "メッセージを送信しますか?",
+    "vi" : "Bạn có muốn gửi tin nhắn ngắn không?",
+    "zh" : "要发送纸条吗？"
+  },
+  "%s 번 순위가 중복되지 않게 입력해주세요." : {
+    "en" : "Select carefully so Ranking No.%s is not duplicated.",
+    "ja" : "%s 番順位が重複しないように入力してください。",
+    "vi" : "Vui lòng lưu ý khi chọn lựa để Xếp hạng số %s không bị trùng lặp.",
+    "zh" : "请输入不重复为%s 号顺序。"
+  },
+  "{0}번 질문 순위가 중복되지 않게 입력해주세요." : {
+    "en" : "Please make sure the ranking of Question {0} doesn't duplicate.",
+    "ja" : "{0}番の質問順位が重複しないように入力してください。",
+    "vi" : "Vui lòng kiểm tra để chắc để thứ tự của Câu hỏi {0} không bị trùng lặp.",
+    "zh" : "请输入与不重复{0}号问题。"
+  },
+  "참여대상" : {
+    "en" : "Survey target",
+    "ja" : "参加対象",
+    "vi" : "Mục tiêu khảo sát",
+    "zh" : "参与对象"
+  },
+  "목" : {
+    "en" : "Thu",
+    "ja" : "木",
+    "vi" : "Thứ năm",
+    "zh" : "周四"
+  },
+  "평가완료 하시겠습니까?" : {
+    "en" : "Do you want to complete your evaluation?",
+    "ja" : "評価を完了しますか？",
+    "vi" : "Bạn có muốn hoàn thành đánh giá của mình không?",
+    "zh" : "要完了评价吗？"
+  },
+  "참여" : {
+    "en" : "Participate",
+    "ja" : "参加",
+    "vi" : "Tham gia",
+    "zh" : "参与"
+  },
+  "평가참여" : {
+    "en" : "Participate in evaluation",
+    "ja" : "評価参加",
+    "vi" : "Tham gia đánh giá",
+    "zh" : "参与评价"
+  },
+  "%s 번 기타 의견을 입력해주세요." : {
+    "en" : "Enter other opinion to question No. %s",
+    "ja" : "%s 番その他意見を入力してください。",
+    "vi" : "Nhập ý kiến khác cho câu hỏi số %s.",
+    "zh" : "请输入%s 号其他意见。"
+  },
+  "완전 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete permanently?",
+    "ja" : "完全に削除しますか？",
+    "vi" : "Bạn có muốn xóa hoàn toàn không?",
+    "zh" : "要完全删除吗？"
+  },
+  "종료되었습니다." : {
+    "en" : "It ended.",
+    "ja" : "終了しました。",
+    "vi" : "Đã kết thúc.",
+    "zh" : "结束了。"
+  },
+  "분기설정된 설문이 없습니다." : {
+    "en" : "There are no surveys with 'branches'.",
+    "ja" : "分岐設定されたアンケートがありません。",
+    "vi" : "Không tồn tại khảo sát với các nhánh.",
+    "zh" : "没有设定分期的问卷。"
+  },
+  "분류 수정" : {
+    "en" : "Edit category",
+    "ja" : "カテゴリ修正",
+    "vi" : "Chỉnh sửa hạng mục",
+    "zh" : "修改分类"
+  },
+  "답변개수 선택" : {
+    "en" : "Select the number of options.",
+    "ja" : "返信数を選択",
+    "vi" : "Chọn số ví dụ.",
+    "zh" : "选择回答个数"
+  },
+  "분류 추가" : {
+    "en" : "Add categories",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm hạng mục",
+    "zh" : "追加分类"
+  },
+  "반려사유입력" : {
+    "en" : "Enter a reason for rejection",
+    "ja" : "差戻し理由入力",
+    "vi" : "Nhập lý do từ chối",
+    "zh" : "输入退回原因"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "기간이 종료되었습니다." : {
+    "en" : "The participation period has ended.",
+    "ja" : "期間が終了しました。",
+    "vi" : "Thời hạn này đã kết thúc.",
+    "zh" : "期间已经结束了。"
+  },
+  "이미지 선택형" : {
+    "en" : "Select an Image' type",
+    "ja" : "画像選択型",
+    "vi" : "Lựa chọn hình ảnh",
+    "zh" : "图象选择型"
+  },
+  "텍스트 입력형" : {
+    "en" : "Text-typing",
+    "ja" : "テキスト入力型",
+    "vi" : "Gõ văn bản",
+    "zh" : "text输入型"
+  },
+  "승인대기" : {
+    "en" : "Waiting for approval",
+    "ja" : "承認待機",
+    "vi" : "Chờ phê duyệt",
+    "zh" : "待机承认"
+  },
+  "답안을 입력하세요." : {
+    "en" : "Please enter your answer.",
+    "ja" : "回答を入力してください。",
+    "vi" : "Vui lòng nhập câu trả lời của bạn.",
+    "zh" : "请输入答案。"
+  },
+  "답변형태를 선택하세요." : {
+    "en" : "Select the answer type.",
+    "ja" : "回答タイプを選択してください。",
+    "vi" : "Chọn kiểu câu trả lời.",
+    "zh" : "请选择回答形态。"
+  },
+  "월" : {
+    "en" : "Mon",
+    "ja" : "月",
+    "vi" : "Thứ hai",
+    "zh" : "周一"
+  },
+  "평가 시간이 종료되었습니다." : {
+    "en" : "Evaluation time is over.",
+    "ja" : "評価時間が終了しました。",
+    "vi" : "Thời gian đánh giá kết thúc.",
+    "zh" : "评价时间结束了。"
+  },
+  "참여평가" : {
+    "en" : "Evaluations_Participated",
+    "ja" : "参加評価",
+    "vi" : "Đánh giá_Đã tham gia",
+    "zh" : "参与评价"
+  },
+  "평가 시간은 제한 시간보다 큰 시간으로 선택하여주세요." : {
+    "en" : "The evaluation time must be greater than the limit time.",
+    "ja" : "評価時間は制限時間より大き時間に選択してください。",
+    "vi" : "Vui lòng thiết lập thời gian đánh giá lớn hơn mức thời gian giới hạn.",
+    "zh" : "评价时间请选择大于限制时间。"
+  },
+  "작성 권한이 없습니다." : {
+    "en" : "You don't have permission to write.",
+    "ja" : "作成権限がありません。",
+    "vi" : "Bạn không có quyền viết.",
+    "zh" : "没有制作权限。"
+  },
+  "경로를 입력해주세요." : {
+    "en" : "Enter the path.",
+    "ja" : "経路を入力してください。",
+    "vi" : "Nhập đường dẫn.",
+    "zh" : "请输入路径。"
+  },
+  "답안" : {
+    "en" : "Answer",
+    "ja" : "回答",
+    "vi" : "Trả lời",
+    "zh" : "答案"
+  },
+  "삭제된 평가" : {
+    "en" : "Deleted evaluations",
+    "ja" : "削除された評価",
+    "vi" : "Đánh giá đã bị xóa",
+    "zh" : "被删除的评价"
+  },
+  "미참여설문" : {
+    "en" : "Surveys not participated",
+    "ja" : "未参加アンケート",
+    "vi" : "Khảo sát chưa có người tham gia",
+    "zh" : "未参与的问卷"
+  },
+  "검색선택의 종료일자를 입력해주세요." : {
+    "en" : "Enter a finish date for search.",
+    "ja" : "検索選択の終了日を入力してください。",
+    "vi" : "Vui lòng nhập ngày kết thúc tìm kiếm.",
+    "zh" : "请输入选择搜索的结束日子。"
+  },
+  "진행중 설문" : {
+    "en" : "Survey in progress",
+    "ja" : "進行中のアンケート",
+    "vi" : "Đang trong tiến trình thực hiện",
+    "zh" : "进行中设文"
+  },
+  "등록된 평가" : {
+    "en" : "Registered Evaluations",
+    "ja" : "登録された評価",
+    "vi" : "Đánh giá được thêm vào",
+    "zh" : "登录好的评价"
+  },
+  "결과가 공개되지 않습니다." : {
+    "en" : "Results will not be shown.",
+    "ja" : "結果が公開されていません。",
+    "vi" : "Kết quả sẽ không được hiển thị.",
+    "zh" : "不会公开结果。"
+  },
+  "설문참여" : {
+    "en" : "Participate in survey",
+    "ja" : "アンケート参加",
+    "vi" : "Tham gia khảo sát",
+    "zh" : "参与问卷"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "분기 질문의 내용을 입력하세요." : {
+    "en" : "Enter branch question.",
+    "ja" : "分岐質問の内容を入力してください。",
+    "vi" : "Nhập câu hỏi cho chi nhánh.",
+    "zh" : "请输入季度质问的内容。"
+  },
+  "미참여자" : {
+    "en" : "Non-participant",
+    "ja" : "未参加者",
+    "vi" : "Không có người tham gia",
+    "zh" : "未参与者"
+  },
+  "질문을 선택하여주세요." : {
+    "en" : "Please select a question.",
+    "ja" : "質問を選択してください。",
+    "vi" : "Vui lòng chọn câu hỏi.",
+    "zh" : "请选择问题。"
+  },
+  "답안은 평가자 참고용이며 자동 채점되지 않는 항목입니다." : {
+    "en" : "The answers will only be used as a reference for the evaluators, and auto-marking won't be applied to these answers.",
+    "ja" : "回答は評価者参考用であり、自動採点されない項目です。",
+    "vi" : "Câu trả lời được người đánh giá sử dụng mang tính tham khảo, và các tính năng tự động đánh dấu sẽ không được áp dụng cho các câu trả lời này.",
+    "zh" : "答案是评价人参考用而不是自动打分的项目。"
+  },
+  "종료" : {
+    "en" : "Completed",
+    "ja" : "終了",
+    "vi" : "Đã hoàn thành",
+    "zh" : "完成"
+  },
+  "대기(선택)" : {
+    "en" : "Waiting (Optional)",
+    "ja" : "待機（選択）",
+    "vi" : "Đang chờ (Không bắt buộc)",
+    "zh" : "等待(选择)"
+  },
+  "현 시작일보다 작을 수 없습니다." : {
+    "en" : "It cannot be earlier than the current start date.",
+    "ja" : "現終了日より前にはできません。",
+    "vi" : "Ngày được chọn không thể trước (đứng trước) so với ngày bắt đầu hiện nay.",
+    "zh" : "不可小于现在结束日。"
+  },
+  "평가결과" : {
+    "en" : "Evaluation results",
+    "ja" : "評価結果",
+    "vi" : "Kết quả đánh giá",
+    "zh" : "评价结果"
+  },
+  "수신자를 입력하세요." : {
+    "en" : "Enter a recipient.",
+    "ja" : "受信者を入力してください。",
+    "vi" : "Nhập người nhận.",
+    "zh" : "请输入收信人。"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Tất cả thời gian",
+    "zh" : "全体期间"
+  },
+  "쪽지가 발송되었습니다." : {
+    "en" : "Your message has been sent.",
+    "ja" : "メッセージが送信されました。",
+    "vi" : "Tin nhắn ngắn của bạn đã được gửi đi.",
+    "zh" : "纸条发送完了。"
+  },
+  "반공개" : {
+    "en" : "Show partially",
+    "ja" : "半公開",
+    "vi" : "Hiện một phần",
+    "zh" : "办公开"
+  },
+  "종료된 평가" : {
+    "en" : "Completed evaluations",
+    "ja" : "終了した評価",
+    "vi" : "Đánh giá đã hoàn thành",
+    "zh" : "结束的评价"
+  },
+  "메일이 발송되었습니다." : {
+    "en" : "Your mail has been sent.",
+    "ja" : "メールが送信されました。",
+    "vi" : "Mail của bạn đã được gửi đi.",
+    "zh" : "邮件发送完了."
+  },
+  "%s 번 질문에 답변을 선택해주세요." : {
+    "en" : "Select the answer to Question no.%s .",
+    "ja" : "%s 番の質問の回答を選択してください。",
+    "vi" : "Chọn đáp án cho Câu hỏi số %s.",
+    "zh" : "请选择%s 号质问的回答"
+  },
+  "문제은행" : {
+    "en" : "Question bank",
+    "ja" : "問題銀行",
+    "vi" : "Ngân hàng câu hỏi",
+    "zh" : "问题银行"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか?",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Enter content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Nhập văn bản.",
+    "zh" : "请输入内容。"
+  },
+  "설문의 질문 내용을 입력하세요." : {
+    "en" : "Enter a question.",
+    "ja" : "アンケートの質問内容を入力してください。",
+    "vi" : "Nhập câu hỏi.",
+    "zh" : "请输入设文的质问内容。"
+  },
+  "%s 유효한 이메일 주소가 아닙니다." : {
+    "en" : "%s is not a valid e-mail address.",
+    "ja" : "%s 有效な電子メールアドレスではありません。",
+    "vi" : "%s không phải địa chỉ email hợp lệ.",
+    "zh" : "%s 没有效的邮件地址。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "기간변경" : {
+    "en" : "Extend Period",
+    "ja" : "期間延長",
+    "vi" : "Kéo dài thời hạn",
+    "zh" : "延长期间"
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter search keyword.",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Gõ từ khóa",
+    "zh" : "请输入搜索语。"
+  },
+  "등록시 승인권자에게 등록승인 요청합니다. 등록 하시겠습니까?" : {
+    "en" : "To add it, you need to make a request to the approver. Are you sure you want to add it?",
+    "ja" : "登録時、承認権者に登録承認要請をします。登録しますか？",
+    "vi" : "Để tiến hành thêm vào, bạn cần phải gửi đề nghị tới cho người phê duyệt. Bạn chắc chắn muốn thêm chúng vào chứ?",
+    "zh" : "登录时对承认权者邀请登录承认。要登录吗？"
+  },
+  "반려" : {
+    "en" : "Reject",
+    "ja" : "差戻し",
+    "vi" : "Từ chối",
+    "zh" : "发还"
+  },
+  "기간이 지난 평가는 종료됩니다." : {
+    "en" : "The expired evaluation will be terminated.",
+    "ja" : "期間が過ぎた評価は終了されます。",
+    "vi" : "Đánh giá quá thời hạn đã kết thúc.",
+    "zh" : "过期评价将终止。"
+  },
+  "진행(필수)" : {
+    "en" : "Progress (Required)",
+    "ja" : "進行（必須）",
+    "vi" : "Tiến trình (bắt buộc)",
+    "zh" : "进行(必须)"
+  },
+  "미신청" : {
+    "en" : "Not applied",
+    "ja" : "未申請",
+    "vi" : "Không được áp dụng",
+    "zh" : "未申请"
+  },
+  "승인대기 설문" : {
+    "en" : "Survey (Waiting for Approval)",
+    "ja" : "承認待ち アンケート",
+    "vi" : "Chờ Khảo sát cần phê duyệt",
+    "zh" : "等待承认 设问"
+  },
+  "발송을 하면  「참여대상,내용」 을 수정할수 없습니다. 발송할까요?" : {
+    "en" : "If you click Send, 「Participants, Content」 cannot be modified. Are you sure you want to send?",
+    "ja" : "送信をすると、「参加対象、内容」を修正できません。送信してもよろしいですか？",
+    "vi" : "Nếu nhấn gửi, bạn không thể sửa đổi \\\"Người gia và nội dung\\\". Bạn có nên gửi không?",
+    "zh" : "发送的话不可修改「参与对象，内容」。要发送吗？"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Đang chờ",
+    "zh" : "待机"
+  },
+  "변경할 분류를 선택하세요." : {
+    "en" : "Select a category to change.",
+    "ja" : "変更するカテゴリを選択してください。",
+    "vi" : "Chọn danh mục cần thay đổi.",
+    "zh" : "请选择要变更的分类。"
+  },
+  "복수 선택형(기타)" : {
+    "en" : "Multiple Choices type (Other)",
+    "ja" : "複数選択型(その他)",
+    "vi" : "Nhiều lựa chọn (khác)",
+    "zh" : "复数选择型（其他）"
+  },
+  "삭제된 설문" : {
+    "en" : "Deleted Survey",
+    "ja" : "削除されたアンケート",
+    "vi" : "Đã xóa",
+    "zh" : "设文登录者"
+  },
+  "순위 선택형" : {
+    "en" : "Select Rank' type",
+    "ja" : "順位選択型",
+    "vi" : "Lựa chọn xếp hạng",
+    "zh" : "顺序选择型"
+  },
+  "최대값은 최소값보다 큰수를 입력하여 주세요." : {
+    "en" : "Please enter a maximum value greater than the minimum value.",
+    "ja" : "最大値は最小値よりも大きい数値を入力してください。",
+    "vi" : "Vui lòng nhập giá trị tối đa lớn hơn giá trị tối thiểu.",
+    "zh" : "最多值请输入大于最少价的数。"
+  },
+  "이미지를 선택해주세요." : {
+    "en" : "Select an image.",
+    "ja" : "画像を選択してください。",
+    "vi" : "Chọn hình ảnh.",
+    "zh" : "请选择图象。"
+  },
+  "등록된 설문" : {
+    "en" : "Registered Survey",
+    "ja" : "登録されたアンケート",
+    "vi" : "Đã đăng ký",
+    "zh" : "删除的设文"
+  },
+  "미리보기" : {
+    "en" : "Preview",
+    "ja" : "プレビュー",
+    "vi" : "Xem trước",
+    "zh" : "预览"
+  },
+  "삭제할 분류를 선택하세요." : {
+    "en" : "Select the category to delete.",
+    "ja" : "削除するカテゴリを選択してください。",
+    "vi" : "Chọn hạng mục cần xóa.",
+    "zh" : "请选择要删除的分类。"
+  },
+  "목록열기" : {
+    "en" : "Open list",
+    "ja" : "リスト開く",
+    "vi" : "Mở danh sách",
+    "zh" : "打开目录"
+  },
+  "시작 시간을 선택하여 주세요." : {
+    "en" : "Please select a start time.",
+    "ja" : "開始時間を選択してください。",
+    "vi" : "Vui lòng chọn thời gian bắt đầu.",
+    "zh" : "请选择开始时间。"
+  },
+  "단일 선택형(기타)" : {
+    "en" : "Single choice type (Other)",
+    "ja" : "単一選択型(その他)",
+    "vi" : "Lựa chọn duy nhất (khác)",
+    "zh" : "单一选择型（其他）"
+  },
+  "작성중 평가" : {
+    "en" : "Evaluations being created",
+    "ja" : "作成中の評価",
+    "vi" : "Đánh giá đang được tạo",
+    "zh" : "制作中的评价"
+  },
+  "자신의 하위 분류로는 변경할 수 없습니다." : {
+    "en" : "You can't move to a sub-category of your own self.",
+    "ja" : "現在より下のカテゴリには変更できません。",
+    "vi" : "Bạn không thể di chuyển đến danh mục thấp hơn của nó.",
+    "zh" : "不可变更为自己的下位分类。"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录者"
+  },
+  "제목을 입력하세요." : {
+    "en" : "Enter a title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Nhập chủ đề",
+    "zh" : "请输入题目。"
+  },
+  "설문결과" : {
+    "en" : "Survey results",
+    "ja" : "アンケート結果",
+    "vi" : "Kết quả khảo sát",
+    "zh" : "设问结果"
+  },
+  "문제를 먼저 선택하세요." : {
+    "en" : "Please select the question first.",
+    "ja" : "問題を先に選んでください。",
+    "vi" : "Vui lòng chọn câu hỏi trước.",
+    "zh" : "请先选择问题。"
+  },
+  "{0}명" : {
+    "en" : "{0} people",
+    "ja" : "{0}人",
+    "vi" : "{0} người",
+    "zh" : "{0}名"
+  },
+  "저장되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "오늘 이전 날짜는 선택할 수 없습니다." : {
+    "en" : "You can't select a date before today's date.",
+    "ja" : "今日より前の日付は選択できません。",
+    "vi" : "Ngày mà bạn chọn không thể là ngày trước ngày hôm nay.",
+    "zh" : "不可选择今天以前的日子。"
+  },
+  "복사할 질문을 선택하세요." : {
+    "en" : "Select a question to copy.",
+    "ja" : "コピーする質問を選択してください",
+    "vi" : "Chọn câu hỏi cần sao chép.",
+    "zh" : "请选择要拷贝的质问。"
+  },
+  "평가" : {
+    "en" : "Evaluation",
+    "ja" : "評価",
+    "vi" : "Đánh giá",
+    "zh" : "评价"
+  },
+  "선택하신 분류를 삭제 하시겠습니까?" : {
+    "en" : "Do you really want to delete the selected category?",
+    "ja" : "選択したカテゴリを削除しますか？",
+    "vi" : "Bạn có muốn xóa danh mục đã chọn không?",
+    "zh" : "要删除您选择的分类吗？"
+  },
+  "기간선택의 시작일자가 종료일보다 작을수는 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の開始日が終了日より前の日付にはできません。",
+    "vi" : "Ngày bắt đầu không thể sau ngày kết thúc.",
+    "zh" : "选择期间的开始日子不可小于结束日子。"
+  },
+  "분기설정" : {
+    "en" : "Branch settings",
+    "ja" : "分岐設定",
+    "vi" : "Thiết lập chi nhánh",
+    "zh" : "设定季度"
+  },
+  "같은 분류로 이동할 수 없습니다." : {
+    "en" : "Unable to move to the same category.",
+    "ja" : "同じカテゴリには移動できません。",
+    "vi" : "Không thể di chuyển đến cùng một danh mục.",
+    "zh" : "不可移动到同样的分类。"
+  },
+  "보기는 {0}개를 초과할 수 없습니다." : {
+    "en" : "The number of options cannot exceed {0}.",
+    "ja" : "表示は{0}個を超えることができません。",
+    "vi" : "Không thể có nhiều hơn {0} ví dụ.",
+    "zh" : "看不可超过{0}个。"
+  },
+  "%s 번 보기" : {
+    "en" : "Option No. %s",
+    "ja" : "%s 番表示",
+    "vi" : "Ví dụ thứ %s",
+    "zh" : "看%s 号"
+  },
+  "평가일정" : {
+    "en" : "Evaluation schedule",
+    "ja" : "評価スケジュール",
+    "vi" : "Lịch trình đánh giá",
+    "zh" : "评价日程"
+  },
+  "조직도 선택" : {
+    "en" : "Select Organizational Chart",
+    "ja" : "組織図選択",
+    "vi" : "Chọn sơ đồ tổ chức",
+    "zh" : "选择组织图"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の開始日は終了日より未来の日付にはできません。",
+    "vi" : "Ngày bắt đầu không thể sau ngày kết thúc.",
+    "zh" : "选择期间的开始日子不可大于结束日子。"
+  },
+  "조정점수가 기본점수보다 높을 수 없습니다." : {
+    "en" : "The adjusted score cannot be higher than the default score.",
+    "ja" : "調整点数は基本点数より高く設定できません。",
+    "vi" : "Điểm số đã điều chỉnh không thể cao hơn so với điểm số mặc định.",
+    "zh" : "调整分数不可大于基本分数。"
+  },
+  "댓글을 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete the comment?",
+    "ja" : "書き込みを削除しますか?",
+    "vi" : "Bạn muốn xóa bình luận chứ?",
+    "zh" : "要删除留言吗？"
+  },
+  "복수 선택형" : {
+    "en" : "Multiple Choices type",
+    "ja" : "複数選択型",
+    "vi" : "Nhiều lựa chọn",
+    "zh" : "复数选择型"
+  },
+  "평가가 시작전이기 때문에 아직 참여 할 수 없습니다." : {
+    "en" : "You cannot participate in the evaluation before it starts.",
+    "ja" : "評価の開始前に参加できません。",
+    "vi" : "Bạn không thể tham gia vào đánh giá này trước khi nó được bắt đầu.",
+    "zh" : "由于还没开始评价而不可参与。"
+  },
+  "분기사용" : {
+    "en" : "Use branch",
+    "ja" : "分岐使用",
+    "vi" : "Sử dụng nhánh",
+    "zh" : "使用季度"
+  },
+  "종료일을 입력하세요." : {
+    "en" : "Enter a finish date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Nhập ngày kết thúc.",
+    "zh" : "请输入结束日。"
+  },
+  "작성자 이메일 패스워드를 입력하세요." : {
+    "en" : "Please enter the author's email password.",
+    "ja" : "作成者の電子メールとパスワードを入力してください。",
+    "vi" : "Khảo sát chưa phê duyệt",
+    "zh" : "确认小组箱-退回"
+  },
+  "위치를 변경할 문항을 선택하세요." : {
+    "en" : "Select the question that you want to change the location of.",
+    "ja" : "位置を変更する質問項目を選択してください。",
+    "vi" : "Chọn câu hỏi mà bạn muốn thay đổi vị trí.",
+    "zh" : "请选择要变更位置的问项。"
+  },
+  "기간 변경할 날짜를 선택하세요." : {
+    "en" : "Select the date (extend period).",
+    "ja" : "期間延長日付を選択してください。",
+    "vi" : "Chọn ngày để kéo dài thời hạn áp dụng.",
+    "zh" : "请选择要延长期间的日子。"
+  },
+  "이름을 입력하세요." : {
+    "en" : "Enter a name.",
+    "ja" : "名前を入力してください。",
+    "vi" : "Nhập tên.",
+    "zh" : "请输入名字。"
+  },
+  "%s 개" : {
+    "en" : "Total %s",
+    "ja" : "%s 個",
+    "vi" : "Tổng cộng %s",
+    "zh" : "%s 个"
+  },
+  "일" : {
+    "en" : "Sun",
+    "ja" : "日",
+    "vi" : "Chủ nhật",
+    "zh" : "周日"
+  },
+  "질문 문항을 작성하세요." : {
+    "en" : "Write a new question.",
+    "ja" : "質問項目を作成してください。",
+    "vi" : "Thêm câu hỏi",
+    "zh" : "请写一下问题。"
+  },
+  "설문등록" : {
+    "en" : "Register a Survey",
+    "ja" : "アンケート登録",
+    "vi" : "Đăng ký Khảo sát",
+    "zh" : "登录设文"
+  },
+  "문항 개수 제한으로 해당 설문을 불러오기 할 수 없습니다." : {
+    "en" : "The survey cannot be loaded due to question number restrictions.",
+    "ja" : "質問項目個数制限で、当該アンケートをインポートできません。",
+    "vi" : "Khảo sát tương ứng không thể được tải do số lượng câu hỏi hạn chế.",
+    "zh" : "因题目数量限制,无法生成相应问卷。"
+  },
+  "평가에 참여하시겠습니까?" : {
+    "en" : "Do you want to participate in the evaluation?",
+    "ja" : "評価に参加しますか？",
+    "vi" : "Bạn có muốn tham gia vào việc đánh giá này không?",
+    "zh" : "要参与评价吗？"
+  },
+  "엑셀등록" : {
+    "en" : "Register Excel",
+    "ja" : "Excel登録",
+    "vi" : "Lưu dưới dạng file excel",
+    "zh" : "登录为excel"
+  },
+  "참여 정보" : {
+    "en" : "Participation information",
+    "ja" : "参加情報",
+    "vi" : "Thông tin tham gia",
+    "zh" : "参与信息"
+  },
+  "평가기간" : {
+    "en" : "Evaluation period",
+    "ja" : "評価期間",
+    "vi" : "Thời gian đánh giá",
+    "zh" : "评价期间"
+  },
+  "등록승인을 요청하였습니다. 승인권자의 승인 후 등록됩니다." : {
+    "en" : "You have requested approval to register. It will be registered upon receiving the approval of the approver.",
+    "ja" : "登録承認を要請しました。承認権者の承認後、登録されます。",
+    "vi" : "Đã yêu cầu phê duyệt. Nó sẽ được thêm sau khi được phê duyệt.",
+    "zh" : "邀请承认登录了。通过承认权者的承认后进行登录。"
+  },
+  "외부설문" : {
+    "en" : "External survey",
+    "ja" : "外部アンケート",
+    "vi" : "Khảo sát bên ngoài",
+    "zh" : "外部设文"
+  },
+  "진행(미참여)" : {
+    "en" : "Progress (Did not participate)",
+    "ja" : "進行（不参加）",
+    "vi" : "Tiến trình (không tham gia)",
+    "zh" : "进行(未参与)"
+  },
+  "선택된 사용자" : {
+    "en" : "Selected user",
+    "ja" : "選択されたユーザー",
+    "vi" : "Người dùng đã chọn",
+    "zh" : "被选择的使用者"
+  },
+  "종일" : {
+    "en" : "All day",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "整天"
+  },
+  "답변형태 선택" : {
+    "en" : "Select an answer type.",
+    "ja" : "返信タイプを選択",
+    "vi" : "Chọn kiểu câu trả lời.",
+    "zh" : "选择回答形态"
+  },
+  "정답" : {
+    "en" : "Answer",
+    "ja" : "正解",
+    "vi" : "Trả lời",
+    "zh" : "正确答案"
+  },
+  "참여설문" : {
+    "en" : "Surveys participated",
+    "ja" : "参加アンケート",
+    "vi" : "Khảo sát đã tham gia",
+    "zh" : "参与的问卷"
+  },
+  "토" : {
+    "en" : "Sat",
+    "ja" : "土",
+    "vi" : "Thứ bảy",
+    "zh" : "周六"
+  },
+  "불러올 설문을 선택하세요." : {
+    "en" : "Please select surveys to import.",
+    "ja" : "インポートするアンケートを選択します。",
+    "vi" : "Vui lòng chọn khảo sát để nhập.",
+    "zh" : "请选择要拿来的问卷。"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "월간" : {
+    "en" : "Monthly",
+    "ja" : "月間",
+    "vi" : "Hàng tháng",
+    "zh" : "月间"
+  },
+  "평가중" : {
+    "en" : "Under evaluation",
+    "ja" : "評価中",
+    "vi" : "Theo đánh giá",
+    "zh" : "评价中"
+  },
+  "미참여평가" : {
+    "en" : "Evaluations_Not participated",
+    "ja" : "不参加評価",
+    "vi" : "Đánh giá_Không được tham gia",
+    "zh" : "未参与评价"
+  },
+  "보기" : {
+    "en" : "Option",
+    "ja" : "例",
+    "vi" : "Ví dụ",
+    "zh" : "看"
+  },
+  "기간이 남아 있습니다. 종료하겠습니까?" : {
+    "en" : "The period still remains. Are you sure you want to end it?",
+    "ja" : "期間がまだ残っています。終了してもよろしいですか？",
+    "vi" : "Thời hạn vẫn được giữ nguyên. Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "还有期间。要结束吗？"
+  },
+  "답안을 선택하세요." : {
+    "en" : "Please select an answer.",
+    "ja" : "回答を選択してください。",
+    "vi" : "Vui lòng chọn câu trả lời.",
+    "zh" : "请选择答案。"
+  },
+  "진행중 평가" : {
+    "en" : "Ongoing evaluations",
+    "ja" : "進行中の評価",
+    "vi" : "Đánh giá đang tiếp diễn",
+    "zh" : "进行中评价"
+  },
+  "답변 개수를 선택하세요." : {
+    "en" : "Select the number of options.",
+    "ja" : "回答数を選択してください。",
+    "vi" : "Chọn số ví dụ.",
+    "zh" : "请选择回答个数。"
+  },
+  "기간을 선택하세요." : {
+    "en" : "Select a period.",
+    "ja" : "期間を選択してください。",
+    "vi" : "Chọn thời hạn.",
+    "zh" : "请选择期间。"
+  },
+  "파일을 첨부하세요" : {
+    "en" : "Please attach files",
+    "ja" : "ファイルを添付してください",
+    "vi" : "Vui lòng đính kèm file.",
+    "zh" : "请附加文档"
+  },
+  "메일 주소를 입력하세요." : {
+    "en" : "Enter an e-mail address.",
+    "ja" : "メールアドレスを入力してください。",
+    "vi" : "Nhập địa chỉ email.",
+    "zh" : "请输入邮件地址。"
+  },
+  "평가등록" : {
+    "en" : "Add evaluation",
+    "ja" : "評価登録",
+    "vi" : "Thêm đánh giá",
+    "zh" : "登录评价"
+  },
+  "설문내용을 입력하세요." : {
+    "en" : "Enter survey content.",
+    "ja" : "アンケート内容を入力してください。",
+    "vi" : "Nhập nội dung cho cuộc khảo sát.",
+    "zh" : "请输入设文内容。"
+  },
+  "이름 입력" : {
+    "en" : "Enter a name.",
+    "ja" : "名前入力",
+    "vi" : "Nhập tên.",
+    "zh" : "输入名字"
+  },
+  "승인" : {
+    "en" : "Approve",
+    "ja" : "承認",
+    "vi" : "Phê duyệt",
+    "zh" : "承认"
+  },
+  "설문기간" : {
+    "en" : "Survey period",
+    "ja" : "アンケート期間",
+    "vi" : "Giai đoạn khảo sát",
+    "zh" : "设文期间"
+  },
+  "반려의견은 한글 665자, 영문 2000자 이내로 작성해주세요." : {
+    "en" : "Your opinion for rejection must be less than 665 Korean characters or 2000 English characters.",
+    "ja" : "差戻し意見はハングル665文字、英文2000文字以内で作成してください。",
+    "vi" : "Ý kiến khi từ chối của bạn phải chứa ít hơn 665 ký tự tiếng Hàn hoặc 2000 ký tự tiếng Anh.",
+    "zh" : "退回意见韩文 665字, 英文 2000字以内写好。"
+  },
+  "종료 시간은 현재 시간 이후로 선택하여 주세요." : {
+    "en" : "The end time must be after the current time.",
+    "ja" : "終了時間は現在の時間以降に選択してください。",
+    "vi" : "Thời gian kết thúc phải sau thời gian hiện tại.",
+    "zh" : "结束时间请选择现在时间以后。"
+  },
+  "참여결과" : {
+    "en" : "Participation results",
+    "ja" : "参加結果",
+    "vi" : "Kết quả tham gia",
+    "zh" : "参与结果"
+  },
+  "종료 시간을 선택하여 주세요." : {
+    "en" : "Please select an end time.",
+    "ja" : "終了時間を選択してください。",
+    "vi" : "Vui lòng chọn thời gian kết thúc.",
+    "zh" : "请选择结束时间。"
+  },
+  "공개" : {
+    "en" : "Show all",
+    "ja" : "公開",
+    "vi" : "Hiển thị tất cả",
+    "zh" : "公开"
+  },
+  "내부설문" : {
+    "en" : "Internal survey",
+    "ja" : "内部アンケート",
+    "vi" : "Khảo sát nội bộ",
+    "zh" : "内部设文"
+  },
+  "최대 글자수를 초과 하였습니다." : {
+    "en" : "Exceeded max. character limit.",
+    "ja" : "最大文字数を超過しました。",
+    "vi" : "Văn bản nhập vào đã vượt quá giới hạn.",
+    "zh" : "超过了最多字数"
+  },
+  "분류를 선택하세요." : {
+    "en" : "Select the category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh mục",
+    "zh" : "请选择分类。"
+  },
+  "비공개" : {
+    "en" : "Private",
+    "ja" : "非公開",
+    "vi" : "Hiện thêm",
+    "zh" : "非公开"
+  },
+  "신청" : {
+    "en" : "Apply",
+    "ja" : "申請",
+    "vi" : "Đăng ký",
+    "zh" : "申请"
+  },
+  "검색선택의 시작일자를 입력해주세요." : {
+    "en" : "Enter a start date for search.",
+    "ja" : "検索選択の開始日けを入力してください。",
+    "vi" : "Vui lòng nhập ngày bắt đầu tìm kiếm.",
+    "zh" : "请输入选择搜索的开始日子。"
+  },
+  "목록닫기" : {
+    "en" : "Close list",
+    "ja" : "リスト閉じる",
+    "vi" : "Đóng danh sách",
+    "zh" : "关闭目录"
+  },
+  "종료시간은 시작 시간 이후로 선택하여 주세요." : {
+    "en" : "The end time must be after the start time.",
+    "ja" : "終了時間は開始時間以降に選択してください。",
+    "vi" : "Thời gian kết thúc phải sau thời gian bắt đầu.",
+    "zh" : "结束时间请选择开始时间以后。"
+  },
+  "로고 이미지를 등록해 주세요." : {
+    "en" : "Please register the logo image",
+    "ja" : "ロゴ画像を登録してください。",
+    "vi" : "Vui lòng đăng ký hình ảnh logo",
+    "zh" : "请上传标徽图片。"
+  },
+  "시작일을 입력하세요." : {
+    "en" : "Enter a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Nhập ngày bắt đầu.",
+    "zh" : "请输入开始日。"
+  },
+  "참여율" : {
+    "en" : "Participation rate",
+    "ja" : "参加率",
+    "vi" : "Tỷ lệ tham gia",
+    "zh" : "参与率"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đối tượng này đã bị xóa.",
+    "zh" : "删除完了"
+  },
+  "단일 선택형" : {
+    "en" : "Single Choice type",
+    "ja" : "単一選択型",
+    "vi" : "Lựa chọn duy nhất",
+    "zh" : "单一选择型"
+  },
+  "텍스트 입력형이라 결과를 조회할 수 없습니다." : {
+    "en" : "You can't view the results because the question is the Type-Text type.",
+    "ja" : "テキスト入力型なので結果照会ができません。",
+    "vi" : "Bạn không thể xem kết quả bởi vì câu hỏi là loại câu cần gõ văn bản để trả lời.",
+    "zh" : "因为text输入型而不可查询结果。"
+  }
+}

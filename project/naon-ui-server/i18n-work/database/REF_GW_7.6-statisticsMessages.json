@@ -1,0 +1,302 @@
+{
+  "사용자 접속로그" : {
+    "en" : "User access logs",
+    "ja" : "ユーザー接続ログ",
+    "vi" : "Nhật ký truy cập của người dùng",
+    "zh" : "使用者上网"
+  },
+  "예" : {
+    "en" : "Yes.",
+    "ja" : "例",
+    "vi" : "Ví dụ",
+    "zh" : "是的"
+  },
+  "접속IP" : {
+    "en" : "Access IP",
+    "ja" : "接続IP",
+    "vi" : "IP truy cập",
+    "zh" : "上网IP"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部門",
+    "vi" : "Phòng ban/bộ phận",
+    "zh" : "部门"
+  },
+  "김치" : {
+    "en" : "Kimchi.",
+    "ja" : "キムチ",
+    "vi" : "Kim chi",
+    "zh" : "辛奇"
+  },
+  "사용자별 통계" : {
+    "en" : "Statistics (by user)",
+    "ja" : "ユーザー別統計",
+    "vi" : "Thống kê theo người dùng",
+    "zh" : "使用者别统计"
+  },
+  "큰따옴표로 검색어를 입력하면 정확히 일치하는 단어/문장으로 검색합니다." : {
+    "en" : "If you enter search terms in double quotation marks, it searches for words/sentences that exactly match.",
+    "ja" : "二重引用符で検索語を入力すると、正確に一致する単語/文章で検索します。",
+    "vi" : "Nếu bạn nhập từ khóa tìm kiếm trong dấu ngoặc kép, nó sẽ tìm kiếm các từ/câu chính xác như vậy.",
+    "zh" : "使用双引号输入搜索词以精确匹配单词/句子。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件夹名"
+  },
+  "변경내역" : {
+    "en" : "Modification History",
+    "ja" : "変更詳細",
+    "vi" : "Thay đổi",
+    "zh" : "变更内容"
+  },
+  "문자(SMS) 통계" : {
+    "en" : "SMS statistics",
+    "ja" : "SMS統計",
+    "vi" : "Thống kê tin nhắn SMS",
+    "zh" : "短信(SMS) 统计"
+  },
+  "게시판명" : {
+    "en" : "Board name",
+    "ja" : "掲示板名",
+    "vi" : "Tên Bảng tin",
+    "zh" : "布告栏名"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "부서별 통계" : {
+    "en" : "Statistics (by department)",
+    "ja" : "部署別統計",
+    "vi" : "Thống kê theo phòng ban/bộ phận",
+    "zh" : "部门别统计"
+  },
+  "파일명" : {
+    "en" : "File name",
+    "ja" : "ファイル名",
+    "vi" : "Tên File",
+    "zh" : "文件名"
+  },
+  "접속통계" : {
+    "en" : "Access statistics",
+    "ja" : "接続統計",
+    "vi" : "Thống kê truy cập",
+    "zh" : "上网统计"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "보낸사람" : {
+    "en" : "Sender",
+    "ja" : "差出人",
+    "vi" : "Người gửi",
+    "zh" : "发件人"
+  },
+  "등록수" : {
+    "en" : "No. of Entries",
+    "ja" : "登録数",
+    "vi" : "Mục",
+    "zh" : "登录数"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên phòng ban/bộ phận",
+    "zh" : "部门名"
+  },
+  "조회된 데이터가 없습니다." : {
+    "en" : "No data found.",
+    "ja" : "照会されたデータがありません。",
+    "vi" : "Không tìm thấy dữ liệu nào.",
+    "zh" : "没有查询的资料。"
+  },
+  "총 등록수" : {
+    "en" : "Total No. of Entries",
+    "ja" : "総登録数",
+    "vi" : "Tổng số mục",
+    "zh" : "总登录数"
+  },
+  "게시판별 통계" : {
+    "en" : "Statistics (by board)",
+    "ja" : "掲示板別統計",
+    "vi" : "Thống kê theo Bảng tin",
+    "zh" : "布告栏别统计"
+  },
+  "메신저 대화 로그" : {
+    "en" : "Messenger Conversation Log",
+    "ja" : "メッセンジャー会話ログ",
+    "vi" : "Ghi chép-Hội thoại Messenger",
+    "zh" : "登录messenger 对话"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời hạn",
+    "zh" : "期间"
+  },
+  "받는사람" : {
+    "en" : "Recipient",
+    "ja" : "宛先",
+    "vi" : "Người nhận",
+    "zh" : "收件人"
+  },
+  "통계는 하루 전날까지 등록된 데이터 대상입니다." : {
+    "en" : "Statistics are calculated based on the data collected until the previous day",
+    "ja" : "統計は前日まで登録されたデータを対象とします。",
+    "vi" : "Thống kê dựa trên dữ liệu tính đến ngày hôm qua.",
+    "zh" : "统计是到前一天登录的资料为对象。"
+  },
+  "문서함별" : {
+    "en" : "By document box",
+    "ja" : "文書Box別",
+    "vi" : "Theo hộp tài liệu",
+    "zh" : "文件箱别"
+  },
+  "사용수는 어제까지 누적된 수치입니다." : {
+    "en" : "Total Uses' indicates the number of uses accumulated until yesterday.",
+    "ja" : "使用数は昨日まで累積された数値です。",
+    "vi" : "Tổng số đã dùng là tống cộng dồn các ngày phép đã sử dụng (tính đến thời điểm hôm qua)",
+    "zh" : "累积到昨天的使用数。"
+  },
+  "사용수" : {
+    "en" : "Total uses",
+    "ja" : "ユーザー",
+    "vi" : "Tổng số đã dùng",
+    "zh" : "使用数"
+  },
+  "파이프(|)으로 검색어를 입력하면 하나라도 포함되는 단어를 검색합니다." : {
+    "en" : "If you enter search terms with a pipe (|), it searches for words that include at least one of them.",
+    "ja" : "パイプ（|）で検索語を入力すると、一つでも含まれる単語を検索します。",
+    "vi" : "Nếu bạn nhập từ khóa tìm kiếm được phân tách bằng thanh dọc (|), nó sẽ tìm kiếm các phần chứa ít nhất một trong các từ khóa đó.",
+    "zh" : "使用竖线(|)输入搜索词以搜索包含其中一个的单词。"
+  },
+  "그룹웨어 사용통계" : {
+    "en" : "Groupware Usage Statistics",
+    "ja" : "グループウェア使用統計",
+    "vi" : "Thống kê sử dụng Groupware",
+    "zh" : "群件使用统计"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "통합검색 시 필터 등의 일부 기능에 제약이 있습니다." : {
+    "en" : "Some functions such as filters are restricted in integrated search.",
+    "ja" : "統合検索では、フィルタなどの一部の機能に制約があります。",
+    "vi" : "Một số chức năng như bộ lọc bị hạn chế trong tìm kiếm tích hợp.",
+    "zh" : "在整合搜索时，某些过滤器等功能会受到限制。"
+  },
+  "띄어쓰기로 검색어를 입력하면 모두 포함되는 단어를 검색합니다." : {
+    "en" : "If you enter search terms with spaces, it searches for words that include all of them.",
+    "ja" : "空白で検索語を入力すると、すべて含まれる単語を検索します。",
+    "vi" : "Nếu bạn nhập từ khóa tìm kiếm có khoảng cách, nó sẽ tìm kiếm các phần có chứa tất cả các từ khóa đó.",
+    "zh" : "输入空格以搜索所有包含的单词。"
+  },
+  "메시지" : {
+    "en" : "Message",
+    "ja" : "メッセージ",
+    "vi" : "Tin nhắn",
+    "zh" : "留言"
+  },
+  "총 사용용량" : {
+    "en" : "Total usage",
+    "ja" : "総使用容量",
+    "vi" : "Tổng mức sử dụng",
+    "zh" : "总使用用量"
+  },
+  "검색범위는 2자 이상의 {0}을 검색합니다." : {
+    "en" : "The search range searches for {0} with a minimum of 2 characters or more.",
+    "ja" : "検索範囲は2文字以上の{0}を検索します。",
+    "vi" : "Phạm vi tìm kiếm bao gồm {0} với độ dài tối thiểu là 2 ký tự.",
+    "zh" : "搜索范围至少包含2个字符的{0}。"
+  },
+  "순위" : {
+    "en" : "Ranking",
+    "ja" : "順位",
+    "vi" : "Xếp hạng",
+    "zh" : "顺序"
+  },
+  "독도는 대한민국 영토" : {
+    "en" : "Dokdo is Korean territory.",
+    "ja" : "独島は韓国の領土",
+    "vi" : "Dokdo thuộc lãnh thổ Hàn Quốc",
+    "zh" : "独岛是大韩民国的领土"
+  },
+  "안내" : {
+    "en" : "Guide",
+    "ja" : "案内",
+    "vi" : "Trợ giúp",
+    "zh" : "向导"
+  },
+  "기간별 등록수" : {
+    "en" : "No. of Entries (by period)",
+    "ja" : "期間別登録数",
+    "vi" : "Bài viết theo từng thời hạn",
+    "zh" : "期间别登录数"
+  },
+  "사용통계" : {
+    "en" : "Usage Statistics",
+    "ja" : "使用統計",
+    "vi" : "Thống kê tình hình sử dụng",
+    "zh" : "使用统计"
+  },
+  "메신저 파일전송 로그" : {
+    "en" : "Messenger File Transfer Log",
+    "ja" : "メッセンジャーファイル送信ログ",
+    "vi" : "Ghi chép-File gửi qua Messenger",
+    "zh" : "登录messenger 发送文件"
+  },
+  "마일리지 통계" : {
+    "en" : "Mileage statistics",
+    "ja" : "マイレージ統計",
+    "vi" : "Thống kê Mileage",
+    "zh" : "积分统计"
+  },
+  "일시" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "조직관리로그" : {
+    "en" : "Organization Management Log",
+    "ja" : "組織管理ログ",
+    "vi" : "Nhật ký-Quản lý tổ chức",
+    "zh" : "管理组织登录"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Vị trí",
+    "zh" : "职位"
+  },
+  "접속수" : {
+    "en" : "Total No. of Accesses",
+    "ja" : "接続数",
+    "vi" : "Tổng số truy cập",
+    "zh" : "上网数"
+  }
+}

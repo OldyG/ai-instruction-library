@@ -1,0 +1,2294 @@
+{
+  "그룹명" : {
+    "en" : "Group Name",
+    "ja" : "グループ名",
+    "vi" : "Tên nhóm",
+    "zh" : "团队名称"
+  },
+  "할일을 복원했습니다." : {
+    "en" : "The task has been restored.",
+    "ja" : "タスクを復元しました。",
+    "vi" : "Công việc đã được khôi phục.",
+    "zh" : "对任务进行了恢复。"
+  },
+  "png, jpg, gif 만 가능합니다." : {
+    "en" : "Only .png, .jpg, and .gif files can be used.",
+    "ja" : "png, jpg, gif のみ可能です。",
+    "vi" : "Chỉ có thể dùng định dạng png, jpg, gif",
+    "zh" : "只能使用png, jpg, gif 。"
+  },
+  "할일그룹 설정" : {
+    "en" : "Task Group Settings",
+    "ja" : "タスクグループ設定",
+    "vi" : "Thiết lập nhóm công việc",
+    "zh" : "设置任务团队"
+  },
+  "아카이브" : {
+    "en" : "Archive",
+    "ja" : "アーカイブ",
+    "vi" : "Lưu trữ",
+    "zh" : "存档"
+  },
+  "할일" : {
+    "en" : "Task",
+    "ja" : "タスク",
+    "vi" : "Nhiệm vụ",
+    "zh" : "待办事项"
+  },
+  "등록된 라벨이 없습니다." : {
+    "en" : "No registered label.",
+    "ja" : "登録されたラベルがありません。",
+    "vi" : "Không có nhãn được đăng ký.",
+    "zh" : "不存在已登记的标签。"
+  },
+  "할일을 이동했습니다." : {
+    "en" : "Task moved.",
+    "ja" : "タスクが移動しました。",
+    "vi" : "Công việc đã được di chuyển.",
+    "zh" : "任务已移动。"
+  },
+  "파일삭제" : {
+    "en" : "Delete File",
+    "ja" : "ファイル削除",
+    "vi" : "Xóa tệp đính kèm",
+    "zh" : "删除文件"
+  },
+  "{0}님이 보드를 잠금처리했습니다." : {
+    "en" : "{0} locked a board.",
+    "ja" : "{0}さんがボードをロックしました。",
+    "vi" : "{0} đã khóa bảng.",
+    "zh" : "{0}锁定了看板。"
+  },
+  "라벨 정보" : {
+    "en" : "Label information",
+    "ja" : "ラベル情報",
+    "vi" : "Thông tin nhãn",
+    "zh" : "标签信息"
+  },
+  "별표" : {
+    "en" : "Star",
+    "ja" : "スター",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "완료하기" : {
+    "en" : "Complete",
+    "ja" : "完了する",
+    "vi" : "Hoàn thành",
+    "zh" : "完了"
+  },
+  "그룹" : {
+    "en" : "Group",
+    "ja" : "グループ",
+    "vi" : "Nhóm",
+    "zh" : "群组"
+  },
+  "제목" : {
+    "en" : "Subject",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "삭제된 보드의 할일입니다." : {
+    "en" : "Tasks from deleted boards.",
+    "ja" : "削除されたボードのタスクです。",
+    "vi" : "Công việc trên bảng đã bị xóa.",
+    "zh" : "已删除看板的任务。"
+  },
+  "링크 추가" : {
+    "en" : "Add a link",
+    "ja" : "リンク追加",
+    "vi" : "Thêm liên kết",
+    "zh" : "追加链接"
+  },
+  "업무" : {
+    "en" : "Tasks",
+    "ja" : "業務",
+    "vi" : "Công việc",
+    "zh" : "工作任务"
+  },
+  "업무명을 입력하세요." : {
+    "en" : "Please enter the task name.",
+    "ja" : "業務名を入力してください。",
+    "vi" : "Nhập tên công việc.",
+    "zh" : "请输入工作任务名称。"
+  },
+  "회신도 댓글로 추가됩니다" : {
+    "en" : "Replies will also be added as comments.",
+    "ja" : "返信もコメントで追加されます。",
+    "vi" : "Câu trả lời cũng sẽ được thêm bằng bình luận",
+    "zh" : "回复也会添加到回帖中。"
+  },
+  "체크 리스트를 입력하세요." : {
+    "en" : "Enter checklist items.",
+    "ja" : "チェックリストを入力してください。",
+    "vi" : "Nhập danh sách kiểm tra.",
+    "zh" : "请输入检查清单。"
+  },
+  "기한없음" : {
+    "en" : "Without Due Date",
+    "ja" : "期限なし",
+    "vi" : "Không thời hạn",
+    "zh" : "无期限"
+  },
+  "답장이 아닌 메일 수신 시 할일로 자동 등록" : {
+    "en" : "Automatically register as a task when receiving an email that is not a reply.",
+    "ja" : "返信ではないメール受信時、自動的にタスクに登録されます。",
+    "vi" : "Tự động thêm là công việc khi email nhận được không phải là thư trả lời.",
+    "zh" : "接收非回复邮件时，自动将其注册为待办事项。"
+  },
+  "{0}님이 의견을 남겼습니다." : {
+    "en" : "{0} left a comment.",
+    "ja" : "{0}さんがコメントを追加しました。",
+    "vi" : "{0} đã để lại ý kiến.",
+    "zh" : "{0}上传了意见。"
+  },
+  "파랑" : {
+    "en" : "Blue",
+    "ja" : "青色",
+    "vi" : "Xanh dương",
+    "zh" : "蓝色"
+  },
+  "설정된 기준으로 이동 처리 되며, 매일 새벽에 자동으로 실행 됩니다. 저장 하시겠습니까?" : {
+    "en" : "Moves according to the set criteria and automatically executes daily at dawn. Would you like to save?",
+    "ja" : "設定された基準に従って移動処理され、毎日夜あけに自動で実行されます。保存しますか？",
+    "vi" : "Di chuyển theo cài đặt đã thiết lập và thực hiện tự động vào sáng sớm mỗi ngày. Bạn có muốn lưu không?",
+    "zh" : "按设定标准进行移动处理，每天凌晨自动执行。是否保存？"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "기한일순" : {
+    "en" : "By Due Date",
+    "ja" : "期限日順",
+    "vi" : "Theo hạn chót",
+    "zh" : "按期限日期"
+  },
+  "{0}님이 링크를 추가했습니다." : {
+    "en" : "{0} added a link.",
+    "ja" : "{0}さんがリンクを追加しました。",
+    "vi" : "{0} đã thêm liên kết.",
+    "zh" : "{0}添加了链接。"
+  },
+  "가입된 스페이스가 없습니다." : {
+    "en" : "There are no joined spaces.",
+    "ja" : "登録されたスペースがありません。",
+    "vi" : "Không có không gian nào đã tham gia.",
+    "zh" : "没有加入的空间。"
+  },
+  "비우기" : {
+    "en" : "Empty",
+    "ja" : "空にする",
+    "vi" : "Làm trống",
+    "zh" : "清空"
+  },
+  "회사 관리자" : {
+    "en" : "Company Administrator",
+    "ja" : "会社管理者",
+    "vi" : "Quản trị viên công ty",
+    "zh" : "公司管理员"
+  },
+  "지연" : {
+    "en" : "Delay",
+    "ja" : "遅延",
+    "vi" : "Hoãn",
+    "zh" : "延迟"
+  },
+  "파일추가" : {
+    "en" : "Add File",
+    "ja" : "ファイル追加",
+    "vi" : "Thêm tệp đính kèm",
+    "zh" : "添加文件"
+  },
+  "너비" : {
+    "en" : "Width",
+    "ja" : "幅",
+    "vi" : "Chiều rộng",
+    "zh" : "宽度"
+  },
+  "완료일 기준으로 설정한 기간이 지나면 할일을 자동으로 보관함으로 이동" : {
+    "en" : "When the set period based on the completion date has passed, the to-do item is automatically moved to the archive box.",
+    "ja" : "完了日に基づいて設定した期間が経過すると、タスクを自動的にライブラリに移動します",
+    "vi" : "Khi đã qua khoảng thời gian được đặt dựa trên ngày hoàn thành, nhiệm vụ sẽ tự động chuyển đến hộp lưu trữ.",
+    "zh" : "超过期限后，将自动将已完成任务移至存档文件夹。"
+  },
+  "모두 삭제할 수 없습니다." : {
+    "en" : "Cannot delete all.",
+    "ja" : "全ての削除はできません。",
+    "vi" : "Không thể xóa tất cả.",
+    "zh" : "无法全部删除。"
+  },
+  "오늘까지" : {
+    "en" : "Due Today",
+    "ja" : "今日まで",
+    "vi" : "Đến hôm nay",
+    "zh" : "截至今天"
+  },
+  "{0}님이 파일을 완전삭제했습니다." : {
+    "en" : "{0} permanently deleted a file.",
+    "ja" : "{0}さんがファイルを完全に削除しました。",
+    "vi" : "{0} đã xóa hoàn toàn tệp đính kèm.",
+    "zh" : "{0}将文件完全删除。"
+  },
+  "할일을 완전삭제했습니다." : {
+    "en" : "The task has been permanently deleted.",
+    "ja" : "タスクを完全に削除しました。",
+    "vi" : "Công việc đã được xóa hoàn toàn.",
+    "zh" : "任务已完全删除。"
+  },
+  "지연 {0}건" : {
+    "en" : "Delayed {0} items",
+    "ja" : "遅延 {0} 件",
+    "vi" : "Trễ {0} mục",
+    "zh" : "延迟 {0}件"
+  },
+  "원본" : {
+    "en" : "Original",
+    "ja" : "原本",
+    "vi" : "Bản gốc",
+    "zh" : "原文"
+  },
+  "개인 보드" : {
+    "en" : "Personal Board",
+    "ja" : "個人ボード",
+    "vi" : "Bảng cá nhân",
+    "zh" : "个人看板"
+  },
+  "최근" : {
+    "en" : "Recent",
+    "ja" : "最新",
+    "vi" : "Gần đây",
+    "zh" : "最近"
+  },
+  "체크리스트" : {
+    "en" : "Checklist",
+    "ja" : "チェックリスト",
+    "vi" : "Danh sách kiểm tra",
+    "zh" : "检查清单"
+  },
+  "사용자 추가" : {
+    "en" : "Add a user",
+    "ja" : "ユーザー追加",
+    "vi" : "Thêm người dùng",
+    "zh" : "追加使用者"
+  },
+  "공유 보드" : {
+    "en" : "Shared Boards",
+    "ja" : "共有ボード",
+    "vi" : "Bảng chia sẻ",
+    "zh" : "共享看板"
+  },
+  "삭제함의 모든 내용이 삭제되어 복원을 할 수 없습니다." : {
+    "en" : "All contents in the delete bin have been removed and cannot be restored.",
+    "ja" : "削除箱の全ての内容が削除され、復元できません。",
+    "vi" : "Không thể khôi phục do tất cả nội dung trong thùng rác đã bị xóa.",
+    "zh" : "垃圾箱的所有内容已被删除，无法恢复。"
+  },
+  "{0}님이 체크리스트를 수정했습니다." : {
+    "en" : "{0} edited a checklist.",
+    "ja" : "{0}さんがチェックリストを編集しました。",
+    "vi" : "{0} đã sửa danh sách kiểm tra.",
+    "zh" : "{0}对检查清单进行了编辑。"
+  },
+  "라벨명을 입력하세요." : {
+    "en" : "Enter a label name.",
+    "ja" : "ラベル名を入力してください。",
+    "vi" : "Nhập tên nhãn.",
+    "zh" : "请输入标签名。"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境設定",
+    "vi" : "Cài đặt môi trường mặc định",
+    "zh" : "设定基本环境"
+  },
+  "0으로 설정하거나 보드가 잠김 상태면 자동 이동이 되지 않습니다." : {
+    "en" : "Automatic movement does not occur if set to 0 or if the board is locked.",
+    "ja" : "0に設定されているか、ボードがロック状態の場合、自動移動は行われません。",
+    "vi" : "Sẽ không tự động chuyển trong trường hợp thiết lập là 0 hoặc bảng ở trạng thái khóa.",
+    "zh" : "当设为0或看板处于锁定状态时，不会自动移动。"
+  },
+  "{0}님이 할일을 완료상태로 변경했습니다." : {
+    "en" : "{0} changed a task to the completed status.",
+    "ja" : "{0}さんがタスクを完了状態に変更しました。",
+    "vi" : "{0} đã chuyển trạng thái công việc thành hoàn thành.",
+    "zh" : "{0}将任务更改为完成状态。"
+  },
+  "별표해제" : {
+    "en" : "Unstar",
+    "ja" : "スターを解除する",
+    "vi" : "Bỏ đánh dấu sao",
+    "zh" : "解除点星"
+  },
+  "{0}님이 할일 그룹을 추가했습니다." : {
+    "en" : "{0} added a task group.",
+    "ja" : "{0}さんがタスクグループを追加しました。",
+    "vi" : "{0} đã thêm nhóm công việc.",
+    "zh" : "{0}添加了任务团队。"
+  },
+  "등록한 할일" : {
+    "en" : "Registered to-dos.",
+    "ja" : "登録したタスク",
+    "vi" : "Nhiệm vụ đã thêm.",
+    "zh" : "注册的任务"
+  },
+  "{0}님이 체크리스트를 완료했습니다." : {
+    "en" : "{0} completed a checklist item.",
+    "ja" : "{0}さんがチェックリストを完了しました。",
+    "vi" : "{0} đã hoàn thành danh sách kiểm tra.",
+    "zh" : "{0}完成了检查清单。"
+  },
+  "파일첨부 개수 제한" : {
+    "en" : "File attachment limit",
+    "ja" : "ファイル添付数制限",
+    "vi" : "Giới hạn tệp đính kèm",
+    "zh" : "文件附件数量限制"
+  },
+  "의견" : {
+    "en" : "Opinion",
+    "ja" : "意見",
+    "vi" : "Ý kiến",
+    "zh" : "意见"
+  },
+  "기한변경" : {
+    "en" : "Change Due Date",
+    "ja" : "期限変更",
+    "vi" : "Thay đổi hạn chót",
+    "zh" : "编辑期限"
+  },
+  "완료일 기준으로 {0}일이 지난 할일은 자동으로 아카이브로 보관 됩니다." : {
+    "en" : "Tasks that are {0} days past the completion date are automatically archived.",
+    "ja" : "完了日基準で{0}日経過したタスクは自動的にアーカイブに保管されます。",
+    "vi" : "Công việc đã hoàn thành sau {0} ngày sẽ tự động được lưu vào kho lưu trữ.",
+    "zh" : "完成日为基准，超过 {0} 天的待办事项将自动存档。"
+  },
+  "모두 보기" : {
+    "en" : "View All",
+    "ja" : "すべて表示",
+    "vi" : "Xem tất cả",
+    "zh" : "显示全部"
+  },
+  "드롭하면 할일을 아카이브합니다." : {
+    "en" : "Drop to archive the task.",
+    "ja" : "ドロップするとタスクがアーカイブされます。",
+    "vi" : "Kéo và thả để lưu trữ công việc.",
+    "zh" : "拖放以归档待办事项。"
+  },
+  "{0}님이 의견을 수정했습니다." : {
+    "en" : "{0} edited a comment.",
+    "ja" : "{0}さんがコメントを編集しました。",
+    "vi" : "{0} đã sửa ý kiến.",
+    "zh" : "{0}对意见进行了编辑。"
+  },
+  "하늘" : {
+    "en" : "Sky",
+    "ja" : "空色",
+    "vi" : "Xanh da trời",
+    "zh" : "天蓝"
+  },
+  "메일 원본을 수정했습니다." : {
+    "en" : "The original email has been modified.",
+    "ja" : "メールの原本を修正しました。",
+    "vi" : "Đã sửa đổi email gốc.",
+    "zh" : "已修改邮件原文。"
+  },
+  "첨부 제한할 파일의 확장자를 입력하세요. 여러 개일 경우 콤마(,)로 구분" : {
+    "en" : "Enter the file extensions to be restricted. If there are multiple, separate them with commas (,).",
+    "ja" : "限定するファイル拡張子を入力してください。複数の場合は、カンマ（,）で区切ってください。",
+    "vi" : "Nhập các phần mở rộng tệp bị hạn chế. Nếu có nhiều hơn, hãy phân cách chúng bằng dấu phẩy (,).",
+    "zh" : "请输入要限制附件的文件扩展名，如果有多个，请用逗号(,)分隔。"
+  },
+  "담당자 추가" : {
+    "en" : "Add a responsible party or manager.",
+    "ja" : "担当者の追加",
+    "vi" : "Thêm người phụ trách",
+    "zh" : "添加负责人"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "진행" : {
+    "en" : "Progress",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "파일함 선택" : {
+    "en" : "Select file box.",
+    "ja" : "ファイルトレイ選択",
+    "vi" : "Chọn hộp tệp.",
+    "zh" : "选择文件夹"
+  },
+  "녹색" : {
+    "en" : "Green",
+    "ja" : "緑色",
+    "vi" : "Xanh lá",
+    "zh" : "绿色"
+  },
+  "할일이 완료되었습니다." : {
+    "en" : "Task has been completed.",
+    "ja" : "タスクが完了しました。",
+    "vi" : "Công việc đã hoàn thành.",
+    "zh" : "任务完成。"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name.",
+    "ja" : "フォルダ名を入力してください。",
+    "vi" : "Nhập tên thư mục.",
+    "zh" : "请输入文件夹名。"
+  },
+  "{0}님이 할일을 아카이브했습니다." : {
+    "en" : "{0} archived a task.",
+    "ja" : "{0}さんがタスクをアーカイブしました。",
+    "vi" : "{0} đã lưu trữ công việc.",
+    "zh" : "{0}对任务进行了存档。"
+  },
+  "스페이스 보드" : {
+    "en" : "Space Board",
+    "ja" : "スペースボード",
+    "vi" : "Bảng không gian",
+    "zh" : "空间看板"
+  },
+  "잠금" : {
+    "en" : "Lock",
+    "ja" : "ロック",
+    "vi" : "Khóa",
+    "zh" : "锁定"
+  },
+  "등록된 보드가 없습니다." : {
+    "en" : "No registered boards.",
+    "ja" : "登録されたボードがありません。",
+    "vi" : "Không có bảng nào đã được thêm.",
+    "zh" : "没有上传的看板。"
+  },
+  "필터" : {
+    "en" : "Filter",
+    "ja" : "フィルター",
+    "vi" : "Bộ lọc",
+    "zh" : "过滤"
+  },
+  "링크 이름" : {
+    "en" : "Link name",
+    "ja" : "リンク名",
+    "vi" : "Tên liên kết",
+    "zh" : "链接名"
+  },
+  "체크처리" : {
+    "en" : "Check Off Item",
+    "ja" : "チェック処理",
+    "vi" : "Xử lý đánh dấu",
+    "zh" : "完成检查"
+  },
+  "메일만 보내려면 [취소]를 선택하세요." : {
+    "en" : "To send only an email, select [Cancel].",
+    "ja" : "メールのみを送信するためには、[キャンセル] を選択してください。",
+    "vi" : "Nếu chỉ muốn gửi email, hãy chọn [Hủy].",
+    "zh" : "若只想发送邮件，请选择【取消】。"
+  },
+  "보드" : {
+    "en" : "Board",
+    "ja" : "ボード",
+    "vi" : "Bảng",
+    "zh" : "看板"
+  },
+  "폴더 위치" : {
+    "en" : "Folder location",
+    "ja" : "フォルダの位置",
+    "vi" : "Vị trí thư mục",
+    "zh" : "文件夹位置"
+  },
+  "필터 적용" : {
+    "en" : "Apply Filter",
+    "ja" : "フィルターを適用",
+    "vi" : "Áp dụng bộ lọc",
+    "zh" : "应用过滤器"
+  },
+  "최신순" : {
+    "en" : "Recent",
+    "ja" : "新着順",
+    "vi" : "Gần đây",
+    "zh" : "最新顺"
+  },
+  "링크 URL" : {
+    "en" : "Link URL",
+    "ja" : "リンクURL",
+    "vi" : "URL",
+    "zh" : "链接 URL"
+  },
+  "할일에 의견이 등록되었습니다." : {
+    "en" : "Comment has been added to the task.",
+    "ja" : "タスクにコメントが登録されました。",
+    "vi" : "Đã thêm ý kiến vào công việc.",
+    "zh" : "任务意见已上传。"
+  },
+  "잠금해제 되었습니다." : {
+    "en" : "It has been unlocked.",
+    "ja" : "ロック解除されました。",
+    "vi" : "Đã được hủy bỏ khóa.",
+    "zh" : "锁定被解除了"
+  },
+  "보드 설명을 입력하세요." : {
+    "en" : "Please enter a board description.",
+    "ja" : "ボードの説明を入力してください。",
+    "vi" : "Nhập mô tả của bảng.",
+    "zh" : "请输入看板说明。"
+  },
+  "보관함" : {
+    "en" : "Archive box.",
+    "ja" : "ライブラリ",
+    "vi" : "Hộp lưu trữ.",
+    "zh" : "存档文件夹"
+  },
+  "{0}님이 의견을 삭제했습니다." : {
+    "en" : "{0} deleted a comment.",
+    "ja" : "{0}さんがコメントを削除しました。",
+    "vi" : "{0} đã xóa ý kiến.",
+    "zh" : "{0}删除了意见。"
+  },
+  "URL 형식이 맞지 않습니다." : {
+    "en" : "The URL format is incorrect.",
+    "ja" : "URLの形式が正しくありません。",
+    "vi" : "Định dạng URL không hợp lệ.",
+    "zh" : "URL格式不正确。"
+  },
+  "연결 대상을 선택해주세요." : {
+    "en" : "Please select the target to link.",
+    "ja" : "接続対象を選択してください。",
+    "vi" : "Vui lòng chọn đối tượng để liên kết.",
+    "zh" : "请选择连接对象。"
+  },
+  "링크삭제" : {
+    "en" : "Delete Link",
+    "ja" : "リンク削除",
+    "vi" : "Xóa liên kết",
+    "zh" : "删除链接"
+  },
+  "최근 방문한 스페이스가 없습니다." : {
+    "en" : "No recent spaces visited.",
+    "ja" : "最近訪れたスペースはありません。",
+    "vi" : "Không có không gian được truy cập gần đây.",
+    "zh" : "没有最近访问的空间。"
+  },
+  "삭제자" : {
+    "en" : "Deleted by",
+    "ja" : "削除者",
+    "vi" : "Bị xóa bởi",
+    "zh" : "删除者"
+  },
+  "이름순" : {
+    "en" : "by name",
+    "ja" : "名前順",
+    "vi" : "Theo tên",
+    "zh" : "按名字顺"
+  },
+  "할일이 완료취소 되었습니다." : {
+    "en" : "Task completion has been canceled.",
+    "ja" : "タスクの完了が取り消されました。",
+    "vi" : "Công việc đã được hủy trạng thái hoàn thành.",
+    "zh" : "取消任务完成。"
+  },
+  "담당" : {
+    "en" : "In Charge Of",
+    "ja" : "担当",
+    "vi" : "Đảm nhận",
+    "zh" : "负责人"
+  },
+  "{0}님이 할일 그룹을 삭제했습니다." : {
+    "en" : "{0} deleted a task group.",
+    "ja" : "{0}さんがタスクグループを削除しました。",
+    "vi" : "{0} đã xóa nhóm công việc.",
+    "zh" : "{0}删除了任务团队。"
+  },
+  "보안메일은 원문이 바로 등록 됩니다." : {
+    "en" : "The original text of secure emails is directly registered.",
+    "ja" : "セキュリティメールは原文がそのまま登録されます。",
+    "vi" : "Email bảo mật sẽ được đăng nguyên bản.",
+    "zh" : "安全邮件将直接注册原文。"
+  },
+  "검색조건을 선택하세요." : {
+    "en" : "Please select search conditions.",
+    "ja" : "検索条件を選択してください。",
+    "vi" : "Hãy lựa chọn điều kiện tìm kiếm",
+    "zh" : "请选择搜索条件。"
+  },
+  "내 업무" : {
+    "en" : "My Tasks",
+    "ja" : "私の業務",
+    "vi" : "Công việc của tôi",
+    "zh" : "我的工作任务"
+  },
+  "기한있음" : {
+    "en" : "With Due Dates",
+    "ja" : "期限あり",
+    "vi" : "Có thời hạn",
+    "zh" : "有期限"
+  },
+  "{0}님이 링크를 완전삭제했습니다." : {
+    "en" : "{0} permanently deleted a link.",
+    "ja" : "{0}さんがリンクを完全に削除しました。",
+    "vi" : "{0} đã xóa hoàn toàn liên kết.",
+    "zh" : "{0}将链接完全删除。"
+  },
+  "행 보기" : {
+    "en" : "Collapse View",
+    "ja" : "行を表示",
+    "vi" : "Xem hàng",
+    "zh" : "行视图"
+  },
+  "보관" : {
+    "en" : "Archive.",
+    "ja" : "保存",
+    "vi" : "Lưu trữ.",
+    "zh" : "存档"
+  },
+  "보드 이동" : {
+    "en" : "Move Board",
+    "ja" : "ボード移動",
+    "vi" : "Di chuyển bảng",
+    "zh" : "移动看板"
+  },
+  "스킨" : {
+    "en" : "Skin",
+    "ja" : "スキン",
+    "vi" : "Giao diện",
+    "zh" : "皮肤"
+  },
+  "링크수정" : {
+    "en" : "Edit Link",
+    "ja" : "リンク編集",
+    "vi" : "Sửa liên kết",
+    "zh" : "编辑链接"
+  },
+  "하위에 보드가 존재하여 삭제 할 수 없습니다." : {
+    "en" : "Cannot delete because there are boards underneath.",
+    "ja" : "サブボードが存在するため、削除できません。",
+    "vi" : "Không thể xóa vì có bảng con.",
+    "zh" : "有进行中的下级看板，无法删除。"
+  },
+  "삭제일" : {
+    "en" : "Date Deleted",
+    "ja" : "削除日",
+    "vi" : "Ngày xóa",
+    "zh" : "删除日"
+  },
+  "보드 추가" : {
+    "en" : "Add Board",
+    "ja" : "ボードを追加",
+    "vi" : "Thêm bảng",
+    "zh" : "添加看板"
+  },
+  "원문 보기" : {
+    "en" : "View original text.",
+    "ja" : "原文を見る",
+    "vi" : "Xem bản gốc.",
+    "zh" : "查看原文"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "폴더 순서" : {
+    "en" : "Order of Folders",
+    "ja" : "フォルダの並び順",
+    "vi" : "Thứ tự thư mục",
+    "zh" : "文件夹顺序"
+  },
+  "할일 관리" : {
+    "en" : "Task Management",
+    "ja" : "タスク管理",
+    "vi" : "Quản lý công việc",
+    "zh" : "任务管理"
+  },
+  "우측 영역" : {
+    "en" : "Right Panel",
+    "ja" : "右側の領域",
+    "vi" : "Vùng bên phải",
+    "zh" : "右侧区域"
+  },
+  "상세 내용" : {
+    "en" : "Detailed Content",
+    "ja" : "詳細内容",
+    "vi" : "Nội dung chi tiết",
+    "zh" : "详细内容"
+  },
+  "삭제함 목록" : {
+    "en" : "Deleted Items List",
+    "ja" : "削除済みリスト",
+    "vi" : "Danh sách đã xóa",
+    "zh" : "回收站目录"
+  },
+  "재발송" : {
+    "en" : "Resend",
+    "ja" : "再送信",
+    "vi" : "Gửi lại",
+    "zh" : "再发送"
+  },
+  "멤버" : {
+    "en" : "Members",
+    "ja" : "メンバー",
+    "vi" : "Thành viên",
+    "zh" : "成员"
+  },
+  "할일 제목을 입력하세요." : {
+    "en" : "Please enter a task title.",
+    "ja" : "タスクタイトルを入力してください。",
+    "vi" : "Nhập tiêu đề công việc.",
+    "zh" : "请输入任务主题。"
+  },
+  "{0}님이 업무설명을 변경했습니다." : {
+    "en" : "{0} changed the task description.",
+    "ja" : "{0}さんがタスク説明を変更しました。",
+    "vi" : "{0} đã thay đổi mô tả công việc.",
+    "zh" : "{0}更改了工作任务说明。"
+  },
+  "{0}님이 링크를 복원했습니다." : {
+    "en" : "{0} restored a link.",
+    "ja" : "{0}さんがリンクを復元しました。",
+    "vi" : "{0} đã khôi phục liên kết.",
+    "zh" : "{0}对链接进行了恢复。"
+  },
+  "주제" : {
+    "en" : "Topic",
+    "ja" : "主題",
+    "vi" : "Chủ đề",
+    "zh" : "主题"
+  },
+  "부가 기능" : {
+    "en" : "Additional Features",
+    "ja" : "追加機能",
+    "vi" : "Tính năng bổ sung",
+    "zh" : "附加功能"
+  },
+  "빨강" : {
+    "en" : "Red",
+    "ja" : "赤色",
+    "vi" : "Đỏ",
+    "zh" : "红色"
+  },
+  "라벨" : {
+    "en" : "Label",
+    "ja" : "ラベル",
+    "vi" : "Nhãn",
+    "zh" : "标签"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "キャンセル",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "보관함의 모든 내용을 삭제 하시겠습니까?" : {
+    "en" : "Would you like to delete all contents in the mailbox?",
+    "ja" : "ライブラリのすべての内容を削除しますか。",
+    "vi" : "Bạn có muốn xóa toàn bộ nội dung trong hộp thư không?",
+    "zh" : "您确定要删除邮箱中的所有内容吗？"
+  },
+  "라벨만 보기" : {
+    "en" : "View Labels Only",
+    "ja" : "ラベルのみ表示",
+    "vi" : "Chỉ xem nhãn",
+    "zh" : "只显示标签部分"
+  },
+  "기본 단어" : {
+    "en" : "Basic Words",
+    "ja" : "デフォルトのワード",
+    "vi" : "Từ cơ bản",
+    "zh" : "基本词汇"
+  },
+  "완료해제" : {
+    "en" : "Unmark Completed",
+    "ja" : "完了解除",
+    "vi" : "Bỏ chọn hoàn tất",
+    "zh" : "解除完成"
+  },
+  "메일 본문" : {
+    "en" : "Email body (repeated).",
+    "ja" : "メール本文",
+    "vi" : "Nội dung email.",
+    "zh" : "邮件正文"
+  },
+  "이동(댓글)" : {
+    "en" : "Movement (Comment)",
+    "ja" : "移動（コメント）",
+    "vi" : "Di chuyển (bình luận)",
+    "zh" : "移动（评论）"
+  },
+  "그룹명을 입력하세요." : {
+    "en" : "Please enter a group name.",
+    "ja" : "グループ名を入力してください。",
+    "vi" : "Nhập tên nhóm.",
+    "zh" : "请输入团队名称。"
+  },
+  "{0}님이 파일을 삭제했습니다." : {
+    "en" : "{0} deleted a file.",
+    "ja" : "{0}さんがファイルを削除しました。",
+    "vi" : "{0} đã xóa tệp đính kèm.",
+    "zh" : "{0}删除了文件。"
+  },
+  "데이터가 없습니다." : {
+    "en" : "There is no data.",
+    "ja" : "データがありません。",
+    "vi" : "Không có dữ liệu.",
+    "zh" : "无数据"
+  },
+  "개인" : {
+    "en" : "Personal",
+    "ja" : "個人",
+    "vi" : "Cá nhân",
+    "zh" : "个人"
+  },
+  "할일 현황" : {
+    "en" : "To-do status.",
+    "ja" : "タスクの現状",
+    "vi" : "Tình trạng nhiệm vụ.",
+    "zh" : "任务状态"
+  },
+  "라벨 선택" : {
+    "en" : "Select label",
+    "ja" : "ラベル選択",
+    "vi" : "Chọn nhãn",
+    "zh" : "选择标签"
+  },
+  "이 할일을 메일로 발송하고 댓글로 등록하시겠습니까?" : {
+    "en" : "Would you like to send this task via email and post it as a comment?",
+    "ja" : "当該予定をメールで送信し、コメントで登録しますか。",
+    "vi" : "Bạn có muốn gửi công việc này qua email và thêm bằng bình luận không?",
+    "zh" : "是否要通过邮件发送此待办事宜并通过回帖注册？"
+  },
+  "할일에 댓글이 등록되었습니다." : {
+    "en" : "A comment has been posted on the task.",
+    "ja" : "タスクにコメントが登録されました。",
+    "vi" : "Đã thêm bình luận trong công việc.",
+    "zh" : "待办事项有新评论注册。"
+  },
+  "하위폴더가 존재하여 삭제 할 수 없습니다." : {
+    "en" : "Cannot delete due to the existence of subfolders.",
+    "ja" : "サブフォルダが存在するため、削除できません。",
+    "vi" : "Không thể xóa vì có thư mục con.",
+    "zh" : "有进行中的子文件夹，无法删除。"
+  },
+  "위키 선택" : {
+    "en" : "Select wiki.",
+    "ja" : "ウィキ選択",
+    "vi" : "Chọn wiki.",
+    "zh" : "选择Wiki"
+  },
+  "그룹 추가" : {
+    "en" : "Add Group",
+    "ja" : "グループを追加",
+    "vi" : "Thêm nhóm",
+    "zh" : "添加团队"
+  },
+  "실시간 알림을 위한 서버연결을 할 수 없습니다." : {
+    "en" : "Unable to establish a server connection for real-time notifications.",
+    "ja" : "リアルタイム通知のためのサーバー接続ができません。",
+    "vi" : "Không thể kết nối máy chủ để thông báo trực tiếp.",
+    "zh" : "无法连接实时通知服务器。"
+  },
+  "기한없는 일감" : {
+    "en" : "Task with No Due Date",
+    "ja" : "期限のないタスク",
+    "vi" : "Công việc không có thời hạn",
+    "zh" : "无期限任务"
+  },
+  "삭제함" : {
+    "en" : "Deleted",
+    "ja" : "削除",
+    "vi" : "Đã xóa",
+    "zh" : "删除箱"
+  },
+  "원본보기" : {
+    "en" : "View original.",
+    "ja" : "原本を見る",
+    "vi" : "Xem bản gốc.",
+    "zh" : "查看原件"
+  },
+  "업무 내용을 입력하세요." : {
+    "en" : "Please enter the task details.",
+    "ja" : "業務内容を入力してください。",
+    "vi" : "Nhập nội dung công việc.",
+    "zh" : "请输入工作内容。"
+  },
+  "링크" : {
+    "en" : "Link",
+    "ja" : "リンク",
+    "vi" : "Liên kết",
+    "zh" : "链接"
+  },
+  "이번달" : {
+    "en" : "This Month",
+    "ja" : "今月",
+    "vi" : "Tháng này",
+    "zh" : "本月"
+  },
+  "공유" : {
+    "en" : "Share",
+    "ja" : "共有する",
+    "vi" : "chia sẻ",
+    "zh" : "共有"
+  },
+  "내용 편집" : {
+    "en" : "Edit content",
+    "ja" : "内容編集",
+    "vi" : "Chỉnh sửa nội dung",
+    "zh" : "内容编辑"
+  },
+  "우측 접기" : {
+    "en" : "Collapse Right Panel",
+    "ja" : "右側を折りたたむ",
+    "vi" : "Thu gọn bên phải",
+    "zh" : "右侧折叠"
+  },
+  "신규" : {
+    "en" : "New",
+    "ja" : "新規",
+    "vi" : "Mới",
+    "zh" : "新增"
+  },
+  "활동" : {
+    "en" : "Activities",
+    "ja" : "活動",
+    "vi" : "hoạt động",
+    "zh" : "活动"
+  },
+  "체크취소" : {
+    "en" : "Uncheck Item",
+    "ja" : "チェック取り消し",
+    "vi" : "Hủy đánh dấu",
+    "zh" : "取消检查"
+  },
+  "{0}님이 작업기한을 변경했습니다." : {
+    "en" : "{0} changed the task due date.",
+    "ja" : "{0}さんが作業期限を変更しました。",
+    "vi" : "{0} đã thay đổi hạn chót công việc.",
+    "zh" : "{0}更改了工作期限。"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "이번주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "这个星期"
+  },
+  "업무 설명을 입력하세요." : {
+    "en" : "Please enter the task description.",
+    "ja" : "業務の説明を入力してください。",
+    "vi" : "Nhập mô tả công việc.",
+    "zh" : "请输入工作任务说明。"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại hình",
+    "zh" : "类型"
+  },
+  "할일 추가" : {
+    "en" : "Add Task",
+    "ja" : "タスクを追加",
+    "vi" : "Thêm công việc",
+    "zh" : "添加任务"
+  },
+  "어제" : {
+    "en" : "Yesterday",
+    "ja" : "昨日",
+    "vi" : "Hôm qua",
+    "zh" : "昨天"
+  },
+  "모든 보드" : {
+    "en" : "All Boards",
+    "ja" : "すべてのボード",
+    "vi" : "Tất cả bảng",
+    "zh" : "全部看板"
+  },
+  "아카이브의 모든 내용을 삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete all contents in the archive?",
+    "ja" : "アーカイブの全ての内容を削除しますか？",
+    "vi" : "Bạn có muốn xóa tất cả nội dung trong kho lưu trữ không?",
+    "zh" : "您确定要删除存档中的所有内容吗？"
+  },
+  "현재 시간보다 늦은 시간이어야 합니다." : {
+    "en" : "It should be later than the current time.",
+    "ja" : "現在の時間よりも遅い時間である必要があります。",
+    "vi" : "Thời gian phải sau thời gian hiện tại.",
+    "zh" : "时间不能早于当前时间。"
+  },
+  "주황" : {
+    "en" : "Orange",
+    "ja" : "オレンジ色",
+    "vi" : "Cam",
+    "zh" : "橙色"
+  },
+  "별표하기" : {
+    "en" : "Mark 'Star'",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "选星号"
+  },
+  "잠금해제" : {
+    "en" : "Unlock",
+    "ja" : "ロック解除",
+    "vi" : "Bỏ khóa",
+    "zh" : "解除锁定"
+  },
+  "선택한 폴더의 하위 폴더의 상하 위치를 변경합니다." : {
+    "en" : "Re-order the sub-folders of the selected folder.",
+    "ja" : "選択したフォルダ内のサブフォルダの上下位置を変更します。",
+    "vi" : "Thay đổi vị trí trên dưới của thư mục bên trong thư mục đã chọn.",
+    "zh" : "变更把您选择的文件夹的下位文件夹上下位置。"
+  },
+  "{0}님이 파일을 첨부했습니다." : {
+    "en" : "{0} attached a file.",
+    "ja" : "{0}さんがファイルを添付しました。",
+    "vi" : "{0} đã đính kèm tệp.",
+    "zh" : "{0}添加了文件。"
+  },
+  "삭제일 기준으로 {0}일 까지만 보관 합니다." : {
+    "en" : "Files deleted are stored for up to {0} days from the deletion date.",
+    "ja" : "削除日基準で{0}日まで保管します。",
+    "vi" : "Chỉ lưu trữ tối đa {0} ngày kể từ ngày xóa.",
+    "zh" : "删除日为基准，最多保留 {0} 天。"
+  },
+  "{0}님이 할일을 보관했습니다." : {
+    "en" : "{0} has stored the to-do task.",
+    "ja" : "{0}様のタスクを保存しました。",
+    "vi" : "{0} đã lưu trữ công việc.",
+    "zh" : "{0}已存档待办事项。"
+  },
+  "체크수정" : {
+    "en" : "Edit Checklist Item",
+    "ja" : "チェック編集",
+    "vi" : "Sửa đánh dấu",
+    "zh" : "编辑检查"
+  },
+  "제목변경" : {
+    "en" : "Change Title",
+    "ja" : "タイトル変更",
+    "vi" : "Thay đổi tiêu đề",
+    "zh" : "编辑主题"
+  },
+  "설명변경" : {
+    "en" : "Change Description",
+    "ja" : "説明変更",
+    "vi" : "Thay đổi mô tả",
+    "zh" : "编辑说明"
+  },
+  "담당만 보기" : {
+    "en" : "View Assignees Only",
+    "ja" : "担当者のみ表示",
+    "vi" : "Chỉ xem người đảm nhận",
+    "zh" : "只显示负责部分"
+  },
+  "한번에 업로드할 수 있는 용량 입니다." : {
+    "en" : "Capacity for uploading at once.",
+    "ja" : "一度にアップロードできる容量です。",
+    "vi" : "Khả năng tải lên cùng một lúc.",
+    "zh" : "可以一次上传的容量。"
+  },
+  "미배정" : {
+    "en" : "Unassigned",
+    "ja" : "未割り当て",
+    "vi" : "Chưa phân công",
+    "zh" : "未分配"
+  },
+  "멤버를 추가하세요." : {
+    "en" : "Add Members",
+    "ja" : "メンバーを追加してください。",
+    "vi" : "Thêm thành viên",
+    "zh" : "请添加成员。"
+  },
+  "댓글수정" : {
+    "en" : "Comment Modification",
+    "ja" : "コメント修正",
+    "vi" : "Chỉnh sửa bình luận",
+    "zh" : "评论修改"
+  },
+  "할일을 선택하세요." : {
+    "en" : "Please select a task.",
+    "ja" : "タスクを選択してください。",
+    "vi" : "Vui lòng chọn công việc.",
+    "zh" : "请选择任务。"
+  },
+  "바탕화면" : {
+    "en" : "Desktop",
+    "ja" : "デスクトップ",
+    "vi" : "Màn hình nền",
+    "zh" : "桌面背景"
+  },
+  "제목, 등록자, 상세내용, 첨부파일 만 유지 됩니다. 댓글로 이동 하시겠습니까?" : {
+    "en" : "Only the title, registrant, detailed content, and attached files will be maintained. Would you like to move to the comment section?",
+    "ja" : "タイトル、登録者、詳細内容、添付ファイルのみ維持されます。コメントに移動しますか？",
+    "vi" : "Chỉ giữ lại tiêu đề, người đăng, nội dung chi tiết chi tiết, tệp đính kèm. Bạn chắc chắn di chuyển đến bình luận chứ?",
+    "zh" : "标题、注册者、详细内容、附件将被保留。您要移动到评论吗？"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator settings",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "아카이브 목록" : {
+    "en" : "Archive List",
+    "ja" : "アーカイブリスト",
+    "vi" : "Danh sách đã lưu trữ",
+    "zh" : "存档目录"
+  },
+  "내 글" : {
+    "en" : "My Posts",
+    "ja" : "私のポスト",
+    "vi" : "Bài viết của tôi",
+    "zh" : "我的帖子"
+  },
+  "직접입력" : {
+    "en" : "Enter Manually",
+    "ja" : "直接入力",
+    "vi" : "Nhập trực tiếp",
+    "zh" : "自己输入"
+  },
+  "시간 초기화" : {
+    "en" : "Reset Timer",
+    "ja" : "時間リセット",
+    "vi" : "Đặt lại thời gian",
+    "zh" : "时间初始化"
+  },
+  "댓글삭제" : {
+    "en" : "Comment Deletion",
+    "ja" : "コメント削除",
+    "vi" : "Xóa bình luận",
+    "zh" : "评论删除"
+  },
+  "할일이 삭제되었습니다." : {
+    "en" : "Task has been deleted.",
+    "ja" : "タスクが削除されました。",
+    "vi" : "Công việc đã bị xóa.",
+    "zh" : "任务已删除。"
+  },
+  "체크추가" : {
+    "en" : "Add Checklist Item",
+    "ja" : "チェック追加",
+    "vi" : "Thêm đánh dấu",
+    "zh" : "添加检查"
+  },
+  "할일이 없습니다." : {
+    "en" : "No tasks exist.",
+    "ja" : "タスクがありません。",
+    "vi" : "Không có công việc.",
+    "zh" : "没有任务。"
+  },
+  "삭제 되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Đã xóa",
+    "zh" : "删除完了。"
+  },
+  "내용을 복원했습니다." : {
+    "en" : "The content has been restored.",
+    "ja" : "内容を復元しました。",
+    "vi" : "Đã khôi phục nội dung.",
+    "zh" : "已恢复内容。"
+  },
+  "다른 사람이 먼저 내용을 수정하였습니다. 내용을 확인 해주세요." : {
+    "en" : "Someone else has already modified the content. Please check the content.",
+    "ja" : "他の人が先に内容を修正しました。内容を確認してください。",
+    "vi" : "Người khác đã chỉnh sửa nội dung trước bạn. Vui lòng kiểm tra nội dung.",
+    "zh" : "其他人已先您一步修改了内容，请检查内容。"
+  },
+  "{0}님이 담당자를 배정했습니다." : {
+    "en" : "{0} assigned a task.",
+    "ja" : "{0}さんが担当者を割り当てました。",
+    "vi" : "{0} đã phân công người đảm nhận công việc.",
+    "zh" : "{0}进行了负责人分配。"
+  },
+  "그룹 관리자" : {
+    "en" : "Group administrator",
+    "ja" : "グループ管理者",
+    "vi" : "Người quản lý Nhóm",
+    "zh" : "小组管理者"
+  },
+  "담당자" : {
+    "en" : "Person in charge",
+    "ja" : "担当者",
+    "vi" : "Người phụ trách",
+    "zh" : "负责人"
+  },
+  "잠시 후 다시 시도해주세요." : {
+    "en" : "Please try again later.",
+    "ja" : "しばらくしてから再試行してください。",
+    "vi" : "Vui lòng thử lại sau.",
+    "zh" : "请稍后再试。"
+  },
+  "할일 그룹" : {
+    "en" : "Task Groups",
+    "ja" : "タスクグループ",
+    "vi" : "Nhóm công việc",
+    "zh" : "任务团队"
+  },
+  "핑크" : {
+    "en" : "Pink",
+    "ja" : "ピンク色",
+    "vi" : "Hồng",
+    "zh" : "粉色"
+  },
+  "체크 리스트 추가" : {
+    "en" : "Add Checklist",
+    "ja" : "チェックリストを追加",
+    "vi" : "Thêm danh sách kiểm tra",
+    "zh" : "添加检查清单"
+  },
+  "링크 이름을 입력하세요." : {
+    "en" : "Please enter a link name.",
+    "ja" : "リンク名を入力してください。",
+    "vi" : "Nhập tên liên kết.",
+    "zh" : "请输入链接名称。"
+  },
+  "보드 설정" : {
+    "en" : "Board Settings",
+    "ja" : "ボード設定",
+    "vi" : "Thiết lập bảng",
+    "zh" : "设置看板"
+  },
+  "주소가 복사되었습니다." : {
+    "en" : "The address has been copied.",
+    "ja" : "アドレスがコピーされました。",
+    "vi" : "Đã sao chép địa chỉ.",
+    "zh" : "地址已复制。"
+  },
+  "업데이트순" : {
+    "en" : "By Update Date",
+    "ja" : "更新順",
+    "vi" : "Theo ngày cập nhật",
+    "zh" : "按更新顺序"
+  },
+  "모든 사용자" : {
+    "en" : "All users",
+    "ja" : "すべてのユーザー",
+    "vi" : "Tất cả người dùng",
+    "zh" : "所有使用者"
+  },
+  "{0}개" : {
+    "en" : "{0} messages",
+    "ja" : "{0}個",
+    "vi" : "{0} lời nhắn",
+    "zh" : "{0}个"
+  },
+  "파일첨부 확장자 제한" : {
+    "en" : "File attachment extension restriction",
+    "ja" : "ファイル添付拡張子制限",
+    "vi" : "Giới hạn phần mở rộng tệp đính kèm",
+    "zh" : "文件附件扩展名限制"
+  },
+  "기한 삭제" : {
+    "en" : "Delete Due Date",
+    "ja" : "期限削除",
+    "vi" : "Xóa hạn chót",
+    "zh" : "删除期限"
+  },
+  "활동 내역" : {
+    "en" : "Activity Log",
+    "ja" : "アクティビティログ",
+    "vi" : "Lịch sử hoạt động",
+    "zh" : "活动信息"
+  },
+  "줄바꿈" : {
+    "en" : "Line Break",
+    "ja" : "改行",
+    "vi" : "Xuống dòng",
+    "zh" : "换行"
+  },
+  "그룹삭제" : {
+    "en" : "Delete Group",
+    "ja" : "グループ削除",
+    "vi" : "Xóa nhóm",
+    "zh" : "删除团队"
+  },
+  "댓글을 등록했습니다." : {
+    "en" : "A comment has been posted.",
+    "ja" : "コメントを登録しました。",
+    "vi" : "Đã thêm bình luận.",
+    "zh" : "评论已发布。"
+  },
+  "외부사용자의 답장메일을 댓글로 등록했습니다." : {
+    "en" : "External user's reply email has been registered as a comment.",
+    "ja" : "外部ユーザーの返信メールをコメントとして登録しました。",
+    "vi" : "Đã thêm email phản hồi của người dùng ngoài làm bình luận.",
+    "zh" : "将外部用户的回复邮件作为评论注册。"
+  },
+  "한번에 업로드할 수 있는 개수 입니다." : {
+    "en" : "Number of items that can be uploaded at once.",
+    "ja" : "一度にアップロードできる数です。",
+    "vi" : "Số lượng mục có thể tải lên cùng một lúc.",
+    "zh" : "一次可上传的数量。"
+  },
+  "{0}님이 댓글을 수정했습니다." : {
+    "en" : "{0} has edited a comment.",
+    "ja" : "{0}さんがコメントを修正しました。",
+    "vi" : "{0} đã chỉnh sửa bình luận.",
+    "zh" : "{0}编辑了评论。"
+  },
+  "보드 정보" : {
+    "en" : "Board Information",
+    "ja" : "ボード情報",
+    "vi" : "Thông tin bảng",
+    "zh" : "看板信息"
+  },
+  "시간을 선택하세요." : {
+    "en" : "Please select a time.",
+    "ja" : "時間を選択してください。",
+    "vi" : "Vui lòng chọn một thời điểm.",
+    "zh" : "请选择时间。"
+  },
+  "{0}님이 체크리스트를 추가했습니다." : {
+    "en" : "{0} added a checklist.",
+    "ja" : "{0}さんがチェックリストを追加しました。",
+    "vi" : "{0} đã thêm danh sách kiểm tra.",
+    "zh" : "{0}添加了检查清单。"
+  },
+  "의견 입력" : {
+    "en" : "Enter comments.",
+    "ja" : "コメントを入力",
+    "vi" : "Nhập ý kiến.",
+    "zh" : "输入意见"
+  },
+  "공유자 설정" : {
+    "en" : "Sharer settings",
+    "ja" : "共有者の設定",
+    "vi" : "Cài đặt Người chia sẻ",
+    "zh" : "设定共有人"
+  },
+  "등록자" : {
+    "en" : "Added by",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "디자인" : {
+    "en" : "Design",
+    "ja" : "デザイン",
+    "vi" : "Thiết kế",
+    "zh" : "款式"
+  },
+  "첨부파일 추가" : {
+    "en" : "Add Attachment",
+    "ja" : "添付ファイルを追加",
+    "vi" : "Thêm tệp đính kèm",
+    "zh" : "添加附件"
+  },
+  "할일 조회" : {
+    "en" : "View to-do",
+    "ja" : "タスクを見る",
+    "vi" : "Xem công việc cần làm",
+    "zh" : "待办事项查询"
+  },
+  "{0}님이 댓글을 삭제했습니다." : {
+    "en" : "{0} has deleted a comment.",
+    "ja" : "{0}さんがコメントを削除しました。",
+    "vi" : "{0} đã xóa bình luận.",
+    "zh" : "{0}删除了评论。"
+  },
+  "제목을 입력하세요." : {
+    "en" : "Enter title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Hãy nhập tiêu đề.",
+    "zh" : "请输入题目。"
+  },
+  "라벨 없음" : {
+    "en" : "No Labels",
+    "ja" : "ラベルなし",
+    "vi" : "Không nhãn",
+    "zh" : "无商标"
+  },
+  "통합 글" : {
+    "en" : "Integrated Posts",
+    "ja" : "統合のポスト",
+    "vi" : "Bài viết tổng hợp",
+    "zh" : "综合帖子"
+  },
+  "다른 아이디로 로그인하셨습니다." : {
+    "en" : "You have logged in with a different ID.",
+    "ja" : "他のIDでログインしています。",
+    "vi" : "Bạn đã đăng nhập bằng một ID khác.",
+    "zh" : "用别的用户名登录中。"
+  },
+  "할일을 아카이브하시겠습니까?" : {
+    "en" : "Do you want to archive the task?",
+    "ja" : "タスクをアーカイブしますか？",
+    "vi" : "Bạn có muốn lưu trữ công việc này không?",
+    "zh" : "您确定要对任务进行存档吗？"
+  },
+  "색상을 선택하세요." : {
+    "en" : "Select a color.",
+    "ja" : "色を選択してください。",
+    "vi" : "Chọn màu sắc.",
+    "zh" : "请选择颜色。"
+  },
+  "{0}님이 할일 완료를 취소했습니다." : {
+    "en" : "{0} canceled the completion of a task.",
+    "ja" : "{0}さんがタスクの完了を取り消しました。",
+    "vi" : "{0} đã hủy trạng thái hoàn thành công việc.",
+    "zh" : "{0}取消了任务的完成状态。"
+  },
+  "나의 할일" : {
+    "en" : "My Tasks",
+    "ja" : "私のタスク",
+    "vi" : "Công việc của tôi",
+    "zh" : "我的任务"
+  },
+  "복원되었습니다." : {
+    "en" : "Successfully restored.",
+    "ja" : "復元されました。",
+    "vi" : "Đã được khôi phục.",
+    "zh" : "已复原。"
+  },
+  "완료 {0}건" : {
+    "en" : "Completed {0} items",
+    "ja" : "完了 {0} 件",
+    "vi" : "Hoàn thành {0} mục",
+    "zh" : "完成 {0}件"
+  },
+  "전체 업무" : {
+    "en" : "All Tasks",
+    "ja" : "全業務",
+    "vi" : "Tất cả công việc",
+    "zh" : "全部工作任务"
+  },
+  "댓글을 입력하세요." : {
+    "en" : "Please enter your comment.",
+    "ja" : "コメントを入力してください。",
+    "vi" : "Hãy nhập bình luận.",
+    "zh" : "请输入评论。"
+  },
+  "메일만 보내려면 [아니오]를 선택하세요." : {
+    "en" : "To send only an email, select [No].",
+    "ja" : "メールだけ送信したい場合は[いいえ]を選択してください。",
+    "vi" : "Chọn [Không] nếu bạn chỉ muốn gửi email.",
+    "zh" : "如果只想发送邮件，请选择[否]。"
+  },
+  "답장" : {
+    "en" : "Reply",
+    "ja" : "返信",
+    "vi" : "Trả lời",
+    "zh" : "回信"
+  },
+  "할일이 등록되었습니다." : {
+    "en" : "Task has been created.",
+    "ja" : "タスクが登録されました。",
+    "vi" : "Công việc đã được đăng ký.",
+    "zh" : "任务已上传。"
+  },
+  "드롭하면 할일을 보관합니다." : {
+    "en" : "Drop to archive the to-do item.",
+    "ja" : "ドロップすると、タスクを保存します。",
+    "vi" : "Thả để lưu trữ nhiệm vụ.",
+    "zh" : "将任务存档后放置到此处。"
+  },
+  "폴더 이동" : {
+    "en" : "Move folder",
+    "ja" : "フォルダを移動",
+    "vi" : "Di chuyển thư mục",
+    "zh" : "移动文件夹"
+  },
+  "메일 선택" : {
+    "en" : "Select mail.",
+    "ja" : "メール選択",
+    "vi" : "Chọn email.",
+    "zh" : "选择邮件"
+  },
+  "{0}님이 링크를 삭제했습니다." : {
+    "en" : "{0} deleted a link.",
+    "ja" : "{0}さんがリンクを削除しました。",
+    "vi" : "{0} đã xóa liên kết.",
+    "zh" : "{0}删除了链接。"
+  },
+  "할일이 복원되었습니다." : {
+    "en" : "Task has been restored.",
+    "ja" : "タスクが復元されました。",
+    "vi" : "Công việc đã được khôi phục.",
+    "zh" : "任务已恢复。"
+  },
+  "그룹 보드" : {
+    "en" : "Group Board",
+    "ja" : "グループボード",
+    "vi" : "Bảng nhóm",
+    "zh" : "团队看板"
+  },
+  "선택 위키 주제를 보드 메뉴에 링크로 연결" : {
+    "en" : "Link the selected wiki topic to the board menu as a hyperlink.",
+    "ja" : "選択したウィキのキーワードをボードメニューにリンクとして接続",
+    "vi" : "Liên kết chủ đề wiki đã chọn với menu bảng dưới dạng hyperlink.",
+    "zh" : "将选定的Wiki主题以链接形式加入到看板菜单。"
+  },
+  "{0}님이 링크를 변경했습니다." : {
+    "en" : "{0} edited a link.",
+    "ja" : "{0}さんがリンクを変更しました。",
+    "vi" : "{0} đã sửa liên kết.",
+    "zh" : "{0}更改了链接。"
+  },
+  "{0}님이 할일을 삭제했습니다." : {
+    "en" : "{0} deleted a task.",
+    "ja" : "{0}さんがタスクを削除しました。",
+    "vi" : "{0} đã xóa công việc.",
+    "zh" : "{0}删除了任务。"
+  },
+  "{0}님이 보드를 잠금해제했습니다." : {
+    "en" : "{0} unlocked a board.",
+    "ja" : "{0}さんがボードのロックを解除しました。",
+    "vi" : "{0} đã mở khóa bảng.",
+    "zh" : "{0}解锁了看板。"
+  },
+  "기한임박" : {
+    "en" : "Urgent",
+    "ja" : "期限間近",
+    "vi" : "Gần hết hạn",
+    "zh" : "临近期限"
+  },
+  "내가 담당한 업무" : {
+    "en" : "Tasks Assigned to Me",
+    "ja" : "私が担当する業務",
+    "vi" : "Công việc do tôi đảm nhận",
+    "zh" : "我负责的工作任务"
+  },
+  "복원하시겠습니까?" : {
+    "en" : "Do you want to restore it?",
+    "ja" : "復元しますか？",
+    "vi" : "Bạn có muốn khôi phục lại không?",
+    "zh" : "要复原吗？"
+  },
+  "태스크보드" : {
+    "en" : "Task Board",
+    "ja" : "タスクボード",
+    "vi" : "Bảng công việc",
+    "zh" : "任务版"
+  },
+  "댓글" : {
+    "en" : "Comment",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "留言"
+  },
+  "링크 url을 입력하세요." : {
+    "en" : "Please enter a link URL.",
+    "ja" : "リンクURLを入力してください。",
+    "vi" : "Nhập URL liên kết.",
+    "zh" : "请输入链接网址。"
+  },
+  "의견삭제" : {
+    "en" : "Delete Comment",
+    "ja" : "コメント削除",
+    "vi" : "Xóa ý kiến",
+    "zh" : "删除意见"
+  },
+  "그룹수정" : {
+    "en" : "Edit Group",
+    "ja" : "グループ編集",
+    "vi" : "Sửa nhóm",
+    "zh" : "编辑团队"
+  },
+  "할일을 선택해주세요." : {
+    "en" : "Please select a task.",
+    "ja" : "タスクを選択してください。",
+    "vi" : "Vui lòng chọn một nhiệm vụ.",
+    "zh" : "请选择待办事项。"
+  },
+  "그룹신규" : {
+    "en" : "New Group",
+    "ja" : "グループ新規",
+    "vi" : "Tạo mới nhóm",
+    "zh" : "添加新团队"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "내용 비교" : {
+    "en" : "Content Comparison",
+    "ja" : "内容比較",
+    "vi" : "So sánh nội dung",
+    "zh" : "内容对比"
+  },
+  "{0}님이 담당자를 변경했습니다." : {
+    "en" : "{0} changed the assignee.",
+    "ja" : "{0}さんが担当者を変更しました。",
+    "vi" : "{0} đã thay đổi người đảm nhận công việc.",
+    "zh" : "{0}更改了负责人。"
+  },
+  "정보" : {
+    "en" : "Information",
+    "ja" : "情報",
+    "vi" : "Thông tin",
+    "zh" : "信息"
+  },
+  "내일까지" : {
+    "en" : "Due Tomorrow",
+    "ja" : "明日まで",
+    "vi" : "Đến ngày mai",
+    "zh" : "截至明天"
+  },
+  "{0}님이 할일 그룹을 수정했습니다." : {
+    "en" : "{0} edited a task group.",
+    "ja" : "{0}さんがタスクグループを変更しました。",
+    "vi" : "{0} đã sửa nhóm công việc.",
+    "zh" : "{0}对任务团队进行了编辑。"
+  },
+  "수정본" : {
+    "en" : "Modified",
+    "ja" : "修正本",
+    "vi" : "Bản sửa đổi",
+    "zh" : "修改本"
+  },
+  "할일을 등록했습니다." : {
+    "en" : "The task has been added.",
+    "ja" : "タスクを登録しました。",
+    "vi" : "Công việc đã được đăng ký.",
+    "zh" : "任务已上传。"
+  },
+  "삭제 관리" : {
+    "en" : "Delete Management",
+    "ja" : "削除管理",
+    "vi" : "Quản lý xóa",
+    "zh" : "删除管理"
+  },
+  "링크추가" : {
+    "en" : "Add Link",
+    "ja" : "リンク追加",
+    "vi" : "Thêm liên kết",
+    "zh" : "添加链接"
+  },
+  "의견수정" : {
+    "en" : "Edit Comment",
+    "ja" : "コメント編集",
+    "vi" : "Sửa ý kiến",
+    "zh" : "编辑意见"
+  },
+  "보드를 선택해 주세요." : {
+    "en" : "Please select a board.",
+    "ja" : "ボードを選択してください。",
+    "vi" : "Vui lòng chọn bảng.",
+    "zh" : "请选择看板。"
+  },
+  "체크삭제" : {
+    "en" : "Delete Checklist Item",
+    "ja" : "チェック削除",
+    "vi" : "Xóa đánh dấu",
+    "zh" : "删除检查"
+  },
+  "비교 접기/펴기" : {
+    "en" : "Toggle Comparison Expand/Collapse",
+    "ja" : "比較 表示/未表示",
+    "vi" : "Mở rộng/Thu gọn mục so sánh",
+    "zh" : "对比隐藏/展开"
+  },
+  "파일첨부 용량 제한" : {
+    "en" : "File attachment size limit",
+    "ja" : "ファイル添付容量制限",
+    "vi" : "Giới hạn kích thước tệp đính kèm",
+    "zh" : "文件附件大小限制"
+  },
+  "보드 선택" : {
+    "en" : "Select Board",
+    "ja" : "ボード選択",
+    "vi" : "Chọn bảng",
+    "zh" : "选择看板"
+  },
+  "등록된 할일이 없습니다." : {
+    "en" : "No tasks are registered.",
+    "ja" : "登録されたタスクがありません。",
+    "vi" : "Không có công việc đã thêm.",
+    "zh" : "没有上传的任务。"
+  },
+  "할일이 배정되었습니다." : {
+    "en" : "Task has been assigned.",
+    "ja" : "タスクが割り当てられました。",
+    "vi" : "Công việc đã được phân công.",
+    "zh" : "任务已分配。"
+  },
+  "{0}님이 할일 그룹 순서를 변경했습니다." : {
+    "en" : "{0} changed the task group order.",
+    "ja" : "{0}さんがタスクグループの順序を変更しました。",
+    "vi" : "{0} đã thay đổi thứ tự nhóm công việc.",
+    "zh" : "{0}更改了任务团队的顺序。"
+  },
+  "기한지남" : {
+    "en" : "Past Due",
+    "ja" : "期限切れ",
+    "vi" : "Hết hạn",
+    "zh" : "已过期"
+  },
+  "열 보기" : {
+    "en" : "Expand View",
+    "ja" : "列を表示",
+    "vi" : "Xem cột",
+    "zh" : "列视图"
+  },
+  "{0}님이 상세내용을 변경했습니다." : {
+    "en" : "{0} has modified the detailed content.",
+    "ja" : "{0}さんが詳細内容を変更しました。",
+    "vi" : "{0} đã thay đổi chi tiết nội dung.",
+    "zh" : "{0}更改了详细内容。"
+  },
+  "연결끊기" : {
+    "en" : "Disconnect",
+    "ja" : "接続解除",
+    "vi" : "Ngắt kết nối",
+    "zh" : "截断连接"
+  },
+  "의견추가" : {
+    "en" : "Add Comment",
+    "ja" : "コメント追加",
+    "vi" : "Thêm ý kiến",
+    "zh" : "添加意见"
+  },
+  "검정" : {
+    "en" : "Black",
+    "ja" : "黒色",
+    "vi" : "Đen",
+    "zh" : "黑色"
+  },
+  "날짜를 입력하세요." : {
+    "en" : "Enter a date.",
+    "ja" : "日付を入力してください。",
+    "vi" : "Xin hãy nhập ngày tháng.",
+    "zh" : "请输入日子。"
+  },
+  "보드등록 후 지정할 수 있습니다." : {
+    "en" : "You can specify after registering the board.",
+    "ja" : "指定はボード登録後にできます。",
+    "vi" : "Có thể chỉ định sau khi đăng bảng.",
+    "zh" : "板块注册后可指定。"
+  },
+  "보드를 선택하세요." : {
+    "en" : "Please select a board.",
+    "ja" : "ボードを選択してください。",
+    "vi" : "Chọn bảng.",
+    "zh" : "请选择看板。"
+  },
+  "드롭하면 할일을 삭제합니다." : {
+    "en" : "Drop to delete the task.",
+    "ja" : "ドロップするとタスクが削除されます。",
+    "vi" : "Kéo và thả để xóa công việc.",
+    "zh" : "拖放以删除待办事项。"
+  },
+  "관심 보드" : {
+    "en" : "Favorite Board",
+    "ja" : "お気に入りボード",
+    "vi" : "Bảng yêu thích",
+    "zh" : "关注看板"
+  },
+  "담당자 선택" : {
+    "en" : "Select person in charge",
+    "ja" : "担当者選択",
+    "vi" : "Chọn người phụ trách",
+    "zh" : "选择负责人"
+  },
+  "그룹 선택" : {
+    "en" : "Select Group",
+    "ja" : "グループ選択",
+    "vi" : "Chọn nhóm",
+    "zh" : "选择团队"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space Manager",
+    "ja" : "スペース責任者",
+    "vi" : "Người chịu trách nhiệm không gian",
+    "zh" : "空间负责人"
+  },
+  "할일 등록" : {
+    "en" : "Add Task",
+    "ja" : "タスクの登録",
+    "vi" : "Thêm công việc",
+    "zh" : "上传任务"
+  },
+  "이슈" : {
+    "en" : "Issues",
+    "ja" : "問題",
+    "vi" : "Vấn đề",
+    "zh" : "话题"
+  },
+  "의견을 입력하세요." : {
+    "en" : "Enter your opinion.",
+    "ja" : "意見を入力してください。",
+    "vi" : "Hãy nhập ý kiến",
+    "zh" : "请输入意见"
+  },
+  "종일" : {
+    "en" : "All day",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "整天"
+  },
+  "폴더를 선택하세요." : {
+    "en" : "Please select a folder.",
+    "ja" : "フォルダを選択してください。",
+    "vi" : "Hãy chọn thư mục.",
+    "zh" : "请选择文件夹。"
+  },
+  "할일을 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete the task?",
+    "ja" : "タスクを削除しますか？",
+    "vi" : "Bạn có muốn xóa công việc này không?",
+    "zh" : "您确定要删除任务吗？"
+  },
+  "댓글등록" : {
+    "en" : "Comment Registration",
+    "ja" : "コメント登録",
+    "vi" : "Thêm bình luận",
+    "zh" : "评论注册"
+  },
+  "변경전으로 복원" : {
+    "en" : "Restore to Previous Version",
+    "ja" : "変更前に復元",
+    "vi" : "Khôi phục về trước khi thay đổi",
+    "zh" : "恢复到更改前"
+  },
+  "할일을 보관하시겠습니까?" : {
+    "en" : "Would you like to store the task?",
+    "ja" : "タスクを保存しますか。",
+    "vi" : "Bạn có muốn lưu trữ công việc không?",
+    "zh" : "您确定要存档待办事项吗？"
+  },
+  "할일그룹 추가" : {
+    "en" : "Add Task Group",
+    "ja" : "タスクグループを追加",
+    "vi" : "Thêm nhóm công việc",
+    "zh" : "添加任务团队"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件名"
+  },
+  "할일로 등록 하시겠습니까" : {
+    "en" : "Would you like to register this as a task?",
+    "ja" : "タスクに登録しますか？",
+    "vi" : "Bạn muốn thêm thành việc cần làm?",
+    "zh" : "您要将其注册为待办事项吗？"
+  },
+  "보드 타이틀" : {
+    "en" : "Board Title",
+    "ja" : "ボードタイトル",
+    "vi" : "Tiêu đề bảng",
+    "zh" : "看板标题"
+  },
+  "보드 설명" : {
+    "en" : "Board Description",
+    "ja" : "ボードの説明",
+    "vi" : "Mô tả bảng",
+    "zh" : "看板说明"
+  },
+  "보드 관리" : {
+    "en" : "Board Management",
+    "ja" : "ボード管理",
+    "vi" : "Quản lý bảng",
+    "zh" : "看板管理"
+  },
+  "라벨 추가" : {
+    "en" : "Add Label",
+    "ja" : "ラベルを追加",
+    "vi" : "Thêm nhãn",
+    "zh" : "添加标签"
+  },
+  "{0}님이 체크리스트 완료를 취소했습니다." : {
+    "en" : "{0} canceled the completion of a checklist item.",
+    "ja" : "{0}さんがチェックリストの完了を取り消しました。",
+    "vi" : "{0} đã hủy hoàn thành danh sách kiểm tra.",
+    "zh" : "{0}取消了检查清单的完成状态。"
+  },
+  "{0}님이 할일을 이동했습니다." : {
+    "en" : "{0} moved a task.",
+    "ja" : "{0}さんがタスクを移動しました。",
+    "vi" : "{0} đã di chuyển công việc.",
+    "zh" : "{0}移动了任务。"
+  },
+  "메일 본문 추가" : {
+    "en" : "Add email body",
+    "ja" : "メール本文 追加",
+    "vi" : "Thêm nội dung email",
+    "zh" : "邮件正文添加"
+  },
+  "라임" : {
+    "en" : "Lime",
+    "ja" : "ライム色",
+    "vi" : "Màu xanh lime",
+    "zh" : "黄绿"
+  },
+  "할일 그룹에 할일이 존재하여 삭제할 수 없습니다." : {
+    "en" : "You cannot delete a task group that has tasks in it.",
+    "ja" : "タスクグループにタスクが存在するため、削除できません。",
+    "vi" : "Không thể xóa vì có công việc trong nhóm công việc.",
+    "zh" : "任务团队有进行中的任务，无法删除。"
+  },
+  "등록일순" : {
+    "en" : "by registration date",
+    "ja" : "登録日順",
+    "vi" : "theo ngày",
+    "zh" : "登录日顺"
+  },
+  "그룹순서" : {
+    "en" : "Group Order",
+    "ja" : "グループ順序",
+    "vi" : "Thứ tự nhóm",
+    "zh" : "团队顺序"
+  },
+  "활동 이력" : {
+    "en" : "Activity History",
+    "ja" : "アクティビティ履歴",
+    "vi" : "Lịch sử hoạt động",
+    "zh" : "活动历史"
+  },
+  "할일이 존재하지 않습니다." : {
+    "en" : "No tasks exist.",
+    "ja" : "タスクが存在しません。",
+    "vi" : "Không có công việc nào.",
+    "zh" : "任务不存在。"
+  },
+  "해결" : {
+    "en" : "Resolve.",
+    "ja" : "解決",
+    "vi" : "Giải quyết.",
+    "zh" : "解决"
+  },
+  "{0}님이 댓글을 등록했습니다." : {
+    "en" : "{0} has posted a comment.",
+    "ja" : "{0}さんがコメントを登録しました。",
+    "vi" : "{0} đã thêm bình luận.",
+    "zh" : "{0}注册了评论。"
+  },
+  "우측 펴기" : {
+    "en" : "Expand Right Panel",
+    "ja" : "右側を展開",
+    "vi" : "Mở rộng bên phải",
+    "zh" : "右侧展开"
+  },
+  "삭제된 할일입니다." : {
+    "en" : "Deleted task.",
+    "ja" : "削除されたタスクです。",
+    "vi" : "Công việc đã bị xóa.",
+    "zh" : "已删除的任务。"
+  },
+  "보드 삭제 시, 완전 삭제되어 복원 할 수 없습니다." : {
+    "en" : "When a board is deleted, its tasks are permanently deleted and cannot be restored.",
+    "ja" : "ボードを削除すると、完全に削除されて復元できません。",
+    "vi" : "Không thể khôi phục khi đã xóa hoàn toàn khỏi bảng.",
+    "zh" : "删除看板时已完全删除，无法恢复。"
+  },
+  "{0}님이 할일 제목을 변경했습니다." : {
+    "en" : "{0} has changed the title of the task.",
+    "ja" : "{0}さんがタスクのタイトルを変更しました。",
+    "vi" : "{0} đã thay đổi tiêu đề công việc.",
+    "zh" : "{0}更改了待办事项标题。"
+  },
+  "{0}님이 파일을 복원했습니다." : {
+    "en" : "{0} restored a file.",
+    "ja" : "{0}さんがファイルを復元しました。",
+    "vi" : "{0} đã khôi phục tệp đính kèm.",
+    "zh" : "{0}对文件进行了恢复。"
+  },
+  "선택한 폴더를 대상 폴더의 하위로 이동합니다." : {
+    "en" : "The selected folder will be moved to the sublocation under the target folder.",
+    "ja" : "選択したフォルダを対象フォルダの下位に移動します。",
+    "vi" : "Di chuyển thư mục đã chọn vào thư mục con.",
+    "zh" : "将所选文件夹移至对象文件夹下级。"
+  },
+  "보드 타이틀을 입력하세요." : {
+    "en" : "Please enter a board title.",
+    "ja" : "ボードタイトルを入力してください。",
+    "vi" : "Nhập tiêu đề bảng.",
+    "zh" : "请输入看板标题。"
+  },
+  "결재 상신" : {
+    "en" : "Report (Approval)",
+    "ja" : "決裁上申",
+    "vi" : "Gửi để phê duyệt",
+    "zh" : "决裁上信"
+  },
+  "내가 등록한 업무" : {
+    "en" : "Tasks I've Created",
+    "ja" : "私が登録した業務",
+    "vi" : "Công việc tôi đã thêm",
+    "zh" : "我上传的工作任务"
+  },
+  "완료일 기준으로 {0}일이 지난 할일은 자동으로 보관함으로 이동합니다." : {
+    "en" : "To-do items that are {0} days past the completion date are automatically moved to the archive box.",
+    "ja" : "完了日に基づいて{0}日を過ぎたタスクは自動的にライブラリに移動します。",
+    "vi" : "Nhiệm vụ đã qua {0} ngày kể từ ngày hoàn thành sẽ tự động chuyển đến hộp lưu trữ.",
+    "zh" : "超过{0}天的已完成任务将自动移至存档文件夹。"
+  },
+  "상세내용변경" : {
+    "en" : "Detail Modification",
+    "ja" : "詳細内容変更",
+    "vi" : "Thay đổi chi tiết",
+    "zh" : "详细内容更改"
+  },
+  "회사" : {
+    "en" : "Company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "같은 폴더로 이동할 수 없습니다." : {
+    "en" : "Cannot move to the same folder.",
+    "ja" : "同じフォルダに移動できません。",
+    "vi" : "Không thể di chuyển sang cùng 1 thư mục",
+    "zh" : "不可移动到一样的文件夹上。"
+  },
+  "등록자 선택" : {
+    "en" : "Select Creator",
+    "ja" : "登録者を選択",
+    "vi" : "Chọn người đăng ký",
+    "zh" : "选择注册人"
+  },
+  "변경전으로 복원하시겠습니까?" : {
+    "en" : "Do you wish to restore to the previous version?",
+    "ja" : "変更前に復元しますか？",
+    "vi" : "Bạn có muốn khôi phục về trước khi thay đổi không?",
+    "zh" : "您要恢复到更改前吗？"
+  },
+  "완료일 기준으로 설정한 기간이 지나면 할일을 자동으로 아카이브 이동" : {
+    "en" : "Tasks will be automatically archived after the set period based on the completion date.",
+    "ja" : "完了日を基に設定した期間が過ぎると、タスクを自動的にアーカイブに移動します。",
+    "vi" : "Công việc sẽ tự động chuyển sang trạng thái lưu trữ sau thời gian quy định ngày hoàn thành",
+    "zh" : "超过根据完成日期设定的期限后，任务将自动转移到存档。"
+  },
+  "이번주까지" : {
+    "en" : "Due This Week",
+    "ja" : "今週まで",
+    "vi" : "Đến cuối tuần này",
+    "zh" : "截至本周"
+  },
+  "메일" : {
+    "en" : "Mail",
+    "ja" : "メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "발송한 메일을 댓글로 등록하여 회신을 받으시겠습니까?" : {
+    "en" : "Would you like to register the sent email as a comment to receive a reply?",
+    "ja" : "送信したメールをコメントとして登録し、返信を受けますか？",
+    "vi" : "Bạn có muốn thêm email đã gửi như một bình luận để nhận phản hồi không?",
+    "zh" : "是否将发送的邮件以评论形式发布并接收回复？"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Khoảng thời gian",
+    "zh" : "期间"
+  },
+  "삭제 시 다시 연결 할 수 없습니다. 연결 삭제 하시겠습니까?" : {
+    "en" : "Once deleted, the connection cannot be restored. Do you still want to proceed to delete connection?",
+    "ja" : "削除すると再度連結はできません。連結を削除しますか？",
+    "vi" : "Không thể liên kết lại sau khi đã xóa. Bạn chắc chắn muốn xóa liên kết chứ?",
+    "zh" : "删除时可重新连接。是否删除连接？"
+  },
+  "상세내용" : {
+    "en" : "Detailed Content",
+    "ja" : "詳細内容",
+    "vi" : "Chi tiết nội dung",
+    "zh" : "详细内容"
+  },
+  "보드명" : {
+    "en" : "Board Name",
+    "ja" : "ボード名",
+    "vi" : "Tên bảng",
+    "zh" : "看板名称"
+  },
+  "{0}님이 업무명을 변경했습니다." : {
+    "en" : "{0} changed the task name.",
+    "ja" : "{0}さんがタスク名を変更しました。",
+    "vi" : "{0} đã thay đổi tiêu đề công việc.",
+    "zh" : "{0}更改了工作任务名称。"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "등록일" : {
+    "en" : "Date Added",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "{0}님이 할일을 생성했습니다." : {
+    "en" : "{0} created a task.",
+    "ja" : "{0}さんがタスクを作成しました。",
+    "vi" : "{0} đã tạo công việc.",
+    "zh" : "{0}创建了任务。"
+  },
+  "할일 완료를 취소하시겠습니까?" : {
+    "en" : "Do you want to cancel task completion?",
+    "ja" : "タスクの完了を取り消しますか？",
+    "vi" : "Bạn có muốn hủy hoàn tất công việc không?",
+    "zh" : "您确定要取消任务完成吗？"
+  },
+  "최신 글" : {
+    "en" : "Latest Posts",
+    "ja" : "最新のポスト",
+    "vi" : "Bài viết mới nhất",
+    "zh" : "最新帖子"
+  },
+  "잠금 되었습니다." : {
+    "en" : "It has been locked.",
+    "ja" : "ロックされました。",
+    "vi" : "Đã được khóa.",
+    "zh" : "被锁定了。"
+  },
+  "이번달까지" : {
+    "en" : "Due This Month",
+    "ja" : "今月まで",
+    "vi" : "Đến cuối tháng này",
+    "zh" : "截至本月"
+  },
+  "댓글 작성" : {
+    "en" : "Comment writing.",
+    "ja" : "コメントを書く",
+    "vi" : "Viết bình luận.",
+    "zh" : "评论撰写"
+  },
+  "할일 선택" : {
+    "en" : "Task selection.",
+    "ja" : "タスク選択",
+    "vi" : "Lựa chọn nhiệm vụ.",
+    "zh" : "选择待办事项"
+  },
+  "회사 보드" : {
+    "en" : "Company Board",
+    "ja" : "会社ボード",
+    "vi" : "Bảng công ty",
+    "zh" : "企业看板"
+  },
+  "예약/승인메일은 발송 여부와 상관 없이 바로 등록 됩니다." : {
+    "en" : "Reservation/approval emails are immediately registered regardless of whether they are sent or not.",
+    "ja" : "予約/承認メールは発送の有無に関わらず、すぐに登録されます。",
+    "vi" : "Email đặt lịch/phê duyệt sẽ được đăng ngay lập tức, bất kể tình trạng gửi.",
+    "zh" : "无论发送与否，预约/批准邮件都将直接注册。"
+  },
+  "금주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "这个星期"
+  },
+  "{0}님이 체크리스트를 삭제했습니다." : {
+    "en" : "{0} deleted a checklist.",
+    "ja" : "{0}さんがチェックリストを削除しました。",
+    "vi" : "{0} đã xóa danh sách kiểm tra.",
+    "zh" : "{0}删除了检查清单。"
+  },
+  "저장 및 실행" : {
+    "en" : "Save and execute.",
+    "ja" : "保存及び実行",
+    "vi" : "Lưu & Thực hiện",
+    "zh" : "保存并执行"
+  },
+  "이동할 대상 보드와 그룹을 선택하세요." : {
+    "en" : "Please select the target board and group to move to.",
+    "ja" : "移動するボードとグループを選択してください。",
+    "vi" : "Chọn bảng và nhóm mục tiêu để di chuyển đến.",
+    "zh" : "请选择要移动的看板和团队。"
+  },
+  "할일에 기한이 지정되었습니다." : {
+    "en" : "Due date has been set for the task.",
+    "ja" : "タスクに期限が指定されました。",
+    "vi" : "Đã chỉ định thời hạn cho công việc.",
+    "zh" : "任务期限已设置。"
+  },
+  "그룹을 선택하세요." : {
+    "en" : "Please select a group.",
+    "ja" : "グループを選択してください。",
+    "vi" : "Chọn nhóm.",
+    "zh" : "请选择团队。"
+  },
+  "업데이트" : {
+    "en" : "Update",
+    "ja" : "アップデート",
+    "vi" : "Cập nhật",
+    "zh" : "更新"
+  },
+  "배정" : {
+    "en" : "Assignment",
+    "ja" : "割り当て",
+    "vi" : "Phân công",
+    "zh" : "分配"
+  },
+  "할일 배정" : {
+    "en" : "Assign Task",
+    "ja" : "タスクの割り当て",
+    "vi" : "Phân công công việc",
+    "zh" : "任务分配"
+  },
+  "{0}님이 할일을 복원했습니다." : {
+    "en" : "{0} restored a task.",
+    "ja" : "{0}さんがタスクを復元しました。",
+    "vi" : "{0} đã khôi phục công việc.",
+    "zh" : "{0}对任务进行了恢复。"
+  },
+  "나의 보드" : {
+    "en" : "My Boards",
+    "ja" : "私のボード",
+    "vi" : "Bảng của tôi",
+    "zh" : "我的看板"
+  },
+  "그룹은 1개 이상 필요합니다." : {
+    "en" : "At least one group is required.",
+    "ja" : "グループは1つ以上必要です。",
+    "vi" : "Cần ít nhất một nhóm.",
+    "zh" : "群组至少需要1个。"
+  },
+  "1년이내 이력만 조회할 수 있습니다." : {
+    "en" : "You can only view history within the past year.",
+    "ja" : "1年以内の履歴のみ表示できます。",
+    "vi" : "Chỉ có thể xem lịch sử trong vòng 1 năm.",
+    "zh" : "只能查询1年以内的历史记录。"
+  },
+  "라벨 이름" : {
+    "en" : "Label name",
+    "ja" : "ラベル名",
+    "vi" : "Tên nhãn",
+    "zh" : "标签名"
+  },
+  "조회 권한이 없습니다." : {
+    "en" : "You don't have permission to view.",
+    "ja" : "照会権限がありません。",
+    "vi" : "Bạn không có quyền xem khảo sát.",
+    "zh" : "没有查询权限。"
+  },
+  "폴더를 선택해주세요." : {
+    "en" : "Please select a folder.",
+    "ja" : "フォルダを選択してください。",
+    "vi" : "Vui lòng chọn thư mục.",
+    "zh" : "请选择文件夹。"
+  },
+  "폴더" : {
+    "en" : "Folder",
+    "ja" : "フォルダ",
+    "vi" : "Thư mục",
+    "zh" : "文件夹"
+  },
+  "기한설정" : {
+    "en" : "Set Due Date",
+    "ja" : "期限設定",
+    "vi" : "Thiết lập hạn chót",
+    "zh" : "设置期限"
+  },
+  "선택한 파일함 폴더를 보드 메뉴에 링크로 연결" : {
+    "en" : "Link the selected file box folder to the board menu as a hyperlink.",
+    "ja" : "選択されたファイルボックスのフォルダをボードメニューにリンクとして接続",
+    "vi" : "Liên kết thư mục hòm file đã chọn với menu bảng dưới dạng hyperlink.",
+    "zh" : "将选定的文件夹以链接形式加入到看板菜单。"
+  }
+}

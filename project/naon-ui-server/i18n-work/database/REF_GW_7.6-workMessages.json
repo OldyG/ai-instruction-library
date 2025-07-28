@@ -1,0 +1,4766 @@
+{
+  "진척도" : {
+    "en" : "Progress",
+    "ja" : "進捗度",
+    "vi" : "Tiến trình",
+    "zh" : "进度"
+  },
+  "보고를 임시저장하시겠습니까?" : {
+    "en" : "Would you like to temporarily save your report?",
+    "ja" : "報告を下書き保存しますか？",
+    "vi" : "Bạn có muốn lưu báo cáo của mình dưới dạng bản thảo không?",
+    "zh" : "要临时储存报告吗？"
+  },
+  "수신자 선택" : {
+    "en" : "Select recipients",
+    "ja" : "受信者選択",
+    "vi" : "Chọn người nhận",
+    "zh" : "选择收信人"
+  },
+  "등록되지 않았습니다." : {
+    "en" : "Not registered yet.",
+    "ja" : "登録されていません。",
+    "vi" : "Chưa được thêm vào",
+    "zh" : "没有登录成功。"
+  },
+  "업무보고" : {
+    "en" : "Task Report",
+    "ja" : "業務報告",
+    "vi" : "Báo cáo công việc",
+    "zh" : "业务报告"
+  },
+  "검색식명" : {
+    "en" : "Search Formula Name",
+    "ja" : "検索式名",
+    "vi" : "Tên quy tắc tìm kiếm",
+    "zh" : "所艘式名"
+  },
+  "항목명" : {
+    "en" : "Item name",
+    "ja" : "項目名",
+    "vi" : "Tên mục",
+    "zh" : "项目名"
+  },
+  "관심 보고함이 없습니다." : {
+    "en" : "No report box of interest",
+    "ja" : "お気に入り報告Boxがありません。",
+    "vi" : "Không có hộp báo cáo được quan tâm.",
+    "zh" : "关注报告箱不存在。"
+  },
+  "검색어" : {
+    "en" : "Search Word",
+    "ja" : "検索語",
+    "vi" : "Từ tìm kiếm",
+    "zh" : "搜索词"
+  },
+  "기본 상태가 존재합니다." : {
+    "en" : "Default status exists.",
+    "ja" : "基本状態が存在します。",
+    "vi" : "Tồn tại trạng thái mặc định.",
+    "zh" : "存在基本状态。"
+  },
+  "라벨관리" : {
+    "en" : "Manage labels",
+    "ja" : "ラベル管理",
+    "vi" : "Quản lý nhãn",
+    "zh" : "管理标签"
+  },
+  "수신자 승인 기능 사용시, 수신자는 승인/반려를 선택할 수 있습니다." : {
+    "en" : "When using the 'Allow Recipients to Approve' option, the recipient can approve or reject the report.",
+    "ja" : "受信者承認機能を使用時、受信者は承認/差戻しを選択することができます。",
+    "vi" : "Khi người nhận sử dụng tùy chọn \"Phê duyệt\", người nhận có thể phê duyệt hoặc từ chối báo cáo của bạn.",
+    "zh" : "使用收信人承认功能时收信人可以选择承认/退回。"
+  },
+  "박스형" : {
+    "en" : "Box Type",
+    "ja" : "Box型",
+    "vi" : "Hộp",
+    "zh" : "箱子型"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "File được chọn",
+    "zh" : "选择的文档"
+  },
+  "첨부파일 영역" : {
+    "en" : "Attachment area",
+    "ja" : "添付ファイル領域",
+    "vi" : "Khu vực đính kèm",
+    "zh" : "附件领域"
+  },
+  "컬럼을 선택하세요." : {
+    "en" : "Select a column",
+    "ja" : "カラムを選択してください。",
+    "vi" : "Chọn cột",
+    "zh" : "请选择专栏。"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "시간형식이 잘못되었습니다." : {
+    "en" : "Invalid time format.",
+    "ja" : "時間の形式が正しくありません。",
+    "vi" : "Định dạng thời gian không chính xác",
+    "zh" : "时间形式有错误。"
+  },
+  "업무함 또는 보고함를 선택해주세요." : {
+    "en" : "Please select a taskbox or a report box.",
+    "ja" : "業務フォルダまたは報告フォルダを選択してください。",
+    "vi" : "Vui lòng chọn một thư mục công việc hoặc thư mục báo cáo.",
+    "zh" : "请选择业务箱或者报告箱。"
+  },
+  "요청 보고" : {
+    "en" : "Request Report",
+    "ja" : "要請報告",
+    "vi" : "Yêu cầu báo cáo",
+    "zh" : "请求报告"
+  },
+  "다양한 컴포넌트를 활용해 업무에 적합한 화면을 구성하거나 양식을 만들 수 있습니다." : {
+    "en" : "Use various components to configure a screen display or a template suitable for your task.",
+    "ja" : "多様なコンポーネントを活用して業務に適した画面を構成したり、フォームを作成できます。",
+    "vi" : "Sử dụng nhiều thành phần khác nhau để thiết lập màn hình hiển thị hoặc mẫu thích hợp cho công việc của bạn.",
+    "zh" : "通过应用多样的组件构成对业务合适的画面或制作样式。"
+  },
+  "완료 상태가 존재합니다." : {
+    "en" : "Finished' status exists.",
+    "ja" : "完了状態が存在します。",
+    "vi" : "Có trạng thái \\\"Đã hoàn thành\\\"",
+    "zh" : "存在完了状态。"
+  },
+  "미보고자가 없는 회차는 조회되지 않습니다." : {
+    "en" : "Rounds without any users who haven't reported will not be viewed.",
+    "ja" : "未報告者がいない回数は照会されません。",
+    "vi" : "Chuỗi có chứa các đối tượng chưa báo cáo sẽ không được xem xét.",
+    "zh" : "没有未报告人的次数不可进行查询。"
+  },
+  "개인환경설정" : {
+    "en" : "Personal preferences",
+    "ja" : "個人環境の設定",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "个人环境设定"
+  },
+  "목록옵션" : {
+    "en" : "List options",
+    "ja" : "リストオプション",
+    "vi" : "Tùy chọn danh sách",
+    "zh" : "目录选项"
+  },
+  "첨부 이미지" : {
+    "en" : "Attached image",
+    "ja" : "画像添付",
+    "vi" : "Hình ảnh đính kèm",
+    "zh" : "附加形象"
+  },
+  "글꼴 색상" : {
+    "en" : "Font color",
+    "ja" : "フォントの色",
+    "vi" : "Màu phông chữ",
+    "zh" : "字体颜色"
+  },
+  "높이" : {
+    "en" : "Height",
+    "ja" : "高さ",
+    "vi" : "Chiều cao",
+    "zh" : "高度"
+  },
+  "업무 내용" : {
+    "en" : "Task Description",
+    "ja" : "業務内容",
+    "vi" : "Mô tả công việc",
+    "zh" : "业务内容"
+  },
+  "댓글단 보고" : {
+    "en" : "Reports with your comments",
+    "ja" : "コメント報告",
+    "vi" : "Báo cáo mà bạn đã bình luận",
+    "zh" : "跟帖的报告"
+  },
+  "안읽은업무" : {
+    "en" : "Unread Tasks",
+    "ja" : "未読業務",
+    "vi" : "Công việc chưa đọc",
+    "zh" : "还没读的业务"
+  },
+  "다국어 입력" : {
+    "en" : "Enter Multiple Languages",
+    "ja" : "多言語入力",
+    "vi" : "Nhập đa ngôn ngữ",
+    "zh" : "输入多国语"
+  },
+  "PC버전에서만 작성이 가능합니다." : {
+    "en" : "You can only write in the PC version.",
+    "ja" : "PC版でのみ作成が可能です。",
+    "vi" : "Bạn chỉ có thể tạo chúng trên phiên bản máy tính để bàn.",
+    "zh" : "只能在pc版本制作。"
+  },
+  "기본환경설정" : {
+    "en" : "Default preferences",
+    "ja" : "基本環境の設定",
+    "vi" : "Ưu tiên mặc định",
+    "zh" : "基本环境设定"
+  },
+  "모든 보고함" : {
+    "en" : "Report Box (All)",
+    "ja" : "すべての報告",
+    "vi" : "Tất cả hộp báo cáo",
+    "zh" : "所有报告箱"
+  },
+  "등록된 보고함이 없습니다." : {
+    "en" : "There are no registered reports.",
+    "ja" : "登録された報告箱はありません。",
+    "vi" : "Không có dữ liệu hộp báo cáo nào.",
+    "zh" : "无已注册的通报箱。"
+  },
+  "보고 유형" : {
+    "en" : "Report type",
+    "ja" : "報告のタイプ",
+    "vi" : "Loại báo cáo",
+    "zh" : "报告类型"
+  },
+  "안읽음" : {
+    "en" : "Unread",
+    "ja" : "未読",
+    "vi" : "Chưa đọc",
+    "zh" : "没有读"
+  },
+  "메뉴 URL" : {
+    "en" : "Menu URL",
+    "ja" : "メニューURL",
+    "vi" : "URL Menu",
+    "zh" : "菜单URL"
+  },
+  "금액" : {
+    "en" : "Amount",
+    "ja" : "金額",
+    "vi" : "Số lượng",
+    "zh" : "金额"
+  },
+  "반려사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "退回原因"
+  },
+  "내 댓글" : {
+    "en" : "My Comments",
+    "ja" : "自分のコメント",
+    "vi" : "Bình luận của tôi",
+    "zh" : "我的评论"
+  },
+  "보고함이 없습니다." : {
+    "en" : "No report box.",
+    "ja" : "報告Boxがありません。",
+    "vi" : "Không có hộp báo cáo.",
+    "zh" : "报告箱不存在。"
+  },
+  "아이콘" : {
+    "en" : "Icon",
+    "ja" : "アイコン",
+    "vi" : "Biểu tượng",
+    "zh" : "图标"
+  },
+  "댓글단 업무" : {
+    "en" : "Tasks with your comments",
+    "ja" : "コメント業務",
+    "vi" : "Công việc mà bạn đã bình luận",
+    "zh" : "跟帖的业务"
+  },
+  "저장 되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "보고 완료" : {
+    "en" : "Report Complete",
+    "ja" : "報告完了",
+    "vi" : "Hoàn thành báo cáo",
+    "zh" : "报告完了"
+  },
+  "처리중" : {
+    "en" : "Processing",
+    "ja" : "処理中",
+    "vi" : "Đang xử lý",
+    "zh" : "处理中"
+  },
+  "한 개의 보고가 여러개의 조건에 해당되면 위 쪽에 위치한 조건이 먼저 적용됩니다." : {
+    "en" : "If one report satisfies multiple conditions, the condition located at the top will be applied first.",
+    "ja" : "一つの報告が複数の条件に該当する場合、上記に位置する条件が最初に適用されます。",
+    "vi" : "Nếu một báo cáo thỏa mãn nhiều điều kiện, điều kiện nằm ở trên cùng sẽ được áp dụng trước.",
+    "zh" : "一个报告属于多种条件的话先适用位于上边的条件。"
+  },
+  "종료일" : {
+    "en" : "Finish date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日"
+  },
+  "사용자를 선택하세요" : {
+    "en" : "Select a user.",
+    "ja" : "ユーザーを選択してください。",
+    "vi" : "Chọn một người dùng.",
+    "zh" : "请选择使用者。"
+  },
+  "활용기간을 설정하면 시작일에 보고함이 공개되며, 종료일에 보고함이 종료됩니다." : {
+    "en" : "You can set up a period of use for your report box. Your report box will be open on the start date, and will be closed on the end date.",
+    "ja" : "活用期間を設定し、開始日に報告Boxが公開され、終了日に報告Boxが終了します。",
+    "vi" : "Bạn có thể thiết lập thời gian sử dụng cho thư mục báo cáo của bạn. Thư mục báo cáo của bạn sẽ được hiện vào ngày bắt đầu và sẽ dừng vào ngày kết thúc.",
+    "zh" : "设定应用期间而开始日公开报告箱，结束日结束报告箱。"
+  },
+  "행의 컬럼 배치 유형을 선택하세요." : {
+    "en" : "Select the arrangement type for the column of the row.",
+    "ja" : "行のカラム配置タイプを選択してください。",
+    "vi" : "Chọn kiểu sắp xếp cho các cột trong hàng.",
+    "zh" : "请选择行的专栏配置类型。"
+  },
+  "보고가 {0}반려되었습니다.{1}" : {
+    "en" : "Report {0} has been rejected. {1}",
+    "ja" : "報告が{0}差戻しされました。{1}",
+    "vi" : "Báo cáo {0} đã bị từ chối. {1}",
+    "zh" : "报告被{0}退回了。{1}"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "보고에 참조자를 추가하여 인수인계합니다." : {
+    "en" : "Add C.C to the report to handover.",
+    "ja" : "報告に参照者を追加して引継ぎを行います。",
+    "vi" : "Thêm người tham khảo vào báo cáo và chuyển giao.",
+    "zh" : "在报告中添加抄送人并进行交接。"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "업무가 복사 되었습니다." : {
+    "en" : "The task has been copied.",
+    "ja" : "業務がコピーされました。",
+    "vi" : "Tác vụ này đã được sao chép.",
+    "zh" : "业务拷贝完了。"
+  },
+  "받은 보고" : {
+    "en" : "Received",
+    "ja" : "受け取った",
+    "vi" : "đã nhận",
+    "zh" : "已收到"
+  },
+  "상세" : {
+    "en" : "Detail",
+    "ja" : "詳細",
+    "vi" : "Chi tiết",
+    "zh" : "详细"
+  },
+  "담당자를 입력해주세요." : {
+    "en" : "Enter the Person in Charge (Manager).",
+    "ja" : "担当者を入力してください。",
+    "vi" : "Thêm người phụ trách",
+    "zh" : "请输入负责人。"
+  },
+  "진행율" : {
+    "en" : "Progress rate",
+    "ja" : "進行状況",
+    "vi" : "Tiến độ",
+    "zh" : "进行率"
+  },
+  "보고 작성" : {
+    "en" : "Write report",
+    "ja" : "報告作成",
+    "vi" : "Viết báo cáo",
+    "zh" : "制作报告"
+  },
+  "멀티 컬럼" : {
+    "en" : "Multi columns",
+    "ja" : "マルチカラム",
+    "vi" : "Nhiều cột",
+    "zh" : "多种专栏"
+  },
+  "내 업무" : {
+    "en" : "My Tasks",
+    "ja" : "My業務",
+    "vi" : "Công việc của tôi",
+    "zh" : "我的业务"
+  },
+  "보고등록 요청이 반려되었습니다." : {
+    "en" : "The request for report registration has been rejected.",
+    "ja" : "レポート登録リクエストが差し戻されました。",
+    "vi" : "Yêu cầu đăng ký báo cáo đã bị từ chối.",
+    "zh" : "报告注册请求已被拒绝。"
+  },
+  "보고함명, 보고자, 기본수신자, 보고유형등을 설정할 수 있습니다." : {
+    "en" : "Report Box Name, Reporter, Primary Recipient, and Reporting Type can be set.",
+    "ja" : "報告ボックス名、報告者、基本受信者、報告タイプなどが設定できます。",
+    "vi" : "Có thể cài đặt tên hòm báo cáo, người báo cáo, người nhận mặc định, loại báo cáo...",
+    "zh" : "可设置报告书名,报告者，基本收信人，报告类型"
+  },
+  "보고관리" : {
+    "en" : "Manage reports",
+    "ja" : "報告の管理",
+    "vi" : "Quản lý báo cáo",
+    "zh" : "报告管理"
+  },
+  "업무함이 종료되어 등록할 수 없습니다." : {
+    "en" : "You cannot add new tasks because the taskbox has already been expired.",
+    "ja" : "業務フォルダが終了しているため登録することができません。",
+    "vi" : "Bạn không thể thêm công việc vì thư mục công việc đã hết hạn.",
+    "zh" : "业务箱已经被结束而不可登录。"
+  },
+  "회차 번호나 범위를 쉼표(,)로 구분하여 다음과 같이 입력하세요. 예) 1,3,5-12" : {
+    "en" : "Separate series numbers or ranges with a comma (,). e.g.) 1,3,5-12",
+    "ja" : "回数番号や範囲をコンマ（,）で区切って、次のように入力してください。例）1,3,5-12",
+    "vi" : "Phân tách chuỗi số hoặc dãy bằng dấu phẩy (,). ví dụ) 1,3,5-12",
+    "zh" : "次数范围利用顿号（，）来区分而如下输入。例) 1,3,5-12"
+  },
+  "보고주기" : {
+    "en" : "Report period",
+    "ja" : "報告周期",
+    "vi" : "Thời hạn báo cáo",
+    "zh" : "报告周期"
+  },
+  "회사를 선택하세요." : {
+    "en" : "Select Company",
+    "ja" : "会社を選択してください。",
+    "vi" : "Hãy chọn công ty.",
+    "zh" : "请选择公司。"
+  },
+  "컬럼 정보" : {
+    "en" : "Column information",
+    "ja" : "カラム情報",
+    "vi" : "Thông tin cột",
+    "zh" : "专栏信息"
+  },
+  "보고 선택" : {
+    "en" : "Select Report",
+    "ja" : "報告選択",
+    "vi" : "Chọn báo cáo",
+    "zh" : "选择报告"
+  },
+  "등록순" : {
+    "en" : "Date added",
+    "ja" : "登録順",
+    "vi" : "Ngày được thêm",
+    "zh" : "登录顺"
+  },
+  "구분이 올바르지 않습니다." : {
+    "en" : "Invalid classification.",
+    "ja" : "区分が正しくありません。",
+    "vi" : "Đường viền không được thiết lập đúng cách",
+    "zh" : "区分有错误。"
+  },
+  "선택옵션" : {
+    "en" : "Select Options",
+    "ja" : "選択オプション",
+    "vi" : "Phương án lựa chọn",
+    "zh" : "选择选项"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "일에 반복" : {
+    "en" : "Repeat on",
+    "ja" : "日に繰り返し",
+    "vi" : "Lặp lại vào",
+    "zh" : "天反复"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên phòng ban/bộ phận",
+    "zh" : "部门名"
+  },
+  "작성일" : {
+    "en" : "Date (Written)",
+    "ja" : "作成日",
+    "vi" : "Ngày",
+    "zh" : "制作日"
+  },
+  "Drag&amp;Drop 으로 행의 상하 위치를 변경할 수 있습니다." : {
+    "en" : "You can reorder the location of rows via Drag&Drop",
+    "ja" : "Drag＆amp; Dropで行の上下位置を変更できます。",
+    "vi" : "Kéo thả để sắp xếp lên/xuống các hàng",
+    "zh" : "通过 Drag&amp;Drop 可以变更上下位置。"
+  },
+  "등록된 컬럼이 없습니다." : {
+    "en" : "No registered column exists.",
+    "ja" : "登録されたカラムがありません。",
+    "vi" : "Không có cột được đăng ký.",
+    "zh" : "没有注册的专栏。"
+  },
+  "보고서 승인 요청입니다." : {
+    "en" : "Request for report approval",
+    "ja" : "報告書の承認要請です。",
+    "vi" : "Đề nghị phê duyệt báo cáo",
+    "zh" : "是报告书承认邀请。"
+  },
+  "승인대기" : {
+    "en" : "Waiting for Approval",
+    "ja" : "承認待ち",
+    "vi" : "Chờ phê duyệt",
+    "zh" : "等待承认"
+  },
+  "라벨 선택" : {
+    "en" : "Select label",
+    "ja" : "ラベル選択",
+    "vi" : "Chọn nhãn",
+    "zh" : "选择标签"
+  },
+  "담&nbsp;&nbsp;당&nbsp;&nbsp;자" : {
+    "en" : "Manager",
+    "ja" : "担&nbsp;&nbsp;当&nbsp;&nbsp;者",
+    "vi" : "Người phụ trách",
+    "zh" : "负&nbsp;&nbsp;责&nbsp;&nbsp;人"
+  },
+  "제목은 공백 포함 {0} 글자 이하여야 합니다." : {
+    "en" : "Title must be {0} or less characters (including spaces).",
+    "ja" : "件名はスペースを含む{0}文字以下である必要があります。",
+    "vi" : "Chủ đề phải chứa ít hơn {0} ký tự, bao gồm cả khoảng trắng.",
+    "zh" : "题目得写包括空白 {0} 字以下。"
+  },
+  "이전 보고" : {
+    "en" : "Previous report",
+    "ja" : "以前の報告",
+    "vi" : "Báo cáo trước",
+    "zh" : "以前报告"
+  },
+  "상태가 이미 있습니다." : {
+    "en" : "Status already exists.",
+    "ja" : "既に状態が示されています。",
+    "vi" : "Trạng thái đã tồn tại",
+    "zh" : "已经有状态。"
+  },
+  "업무보고 총용량이 초과하였습니다. 관리자에게 문의하세요." : {
+    "en" : "Task Report storage is already full. Please contact the administrator.",
+    "ja" : "業務報告の総容量を超えました。管理者にお問い合わせください。",
+    "vi" : "Tổng dung lượng lưu trữ cho các báo cáo công tác đã gần đầy. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "超过了业务报告总用量。请向管理者咨询。"
+  },
+  "알림대상설정" : {
+    "en" : "Notification Target Settings",
+    "ja" : "通知対象設定",
+    "vi" : "Thiết lập thông báo",
+    "zh" : "设定提醒对象"
+  },
+  "일요일" : {
+    "en" : "Sunday",
+    "ja" : "日曜日",
+    "vi" : "Chủ nhật",
+    "zh" : "星期日"
+  },
+  "미리보기 정보가 없습니다." : {
+    "en" : "There is no preview information.",
+    "ja" : "プレビュー情報がありません。",
+    "vi" : "Không có thông tin xem trước.",
+    "zh" : "没有预览信息"
+  },
+  "업무제목" : {
+    "en" : "Task Title",
+    "ja" : "業務タイトル",
+    "vi" : "Chủ đề tác vụ",
+    "zh" : "业务题目"
+  },
+  "0은 제한이 없음을 의미합니다." : {
+    "en" : "0 means that there are no limits.",
+    "ja" : "0は制限がないことを意味します。",
+    "vi" : "khi chọn 0 tức là mục này sẽ không có giới hạn",
+    "zh" : "0说明没有限制。"
+  },
+  "PC저장" : {
+    "en" : "Save on PC",
+    "ja" : "PC保存",
+    "vi" : "Lưu trên máy tính",
+    "zh" : "保存PC"
+  },
+  "활동" : {
+    "en" : "Activities",
+    "ja" : "活動",
+    "vi" : "hoạt động",
+    "zh" : "活动"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "첨부파일명" : {
+    "en" : "Attachment Name",
+    "ja" : "添付ファイル名",
+    "vi" : "Tên file đính kèm",
+    "zh" : "附件名"
+  },
+  "보고등록 검토 요청을 했습니다." : {
+    "en" : "A request for review of the report registration has been made.",
+    "ja" : "レポート登録検討をリクエストしました。",
+    "vi" : "Yêu cầu xem xét việc đăng ký báo cáo.",
+    "zh" : "已发出报告审查请求。"
+  },
+  "사용 중지 된 업무함입니다." : {
+    "en" : "This is a suspended (disabled) taskbox.",
+    "ja" : "使用停止された業務フォルダです。",
+    "vi" : "Đây là thư mục tác vụ đã bị vô hiệu hóa.",
+    "zh" : "停止使用的业务箱。"
+  },
+  "한 개의 행에는 최대 4개의 컬럼을 추가할 수 있으며, 한번 추가된 컬럼은 다시 추가할 수 없습니다." : {
+    "en" : "You can add up to 4 columns to one row. Added columns cannot be added again.",
+    "ja" : "1つの行には最大4つのカラムを追加することができ、一度追加されたカラムは再び追加することはできません。",
+    "vi" : "Bạn có thể thêm tối đa 4 cột vào một hàng. Cột đã thêm rồi sẽ không thể được thêm một lần nữa.",
+    "zh" : "一个行最多可以追加到4个专栏，而且已经追加的专栏不可再追加。"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "Duplicate users with the manager status on Space are excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、当該のユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong Space, người dùng này sẽ được loại bỏ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "종료" : {
+    "en" : "End",
+    "ja" : "終了",
+    "vi" : "hoàn thành",
+    "zh" : "结束"
+  },
+  "조직도 선택 버튼명" : {
+    "en" : "Organizational Chart Selection Button Name",
+    "ja" : "組織図選択のボタン名",
+    "vi" : "Tên nút chọn sơ đồ tổ chức",
+    "zh" : "组织图选择按钮名"
+  },
+  "변경할 업무/보고함을 선택하세요." : {
+    "en" : "Select a task/report box that you wish to change.",
+    "ja" : "変更する業務/報告ファイルを選択してください。",
+    "vi" : "Chọn file công việc hoặc file báo cáo cần thay đổi.",
+    "zh" : "请选择要变更的业务/报告箱。"
+  },
+  "추가 컬럼" : {
+    "en" : "Added columns",
+    "ja" : "追加カラム",
+    "vi" : "Cột được thêm",
+    "zh" : "追加专栏"
+  },
+  "개인함 자동삭제" : {
+    "en" : "Delete the personal box automatically.",
+    "ja" : "個人Boxを自動削除",
+    "vi" : "Xóa tự động hộp cá nhân",
+    "zh" : "自动删除个人箱"
+  },
+  "관리자 설정" : {
+    "en" : "Admin settings",
+    "ja" : "管理者設定",
+    "vi" : "Thiết lập quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "자동분류 항목을 추가합니다. 입력된 값은 대소문자를 구분하지 않습니다." : {
+    "en" : "Add Auto-sort Item. The entered value is not case-sensitive.",
+    "ja" : "自動分類の項目を追加します。入力された値は、大文字と小文字を区別しません。",
+    "vi" : "Thêm mục Sắp xếp tự động Giá trị mà bạn nhập vào sẽ không phân biệt chữ hoa và chữ thường",
+    "zh" : "追加自动分类项目。输入的价不区分大小文字。"
+  },
+  "등록된 업무가 없습니다." : {
+    "en" : "There are no registered tasks.",
+    "ja" : "登録された業務がありません。",
+    "vi" : "Không có công việc nào được thêm vào.",
+    "zh" : "没有登录的业务。"
+  },
+  "배경 색상" : {
+    "en" : "Background Color",
+    "ja" : "背景色",
+    "vi" : "Màu nền",
+    "zh" : "背景颜色"
+  },
+  "시작일자를 입력해주세요." : {
+    "en" : "Please select a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Hãy nhập ngày bắt đầu",
+    "zh" : "请输入开始日子。"
+  },
+  "컬럼 너비를 입력하세요." : {
+    "en" : "Enter the width of the column.",
+    "ja" : "カラム幅を入力してください。",
+    "vi" : "Nhập chiều rộng của cột.",
+    "zh" : "请输入专栏宽度。"
+  },
+  "댓글 영역" : {
+    "en" : "Comment area",
+    "ja" : "コメント領域",
+    "vi" : "Khu vực bình luận",
+    "zh" : "回帖领域"
+  },
+  "요청자" : {
+    "en" : "Requested by",
+    "ja" : "要請者",
+    "vi" : "Được đề nghị bởi",
+    "zh" : "邀请人"
+  },
+  "{0} 항목값은 {1} 이하이어야 합니다." : {
+    "en" : "The value of item {0} must be {1} or less.",
+    "ja" : "{0}項目の値は{1}以下でなければなりません。",
+    "vi" : "{0} giá trị của mục phải nhỏ hơn {1}.",
+    "zh" : "{0} 项目值得  {1}以下。"
+  },
+  "(으)로 저장" : {
+    "en" : "Save As",
+    "ja" : "に保存",
+    "vi" : "Lưu dưới dạng khác",
+    "zh" : "保存为"
+  },
+  "검색 조건을 추가해주세요." : {
+    "en" : "Please add a search condition.",
+    "ja" : "検索条件を追加してください。",
+    "vi" : "Hãy thêm điều kiện tìm kiếm.",
+    "zh" : "请添加搜索条件。"
+  },
+  "반려된 보고" : {
+    "en" : "Rejected",
+    "ja" : "却下された",
+    "vi" : "bị từ chối",
+    "zh" : "被驳回"
+  },
+  "공동작성" : {
+    "en" : "Co-write",
+    "ja" : "共同作成",
+    "vi" : "Đồng tác giả",
+    "zh" : "共同制作"
+  },
+  "모든보고함" : {
+    "en" : "Reports (All)",
+    "ja" : "すべての報告",
+    "vi" : "Tất cả báo cáo",
+    "zh" : "所有报告箱"
+  },
+  "목록 화면" : {
+    "en" : "List Screen",
+    "ja" : "リスト画面",
+    "vi" : "Trang danh sách",
+    "zh" : "目录画面"
+  },
+  "참조자 추가" : {
+    "en" : "Add Cc",
+    "ja" : "参照者追加",
+    "vi" : "Thêm Người tham chiếu",
+    "zh" : "追加参照人"
+  },
+  "내 보고" : {
+    "en" : "My reports",
+    "ja" : "My報告",
+    "vi" : "Báo cáo của tôi",
+    "zh" : "我的报告"
+  },
+  "라디오버튼" : {
+    "en" : "Radio button",
+    "ja" : "ラジオボタン",
+    "vi" : "Nút radio",
+    "zh" : "广播按钮"
+  },
+  "지시보고에서 보고현황을 확인하세요." : {
+    "en" : "Please check the report status in the Ordered Reports folder.",
+    "ja" : "指示報告から報告状況を確認してください。",
+    "vi" : "Vui lòng kiểm tra tình trạng báo cáo trong thư mục Báo cáo được yêu cầu.",
+    "zh" : "请在指示报告确认报告现况。"
+  },
+  "변경 이력이 없습니다." : {
+    "en" : "There is no modification history.",
+    "ja" : "変更履歴がありません。",
+    "vi" : "Không có lịch sử thay đổi.",
+    "zh" : "没有变更履历"
+  },
+  "자동 분류 목록" : {
+    "en" : "Auto-Sort List",
+    "ja" : "自動分類リスト",
+    "vi" : "Sắp xếp tự động Danh sách",
+    "zh" : "自动分类目录"
+  },
+  "부서가" : {
+    "en" : "Department",
+    "ja" : "部門が",
+    "vi" : "Phòng ban/bộ phận",
+    "zh" : "部门"
+  },
+  "업무함 템플릿 등록" : {
+    "en" : "Add Taskbox Template",
+    "ja" : "業務フォルダのテンプレート登録",
+    "vi" : "Thêm mẫu mẫu cho các thư mục tác vụ",
+    "zh" : "登录业务箱模板"
+  },
+  "쪽지 알림시간" : {
+    "en" : "Message Notification Time",
+    "ja" : "メッセージ通知時間",
+    "vi" : "Thời gian thông báo ghi chú",
+    "zh" : "纸条提醒时间"
+  },
+  "새 업무 생성" : {
+    "en" : "Create New Task",
+    "ja" : "新しい業務の生成",
+    "vi" : "Tạo công việc mới",
+    "zh" : "建立新的业务"
+  },
+  "보고서가 변경되었습니다." : {
+    "en" : "Report has been modified.",
+    "ja" : "報告書が変更されました。",
+    "vi" : "Báo cáo được sửa đổi",
+    "zh" : "报告书变更完了。"
+  },
+  "기본 정보" : {
+    "en" : "Basic information",
+    "ja" : "基本情報",
+    "vi" : "Thông tin cơ bản",
+    "zh" : "基本信息"
+  },
+  "수신자 승인 기능 사용" : {
+    "en" : "Use 'Allow Recipients to Approve'",
+    "ja" : "受信者承認機能を使用する",
+    "vi" : "Cho phép người nhận phê duyệt",
+    "zh" : "使用收信人承认功能"
+  },
+  "종료일을 입력해주세요." : {
+    "en" : "Please enter an end date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Vui lòng ngày kết thúc.",
+    "zh" : "请输入结束日。"
+  },
+  "상태 변경" : {
+    "en" : "Change Status",
+    "ja" : "状態変更",
+    "vi" : "Thay đổi trạng thái",
+    "zh" : "变更状态"
+  },
+  "보고함 선택" : {
+    "en" : "Select Report Box",
+    "ja" : "報告ボックスを選択する",
+    "vi" : "Chọn hòm báo cáo",
+    "zh" : "选择报告书"
+  },
+  "모두펼침" : {
+    "en" : "Expand all",
+    "ja" : "全て開く",
+    "vi" : "Mở rộng tất cả",
+    "zh" : "全部打开"
+  },
+  "등록된 정보가 없습니다." : {
+    "en" : "There is no information.",
+    "ja" : "登録された情報がありません。",
+    "vi" : "Không có thông tin.",
+    "zh" : "没有登录的信息。"
+  },
+  "업무에 댓글이 삭제되었습니다." : {
+    "en" : "The comment on the task has been deleted.",
+    "ja" : "業務のコメントが削除されました。",
+    "vi" : "Bình luận bị xóa trong công việc",
+    "zh" : "业务的回帖被删除了。"
+  },
+  "미작성 정기보고가 등록되었습니다." : {
+    "en" : "An incomplete regular report has been registered.",
+    "ja" : "未作成の定期レポートが登録されました。",
+    "vi" : "Đã thêm báo cáo định kỳ chưa viết.",
+    "zh" : "未提交的定期报告已注册。"
+  },
+  "참조 보고" : {
+    "en" : "Report Reference",
+    "ja" : "参照報告",
+    "vi" : "Báo cáo cho tham chiếu",
+    "zh" : "参照报告"
+  },
+  "차트 유형" : {
+    "en" : "Chart type",
+    "ja" : "チャートの種類",
+    "vi" : "Loại biểu đồ",
+    "zh" : "图表类型"
+  },
+  "내 업무/보고" : {
+    "en" : "My Task/Report",
+    "ja" : "My業務/報告",
+    "vi" : "Công việc/báo cáo của tôi",
+    "zh" : "我的业务/报告"
+  },
+  "검색조건" : {
+    "en" : "Search Conditions",
+    "ja" : "検索条件",
+    "vi" : "Điều kiện tìm kiếm",
+    "zh" : "搜索条件"
+  },
+  "회사 또는 스페이스를 선택하세요." : {
+    "en" : "Select Company or Space",
+    "ja" : "会社またはスペースを選択してください。",
+    "vi" : "Hãy chọn công ty hoặc Space.",
+    "zh" : "请选择公司或空间。"
+  },
+  "세로 분할" : {
+    "en" : "Vertical Split",
+    "ja" : "縦分割",
+    "vi" : "Phải",
+    "zh" : "竖分割"
+  },
+  "해야할 업무" : {
+    "en" : "Tasks to do",
+    "ja" : "必須業務",
+    "vi" : "Công việc cần làm",
+    "zh" : "得做的业务"
+  },
+  "최소값" : {
+    "en" : "Min. value",
+    "ja" : "最小値",
+    "vi" : "Giá trị tối thiểu",
+    "zh" : "最少价"
+  },
+  "요청 업무" : {
+    "en" : "Requested Task",
+    "ja" : "要請業務",
+    "vi" : "Công việc được yêu cầu",
+    "zh" : "邀请业务"
+  },
+  "끝업무" : {
+    "en" : "Task (End)",
+    "ja" : "最終業務",
+    "vi" : "Kết thúc công việc",
+    "zh" : "最终业务"
+  },
+  "다운로드에 실패했습니다" : {
+    "en" : "Failed to download.",
+    "ja" : "ダウンロードに失敗しました",
+    "vi" : "Tải xuống thất bại.",
+    "zh" : "下载失败了。"
+  },
+  "다음단계" : {
+    "en" : "Next step",
+    "ja" : "次の段階",
+    "vi" : "Bước tiếp theo",
+    "zh" : "下面阶段"
+  },
+  "라벨명" : {
+    "en" : "Label name",
+    "ja" : "ラベル名",
+    "vi" : "Tên nhãn",
+    "zh" : "标签名"
+  },
+  "리스트" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "列表"
+  },
+  "승인하시겠습니까?" : {
+    "en" : "Do you want to approve it?",
+    "ja" : "承認しますか？",
+    "vi" : "Bạn có muốn phê duyệt không?",
+    "zh" : "要承认吗？"
+  },
+  "설계자" : {
+    "en" : "Planner",
+    "ja" : "設計者",
+    "vi" : "Người lập kế hoạch",
+    "zh" : "设计人"
+  },
+  "일마다" : {
+    "en" : "Every day",
+    "ja" : "日ごとに",
+    "vi" : "Mỗi ngày",
+    "zh" : "每 天"
+  },
+  "업무가 이동 되었습니다." : {
+    "en" : "The task has been moved.",
+    "ja" : "業務が移動されました。",
+    "vi" : "Tác vụ này đã được di chuyển.",
+    "zh" : "业务移动完了。"
+  },
+  "토" : {
+    "en" : "Sat",
+    "ja" : "土",
+    "vi" : "Thứ bảy",
+    "zh" : "星期六"
+  },
+  "유형을 입력해주세요." : {
+    "en" : "Enter a type.",
+    "ja" : "タイプを入力してください。",
+    "vi" : "Thêm loại hình.",
+    "zh" : "请输入类型。"
+  },
+  "기한 종료일자를 입력하세요." : {
+    "en" : "Select an end date.",
+    "ja" : "期限終了日を入力してください。",
+    "vi" : "Chọn ngày kết thúc.",
+    "zh" : "请输入期限结束日子。"
+  },
+  "번 이후" : {
+    "en" : "This report",
+    "ja" : "番以降",
+    "vi" : "Sau () lần",
+    "zh" : "次以后"
+  },
+  "보고함 이동" : {
+    "en" : "Move Report Box",
+    "ja" : "報告ボックスに移動する",
+    "vi" : "Di chuyển hòm báo cáo",
+    "zh" : "移动报告箱"
+  },
+  "자동 보고" : {
+    "en" : "Automatic reporting",
+    "ja" : "自動報告",
+    "vi" : "Báo cáo tự động",
+    "zh" : "自动报告"
+  },
+  "라벨설정할 업무 또는 보고를 선택하세요." : {
+    "en" : "Select a work or a report to label.",
+    "ja" : "ラベル設定する業務または報告を選択してください。",
+    "vi" : "Chọn công việc hoặc báo cáo để đặt nhãn.",
+    "zh" : "请选择要设定标签的业务或者报告。"
+  },
+  "색상코드" : {
+    "en" : "Color code",
+    "ja" : "カラーコード",
+    "vi" : "Mã màu",
+    "zh" : "颜色代码"
+  },
+  "라벨 목록" : {
+    "en" : "Label list",
+    "ja" : "ラベルリスト",
+    "vi" : "Danh sách nhãn",
+    "zh" : "标签目录"
+  },
+  "템플릿명" : {
+    "en" : "Template name",
+    "ja" : "テンプレート名",
+    "vi" : "Tên mẫu",
+    "zh" : "模板名"
+  },
+  "선택 보고를" : {
+    "en" : "Selected report",
+    "ja" : "選択報告を",
+    "vi" : "Báo cáo được chọn",
+    "zh" : "选择的报告"
+  },
+  "하위부서포함" : {
+    "en" : "Include sub- department",
+    "ja" : "下位部書を含む",
+    "vi" : "Bao gồm phòng ban/bộ phận cấp dưới",
+    "zh" : "包括下位部门"
+  },
+  "임시보관" : {
+    "en" : "Save drafts",
+    "ja" : "一時保管",
+    "vi" : "Lưu bản thảo",
+    "zh" : "临时保管"
+  },
+  "기존에 등록된 비공개 보고는 비공개 상태로 유지됩니다." : {
+    "en" : "Existing private reports will remain private.",
+    "ja" : "既存の非公開報告は非公開のまま維持されます。",
+    "vi" : "Các báo cáo riêng tư hiện có sẽ vẫn được giữ tính riêng tư.",
+    "zh" : "以前注册的私密报告将保持私密状态。"
+  },
+  "필요" : {
+    "en" : "Required",
+    "ja" : "必要",
+    "vi" : "Cần có",
+    "zh" : "需要"
+  },
+  "입력설정" : {
+    "en" : "Input settings",
+    "ja" : "入力設定",
+    "vi" : "Cài đặt đầu vào",
+    "zh" : "设定输入"
+  },
+  "반복 시작일자를 입력하세요." : {
+    "en" : "Enter a start date (repeat).",
+    "ja" : "繰り返し開始日を入力してください。",
+    "vi" : "Chọn ngày bắt đầu lặp lại.",
+    "zh" : "请输入反复开始日子。"
+  },
+  "분류를 선택하세요." : {
+    "en" : "Select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Chọn hạng mục",
+    "zh" : "请选择分类。"
+  },
+  "비공개" : {
+    "en" : "Private",
+    "ja" : "非公開",
+    "vi" : "Hiện thêm",
+    "zh" : "非公开"
+  },
+  "공지기간" : {
+    "en" : "Notice Period",
+    "ja" : "お知らせ期間",
+    "vi" : "Thời gian thông báo",
+    "zh" : "公告期间"
+  },
+  "알림설정" : {
+    "en" : "Notification settings",
+    "ja" : "通知設定",
+    "vi" : "Thiết lập thông báo",
+    "zh" : "设定提醒"
+  },
+  "삭제된 업무입니다." : {
+    "en" : "The task has already been deleted.",
+    "ja" : "削除された業務です。",
+    "vi" : "Công việc này đã bị xóa.",
+    "zh" : "被删除的业务。"
+  },
+  "보고 완료를 해야 등록됩니다\\n내보고에서 확인하세요." : {
+    "en" : "You must finish the report in order to register it.\\n Check My Reports.",
+    "ja" : "報告完了をすると登録ができます。\\ nMy報告から確認してください。",
+    "vi" : "Bạn phải hoàn thành báo cáo cần thêm.\\n Vui lòng kiểm tra mục Báo cáo của tôi.",
+    "zh" : "报告完了后才能登录。\\n请在我的报告上确认。"
+  },
+  "댓글 내용을 입력하세요." : {
+    "en" : "Enter comment.",
+    "ja" : "コメント内容を入力してください。",
+    "vi" : "Nhập bình luận",
+    "zh" : "请输入回帖内容"
+  },
+  "이다" : {
+    "en" : "is",
+    "ja" : "である",
+    "vi" : "là",
+    "zh" : "是"
+  },
+  "기본 레이아웃" : {
+    "en" : "Default layout",
+    "ja" : "基本レイアウト",
+    "vi" : "Bố cục mặc định",
+    "zh" : "基本图案设计"
+  },
+  "알림사용" : {
+    "en" : "Use notifications",
+    "ja" : "通知使用",
+    "vi" : "Sử dụng thông báo",
+    "zh" : "使用提醒"
+  },
+  "이미 추가된 컬럼 입니다." : {
+    "en" : "The column has already been added.",
+    "ja" : "すでに追加されたコラムです。",
+    "vi" : "Cột này đã được thêm vào rồi.",
+    "zh" : "已经追加的专栏。"
+  },
+  "보고자가 보고하기 선택하여 전달" : {
+    "en" : "Reporter must select 'Report' to forward the report",
+    "ja" : "報告者が「報告する」を選択して転送",
+    "vi" : "Hãy chọn \"Báo cáo' và chuyển tiếp báo cáo\"",
+    "zh" : "报告人选择进行报告后传达"
+  },
+  "등록자가" : {
+    "en" : "Author",
+    "ja" : "登録者が",
+    "vi" : "Tác giả",
+    "zh" : "登录人"
+  },
+  "공개 여부 옵션을 변경하셨습니다." : {
+    "en" : "You have changed the privacy option.",
+    "ja" : "公開の可否オプションが変更されました。",
+    "vi" : "Bạn đã thay đổi tùy chọn bảo mật.",
+    "zh" : "您已更改了公开状态选项。"
+  },
+  "등록된 업무 또는 보고가 없습니다." : {
+    "en" : "There are no registered tasks or reports.",
+    "ja" : "登録された業務または報告がありません。",
+    "vi" : "Không có công việc hoặc báo cáo nào được thêm vào.",
+    "zh" : "没有登录的业务或报告。"
+  },
+  "정기보고" : {
+    "en" : "Periodic report",
+    "ja" : "定期報告",
+    "vi" : "báo cáo định kỳ",
+    "zh" : "定期报告"
+  },
+  "보고제목" : {
+    "en" : "Report Title",
+    "ja" : "報告タイトル",
+    "vi" : "Tiêu đề báo cáo",
+    "zh" : "报告题目"
+  },
+  "보고회차" : {
+    "en" : "Report Round",
+    "ja" : "報告回次",
+    "vi" : "Mã số báo cáo",
+    "zh" : "报告次数"
+  },
+  "메일주소" : {
+    "en" : "e-mail address",
+    "ja" : "メールアドレス",
+    "vi" : "địa chỉ email",
+    "zh" : "邮件地址。"
+  },
+  "인쇄할 업무 또는 보고를 선택하세요." : {
+    "en" : "Select a work or a report to print.",
+    "ja" : "印刷する業務または報告を選択してください。",
+    "vi" : "Chọn công việc báo cáo để in.",
+    "zh" : "请选择要打印的业务或者报告。"
+  },
+  "등록된 라벨이 없습니다." : {
+    "en" : "No registered labels.",
+    "ja" : "登録されたラベルがありません。",
+    "vi" : "Không có nhãn.",
+    "zh" : "没有登录的标签。"
+  },
+  "매일" : {
+    "en" : "Daily",
+    "ja" : "毎日",
+    "vi" : "Mỗi ngày",
+    "zh" : "每日"
+  },
+  "최근 1주" : {
+    "en" : "Last Week",
+    "ja" : "最近1週間",
+    "vi" : "1 tuần trước",
+    "zh" : "最近一周"
+  },
+  "수" : {
+    "en" : "Wed",
+    "ja" : "水",
+    "vi" : "Thứ Tư",
+    "zh" : "星期三"
+  },
+  "업무명을 입력하세요." : {
+    "en" : "Enter task name.",
+    "ja" : "業務名を入力してください。",
+    "vi" : "Nhập tiêu đề công việc.",
+    "zh" : "请输入业务名。"
+  },
+  "알림시간" : {
+    "en" : "Notification time",
+    "ja" : "通知時間",
+    "vi" : "Thời gian thông báo",
+    "zh" : "提醒时间"
+  },
+  "첨부파일" : {
+    "en" : "Attachments",
+    "ja" : "添付ファイル",
+    "vi" : "File đính kèm",
+    "zh" : "附件"
+  },
+  "승인 여부" : {
+    "en" : "Approval Status",
+    "ja" : "承認可否",
+    "vi" : "Phê duyệt",
+    "zh" : "是否承认"
+  },
+  "라벨을 삭제했습니다." : {
+    "en" : "The label has been deleted.",
+    "ja" : "ラベルを削除しました。",
+    "vi" : "Nhãn này đã bị xóa.",
+    "zh" : "删除标签了。"
+  },
+  "분류설정" : {
+    "en" : "Category settings",
+    "ja" : "カテゴリ設定",
+    "vi" : "Cài đặt danh mục",
+    "zh" : "设定分类"
+  },
+  "펼침" : {
+    "en" : "Unfold",
+    "ja" : "開く",
+    "vi" : "Mở ra",
+    "zh" : "打开"
+  },
+  "초기화" : {
+    "en" : "Search Initialize",
+    "ja" : "初期化",
+    "vi" : "Khởi động lại",
+    "zh" : "初始化"
+  },
+  "반복 종료일자를 입력하세요." : {
+    "en" : "Enter an end date (repeat).",
+    "ja" : "繰り返し終了日を入力してください。",
+    "vi" : "Chọn ngày kết thúc lặp lại.",
+    "zh" : "请输入反复结束日子。"
+  },
+  "[컬럼 수정]을 클릭하면 목록에 표시할 항목을 추가하거나 위치를 변경할 수 있습니다." : {
+    "en" : "Click [Modify Column] to add items that will be shown on the list or reorder the location.",
+    "ja" : "[カラム修正]をクリックすると、リストに表示する項目を追加したり、位置を変更することができます。",
+    "vi" : "Nhấn [Chỉnh sửa Cột] để thêm hoặc sắp xếp lại các mục được hiển thị trong danh sách.",
+    "zh" : "点击[修改专栏]的话可以追加目录上要追加的项目或者变更位置。"
+  },
+  "별표해제" : {
+    "en" : "Unstar",
+    "ja" : "スターを解除する",
+    "vi" : "Bỏ đánh dấu sao",
+    "zh" : "解除点星"
+  },
+  "목록 값" : {
+    "en" : "List Value",
+    "ja" : "リスト値",
+    "vi" : "Giá trị Danh sách",
+    "zh" : "目录价"
+  },
+  "상태를" : {
+    "en" : "The process status has not been changed.",
+    "ja" : "状態を",
+    "vi" : "trạng thái",
+    "zh" : "把状态"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không",
+    "zh" : "没有"
+  },
+  "제목에" : {
+    "en" : "In title",
+    "ja" : "タイトルに",
+    "vi" : "Chức vụ",
+    "zh" : "在题目"
+  },
+  "외 {0}명" : {
+    "en" : "and {0} people",
+    "ja" : "の他 {0}人",
+    "vi" : "và {0}",
+    "zh" : "以外 {0}名"
+  },
+  "보고함 생성시 설정 한 기본 알림 대상은 변경할 수 없습니다." : {
+    "en" : "You cannot change the default notification recipients that you have set by default when creating a report box.",
+    "ja" : "報告フォルダ作成時に設定した基本通知対象は変更することができません。",
+    "vi" : "Bạn không thể thay đổi người nhận thông báo đã được thiết lập theo mặc định khi bạn tạo thư mục báo cáo.",
+    "zh" : "建立报告箱时设定的提醒对象不可变更。"
+  },
+  "분류명" : {
+    "en" : "Category name",
+    "ja" : "カテゴリ名",
+    "vi" : "Tên hạng mục",
+    "zh" : "分类名"
+  },
+  "글 작성 권한이 없습니다." : {
+    "en" : "You don't have permission to write a post.",
+    "ja" : "記事の作成権限がありません。",
+    "vi" : "Không có quyền hạn viết bài.",
+    "zh" : "没有权限写文章。"
+  },
+  "라벨 색상" : {
+    "en" : "Label color",
+    "ja" : "ラベルカラー",
+    "vi" : "Màu nhãn",
+    "zh" : "标签颜色"
+  },
+  "보고함 관리" : {
+    "en" : "Report Box Management",
+    "ja" : "報告ボックスを管理する",
+    "vi" : "Quản lý hòm báo cáo",
+    "zh" : "管理报告书"
+  },
+  "정기보고일" : {
+    "en" : "Periodic report date",
+    "ja" : "定期報告日",
+    "vi" : "Ngày báo cáo định kỳ",
+    "zh" : "定期报告日"
+  },
+  "유형에" : {
+    "en" : "In type",
+    "ja" : "種類に",
+    "vi" : "Loại hình",
+    "zh" : "在类型"
+  },
+  "휴일제외" : {
+    "en" : "Exclude Holidays",
+    "ja" : "休日を除く",
+    "vi" : "Trừ ngày lễ",
+    "zh" : "排除休息日"
+  },
+  "최신순" : {
+    "en" : "Recent",
+    "ja" : "最新順",
+    "vi" : "Gần đây",
+    "zh" : "最新顺"
+  },
+  "현재 <strong>{0}회차</strong>가 진행중입니다." : {
+    "en" : "Currently, <strong>Round {0}</strong> is in progress.",
+    "ja" : "現在<strong> {0}回数</ strong>が進行中です。",
+    "vi" : "Bây giờ <strong>{0} chuỗi sê ri </strong> đang tiếp diễn.",
+    "zh" : "现在<strong>{0}次数</strong>进行中。"
+  },
+  "보고를 완료하시겠습니까?" : {
+    "en" : "Do you want to finish your report?",
+    "ja" : "報告を完了しますか？",
+    "vi" : "Bạn có muốn hoàn thành báo cáo của mình không?",
+    "zh" : "要完了报告吗？"
+  },
+  "승인현황" : {
+    "en" : "Approval status",
+    "ja" : "承認状況",
+    "vi" : "Tình trạng phê duyệt",
+    "zh" : "承认现况"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "분류명이 중복됩니다." : {
+    "en" : "The category name already exists.",
+    "ja" : "カテゴリ名が重複しています。",
+    "vi" : "Tồn tại hạng mục bị trùng tên.",
+    "zh" : "重复的分类名。"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "Lựa chọn",
+    "zh" : "选择目录"
+  },
+  "수신자를 입력해주세요." : {
+    "en" : "Add recipients",
+    "ja" : "受信者を入力してください。",
+    "vi" : "Thêm người nhận",
+    "zh" : "请输入收信人。"
+  },
+  "검색 시작 일자를 입력하세요." : {
+    "en" : "Enter start date (search period).",
+    "ja" : "検索開始日を入力してください。",
+    "vi" : "Vui lòng nhập ngày bắt đầu tìm kiếm.",
+    "zh" : "请输入搜索开始日子。"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "저장된 검색식은 이 업무/보고함에서만 사용할 수 있습니다." : {
+    "en" : "The saved search formula can only be used in this task/report box.",
+    "ja" : "保存した検索式はこの業務/報告フォルダでのみ使用することができます。",
+    "vi" : "Quy tắc tìm kiếm đã lưu chỉ có thể được sử dụng trong hộp công việc/báo cáo này.",
+    "zh" : "存储的检索式只能使用在这个业务/报告箱里。"
+  },
+  "처리상태가 변경되지 않았습니다." : {
+    "en" : "A reason for rejection must be less than {0} letters (including spaces).",
+    "ja" : "処理状態が変更されていません。",
+    "vi" : "Tình trạng của quá trình đã không được thay đổi.",
+    "zh" : "处理状态没有变更成。"
+  },
+  "라벨을 적용했습니다." : {
+    "en" : "The label has been applied.",
+    "ja" : "ラベルを適用しました。",
+    "vi" : "Nhãn này đã được áp dụng.",
+    "zh" : "适用标签了。"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "새 보고함" : {
+    "en" : "New Report Box",
+    "ja" : "新しい報告ボックス",
+    "vi" : "Hòm báo cáo mới",
+    "zh" : "新报告书"
+  },
+  "에디터 / 본문 영역" : {
+    "en" : "Editor/Body area",
+    "ja" : "編集/本文領域",
+    "vi" : "Vùng Trình biên tập/Vùng thân (nội dung)",
+    "zh" : "编辑器/本文 领域"
+  },
+  "목" : {
+    "en" : "Thu",
+    "ja" : "木",
+    "vi" : "Thứ năm",
+    "zh" : "星期四"
+  },
+  "완료된 보고와 기존에 등록된 보고가 모두 비공개로 변경됩니다." : {
+    "en" : "Completed reports and existing reports will all be changed to private.",
+    "ja" : "完了した報告と既存の報告がすべて非公開に変更されます。",
+    "vi" : "Tất cả các báo cáo đã hoàn thành và báo cáo hiện có sẽ được thay đổi thành riêng tư.",
+    "zh" : "已完成的报告和现有注册的所有报告都将更改为私密。"
+  },
+  "다음 상태는 버튼을 클릭하면 변경될 다음 상태를 선택합니다." : {
+    "en" : "Click the Next Status button to select a next status to change.",
+    "ja" : "次の状態は、ボタンをクリックすると変更される次の状態を選択します。",
+    "vi" : "Nhấp vào nút Trạng thái tiếp theo để chọn trạng thái tiếp theo cần thay đổi.",
+    "zh" : "下一个状态是选择点击按钮的话会变更的下一个状态。"
+  },
+  "검색조건 추가" : {
+    "en" : "Add Search Conditions",
+    "ja" : "検索条件の追加",
+    "vi" : "Thêm quy tắc tìm kiếm",
+    "zh" : "追加搜索条件"
+  },
+  "업무보기" : {
+    "en" : "View ask",
+    "ja" : "業務表示",
+    "vi" : "Xem công việc",
+    "zh" : "看业务"
+  },
+  "직책" : {
+    "en" : "Duty",
+    "ja" : "役職",
+    "vi" : "Phận sự",
+    "zh" : "职责"
+  },
+  "필수 여부" : {
+    "en" : "Required?",
+    "ja" : "必須可否",
+    "vi" : "Cần phải có",
+    "zh" : "是否必须"
+  },
+  "회수할 수 있는 수신자가 없습니다." : {
+    "en" : "There are no recipients whom you can recall.",
+    "ja" : "回収することができる受信者がいません。",
+    "vi" : "Không có người nhận mà bạn có thể tiến hành thu hồi.",
+    "zh" : "不存在可以回收的收信人。"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "값이 지워졌습니다." : {
+    "en" : "The value has been removed.",
+    "ja" : "値が消去されました。",
+    "vi" : "Giá trị đã được xóa.",
+    "zh" : "数值被删除。"
+  },
+  "검색식 저장" : {
+    "en" : "Save Search Formula",
+    "ja" : "検索式保存",
+    "vi" : "Lưu quy tắc tìm kiếm",
+    "zh" : "搜索方式保存"
+  },
+  "보고를 선택해주세요." : {
+    "en" : "Please select a report.",
+    "ja" : "報告を選択してください。",
+    "vi" : "Vui lòng chọn báo cáo.",
+    "zh" : "请选择报告。"
+  },
+  "NEW 아이콘 노출기간" : {
+    "en" : "NEW icon display period",
+    "ja" : "NEWアイコンの表示期間",
+    "vi" : "Thời gian hiển thị của biểu tượng MỚI",
+    "zh" : "NEW 图标露出期间"
+  },
+  "차트 설정" : {
+    "en" : "Chart settings",
+    "ja" : "チャート設定",
+    "vi" : "Thiết lập biểu đồ",
+    "zh" : "设定图表"
+  },
+  "글 작성" : {
+    "en" : "Write Post",
+    "ja" : "記事の作成",
+    "vi" : "Viết tin nhắn",
+    "zh" : "写文章"
+  },
+  "승인대기상태입니다." : {
+    "en" : "Waiting for approval",
+    "ja" : "承認待機状態です。",
+    "vi" : "Chờ phê duyệt",
+    "zh" : "等待承认状态"
+  },
+  "항상 비공개 옵션을 선택하면 완료된 보고를 포함하여 기존에 등록된 모든 보고가 비공개로 변경됩니다." : {
+    "en" : "Selecting the \"Always Private\" option will change all existing reports, including completed reports, to private.",
+    "ja" : "常に非公開オプションを選択すると、完了した報告を含む既存のすべての報告が非公開に変更されます。",
+    "vi" : "Chọn tùy chọn \"Luôn riêng tư\" sẽ thay đổi tất cả các báo cáo hiện có, bao gồm báo cáo đã hoàn thành, thành riêng tư.",
+    "zh" : "始终选择私密选项将导致所有以前注册的报告，包括已完成的报告，都变为私密。"
+  },
+  "보고를 작성하지 않은 보고자가 있습니다.\\n보고 완료 시 모두 보고 완료 처리됩니다.\\n보고를 완료하시겠습니까?" : {
+    "en" : "There are reporters who have not submitted reports. \\nWhen you complete the report, all will be marked as completed. \\nWould you like to proceed with the report?",
+    "ja" : "報告を作成しない報告者がいます。報告完了時にすべての報告が処理されます。\\n報告を完了しますか？",
+    "vi" : "Có người chưa viết báo cáo dù đã được yêu cầu.\\nNếu tiến hành hoàn tất báo cáo, tất cả mọi người sẽ được coi là đã hoàn thành việc báo cáo.\\nBạn có muốn hoàn tất báo cáo không?",
+    "zh" : "有人未填写汇报。\\n当完成汇报时，所有人都将被标记为已完成汇报。\\n您是否要完成汇报？"
+  },
+  "조직도 추가 맵핑" : {
+    "en" : "Organization chart _ additional mapping",
+    "ja" : "組織図の追加マッピング",
+    "vi" : "Sơ đồ tổ chức _ bản đồ bổ sung",
+    "zh" : "组织图追加映射"
+  },
+  "파일 첨부" : {
+    "en" : "Attach files",
+    "ja" : "ファイル添付",
+    "vi" : "Đính kèm file",
+    "zh" : "附加文档"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "全て閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "자동저장" : {
+    "en" : "Auto-Save",
+    "ja" : "自動保存",
+    "vi" : "Tự động lưu",
+    "zh" : "自动保存"
+  },
+  "삭제된 게시글 입니다." : {
+    "en" : "This is a deleted post.",
+    "ja" : "削除された記事です。",
+    "vi" : "Đây là bài đăng đã bị xóa.",
+    "zh" : "被删除的帖子。"
+  },
+  "보고 포틀릿" : {
+    "en" : "Report portlets",
+    "ja" : "報告ポートレット",
+    "vi" : "Portlet báo cáo",
+    "zh" : "报告portlet"
+  },
+  "공동작성자에는 자신이 포함되어야 합니다." : {
+    "en" : "The co-authors must include yourself.",
+    "ja" : "共同作成者には自分が含まれなければなりません。",
+    "vi" : "Phải bao gồm cả bản thân trong những người viết chung.",
+    "zh" : "共同编辑者中需包含本人。"
+  },
+  "{0} 회차" : {
+    "en" : "Round {0}",
+    "ja" : "{0}回目",
+    "vi" : "Lần {0}",
+    "zh" : "{0} 次"
+  },
+  "반복 횟수" : {
+    "en" : "Number of Repeats",
+    "ja" : "繰り返し回数",
+    "vi" : "Số lần lặp",
+    "zh" : "反复次数"
+  },
+  "유형" : {
+    "en" : "Type",
+    "ja" : "タイプ",
+    "vi" : "Loại hình",
+    "zh" : "类型"
+  },
+  "같은 회사 보고함으로는 이동할 수 없습니다." : {
+    "en" : "Cannot move within the same company report box.",
+    "ja" : "同じ会社の報告ボックスには移動できません。",
+    "vi" : "Không thể di chuyển tới hòm báo cáo cùng công ty.",
+    "zh" : "无法移动至同意公司报告箱里。"
+  },
+  "보고를 수정하시겠습니까?" : {
+    "en" : "Would you like to modify the report?",
+    "ja" : "報告を修正しますか?",
+    "vi" : "Sửa đổi báo cáo?",
+    "zh" : "确定要修改报告吗?"
+  },
+  "기본값" : {
+    "en" : "Default Value",
+    "ja" : "基本値",
+    "vi" : "Giá trị mặc định",
+    "zh" : "基本值"
+  },
+  "업무 유형은 {0}개까지 등록 가능 합니다" : {
+    "en" : "You can add up to {0} types of tasks.",
+    "ja" : "業務のタイプは、{0}個まで登録可能です。",
+    "vi" : "Bạn có thể thêm tối đa {0} hình công việc.",
+    "zh" : "业务类型最多可以登录{0}个。"
+  },
+  "검색된 업무가 없습니다." : {
+    "en" : "There are no tasks found.",
+    "ja" : "検索された業務がありません。",
+    "vi" : "Không tìm được công việc nào.",
+    "zh" : "没有搜索到的业务。"
+  },
+  "보고반려" : {
+    "en" : "Reject report",
+    "ja" : "報告差戻し",
+    "vi" : "Từ chối báo cáo",
+    "zh" : "退回报告"
+  },
+  "등록된 공지사항이 없습니다." : {
+    "en" : "No notices to show",
+    "ja" : "登録されたお知らせがありません。",
+    "vi" : "Không thông báo để hiển thị",
+    "zh" : "没有登录的公告事项。"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Tất cả thời gian",
+    "zh" : "全期间"
+  },
+  "업무함이 삭제되어 등록할 수 없습니다." : {
+    "en" : "You cannot add new tasks because the taskbox has already been deleted.",
+    "ja" : "業務フォルダが削除されているため登録することができません。",
+    "vi" : "Bạn không thể thêm công việc vì thư mục công việc đã bị xóa.",
+    "zh" : "业务箱已经被删除而不可登录。"
+  },
+  "업무함을 템플릿으로 등록해 다른 사용자와 공유합니다." : {
+    "en" : "You can add a taskbox as a template and share it with other users.",
+    "ja" : "業務フォルダをテンプレートで登録して他のユーザーと共有します。",
+    "vi" : "Bạn có thể thêm thư mục tác vụ dưới dạng mẫu và chia sẻ với người khác.",
+    "zh" : "登录为业务箱模板而跟别的使用者共有。"
+  },
+  "업무 정보" : {
+    "en" : "Task Information",
+    "ja" : "業務情報",
+    "vi" : "Thông tin công việc",
+    "zh" : "业务信息"
+  },
+  "하위 라벨이 있을 경우 하위 라벨도 같이 삭제됩니다. 정말 삭제하시겠습니까?" : {
+    "en" : "If there are sub-labels, the sub-labels will be also deleted. Do you really want to delete?",
+    "ja" : "下位ラベルがある場合、下位ラベルも一緒に削除されます。本当に削除しますか？",
+    "vi" : "Nếu có các nhãn phụ thì nhãn phụ ấy sẽ bị xóa cùng luôn. Bạn có chắc mình muốn xoá không?",
+    "zh" : "有下位标签的话下位标签也会一起被删除。要真的删除吗？"
+  },
+  "이 업무를" : {
+    "en" : "This work",
+    "ja" : "この業務を",
+    "vi" : "Công việc này",
+    "zh" : "把这个业务"
+  },
+  "해당 업무/보고 가 존재하지 않거나 조회 권한이 없습니다." : {
+    "en" : "The task/report does not exist. Or, you don't have the permission to view it.",
+    "ja" : "当該業務/報告が存在しないか照会権限がありません。",
+    "vi" : "Công việc hoặc báo cáo này không tồn tại hoặc bạn không có quyền để xem nó.",
+    "zh" : "不存在有关业务/报告或者没有查询权限。"
+  },
+  "담당자" : {
+    "en" : "Manager",
+    "ja" : "担当者",
+    "vi" : "Người quản lý",
+    "zh" : "负责人"
+  },
+  "기간선택이 적용되었습니다." : {
+    "en" : "Period selection has been applied.",
+    "ja" : "期間選択が適用されました。",
+    "vi" : "Đã áp dụng lựa chọn khoảng thời gian.",
+    "zh" : "已应用期间选择。"
+  },
+  "반려 사유를 입력하세요." : {
+    "en" : "Please enter a reason for rejection.",
+    "ja" : "差戻し理由を入力してください。",
+    "vi" : "Vui lòng nhập lý do từ chối",
+    "zh" : "请输入退回原因。"
+  },
+  "조직도 종류" : {
+    "en" : "Organizational Chart Type",
+    "ja" : "組織図の種類",
+    "vi" : "Loại hình sơ đồ tổ chức",
+    "zh" : "组织图种类"
+  },
+  "한글은 33자, 영문은 100자까지 입력가능합니다." : {
+    "en" : "Character Limit: Korean - 33 chars, English - 100 chars.",
+    "ja" : "ハングルは33文字、英文は100文字まで入力可能です.",
+    "vi" : "Tiếng Hàn có giới hạn là 33 kí tự, tiếng Anh có giới hạn là 100 ký tự.",
+    "zh" : "33个字符，韩文，英文100个字符的限制."
+  },
+  "승인자 선택" : {
+    "en" : "Select approver",
+    "ja" : "承認者選択",
+    "vi" : "Chọn người phê duyệt",
+    "zh" : "选择承认者"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Đang chờ",
+    "zh" : "待机"
+  },
+  "관심게시" : {
+    "en" : "Interesting Post",
+    "ja" : "お気に入り記事",
+    "vi" : "Tin nhắn ưa thích",
+    "zh" : "关心布告"
+  },
+  "업무의 담당자로 등록되었습니다." : {
+    "en" : "Registered as task manager.",
+    "ja" : "業務の担当者として登録されました。",
+    "vi" : "Đã đăng ký làm người quản lý công việc",
+    "zh" : "登录为业务负责人了。"
+  },
+  "업무함 현황" : {
+    "en" : "Taskbox Status",
+    "ja" : "業務フォルダ状況",
+    "vi" : "Trạng thái của thư mục công việc",
+    "zh" : "业务箱现况"
+  },
+  "보고 조회" : {
+    "en" : "View report",
+    "ja" : "報告照会",
+    "vi" : "Xem báo cáo",
+    "zh" : "查询报告"
+  },
+  "승인요청" : {
+    "en" : "Request for approval",
+    "ja" : "承認要求",
+    "vi" : "Đề nghị phê duyệt",
+    "zh" : "邀请承认"
+  },
+  "상태가 변경되지 않았습니다." : {
+    "en" : "The status has not been changed.",
+    "ja" : "状態が変更されていません。",
+    "vi" : "Trạng thái không thay đổi.",
+    "zh" : "状态没有变更成。"
+  },
+  "목록만 보기" : {
+    "en" : "View list only",
+    "ja" : "リストのみ表示",
+    "vi" : "Chỉ xem danh sách",
+    "zh" : "只看目录"
+  },
+  "승인 업무" : {
+    "en" : "Approved Tasks",
+    "ja" : "承認業務",
+    "vi" : "Công việc đã được phê duyệt",
+    "zh" : "承认业务"
+  },
+  "전체이관" : {
+    "en" : "Transfer all",
+    "ja" : "全部移管",
+    "vi" : "Chuyển tất cả",
+    "zh" : "全部移交"
+  },
+  "보고명" : {
+    "en" : "Report name",
+    "ja" : "報告名",
+    "vi" : "Tên báo cáo",
+    "zh" : "报告名"
+  },
+  "등록된 업무보고가 없습니다." : {
+    "en" : "There are no registered task reports.",
+    "ja" : "登録された業務報告がありません。",
+    "vi" : "Không có báo cáo công việc nào được thêm vào.",
+    "zh" : "没有登录的业务报告。"
+  },
+  "검색 결과가 없습니다." : {
+    "en" : "No search result found",
+    "ja" : "検索結果がありません。",
+    "vi" : "Không có kết quả tìm kiếm.",
+    "zh" : "无搜索结果。"
+  },
+  "업무 메인" : {
+    "en" : "Task Main",
+    "ja" : "業務メイン",
+    "vi" : "Công việc chính",
+    "zh" : "业务主页"
+  },
+  "새 라벨 만들기" : {
+    "en" : "Create a new label",
+    "ja" : "新しいラベル作成",
+    "vi" : "Tạo nhãn mới",
+    "zh" : "做新的标签"
+  },
+  "작성대기" : {
+    "en" : "Waiting to write",
+    "ja" : "作成待機",
+    "vi" : "Chờ để viết vào",
+    "zh" : "等待制作"
+  },
+  "ZIP 파일 저장" : {
+    "en" : "ZIP file save",
+    "ja" : "ZIP ファイル保存",
+    "vi" : "Lưu file ZIP",
+    "zh" : "保存ZIP文档"
+  },
+  "기본 상태가 없습니다." : {
+    "en" : "There is no default status.",
+    "ja" : "基本状態がありません。",
+    "vi" : "Không có trạng thái mặc định.",
+    "zh" : "没有基本状态。"
+  },
+  "복원하시겠습니까?" : {
+    "en" : "Do you want to restore it?",
+    "ja" : "復元しますか？",
+    "vi" : "Bạn có muốn khôi phục lại không?",
+    "zh" : "要复原吗？"
+  },
+  "보고가 등록되었습니다." : {
+    "en" : "The report has been registered.",
+    "ja" : "レポートが登録されました。",
+    "vi" : "Báo cáo đã được đăng ký.",
+    "zh" : "报告已注册。"
+  },
+  "안읽은 보고" : {
+    "en" : "Unread reports",
+    "ja" : "未読報告",
+    "vi" : "Báo cáo chưa đọc",
+    "zh" : "还没读的报告"
+  },
+  "기간 선택" : {
+    "en" : "Select Period",
+    "ja" : "期間選択",
+    "vi" : "Thời hạn",
+    "zh" : "选择期间"
+  },
+  "권한이 없습니다." : {
+    "en" : "No permission.",
+    "ja" : "権限がありません。",
+    "vi" : "Không được cấp quyền.",
+    "zh" : "没有权限。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Thiết lập",
+    "zh" : "设定"
+  },
+  "업무/보고함 선택" : {
+    "en" : "Select Task/Report Box",
+    "ja" : "業務/報告フォルダ選択",
+    "vi" : "Chọn thư mục công việc/báo cáo",
+    "zh" : "选择业务/报告箱"
+  },
+  "업무의 상태를 정의하고 업무 특성에 맞는 업무 흐름을 설정할 수 있습니다." : {
+    "en" : "Define the status of the task and set a workflow that suits the characteristics of the task.",
+    "ja" : "業務の状態を定義して、業務の特性に合わせた業務の流れを設定することができます。",
+    "vi" : "Xác định trạng thái công việc và thiết lập một quy trình làm việc phù hợp cho công việc đó.",
+    "zh" : "定义业务的状态而设定适合于业务特性的业务趋势。"
+  },
+  "미선택" : {
+    "en" : "Unselect",
+    "ja" : "未選択",
+    "vi" : "Bỏ chọn",
+    "zh" : "未选择"
+  },
+  "보고명을 입력하세요." : {
+    "en" : "Enter report name.",
+    "ja" : "報告名を入力してください。",
+    "vi" : "Nhập tiêu đề báo cáo.",
+    "zh" : "请输入报告名。"
+  },
+  "{0} 항목은 필수선택항목입니다." : {
+    "en" : "{0} item is required.",
+    "ja" : "{0}項目は必須選択項目です。",
+    "vi" : "{0} là mục bắt buộc.",
+    "zh" : "{0} 项目是必须选择的项目。"
+  },
+  "목록에서 조회할 게시글을 선택하세요." : {
+    "en" : "Please select the post that you wish to view from the list.",
+    "ja" : "リストから照会する記事を選択してください。",
+    "vi" : "Vui lòng chọn từ danh sách để xem các bài viết.",
+    "zh" : "请在目录选择要查询的布告文章。"
+  },
+  "직위/직책" : {
+    "en" : "Position/Duty",
+    "ja" : "職位/役職",
+    "vi" : "Vị trí/Phận sự",
+    "zh" : "职位/职责"
+  },
+  "다중선택" : {
+    "en" : "Multi-select",
+    "ja" : "複数選択",
+    "vi" : "Nhiều lựa chọn",
+    "zh" : "多种选择"
+  },
+  "다음상태" : {
+    "en" : "Next status",
+    "ja" : "次の状態",
+    "vi" : "Trạng thái tiếp theo",
+    "zh" : "下面状态"
+  },
+  "임시보관함" : {
+    "en" : "Drafts",
+    "ja" : "一時保管",
+    "vi" : "Bản thảo",
+    "zh" : "草稿箱"
+  },
+  "라벨을 선택 해주세요." : {
+    "en" : "Select a label.",
+    "ja" : "ラベルを選択してください。",
+    "vi" : "Chọn một nhãn.",
+    "zh" : "请选择标签。"
+  },
+  "자동 분류" : {
+    "en" : "Auto-Sort",
+    "ja" : "自動分類",
+    "vi" : "Sắp xếp tự động",
+    "zh" : "自动分类"
+  },
+  "반려 사유 입력" : {
+    "en" : "Enter a reason for rejection.",
+    "ja" : "差戻し理由を入力",
+    "vi" : "Nhập lý do từ chối",
+    "zh" : "输入退回原因"
+  },
+  "업무 생성 권한" : {
+    "en" : "Permission to Create Tasks",
+    "ja" : "業務作成権限",
+    "vi" : "Quyền được tạo công việc",
+    "zh" : "建立业务权限"
+  },
+  "차트" : {
+    "en" : "Chart",
+    "ja" : "チャート",
+    "vi" : "Biểu đồ",
+    "zh" : "图表"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部門",
+    "vi" : "Phòng ban/bộ phận",
+    "zh" : "部门"
+  },
+  "보고함을 선택해주세요." : {
+    "en" : "Select a Report Box.",
+    "ja" : "報告Boxを選択してください。",
+    "vi" : "Chọn thư mục báo cáo",
+    "zh" : "请选择报告箱。"
+  },
+  "업무/보고 관리" : {
+    "en" : "Manage Tasks/Reports",
+    "ja" : "業務/報告の管理",
+    "vi" : "Quản lý công việc/báo cáo",
+    "zh" : "业务/报告管理"
+  },
+  "보고에 댓글이 등록되었습니다." : {
+    "en" : "A comment has been added to the report.",
+    "ja" : "レポートにコメントが登録されました。",
+    "vi" : "Bình luận đã được thêm vào báo cáo.",
+    "zh" : "报告已添加评论。"
+  },
+  "{0} 항목은 {1}자이내로 입력해야합니다." : {
+    "en" : "{0} item must be {1} or less than characters.",
+    "ja" : "{0}項目は{1}文字以内で入力する必要があります。",
+    "vi" : "Mục {0} phải ít hơn {1} ký tự.",
+    "zh" : "{0} 项目得输入 {1}字以内。"
+  },
+  "포함된 경우" : {
+    "en" : "If included",
+    "ja" : "含まれる場合",
+    "vi" : "Nếu bao gồm",
+    "zh" : "包括的话"
+  },
+  "수정 되었습니다." : {
+    "en" : "It has been modified.",
+    "ja" : "修正が完了しました。",
+    "vi" : "Đã sửa đổi.",
+    "zh" : "已修改。"
+  },
+  "자동저장 시간을 입력해주세요." : {
+    "en" : "Please set auto-save interval.",
+    "ja" : "自動保存時間を入力してください。",
+    "vi" : "Vui lòng thiết lập khoảng thời gian tự động lưu.",
+    "zh" : "请输入自动保存时间。"
+  },
+  "등록된 분류가 없습니다." : {
+    "en" : "No registered categories.",
+    "ja" : "登録されたカテゴリがありません。",
+    "vi" : "Không danh mục nào được thêm vào",
+    "zh" : "没有登录的分类。"
+  },
+  "회수하였습니다." : {
+    "en" : "The item has been retrieved.",
+    "ja" : "回収しました。",
+    "vi" : "Mục này đã bị thu hồi.",
+    "zh" : "回收完了。"
+  },
+  "첨부파일 개수" : {
+    "en" : "Number of attachments",
+    "ja" : "添付ファイル数",
+    "vi" : "Số file đính kèm",
+    "zh" : "附件数量"
+  },
+  "템플릿" : {
+    "en" : "Template",
+    "ja" : "テンプレート",
+    "vi" : "Mẫu",
+    "zh" : "模板"
+  },
+  "업무의 기본 환경을 설정합니다." : {
+    "en" : "Set the basic preferences for the task.",
+    "ja" : "業務の基本環境を設定します。",
+    "vi" : "Cài đặt môi trường cho công việc",
+    "zh" : "设定业务的基本环境"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "업무 유형을 입력해주세요." : {
+    "en" : "Enter task type.",
+    "ja" : "業務の種類を入力してください。",
+    "vi" : "Thêm loại hình công việc",
+    "zh" : "请输入业务类型。"
+  },
+  "모든 업무함" : {
+    "en" : "Taskbox (All)",
+    "ja" : "すべての業務",
+    "vi" : "Tất cả công việc",
+    "zh" : "所有业务箱"
+  },
+  "전체회수하였습니다." : {
+    "en" : "You have Retrieved All.",
+    "ja" : "全体回収しました。",
+    "vi" : "Bạn đã thu thập tất cả.",
+    "zh" : "全体回收完了。"
+  },
+  "검색 조건" : {
+    "en" : "Search Conditions",
+    "ja" : "検索条件",
+    "vi" : "Điều kiện tìm kiếm",
+    "zh" : "搜索条件"
+  },
+  "업무/보고함" : {
+    "en" : "Task/Report Box",
+    "ja" : "業務/報告フォルダ",
+    "vi" : "Thư mục công việc/báo cáo",
+    "zh" : "业务/报告箱"
+  },
+  "포함하는" : {
+    "en" : "Including",
+    "ja" : "含む",
+    "vi" : "Bao gồm",
+    "zh" : "包括"
+  },
+  "부서 관리자" : {
+    "en" : "Department Manager",
+    "ja" : "部署管理者",
+    "vi" : "Quản lý phòng ban/bộ phận",
+    "zh" : "部门管理者"
+  },
+  "토요일제외" : {
+    "en" : "Except Saturday",
+    "ja" : "土曜日を除く",
+    "vi" : "Ngoại trừ thứ bảy",
+    "zh" : "排除星期六"
+  },
+  "작성할 공동보고가 등록되었습니다." : {
+    "en" : "The joint report to be created has been registered.",
+    "ja" : "作成する共同報告が登録されました。",
+    "vi" : "Báo cáo chung sẽ được viết đã được đăng ký.",
+    "zh" : "要写的共同报告登录完了。"
+  },
+  "사진 목록" : {
+    "en" : "Photo List",
+    "ja" : "写真リスト",
+    "vi" : "Hình ảnh",
+    "zh" : "照片目录"
+  },
+  "이 보고의 주소가 복사되었습니다.\\n업무보고나 메신저 창에서 Ctrl+V를 눌러보세요." : {
+    "en" : "The address of this report has been copied.\\n Press Ctrl+V on the task report window or messenger window.",
+    "ja" : "この報告のアドレスがコピーされました。\\ nの業務報告やメッセンジャーのウィンドウでCtrl + Vを押してみてください。",
+    "vi" : "Địa chỉ của báo cáo này đã được sao chép. \\n Hãy bấm Ctrl + V trên báo cáo tác vụ hoặc cửa sổ Messenger.",
+    "zh" : "这个报告的地址拷贝完了。\\n请在业务报告或者聊天工具窗按Ctrl+V。"
+  },
+  "회사" : {
+    "en" : "Company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "조회권한이 없습니다." : {
+    "en" : "You're not authorized to review.",
+    "ja" : "照会権限がありません。",
+    "vi" : "Không có quyền hạn đọc.",
+    "zh" : "您没有查看权限。"
+  },
+  "보고 관리" : {
+    "en" : "Manage Tasks/Reports",
+    "ja" : "業務/報告の管理",
+    "vi" : "Quản lý công việc/báo cáo",
+    "zh" : "业务/报告管理"
+  },
+  "이(고)" : {
+    "en" : "And",
+    "ja" : "で（あり）",
+    "vi" : "và",
+    "zh" : "是(和)"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời hạn",
+    "zh" : "期间"
+  },
+  "받는사람" : {
+    "en" : "Recipient (To)",
+    "ja" : "宛先",
+    "vi" : "Đến",
+    "zh" : "收件人"
+  },
+  "-선택-" : {
+    "en" : "-Select-",
+    "ja" : "-選択-",
+    "vi" : "-chọn-",
+    "zh" : "-选择-"
+  },
+  "업무함" : {
+    "en" : "Taskbox",
+    "ja" : "業務フォルダ情報",
+    "vi" : "Thư mục công việc",
+    "zh" : "业务箱"
+  },
+  "종료일자를 입력해주세요." : {
+    "en" : "Please select an end date.",
+    "ja" : "終了日を入力してください。",
+    "vi" : "Hãy nhập ngày kết thúc",
+    "zh" : "请输入结束日子。"
+  },
+  "승인" : {
+    "en" : "Approve",
+    "ja" : "承認",
+    "vi" : "Phê duyệt",
+    "zh" : "承认"
+  },
+  "행 추가" : {
+    "en" : "Insert row",
+    "ja" : "行の追加",
+    "vi" : "Chèn hàng",
+    "zh" : "追加行"
+  },
+  "반복" : {
+    "en" : "Repeat",
+    "ja" : "繰り返し",
+    "vi" : "Lặp lại",
+    "zh" : "反复"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "업무 상태" : {
+    "en" : "Task Status",
+    "ja" : "業務状態",
+    "vi" : "Tình trạng công việc",
+    "zh" : "业务状态"
+  },
+  "알림대상" : {
+    "en" : "Send notifications to",
+    "ja" : "通知対象",
+    "vi" : "Gửi thông báo đến",
+    "zh" : "提醒对象"
+  },
+  "{0}을 <strong>{1}</strong>했습니다." : {
+    "en" : "You have <strong>{1}</strong> {0}.",
+    "ja" : "{0}を<strong>{1}</strong>しました。",
+    "vi" : "Đã <strong>{1}</strong> {0}.",
+    "zh" : "已将{0}进行 <strong>{1}</strong>。"
+  },
+  "공동작성자를 먼저 입력해주세요" : {
+    "en" : "Please enter the co-authors first.",
+    "ja" : "共同作成者を先に入力してください",
+    "vi" : "Thêm các đồng tác giả vào trước",
+    "zh" : "请先输入共同制作人。"
+  },
+  "기간 설정" : {
+    "en" : "Period settings",
+    "ja" : "期間設定",
+    "vi" : "Thiết lập thời hạn",
+    "zh" : "设定期间"
+  },
+  "에디터 영역이 존재하는 업무에 한해 내용이 추가됩니다." : {
+    "en" : "Content can be added only to the tasks with an editor area.",
+    "ja" : "変種領域が存在する業務に限り、内容が追加されます。",
+    "vi" : "Có thể thêm nội dung vào các tác vụ trong khu vực trình biên tập.",
+    "zh" : "对于存在编辑器领域的业务追加内容。"
+  },
+  "이력보기" : {
+    "en" : "View history",
+    "ja" : "履歴を見る",
+    "vi" : "Xem lịch sử",
+    "zh" : "看履历"
+  },
+  "확인" : {
+    "en" : "Confirm",
+    "ja" : "確認",
+    "vi" : "Xác nhận",
+    "zh" : "确认"
+  },
+  "보고서보기" : {
+    "en" : "View report",
+    "ja" : "報告書表示",
+    "vi" : "Xem báo cáo",
+    "zh" : "看报告"
+  },
+  "내 보고함" : {
+    "en" : "My Report Box",
+    "ja" : "自分の報告ボックス",
+    "vi" : "Hòm báo cáo của tôi",
+    "zh" : "我的报告书"
+  },
+  "보고 저장시 수신자에게 바로 전달" : {
+    "en" : "Immediately forward to recipient when saving the report.",
+    "ja" : "報告保存時に受信者にすぐに転送",
+    "vi" : "Chuyển tiếp đến người nhận khi lưu báo cáo",
+    "zh" : "存储报告时会直接传达到收信人"
+  },
+  "수&nbsp;&nbsp;신&nbsp;&nbsp;자" : {
+    "en" : "Recipient",
+    "ja" : "受&nbsp;&nbsp;信&nbsp;&nbsp;者",
+    "vi" : "Người nhận",
+    "zh" : "收&nbsp;&nbsp;信&nbsp;&nbsp;人"
+  },
+  "보고 내용" : {
+    "en" : "Report content",
+    "ja" : "報告内容",
+    "vi" : "Nội dung báo cáo",
+    "zh" : "报告内容"
+  },
+  "반려사유는 공백 포함 {0} 글자 이하여야 합니다." : {
+    "en" : "A reason for rejection must be less than {0} letters including space.",
+    "ja" : "差戻し理由は、スペースを含む{0}文字以下である必要があります。",
+    "vi" : "Lý do từ chối phải chứa ít hơn {0} ký tự, bao gồm cả dấu cách.",
+    "zh" : "退回原因得输入包括空白{0}字以下。"
+  },
+  "알림방법" : {
+    "en" : "Notification method",
+    "ja" : "通知方法",
+    "vi" : "Phương pháp thông báo",
+    "zh" : "提醒方法"
+  },
+  "읽음 시 해제" : {
+    "en" : "Icon is removed when you read",
+    "ja" : "既読時解除",
+    "vi" : "Biểu tượng sẽ được gỡ bỏ khi bạn đã đọc",
+    "zh" : "读时解除"
+  },
+  "분류를 선택해주세요." : {
+    "en" : "Please select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Vui lòng chọn một danh mục",
+    "zh" : "请选择分类。"
+  },
+  "조회" : {
+    "en" : "View",
+    "ja" : "照会",
+    "vi" : "Xem",
+    "zh" : "查询"
+  },
+  "검색조건으로 사용됨" : {
+    "en" : "Used as a search condition",
+    "ja" : "検索条件に使用される",
+    "vi" : "Sử dụng dưới dạng điều kiện tìm kiếm",
+    "zh" : "使用为搜索条件"
+  },
+  "수정등록" : {
+    "en" : "Modify & Register",
+    "ja" : "修正登録",
+    "vi" : "Sửa đổi",
+    "zh" : "修改登录"
+  },
+  "관심 업무/보고" : {
+    "en" : "Interesting Tasks/Reports",
+    "ja" : "お気に入り業務/報告",
+    "vi" : "Công việc/báo cáo nổi bật",
+    "zh" : "关心业务/报告"
+  },
+  "라벨 정보" : {
+    "en" : "Label information",
+    "ja" : "ラベル情報",
+    "vi" : "Thông tin nhãn",
+    "zh" : "标签信息"
+  },
+  "활용기간" : {
+    "en" : "Period of use",
+    "ja" : "活用期間",
+    "vi" : "Thời hạn sử dụng",
+    "zh" : "应用期间"
+  },
+  "값" : {
+    "en" : "value",
+    "ja" : "値",
+    "vi" : "giá trị",
+    "zh" : "值"
+  },
+  "상세보기" : {
+    "en" : "View details",
+    "ja" : "詳細表示",
+    "vi" : "Xem thông tin chi tiết",
+    "zh" : "详细看"
+  },
+  "상태변경 버튼명" : {
+    "en" : "Change Status button name",
+    "ja" : "状態変更のボタン名",
+    "vi" : "Thay đổi tên nút trạng thái",
+    "zh" : "状态变更按钮名"
+  },
+  "폼 디자이너" : {
+    "en" : "Form designer",
+    "ja" : "フォームデザイナ",
+    "vi" : "Công cụ thiết kể bản mẫu",
+    "zh" : "格设计师"
+  },
+  "최근 1달" : {
+    "en" : "Last Month",
+    "ja" : "最近1ヶ月",
+    "vi" : "1 tháng trước",
+    "zh" : "最近一个月"
+  },
+  "시작 날짜는 오늘 날짜 이후부터 설정할 수 있습니다." : {
+    "en" : "The start date must be set after today's date.",
+    "ja" : "開始日は今日の日付以降に設定することができます。",
+    "vi" : "Ngày bắt đầu mà bạn muốn thiết lập phải là ngày sau ngày hôm nay.",
+    "zh" : "开始日子可以设定为今日以后的日子。"
+  },
+  "공개여부" : {
+    "en" : "Public Visibility",
+    "ja" : "公開可否",
+    "vi" : "Tính công khai",
+    "zh" : "公开状态"
+  },
+  "지연" : {
+    "en" : "Delay",
+    "ja" : "遅延",
+    "vi" : "Hoãn",
+    "zh" : "延迟"
+  },
+  "(으)로 변경하시겠습니까?" : {
+    "en" : "Change to (  )?",
+    "ja" : "に変更しますか？",
+    "vi" : "Bạn có chắc mình muốn đổi thành () không?",
+    "zh" : "要变更为（）吗？"
+  },
+  "추가되는 각각의 조건은 AND 조건으로 처리되며, 조건 항목이 여러 개일 경우 콤마(,)로 구분하세요." : {
+    "en" : "Additional conditions will be processed with the AND rule. If there are several rules, separate them with a comma (,).",
+    "ja" : "追加される各条件はAND条件で処理され、条件項目が複数の場合はコンマ(,)で区別してください。",
+    "vi" : "Quy tắc dạng VÀ sẽ được áp dụng đối với các quy tắc sắp được thêm vào. Nếu có nhiều quy tắc, hãy ngăn cách chúng bằng dấu phẩy (,).",
+    "zh" : "追加的各个条件处理为AND 条件，而且条件项目有多种的话利用逗号（，）来区分。"
+  },
+  "파일을 선택하세요." : {
+    "en" : "Select a file.",
+    "ja" : "ファイルを選択してください.",
+    "vi" : "Chọn file",
+    "zh" : "请选择文件。"
+  },
+  "라벨을 입력해주세요." : {
+    "en" : "Enter a label.",
+    "ja" : "ラベルを入力してください。",
+    "vi" : "Thêm nhãn.",
+    "zh" : "请输入标签。"
+  },
+  "보고함을 선택하세요." : {
+    "en" : "Please select a report.",
+    "ja" : "報告箱を選択してください。",
+    "vi" : "Vui lòng chọn hộp báo cáo.",
+    "zh" : "请选择通报箱。"
+  },
+  "영구게시" : {
+    "en" : "Post Permanently",
+    "ja" : "永久掲示",
+    "vi" : "Đăng vô hạn",
+    "zh" : "永久布告"
+  },
+  "최소 - 최대길이" : {
+    "en" : "Minimum-Maximum Length",
+    "ja" : "最小-最大の長さ",
+    "vi" : "Chiều dài tối thiểu-tối đa",
+    "zh" : "最小-最大长度"
+  },
+  "{0}외 {1}명" : {
+    "en" : "{0} & {1} people",
+    "ja" : "{0}の他{1}名",
+    "vi" : "{0} và {1} khác",
+    "zh" : "{0}外 {1}名"
+  },
+  "라벨명을 입력하세요." : {
+    "en" : "Enter a label name.",
+    "ja" : "ラベル名を入力してください。",
+    "vi" : "Nhập tên nhãn.",
+    "zh" : "请输入标签名。"
+  },
+  "지시 보고" : {
+    "en" : "Order & Report",
+    "ja" : "指示報告",
+    "vi" : "Yêu cầu Và Báo cáo",
+    "zh" : "指示报告"
+  },
+  "분류" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "danh mục",
+    "zh" : "样式分类"
+  },
+  "보고일" : {
+    "en" : "Report date",
+    "ja" : "報告日",
+    "vi" : "Ngày báo cáo",
+    "zh" : "报告日"
+  },
+  "차트 제목" : {
+    "en" : "Chart title",
+    "ja" : "チャートタイトル",
+    "vi" : "Tiêu đề biểu đồ",
+    "zh" : "图表题目"
+  },
+  "에서 보고를 작성해주세요" : {
+    "en" : "Write report on ()",
+    "ja" : "で報告を作成してください",
+    "vi" : "Viết báo cáo về ()",
+    "zh" : "请在 写报告。"
+  },
+  "사이" : {
+    "en" : "Between",
+    "ja" : "間",
+    "vi" : "Giữa",
+    "zh" : "之间"
+  },
+  "관심 보고함" : {
+    "en" : "Interested Report Box",
+    "ja" : "お気に入り報告ボックス",
+    "vi" : "Hòm báo cáo quan tâm",
+    "zh" : "特别关心报告书"
+  },
+  "등록된 자동분류 정보가 없습니다." : {
+    "en" : "There is no registered auto-sort information.",
+    "ja" : "登録された自動分類情報がありません。",
+    "vi" : "Không có thông tin tự động sắp xếp.",
+    "zh" : "没有登录的自动分类信息。"
+  },
+  "모두 선택" : {
+    "en" : "Select All",
+    "ja" : "すべて選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "진행" : {
+    "en" : "progress",
+    "ja" : "進行",
+    "vi" : "tiến trình",
+    "zh" : "进行"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "회수하시겠습니까?" : {
+    "en" : "Would you like to retrieve it?",
+    "ja" : "回収しますか？",
+    "vi" : "Bạn có muốn thu thập nó không?",
+    "zh" : "要回收吗？"
+  },
+  "회사 또는 스페이스 목록이 존재하지 않습니다." : {
+    "en" : "Company or Space does not exist",
+    "ja" : "会社またはスペースのリストが存在しません。",
+    "vi" : "Danh sách công ty hoặc Space không tồn tại.",
+    "zh" : "公司或空间目录不存在。"
+  },
+  "담당자별" : {
+    "en" : "By PIC (Person in Charge)",
+    "ja" : "担当者別",
+    "vi" : "Bởi người phụ trách",
+    "zh" : "各个负责人"
+  },
+  "선택한 라벨에 속한 하위 라벨의 상하 위치를 변경합니다" : {
+    "en" : "Reorder the sub-labels that belong to the selected label (up/down).",
+    "ja" : "選択したラベルに属する下位ラベルの上下位置を変更します。",
+    "vi" : "Sắp xếp lại các nhãn trong phần nhãn được chọn theo chiều lên và xuống.",
+    "zh" : "变更选择的邮件输入的下位标签的上下位置。"
+  },
+  "전체회수하시겠습니까?" : {
+    "en" : "Would you like to retrieve all?",
+    "ja" : "全体回収しますか？",
+    "vi" : "Bạn có muốn thu hồi tất cả không?",
+    "zh" : "要全部回收吗？"
+  },
+  "새창" : {
+    "en" : "New window",
+    "ja" : "新しいウィンドウ",
+    "vi" : "Cửa sổ mới",
+    "zh" : "新窗口"
+  },
+  "제목을 입력해주세요." : {
+    "en" : "Enter a title.",
+    "ja" : "件名を入力してください。",
+    "vi" : "Nhập chủ đề",
+    "zh" : "请输入题目."
+  },
+  "시작일을 입력해주세요." : {
+    "en" : "Please enter a start date.",
+    "ja" : "開始日を入力してください。",
+    "vi" : "Vui lòng chọn ngày bắt đầu.",
+    "zh" : "请输入开始日。"
+  },
+  "이 보고를" : {
+    "en" : "This task",
+    "ja" : "この報告を",
+    "vi" : "Báo cáo này",
+    "zh" : "把这个报告"
+  },
+  "기본수신자" : {
+    "en" : "Default recipients",
+    "ja" : "基本の受信者",
+    "vi" : "Người nhận mặc định",
+    "zh" : "基本收信人"
+  },
+  "최대값" : {
+    "en" : "Max. value",
+    "ja" : "最大値",
+    "vi" : "Giá trị tối đa",
+    "zh" : "最多价"
+  },
+  "등록한 업무" : {
+    "en" : "Tasks that you have added",
+    "ja" : "登録した業務",
+    "vi" : "Công việc bạn đã thêm",
+    "zh" : "登录的业务"
+  },
+  "템플릿 선택" : {
+    "en" : "Select Template",
+    "ja" : "テンプレート選択",
+    "vi" : "Chọn mẫu",
+    "zh" : "选择模板"
+  },
+  "사용할수 있는 템플릿명입니다." : {
+    "en" : "The current template name can be used.",
+    "ja" : "使用できるテンプレート名です。",
+    "vi" : "Đây là tên mẫu có thể sử dụng.",
+    "zh" : "可以使用的模板名。"
+  },
+  "보고자" : {
+    "en" : "Reported by",
+    "ja" : "報告者",
+    "vi" : "Báo cáo bởi",
+    "zh" : "报告人"
+  },
+  "글 등록" : {
+    "en" : "Upload Post",
+    "ja" : "記事登録",
+    "vi" : "Thêm tin nhắn",
+    "zh" : "登录文章"
+  },
+  "책임자" : {
+    "en" : "Manager",
+    "ja" : "責任者",
+    "vi" : "Quản trị viên",
+    "zh" : "负责人"
+  },
+  "부서 선택" : {
+    "en" : "Select department",
+    "ja" : "部署選択",
+    "vi" : "Chọn phòng ban/bộ phận",
+    "zh" : "选择部门"
+  },
+  "보고 메인" : {
+    "en" : "Report Home",
+    "ja" : "報告メイン",
+    "vi" : "Màn hình chính báo cáo",
+    "zh" : "报告主页"
+  },
+  "모든업무함" : {
+    "en" : "Taskbox (All)",
+    "ja" : "すべての業務",
+    "vi" : "Tất cả công việc",
+    "zh" : "所有业务箱"
+  },
+  "보고서가 승인되었습니다." : {
+    "en" : "Report has been approved.",
+    "ja" : "報告書が承認されました。",
+    "vi" : "Báo cáo được phê duyệt",
+    "zh" : "报告书承认完了。"
+  },
+  "삭제할 라벨을 선택해주세요." : {
+    "en" : "Select the label you want to delete.",
+    "ja" : "削除するラベルを選択してください。",
+    "vi" : "Chọn nhãn mà bạn muốn xóa.",
+    "zh" : "请选择要删除的标签。"
+  },
+  "업무 수정" : {
+    "en" : "Modify work",
+    "ja" : "業務修正",
+    "vi" : "Sửa đổi công việc",
+    "zh" : "修改业务"
+  },
+  "게시&nbsp;제목" : {
+    "en" : "Title",
+    "ja" : "掲示&nbsp;件名",
+    "vi" : "tiêu đề bài đăng",
+    "zh" : "公告&nbsp;题目"
+  },
+  "일요일제외" : {
+    "en" : "Except Sunday",
+    "ja" : "日曜日を除く",
+    "vi" : "Ngoại trừ chủ nhật",
+    "zh" : "排除星期天"
+  },
+  "<strong>{0}</strong> 님에 의해 수정 중입니다. 조회만 가능합니다." : {
+    "en" : "It is being modified by <strong>{0}</strong>. You can only view the content.",
+    "ja" : "<strong>{0}</strong> さんが修正中です。照会のみ可能です。",
+    "vi" : "Đã được sử đổi bởi <strong>{0}</strong>. Bạn chỉ có thể xem Nhập.",
+    "zh" : "被<strong>{0}</strong>  修改中。只能进行查询。"
+  },
+  "매일 반복" : {
+    "en" : "Repeat everyday",
+    "ja" : "毎日繰り返し",
+    "vi" : "Lặp lại mỗi ngày",
+    "zh" : "每天反复"
+  },
+  "버튼명을 입력하세요." : {
+    "en" : "Enter a button name.",
+    "ja" : "ボタン名を入力してください。",
+    "vi" : "Nhập tên nút.",
+    "zh" : "请输入按钮名。"
+  },
+  "업무명" : {
+    "en" : "Task Name",
+    "ja" : "業務名",
+    "vi" : "Tên công việc",
+    "zh" : "业务名"
+  },
+  "{0}를 <strong>{1}</strong>했습니다." : {
+    "en" : "You have <strong>{1}</strong> {0}.",
+    "ja" : "{0}を<strong>{1}</strong>しました。",
+    "vi" : "Đã <strong>{1}</strong> {0}.",
+    "zh" : "已将{0}进行 <strong>{1}</strong>。"
+  },
+  "등록되었습니다." : {
+    "en" : "Successfully registered.",
+    "ja" : "登録されました。",
+    "vi" : "Đã thêm thành công.",
+    "zh" : "登录完了。"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "항상 비공개" : {
+    "en" : "Always keep private",
+    "ja" : "常に非公開",
+    "vi" : "Luôn giữ riêng tư",
+    "zh" : "始终非公开"
+  },
+  "라벨 위치" : {
+    "en" : "Label location",
+    "ja" : "ラベル位置",
+    "vi" : "Vị trí nhãn",
+    "zh" : "标签位置"
+  },
+  "업무 현황" : {
+    "en" : "Task status",
+    "ja" : "業務の状況",
+    "vi" : "Tình trạng tác vụ",
+    "zh" : "业务现况"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다. 이페이지에서 벗어나시겠습니까?" : {
+    "en" : "All progress will be lost. Are you sure you want to leave this page?",
+    "ja" : "現在作成中の内容がすべて削除されます。このページから移動しますか？",
+    "vi" : "Mọi thứ bạn đang soạn thảo giờ sẽ bị mất sạch. Bạn có chắc là mình muốn rời khỏi trang này không?",
+    "zh" : "现在制作中的业务都会被删除。要离开这一页吗？"
+  },
+  "라벨" : {
+    "en" : "Label",
+    "ja" : "ラベル",
+    "vi" : "Nhãn",
+    "zh" : "标签"
+  },
+  "시작 상태" : {
+    "en" : "Start status",
+    "ja" : "開始状態",
+    "vi" : "Trạng thái Bắt đầu",
+    "zh" : "开始状态"
+  },
+  "사용자 설정" : {
+    "en" : "User Settings",
+    "ja" : "ユーザー設定",
+    "vi" : "Thiết lập người dùng",
+    "zh" : "设定使用者"
+  },
+  "계속 반복" : {
+    "en" : "Repeat Continuously",
+    "ja" : "継続繰返し",
+    "vi" : "Tiếp tục lặp lại",
+    "zh" : "继续反继续反复"
+  },
+  "읽은보고" : {
+    "en" : "Read reports",
+    "ja" : "既読報告",
+    "vi" : "Đọc báo cáo",
+    "zh" : "已经读的报告"
+  },
+  "상태 알림" : {
+    "en" : "Status Notification",
+    "ja" : "状態通知",
+    "vi" : "Thông báo trạng thái",
+    "zh" : "提醒状态"
+  },
+  "데이터항목의 합계/평균은 추가컬럼중 정수타입만을 대상으로 합니다. \\n추가컬럼을 확인해주세요." : {
+    "en" : "Sum/Average' is only used for integer type items among added columns. \\n Please check the added columns.",
+    "ja" : "データ項目の合計/平均は、追加カラムの中の整数タイプのみを対象とします。 \\ n追加カラムを確認してください。",
+    "vi" : "Hàm tính tổng/trung bình của các mục dữ liệu được dùng cho kiểu số nguyên trong các cột bổ sung. \\n Vui lòng kiểm tra các cột bổ sung.",
+    "zh" : "数据项目的合计/平均只对象为追加专栏中的定数类型。"
+  },
+  "수신 확인" : {
+    "en" : "Check Receipt Status",
+    "ja" : "受信確認",
+    "vi" : "Xác nhận đã nhận được",
+    "zh" : "确认收信"
+  },
+  "님의 보고내용" : {
+    "en" : "Report content",
+    "ja" : "さんの報告内容",
+    "vi" : "Nội dung báo cáo được lập bởi",
+    "zh" : "的报告内容"
+  },
+  "선택한 업무를 이동시킬 업무함을 선택하세요." : {
+    "en" : "Select the taskbox to move the selected task.",
+    "ja" : "選択された業務を移動する業務Boxを選んでください。",
+    "vi" : "Chọn hộp công việc để di chuyển công việc được chọn",
+    "zh" : "请选择您选择的业务移动到的业务箱。"
+  },
+  "템플릿명 중복확인이 필요합니다" : {
+    "en" : "The template already exists.",
+    "ja" : "テンプレート名の重複を確認する必要があります。",
+    "vi" : "Cần kiểm tra trùng lặp tên mẫu.",
+    "zh" : "得确认模板名是否重复。"
+  },
+  "업무함명" : {
+    "en" : "Taskbox Name",
+    "ja" : "業務フォルダ名",
+    "vi" : "Tên thư mục công việc",
+    "zh" : "业务箱名"
+  },
+  "보고 정보" : {
+    "en" : "Report information",
+    "ja" : "報告情報",
+    "vi" : "Thông tin báo cáo",
+    "zh" : "报告信息"
+  },
+  "사진첨부" : {
+    "en" : "Attach images",
+    "ja" : "写真添付",
+    "vi" : "Đính kèm hình ảnh",
+    "zh" : "附加照片"
+  },
+  "삭제할 게시글을 선택하세요." : {
+    "en" : "Select a post to delete.",
+    "ja" : "削除する記事を選択してください。",
+    "vi" : "Chọn bài đăng cần xóa.",
+    "zh" : "请选择要删除的布告文章。"
+  },
+  "삭제 된 업무함입니다." : {
+    "en" : "This is a deleted taskbox.",
+    "ja" : "削除された業務フォルダです。",
+    "vi" : "Đây là thư mục tác vụ đã bị xóa.",
+    "zh" : "被删除的业务箱。"
+  },
+  "보고현황" : {
+    "en" : "Report status",
+    "ja" : "報告状況",
+    "vi" : "Trạng thái của báo cáo",
+    "zh" : "报告现况"
+  },
+  "{0}주마다" : {
+    "en" : "Every {0} week(s)",
+    "ja" : "{0}週ごと",
+    "vi" : "Mỗi {0} tuần",
+    "zh" : "每{0}周"
+  },
+  "등록된 보고가 없습니다." : {
+    "en" : "There are no registered reports.",
+    "ja" : "登録された報告がありません。",
+    "vi" : "Không có báo cáo nào được thêm vào.",
+    "zh" : "没有登录的报告。"
+  },
+  "실패" : {
+    "en" : "Failure",
+    "ja" : "失敗",
+    "vi" : "Thất bại",
+    "zh" : "失败"
+  },
+  "완료 상태가 없습니다." : {
+    "en" : "There is no 'Finished' status.",
+    "ja" : "完了状態がありません。",
+    "vi" : "Không có trạng thái \\\"Đã hoàn thành\\\"",
+    "zh" : "没有完了状态。"
+  },
+  "자동분류를 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete Auto-Sort?",
+    "ja" : "自動分類を削除しますか？",
+    "vi" : "Bạn có muốn xóa Sắp xếp tự động không?",
+    "zh" : "要删除自动分类码？"
+  },
+  "작성 권한이 없습니다." : {
+    "en" : "You don't have permission to write.",
+    "ja" : "作成権限がありません。",
+    "vi" : "Bạn không có quyền viết vào.",
+    "zh" : "没有制作权限。"
+  },
+  "보고자가 보고하기 선택하여 전달 사용 시에는 보고자가 보고하기를 클릭해야 수신자에게 보고가 전달됩니다." : {
+    "en" : "When using 'Reporter must select 'Report' to forward the report', the report will be delivered to the recipient only when the reporter clicks 'Report'.",
+    "ja" : "報告者が「報告する」選択して転送を使用する際には、報告者が報告するをクリックする必要があり、受信者に報告が送信されます。",
+    "vi" : "Bạn phải chọn mục \"Báo cáo\"' để tiến hành chuyển tiếp báo cáo của bạn đến người nhận.",
+    "zh" : "使用报告人选择进行报告后传达的话报告人点击进行报告才能给收信人传达报告。"
+  },
+  "{0}개이상 추가할 수 없습니다." : {
+    "en" : "You can't add more than {0}.",
+    "ja" : "{0}個以上は追加できません。",
+    "vi" : "Bạn không thể thêm nhiều hơn {0} tài liệu.",
+    "zh" : "{0}个以上不可追加"
+  },
+  "양식선택" : {
+    "en" : "Select a form",
+    "ja" : "フォーム選択",
+    "vi" : "Chọn bản mẫu",
+    "zh" : "选择样式"
+  },
+  "참&nbsp;&nbsp;조&nbsp;&nbsp;자" : {
+    "en" : "Cc Recipient",
+    "ja" : "参&nbsp;&nbsp;照&nbsp;&nbsp;者",
+    "vi" : "Người tham khảo",
+    "zh" : "参&nbsp;&nbsp;照&nbsp;&nbsp;人"
+  },
+  "이번주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "这个星期"
+  },
+  "왼쪽메뉴 포함" : {
+    "en" : "Include Left Menu",
+    "ja" : "左側メニューを含む",
+    "vi" : "Bao gồm menu bên trái",
+    "zh" : "包括右边项目"
+  },
+  "수정일" : {
+    "en" : "Date modified",
+    "ja" : "修正日",
+    "vi" : "Ngày sửa đổi",
+    "zh" : "修改日"
+  },
+  "컬럼 선택" : {
+    "en" : "Select a column",
+    "ja" : "カラム選択",
+    "vi" : "Chọn cột",
+    "zh" : "选择专栏"
+  },
+  "한번에 4개까지만 선택할 수 있습니다." : {
+    "en" : "You can select up to 4 at one time.",
+    "ja" : "一度に4個まで選択できます。",
+    "vi" : "Bạn có thể chọn tối đa 4 mục cùng một lúc.",
+    "zh" : "一次最多可以输入4个。"
+  },
+  "변경되었습니다" : {
+    "en" : "Changed successfully.",
+    "ja" : "変更されました。",
+    "vi" : "Đã thay đổi",
+    "zh" : "变更了。"
+  },
+  "별표하기" : {
+    "en" : "Star",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "星号"
+  },
+  "업무 템플릿을 활용하여 보다 신속하고 편리하게 업무를 생성하세요." : {
+    "en" : "Use task templates to create tasks faster and more conveniently.",
+    "ja" : "業務テンプレートを活用して、より迅速かつ簡単に業務を生成してみてください。",
+    "vi" : "Sử dụng các mẫu tác vụ để tạo tác vụ nhanh và thuận tiện hơn .",
+    "zh" : "请用业务模板又快又便利地生成业务。"
+  },
+  "공동보고작성 요청을 했습니다." : {
+    "en" : "A request for collaborative report writing has been made.",
+    "ja" : "共同レポート作成をリクエストをしました。",
+    "vi" : "Yêu cầu viết báo cáo chung đã được gửi.",
+    "zh" : "已发出共同报告撰写请求。"
+  },
+  "업무에 댓글이 등록되었습니다." : {
+    "en" : "A comment has been added to the task.",
+    "ja" : "業務のコメントが登録されました。",
+    "vi" : "Bình luận đã đăng ký trong công việc",
+    "zh" : "业务上有了回帖。"
+  },
+  "보고함명" : {
+    "en" : "Report name",
+    "ja" : "報告ボックス名",
+    "vi" : "Tên báo cáo",
+    "zh" : "报告箱名称"
+  },
+  "읽은업무" : {
+    "en" : "Read Tasks",
+    "ja" : "既読業務",
+    "vi" : "Công việc đã đọc",
+    "zh" : "已经读的业务"
+  },
+  "편집" : {
+    "en" : "Edit",
+    "ja" : "編集",
+    "vi" : "Chỉnh sửa",
+    "zh" : "编辑"
+  },
+  "목요일" : {
+    "en" : "Thursday",
+    "ja" : "木曜日",
+    "vi" : "Thứ năm",
+    "zh" : "周四"
+  },
+  "진행단계 추가" : {
+    "en" : "Add progress step",
+    "ja" : "進行段階の追加",
+    "vi" : "Thêm bước của tiến trình",
+    "zh" : "追加进行阶段"
+  },
+  "검색결과" : {
+    "en" : "Search Result",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "보고함 정보" : {
+    "en" : "Report Box Information",
+    "ja" : "報告フォルダ情報",
+    "vi" : "Thông tin thư mục báo cáo",
+    "zh" : "报告箱信息"
+  },
+  "분류 관리" : {
+    "en" : "Manage Categories",
+    "ja" : "カテゴリ管理",
+    "vi" : "Quản lý danh mục",
+    "zh" : "分类管理"
+  },
+  "사용자 선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "해당 게시글은 존재하지 않거나 조회 권한이 없습니다." : {
+    "en" : "The post doesn't exist or you don't have permission to view it.",
+    "ja" : "この記事は存在しないか、照会権限がありません。",
+    "vi" : "Bài viết không tồn tại hoặc bạn không có quyền để xem nó.",
+    "zh" : "有关帖子已经不存在或没有查询权限。"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Enter content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Loại văn bản",
+    "zh" : "请输入内容。"
+  },
+  "데이터" : {
+    "en" : "Data",
+    "ja" : "データ",
+    "vi" : "Dữ liệu",
+    "zh" : "数据"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter search keyword.",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ khóa tìm kiếm.",
+    "zh" : "请输入搜索语."
+  },
+  "업무 등록" : {
+    "en" : "Add work",
+    "ja" : "業務登録",
+    "vi" : "Thêm công việc",
+    "zh" : "登录业务"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "검색식" : {
+    "en" : "Search Formula",
+    "ja" : "検索式",
+    "vi" : "Quy tắc tìm kiếm",
+    "zh" : "所艘式"
+  },
+  "공개/비공개" : {
+    "en" : "Public/Private",
+    "ja" : "公開/非公開",
+    "vi" : "Công khai/Riêng tư",
+    "zh" : "公开/私密"
+  },
+  "일감에 댓글이 삭제되었습니다." : {
+    "en" : "The comment added to the task has been deleted.",
+    "ja" : "タスクにコメントが削除されました。",
+    "vi" : "Nhận xét trên công việc đã bị xóa",
+    "zh" : "工作上的回帖被删除了。"
+  },
+  "등록된 일감이 없습니다." : {
+    "en" : "No registered tasks.",
+    "ja" : "登録されたタスクがありません。",
+    "vi" : "Không có công việc để hiển thị.",
+    "zh" : "没有登录的工作。"
+  },
+  "이관할 업무가 없습니다." : {
+    "en" : "There are no tasks to transfer.",
+    "ja" : "移管する業務がありません。",
+    "vi" : "Không có công việc để chuyển.",
+    "zh" : "没有可以移交的业务。"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "파일첨부" : {
+    "en" : "Attach Files",
+    "ja" : "添付",
+    "vi" : "Đính kèm",
+    "zh" : "附加文档"
+  },
+  "업무 통계" : {
+    "en" : "Task statistics",
+    "ja" : "業務統計",
+    "vi" : "Thống kê tác vụ",
+    "zh" : "业务统计"
+  },
+  "{0}번 이후" : {
+    "en" : "after {0} times",
+    "ja" : "{0}回以降",
+    "vi" : "sau {0} lần",
+    "zh" : "{0}次以后"
+  },
+  "검색된 보고가 없습니다." : {
+    "en" : "There are no reports found.",
+    "ja" : "検索された報告がありません。",
+    "vi" : "Không tìm được báo cáo nào.",
+    "zh" : "没有搜索到的报告。"
+  },
+  "추가 후 계속" : {
+    "en" : "Add & Continue",
+    "ja" : "追加後に継続",
+    "vi" : "Thêm & Tiếp tục",
+    "zh" : "追加后继续"
+  },
+  "님에 의해 수정 중입니다. 조회만 가능합니다." : {
+    "en" : "It is being edited by ( ). You can only view the report at this moment.",
+    "ja" : "さんが修正中です。照会のみ可能です。",
+    "vi" : "() đang tiến hành chỉnh sửa. Bạn chỉ có thể xem.",
+    "zh" : "由于 修改中。只能查询。"
+  },
+  "필수" : {
+    "en" : "Required",
+    "ja" : "必須",
+    "vi" : "Bắt buộc",
+    "zh" : "必须"
+  },
+  "트리 아이콘" : {
+    "en" : "Tree icon",
+    "ja" : "ツリーアイコン",
+    "vi" : "Biểu tượng cây",
+    "zh" : "树图标"
+  },
+  "선택 컬럼" : {
+    "en" : "Selected column",
+    "ja" : "選択カラム",
+    "vi" : "Cột đã chọn",
+    "zh" : "选择的专栏"
+  },
+  "체크박스" : {
+    "en" : "Check box",
+    "ja" : "チェックBox",
+    "vi" : "Checkbox",
+    "zh" : "打勾框"
+  },
+  "조직도 선택" : {
+    "en" : "Select Organizational Chart",
+    "ja" : "組織図選択",
+    "vi" : "Chọn sơ đồ tổ chức",
+    "zh" : "选择组织图"
+  },
+  "보고서에 댓글이 등록되었습니다." : {
+    "en" : "A comment has been added to the report.",
+    "ja" : "報告書のコメントが登録されました。",
+    "vi" : "Bình luận về báo cáo",
+    "zh" : "报告书上有了回帖。"
+  },
+  "댓글" : {
+    "en" : "Comment",
+    "ja" : "コメント",
+    "vi" : "Bình luận",
+    "zh" : "留言"
+  },
+  "활동내역" : {
+    "en" : "Activity history",
+    "ja" : "活動内容",
+    "vi" : "Lịch sử hoạt động",
+    "zh" : "活动细目"
+  },
+  "승인자" : {
+    "en" : "Approver",
+    "ja" : "承認者",
+    "vi" : "Người phê duyệt",
+    "zh" : "承认者"
+  },
+  "차트에 표시할 사용자를 선택하세요. 최대 {0}명" : {
+    "en" : "Add users to display on the chart. Max. {0} people.",
+    "ja" : "チャートに表示するユーザーを選択してください。最大{0}人",
+    "vi" : "Thêm người dùng được hiển thị trên biểu đồ. Tối đa {0} người.",
+    "zh" : "请选择图表上要表示的使用者。最多{0}名"
+  },
+  "반복 종료일" : {
+    "en" : "End Date (Repeat)",
+    "ja" : "繰り返し終了日",
+    "vi" : "Kết thúc lặp lại",
+    "zh" : "反复结束日"
+  },
+  "등록자가 선택 옵션을 선택하면 기존에 등록된 비공개 보고는 비공개 상태로 유지됩니다." : {
+    "en" : "If the creator selects this option, existing private reports will remain private.",
+    "ja" : "登録者が選択オプションを選択すると、既存の非公開報告は非公開のまま維持されます。",
+    "vi" : "Nếu người tạo chọn tùy chọn này, các báo cáo riêng tư hiện có sẽ vẫn được giữ riêng tư.",
+    "zh" : "如果注册者选择该选项，则以前注册的私密报告将保持私密状态。"
+  },
+  "삭제된 보고입니다." : {
+    "en" : "The report has already been deleted.",
+    "ja" : "削除された報告です。",
+    "vi" : "Báo cáo này đã bị xóa.",
+    "zh" : "被删除的报告。"
+  },
+  "보고서를 임시저장하였습니다.\\n작성할보고에서 확인하세요." : {
+    "en" : "Your report has been saved as a draft. \\n It can be viewed in the 'Reports To Write' folder.",
+    "ja" : "報告書を下書き保存しました。\\n作成する報告で確認してください。",
+    "vi" : "Báo cáo của bạn đã được lưu dưới dạng bản thảo.\\n Bạn có thể xem báo cáo này trong thư mục 'Tạo báo cáo'.",
+    "zh" : "把报告书临时储存了。请在要写的报告确认一下。"
+  },
+  "수요일" : {
+    "en" : "Wednesday",
+    "ja" : "水曜日",
+    "vi" : "Thứ tư",
+    "zh" : "周三"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Vị trí",
+    "zh" : "职位"
+  },
+  "업무가 등록되었습니다." : {
+    "en" : "Task has been registered.",
+    "ja" : "業務が登録されました。",
+    "vi" : "Công việc đã đăng ký",
+    "zh" : "业务登录完了。"
+  },
+  "담당자 선택" : {
+    "en" : "Select a manager",
+    "ja" : "担当者選択",
+    "vi" : "Chọn người quản lý",
+    "zh" : "选择负责人"
+  },
+  "권한없음" : {
+    "en" : "No permission",
+    "ja" : "権限なし",
+    "vi" : "Không được cấp quyền.",
+    "zh" : "没有权限"
+  },
+  "텍스트" : {
+    "en" : "Text",
+    "ja" : "テキスト",
+    "vi" : "Văn bản",
+    "zh" : "文本"
+  },
+  "종료날짜" : {
+    "en" : "End date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日子"
+  },
+  "공동" : {
+    "en" : "Shared",
+    "ja" : "共同",
+    "vi" : "Cộng đồng",
+    "zh" : "共有"
+  },
+  "공동작성자를 입력해주세요." : {
+    "en" : "Enter co-authors.",
+    "ja" : "共同作成者を入力してください。",
+    "vi" : "Thêm các đồng tác giả",
+    "zh" : "请输入共同制作人。"
+  },
+  "조직도" : {
+    "en" : "Organizational Chart",
+    "ja" : "組職図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "설정시 매일 저녁 보고일 기준으로 3개월 이전 데이터는 안보이게 처리" : {
+    "en" : "Hide data before three months every evening based on the report day when activated.",
+    "ja" : "設定時、毎晩の報告日基準で3か月以前のデータは非表示に処理",
+    "vi" : "Khi thiết lập, dữ liệu 3 tháng trước theo tiêu chuẩn báo cáo tối mỗi ngày sẽ được xử lý không nhìn thấy.",
+    "zh" : "设定时，以每天晚上的报告日为基准，3个月前的数据将不会显示"
+  },
+  "등록한 보고" : {
+    "en" : "Reports that you have registered",
+    "ja" : "登録した報告",
+    "vi" : "Báo cáo bạn đã thêm",
+    "zh" : "登录的报告"
+  },
+  "단계명" : {
+    "en" : "Step name",
+    "ja" : "段階名",
+    "vi" : "Tên bước",
+    "zh" : "阶段名"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete content",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa đối tượng đầu vào",
+    "zh" : "删除输入内容"
+  },
+  "배치 유형을 선택하세요." : {
+    "en" : "Select an arrangement style.",
+    "ja" : "配置のタイプを選択してください。",
+    "vi" : "Chọn kiểu sắp xếp.",
+    "zh" : "请选择安排类型。"
+  },
+  "보고서가 등록되었습니다." : {
+    "en" : "Report has been registered.",
+    "ja" : "報告書が登録されました。",
+    "vi" : "Báo cáo đã đăng ký",
+    "zh" : "报告书登录完了。"
+  },
+  "조직도 연동" : {
+    "en" : "Link with Organizational Chart",
+    "ja" : "組織図連動",
+    "vi" : "Liên kết với sơ đồ tổ chức",
+    "zh" : "联动组织图"
+  },
+  "완료상태" : {
+    "en" : "Completion Status",
+    "ja" : "完了の状態",
+    "vi" : "Trạng thái \"Đã kết thúc\"",
+    "zh" : "完了状态"
+  },
+  "주마다, 다음 요일에 반복" : {
+    "en" : "Repeat on Day {0} of every week",
+    "ja" : "週ごと、次の曜日に繰り返し",
+    "vi" : "Lặp lại vào cùng một ngày mỗi tuần",
+    "zh" : "每周，下一周反复"
+  },
+  "접근할 수 없는 보고함입니다." : {
+    "en" : "You are not allowed to access this report box.",
+    "ja" : "アクセスできない報告フォルダです。",
+    "vi" : "Bạn không được phép truy cập vào thư mục báo cáo này.",
+    "zh" : "不可接近的报告箱。"
+  },
+  "수정 내역이 없습니다." : {
+    "en" : "No modification history",
+    "ja" : "修正履歴がありません。",
+    "vi" : "Không có lịch sử sửa đổi",
+    "zh" : "没有修改内容。"
+  },
+  "스페이스를 선택하세요." : {
+    "en" : "Select Space",
+    "ja" : "スペースを選択してください。",
+    "vi" : "Hãy chọn Space.",
+    "zh" : "请选择空间。"
+  },
+  "검색식 수정" : {
+    "en" : "Modify search formula.",
+    "ja" : "検索式修正",
+    "vi" : "Chỉnh sửa công thức tìm kiếm.",
+    "zh" : "修改搜索表达式"
+  },
+  "안읽은 댓글" : {
+    "en" : "Unread comments",
+    "ja" : "未読コメント",
+    "vi" : "Bình luận chưa đọc",
+    "zh" : "未读留言"
+  },
+  "첨부제한에는 파일첨부를 제한할 파일의 확장자를 입력합니다. 여러 개일 경우 세미콜론(;)으로 구분하세요." : {
+    "en" : "In 'Restrict Attachments', enter the type of files (extensions) that you wish to not allow to be added as an attachment. If there are multiple types of files that you wish to restrict, separate them with a semicolon (;).",
+    "ja" : "添付制限にはファイル添付を制限するファイルの拡張子を入力します。複数の場合、セミコロン(;)で区分してください。",
+    "vi" : "Trong mục Giới hạn đính kèm, hãy nhập phần mở rộng file sẽ giúp hạn chế đính kèm. Nếu có nhiều phần mở rộng, hãy phân tách chúng bằng dấu chấm phẩy (;).",
+    "zh" : "在制限附加上输入制限附加文件的文件扩展名。多数的话请用 semicolon(;)来区分。"
+  },
+  "컬럼 목록" : {
+    "en" : "Column list",
+    "ja" : "カラムリスト",
+    "vi" : "Danh sách cột",
+    "zh" : "专栏目录"
+  },
+  "업무함 정보" : {
+    "en" : "Taskbox Information",
+    "ja" : "業務フォルダ情報",
+    "vi" : "Thông tin thư mục công việc",
+    "zh" : "业务箱信息"
+  },
+  "라벨 미리보기" : {
+    "en" : "Label preview",
+    "ja" : "ラベルプレビュー",
+    "vi" : "Xem trước nhãn",
+    "zh" : "预览标签"
+  },
+  "등록일" : {
+    "en" : "Registration Date",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日"
+  },
+  "공개" : {
+    "en" : "Public (Open)",
+    "ja" : "公開",
+    "vi" : "Công khai",
+    "zh" : "公开"
+  },
+  "을 삭제하시겠습니까?" : {
+    "en" : "Do you want to delete ( )?",
+    "ja" : "を削除しますか？",
+    "vi" : "Bạn có muốn xóa ( ) không?",
+    "zh" : "要删除（）吗？"
+  },
+  "보고등록 요청이 승인되었습니다." : {
+    "en" : "The request for report registration has been approved.",
+    "ja" : "レポート登録リクエストが承認されました。",
+    "vi" : "Yêu cầu đăng ký báo cáo đã được chấp thuận.",
+    "zh" : "报告注册请求已批准。"
+  },
+  "금요일" : {
+    "en" : "Friday",
+    "ja" : "金曜日",
+    "vi" : "Thứ sáu",
+    "zh" : "周五"
+  },
+  "조직도 선택 버튼 사용" : {
+    "en" : "Use Organizational Chart Select Button",
+    "ja" : "組織図の選択ボタンを使用",
+    "vi" : "Sử dụng nút Chọn sơ đồ tổ chức",
+    "zh" : "使用组织图选择按钮"
+  },
+  "이동할 라벨을 선택해주세요." : {
+    "en" : "Select the label you want to move.",
+    "ja" : "移動するラベルを選択してください。",
+    "vi" : "Chọn nhãn bạn muốn di chuyển.",
+    "zh" : "请选择要移动的标签。"
+  },
+  "진행중, 승인대기 보고는 제외" : {
+    "en" : "Except for reports in progress or on standby for approval status",
+    "ja" : "進行中、承認待機報告は除外",
+    "vi" : "Ngoại trừ báo cáo đang tiến hành và chờ xác nhận",
+    "zh" : "进行中，批准等待报告除外"
+  },
+  "업무함을 선택해주세요." : {
+    "en" : "Select a taskbox.",
+    "ja" : "業務フォルダを選択してください。",
+    "vi" : "Chọn thư mục công việc.",
+    "zh" : "请选择业务箱"
+  },
+  "다음 상태" : {
+    "en" : "Next status",
+    "ja" : "次の状態",
+    "vi" : "Trạng thái tiếp theo",
+    "zh" : "下一个状态"
+  },
+  "알림" : {
+    "en" : "Notifications",
+    "ja" : "通知",
+    "vi" : "Thông báo",
+    "zh" : "提醒"
+  },
+  "동일한 업무흐름이 존재합니다." : {
+    "en" : "The same workflow exists.",
+    "ja" : "同一の業務フローが存在します。",
+    "vi" : "Đã tồn tại luồng công việc tương tự.",
+    "zh" : "存在同一个业务流程。"
+  },
+  "파이" : {
+    "en" : "Pie",
+    "ja" : "パイ",
+    "vi" : "Biểu đồ tròn",
+    "zh" : "派"
+  },
+  "현재 작성중인 내용이 모두 삭제됩니다." : {
+    "en" : "All progress will be lost.",
+    "ja" : "現在作成中の内容がすべて削除されます。",
+    "vi" : "Mọi thứ bạn đang soạn thảo giờ sẽ bị mất.",
+    "zh" : "现在写中的内容会全部被删除。"
+  },
+  "일감에 댓글이 등록되었습니다." : {
+    "en" : "A comment has been added to the task.",
+    "ja" : "タスクにコメントが登録されました。",
+    "vi" : "Bình luận trên công việc đã được đăng ký",
+    "zh" : "工作上有回帖了。"
+  },
+  "등록자 정보" : {
+    "en" : "Registrant information",
+    "ja" : "登録者情報",
+    "vi" : "Thông tin người đăng ký",
+    "zh" : "登录者信息"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Mô tả",
+    "zh" : "说明"
+  },
+  "인 경우" : {
+    "en" : "If",
+    "ja" : "の場合",
+    "vi" : "Nếu",
+    "zh" : "的话"
+  },
+  "분류 선택" : {
+    "en" : "Select Category",
+    "ja" : "カテゴリ選択",
+    "vi" : "Chọn hạng mục",
+    "zh" : "选择分类"
+  },
+  "숨김 처리되었습니다." : {
+    "en" : "It's in hidden mode.",
+    "ja" : "非表示処理されました。",
+    "vi" : "Ẩn thành công.",
+    "zh" : "已进行隐藏处理。"
+  },
+  "참조자 선택" : {
+    "en" : "Select Cc recipients",
+    "ja" : "参照者選択",
+    "vi" : "Chọn người nhận Cc",
+    "zh" : "选择参照人"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước bản in",
+    "zh" : "预览打印"
+  },
+  "회사전화" : {
+    "en" : "Company phone",
+    "ja" : "会社電話",
+    "vi" : "Số điện thoại công ty",
+    "zh" : "公司电话"
+  },
+  "사이드 메뉴 접기" : {
+    "en" : "Hide Sidebar Menu",
+    "ja" : "サイドメニューを閉じる",
+    "vi" : "Ẩn Menu phía bên",
+    "zh" : "折叠边线菜单"
+  },
+  "첨부파일을 선택해주세요." : {
+    "en" : "Select a file to attach.",
+    "ja" : "添付ファイルを選択してください。",
+    "vi" : "Chọn file để đính kèm.",
+    "zh" : "请选择附件。"
+  },
+  "반복 설정" : {
+    "en" : "Repeat setting",
+    "ja" : "繰り返し設定",
+    "vi" : "Lặp lại thiết lập",
+    "zh" : "设定反复"
+  },
+  "확인설정" : {
+    "en" : "Confirmation settings",
+    "ja" : "確認設定",
+    "vi" : "Thiết lập xác nhận",
+    "zh" : "设定确认"
+  },
+  "금" : {
+    "en" : "Fri",
+    "ja" : "金",
+    "vi" : "Thứ sáu",
+    "zh" : "星期五"
+  },
+  "한 개의 업무 또는 보고가 여러개의 조건에 해당되면 위 쪽에 위치한 조건이 먼저 적용됩니다." : {
+    "en" : "If a single task or report meets several conditions, the conditions located at the top will have the higher priority.",
+    "ja" : "一つの業務または報告が複数の条件に該当する場合、上位の条件が最初に適用されます。",
+    "vi" : "Nếu công việc hoặc báo cáo đáp ứng một số điều kiện, các điều kiện nào nằm ở phía trên sẽ được áp dụng trước.",
+    "zh" : "一个业务或者报告有关于多数的条件的话适用位于最上边的条件。"
+  },
+  "읽기/쓰기" : {
+    "en" : "Read/Write",
+    "ja" : "読む/書く",
+    "vi" : "Đọc/Viết",
+    "zh" : "读/写"
+  },
+  "업무함별" : {
+    "en" : "By Taskbox",
+    "ja" : "業務フォルダ別",
+    "vi" : "Theo thư mục công việc",
+    "zh" : "各个业务"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Chủ đề",
+    "zh" : "题目"
+  },
+  "흐름 색상" : {
+    "en" : "Flow color",
+    "ja" : "フローカラー",
+    "vi" : "Màu của luồng công việc",
+    "zh" : "潮流颜色"
+  },
+  "업무가 {0}반려되었습니다.{1}" : {
+    "en" : "Task {0} has been rejected. {1}",
+    "ja" : "業務が{0}差戻しされました。{1}",
+    "vi" : "Công việc {0} đã bị từ chối. {1}",
+    "zh" : "业务被{0}退回了。{1}"
+  },
+  "업무" : {
+    "en" : "Task",
+    "ja" : "業務",
+    "vi" : "Công việc",
+    "zh" : "业务"
+  },
+  "업무 복사" : {
+    "en" : "Copy a task",
+    "ja" : "業務コピー",
+    "vi" : "Sao chép tác vụ",
+    "zh" : "拷贝业务"
+  },
+  "보고서를 임시저장하였습니다.\\n임시보관함에서 확인하세요." : {
+    "en" : "Your report has been saved as a draft.\\nYou can view your report at 'Drafts'.",
+    "ja" : "報告書を下書き保存しました。\\n下書きフォルダで確認してください。",
+    "vi" : "Báo cáo của bạn đã được lưu dưới dạng bản thảo.\\n Bạn có thể xem báo cáo này trong thư mục Bản thảo.",
+    "zh" : "把报告书临时储存了。请在待发箱确认一下。"
+  },
+  "기한없음" : {
+    "en" : "No Due Date",
+    "ja" : "期限なし",
+    "vi" : "Không có ngày đến hạn",
+    "zh" : "没有期限"
+  },
+  "이동하시겠습니까?" : {
+    "en" : "Do you wish to move?",
+    "ja" : "移動しますか。",
+    "vi" : "Bạn chắc chắn muốn di chuyển chứ?",
+    "zh" : "确认移动吗？"
+  },
+  "업무 승인 요청입니다." : {
+    "en" : "Task Approval Request",
+    "ja" : "業務承認の要請です。",
+    "vi" : "Yêu cầu phê duyệt công việc",
+    "zh" : "是业务承认邀请。"
+  },
+  "토요일" : {
+    "en" : "Saturday",
+    "ja" : "土曜日",
+    "vi" : "Thứ bảy",
+    "zh" : "星期六"
+  },
+  "등록자가 선택" : {
+    "en" : "Author can select",
+    "ja" : "登録者が選択",
+    "vi" : "Tác giả có thể chọn",
+    "zh" : "登录人进行选择"
+  },
+  "최소 - 최대값" : {
+    "en" : "Minimum - Maximum Value",
+    "ja" : "最小 - 最大値",
+    "vi" : "Giá trị tối thiểu - tối đa",
+    "zh" : "最小 - 最多值"
+  },
+  "선택 할 수 없습니다." : {
+    "en" : "Cannot be selected.",
+    "ja" : "選択することができません。",
+    "vi" : "Bạn không được phép chọn phần này.",
+    "zh" : "不可选择。"
+  },
+  "너비" : {
+    "en" : "Width",
+    "ja" : "幅",
+    "vi" : "Chiều rộng",
+    "zh" : "宽度"
+  },
+  "행 삭제" : {
+    "en" : "Delete row",
+    "ja" : "行の削除",
+    "vi" : "Xóa hàng",
+    "zh" : "删除行"
+  },
+  "이전 내용" : {
+    "en" : "Previous content",
+    "ja" : "以前の内容",
+    "vi" : "Nội dung trước đó",
+    "zh" : "以前内容"
+  },
+  "기한 시작일자를 입력하세요." : {
+    "en" : "Select a start date.",
+    "ja" : "期限開始日を入力してください。",
+    "vi" : "Chọn ngày bắt đầu.",
+    "zh" : "请输入期限开始日子。"
+  },
+  "수신자" : {
+    "en" : "Recipient",
+    "ja" : "受信者",
+    "vi" : "Người nhận",
+    "zh" : "收信者"
+  },
+  "포함하지 않는" : {
+    "en" : "Not including",
+    "ja" : "含まない",
+    "vi" : "Không bao gồm",
+    "zh" : "不包括"
+  },
+  "컬럼명을 입력하세요." : {
+    "en" : "Enter column name.",
+    "ja" : "カラム名を入力してください。",
+    "vi" : "Nhập tên cột.",
+    "zh" : "请输入专栏名"
+  },
+  "범례" : {
+    "en" : "Legend",
+    "ja" : "凡例",
+    "vi" : "Chú thích",
+    "zh" : "范例"
+  },
+  "월요일" : {
+    "en" : "Monday",
+    "ja" : "月曜日",
+    "vi" : "Thứ hai",
+    "zh" : "周一"
+  },
+  "읽지않은 상태로 표시" : {
+    "en" : "Mark as 'Unread'",
+    "ja" : "未読状態に表示",
+    "vi" : "Đánh dấu là chưa đọc",
+    "zh" : "表示为没读状态"
+  },
+  "모바일에서 수정할 수 없는 부분이 내용에 있습니다.\\nPC버전을 이용해서 수정해주세요." : {
+    "en" : "It contains content that cannot be edited on a mobile phone.\\n Please edit it on your personal computer.",
+    "ja" : "モバイルでは修正できない部分が内容にありました。\\nPCバージョンを利用して修正してください。",
+    "vi" : "Thông báo này chứa nội dung mà bạn không thể thay đổi được trên điện thoại di động.\\n Vui lòng tiến hành chỉnh sửa trên máy tính cá nhân của bạn.",
+    "zh" : "有在移动通信不可修改的内容。请使用\\nPC版本进行修改。"
+  },
+  "업무관리" : {
+    "en" : "Manage Tasks",
+    "ja" : "業務管理",
+    "vi" : "Quản lý công việc",
+    "zh" : "管理业务"
+  },
+  "라벨지정" : {
+    "en" : "Assign Label",
+    "ja" : "ラベル指定",
+    "vi" : "Thiết lập nhãn",
+    "zh" : "指定标签"
+  },
+  "전체보고목록" : {
+    "en" : "List of All Reports",
+    "ja" : "すべての報告一覧",
+    "vi" : "Danh mục báo cáo toàn bộ",
+    "zh" : "整体报告目录"
+  },
+  "차트 제목을 입력하세요." : {
+    "en" : "Enter chart title.",
+    "ja" : "チャートのタイトルを入力してください。",
+    "vi" : "Thêm tiêu đề biểu đồ.",
+    "zh" : "请输入图表题目。"
+  },
+  "읽기" : {
+    "en" : "Read",
+    "ja" : "読む",
+    "vi" : "Đọc",
+    "zh" : "读"
+  },
+  "파일첨부 용량" : {
+    "en" : "Attachment size",
+    "ja" : "ファイル添付容量",
+    "vi" : "Kích thước file đính kèm",
+    "zh" : "附加文档用量"
+  },
+  "선택 업무를" : {
+    "en" : "Selected task",
+    "ja" : "選択業務を",
+    "vi" : "Tác vụ được chọn",
+    "zh" : "把选择的业务"
+  },
+  "화" : {
+    "en" : "Tue",
+    "ja" : "火",
+    "vi" : "Thứ ba",
+    "zh" : "星期二"
+  },
+  "{0}일마다" : {
+    "en" : "Every {0} day(s)",
+    "ja" : "{0}日ごと",
+    "vi" : "Cứ mỗi {0} ngày",
+    "zh" : "每{0}天"
+  },
+  "관심 업무" : {
+    "en" : "Interesting Tasks",
+    "ja" : "お気に入り業務/報告",
+    "vi" : "Công việc/báo cáo nổi bật",
+    "zh" : "关心业务/报告"
+  },
+  "등&nbsp;&nbsp;록&nbsp;&nbsp;일" : {
+    "en" : "Date added",
+    "ja" : "登&nbsp;&nbsp;録&nbsp;&nbsp;日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登&nbsp;&nbsp;录&nbsp;&nbsp;日"
+  },
+  "접기/펴기" : {
+    "en" : "Hide/Unhide",
+    "ja" : "閉じる/開く",
+    "vi" : "Ẩn/Bỏ ẩn",
+    "zh" : "折叠/打开"
+  },
+  "내용을 입력해주세요." : {
+    "en" : "Please add content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Vui lòng thêm nội dung.",
+    "zh" : "请输入内容。"
+  },
+  "반응형 레이아웃" : {
+    "en" : "Responsive layout",
+    "ja" : "反応型レイアウト",
+    "vi" : "Bố cục linh hoạt",
+    "zh" : "反映形布局"
+  },
+  "비정기보고" : {
+    "en" : "Non-periodic report",
+    "ja" : "非定期報告",
+    "vi" : "Báo cáo không định kỳ",
+    "zh" : "非定期报告"
+  },
+  "이관할 업무를 선택하세요." : {
+    "en" : "Select a task to transfer.",
+    "ja" : "移管する業務を選択してください。",
+    "vi" : "Chọn một công việc chuyển.",
+    "zh" : "请选择要移交的业务。"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "ファックス番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "업무/보고 현황" : {
+    "en" : "Task/Report Status",
+    "ja" : "業務/報告の状況",
+    "vi" : "Trạng thái công việc/báo cáo",
+    "zh" : "业务/报告现况"
+  },
+  "필드 추가" : {
+    "en" : "Add Field",
+    "ja" : "フィールド追加",
+    "vi" : "Chèn trường thông tin",
+    "zh" : "追加字段"
+  },
+  "알림시간을 입력하세요." : {
+    "en" : "Enter Notification Time.",
+    "ja" : "通知時間を入力してください。",
+    "vi" : "Chọn thời gian cho thông báo",
+    "zh" : "请输入提醒时间。"
+  },
+  "보고 수정" : {
+    "en" : "Modify report",
+    "ja" : "報告修正",
+    "vi" : "Sửa đổi báo cáo",
+    "zh" : "修改报告"
+  },
+  "업무 포틀릿" : {
+    "en" : "Task Portlets",
+    "ja" : "業務ポートレット",
+    "vi" : "Portlet công việc",
+    "zh" : "业务portlet"
+  },
+  "선택이관" : {
+    "en" : "Select & Transfer",
+    "ja" : "選択移管",
+    "vi" : "Chọn để chuyển",
+    "zh" : "选择移交"
+  },
+  "보고" : {
+    "en" : "Reports",
+    "ja" : "報告",
+    "vi" : "Báo cáo",
+    "zh" : "报告"
+  },
+  "보고 현황" : {
+    "en" : "report status",
+    "ja" : "報告の状況",
+    "vi" : "Trạng thái của báo cáo",
+    "zh" : "报告现况"
+  },
+  "진행중" : {
+    "en" : "In Progress",
+    "ja" : "進行中",
+    "vi" : "Đang trong tiến trình thực hiện",
+    "zh" : "进行中"
+  },
+  "기본 수신자" : {
+    "en" : "Default recipients",
+    "ja" : "基本受信者",
+    "vi" : "Người nhận mặc định",
+    "zh" : "基本收信人"
+  },
+  "자동 분류 정보" : {
+    "en" : "Auto-Sort information",
+    "ja" : "自動分類の情報",
+    "vi" : "Thông tin Sắp xếp tự động",
+    "zh" : "自动分类信息"
+  },
+  "중복확인" : {
+    "en" : "Check duplicates",
+    "ja" : "重複確認",
+    "vi" : "Kiểm tra trung lặp",
+    "zh" : "确认重复"
+  },
+  "조회확인" : {
+    "en" : "Check View Status",
+    "ja" : "照会確認",
+    "vi" : "Xem thông tin chi tiết",
+    "zh" : "确认查询"
+  },
+  "보고 통계" : {
+    "en" : "Report statistics",
+    "ja" : "報告統計",
+    "vi" : "Thống kê báo cáo",
+    "zh" : "报告统计"
+  },
+  "설정안함" : {
+    "en" : "Do Not Set",
+    "ja" : "設定しない",
+    "vi" : "Không có thiết lập",
+    "zh" : "不设定"
+  },
+  "삭제하면 보고자, 수신자, 참조자 모두 보고를 조회할 수 없습니다.\\n삭제하시겠습니까?" : {
+    "en" : "Drafter, recipient, and referrer cannot review a report when deleted. \\N Are you sure to delete?",
+    "ja" : "削除すると報告者、受信者、参照者すべての報告を照会できなくなります。\\n削除しますか？",
+    "vi" : "Nếu xóa thì người báo cáo, người nhận, người chuyển tiếp tất cả đều không thể kiểm tra báo cáo. Bạn có chắc chắn xóa không?",
+    "zh" : "删除后，无法查看所有报告。\\ n确定要删除吗？"
+  },
+  "업무 유형" : {
+    "en" : "Task Type",
+    "ja" : "業務のタイプ",
+    "vi" : "Loại hình công việc",
+    "zh" : "业务类型"
+  },
+  "컬럼" : {
+    "en" : "Column",
+    "ja" : "カラム",
+    "vi" : "Cột",
+    "zh" : "专栏"
+  },
+  "즐겨찾기" : {
+    "en" : "Favorites",
+    "ja" : "お気に入り",
+    "vi" : "Yêu thích",
+    "zh" : "收藏夹"
+  },
+  "상위 라벨을 선택해주세요." : {
+    "en" : "Select parent (upper) label.",
+    "ja" : "上位ラベルを選択してください。",
+    "vi" : "Chọn nhãn phía trên.",
+    "zh" : "请选择上位标签。"
+  },
+  "입력항목설정" : {
+    "en" : "Field setting",
+    "ja" : "入力項目設定",
+    "vi" : "Thiết lập trường",
+    "zh" : "设定输入项目"
+  },
+  "다수조회" : {
+    "en" : "Multi-View",
+    "ja" : "多数照会",
+    "vi" : "Xem nhiều",
+    "zh" : "多数查询"
+  },
+  "왼쪽메뉴 미포함" : {
+    "en" : "Exclude Left Menu",
+    "ja" : "左側メニューを含まない",
+    "vi" : "Không bao gồm menu bên trái",
+    "zh" : "未包括右边项目"
+  },
+  "보고서에 댓글이 삭제되었습니다." : {
+    "en" : "The comment on the report has been deleted.",
+    "ja" : "報告書のコメントが削除されました。",
+    "vi" : "Bình luận bị xóa trên báo cáo",
+    "zh" : "报告书上回帖被删除了。"
+  },
+  "시작업무" : {
+    "en" : "Task (Start)",
+    "ja" : "開始業務",
+    "vi" : "Công việc bắt đầu",
+    "zh" : "开始业务"
+  },
+  "보고 등록" : {
+    "en" : "Register Report",
+    "ja" : "報告登録",
+    "vi" : "Thêm báo cáo",
+    "zh" : "登录报告"
+  },
+  "차트 항목을 선택하세요." : {
+    "en" : "Select a chart item.",
+    "ja" : "チャートの項目を選択してください。",
+    "vi" : "Chọn mục biểu đồ.",
+    "zh" : "请选择图表项目。"
+  },
+  "열기" : {
+    "en" : "Open",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "보고함" : {
+    "en" : "Report Box",
+    "ja" : "報告フォルダ",
+    "vi" : "Thư mục báo cáo",
+    "zh" : "报告箱"
+  },
+  "업무가 변경되었습니다." : {
+    "en" : "Task has been modified.",
+    "ja" : "業務が変更されました。",
+    "vi" : "Công việc đã thay đổi",
+    "zh" : "业务变更完了。"
+  },
+  "업무가 승인되었습니다." : {
+    "en" : "Task has been approved.",
+    "ja" : "業務が承認されました。",
+    "vi" : "Công việc đã được phê duyệt",
+    "zh" : "业务承认完了。"
+  },
+  "템플릿을 등록하였습니다." : {
+    "en" : "The template has been added.",
+    "ja" : "テンプレートを登録しました。",
+    "vi" : "Đã đăng ký mẫu.",
+    "zh" : "模板名登录完了。"
+  },
+  "스페이스 선택" : {
+    "en" : "Select Space",
+    "ja" : "スペースを選択する",
+    "vi" : "Chọn Space",
+    "zh" : "选择空间"
+  },
+  "업무 이동" : {
+    "en" : "Move a task",
+    "ja" : "業務移動",
+    "vi" : "Di chuyển tác vụ",
+    "zh" : "移动业务"
+  },
+  "수신확인" : {
+    "en" : "Check Receipt Status",
+    "ja" : "開封確認",
+    "vi" : "Kiểm tra biên nhận",
+    "zh" : "确认收件"
+  },
+  "참조자가 추가되었습니다." : {
+    "en" : "A user has been added to Cc Recipient.",
+    "ja" : "参照者が追加されました。",
+    "vi" : "Đã thêm người tham chiếu",
+    "zh" : "追加参照人了。"
+  },
+  "수신자의 승인 후 보고서가 등록됩니다." : {
+    "en" : "Your report will be registered when the recipient approves.",
+    "ja" : "受信者の承認後に報告書が登録されます。",
+    "vi" : "Khi người nhận phê duyệt, báo cáo của bạn sẽ được thêm vào.",
+    "zh" : "收信人承认后登录报告书。"
+  },
+  "미보고" : {
+    "en" : "Not Reported",
+    "ja" : "未報告",
+    "vi" : "Chưa báo cáo",
+    "zh" : "未报告"
+  },
+  "승인 요청" : {
+    "en" : "Request for approval",
+    "ja" : "承認要求",
+    "vi" : "Yêu cầu phê duyệt",
+    "zh" : "邀请承认"
+  },
+  "분류 수정" : {
+    "en" : "Modify category",
+    "ja" : "カテゴリ修正",
+    "vi" : "Sửa đổi danh mục",
+    "zh" : "修改分类"
+  },
+  "모두" : {
+    "en" : "All",
+    "ja" : "すべて",
+    "vi" : "Tất cả",
+    "zh" : "全部"
+  },
+  "분류 추가" : {
+    "en" : "Add categories",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm hạng mục",
+    "zh" : "追加分类"
+  },
+  "완전삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete it permanently?",
+    "ja" : "完全削除しますか？",
+    "vi" : "Bạn chắc chắn muốn xóa vĩnh viễn chứ?",
+    "zh" : "要完全删除吗？"
+  },
+  "데이터가 없습니다." : {
+    "en" : "There is no data.",
+    "ja" : "データがありません。",
+    "vi" : "Không có dữ liệu.",
+    "zh" : "没有数据"
+  },
+  "흐름 추가" : {
+    "en" : "Add a flow",
+    "ja" : "フロー追加",
+    "vi" : "Thêm luồng công việc",
+    "zh" : "追加潮流"
+  },
+  "개별양식 사용" : {
+    "en" : "Use individual template",
+    "ja" : "個別フォームを使用",
+    "vi" : "Sử dụng mẫu cá nhân",
+    "zh" : "使用个别样式"
+  },
+  "책임자를 입력하세요." : {
+    "en" : "Add manager",
+    "ja" : "責任者を入力してください。",
+    "vi" : "Thêm người quản lý",
+    "zh" : "请输入负责人。"
+  },
+  "적용" : {
+    "en" : "Apply",
+    "ja" : "適用",
+    "vi" : "Áp dụng",
+    "zh" : "适用"
+  },
+  "추가할 수 있는 컬럼이 없습니다." : {
+    "en" : "No column to add.",
+    "ja" : "追加できるカラムがありません。",
+    "vi" : "Không có cột có thể thêm.",
+    "zh" : "没有可添加的专栏。"
+  },
+  "단, 업무 수정을 통해서 공개로 변경이 가능합니다." : {
+    "en" : "However, you can change this by modifying the task.",
+    "ja" : "ただし、業務の修正から公開状態へ変更可能です。",
+    "vi" : "Tuy nhiên, bạn có thể thay đổi điều này bằng cách chỉnh sửa công việc.",
+    "zh" : "但是，您可以通过修改任务来进行公开更改。"
+  },
+  "월" : {
+    "en" : "Mon",
+    "ja" : "月",
+    "vi" : "Thứ hai",
+    "zh" : "星期一"
+  },
+  "알림방법을 선택해주세요." : {
+    "en" : "Select a notification method.",
+    "ja" : "通知方法を選択してください。",
+    "vi" : "Chọn phương pháp thông báo.",
+    "zh" : "请选择提醒方法。"
+  },
+  "작성할 정기보고가 등록되었습니다." : {
+    "en" : "The regular report to be created has been registered.",
+    "ja" : "作成する定期報告が登録されました。",
+    "vi" : "Báo cáo viết thường xuyên đã được đăng ký",
+    "zh" : "要写的定期报告登录完了。"
+  },
+  "업무조회" : {
+    "en" : "View tasks",
+    "ja" : "業務照会",
+    "vi" : "Xem tác vụ",
+    "zh" : "业务查询"
+  },
+  "배치 유형 선택" : {
+    "en" : "Select an arrangement type",
+    "ja" : "配置タイプの選択",
+    "vi" : "Chọn kiểu sắp xếp",
+    "zh" : "选择配置类型"
+  },
+  "신규" : {
+    "en" : "New",
+    "ja" : "新規",
+    "vi" : "Mới",
+    "zh" : "新"
+  },
+  "첨부파일 확장자 제한" : {
+    "en" : "Attachment extension limit",
+    "ja" : "添付ファイルの拡張子制限",
+    "vi" : "Giới hạn phần mở rộng của file đính kèm",
+    "zh" : "限制附件扩展名"
+  },
+  "지연 업무" : {
+    "en" : "Delayed Tasks",
+    "ja" : "遅延業務",
+    "vi" : "công việc bị trì hoãn",
+    "zh" : "推迟业务"
+  },
+  "이관되었습니다." : {
+    "en" : "Successfully transferred.",
+    "ja" : "移管されました。",
+    "vi" : "Đã chuyển.",
+    "zh" : "移交好了。"
+  },
+  "참조 업무" : {
+    "en" : "Reference Tasks",
+    "ja" : "参照業務",
+    "vi" : "Công việc tham chiếu",
+    "zh" : "参照业务"
+  },
+  "보고완료" : {
+    "en" : "Successfully reported.",
+    "ja" : "報告完了",
+    "vi" : "Đã báo cáo",
+    "zh" : "报告完了"
+  },
+  "항목을 입력해주세요." : {
+    "en" : "Enter an item.",
+    "ja" : "項目を入力してください。",
+    "vi" : "Nhập một mục.",
+    "zh" : "请输入项目"
+  },
+  "반복빈도의 요일을 선택하세요." : {
+    "en" : "Select day (Repeat Frequency).",
+    "ja" : "繰返し頻度の曜日を選んでください。",
+    "vi" : "Chọn ngày tần số lặp lại",
+    "zh" : "请选择重复频率的日期。"
+  },
+  "분류명을 입력하세요." : {
+    "en" : "Enter a category name.",
+    "ja" : "カテゴリ名を入力してください。",
+    "vi" : "Nhập tên hạng mục.",
+    "zh" : "请输入分类名。"
+  },
+  "부동소수" : {
+    "en" : "Floating number",
+    "ja" : "浮動小数",
+    "vi" : "Số thực dấu phảy động",
+    "zh" : "浮点数"
+  },
+  "검색식 선택" : {
+    "en" : "Select Search Formula",
+    "ja" : "検索式選択",
+    "vi" : "Chọn Quy tắc tìm kiếm",
+    "zh" : "选择搜索式"
+  },
+  "작성자 선택" : {
+    "en" : "Select author",
+    "ja" : "作成者選択",
+    "vi" : "Chọn tác giả",
+    "zh" : "选择制作人"
+  },
+  "컬럼을 선택해주세요." : {
+    "en" : "Select a column",
+    "ja" : "カラムを選択してください。",
+    "vi" : "Chọn cột",
+    "zh" : "请选择专栏。"
+  },
+  "항목 선택" : {
+    "en" : "Select item",
+    "ja" : "項目選択",
+    "vi" : "Chọn mục",
+    "zh" : "选择项目"
+  },
+  "회차" : {
+    "en" : "Round",
+    "ja" : "回数",
+    "vi" : "Sê ri",
+    "zh" : "次数"
+  },
+  "이전" : {
+    "en" : "Previous",
+    "ja" : "前",
+    "vi" : "Trước",
+    "zh" : "前一个"
+  },
+  "확인자" : {
+    "en" : "Confirmer",
+    "ja" : "確認者",
+    "vi" : "Người xác nhận",
+    "zh" : "确认人"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "要删除吗？"
+  },
+  "주마다" : {
+    "en" : "Every week",
+    "ja" : "週ごとに",
+    "vi" : "Mỗi tuần",
+    "zh" : "每周"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト型",
+    "vi" : "Kiểu danh sách",
+    "zh" : "目录形"
+  },
+  "시작일" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日"
+  },
+  "데이터항목의 건수는 추가컬럼중 리스트, 라디오, 체크박스타입만을 대상으로 합니다. \\n추가컬럼을 확인해주세요." : {
+    "en" : "Cases' is only used for list, radio, checkbox type items among added columns. \\n Please check the added columns.",
+    "ja" : "データ項目の件数は、追加カラムの中でリスト・ラジオ・チェックBoxタイプのみを対象とします。 \\ n追加カラムを確認してください。",
+    "vi" : "Các mục dữ liệu được dùng cho các loại danh sách, radio và checkbox trong các cột bạn đã thêm. \\n Vui lòng kiểm tra (các) cột bạn đã thêm.",
+    "zh" : "数据项目的件数只对象为追加专栏中的目录，广播，方框类型。"
+  },
+  "부서를 선택해주세요." : {
+    "en" : "Select a department.",
+    "ja" : "部署を選択してください",
+    "vi" : "Vui lòng chọn phòng ban/bộ phận",
+    "zh" : "请选择部门。"
+  },
+  "반려" : {
+    "en" : "Reject",
+    "ja" : "差戻し",
+    "vi" : "Từ chối",
+    "zh" : "发还"
+  },
+  "변경 사항을 저장하시겠습니까?" : {
+    "en" : "Do you want to save the changes?",
+    "ja" : "変更内容を保存しますか？",
+    "vi" : "Bạn có muốn lưu lại các thay đổi này không?",
+    "zh" : "您要保存更改吗？"
+  },
+  "선택한 라벨의 하위로 이동됩니다." : {
+    "en" : "Move (Nest) below the selected label.",
+    "ja" : "ラベルを選択します。",
+    "vi" : "Chọn một nhãn.",
+    "zh" : "选择标签"
+  },
+  "파일 선택" : {
+    "en" : "Select files",
+    "ja" : "ファイル選択",
+    "vi" : "Chọn file",
+    "zh" : "选择文档"
+  },
+  "상태변경 권한" : {
+    "en" : "Permission to change status",
+    "ja" : "状態変更の権限",
+    "vi" : "Cho phép thay đổi trạng thái",
+    "zh" : "变更状态权限"
+  },
+  "이력" : {
+    "en" : "History",
+    "ja" : "履歴",
+    "vi" : "Lịch sử",
+    "zh" : "履历"
+  },
+  "{0}분 경과시 자동 임시저장" : {
+    "en" : "Draft is automatically saved after {0} minutes",
+    "ja" : "{0}分経過時、自動一時保存",
+    "vi" : "Bản thảo sẽ được tự động lưu sau {0} phút",
+    "zh" : "经过{0}分钟时自动临时保存"
+  },
+  "컬럼 수정" : {
+    "en" : "Edit column",
+    "ja" : "カラム修正",
+    "vi" : "Chỉnh sửa cột",
+    "zh" : "修改专栏"
+  },
+  "기본 참조자" : {
+    "en" : "Default Cc",
+    "ja" : "基本参照者",
+    "vi" : "Tính năng Cc mặc định",
+    "zh" : "基本参照人"
+  },
+  "사용자 정의" : {
+    "en" : "Custom",
+    "ja" : "ユーザー定義",
+    "vi" : "Tùy chỉnh",
+    "zh" : "使用者定义"
+  },
+  "보고함의 기본 환경을 설정합니다." : {
+    "en" : "Default Settings for Report Box will be applied.",
+    "ja" : "報告ボックスの基本環境を設定します。",
+    "vi" : "Cài đặt môi trường mặc định của hòm báo cáo.",
+    "zh" : "设置报告书基本环境"
+  },
+  "회수할 사용자를 선택하세요." : {
+    "en" : "Select users to retrieve.",
+    "ja" : "回収するユーザーを選択します。",
+    "vi" : "Chọn người dùng để thu hồii.",
+    "zh" : "请选择要回收的使用者。"
+  },
+  "공지사항" : {
+    "en" : "Notice",
+    "ja" : "お知らせ事項",
+    "vi" : "Thông báo",
+    "zh" : "公告事项"
+  },
+  "회차선택" : {
+    "en" : "Select series",
+    "ja" : "回数の選択",
+    "vi" : "Chọn chuỗi sê-ri",
+    "zh" : "选择次数"
+  },
+  "반복빈도" : {
+    "en" : "Repeat frequency",
+    "ja" : "繰り返しの頻度",
+    "vi" : "Tần số lặp lại",
+    "zh" : "反复频度"
+  },
+  "저장되었습니다." : {
+    "en" : "Saved successfully.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "문자열" : {
+    "en" : "Character String",
+    "ja" : "文字列",
+    "vi" : "Chuỗi ký tự",
+    "zh" : "字符串"
+  },
+  "범례를 선택하세요." : {
+    "en" : "Please select a legend.",
+    "ja" : "凡例を選択してください。",
+    "vi" : "Vui lòng chọn một chú thích.",
+    "zh" : "请选择范例"
+  },
+  "업무 선택" : {
+    "en" : "Select Task",
+    "ja" : "業務選択",
+    "vi" : "Chọn công việc",
+    "zh" : "选择业务"
+  },
+  "첨부파일이 이미지일 경우 내용 하단에 표시" : {
+    "en" : "If the attachment is an image, show it at the bottom.",
+    "ja" : "添付ファイルが画像の場合、内容の下段に表示する",
+    "vi" : "Nếu file đính kèm là hình ảnh, hãy hiển thị file này ở phía dưới",
+    "zh" : "附件是图像的话表示在内容下边"
+  },
+  "보고함 생성 권한" : {
+    "en" : "Report Box creation permission",
+    "ja" : "報告ボックスの作成権限",
+    "vi" : "Quyền tạo hòm báo cáo",
+    "zh" : "生成报告书权限"
+  },
+  "보&nbsp;&nbsp;고&nbsp;nbsp;자" : {
+    "en" : "Reported by",
+    "ja" : "報&nbsp;&nbsp;告&nbsp;&nbsp;者",
+    "vi" : "Người báo cáo",
+    "zh" : "报&nbsp;&nbsp;告&nbsp;&nbsp;人"
+  },
+  "파일선택" : {
+    "en" : "Select file",
+    "ja" : "ファイル選択",
+    "vi" : "Chọn file",
+    "zh" : "选择file"
+  },
+  "업무구분" : {
+    "en" : "Task Type (Sort)",
+    "ja" : "業務区分",
+    "vi" : "Loại hình công việc",
+    "zh" : "业务区分"
+  },
+  "정보" : {
+    "en" : "Info",
+    "ja" : "情報",
+    "vi" : "Thông tin",
+    "zh" : "全部"
+  },
+  "라인" : {
+    "en" : "Line",
+    "ja" : "ライン",
+    "vi" : "Biểu đồ thanh",
+    "zh" : "线"
+  },
+  "알림 설정" : {
+    "en" : "Notification settings",
+    "ja" : "通知の設定",
+    "vi" : "Thiết lập thông báo",
+    "zh" : "设定提醒"
+  },
+  "보고 생성 권한" : {
+    "en" : "Permission to create reports",
+    "ja" : "報告作成権限",
+    "vi" : "Cho phép tạo báo cáo",
+    "zh" : "建立报告权限"
+  },
+  "이름 목록" : {
+    "en" : "Name List",
+    "ja" : "名前のリスト",
+    "vi" : "Danh sách tên",
+    "zh" : "名字目录"
+  },
+  "업무명, 담당자, 참조자, 업무유형, 업무항목 등을 설정할 수 있습니다." : {
+    "en" : "You can set task name, PIC, referrer, task type, task item, etc.",
+    "ja" : "業務名、担当者、参照者、業務の種類、業務項目などを設定することができます。",
+    "vi" : "Bạn có thể đặt tên công việc, người phụ trách, đối tượng tham chiếu, loại hình công việc và các mục công việc.",
+    "zh" : "可以设定业务名，负责人，参照人，业务类型，业务项目等等。"
+  },
+  "일" : {
+    "en" : "Sun",
+    "ja" : "日",
+    "vi" : "Chủ nhật",
+    "zh" : "星期日"
+  },
+  "화요일" : {
+    "en" : "Tuesday",
+    "ja" : "火曜日",
+    "vi" : "Thứ ba",
+    "zh" : "周二"
+  },
+  "입력/조회 화면" : {
+    "en" : "Input/View Screen",
+    "ja" : "入力/照会画面",
+    "vi" : "Loại/Xem trang",
+    "zh" : "输入/查询画面"
+  },
+  "추가된 컬럼으로 차트를 생성하여,보고함 통계로 활용할 수 있습니다.(단, 리스트, 라디오 버튼, 체크박스, 정수, 금액 형식의 컬럼만 가능)" : {
+    "en" : "Charts can be created with added columns, and also be utilized as Report Box Statistics. (However, only list, radio button, checkbox, integer, amount-type columns can be utilized)",
+    "ja" : "追加されたカラムでチャートを生成して、報告Boxの統計として活用できます。(ただし、リスト、ラジオボタン、チェックBox、",
+    "vi" : "Biểu đồ có thể được hình thành với cột được thêm và được sử dụng làm thống kê Hộp báo cáo. (Danh sách, Nút radio, Checkbox, Số nguyên, cột giá)",
+    "zh" : "以添加的内容生成图表,也可作为报告箱统计。(但只允许列表,收音机按钮,格子方块,整数,金额形式的内容)"
+  },
+  "아이콘 선택" : {
+    "en" : "Select icon",
+    "ja" : "アイコンを選択",
+    "vi" : "Chọn biểu tượng",
+    "zh" : "选择图标"
+  },
+  "다수편집" : {
+    "en" : "Multi Edit",
+    "ja" : "多数編集",
+    "vi" : "Chỉnh sửa nhiều",
+    "zh" : "多数编辑"
+  },
+  "추가컬럼선택" : {
+    "en" : "Select additional column",
+    "ja" : "追加カラム選択",
+    "vi" : "Chọn cột bổ sung",
+    "zh" : "选择追加专栏"
+  },
+  "이미 존재하는 템플릿명입니다." : {
+    "en" : "The same template name already exists.",
+    "ja" : "既に存在するテンプレート名です。",
+    "vi" : "Tên mẫu đã tồn tại.",
+    "zh" : "已经存在的模板名。"
+  },
+  "단계/흐름 삭제" : {
+    "en" : "Delete Step/Flow",
+    "ja" : "段階/フロー削除",
+    "vi" : "Xóa bước/luồng làm việc",
+    "zh" : "删除阶段/潮流"
+  },
+  "아니다" : {
+    "en" : "is not",
+    "ja" : "ではない",
+    "vi" : "không phải là",
+    "zh" : "不是"
+  },
+  "라벨을 선택해주세요." : {
+    "en" : "Select a label.",
+    "ja" : "ラベルを選択してください。",
+    "vi" : "Chọn một nhãn.",
+    "zh" : "请选择标签。"
+  },
+  "반복 횟수를 입력하세요." : {
+    "en" : "Select repeat frequency.",
+    "ja" : "繰り返し回数を入力してください。",
+    "vi" : "Chọn tần số lặp lại.",
+    "zh" : "请输入反复次数。"
+  },
+  "업무 이관" : {
+    "en" : "Transfer Task",
+    "ja" : "業務移管",
+    "vi" : "Chuyển giao công việc",
+    "zh" : "移交业务"
+  },
+  "상위 라벨 선택" : {
+    "en" : "Select the parent label.",
+    "ja" : "上位ラベル選択",
+    "vi" : "Chọn nhãn phía trên.",
+    "zh" : "选择上位标签"
+  },
+  "신규 작성 보고부터 공개여부를 설정 합니다." : {
+    "en" : "Newly created reports will have their privacy settings configured.",
+    "ja" : "新規作成報告から公開の可否を設定します。",
+    "vi" : "Các báo cáo mới được tạo sẽ có cài đặt riêng tư được cấu hình.",
+    "zh" : "从新创建的报告开始设置其公开状态。"
+  },
+  "데이터 항목" : {
+    "en" : "Data item",
+    "ja" : "データ項目",
+    "vi" : "Mục dữ liệu",
+    "zh" : "数据项目"
+  },
+  "등&nbsp;&nbsp;록&nbsp;&nbsp;자" : {
+    "en" : "Added by",
+    "ja" : "登&nbsp;&nbsp;録&nbsp;&nbsp;者",
+    "vi" : "Người đăng ký",
+    "zh" : "登&nbsp;&nbsp;录&nbsp;&nbsp;人"
+  },
+  "공동보고 작성이 완료되었습니다." : {
+    "en" : "Collaborative report writing has been completed.",
+    "ja" : "共同レポートの作成が完了しました。",
+    "vi" : "Đã hoàn thành viết báo cáo chung.",
+    "zh" : "共同报告撰写已完成。"
+  },
+  "{0} 항목값은 {1} 이상이어야 합니다." : {
+    "en" : "{0} item value must be more than {1}.",
+    "ja" : "{0}項目の値は{1}以上でなければなりません。",
+    "vi" : "{0} giá trị của mục phải lớn hơn {1}.",
+    "zh" : "{0} 项目值得  {1}以上。"
+  },
+  "등록자를 선택해주세요." : {
+    "en" : "Select an author",
+    "ja" : "登録者を選択してください。",
+    "vi" : "Chọn tác giả",
+    "zh" : "请选择登录人。"
+  },
+  "시작날짜" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日子"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "검색 종료 일자를 입력하세요." : {
+    "en" : "Enter end date (search).",
+    "ja" : "検索終了日を入力してください。",
+    "vi" : "Vui lòng nhập ngày kết thúc tìm kiếm.",
+    "zh" : "请输入搜索结束日子。"
+  },
+  "차트 추가" : {
+    "en" : "Add chart",
+    "ja" : "チャート追加",
+    "vi" : "Thêm biểu đồ",
+    "zh" : "追加图表"
+  },
+  "불필요" : {
+    "en" : "Not Required",
+    "ja" : "不要",
+    "vi" : "Không cần",
+    "zh" : "不需要"
+  },
+  "수신자 승인 기능 사용안함" : {
+    "en" : "Do not use 'Allow Recipients to Approve'",
+    "ja" : "受信者承認機能を使用しない",
+    "vi" : "Không cho phép người nhận phê duyệt",
+    "zh" : "不使用收信人承认功能"
+  },
+  "보고함 추가" : {
+    "en" : "Add Report Box",
+    "ja" : "報告Box追加",
+    "vi" : "Thêm thư mục báo cáo",
+    "zh" : "追加报告箱"
+  },
+  "최대 {0}명까지만 선택할 수 있습니다." : {
+    "en" : "You can select up to {0} people.",
+    "ja" : "最大{0}人まで選択することができます。",
+    "vi" : "Bạn có thể chọn tối đa {0} người.",
+    "zh" : "最多可以选择{0}名。"
+  },
+  "작성할 보고" : {
+    "en" : "To write",
+    "ja" : "作成する",
+    "vi" : "cần viết",
+    "zh" : "待写入"
+  },
+  "사원번호" : {
+    "en" : "Emp. NO",
+    "ja" : "社員番号",
+    "vi" : "Số Nhân viên",
+    "zh" : "员工序号"
+  },
+  "사용여부" : {
+    "en" : "Use?",
+    "ja" : "使用可否",
+    "vi" : "Sử dụng hay không",
+    "zh" : "是否使用"
+  },
+  "업무 흐름" : {
+    "en" : "Workflow",
+    "ja" : "業務の流れ",
+    "vi" : "Luồng công việc",
+    "zh" : "业务趋势"
+  },
+  "읽은 상태로 표시" : {
+    "en" : "Mark as 'Read'",
+    "ja" : "既読状態に表示",
+    "vi" : "Đánh dấu là đã đọc",
+    "zh" : "表示为已经读"
+  },
+  "스마트워크" : {
+    "en" : "Smartwork",
+    "ja" : "スマートワーク",
+    "vi" : "Smart Work - Làm việc thông minh",
+    "zh" : "智能工作"
+  },
+  "{0} 항목은 {1}자이상 입력해야합니다." : {
+    "en" : "{0} item must be {1} or more than characters.",
+    "ja" : "{0}項目は{1}文字以上で入力する必要があります。",
+    "vi" : "{0} nội dung trong mục trên phải nhiều hơn {1} ký tự.",
+    "zh" : "{0} 项目得输入 {1}字以上。"
+  },
+  "업무가 반려되었습니다." : {
+    "en" : "Task has been rejected.",
+    "ja" : "業務が差戻されました。",
+    "vi" : "Công việc đã từ chối",
+    "zh" : "业务被退回了。"
+  },
+  "보고를 등록하시겠습니까?" : {
+    "en" : "Would you like to register the report?",
+    "ja" : "報告を登録しますか？",
+    "vi" : "Bạn có muốn thêm báo cáo của bạn không?",
+    "zh" : "要登录报告吗？"
+  },
+  "라벨 관리" : {
+    "en" : "Manage labels",
+    "ja" : "ラベル管理",
+    "vi" : "Quản lý nhãn",
+    "zh" : "管理标签"
+  },
+  "확인시간" : {
+    "en" : "Time (Read)",
+    "ja" : "確認時間",
+    "vi" : "Thời gian đọc",
+    "zh" : "确认时间"
+  },
+  "화면 구성" : {
+    "en" : "Layout",
+    "ja" : "画面構成",
+    "vi" : "Bố cục",
+    "zh" : "画面构成"
+  },
+  "새 업무" : {
+    "en" : "New Task",
+    "ja" : "新しい業務",
+    "vi" : "Công việc mới",
+    "zh" : "新的业务"
+  },
+  "업무 상태를 입력해주세요." : {
+    "en" : "Enter task status.",
+    "ja" : "業務の状態を入力してください。",
+    "vi" : "Chọn tình trạng công việc",
+    "zh" : "请输入业务状态。"
+  },
+  "템플릿명을 입력하세요." : {
+    "en" : "Enter a template name.",
+    "ja" : "テンプレート名を入力してください。",
+    "vi" : "Hãy nhập tên mẫu.",
+    "zh" : "请输入模板名。"
+  },
+  "컬럼 추가" : {
+    "en" : "Add column",
+    "ja" : "カラム追加",
+    "vi" : "Thêm cột",
+    "zh" : "追加项目"
+  },
+  "미보고자" : {
+    "en" : "Not reported yet",
+    "ja" : "未報告者",
+    "vi" : "Chưa báo cáo",
+    "zh" : "未报告人"
+  },
+  "반려 사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "发还理由"
+  },
+  "변경" : {
+    "en" : "Change",
+    "ja" : "変更",
+    "vi" : "Thay đổi",
+    "zh" : "变更"
+  },
+  "흐름명" : {
+    "en" : "Flow name",
+    "ja" : "フロー名",
+    "vi" : "Tên luồng công việc",
+    "zh" : "潮流名"
+  },
+  "보고서가 반려되었습니다." : {
+    "en" : "Report has been rejected.",
+    "ja" : "報告書が差戻されました。",
+    "vi" : "Báo cáo bị từ chối",
+    "zh" : "报告书被退回了。"
+  },
+  "모두선택" : {
+    "en" : "Select all",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "全部选择"
+  },
+  "허용되지 않는 특수기호가 있습니다." : {
+    "en" : "It contains special characters that are not allowed.",
+    "ja" : "許可されていない特殊記号があります。",
+    "vi" : "Nó có chứa các ký hiệu đặc biệt không được phép sử dụng.",
+    "zh" : "有不允许使用的特殊符号。"
+  }
+}

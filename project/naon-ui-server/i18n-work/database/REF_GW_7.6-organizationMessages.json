@@ -1,0 +1,1250 @@
+{
+  "기존 공유자 권한을 유지하고 권한을 추가" : {
+    "en" : "Maintain prior share permission and add new permission",
+    "ja" : "既存の共有者権限を維持し、権限を追加する",
+    "vi" : "Giữ lời cấp phép chia sẻ lần trước và thêm cấp phép mới",
+    "zh" : "维持现有共有人权限而追加权限"
+  },
+  "회사전화" : {
+    "en" : "Company Phone Number",
+    "ja" : "会社電話",
+    "vi" : "Điện thoại công ty",
+    "zh" : "公司电话号码"
+  },
+  "“{0}” <strong>직책</strong>을 <strong>삭제</strong>하였습니다." : {
+    "en" : "<strong>Deleted</strong>“{0}” <strong>Position</strong>",
+    "ja" : "“{0}” <strong>役職</strong>を <strong>削除</strong>しました。",
+    "vi" : "<strong>Đã xoá</strong>“{0}” <strong>Vị trí</strong>",
+    "zh" : "已<strong>删除</strong>“{0}” <strong>职责</strong>。"
+  },
+  "주소록 내보내기" : {
+    "en" : "Export Contacts",
+    "ja" : "アドレス帳エクスポート",
+    "vi" : "Địa chỉ xuất",
+    "zh" : "发送地址录"
+  },
+  "D-Style HERO 추천하기" : {
+    "en" : "Recommend D-Style HERO",
+    "ja" : "D-Style HERO推薦する",
+    "vi" : "Đề xuất D-Style HERO",
+    "zh" : "推存D-Style HERO"
+  },
+  "<strong>계열사 겸직 정보 변경 {0}&#60;{1}&#62;</strong>" : {
+    "en" : "<strong>Change Concurrent Information in Subsidiary {0}&#60;{1}&#62;</strong>",
+    "ja" : "<strong>関連会社の兼職情報を変更 {0}&#60;{1}&#62;</strong>",
+    "vi" : "<strong>Thay đổi thông tin kiêm chức công ty con {0}&#60;{1}&#62;</strong>",
+    "zh" : "<strong>更改子公司兼职信息{0}&#60;{1}&#62;</strong>"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "搜索"
+  },
+  "저장 후 변경 사항이 적용되면 메인화면, 포틀릿, 메뉴가 모두 초기화 됩니다." : {
+    "en" : "After saving, when changes are applied, the main screen, portlets, and menus will all be reset.",
+    "ja" : "変更を保存した後に変更内容が適用されると、メイン画面、ポートレート、メニューがすべて初期化されます。",
+    "vi" : "Sau khi lưu, khi thay đổi được áp dụng, màn hình chính, cổng thông tin, và menu sẽ được thiết lập lại.",
+    "zh" : "保存后，应用更改后，主屏幕、仪表板和菜单都将重置。"
+  },
+  "선택한 사용자를 {0}으로 선정합니다." : {
+    "en" : "The chosen user will be selected as {0}.",
+    "ja" : "選択したユーザーを{0}に選定します。",
+    "vi" : "Người dùng được chọn {0}.",
+    "zh" : "所选用户的选择{0}。"
+  },
+  "우측상단" : {
+    "en" : "Upper right corner",
+    "ja" : "右上段",
+    "vi" : "Góc trên bên phải",
+    "zh" : "右上"
+  },
+  "모든 부서원" : {
+    "en" : "All department members",
+    "ja" : "すべての部署員",
+    "vi" : "Tất cả thành viên bộ phận",
+    "zh" : "所有部门人员"
+  },
+  "계열사간 관계사를 맵핑합니다." : {
+    "en" : "It maps related companies between subsidiaries.",
+    "ja" : "関連会社間の関係会社をマッピングします。",
+    "vi" : "Vẽ bản đồ liên kết giữa các công ty con.",
+    "zh" : "将进行分公司之间的关联公司的图像化处理。"
+  },
+  "메뉴 설정" : {
+    "en" : "Menu Settings",
+    "ja" : "メニュー設定",
+    "vi" : "Cài đặt menu",
+    "zh" : "菜单设置"
+  },
+  "신규입사자" : {
+    "en" : "New Employee",
+    "ja" : "新規入社者",
+    "vi" : "Nhân viên mới",
+    "zh" : "新加入职员"
+  },
+  "“{0}” <strong>직무</strong>를 <strong>삭제</strong>하였습니다." : {
+    "en" : "<strong>Deleted</strong>“{0}” <strong>duty</strong>",
+    "ja" : "“{0}” <strong>職務</strong>を <strong>削除</strong>しました。",
+    "vi" : "<strong>Đã xóa</strong>“{0}” <strong>vị trí</strong>",
+    "zh" : "已<strong>删除</strong>“{0}” <strong>职务</strong>。"
+  },
+  "사용자정보" : {
+    "en" : "User information",
+    "ja" : "ユーザー情報",
+    "vi" : "Thông tin người dùng",
+    "zh" : "使用者信息"
+  },
+  "권한 선택" : {
+    "en" : "Permission selection",
+    "ja" : "権限の選択",
+    "vi" : "Chọn Quyền hạn",
+    "zh" : "选择权限"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "명함형" : {
+    "en" : "Card type",
+    "ja" : "名刺型",
+    "vi" : "Loại danh thiếp",
+    "zh" : "名片形"
+  },
+  "생일" : {
+    "en" : "Birthday",
+    "ja" : "誕生日",
+    "vi" : "Sinh nhật",
+    "zh" : "生日"
+  },
+  "<strong>직무 수정</strong>" : {
+    "en" : "<strong>Modify Task</strong>",
+    "ja" : "<strong>職務を修正</strong>",
+    "vi" : "<strong>Chỉnh sửa chức vụ</strong>",
+    "zh" : "<strong>修改职务</strong>"
+  },
+  "“삭제자” 에서 <strong>{0}&#60;{1}&#62;</strong> 님을 <strong>완전삭제</strong>하였습니다." : {
+    "en" : "<strong>Completely deleted</strong><strong>{0}&#60;{1}&#62;</strong> from \"Deleted\"",
+    "ja" : "“削除者” から <strong>{0}&#60;{1}&#62;</strong> さんを <strong>完全に削除</strong>しました。",
+    "vi" : "<strong>Đã xoá</strong><strong>{0}&#60;{1}&#62;</strong> từ \"Xoá\"",
+    "zh" : "在\"删除者\"中，已<strong>完全删除</strong><strong>{0}&#60;{1}&#62;</strong> 。"
+  },
+  "좌측하단" : {
+    "en" : "Bottom left",
+    "ja" : "左下段",
+    "vi" : "Góc dưới bên trái",
+    "zh" : "左下"
+  },
+  "신규 입사자는 구성원 목록에서 선정할 수 있습니다." : {
+    "en" : "You can select new employees from the list of members.",
+    "ja" : "新規入社者は、メンバーリストから選ぶことができます。",
+    "vi" : "Bạn có thể chọn nhân viên mới trong danh sách thành viên.",
+    "zh" : "新进入职员可以在构成员目录选定。"
+  },
+  "<strong>{0}&#60;{1}&#62;</strong> 님을 {2}{3} 의 {4}(으)로 지정하였습니다." : {
+    "en" : "Assigned <strong>{0}&#60;{1}&#62;</strong> as the {4} of {2}{3}.",
+    "ja" : "<Strong>{0}&#60;{1}&#62;</strong> さんが {2}{3} の {4}で指定しました。",
+    "vi" : "<strong>{0}&#60;{1}&#62;</strong> đã chọn {4} {2}{3}",
+    "zh" : "<strong>{0}&#60;{1}&#62;</strong> 被指定为 {2}{3}的{4}。"
+  },
+  "구성원 차트" : {
+    "en" : "Member Chart",
+    "ja" : "構成員チャート",
+    "vi" : "Biểu đồ thành viên",
+    "zh" : "构成员 一览表"
+  },
+  "가 이미 사용되고있어 정보가 수정되었습니다." : {
+    "en" : "The information is already in use and has been modified.",
+    "ja" : "が既に使用されており、情報が変更されました。",
+    "vi" : "Thông tin đã được chỉnh sửa vì (...) đã đang được sử dụng.",
+    "zh" : "“”已使用，信息已更改。"
+  },
+  "에디터 환경설정" : {
+    "en" : "Editor Environment Settings",
+    "ja" : "エディタ環境設定",
+    "vi" : "Cài đặt môi trường soạn thảo",
+    "zh" : "编辑器环境设置"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Làm mới",
+    "zh" : "韩语"
+  },
+  "단일 계열사" : {
+    "en" : "Single affiliate",
+    "ja" : "単一系列社",
+    "vi" : "Công ty thành viên đơn lẻ",
+    "zh" : "删除帐号"
+  },
+  "선택 사용자를" : {
+    "en" : "The selected user",
+    "ja" : "選択ユーザーを",
+    "vi" : "Người dùng lựa chọn",
+    "zh" : "选择的使用者"
+  },
+  "임시 비밀번호는 아래와 같습니다. 그룹웨어 로그인후 <strong>10분 내에 임시 비밀번호로 로그인하시기 바랍니다.</strong><br/><br/>" : {
+    "en" : "Temporary password is shown below. Log in within <strong>10 minutes with the temporary password after logging into the Groupware.</strong><br/><br/>",
+    "ja" : "仮パスワードはグループウェアログイン後、.</strong>10分内に仮パスワードでログインしてください。.</strong><br/><br/>",
+    "vi" : "Mật khẩu tạm thời được hiển thị dưới đây. Đăng nhập trong vòng <strong>10 phút với mật khẩu vào Groupware.</ Strong><br/><br/>",
+    "zh" : "临时密码如下。请在群件登录后10分钟内使用临时密码登录。</strong><br/><br/>"
+  },
+  "임시 비밀번호" : {
+    "en" : "Temporary Password",
+    "ja" : "臨時パスワード",
+    "vi" : "Mật khẩu tạm thời",
+    "zh" : "临时密码"
+  },
+  "설정과 상관없이 메일은 일반 에디터, 위키는 블럭 에디터로 고정 사용 됩니다." : {
+    "en" : "Regardless of the settings, mail is always used in the general editor and wiki in the block editor.",
+    "ja" : "設定に関わらず、メールは一般エディタ、Wikiはブロックエディタで固定使用されます。",
+    "vi" : "Dù cái đặt thế nào thì email vẫn luôn sử dụng trình soạn thảo thông thường và wiki luôn sử dụng trình soạn thảo khối.",
+    "zh" : "无论设置如何，邮件都被固定为常规编辑器，维基被固定为块编辑器。"
+  },
+  "<strong>비밀번호 초기화</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Reset Password</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>パスワードを初期化</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Làm mới mật khẩu</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>密码初始化</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "선택한 부서의 하위 구성원 통계입니다." : {
+    "en" : "Statistics (Child members of the selected department)",
+    "ja" : "選択した部署の下位構成員の統計です。",
+    "vi" : "Đây là thống kê thành viên dưới của bộ phận đã chọn.",
+    "zh" : "选择的部门下位构成员统计。"
+  },
+  "<strong>{0}&#60;{1}&#62;</strong> 님의 <strong>부서겸직 정보</strong> “{2}{3}”을(를) <strong>삭제</strong>하였습니다." : {
+    "en" : "<strong>Deleted</strong><strong>Concurrent Work (Department) Information</strong> “{2}{3}” of <strong>{0}&#60;{1}&#62;</strong>",
+    "ja" : "<Strong>{0}&#60;{1}&#62;</strong> さんの <strong>部署兼職 情報</strong> “{2}{3}”を <strong>削除</strong>しました。",
+    "vi" : "<strong>Đã xoá</strong><strong>Thông tin Công việc Bộ phận</strong> “{2}{3}” của <strong>{0}&#60;{1}&#62;</strong>",
+    "zh" : "已<strong>删除</strong><strong>{0}&#60;{1}&#62;</strong>的<strong>部门兼职信息</strong> “{2}{3}”。"
+  },
+  "도메인 설정" : {
+    "en" : "Domain Settings",
+    "ja" : "ドメイン設定",
+    "vi" : "Cài đặt tên miền",
+    "zh" : "域设置"
+  },
+  "우수사원" : {
+    "en" : "Excellent employees",
+    "ja" : "優秀社員",
+    "vi" : "Nhân viên xuất sắc",
+    "zh" : "优秀职员"
+  },
+  "“{0}” <strong>직책정보</strong>를 <strong>수정</strong>하였습니다." : {
+    "en" : "<strong>Edited</strong>“{0}” <strong>Duty Information</strong>",
+    "ja" : "“{0}” <strong>役職情報</strong>を <strong>修正</strong>しました。",
+    "vi" : "<strong>Đã chỉnh sửa</strong>“{0}” <strong>Thông tin Vị trí</strong>",
+    "zh" : "已<strong>修改</strong>“{0}” <strong>职责信息</strong>。"
+  },
+  "검색어 입력" : {
+    "en" : "Enter Search Keyword",
+    "ja" : "検索ワード入力",
+    "vi" : "Nhập từ cần tìm kiếm",
+    "zh" : "输入关键词"
+  },
+  "<strong>완전삭제</strong> 삭제자 <strong>{0}&#60;{1}&#62;</strong>" : {
+    "en" : "<strong>Complete deletion</strong> Deleter <strong>{0}<{1}></strong>",
+    "ja" : "<strong>完全削除</strong>削除者<strong> {0}＆＃60; {1}＆＃62; </strong>",
+    "vi" : "<strong>Xóa hoàn toàn</strong> bởi người xóa <strong>{0}<{1}></strong>.",
+    "zh" : "<strong>完全删除</strong> 删除者<strong>{0}<{1}></strong>"
+  },
+  "아이콘" : {
+    "en" : "Icon",
+    "ja" : "アイコン",
+    "vi" : "Biểu tượng",
+    "zh" : "图标"
+  },
+  "하위 모두선택" : {
+    "en" : "Select All Lower (Child)",
+    "ja" : "下位すべて選択",
+    "vi" : "Chọn tất cả các đối tượng thấp hơn",
+    "zh" : "下位全部选择"
+  },
+  "조직도를 공유하여 업무에 활용할 수 있습니다." : {
+    "en" : "You can share the organizational chart to use for work.",
+    "ja" : "組織図を共有して業務に活用することができます。",
+    "vi" : "Có thể chia sẻ sơ đồ tổ chức và áp dụng trong công việc.",
+    "zh" : "可共享组织图并将其运用至工作中。"
+  },
+  "그룹웨어 비밀번호가 초기화 되었습니다.<br/><br/>" : {
+    "en" : "Groupware password has been reset.<br/><br/>",
+    "ja" : "グループウェアのパスワードが初期化されました。<br/><br/>",
+    "vi" : "Mật khẩu Groupware đã được đặt lại.<br/><br/>",
+    "zh" : "群件密码已初始化。<br/><br/>"
+  },
+  "좌측상단" : {
+    "en" : "Top left corner",
+    "ja" : "左上段",
+    "vi" : "Góc trên bên trái",
+    "zh" : "左上"
+  },
+  "검색" : {
+    "en" : "search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "查询"
+  },
+  "진행" : {
+    "en" : "Progress",
+    "ja" : "進行",
+    "vi" : "Tiến trình",
+    "zh" : "进行"
+  },
+  "Google 연동 해제" : {
+    "en" : "Disconnect Google Integration",
+    "ja" : "Google連携解除",
+    "vi" : "Hủy liên kết Google",
+    "zh" : "Google 联动解除"
+  },
+  "칭찬/우수사원은 구성원 목록에서 선정할 수 있습니다." : {
+    "en" : "You can select praised employees and excellent employees from the list of members.",
+    "ja" : "賞賛/優秀社員は、メンバーリストから選ぶことができます。",
+    "vi" : "Bạn có thể chọn nhân viên ưu tú/ khen thưởng trong danh sách thành viên.",
+    "zh" : "称赞/优秀职员可以在构成员目录选定。"
+  },
+  "<strong>{0}&#60;{1}&#62;</strong> 님을 {2}{3}의  {4}에서 해제했습니다." : {
+    "en" : "<strong>{0}&#60;{1}&#62;</strong> has been removed from {4} of {2} and {3}.",
+    "ja" : "<strong>{0}&#60;{1}&#62;</strong>様を{2}{3}の{4}から解除しました。",
+    "vi" : "Đã xóa <strong>{0}&#60;{1}&#62;</strong> khỏi {4} của {2}{3}.",
+    "zh" : "已将<strong>{0}&#60;{1}&#62;</strong> 从{2}{3}中的{4}中删除。"
+  },
+  "포탈/포틀릿 권한" : {
+    "en" : "Portal/Portlet permission",
+    "ja" : "ポータル/ポートレット権限",
+    "vi" : "Quyền đối với Cổng thông tin/Porlet",
+    "zh" : "网站/portlet权限"
+  },
+  "결재문서의 문서번호 생성시 사용되는 정보" : {
+    "en" : "Information used for generating the document number of the approval document.",
+    "ja" : "決裁文書の文書番号の作成に使用される情報",
+    "vi" : "Thông tin được sử dụng trong việc tạo số văn bản cho tài liệu phê duyệt.",
+    "zh" : "用于生成审批文档编号的信息"
+  },
+  "“{0}{1}” 의 <strong>{2}&#60;{3}&#62;</strong> 님의 비밀번호를 <strong>초기화</strong>하였습니다." : {
+    "en" : "<strong>Initialized</strong> the password of <strong>{2}&#60;{3}&#62;</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}” の <strong>{2}&#60;{3}&#62;</strong> さんのパスワードを <strong>初期化</strong>しました。",
+    "vi" : "<strong>Đặt lại</strong> mật khẩu <strong>{2}&#60;{3}&#62;</strong> của “{0}{1}”",
+    "zh" : "已将“{0}{1}”的<strong>{2}&#60;{3}&#62;</strong>的秘密<strong>初始化</strong>。"
+  },
+  "삭제되는 사용자의 대표 계열사를 변경하는 작업중 변경 대상 계열사의 라이선스가 부족하여 {0} 사용자를 삭제하지 못했습니다. \n 라이선스를 확인해주세요." : {
+    "en" : "During the process of changing the representative affiliate for the deleting user, we encountered an issue. Due to insufficient licensing in the target affiliate undergoing changes, we were unable to delete user {0}. Please verify the license.",
+    "ja" : "ユーザーの代表系列会社を変更する作業中、対象系列会社のライセンスが不足していたため、{0} ユーザーを削除できませんでした。 ライセンスを確認してください。",
+    "vi" : "Trong quá trình thay đổi liên kết đại diện cho người dùng bị xóa, chúng tôi đã gặp một vấn đề. Do không đủ giấy phép trong liên kết mục tiêu đang thay đổi, chúng tôi không thể xóa người dùng {0}. Vui lòng kiểm tra lại giấy phép.",
+    "zh" : "在进行更改已删除用户代表子公司的操作中，由于变更对象的子公司的授权不足，无法删除 {0} 用户。\n请确认授权。"
+  },
+  "내부기관코드" : {
+    "en" : "Internal organization code",
+    "ja" : "内部機関コード",
+    "vi" : "Mã tổ chức nội bộ",
+    "zh" : "内部部门编码"
+  },
+  "부서원" : {
+    "en" : "Department member",
+    "ja" : "部署員",
+    "vi" : "Thành viên bộ phận",
+    "zh" : "部门职员"
+  },
+  "추가기능" : {
+    "en" : "Add",
+    "ja" : "追加機能",
+    "vi" : "Thêm",
+    "zh" : "追加技能"
+  },
+  "주소록(아웃룩).csv" : {
+    "en" : "Contacts(outlook).csv",
+    "ja" : "アドレス帳(outlook).csv",
+    "vi" : "Sổ địa chỉ(outlook).csv",
+    "zh" : "地址录(outlook).csv"
+  },
+  "부서로 조회" : {
+    "en" : "Search by department",
+    "ja" : "部署で照会",
+    "vi" : "Tìm kiếm theo phòng ban/bộ phận",
+    "zh" : "查询为部门"
+  },
+  "조직도 매니저" : {
+    "en" : "Organizational Chart Manager",
+    "ja" : "組織図マネージャー",
+    "vi" : "Người quản lý tổ chức",
+    "zh" : "组织图经理"
+  },
+  "<strong>M365 연동 해제</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Disconnect M365 Integration</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>M365連携解除</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Hủy liên kết M365</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>M365 联动解除</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "氏名",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "구성원" : {
+    "en" : "Member",
+    "ja" : "構成員",
+    "vi" : "Thành viên",
+    "zh" : "构成员 一览表"
+  },
+  "“{0}{1}” 의 <strong>부서정보</strong>를 <strong>수정</strong>하였습니다." : {
+    "en" : "<strong>Edited</strong> <strong>department information</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}” の <strong>部署情報</strong>を <strong>修正</strong>しました。",
+    "vi" : "<strong>Đã chỉnh sửa</strong> <strong>thông tin bộ phận</strong> của “{0}{1}”",
+    "zh" : "已<strong>修改</strong>“{0}{1}”的<strong>部门信息</strong>。"
+  },
+  "휴대전화" : {
+    "en" : "Mobile Phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机号码"
+  },
+  "상위 모두선택" : {
+    "en" : "Select All Upper (Parent)",
+    "ja" : "上位すべて選択",
+    "vi" : "Tất cả các lựa chọn trên",
+    "zh" : "上位全部选择。"
+  },
+  "설정 초기화" : {
+    "en" : "Reset Settings",
+    "ja" : "設定の初期化",
+    "vi" : "Cài đặt",
+    "zh" : "右上角"
+  },
+  "“{0}” <strong>직위</strong>를 <strong>추가</strong>하였습니다." : {
+    "en" : "<strong>Added</strong> <strong>position</strong> of “{0}”",
+    "ja" : "“{0}” <strong>職位</strong>を <strong>追加</strong>しました。",
+    "vi" : "<strong>Đã thêm</strong> <strong>vị trí</strong> của “{0}”",
+    "zh" : "已<strong>添加</strong>“{0}” <strong>职位</strong>。"
+  },
+  "<strong>부서 삭제</strong> {0}" : {
+    "en" : "<strong>Delete Department</strong> {0}",
+    "ja" : "<strong>部署を削除</strong> {0}",
+    "vi" : "<strong>Xóa bộ phận</strong> {0}",
+    "zh" : "<strong>删除部门</strong> {0}"
+  },
+  "부서 약어" : {
+    "en" : "Department Abbreviation",
+    "ja" : "部署の略語",
+    "vi" : "Từ viết tắt bộ phận",
+    "zh" : "部门简称"
+  },
+  "“{0}” <strong>직위</strong>를 <strong>삭제</strong>하였습니다." : {
+    "en" : "<strong>Deleted</strong> “{0}” <strong>title</strong>",
+    "ja" : "“{0}” <strong>職位</strong>を <strong>削除</strong>しました。",
+    "vi" : "<strong>Đã xóa</strong> “{0}” <strong>vị trí</strong>",
+    "zh" : "已<strong>删除</strong>“{0}” <strong>职位</strong>。"
+  },
+  "1단 부서/사용자 조직도" : {
+    "en" : "One-level department/user organizational chart",
+    "ja" : "1段 部署/ユーザーの組織図",
+    "vi" : "Sơ đồ tổ chức chứa 1 cấp phòng ban/nhân viên",
+    "zh" : "1段 部门/使用者 组织图"
+  },
+  "발신자표시" : {
+    "en" : "Show caller ID",
+    "ja" : "送信者表示",
+    "vi" : "Hiện ID người gọi",
+    "zh" : "表示发信人"
+  },
+  "<strong>복원</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Restore</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>復元</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Khôi phục</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>还原</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "<strong>직위</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Position</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>職位</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Chức vị</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>职位</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "소속부서 없음" : {
+    "en" : "Does not belong to a department",
+    "ja" : "所属部署なし",
+    "vi" : "Không có bộ phận chi nhánh",
+    "zh" : "不附属部门"
+  },
+  "집주소" : {
+    "en" : "Home Address",
+    "ja" : "自宅の住所",
+    "vi" : "Địa chỉ nhà",
+    "zh" : "住宅地址"
+  },
+  "우측하단" : {
+    "en" : "Bottom right",
+    "ja" : "右下段",
+    "vi" : "Góc dưới bên phải",
+    "zh" : "右下"
+  },
+  "닫기" : {
+    "en" : "close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "關閉"
+  },
+  "{0}이외 등록자중" : {
+    "en" : "among registrants besides {0}",
+    "ja" : "{0}以外登録者の中",
+    "vi" : "trong số những người đăng ký khác bên cạnh {0}",
+    "zh" : "{0}以外登录人中"
+  },
+  "부서명" : {
+    "en" : "department name",
+    "ja" : "部署名",
+    "vi" : "tên bộ phận",
+    "zh" : "部门名"
+  },
+  "쪽지" : {
+    "en" : "message",
+    "ja" : "メッセージ",
+    "vi" : "Lời nhắn",
+    "zh" : "纸条"
+  },
+  "허용 가능한 라이선스 {0}건, 신규 등록자수 {1}건 입니다." : {
+    "en" : "There are {0} allowable licenses and {1} new registrants.",
+    "ja" : "許容可能なライセンス{0}件、新規登録者数{1}件です。",
+    "vi" : "Có {0} giấy phép được cho phép và {1} người dùng đăng ký mới",
+    "zh" : "可以允许的许可证{0}件，新登录人数 {1}件。"
+  },
+  "“{0}{1}” 의 <strong>{2}&#60;{3}&#62;</strong> 님의 <strong>직위</strong>를 <strong>수정</strong>하였습니다." : {
+    "en" : "<strong>Edited</strong> the <strong>position</strong> of <strong>{2}&#60;{3}&#62;</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}” の <strong>{2}&#60;{3}&#62;</strong> さんの <strong>職位</strong>を <strong>修正</strong>しました。",
+    "vi" : "<strong>Chỉnh sửa</strong> <strong>vị trí</strong> của <strong>{2}&#60;{3}&#62;</strong> của “{0}{1}”",
+    "zh" : "已<strong>修改</strong>“{0}{1}” 的<strong>{2}&#60;{3}&#62;</strong>的 <strong>职位</strong>。"
+  },
+  "“{0}{1}”(으)로 <strong>{2}&#60;{3}&#62;</strong> 님을 <strong>복원</strong>하였습니다." : {
+    "en" : "<strong>Restored</strong>.<strong>{2}&#60;{3}&#62;</strong> with “{0}{1}”",
+    "ja" : "“{0}{1}”で <strong>{2}&#60;{3}&#62;</strong> さんを <strong>復元</strong>しました。",
+    "vi" : "<strong>Khôi phục</strong>.<strong>{2}&#60;{3}&#62;</strong> với “{0}{1}”",
+    "zh" : "利用“{0}{1}”已将 <strong>{2}&#60;{3}&#62;</strong><strong>复原</strong>。"
+  },
+  "수정자" : {
+    "en" : "Modifier",
+    "ja" : "修正者",
+    "vi" : "Người chỉnh sửa",
+    "zh" : "修改者"
+  },
+  "그룹웨어 알림 사용여부" : {
+    "en" : "Use Groupware Notification?",
+    "ja" : "グループウェアの通知使用可否",
+    "vi" : "Có sử dụng thông báo Groupware hay không",
+    "zh" : "设定初始化"
+  },
+  "<strong>직책 수정</strong> {0} → {1}" : {
+    "en" : "<strong>Modify Duty</strong> {0} → {1}",
+    "ja" : "<strong>職責を修正</strong> {0} → {1}",
+    "vi" : "<strong>Chỉnh sửa chức trách</strong> {0} → {1}",
+    "zh" : "<strong>修改职责</strong> {0} → {1}"
+  },
+  "글로벌타임" : {
+    "en" : "Global time",
+    "ja" : "グローバルタイム",
+    "vi" : "Thời gian toàn cầu",
+    "zh" : "右下"
+  },
+  "부서 내 <strong>위치 변경</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Change Location</strong> within Department {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "部署内の <strong>位置を変更</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "Thay đổi vị trí <strong>trong bộ phận</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "在部门内更改<strong>位置</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "“{0}” <strong>직위정보</strong>를 <strong>수정</strong>하였습니다." : {
+    "en" : "<strong>Edited</strong> “{0}” <strong>Position Information</strong>",
+    "ja" : "“{0}” <strong>職位情報</strong>を <strong>修正</strong>しました。",
+    "vi" : "<strong>Đã chỉnh sửa</strong> “{0}” <strong>Thông tin Vị trí</strong>",
+    "zh" : "已<strong>修改</strong>“{0}” <strong>职位信息</strong>。"
+  },
+  "“{0}{1}” 하위에 “{2}” 을(를) <strong>추가</strong>하였습니다." : {
+    "en" : "<strong>Added</strong>“{2}” under “{0}{1}”",
+    "ja" : "“{0}{1}” 下位に “{2}” を <strong>追加</strong>しました。",
+    "vi" : "<strong>Đã thêm</strong>“{2}” dưới “{0}{1}”",
+    "zh" : "“{0}{1}” 下方已<strong>添加</strong>“{2}”。"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "全て閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "그룹웨어 DESKTOP 알림" : {
+    "en" : "Groupware DESKTOP Notification",
+    "ja" : "グループウェアデスクトップ通知",
+    "vi" : "Thông báo  DESKTOP Groupware",
+    "zh" : "GroupWare DESKTOP 通知"
+  },
+  "조직도 샘플" : {
+    "en" : "Organizational Chart Sample",
+    "ja" : "組織図サンプル",
+    "vi" : "Mẫu tổ chức",
+    "zh" : "组织图样品"
+  },
+  "부서권한" : {
+    "en" : "Department permissions",
+    "ja" : "部署権限",
+    "vi" : "Quyền hạn của phòng ban/bộ phận",
+    "zh" : "部门权限"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa đổi",
+    "zh" : "修改"
+  },
+  "“{0}{1}”의 <strong>{2}&#60;{3}&#62;</strong> 님의 서비스 사용을 <strong>정상화</strong>하였습니다." : {
+    "en" : "<strong>normalized</strong> the service usage of <strong>{2}&#60;{3}&#62;</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}”の <strong>{2}&#60;{3}&#62;</strong> さんのサービス使用を <strong>正常化</strong>しました。",
+    "vi" : "<strong>Tiêu chuẩn hóa</strong> sử dụng dịch vụ <strong>{2}&#60;{3}&#62;</strong> của “{0}{1}”",
+    "zh" : "已 <strong>正常化</strong>{0}{1}的<strong>{2}&#60;{3}&#62;<strong>的服务使用."
+  },
+  "선정" : {
+    "en" : "Select",
+    "ja" : "選定",
+    "vi" : "Lựa chọn",
+    "zh" : "选定"
+  },
+  "print" : {
+    "en" : "print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "문서담당자" : {
+    "en" : "Document Manager",
+    "ja" : "文書管理者",
+    "vi" : "Người quản lý tài liệu",
+    "zh" : "文件负责人"
+  },
+  "<strong>직위 추가</strong> {0}" : {
+    "en" : "<strong>Add Position</strong> {0}",
+    "ja" : "<strong>職位を追加</strong> {0}",
+    "vi" : "<strong>Thêm chức vị</strong> {0}",
+    "zh" : "<strong>添加职位</strong> {0}"
+  },
+  "칭찬/우수사원" : {
+    "en" : "Praised/Excellent Employee",
+    "ja" : "賞賛/優秀社員",
+    "vi" : "Nhân viên tốt/xuất sắc",
+    "zh" : "称赞/优秀职员"
+  },
+  "종료" : {
+    "en" : "End",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "结束"
+  },
+  "임시 비밀번호는 아래와 같습니다. 그룹웨어 로그인후 <strong>[마이페이지>개인정보관리] 에서 비밀번호를 반드시 변경하시기 바랍니다.</strong><br/><br/>" : {
+    "en" : "Temporary password is shown below. Please change the password at <strong>[My Page > Manage Personal Information] after logging into the Groupware.</strong><br/><br/>",
+    "ja" : "仮パスワードはグループウェアログインの後、.</strong>[マイページ>個人情報管理]でパスワードでパスワードを必ず変更してください。.</strong><br/><br/>",
+    "vi" : "Mật khẩu tạm thời được hiển thị dưới đây. Vui lòng thay đổi mật khẩu từ <strong> [Trang của tôi> Quản lý thông tin cá nhân] sau khi đăng nhập vào Groupware.</ Strong><br/><br/>",
+    "zh" : "临时密码如下。请务必在登录群件后<strong>在[我的主页>个人信息管理]中变更密码。</strong><br/><br/>"
+  },
+  "삭제자 복원 결과" : {
+    "en" : "Deleted User Recovery Result",
+    "ja" : "削除者の復元結果",
+    "vi" : "Kết quả khôi phục người xóa",
+    "zh" : "删除者复原结果"
+  },
+  "M365 연동 해제" : {
+    "en" : "Disconnect M365 Integration",
+    "ja" : "M365連携解除",
+    "vi" : "Hủy liên kết M365",
+    "zh" : "M365 联动解除"
+  },
+  "거부" : {
+    "en" : "denial",
+    "ja" : "拒否",
+    "vi" : "Từ chối",
+    "zh" : "拒绝"
+  },
+  "검색결과" : {
+    "en" : "Search Results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "<strong>담당자 지정 {0}&#60;{1}&#62;</strong> {2} {3}" : {
+    "en" : "<strong>Appoint Person In Charge {0}&#60;{1}&#62;</strong> {2} {3}",
+    "ja" : "<strong>担当者を指定 {0}&#60;{1}&#62;</strong> {2} {3}",
+    "vi" : "<strong>Chỉ định người phụ trách {0}&#60;{1}&#62;</strong> {2} {3}",
+    "zh" : "<strong>指定负责人 {0}&#60;{1}&#62;</strong> {2} {3}"
+  },
+  "기관코드" : {
+    "en" : "Organization code",
+    "ja" : "機関コード",
+    "vi" : "Mã tổ chức",
+    "zh" : "部门编码"
+  },
+  "주소록(아웃룩Ex).csv" : {
+    "en" : "Contacts(outlookEx).csv",
+    "ja" : "アドレス帳(outlookEx).csv",
+    "vi" : "Địa chỉ(outlook Ex).csv",
+    "zh" : "地址录(outlookEx).csv"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト形",
+    "vi" : "Loại danh sách",
+    "zh" : "目录形"
+  },
+  "<strong>{0}{1}&#60;{2}&#62;</strong> 님의 “{3}” 부서내 <strong>위치</strong>를 변경하였습니다." : {
+    "en" : "Edited the <strong>location</strong> of <strong>{0}{1}&#60;{2}&#62;</strong> within the department “{3}”",
+    "ja" : "<Strong>{0}{1}&#60;{2}&#62;</strong> さんの “{3}” 部署内 <strong>位置</strong>を変更しました。",
+    "vi" : "Đã chỉnh sửa <strong>vị trí bộ phận của</strong><strong>{0}{1}&#60;{2}&#62;</strong>",
+    "zh" : "已更改<strong>{0}{1}&#60;{2}&#62;</strong> 的“{3}”部门内<strong>位置</strong>。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "이메일" : {
+    "en" : "E-mail",
+    "ja" : "メール",
+    "vi" : "Mail",
+    "zh" : "邮件"
+  },
+  "<strong>삭제</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Delete</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>削除</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Xóa</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>删除</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "<strong>추가</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Add</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>追加</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Thêm</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>添加</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "“{0}” <strong>직무정보</strong>를 <strong>수정</strong>하였습니다." : {
+    "en" : "<strong>Edited</strong> “{0}” <strong>Duty information</strong>",
+    "ja" : "“{0}” <strong>職務情報</strong>を <strong>修正</strong>しました。",
+    "vi" : "<strong>Đã chỉnh sửa</strong> “{0}” <strong>Thông tin vị trí</strong>",
+    "zh" : "已<strong>修改</strong>“{0}” <strong>职务信息</strong>。"
+  },
+  "“{0}{1}” 의 <strong>부서위치</strong>를 <strong>변경</strong>하였습니다." : {
+    "en" : "<strong>Edited</strong>  <strong>department location</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}” の <strong>部署位置</strong>を <strong>変更</strong>しました。",
+    "vi" : "<strong>Đã chỉnh sửa</strong>  <strong>vị trí bộ phận</strong> of “{0}{1}”",
+    "zh" : "已<strong>更改</strong>“{0}” <strong>部门位置</strong>。"
+  },
+  "<strong>부서 추가</strong> {0}" : {
+    "en" : "<strong>Add Department</strong> {0}",
+    "ja" : "<strong>部署を追加</strong> {0}",
+    "vi" : "<strong>Thêm bộ phận</strong> {0}",
+    "zh" : "<strong>添加部门</strong> {0}"
+  },
+  "<strong>직무 삭제</strong> {0}" : {
+    "en" : "<strong>Delete Task</strong> {0}",
+    "ja" : "<strong>職務を削除</strong> {0}",
+    "vi" : "<strong>Xóa chức vụ</strong> {0}",
+    "zh" : "<strong>删除职务</strong> {0}"
+  },
+  "“{0}{1}”에서 <strong>{2}&#60;{3}&#62;</strong> 님을 <strong>삭제</strong>하였습니다." : {
+    "en" : "<strong>Deleted</strong>.<strong>{2}&#60;{3}&#62;</strong>from “{0}{1}”",
+    "ja" : "“{0}{1}”で <strong>{2}&#60;{3}&#62;</strong> さんを <strong>削除</strong>しました。",
+    "vi" : "<strong>Xoá</strong>.<strong>{2}&#60;{3}&#62;</strong>khỏi “{0}{1}”",
+    "zh" : "<strong>{2}&#60;{3}&#62;</strong>已在“{0}{1}”被 <strong>删除</strong>。"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Đang chờ",
+    "zh" : "待机"
+  },
+  "<strong>Google 연동 해제</strong> {0} <strong>{1}&#60;{2}&#62;</strong>" : {
+    "en" : "<strong>Disconnect Google Integration</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "ja" : "<strong>Google連携解除</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "vi" : "<strong>Hủy liên kết Google</strong> {0} <strong>{1}&#60;{2}&#62;</strong>",
+    "zh" : "<strong>Google 联动解除</strong> {0} <strong>{1}&#60;{2}&#62;</strong>"
+  },
+  "<strong>부서겸직 추가 {0}&#60;{1}&#62;</strong> {2}" : {
+    "en" : "<strong>Add Concurrent Department {0}&#60;{1}&#62;</strong> {2}",
+    "ja" : "<strong>部署兼職を追加 {0}&#60;{1}&#62;</strong> {2}",
+    "vi" : "<strong>Thêm kiêm chức bộ phận {0}&#60;{1}&#62;</strong> {2}",
+    "zh" : "<strong>添加部门兼职 {0}&#60;{1}&#62;</strong> {2}"
+  },
+  "<strong>{0}&#60{1};&#62;</strong> 님의 <strong>부서겸직 정보</strong> “{2}{3}”을(를) <strong>추가</strong>하였습니다." : {
+    "en" : "<strong>Added</strong> <strong>Departmental Simultaneous Job Information</strong> “{2}{3}” of <strong>{0}&#60;{1}&#62;</strong>",
+    "ja" : "<Strong>{0}&#60;{1}&#62;</strong> さんの <strong>部署兼職情報</strong> “{2}{3}”を <strong>追加</strong>しました。",
+    "vi" : "<strong>Đã thêm</strong> <strong>Thông tin Công việc Bộ phận</strong> “{2}{3}” của <strong>{0}&#60;{1}&#62;</strong>",
+    "zh" : "已<strong>添加</strong><strong>{0}&#60;{1}&#62;</strong>的<strong>部门兼职信息</strong> “{2}{3}”。"
+  },
+  "모든 사용자" : {
+    "en" : "All users",
+    "ja" : "すべてのユーザー",
+    "vi" : "Tất cả người dùng",
+    "zh" : "全部用户"
+  },
+  "<strong>직책 삭제</strong> {0}" : {
+    "en" : "<strong>Delete Duty</strong> {0}",
+    "ja" : "<strong>職責を削除</strong> {0}",
+    "vi" : "<strong>Xóa chức trách</strong> {0}",
+    "zh" : "<strong>删除职责</strong> {0}"
+  },
+  "“{0}” <strong>직책</strong>을 <strong>추가</strong>하였습니다." : {
+    "en" : "<strong>Added</strong> “{0}” <strong>Title</strong>",
+    "ja" : "“{0}” <strong>役職</strong>を <strong>追加</strong>しました。",
+    "vi" : "<strong>Đã thêm</strong> “{0}” <strong>Vị trí</strong>",
+    "zh" : "已<strong>添加</strong>“{0}” <strong>职责</strong>。"
+  },
+  "사용자가 없습니다." : {
+    "en" : "There is no user.",
+    "ja" : "ユーザーがありません。",
+    "vi" : "Không có người dùng.",
+    "zh" : "没有使用者"
+  },
+  "그룹웨어 알림 팝업위치" : {
+    "en" : "Groupware notification pop-up location",
+    "ja" : "グループウェア通知ポップアップ位置",
+    "vi" : "Vị trí popup thông báo Groupware",
+    "zh" : "世界时间"
+  },
+  "회사메일" : {
+    "en" : "Company mail",
+    "ja" : "会社メール",
+    "vi" : "Hòm thư công ty",
+    "zh" : "公司邮件"
+  },
+  "[{0}]의 유형이나 길이가 알맞지 않습니다." : {
+    "en" : "[{0}] has an inappropriate type or length.",
+    "ja" : "[{0}]の種類や長さは不適切です。",
+    "vi" : "[{0}] loại hoặc độ dài không phù hợp.",
+    "zh" : "[{0}]的类型或长度不正确。"
+  },
+  "부재현황" : {
+    "en" : "Absence Status",
+    "ja" : "不在の状況",
+    "vi" : "Trạng thái vắng mặt",
+    "zh" : "不在现况"
+  },
+  "사번" : {
+    "en" : "Employee No.",
+    "ja" : "社員番号",
+    "vi" : "Mã số nhân viên",
+    "zh" : "员工序号"
+  },
+  "담당업무" : {
+    "en" : "Responsible Tasks (Duties)",
+    "ja" : "担当業務",
+    "vi" : "Tác vụ đảm nhiệm",
+    "zh" : "负责业务"
+  },
+  "<strong>부서 변경 {0}&#60;{1}&#62;</strong>" : {
+    "en" : "<strong>Change Department {0}&#60;{1}&#62;</strong>",
+    "ja" : "<strong>部署を変更 {0}&#60;{1}&#62;</strong>",
+    "vi" : "<strong>Thay đổi bộ phận {0}&#60;{1}&#62;</strong>",
+    "zh" : "<strong>更改部门 {0}&#60;{1}&#62;</strong>"
+  },
+  "<strong>직책 추가</strong> {0}" : {
+    "en" : "<strong>Add Duty</strong> {0}",
+    "ja" : "<strong>職責を追加</strong> {0}",
+    "vi" : "<strong>Thêm chức trách</strong> {0}",
+    "zh" : "<strong>添加职责</strong> {0}"
+  },
+  "발신자표시 사용여부" : {
+    "en" : "Enable Caller Identification",
+    "ja" : "送信者表示の使用可否",
+    "vi" : "Kích hoạt tính năng nhận dạng cuộc gọi",
+    "zh" : "是否使用表示发信人"
+  },
+  "일반 템플릿" : {
+    "en" : "General Template",
+    "ja" : "一般テンプレート",
+    "vi" : "Mẫu thông thường",
+    "zh" : "常规模板"
+  },
+  "직책 없음" : {
+    "en" : "No title",
+    "ja" : "職役なし",
+    "vi" : "Không có chức trách",
+    "zh" : "没有标题"
+  },
+  "검색 결과가 없습니다." : {
+    "en" : "No search results found.",
+    "ja" : "検索結果なし",
+    "vi" : "Không có kết quả tìm kiếm.",
+    "zh" : "没有搜索结果。"
+  },
+  "모두펼침" : {
+    "en" : "Expand All",
+    "ja" : "全て開く",
+    "vi" : "Mở tất cả",
+    "zh" : "全部打开"
+  },
+  "[그룹웨어] 임시 비밀번호를 보내드립니다." : {
+    "en" : "[Groupware] Temporary password has been sent.",
+    "ja" : "[グループウェア]の仮パスワードをお届けします。",
+    "vi" : "[Groupware] mật khẩu tạm thời đã được gửi.",
+    "zh" : "发送给您[群件]临时密码。"
+  },
+  "<strong>부서겸직 삭제 {0}&#60;{1}&#62;</strong> {2}" : {
+    "en" : "<strong>Delete Concurrent Department {0}&#60;{1}&#62;</strong> {2}",
+    "ja" : "<strong>部署兼職を削除 {0}&#60;{1}&#62;</strong> {2}",
+    "vi" : "<strong>Xóa kiêm chức bộ phận {0}&#60;{1}&#62;</strong> {2}",
+    "zh" : "<strong>删除部门兼职 {0}&#60;{1}&#62;</strong> {2}"
+  },
+  "메일 선택" : {
+    "en" : "Mail selection",
+    "ja" : "メール選択",
+    "vi" : "Chọn mail",
+    "zh" : "选择邮件"
+  },
+  "<strong>담당자 해제 {0}&#60;{1}&#62;</strong> {2} {3}" : {
+    "en" : "<strong>Clear Person In Charge {0}&#60;{1}&#62;</strong> {2} {3}",
+    "ja" : "<strong>担当者を解除 {0}&#60;{1}&#62;</strong> {2} {3}",
+    "vi" : "<strong>Xóa người phụ trách {0}&#60;{1}&#62;</strong> {2} {3}",
+    "zh" : "<strong>解除负责人 {0}&#60;{1}&#62;</strong> {2} {3}"
+  },
+  "<strong>부서 수정</strong>" : {
+    "en" : "<strong>Modify Department</strong>",
+    "ja" : "<strong>部署を修正</strong>",
+    "vi" : "<strong>Chỉnh sửa bộ phận</strong>",
+    "zh" : "<strong>修改部门</strong>"
+  },
+  "부서장" : {
+    "en" : "Head of Department",
+    "ja" : "部署長",
+    "vi" : "Giám đốc bộ phận",
+    "zh" : "部门长"
+  },
+  "<strong>직무 추가</strong> {0}" : {
+    "en" : "<strong>Add Task</strong> {0}",
+    "ja" : "<strong>職務を追加</strong> {0}",
+    "vi" : "<strong>Thêm chức vụ</strong> {0}",
+    "zh" : "<strong>添加职务</strong> {0}"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "선택 취소" : {
+    "en" : "Select cancel.",
+    "ja" : "選択解除",
+    "vi" : "Chọn hủy.",
+    "zh" : "取消选择"
+  },
+  "근무위치" : {
+    "en" : "Work location",
+    "ja" : "勤務場所",
+    "vi" : "Địa điểm làm việc",
+    "zh" : "工作位置"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "“{0}” <strong>직무</strong>를 <strong>추가</strong>하였습니다." : {
+    "en" : "<strong>Added</strong> “{0}” <strong>duty</strong>",
+    "ja" : "“{0}” <strong>職務</strong>を <strong>追加</strong>しました。",
+    "vi" : "<strong>Đã thêm</strong> “{0}” <strong>vị trí</strong>",
+    "zh" : "已<strong>添加</strong>“{0}” <strong>职务</strong>。"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Thiết lập",
+    "zh" : "设定"
+  },
+  "전체 계열사" : {
+    "en" : "All affiliates",
+    "ja" : "全体系列社",
+    "vi" : "Toàn bộ công ty thành viên",
+    "zh" : "全体连锁公司"
+  },
+  "구성원 목록" : {
+    "en" : "List of Members",
+    "ja" : "メンバーのリスト",
+    "vi" : "Danh sách thành viên",
+    "zh" : "构成员目录"
+  },
+  "“{0}{1}” 을(를) <strong>부서이동</strong>하였습니다." : {
+    "en" : "<strong>Moved department</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}” を <strong>部署移動</strong>しました。",
+    "vi" : "<strong>Đã chuyển bộ phận</strong> của “{0}{1}”",
+    "zh" : "已将“{0}{1}”进行<strong>部门移动</strong>。"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "전체검색" : {
+    "en" : "Search all",
+    "ja" : "全体検索",
+    "vi" : "Tìm kiếm tất cả",
+    "zh" : "全体搜索"
+  },
+  "<strong>{0}&#60;{1}&#62;</strong> 님의 <strong>부서</strong>를 <strong>변경</strong>하였습니다." : {
+    "en" : "<strong>Changed</strong> <strong>the department</strong> of <strong>{0}&#60;{1}&#62;</strong>",
+    "ja" : "<Strong>{0}&#60;{1}&#62;</strong> さんの <strong>部署</strong>を <strong>変更</strong>しました。",
+    "vi" : "<strong>Đã thay đổi</strong> <strong>bộ phận</strong> của <strong>{0}&#60;{1}&#62;</strong>",
+    "zh" : "已<strong>更改</strong><strong>{0}&#60;{1}&#62;</strong>的<strong>部门</strong>。"
+  },
+  "부서관리자" : {
+    "en" : "Department Admin",
+    "ja" : "部署管理者",
+    "vi" : "Quản lý bộ phận",
+    "zh" : "部门管理者"
+  },
+  "직무" : {
+    "en" : "Job",
+    "ja" : "職務",
+    "vi" : "Nhiệm vụ",
+    "zh" : "职务"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部門",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "기존 공유자 권한을 초기화하고 권한을 추가" : {
+    "en" : "Reset prior share permission and add new permission",
+    "ja" : "既存の共有者権限を初期化し、権限を追加する",
+    "vi" : "Thiết lập lại cấp phép chia sẻ lần trước và thêm cấp phép mới",
+    "zh" : "同步化现有共有人权限而追加权限"
+  },
+  "사용 설정" : {
+    "en" : "Use Settings",
+    "ja" : "使用設定",
+    "vi" : "Cài đặt sử dụng",
+    "zh" : "使用设置"
+  },
+  "입사일" : {
+    "en" : "Date of Employment",
+    "ja" : "入社日",
+    "vi" : "Ngày vào công ty",
+    "zh" : "加入公司日"
+  },
+  "내보내기" : {
+    "en" : "Export",
+    "ja" : "エクスポート",
+    "vi" : "Xuất",
+    "zh" : "发送"
+  },
+  "조직관리" : {
+    "en" : "Manage Organization",
+    "ja" : "組織管理",
+    "vi" : "Nhật ký-Quản lý tổ chức",
+    "zh" : "管理小组"
+  },
+  "“{0}{1}” 을(를) <strong>부서삭제</strong>하였습니다." : {
+    "en" : "<strong>Deleted department</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}” を <strong>部署削除</strong>しました。",
+    "vi" : "<strong>Đã xoá bộ phận</strong> của “{0}{1}”",
+    "zh" : "已将“{0}{1}”进行<strong>部门删除</strong>。"
+  },
+  "아웃룩(CSV) 내보내기" : {
+    "en" : "Export to Outlook (CSV).",
+    "ja" : "アウトルック(CSV) エクスポート",
+    "vi" : "Xuất Outlook (CSV)",
+    "zh" : "导出Outlook（CSV）"
+  },
+  "조직도" : {
+    "en" : "Organizational Chart",
+    "ja" : "組織図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "“{0}{1}”의 <strong>{1}&#60;{2}&#62;</strong> 님의 서비스 사용을 <strong>중지</strong>하였습니다." : {
+    "en" : "<strong>Suspended</strong> the service usage of <strong>{1}&#60;{2}&#62;</strong> of “{0}{1}”",
+    "ja" : "“{0}{1}”の <strong>{1}&#60;{2}&#62;</strong> さんのサービス使用を <strong>中止</strong>しました。",
+    "vi" : "<strong>Tạm ngừng</strong> sử dụng dịch vụ <strong>{1}&#60;{2}&#62;</strong> của “{0}{1}”",
+    "zh" : "已 <strong>停止</strong>{0}{1}的<strong>{2}&#60;{3}&#62;<strong>的服务使用."
+  },
+  "개인정보수정" : {
+    "en" : "Modify Personal Information",
+    "ja" : "個人情報修正",
+    "vi" : "Sửa thông tin cá nhân",
+    "zh" : "修改个人信息"
+  },
+  "대내" : {
+    "en" : "Internal",
+    "ja" : "対内",
+    "vi" : "đối nội",
+    "zh" : "对内"
+  },
+  "<strong>부서 위치 변경</strong> {0}" : {
+    "en" : "<strong>Change Department Location</strong> {0}",
+    "ja" : "<strong>部署の位置を変更</strong> {0}",
+    "vi" : "<strong>Thay đổi vị trí bộ phận</strong> {0}",
+    "zh" : "<strong>更改部门位置</strong> {0}"
+  },
+  "사용자명" : {
+    "en" : "User name",
+    "ja" : "ユーザー名",
+    "vi" : "Tên người dùng",
+    "zh" : "使用者名"
+  },
+  "칭찬사원" : {
+    "en" : "Praised Employees",
+    "ja" : "賞賛社員",
+    "vi" : "Nhân viên tốt",
+    "zh" : "称赞职员"
+  },
+  "부서 겸직자는 부서미지정으로 이동이 불가능합니다." : {
+    "en" : "Department Dual-position workers (concurrent, holds position in multiple departments) cannot move since they are not assigned to a specific department.",
+    "ja" : "部署兼職者は部署未指定のため移動が不可能です。",
+    "vi" : "Không thể di chuyển nhân viên nắm giữ hai vị trí tại phòng ban do chưa có phòng ban nào được chỉ định.",
+    "zh" : "部门兼职者不可移动到未指定部门。"
+  },
+  "기록물관리자" : {
+    "en" : "Records Admin",
+    "ja" : "記録管理者",
+    "vi" : "Người quản lý ghi chép",
+    "zh" : "纪录物管理者"
+  },
+  "보안정보" : {
+    "en" : "Security Information",
+    "ja" : "セキュリティ情報",
+    "vi" : "Thông tin bảo mật",
+    "zh" : "安全信息"
+  },
+  "블럭 템플릿" : {
+    "en" : "Block Template",
+    "ja" : "ブロックテンプレート",
+    "vi" : "Mẫu khối",
+    "zh" : "块模板"
+  },
+  "다국어버전" : {
+    "en" : "Multilingual version",
+    "ja" : "多国語バージョン",
+    "vi" : "Phiên bản đa ngôn ngữ",
+    "zh" : "中央"
+  },
+  "{0}건을 제거후 재등록 해 주세요." : {
+    "en" : "Remove {0} entries and add them again.",
+    "ja" : "{0}件を除去した後、再登録してください。",
+    "vi" : "Hãy loại bỏ {0} và đăng ký lại",
+    "zh" : "消除{0}件后请再进行登录。"
+  },
+  "조직도를 아웃룩이나 아웃룩 익스프레스에서 사용할 수 있는 CSV파일로 내보낼 수 있습니다." : {
+    "en" : "You can export the organizational chart as a CSV file that can be used in Outlook or Outlook Express.",
+    "ja" : "組織図はOutlookやOutlook Expressで使用できるCSVファイルでエクスポートできます。",
+    "vi" : "Bạn có thể gửi sơ đồ tổ chức trên Outlook hoặc Outlook Express bằng file CSV.",
+    "zh" : "把组织图可以发送为在outlook或outlook express可以使用的 CSV文件。"
+  },
+  "하위부서포함" : {
+    "en" : "Including sub-departments",
+    "ja" : "下位部署を含む",
+    "vi" : "Bao gồm bộ phận dưới",
+    "zh" : "包括下位部门"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời hạn",
+    "zh" : "期间"
+  },
+  "<strong>직위 수정</strong> {0} → {1}" : {
+    "en" : "<strong>Modify Position</strong> {0} → {1}",
+    "ja" : "<strong>職位を修正</strong> {0} → {1}",
+    "vi" : "<strong>Chỉnh sửa chức vị</strong> {0} → {1}",
+    "zh" : "<strong>修改职位</strong> {0} → {1}"
+  },
+  "DESKTOP 알림을 지원하는 브라우저에서는 팝업을 대체합니다." : {
+    "en" : "It will replace pop-ups in a browser that supports DESKTOP notifications.",
+    "ja" : "デスクトップ通知をサポートするブラウザではポップアップを代替します。",
+    "vi" : "Các trình duyệt hỗ trợ thông báo DESKTOP thay thế cửa sổ bật lên.",
+    "zh" : "在支持DESKTOP通知的浏览器中代替弹窗。"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "선정일" : {
+    "en" : "Date selected",
+    "ja" : "選定日",
+    "vi" : "Ngày lựa chọn",
+    "zh" : "选定日"
+  },
+  "2단 부서/사용자 지정 조직도" : {
+    "en" : "Two-level Department/User Assigned Organizational Chart",
+    "ja" : "2段 部署/ユーザー指定の組織図",
+    "vi" : "Sơ đồ tổ chức chứa 2 cấp phòng ban/nhân viên",
+    "zh" : "2段 部门/使用者 指定组织图"
+  },
+  "수신" : {
+    "en" : "Receive",
+    "ja" : "受信",
+    "vi" : "Nhận",
+    "zh" : "收信"
+  },
+  "집" : {
+    "en" : "Home",
+    "ja" : "自宅",
+    "vi" : "Nhà",
+    "zh" : "家"
+  },
+  "“{0}{1}”에 <strong>{2}&#60;{3}&#62;</strong> 님을 <strong>추가</strong>하였습니다." : {
+    "en" : "<strong>Added</strong> <strong>{2}&#60;{3}&#62;</strong> to “{0}{1}”",
+    "ja" : "“{0}{1}”に <strong>{2}&#60;{3}&#62;</strong> さんを <strong>追加</strong>しました。",
+    "vi" : "<strong>Thêm</strong> <strong>{2}&#60;{3}&#62;</strong> vào “{0}{1}”",
+    "zh" : "<strong>{2}&#60;{3}&#62;</strong>已 <strong>添加</strong>到“{0}{1}”。"
+  },
+  "<strong>부서 이동</strong>" : {
+    "en" : "<strong>Move Department</strong>",
+    "ja" : "<strong>部署を異動</strong>",
+    "vi" : "<strong>Di chuyển bộ phận</strong>",
+    "zh" : "<strong>移动部门</strong>"
+  },
+  "에디터 템플릿" : {
+    "en" : "Editor Template",
+    "ja" : "エディタテンプレート",
+    "vi" : "Mẫu soạn thảo",
+    "zh" : "编辑器模板"
+  },
+  "분할형" : {
+    "en" : "Split type",
+    "ja" : "分割型",
+    "vi" : "Loại phân chia",
+    "zh" : "分割形"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Tùy chọn",
+    "zh" : "选项"
+  },
+  "개인으로 조회" : {
+    "en" : "Search by person",
+    "ja" : "個人で照会",
+    "vi" : "Tìm kiếm theo người",
+    "zh" : "查询为个人"
+  },
+  "<strong>직위 삭제</strong> {0}" : {
+    "en" : "<strong>Delete Position</strong> {0}",
+    "ja" : "<strong>職位を削除</strong> {0}",
+    "vi" : "<strong>Xóa chức vị</strong> {0}",
+    "zh" : "<strong>删除职位</strong> {0}"
+  },
+  "블럭 에디터" : {
+    "en" : "Block Editor",
+    "ja" : "ブロックエディタ",
+    "vi" : "Trình soạn thảo khối",
+    "zh" : "块编辑器"
+  },
+  "일반 에디터" : {
+    "en" : "General Editor",
+    "ja" : "一般エディタ",
+    "vi" : "Trình soạn thảo thông thường",
+    "zh" : "常规编辑器"
+  },
+  "사용중입니다." : {
+    "en" : "Already in use.",
+    "ja" : "使用中です。",
+    "vi" : "đang sử dụng",
+    "zh" : "使用中。"
+  }
+}

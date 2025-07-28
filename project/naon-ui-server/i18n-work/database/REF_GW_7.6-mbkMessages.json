@@ -1,0 +1,362 @@
+{
+  "수정하시겠습니까?" : {
+    "en" : "Do you want to modify it?",
+    "ja" : "修正しますか?",
+    "vi" : "Bạn có muốn thực hiện sửa đổi không?",
+    "zh" : "要修改吗？"
+  },
+  "즐겨찾기 트리에서 Drag&Drop으로 폴더의 즐겨찾기의 위치를 변경할 수 있습니다. 위치변경후에는 반드시 트리 우측하단의 저장 버튼을 눌러 변경된 위치를 저장하세요." : {
+    "en" : "You can change the location of favorites of folders by drag and drop at the Favorites Tree. You have to click the Save button to save the new location after making a change.",
+    "ja" : "お気に入りツリーにてドラッグ＆ドロップでフォルダのお気に入りの位置を変更することができます。位置を変更後に必ずツリー右側の下端の保存ボタンを押して変更された位置を保存してください。",
+    "vi" : "Bạn có thể thay đổi vị trí mục yêu thích của thư mục bằng cách kéo và thả chúng vào Cây yêu thích. Bạn sẽ cần phải nhấn vào nút Lưu để lưu lại vị trí mới.",
+    "zh" : "在收藏夹路径利用 Drag&Drop可以变更文件夹的收藏夹位置。变更位置后必须得点击路径右边下段的保存按钮.而保存变更的位置。"
+  },
+  "즐겨찾기 URL에 입력 가능한 최대 글자수를 초과 하였습니다." : {
+    "en" : "Exceeded Maximum Character Limit for Favorite URL Input.",
+    "ja" : "お気に入りのURLに入力できる最大文字数を超えました。",
+    "vi" : "Vượt quá số ký tự tối đa có thể nhập trong URL yêu thích.",
+    "zh" : "已超过收藏夹URL可以输入的最大字符数。"
+  },
+  "폴더에만 추가할수 있습니다." : {
+    "en" : "It can be only added to folders.",
+    "ja" : "フォルダにのみ追加することができます。",
+    "vi" : "Bạn chỉ có thể thêm thư mục.",
+    "zh" : "只能追加在文件夹上。"
+  },
+  "URL을 입력하세요." : {
+    "en" : "Enter a URL.",
+    "ja" : "URLを入力してください。",
+    "vi" : "Nhập URL.",
+    "zh" : "请输入URL"
+  },
+  "이미 등록한 url 입니다. 해당 폴더에 수정 등록하시겠습니까 ?" : {
+    "en" : "The URL was already added. Do you want to add it to the folder after modifying it?",
+    "ja" : "既に登録されたurlです。そのフォルダに修正登録しますか？",
+    "vi" : "URL này đã được thêm vào rồi Bạn có muốn thêm chúng vào thư mục này không?",
+    "zh" : "已经登录的 url 。要修改登录在有关文件夹上吗？"
+  },
+  "수정 시 오류가 발생하였습니다. 관리자에게 문의 하여주시기 바랍니다." : {
+    "en" : "An error occurred while modifying the folder. Please contact the administrator.",
+    "ja" : "フォルダの修正時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi khi sửa đổi thư mục. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "文件夹修改完了"
+  },
+  "즐겨찾기명" : {
+    "en" : "Favorite name",
+    "ja" : "お気に入り名",
+    "vi" : "Tên yêu thích",
+    "zh" : "收藏夹名"
+  },
+  "즐겨찾기" : {
+    "en" : "Favorites",
+    "ja" : "お気に入り",
+    "vi" : "Yêu thích",
+    "zh" : "收藏夹"
+  },
+  "마우스 오른쪽 버튼을 클릭하면 나타나는 메뉴를 이동하여 폴더 추가 또는 즐겨찾기 추가를 할 수 있습니다." : {
+    "en" : "You can add folders or favorites by moving the menu which appears when you click the mouse right button.",
+    "ja" : "マウス右側ボタンをクリックして表示されるメニューを移動して、フォルダまたはお気に入りを追加することができます。",
+    "vi" : "Bạn có thể thêm các thư mục hoặc mục yêu thích bằng cách di chuyển menu xuất hiện khi bạn nhấp chuột phải.",
+    "zh" : "利用点击鼠标右边按钮的话表示的项就可以追加文件夹或追加收藏夹。"
+  },
+  "즐겨찾기 명은 50자이내로 입력하셔야 합니다." : {
+    "en" : "Favorite Name must be less than 50 characters.",
+    "ja" : "お気に入り名は50字以内で入力してください。",
+    "vi" : "Bạn có thể nhập tối đa 50 ký tự cho tên mục yêu thích.",
+    "zh" : "收藏夹名只能输入50字以内。"
+  },
+  "즐겨찾기 명" : {
+    "en" : "Favorite name",
+    "ja" : "お気に入り名",
+    "vi" : "Tên yêu thích",
+    "zh" : "收藏夹名"
+  },
+  "선택된 즐겨찾기의 정보를 수정할 수 있습니다." : {
+    "en" : "You can modify information of selected favorites.",
+    "ja" : "選択されたお気に入りの情報を修正することができます。",
+    "vi" : "Bạn có thể sửa đổi thông tin về các yêu thích đã chọn.",
+    "zh" : "可以修改已选择的收藏夹的信息"
+  },
+  "모두펼치기" : {
+    "en" : "Expand all",
+    "ja" : "全て開く",
+    "vi" : "Mở rộng tất cả",
+    "zh" : "全部打开"
+  },
+  "즐겨찾기를 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the item from Favorites?",
+    "ja" : "お気に入りを削除しますか？",
+    "vi" : "Bạn có chắc chắn muốn xóa các mục yêu thích không?",
+    "zh" : "要删除收藏夹吗？"
+  },
+  "삭제 되었습니다." : {
+    "en" : "It has been normally deleted.",
+    "ja" : "正常に削除されました。",
+    "vi" : "Đối tượng này đã được xóa theo cách thông thường.",
+    "zh" : "正常删除完了。"
+  },
+  "폴더 선택" : {
+    "en" : "Select Folder",
+    "ja" : "フォルダ選択",
+    "vi" : "Chọn thư mục",
+    "zh" : "选择文件夹"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件名"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "즐겨찾기 URL에 따옴표는 사용할 수 없습니다." : {
+    "en" : "Do not use quotation marks for a favorite URL.",
+    "ja" : "お気に入りのURLに引用符は使用できません。",
+    "vi" : "Không sử dụng dấu ngoặc kép đối với URL yêu thích.",
+    "zh" : "收藏夹url 里不可使用引号。"
+  },
+  "최상위 폴더는 변경 할 수 없습니다." : {
+    "en" : "You cannot change the highest (parent) folder.",
+    "ja" : "最上位フォルダは変更できません。",
+    "vi" : "Bạn không thể thay đổi thư mục trên cùng.",
+    "zh" : "也会一起被删除。而且被删除的Portlet在画面上也会被删除。 还是要删除吗？"
+  },
+  "수정 되었습니다." : {
+    "en" : "It has been modified.",
+    "ja" : "修正が完了しました。",
+    "vi" : "Đã sửa đổi.",
+    "zh" : "超过了最多字数"
+  },
+  "즐겨찾기가 등록되었습니다." : {
+    "en" : "Favorites have been added.",
+    "ja" : "フォルダが登録されました。",
+    "vi" : "Mục yêu thích đã được thêm vào.",
+    "zh" : "文件夹登录完了"
+  },
+  "즐겨찾기관리" : {
+    "en" : "Manage favorites",
+    "ja" : "お気に入り管理",
+    "vi" : "Quản lý các mục yêu thích",
+    "zh" : "收藏夹管理"
+  },
+  "이름을 입력하세요" : {
+    "en" : "Enter a name.",
+    "ja" : "名前を入力してください。",
+    "vi" : "Nhập tên.",
+    "zh" : "请输入名字"
+  },
+  "폴더를 선택 해 주세요." : {
+    "en" : "Select a folder.",
+    "ja" : "フォルダを選択してください。",
+    "vi" : "Chọn thư mục.",
+    "zh" : "请选择文件"
+  },
+  "즐겨찾기 설명은 {0}자이내로 입력하셔야 합니다." : {
+    "en" : "Description must be less than {0} characters.",
+    "ja" : "お気に入り説明は{0}字以内で入力してください。",
+    "vi" : "Mô tả yêu thích phải được nhập trong {0} ký tự.",
+    "zh" : "收藏说明需在{0}字内输入。"
+  },
+  "상위폴더" : {
+    "en" : "Upper (Parent) Folder",
+    "ja" : "上位フォルダ",
+    "vi" : "Thư mục phía trên",
+    "zh" : "上位文件夹"
+  },
+  "현재창" : {
+    "en" : "current window",
+    "ja" : "現在のウィンドウ",
+    "vi" : "cửa sổ hiện tại",
+    "zh" : "现窗口"
+  },
+  "등록 시 오류가 발생하였습니다. 관리자에게 문의 하여주시기 바랍니다." : {
+    "en" : "An error occurred during registration. Please contact the administrator.",
+    "ja" : "フォルダの登録時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi khi thêm thư mục. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "登录文件夹时发生了错误。请向管理者查询"
+  },
+  "즐겨찾기 목록에서 폴더 또는 즐겨찾기를 추가, 삭제할 수 있습니다." : {
+    "en" : "You can add/delete folders or favorites at the Favorites List.",
+    "ja" : "お気に入りリストにフォルダやお気に入りを追加または削除することができます。",
+    "vi" : "Bạn có thể thêm hoặc xóa các thư mục hoặc mục yêu thích đến/trong Danh sách yêu thích.",
+    "zh" : "在收藏夹菜单里面可以追加，删除收藏夹或文件夹"
+  },
+  "즐겨찾기 추가" : {
+    "en" : "Add to Favorites",
+    "ja" : "お気に入り追加",
+    "vi" : "Thêm yêu thích",
+    "zh" : "追加收藏夹"
+  },
+  "잘못된 URL형식입니다. 외부URL은 http로 시작하여야 합니다." : {
+    "en" : "Invalid URL format. An external URL must start with 'http'.",
+    "ja" : "誤ったURL形式です。外部URLはhttpで始めなければなりません。",
+    "vi" : "Đây là hình thức URL không chính xác. Liên kết bên ngoài cần bắt đầu bằng cụm \\\"http://\\\".",
+    "zh" : "错误的URL形式.外部URL要用http来开始"
+  },
+  "하단 프레임" : {
+    "en" : "Bottom frame",
+    "ja" : "下段フレーム",
+    "vi" : "Khung phía dưới",
+    "zh" : "下面框架"
+  },
+  "즐겨찾기 정보" : {
+    "en" : "Favorites information",
+    "ja" : "お気に入り情報",
+    "vi" : "Thông tin yêu thích",
+    "zh" : "收藏夹信息"
+  },
+  "폴더 명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件名"
+  },
+  "폴더 추가" : {
+    "en" : "Add folder",
+    "ja" : "フォルダ追加",
+    "vi" : "Thêm thư mục",
+    "zh" : "追加文件夹"
+  },
+  "즐겨찾기 목록" : {
+    "en" : "Favorites List",
+    "ja" : "お気に入りリスト",
+    "vi" : "Danh sách yêu thích",
+    "zh" : "收藏夹目录"
+  },
+  "팝업창" : {
+    "en" : "Pop-up window",
+    "ja" : "ポップアップウィンドウ",
+    "vi" : "Cửa sổ pop-up",
+    "zh" : "弹出窗口"
+  },
+  "폴더를 삭제 하면 하위에 있는 폴더 및 즐겨찾기도 같이 삭제 됩니다. 그래도 삭제 하시겠습니까?" : {
+    "en" : "Removing a folder will remove all the sub-folders and favorites that belong to the folder. Are you sure you want to delete the folder?",
+    "ja" : "フォルダを削除すると、下位にあるフォルダとお気に入りも一緒に削除されます。削除してもよろしいですか？",
+    "vi" : "Việc gỡ bỏ thư mục sẽ đồng thời gỡ bỏ toàn bộ các thư mục và yêu thích trong thu mục đó. Bạn chắc chắn muốn xóa bỏ thư mục này chứ?",
+    "zh" : "删除文件夹的话下位的文件夹及收藏夹也会被删除。还是要删除吗？"
+  },
+  "추가하신 URL은 이미 등록된 즐겨찾기입니다." : {
+    "en" : "The URL was already added as a bookmark.",
+    "ja" : "追加されたURLは、すでに登録されています。",
+    "vi" : "URL đã được thêm vào dưới dạng một bookmark.",
+    "zh" : "追加的URL是已经登录完的收藏夹。"
+  },
+  "폴더가 등록 되었습니다." : {
+    "en" : "The folder has been added.",
+    "ja" : "フォルダが登録されました。",
+    "vi" : "Thư mục này đã được thêm vào.",
+    "zh" : "文件夹登录完了"
+  },
+  "폴더 수정" : {
+    "en" : "Modify folder",
+    "ja" : "フォルダ修正",
+    "vi" : "Sửa đổi thư mục",
+    "zh" : "修改文件夹"
+  },
+  "<p>* 마우스 오른쪽 버튼을 클릭하면 나타나는 메뉴를 이동하여 폴더 추가 또는 즐겨찾기 추가를 할 수 있습니다.</p><p>* 즐겨찾기 트리에서 Drag&amp;Drop으로 폴더의 즐겨찾기의 위치를 변경할 수 있습니다.</p><p>* 위치변경후에는 반드시 트리 우측하단의 저장 버튼을 눌러 변경된 위치를 저장하세요.</p>" : {
+    "en" : "By moving the menu which appears when you click the right mouse button, you can add folders and favorites.</p><p>* You can change the location of the folders and favorites via Drag & Drop at the Favorites tree.</p><p>* After changing the location, you must save the changes made by clicking on the Save button located at the bottom-right corner of the tree.</p>",
+    "ja" : "<p>* マウス右側ボタンをクリックして表示されるメニューを移動して、フォルダまたはお気に入りを追加することができます。</p><p>* お気に入りツリーにてドラッグ＆ドロップでフォルダのお気に入りの位置を変更することができます。 <br/>位置を変更後に必ずツリー右側の下段の保存ボタンを押して変更された位置を保存してください。</p>",
+    "vi" : "<p>* Bạn có thể thêm các thư mục và đánh dấu yêu thích bằng cách di chuyển menu xuất hiện khi nhấp chuột phải. </p><p>* Bạn có thể thay đổi vị trí của thư mục và đánh dấu yêu thích bằng cách kéo và thả chúng vào Biểu đồ cây Đánh dấu yêu thích. </p><p>* Bạn phải nhấp vào nút Lưu để lưu lại thiết lập vị trí mới </p>",
+    "zh" : "<p>* 利用点击鼠标右边按钮的话表示的项目就可以追加文件夹或追加收藏夹。</p><p>* 在收藏夹路径利用 Drag&amp;Drop 可以变更文件夹的收藏夹位置。</p><p>* 变更位置后必须得点击路径右边下段的保存按钮.而保存变更的位置。</p>"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "全て閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "오류가 발생하여 이동이 이루어 지지 않았습니다. 관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "The 'Move' process couldn't be performed due to an error. Please contact the administrator.",
+    "ja" : "エラーが発生して移動が行われていません。管理者にお問い合わせください。",
+    "vi" : "Không thể di chuyển do đã có lỗi phét sinh. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "要修改Portlet 吗？"
+  },
+  "삭제시 오류가 발생 하였습니다. 관리자에게 문의 하여 주시기 바랍니다." : {
+    "en" : "An error occurred while deleting. Please contact the administrator.",
+    "ja" : "削除時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Đã xảy ra lỗi khi xóa. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "删除时发生了错误。请向管理者询查。"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name.",
+    "ja" : "フォルダ名を入力してください。",
+    "vi" : "Nhập tên thư mục.",
+    "zh" : "请输入文件夹名。"
+  },
+  "즐겨찾기 관리" : {
+    "en" : "Manage favorites",
+    "ja" : "お気に入り管理",
+    "vi" : "Quản lý các mục yêu thích",
+    "zh" : "收藏夹管理"
+  },
+  "새창" : {
+    "en" : "New window",
+    "ja" : "新しいウィンドウ",
+    "vi" : "Cửa sổ mới",
+    "zh" : "新窗口"
+  },
+  "위치 변경시 오류가 발생 하였습니다. 관리자에게 문의 하여 주시기 바랍니다." : {
+    "en" : "An error occurred while reordering. Please contact the administrator.",
+    "ja" : "位置の変更時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Có lỗi phát sinh trong lúc sắp xếp lại. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "变更地址时发生了错误。请向管理者查询"
+  },
+  "저장 시, 기등록된 즐겨찾기가 변경됩니다." : {
+    "en" : "When saving, the bookmarks that were already added will be changed.",
+    "ja" : "保存時、既に登録されたお気に入りが変更されます。",
+    "vi" : "Trong khi lưu, các bookmark (dấu trang) đã được thêm vào rồi sẽ bị thay đổi.",
+    "zh" : "保存时已经登录完的收藏夹会被变更。"
+  },
+  "데이터를 가지고 올때 오류가 발생 하였습니다. 관리자에게 문의 하여 주시기 바랍니다." : {
+    "en" : "An error occurred while importing data. Please contact the administrator.",
+    "ja" : "データのインポート時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Đã xảy ra lỗi khi nhập dữ liệu. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "拿来数据的时候发生了错误。请向管理者查询。"
+  },
+  "추가할 대상 폴더를 선택하세요." : {
+    "en" : "Select the target folder to add.",
+    "ja" : "追加する対象フォルダを選択してください。",
+    "vi" : "Chọn thư mục để thêm.",
+    "zh" : "请选择要追加的文件夹"
+  },
+  "새로고침" : {
+    "en" : "Refresh",
+    "ja" : "リロード",
+    "vi" : "Làm mới",
+    "zh" : "刷新"
+  },
+  "즐겨찾기 명칭에 특수문자를 사용 할 수 없습니다." : {
+    "en" : "You can't use special characters in Favorite Name.",
+    "ja" : "お気に入り名に特殊文字は使用できません。",
+    "vi" : "Bạn không thể sử dụng ký tự đặc biệt trong tên mục yêu thích.",
+    "zh" : "收藏夹名称上不可使用特殊文字。"
+  },
+  "창설정" : {
+    "en" : "Window settings",
+    "ja" : "ウィンドウ設定",
+    "vi" : "Thiết lập cửa sổ",
+    "zh" : "窗口设置"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Mô tả",
+    "zh" : "说明"
+  },
+  "위치 변경이 완료 되었습니다." : {
+    "en" : "Positions have been reordered.",
+    "ja" : "位置変更が完了しました。",
+    "vi" : "Các vị trí đã được sắp xếp lại.",
+    "zh" : "变更位置完了"
+  },
+  "삭제할 폴더를 선택해 주세요." : {
+    "en" : "Please select a folder to delete.",
+    "ja" : "削除するフォルダを選択してください。",
+    "vi" : "Vui lòng chọn thư mục cần xóa.",
+    "zh" : "请选择要删除的文件夹。"
+  }
+}

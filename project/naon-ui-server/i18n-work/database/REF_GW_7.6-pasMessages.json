@@ -1,0 +1,698 @@
+{
+  "스크린샷 최소 너비는 {0} 입니다." : {
+    "en" : "The minimum width of screenshots is {0}.",
+    "ja" : "スクリーンショットの最小幅は{0}です。",
+    "vi" : "Độ rộng tối thiểu của ảnh chụp màn hình là {0}.",
+    "zh" : "屏幕照片最小宽度为{0}。"
+  },
+  "상단에 설치프로그램 메뉴를 선택 해주세요." : {
+    "en" : "Please select the installation program menu at the top.",
+    "ja" : "上段のインストーラーメニューを選択してください。",
+    "vi" : "Vui lòng chọn menu chương trình cài đặt ở trên cùng.",
+    "zh" : "请选择上方安装程序菜单。"
+  },
+  "등록된 앱이 없습니다." : {
+    "en" : "No registered app.",
+    "ja" : "登録されているアプリがありません。",
+    "vi" : "Không có ứng dụng",
+    "zh" : "没有登录的APP。"
+  },
+  "어플리케이션 등록정보" : {
+    "en" : "Application registeration information",
+    "ja" : "アプリケーションの登録情報",
+    "vi" : "Thông tin đăng ký ứng dụng",
+    "zh" : "App登记信息"
+  },
+  "배포중" : {
+    "en" : "Distributing",
+    "ja" : "配布中",
+    "vi" : "Đang phân phối",
+    "zh" : "分发中"
+  },
+  "{0}자 남음" : {
+    "en" : "{0} Character(s) remaining.",
+    "ja" : "残り{0}字",
+    "vi" : "{0} ký tự còn lại.",
+    "zh" : "剩{0}字"
+  },
+  "iOS 배포관리" : {
+    "en" : "iOS distribution management",
+    "ja" : "iOS 配布管理",
+    "vi" : "quản lý phát hành trên thiết bị iOS",
+    "zh" : "iOS 分发管理"
+  },
+  "버전" : {
+    "en" : "Version",
+    "ja" : "バージョン",
+    "vi" : "Phiên bản",
+    "zh" : "版本"
+  },
+  "이메일" : {
+    "en" : "E-mail",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "사용권한" : {
+    "en" : "Usage Permission",
+    "ja" : "使用権限",
+    "vi" : "Quyền sử dụng",
+    "zh" : "使用权限"
+  },
+  "카테고리추가" : {
+    "en" : "Add Category",
+    "ja" : "カテゴリを追加",
+    "vi" : "Thêm danh mục",
+    "zh" : "追加类型"
+  },
+  "휴대폰" : {
+    "en" : "Cell phone",
+    "ja" : "携帯",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "APP 이름을 입력하세요." : {
+    "en" : "Please enter the APP name.",
+    "ja" : "APPの名前を入力してください。",
+    "vi" : "Vui lòng nhập tên APP (Ứng dụng).",
+    "zh" : "请输入APP名字。"
+  },
+  "태블릿" : {
+    "en" : "Tablet",
+    "ja" : "タブレット",
+    "vi" : "Máy tính bảng",
+    "zh" : "平板"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "앱 아이콘" : {
+    "en" : "App icon",
+    "ja" : "アプリアイコン",
+    "vi" : "Biểu tượng ứng dụng",
+    "zh" : "软件图标"
+  },
+  "카테고리" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "类目"
+  },
+  "Android 배포관리" : {
+    "en" : "Manage Android distribution",
+    "ja" : "Android配布管理",
+    "vi" : "Quản lý phát hành trên thiết bị Android",
+    "zh" : "管理Android分布"
+  },
+  "저해상도 아이콘을 입력하세요." : {
+    "en" : "Please add a low resolution icon.",
+    "ja" : "低解像度のアイコンを入力してください。",
+    "vi" : "Vui lòng thêm biểu tượng (icon) có độ phân giải thấp.",
+    "zh" : "请输入低分辨率图标。"
+  },
+  "스토어 등록정보를 먼저 입력하세요." : {
+    "en" : "Please enter the store registration information first.",
+    "ja" : "ストアの登録情報を先に入力してください。",
+    "vi" : "Vui lòng nhập thông tin đăng ký cửa hàng trước.",
+    "zh" : "请先输入商店登录信息。"
+  },
+  "변경 사항은 필수 입력입니다." : {
+    "en" : "Changes' must be filled (required)",
+    "ja" : "変更事項は必須入力です。",
+    "vi" : "Cần phải tiến hành thay đổi.",
+    "zh" : "必须得输入变更事项。"
+  },
+  "고해상도 아이콘을 입력하세요." : {
+    "en" : "Please add a high resolution icon.",
+    "ja" : "高解像度のアイコンを入力してください。",
+    "vi" : "Vui lòng thêm biểu tượng (icon) có độ phân giải cao.",
+    "zh" : "请输入高分辨率图标。"
+  },
+  "이미 등록된 앱이 존재합니다." : {
+    "en" : "There is already a registered app in use.",
+    "ja" : "すでに登録されているアプリが存在します。",
+    "vi" : "Ứng dụng tương tự đã được sử dụng rồi.",
+    "zh" : "存在已经登录的APP。"
+  },
+  "호환성" : {
+    "en" : "Compatibility",
+    "ja" : "互換性",
+    "vi" : "Khả năng tương thích",
+    "zh" : "互换性"
+  },
+  "스크린샷" : {
+    "en" : "Screenshot",
+    "ja" : "スクリーンショット",
+    "vi" : "Ảnh chụp màn hình",
+    "zh" : "载图"
+  },
+  "앱스토어앱 설치페이지입니다!<br>앱스토어앱을 통해서 사내앱 또는<br>Third Party 앱등을 다운로드 받으실 수 있습니다.<br>설치하시려면 아래 설치 버튼을 눌러주세요" : {
+    "en" : "This is the Install Page for the App Store App!<br>Through the App Store app, <br> you can download in-house apps or third party apps. <br> To install the app, please click the Install button below.",
+    "ja" : "アプリストアのアプリをインストールするページです！<br>アプリストアのアプリで社内アプリや<br> Third Partyアプリなどをダウンロードすることができます。<br>インストールが必要な方は、下のインストールボタンを押してください。",
+    "vi" : "Đây là trang cài đặt cho ứng dụng App Store! <br> Từ ứng dụng App Store, bạn có thể tải các ứng dụng trong công ty hoặc <br> ứng dụng của bên thứ ba. <br> Vui lòng nhấn vào nút Cài đặt để cài đặt ứng dụng.",
+    "zh" : "设置应用商店APP网页!<br>通过应用商店可以下载公司内的APP或者<br>Third Party APP等等。<br>要设置的话请按下面设置按钮。"
+  },
+  "배포 버전 목록에 여러개의 항목이 있습니다. 배포할 버전 1개만 남기고 비활성화 해주세요." : {
+    "en" : "There are several items in the Distribute (Version) List. De-activate all items except for the one that you wish to distribute.",
+    "ja" : "配布バージョンのリストに複数の項目があります。配布するバージョン1つだけを残して非活性化にしてください。",
+    "vi" : "Có nhiều mục trong danh sách phiên bản phân phối. Vô hiệu hóa tất cả các mục, ngoại trừ phiên bản mà bạn sẽ chọn để phân phối.",
+    "zh" : "在分布版本里有多种的项目。剩下要分布的一个版本后去活化。"
+  },
+  "상세설명" : {
+    "en" : "Detailed description",
+    "ja" : "詳細説明",
+    "vi" : "Mô tả chi tiết",
+    "zh" : "详细说明"
+  },
+  "한국어가 기본언어로 먼저 등록해주세요." : {
+    "en" : "Please add Korean as the default language first.",
+    "ja" : "先に韓国語を基本言語として登録してください。",
+    "vi" : "Vui lòng thêm tiếng Hàn là ngôn ngữ mặc định trước.",
+    "zh" : "请先登录韩语为基本语言。"
+  },
+  "배너 이미지" : {
+    "en" : "Banner Image",
+    "ja" : "バナー画像",
+    "vi" : "Hình ảnh banner",
+    "zh" : "横幅广告图像"
+  },
+  "변경 사항" : {
+    "en" : "Changes",
+    "ja" : "変更事項",
+    "vi" : "Thay đổi",
+    "zh" : "变更事项"
+  },
+  "영어가 기본언어로 먼저 등록해주세요." : {
+    "en" : "Please add English as the default language first.",
+    "ja" : "先に英語を基本言語として登録してください。",
+    "vi" : "Xin vui lòng thêm tiếng Anh làm ngôn ngữ mặc định trước.",
+    "zh" : "请先登录英语为基本语言。"
+  },
+  "배포시작 또는 배포중지시 변경된 내용이 저장됩니다." : {
+    "en" : "Changes will be saved when you start or stop distribution.",
+    "ja" : "配布開始または配布停止時に変更内容が保存されます。",
+    "vi" : "Thay đổi này sẽ được lưu lại khi bạn bắt đầu hoặc ngừng phân phối.",
+    "zh" : "开始分布或停止分布时保存变更内容。"
+  },
+  "일본어" : {
+    "en" : "Japanese",
+    "ja" : "日本語",
+    "vi" : "Tiếng Nhật",
+    "zh" : "日语"
+  },
+  "삭제할 앱을 선택하세요." : {
+    "en" : "Please select the app you want to delete.",
+    "ja" : "削除するアプリを選んでください。",
+    "vi" : "Vui lòng chọn ứng dụng bạn muốn xóa.",
+    "zh" : "请选择要删除的APP。"
+  },
+  "파일첨부" : {
+    "en" : "Attach files",
+    "ja" : "ファイル添付",
+    "vi" : "File đính kèm",
+    "zh" : "附加文档"
+  },
+  "어플리케이션 추가" : {
+    "en" : "Add applications",
+    "ja" : "アプリケーションを追加",
+    "vi" : "Thêm ứng dụng",
+    "zh" : "追加应用"
+  },
+  "카테고리가 삭제되었습니다." : {
+    "en" : "The category has been deleted.",
+    "ja" : "カテゴリが削除されました。",
+    "vi" : "Hạng mục này đã bị xóa.",
+    "zh" : "删除类目了。"
+  },
+  "스토어 등록정보" : {
+    "en" : "Store registration information",
+    "ja" : "ストア登録情報",
+    "vi" : "Thông tin đăng ký Cửa hàng",
+    "zh" : "商店登录信息"
+  },
+  "앱 세부정보를 등록 하였습니다." : {
+    "en" : "App details have been added.",
+    "ja" : "アプリ詳細情報を登録しました。",
+    "vi" : "Chi tiết ứng dụng đã được thêm vào.",
+    "zh" : "登录了APP详细信息。"
+  },
+  "권한" : {
+    "en" : "Permissions",
+    "ja" : "権限",
+    "vi" : "Quyền hạn",
+    "zh" : "权限"
+  },
+  "앱 위변조 체크" : {
+    "en" : "App Forgery/Manipulation Check",
+    "ja" : "アプリ偽造・変造チェック",
+    "vi" : "Kiểm tra ứng dụng giả mạo",
+    "zh" : "检查应用软件假造"
+  },
+  "앱 이름" : {
+    "en" : "App name",
+    "ja" : "アプリ名",
+    "vi" : "Tên ứng dụng",
+    "zh" : "APP名字"
+  },
+  "APK 새버전 등록/업데이트" : {
+    "en" : "Register & Update New Version (APK)",
+    "ja" : "APK新しいバージョン登録/アップデート",
+    "vi" : "Đăng ký APK phiên bản mới/Cập nhật",
+    "zh" : "登录/上载 APK新的版本"
+  },
+  "개발사 연락처" : {
+    "en" : "Contact (Developer)",
+    "ja" : "開発社連絡先",
+    "vi" : "Vị trí liên hệ của nhà phát triển",
+    "zh" : "开发者联系方式"
+  },
+  "배포중지" : {
+    "en" : "Stop distribution",
+    "ja" : "配布中止",
+    "vi" : "Dừng phân phối",
+    "zh" : "停止分发"
+  },
+  "이미 등록된 한국어가 있습니다." : {
+    "en" : "Korean is available.",
+    "ja" : "すでに登録されている韓国語があります。",
+    "vi" : "Đã có phiên bản tiếng Hàn",
+    "zh" : "有已经登录的韩语。"
+  },
+  "이메일 형식이 올바르지 않습니다." : {
+    "en" : "Email format is not valid.",
+    "ja" : "メール形式が正しくありません。",
+    "vi" : "Định dạng email không hợp lệ.",
+    "zh" : "电子邮件格式不正确。"
+  },
+  "배포시작" : {
+    "en" : "Start distribution",
+    "ja" : "配布開始",
+    "vi" : "Bắt đầu phân phối",
+    "zh" : "开始分布"
+  },
+  "배포대기" : {
+    "en" : "Waiting for Distribution",
+    "ja" : "配布待機",
+    "vi" : "Danh sách chờ phân phối",
+    "zh" : "等待分发"
+  },
+  "이미지 크기는 {0}x{1} 이어야합니다." : {
+    "en" : "Image size must be {0}x{1}.",
+    "ja" : "画像サイズは{0} x{1}でなければなりません。",
+    "vi" : "Kích thước hình ảnh phải là {0}x{1}.",
+    "zh" : "图像大小得{0}x{1} 。"
+  },
+  "저해상도 아이콘" : {
+    "en" : "Low resolution icon",
+    "ja" : "低解像度アイコン",
+    "vi" : "Biểu tượng độ phân giải thấp",
+    "zh" : "低分辨率图标"
+  },
+  "고해상도 아이콘" : {
+    "en" : "High resolution icon",
+    "ja" : "高解像度アイコン",
+    "vi" : "Biểu tượng độ phân giải cao",
+    "zh" : "高清图标"
+  },
+  "비활성화" : {
+    "en" : "De-activate",
+    "ja" : "非活性化",
+    "vi" : "Vô hiệu hóa",
+    "zh" : "去活化"
+  },
+  "일반전화" : {
+    "en" : "Phone",
+    "ja" : "有線電話",
+    "vi" : "Điện thoại",
+    "zh" : "一般电话"
+  },
+  "담당자 이메일을 입력하세요." : {
+    "en" : "Enter the manager's (PIC) e-mail address.",
+    "ja" : "担当者のEmailを入力してください。",
+    "vi" : "Nhập email của người quản lý",
+    "zh" : "请输入负责人的电子邮箱。"
+  },
+  "앱 설치 방법" : {
+    "en" : "How to install app",
+    "ja" : "アプリのインストール方法",
+    "vi" : "Cách cài đặt ứng dụng",
+    "zh" : "APP安装方法"
+  },
+  "정보" : {
+    "en" : "Information",
+    "ja" : "情報",
+    "vi" : "Thông tin",
+    "zh" : "全部"
+  },
+  "개발사정보" : {
+    "en" : "Developer Information",
+    "ja" : "開発社情報",
+    "vi" : "Thông tin nhà phát triển",
+    "zh" : "开发公司信息"
+  },
+  "PC에서는 다운로드 할 수 없습니다." : {
+    "en" : "Can't download on PC",
+    "ja" : "PCからダウンロードできません。",
+    "vi" : "Không thể tải về máy tính",
+    "zh" : "不可在PC下载。"
+  },
+  "복원" : {
+    "en" : "Restore",
+    "ja" : "復元",
+    "vi" : "Khôi phục",
+    "zh" : "复原"
+  },
+  "한국어" : {
+    "en" : "Korean",
+    "ja" : "韓国語",
+    "vi" : "Tiếng Hàn",
+    "zh" : "韩语"
+  },
+  "등록된 앱이 없습니다. 관리자에게 문의하세요." : {
+    "en" : "There is no registered mobile app. Please contact the admin.",
+    "ja" : "登録されたアプリがありません。管理者にお問い合わせください。",
+    "vi" : "Không có ứng dụng được đăng ký. Vui lòng liên hệ người quản lý.",
+    "zh" : "无已登录移动软件，请咨询管理者。"
+  },
+  "홈페이지" : {
+    "en" : "Web site",
+    "ja" : "ホームページ",
+    "vi" : "Trang Web",
+    "zh" : "主页"
+  },
+  "설치 할 앱을 다운로드 후 실행하여 설치 해주세요." : {
+    "en" : "Please download and run the app to install it.",
+    "ja" : "アプリをダウンロード後に実行し、インストールしてください。",
+    "vi" : "Vui lòng tải xuống ứng dụng muốn cài đặt, kích hoạt và cài đặt.",
+    "zh" : "请在下载需安装的APP后实行并安装。"
+  },
+  "이미 등록된 중국어가 있습니다." : {
+    "en" : "Chinese is available.",
+    "ja" : "すでに登録されている中国語があります。",
+    "vi" : "Đã có phiên bản tiếng Trung",
+    "zh" : "有已经登录的汉语。"
+  },
+  "업데이트일" : {
+    "en" : "Date updated",
+    "ja" : "アップデート日",
+    "vi" : "Ngày cập nhật",
+    "zh" : "上载日"
+  },
+  "IPA 새버전 등록/업데이트" : {
+    "en" : "Register & Update New Version (IPA)",
+    "ja" : "IPA新しいバージョン登録/アップデート",
+    "vi" : "Đăng ký IPA phiên bản mới/Cập nhật",
+    "zh" : "登录/上载 IPA新的版本"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "이미 등록된 일본어가 있습니다." : {
+    "en" : "Japanese is available.",
+    "ja" : "すでに登録されている日本語があります。",
+    "vi" : "Đã có phiên bản tiếng Nhật",
+    "zh" : "有已经登录的日语。"
+  },
+  "변경사항" : {
+    "en" : "Changes",
+    "ja" : "変更事項",
+    "vi" : "Thay đổi",
+    "zh" : "变更事项"
+  },
+  "앱 이름을 입력하세요." : {
+    "en" : "Please enter the name of the App.",
+    "ja" : "アプリの名前を入力してください。",
+    "vi" : "Vui lòng nhập tên của Ứng dụng.",
+    "zh" : "请输入App名称。"
+  },
+  "최소 너비 320 / PNG 또는 JPG / 최대 5개 등록가능" : {
+    "en" : "Minimum Width 320 / PNG or JPG / Can upload up to max 5.",
+    "ja" : "最小幅 320 / PNG 又は JPG / 最大5個登録可能",
+    "vi" : "Chiều rộng tối thiểu 320 / PNG hoặc JPG / Có thể tải lên tối đa 5.",
+    "zh" : "最小宽度320/ PNG或JPG/最多可登记5个"
+  },
+  "일본어가 기본언어로 먼저 등록해주세요." : {
+    "en" : "Please add Japanese as the default language first.",
+    "ja" : "先に日本語を基本言語として登録してください。",
+    "vi" : "Vui lòng thêm tiếng Nhật là ngôn ngữ mặc định trước.",
+    "zh" : "请先登录日语为基本语言。"
+  },
+  "현재 앱 버전보다 높은 버전을 등록하여 주세요." : {
+    "en" : "Please add a version higher than the current app version.",
+    "ja" : "現在のアプリバージョンより高いバージョンを登録してください。",
+    "vi" : "Vui lòng thêm vào phiên bản cao hơn so với phiên bản ứng dụng hiện tại.",
+    "zh" : "请登录比现在版本更高的版本。"
+  },
+  "APP 이름" : {
+    "en" : "App name",
+    "ja" : "APP名",
+    "vi" : "Tên ứng dụng",
+    "zh" : "APP名字"
+  },
+  "상세 설명을 입력하세요." : {
+    "en" : "Please enter detailed description.",
+    "ja" : "詳細説明を入力してください。",
+    "vi" : "Vui lòng nhập mô tả chi tiết.",
+    "zh" : "请输入详细说明。"
+  },
+  "PC로 그룹웨어를 로그인 해주세요." : {
+    "en" : "Please log in to the groupware on your PC.",
+    "ja" : "PCからグループウェアにログインしてください。",
+    "vi" : "Vui lòng đăng nhập vào groupware bằng PC.",
+    "zh" : "请使用PC登录群件。"
+  },
+  "잘못된 페이지 접근입니다. 아래와 같이 앱 설치 후 사용해 주세요." : {
+    "en" : "You have accessed the wrong page. Please install the app and use it as follows.",
+    "ja" : "無効なアクセスです。以下のようにアプリをインストールしてからご使用ください。",
+    "vi" : "Tiếp cận sai trang. Vui lòng cài đặt và sử dụng ứng dụng như dưới đây.",
+    "zh" : "错误的页面访问方式。请如下安装APP后使用。"
+  },
+  "중국어가 기본언어로 먼저 등록해주세요." : {
+    "en" : "Please add Chinese as the default language first.",
+    "ja" : "先に中国語を基本言語として登録してください。",
+    "vi" : "Xin vui lòng thêm tiếng Trung làm ngôn ngữ mặc định trước.",
+    "zh" : "请先登录汉语为基本语言。"
+  },
+  "열기" : {
+    "en" : "Open",
+    "ja" : "開く",
+    "vi" : "Mở",
+    "zh" : "打开"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "그룹웨어 앱 다운로드" : {
+    "en" : "Download Groupware app",
+    "ja" : "グループウェアのアプリをダウンロード",
+    "vi" : "Tải ứng dụng Groupware",
+    "zh" : "下载群件APP"
+  },
+  "보기" : {
+    "en" : "View",
+    "ja" : "表示",
+    "vi" : "Xem",
+    "zh" : "查看"
+  },
+  "설치" : {
+    "en" : "Install",
+    "ja" : "インストール",
+    "vi" : "Cài đặt",
+    "zh" : "设置"
+  },
+  "카테고리를 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the category?",
+    "ja" : "カテゴリを削除しますか？",
+    "vi" : "Bạn chắc chắn muốn xóa bỏ danh mục này chứ?",
+    "zh" : "要删除类目吗？"
+  },
+  "호환성 정보는 필수 입력입니다." : {
+    "en" : "Compatibility information is required",
+    "ja" : "互換性情報は必須入力です。",
+    "vi" : "Cần có thông tin tương thích.",
+    "zh" : "互换性信息是必须输入事项。"
+  },
+  "배포 버전" : {
+    "en" : "Distributed version",
+    "ja" : "配布バージョン",
+    "vi" : "Phiên bản được phân phối",
+    "zh" : "分布版本"
+  },
+  "중국어" : {
+    "en" : "Chinese",
+    "ja" : "中国語",
+    "vi" : "Trung Quốc",
+    "zh" : "汉语"
+  },
+  "개발사" : {
+    "en" : "Developer",
+    "ja" : "開発会社",
+    "vi" : "Nhà phát triển",
+    "zh" : "开发社"
+  },
+  "수정하였습니다." : {
+    "en" : "Modified",
+    "ja" : "変更しました。",
+    "vi" : "Đã sửa đổi",
+    "zh" : "修改了。"
+  },
+  "메뉴에서 사설앱스토어의 QR코드를 선택 해주세요." : {
+    "en" : "Select the QR code of the private app store in the menu.",
+    "ja" : "メニューからアプリストアのQRコードを選択してください。",
+    "vi" : "Vui lòng chọn QR code của cửa hàng ứng dụng tư nhân trong menu.",
+    "zh" : "请于菜单选择公司应用商城的二维码。"
+  },
+  "모바일 기기의 브라우저로 서비스를 사용 할 수 없습니다. 앱 설치 후 사용해주세요." : {
+    "en" : "You cannot use the service on a mobile device's browser. Please install and use the app.",
+    "ja" : "モバイルデバイスのブラウザからはサービスをご利用できません。アプリをインストールしてからご利用ください。",
+    "vi" : "Không thể sử dụng dịch vụ bằng trình duyệt của thiết bị di động. Vui lòng cài đặt ứng dụng rồi sử dụng.",
+    "zh" : "无法用移动客户端浏览器使用该服务。请安装APP后使用。"
+  },
+  "현재 등록된 앱과 다른 앱을 첨부할 수 없습니다." : {
+    "en" : "You can't attach an app that is different from the current app.",
+    "ja" : "現在登録されているアプリと他のアプリを添付することができません。",
+    "vi" : "Bạn không thể đính kèm ứng dụng khác với ứng dụng hiện tại.",
+    "zh" : "不可附加跟现在登录的APP不同APP。"
+  },
+  "이전 버전" : {
+    "en" : "Previous version",
+    "ja" : "以前のバージョン",
+    "vi" : "Phiên bản trước",
+    "zh" : "以前版本"
+  },
+  "이미 등록된 영어가 있습니다." : {
+    "en" : "English is available.",
+    "ja" : "すでに登録されている英語があります。",
+    "vi" : "Đã có phiên bản tiếng Anh.",
+    "zh" : "有已经登录的英语。"
+  },
+  "기본언어" : {
+    "en" : "Default language",
+    "ja" : "基本言語",
+    "vi" : "Ngôn ngữ mặc định",
+    "zh" : "基本语言"
+  },
+  "앱스토어 앱을 찾을 수 없습니다.<br/> 관리자에게 문의하세요!" : {
+    "en" : "Not found in App Store. <br/> Please contact the administrator!",
+    "ja" : "アプリストアのアプリを見つかりません。<br/>管理者にお問い合わせください！",
+    "vi" : "Không tìm thấy trong App Store. <br/> Vui lòng liên hệ quản trị viên của bạn!",
+    "zh" : "不可找应用商店。<br/>请向管理者咨询。"
+  },
+  "영어" : {
+    "en" : "English",
+    "ja" : "英語",
+    "vi" : "Tiếng Anh",
+    "zh" : "英语"
+  },
+  "담당자 정보" : {
+    "en" : "Manager (PIC) Info",
+    "ja" : "担当者情報",
+    "vi" : "Thông tin về người phụ trách",
+    "zh" : "负责人信息"
+  },
+  "이미 등록된 앱 이름입니다." : {
+    "en" : "The app name is already taken.",
+    "ja" : "すでに登録されているアプリ名です。",
+    "vi" : "Tên ứng dụng đã được sử dụng.",
+    "zh" : "已经登录的APP名字。"
+  },
+  "이미 존재하는 앱 이름 입니다." : {
+    "en" : "The app name you entered is already in use.",
+    "ja" : "すでに存在するアプリの名前です。",
+    "vi" : "Tên ứng dụng bạn vừa nhập đã được sử dụng rồi.",
+    "zh" : "已经存在的APP名字。"
+  },
+  "파일을 첨부 해주세요." : {
+    "en" : "Please attach files.",
+    "ja" : "ファイルを添付してください。",
+    "vi" : "Vui lòng đính kèm file.",
+    "zh" : "请附加文档。"
+  },
+  "임시저장" : {
+    "en" : "Save as a draft",
+    "ja" : "一時保存",
+    "vi" : "Lưu tạm thời",
+    "zh" : "临时保存"
+  },
+  "담당자 연락처" : {
+    "en" : "Contact (Manager)",
+    "ja" : "担当者連絡先",
+    "vi" : "Vị trí liên hệ (của người chịu trách nhiệm)",
+    "zh" : "负责人联系方式"
+  },
+  "호환성 정보" : {
+    "en" : "Compatibility information",
+    "ja" : "互換性情報",
+    "vi" : "Thông tin tương thích",
+    "zh" : "互换性信息"
+  },
+  "개선 및 결함 신고" : {
+    "en" : "Improve and report errors",
+    "ja" : "改善および不具合報告",
+    "vi" : "Cải thiện và báo cáo lỗi",
+    "zh" : "申报改善及缺陷"
+  },
+  "권한관리" : {
+    "en" : "Manage permissions",
+    "ja" : "権限管理",
+    "vi" : "Quản lý quyền được cấp",
+    "zh" : "管理权限"
+  },
+  "앱 세부정보" : {
+    "en" : "App Information (Detail)",
+    "ja" : "アプリ詳細情報",
+    "vi" : "Thông tin chi tiết về Ứng dụng",
+    "zh" : "应用程序详细信息"
+  },
+  "QR코드를 설치 하고자 하는 핸드폰으로 촬영을 하시면 앱을 다운로드 할 수 있는 페이지로 이동 합니다." : {
+    "en" : "If you take a picture of the QR code with the phone you want to install to, you will move to the page where you can download the app.",
+    "ja" : "インストールしたいスマートフォンでQRコードを読み取ると、アプリのダウンロードページに移動します。",
+    "vi" : "Nếu bạn quét mã QR bằng điện thoại mà bạn muốn cài đặt, bạn sẽ được chuyển đến trang để tải xuống ứng dụng.",
+    "zh" : "使用要安装APP的手机拍摄二维码，即可移动至下载APP的页面。"
+  },
+  "새로운 기능" : {
+    "en" : "New features",
+    "ja" : "新機能",
+    "vi" : "Tính năng mới",
+    "zh" : "新的功能"
+  },
+  "업데이트" : {
+    "en" : "Update",
+    "ja" : "アップデート",
+    "vi" : "Cập nhật",
+    "zh" : "更新"
+  },
+  "앱스토어 관리" : {
+    "en" : "Manage App Store",
+    "ja" : "アプリストアの管理",
+    "vi" : "Quản lý App Store",
+    "zh" : "管理应用商店"
+  },
+  "카테고리가 추가되었습니다." : {
+    "en" : "The category has been added.",
+    "ja" : "カテゴリが追加されました。",
+    "vi" : "Hạng mục này đã được thêm.",
+    "zh" : "追加了类目。"
+  },
+  "앱스토어 설치" : {
+    "en" : "Install at App Store",
+    "ja" : "アプリストアのインストール",
+    "vi" : "Cài đặt App Store",
+    "zh" : "设置应用商店"
+  },
+  "PNG 또는 JPG" : {
+    "en" : "PNG or JPG",
+    "ja" : "PNG又はJPG",
+    "vi" : "PNG hoặc JPG",
+    "zh" : "PNG或JPG"
+  }
+}

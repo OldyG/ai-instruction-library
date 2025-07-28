@@ -1,0 +1,3416 @@
+{
+  "선택한 연락처를 아래 회사 주소록으로 복사합니다." : {
+    "en" : "Copy the selected contact to the company address book below.",
+    "ja" : "選択した連絡先を下記会社の連絡先にコピーします。",
+    "vi" : "Sao chép liên hệ đã chọn vào sổ địa chỉ công ty dưới đây.",
+    "zh" : "将所选联系人复制到下面的公司地址簿中。"
+  },
+  "메일 발송" : {
+    "en" : "Send mail",
+    "ja" : "メール送信",
+    "vi" : "Gửi Email",
+    "zh" : "发送邮件"
+  },
+  "동료" : {
+    "en" : "Colleague",
+    "ja" : "同僚",
+    "vi" : "Đồng nghiệp",
+    "zh" : "同事"
+  },
+  "저장하였습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存しました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "주소" : {
+    "en" : "Address",
+    "ja" : "アドレス",
+    "vi" : "Địa chỉ",
+    "zh" : "地址"
+  },
+  "주소록 환경설정" : {
+    "en" : "Contacts preferences",
+    "ja" : "アドレス帳の設定",
+    "vi" : "Cài đặt môi trường sổ địa chỉ",
+    "zh" : "设定地址录环境"
+  },
+  "주소록 내보내기" : {
+    "en" : "Export Contacts",
+    "ja" : "アドレス帳エクスポート",
+    "vi" : "Gửi sổ địa chỉ",
+    "zh" : "发送地址录"
+  },
+  "별표" : {
+    "en" : "Star",
+    "ja" : "スター",
+    "vi" : "Dấu sao",
+    "zh" : "星号"
+  },
+  "수신자 정보 없음" : {
+    "en" : "Unknown user information",
+    "ja" : "受信者情報無し",
+    "vi" : "Không có thông tin người nhận",
+    "zh" : "未显示收信人信息"
+  },
+  "주소록 그룹에 중복된 연락처가 존재할 경우 중복 연락처는 추가되지 않습니다." : {
+    "en" : "If there are duplicate contacts in the contact group, the duplicate contacts will not be added.",
+    "ja" : "アドレス帳のグループに重複する連絡先が存在する場合、重複連絡先は追加されません。",
+    "vi" : "Trong trường hợp địa chỉ trong sổ địa chỉ nhóm bị trùng thì địa chỉ bị trùng không được thêm.",
+    "zh" : "地址录小组上有重复登录的联络处时重复联络处不可追加。"
+  },
+  "전화 걸기" : {
+    "en" : "Call",
+    "ja" : "電話をかける",
+    "vi" : "Gọi",
+    "zh" : "打电话"
+  },
+  "연락처 개수" : {
+    "en" : "No. of Contacts",
+    "ja" : "連絡先の数",
+    "vi" : "Số địa chỉ liên lạc",
+    "zh" : "联络处个数"
+  },
+  "로고" : {
+    "en" : "logo",
+    "ja" : "ロゴ",
+    "vi" : "Logo",
+    "zh" : "徽标"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "搜索"
+  },
+  "이름,직함,회사,부서,전자 메일 주소,휴대폰,근무처 전화,근무지 팩스,집 전화 번호,근무지 주소 번지,근무지 구/군/시,근무지 시/도,근무지 우편 번호,근무지 국가/지역,집 번지,집 주소 구/군/시,집 주소 시/도,집 주소 우편 번호,집 주소 국가/지역,웹 페이지,생일" : {
+    "en" : "Name, Title, Company, Department, E-mail address, Mobile phone, Work phone, Work fax, Home phone, Work address (street), Work address (gu/gun/si), Work address (city/province), Work address (zip code), Work address (country/region), Home address (street), Home address (gu/gun/si), Home address (city/province), Home address (zip code), Home address (country/region), Web page, Birthday",
+    "ja" : "名前、役職、会社、部署、電子メールアドレス、携帯電話、勤務先電話番号、勤務先FAX、自宅電話番号、勤務先住所番地、勤務地区/郡/市、勤務先区/郡/市、勤務先郵便番号、勤務先国/地域、家番地、住所区/郡/市、自宅住所区/郡/市、自宅住所郵便番号、住所、国/地域、Webページ、誕生日",
+    "vi" : "Họ tên, Chức vụ, Công ty, Phòng ban, Địa chỉ Email, Số điện thoại di động, Số máy đại diện công ty, Số fax công ty, Số điện thoại nhà riêng, Số Địa chỉ nơi làm việc, Số địa chỉ nhà riêng, Ngày sinh, Ngày kỉ niệm kết hôn, Ghi nhớ",
+    "zh" : "名字，职称，公司，部门，电子邮件地址，手机，公司电话，公司传真，家电话号码，公司地址门牌号，公司区/县/市，公司市/道，公司邮政编码，公司国家/地区，家门牌号，家地址区/县/市，家地址市/道，家地址邮政编码，家地址国家/地区，网页，生日"
+  },
+  "휴대폰" : {
+    "en" : "Mobile Phone",
+    "ja" : "携帯",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "웹 주소" : {
+    "en" : "Website address",
+    "ja" : "Webアドレス",
+    "vi" : "Địa chỉ web",
+    "zh" : "网站地址"
+  },
+  "통화이력" : {
+    "en" : "Call History",
+    "ja" : "通話履歴",
+    "vi" : "Lịch sử cuộc gọi",
+    "zh" : "通话记录"
+  },
+  "건이 있습니다. 확인 후 재시도 해주세요." : {
+    "en" : "cases exist. Please check and try again.",
+    "ja" : "件あります。確認後、再度お試しください。",
+    "vi" : "Trùng lặp. Hãy kiểm tra và thử lại",
+    "zh" : "有 件。请确认后再试一下。"
+  },
+  "이메일 입력값 초과" : {
+    "en" : "Exceeded email input value",
+    "ja" : "メールの入力値超過",
+    "vi" : "Nhập vượt quá các giá trị của email",
+    "zh" : "超过了邮件输入价"
+  },
+  "내 연락처" : {
+    "en" : "My contacts",
+    "ja" : "My連絡帳",
+    "vi" : "Danh bạ liên lạc của tôi",
+    "zh" : "我的联系处"
+  },
+  "명함형" : {
+    "en" : "Card type",
+    "ja" : "名刺型",
+    "vi" : "Hình thức danh thiếp",
+    "zh" : "名片形"
+  },
+  "선택복사" : {
+    "en" : "Copy (Select)",
+    "ja" : "選択コピー",
+    "vi" : "Sao chép lựa chọn",
+    "zh" : "选择拷贝"
+  },
+  "연락처 등록" : {
+    "en" : "Register Contact",
+    "ja" : "連絡先の登録",
+    "vi" : "Đăng ký địa chỉ liên lạc",
+    "zh" : "登录联络处"
+  },
+  "에 새로운 폴더를 추가합니다." : {
+    "en" : "Add a new folder to",
+    "ja" : "へ新しいフォルダを追加します。",
+    "vi" : "Thêm folder mới vào",
+    "zh" : "在 追加新的文件夹。"
+  },
+  "샘플 파일" : {
+    "en" : "Sample File",
+    "ja" : "サンプルファイル",
+    "vi" : "Tập tin mẫu",
+    "zh" : "样本文件"
+  },
+  "클립보드에 복사되었습니다. 게시판이나 메신저창에서 Ctrl+V를 눌러보세요." : {
+    "en" : "It has been copied to the Clipboard. Press Ctrl+V at the bulletin board or messenger window.",
+    "ja" : "クリップボードにコピーされました。掲示板やメッセンジャーウィンドウからCtrl + Vを押してください。",
+    "vi" : "Đã sao chép vào Bộ nhớ đêm. Nhận Ctrl + V trên cửa sổ bảng tin hoặc cửa sổ Messenger.",
+    "zh" : "在剪贴板上拷贝完了。在布告栏上或者在聊天工具窗上按Ctrl+V。"
+  },
+  "개인환경설정" : {
+    "en" : "User Settings",
+    "ja" : "個人環境を設定する",
+    "vi" : "Cài đặt môi trường cá nhân",
+    "zh" : "个人环境设置"
+  },
+  "연락처가 복사되었습니다." : {
+    "en" : "Your contact has been copied.",
+    "ja" : "連絡先がコピーされました。",
+    "vi" : "Đã sao chép thông tin liên lạc.",
+    "zh" : "已复制通讯录。"
+  },
+  "OCR 카메라를 실행합니다." : {
+    "en" : "Launch OCR Camera.",
+    "ja" : "OCRカメラを起動します。",
+    "vi" : "Khởi chạy máy ảnh OCR.",
+    "zh" : "实行 OCR照相机。"
+  },
+  "{0}개의 연락처를 스팸에서 해제하시겠습니까?" : {
+    "en" : "Are you sure you want to remove {0} contact(s) from spam?",
+    "ja" : "{0}件の連絡先をスパムから解除しますか？",
+    "vi" : "Bạn chắc chắn muốn gỡ {0} thông tin liên lạc khỏi spam chứ?",
+    "zh" : "是否将{0}个联系人从黑名单中移除？"
+  },
+  "휴대전화번호를 입력하세요" : {
+    "en" : "Enter your mobile phone number",
+    "ja" : "携帯電話番号を入力してください",
+    "vi" : "Hãy nhập số điện thoại di động",
+    "zh" : "请输入手机号码。"
+  },
+  "아들" : {
+    "en" : "Son",
+    "ja" : "息子",
+    "vi" : "Con trai",
+    "zh" : "儿子"
+  },
+  "아웃룩 항목" : {
+    "en" : "Outlook Items",
+    "ja" : "Outlook項目",
+    "vi" : "Danh mục Outlook",
+    "zh" : "outlook项目"
+  },
+  "그룹웨어주소록샘플.csv" : {
+    "en" : "Groupware contacts sample.csv",
+    "ja" : "グループウェアのアドレス帳サンプル.csv",
+    "vi" : "Ví dụ thông tin liên hệ trong Groupware.csv",
+    "zh" : "群件地址录样本.csv"
+  },
+  "공용" : {
+    "en" : "Common (Public)",
+    "ja" : "共用",
+    "vi" : "Chung",
+    "zh" : "公用"
+  },
+  "주소록을 아웃룩에서 불러 사용할 수 있는 파일(CSV)이나 그룹웨어 주소록 파일(CSV)로 내보낼 수 있습니다." : {
+    "en" : "You can export contacts as a CSV file for Outlook or a Groupware contacts file (CSV).",
+    "ja" : "アドレス帳をOutlookから呼び使用できるファイル（CSV）やグループウェアのアドレス帳ファイル（CSV）にエクスポートすることができます。",
+    "vi" : "Bạn có thể gửi địa chỉ liên lạc bằng file (CSV) hoặc file sổ liên lạc Groupware(CSV)- file có thể mở trên Outlook hoặc Outlook Express",
+    "zh" : "地址录可以发给在Outlook叫来可以使用的文档(CSV)或群件地址录文档(CSV)，"
+  },
+  "연락처를 삭제" : {
+    "en" : "Delete Contact",
+    "ja" : "連絡先を削除",
+    "vi" : "Xóa địa chỉ liên lạc",
+    "zh" : "删除联络处"
+  },
+  "이메일 중복체크" : {
+    "en" : "Email Duplicate Check",
+    "ja" : "メール重複確認",
+    "vi" : "Kiểm tra trùng lặp email",
+    "zh" : "检查电子邮件重复"
+  },
+  "근무지 번지 2" : {
+    "en" : "Work place Street Number 2",
+    "ja" : "勤務先番地 2",
+    "vi" : "Địa chỉ nơi làm việc 2",
+    "zh" : "工作处地址编号2"
+  },
+  "근무지 번지 3" : {
+    "en" : "Work place Street Number 3",
+    "ja" : "勤務先番地 3",
+    "vi" : "Địa chỉ nơi làm việc 3",
+    "zh" : "工作处地址编号3"
+  },
+  "자매" : {
+    "en" : "Sister",
+    "ja" : "姉妹",
+    "vi" : "Chị em",
+    "zh" : "姐妹"
+  },
+  "직장 국가/지역" : {
+    "en" : "Work address (country/region)",
+    "ja" : "勤務先国/地域",
+    "vi" : "Quốc gia/ khu vực làm việc",
+    "zh" : "公司国家/地区"
+  },
+  "검색어 입력" : {
+    "en" : "Enter Search Keyword",
+    "ja" : "検索ワード入力",
+    "vi" : "Nhập từ khóa tìm kiếm",
+    "zh" : "输入关键词"
+  },
+  "시/도(집)" : {
+    "en" : "si/do(home)",
+    "ja" : "市/道(自宅)",
+    "vi" : "Thành phố/ Tỉnh (nhà riêng)",
+    "zh" : "市/道（家）"
+  },
+  "모두 선택" : {
+    "en" : "Select all",
+    "ja" : "すべて選択",
+    "vi" : "Lựa chọn toàn bộ",
+    "zh" : "全部选择"
+  },
+  "기념일 입력값 초과" : {
+    "en" : "Exceeded anniversary input value",
+    "ja" : "記念日の入力値超過",
+    "vi" : "Nhập vượt quá giá trị nhập ngày kỉ niệm",
+    "zh" : "超过了纪念日输入价"
+  },
+  "통화 예약" : {
+    "en" : "Call Reservation",
+    "ja" : "通話予約",
+    "vi" : "Hẹn cuộc gọi",
+    "zh" : "通话预约"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "查询"
+  },
+  "결혼 기념일 입력값 초과" : {
+    "en" : "Exceeded wedding anniversary input value",
+    "ja" : "結婚記念日の入力値超過",
+    "vi" : "Nhập vượt quá giá trị ngày kỷ niệm kết hôn",
+    "zh" : "超过了结婚几纪念日输入价"
+  },
+  "이메일 형식이 맞지않습니다" : {
+    "en" : "Invalid e-mail format.",
+    "ja" : "メール形式が正しくありません",
+    "vi" : "Hình thức email không đúng",
+    "zh" : "邮件地址形式不符合。"
+  },
+  "이메일을 입력하세요" : {
+    "en" : "Please enter your email",
+    "ja" : "メールを入力してください",
+    "vi" : "Hãy nhập email",
+    "zh" : "请输入邮件地址。"
+  },
+  "클립보드 복사" : {
+    "en" : "Copy to Clipboard",
+    "ja" : "クリップボードコピー",
+    "vi" : "Sao chép Bộ nhớ đệm",
+    "zh" : "剪贴板拷贝"
+  },
+  "설정된 값으로 주소록을 구성합니다." : {
+    "en" : "Configure the Address Book with the set value.",
+    "ja" : "設定された値に基づいてアドレス帳を構成します。",
+    "vi" : "Tạo sổ liên lạc với giá trị đã thiết lập.",
+    "zh" : "用已设置参数构成通讯录。"
+  },
+  "팩스 번호" : {
+    "en" : "Fax number",
+    "ja" : "FAX番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "폴더명을 입력하세요." : {
+    "en" : "Enter a folder name.",
+    "ja" : "フォルダ名を入力してください。",
+    "vi" : "Nhập tên thư mục.",
+    "zh" : "请输入文件夹名。"
+  },
+  "_주소록.csv" : {
+    "en" : "_Contacts.csv",
+    "ja" : "_アドレス帳.csv",
+    "vi" : "_Sổ địa chỉ.csv",
+    "zh" : "_地址录.csv"
+  },
+  "선택한 연락처를 아래 부서 주소록으로 복사합니다." : {
+    "en" : "Copy the selected contacts to the sub-department contact.",
+    "ja" : "選択した連絡先を下の部署アドレス帳にコピーします。",
+    "vi" : "Địa chỉ liên lạc đã chọn sẽ được sao chép vào bộ phận dưới đây",
+    "zh" : "把选择的联络处拷贝到下位部门地址录上。"
+  },
+  "건의 연락처를 가져왔습니다." : {
+    "en" : "( ) contacts have been imported.",
+    "ja" : "件の連絡先をインポートしました。",
+    "vi" : "() thông tin liên lạc đã được nhập",
+    "zh" : "叫来了件联系处。"
+  },
+  "맨아래" : {
+    "en" : "To the Bottom",
+    "ja" : "最下部へ",
+    "vi" : "Phía dưới cùng",
+    "zh" : "最下边"
+  },
+  "발신자 표기 정보" : {
+    "en" : "Caller Display Information",
+    "ja" : "発信者の表記情報",
+    "vi" : "Thông tin biểu thị người gửi",
+    "zh" : "发信者标记信息"
+  },
+  "건" : {
+    "en" : "contacts",
+    "ja" : "連絡",
+    "vi" : "liên lạc",
+    "zh" : "联系"
+  },
+  "스팸 해제에 실패하였습니다." : {
+    "en" : "Failed to remove it from spam.",
+    "ja" : "スパム解除に失敗しました。",
+    "vi" : "Gỡ spam thất bại.",
+    "zh" : "黑名单移除失败。"
+  },
+  "저장 후 계속" : {
+    "en" : "Save and Continue",
+    "ja" : "保存してから継続する",
+    "vi" : "Lưu và tiếp tục",
+    "zh" : "保存后继续"
+  },
+  "팩스" : {
+    "en" : "fax",
+    "ja" : "FAX",
+    "vi" : "Fax",
+    "zh" : "传真"
+  },
+  "발신자 정보 없음" : {
+    "en" : "Unknown caller information",
+    "ja" : "発信者情報無し",
+    "vi" : "Không có thông tin người gửi",
+    "zh" : "未显示发信人信息"
+  },
+  "전화번호를 가진 사용자가 없습니다." : {
+    "en" : "There is no user with the phone number.",
+    "ja" : "電話番号をお持ちのユーザーがいません。",
+    "vi" : "Không có người dùng có số điện thoại",
+    "zh" : "没有保有电话号码的用户。"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "회사 주소 번지 입력값 초과" : {
+    "en" : "Exceeded work address (street) input value",
+    "ja" : "会社住所番地入力値超過",
+    "vi" : "Nhập vượt quá giá trị số địa chỉ công ty",
+    "zh" : "超过了公司地址门牌号输入价"
+  },
+  "중복확인이 진행되어야 등록이 가능합니다.\\n중복확인을 먼저 수행해 주세요." : {
+    "en" : "You can register it after you carry out a duplicate check.\\nPlease perform a duplicate check first.",
+    "ja" : "登録するためには重複の確認が必要です。\\n重複確認を先に行ってください。",
+    "vi" : "Phải kiểm tra trùng lặp trước khi đăng ký.\\nVui lòng kiểm tra trùng lặp trước.",
+    "zh" : "注册需进行重复确认。\\n请先进行重复确认。"
+  },
+  "부서 선택" : {
+    "en" : "Select department",
+    "ja" : "部署選択",
+    "vi" : "Chọn bộ phận",
+    "zh" : "选择部门"
+  },
+  "목록인쇄" : {
+    "en" : "Print List",
+    "ja" : "リスト印刷",
+    "vi" : "Danh sách in",
+    "zh" : "印刷目录"
+  },
+  "구성원" : {
+    "en" : "Member",
+    "ja" : "構成員",
+    "vi" : "thành viên",
+    "zh" : "构成员 一览表"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "연락처 등록에 실패하였습니다." : {
+    "en" : "Failed to register the contact information",
+    "ja" : "連絡先の登録に失敗しました。",
+    "vi" : "Đăng ký thông tin liên lạc thất bại.",
+    "zh" : "联系人登录失败。"
+  },
+  "집 주소 국가/지역" : {
+    "en" : "Country/Area (Home Address)",
+    "ja" : "自宅住所国/地域",
+    "vi" : "Quốc gia/ khu vực địa chỉ nhà riêng",
+    "zh" : "家地址国家/地区"
+  },
+  "피드백 완료" : {
+    "en" : "Feedback Complete",
+    "ja" : "フィードバック完了",
+    "vi" : "Hoàn thành feedback",
+    "zh" : "反馈完成"
+  },
+  "자신이 등록한 {0}개의 연락처만 삭제 됩니다. 삭제 하시겠습니까?" : {
+    "en" : "Only the {0} contacts you registered will be deleted. Do you wish to delete?",
+    "ja" : "自分が登録した{0}個の連絡先のみ削除されます。削除しますか。",
+    "vi" : "Chỉ {0} thông tin do bạn thêm mới có thể xóa. Bạn chắc chắn xóa chứ?",
+    "zh" : "仅可以删除已列入{0}个联系人，确认删除吗？"
+  },
+  "{0}개의 연락처를 스팸으로 등록하였습니다." : {
+    "en" : "You have registered {0} contact(s) as spam.",
+    "ja" : "{0}件の連絡先をスパムとして登録しました。",
+    "vi" : "{0} thông tin liên lạc đã được đăng ký thành spam.",
+    "zh" : "已将{0}个联系人拉入黑名单。"
+  },
+  "좋아요" : {
+    "en" : "Like",
+    "ja" : "いいね",
+    "vi" : "Thích",
+    "zh" : "赞"
+  },
+  "미분류" : {
+    "en" : "Uncategorized",
+    "ja" : "未分類",
+    "vi" : "Chưa phân loại",
+    "zh" : "未分类"
+  },
+  "집 주소 구/군/시" : {
+    "en" : "Home address (gu/gun/si)",
+    "ja" : "自宅住所区/郡/時",
+    "vi" : "Quận/ Huyện/ Thành phố địa chỉ nhà riêng",
+    "zh" : "家地址区/县/市"
+  },
+  "마이 리스트" : {
+    "en" : "My List",
+    "ja" : "Myリスト",
+    "vi" : "Danh sách của tôi",
+    "zh" : "我的目录"
+  },
+  "선택한 연락처를 선택한 주소록으로 복사 합니다." : {
+    "en" : "Copy selected Contacts to the selected Address Book.",
+    "ja" : "選択した連絡先を選択したアドレス帳にコピーします。",
+    "vi" : "Đã sao chép thông tin liên lạc vào sổ liên lạc đã chọn.",
+    "zh" : "将已选联系人复制到已选通讯录中。"
+  },
+  "분류를 선택 하세요." : {
+    "en" : "Select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh loại.",
+    "zh" : "请选择分类。"
+  },
+  "생일 입력값 초과" : {
+    "en" : "Exceeded birthday input value",
+    "ja" : "誕生日の入力値超過",
+    "vi" : "Nhập vượt quá giá trị cho ngày sinh",
+    "zh" : "超过了生日输入价"
+  },
+  "내보낼 주소록을 선택하세요." : {
+    "en" : "Select the Contacts that you wish to export.",
+    "ja" : "エクスポートするアドレス帳を選択してください。",
+    "vi" : "Hãy chọn sổ địa chỉ để xuất",
+    "zh" : "请选择要发送的地址录。"
+  },
+  "{0}으로 이동합니다." : {
+    "en" : "Move to {0}.",
+    "ja" : "{0}に移動します。",
+    "vi" : "Di chuyển đến {0}.",
+    "zh" : "将移动到{0}。"
+  },
+  "차단일" : {
+    "en" : "Blocked Date",
+    "ja" : "ブロック日",
+    "vi" : "Ngày chặn",
+    "zh" : "拉黑日"
+  },
+  "현재 등록된 폴더로는 복사할수 없습니다" : {
+    "en" : "Cannot be copied to the current registered folder",
+    "ja" : "現在登録されているフォルダへのコピーはできません",
+    "vi" : "Bây giờ không thể sao chép sang Thư mục đã đăng ký",
+    "zh" : "不可拷贝到现在登录的文件夹。"
+  },
+  "상위 부서" : {
+    "en" : "Parent Department",
+    "ja" : "上位部署",
+    "vi" : "Bộ phận trên",
+    "zh" : "上位部门"
+  },
+  "전화번호 등록" : {
+    "en" : "Register Phone Number",
+    "ja" : "電話番号を登録する",
+    "vi" : "Thêm số điện thoại",
+    "zh" : "载入电话号码"
+  },
+  "e-메일주소" : {
+    "en" : "E-mail Address",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "양력" : {
+    "en" : "Solar Calendar",
+    "ja" : "陽暦",
+    "vi" : "Dương lịch",
+    "zh" : "阳历"
+  },
+  "근무지 시/도" : {
+    "en" : "si/do (Workplace)",
+    "ja" : "勤務先市/道",
+    "vi" : "Nơi làm việc thành phố/ tỉnh",
+    "zh" : "工作处市/道"
+  },
+  "근무지 국가/지역" : {
+    "en" : "Country/Area (Workplace)",
+    "ja" : "勤務先国家/地域",
+    "vi" : "Quốc gia/ khu vực nơi làm việc",
+    "zh" : "工作处国家/地区"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "주소록 설정" : {
+    "en" : "Address Book Settings",
+    "ja" : "アドレス帳の設定",
+    "vi" : "Cài đặt sổ liên lạc",
+    "zh" : "通讯录设置"
+  },
+  "등록수" : {
+    "en" : "Total",
+    "ja" : "登録数",
+    "vi" : "Số đăng ký",
+    "zh" : "登录数"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "關閉"
+  },
+  "기본정렬 사용" : {
+    "en" : "Use default sorting",
+    "ja" : "基本整列使用",
+    "vi" : "Sử dụng bố cục sắp xếp cơ bản",
+    "zh" : "使用默认排序"
+  },
+  "날짜가 입력되지 않았습니다." : {
+    "en" : "No date entered.",
+    "ja" : "日付が入力されていません。",
+    "vi" : "Ngày tháng chưa được nhập.",
+    "zh" : "未输入日期。"
+  },
+  "빠른 등록" : {
+    "en" : "Quick Registration",
+    "ja" : "クイック登録",
+    "vi" : "Đăng ký nhanh",
+    "zh" : "尽快登录"
+  },
+  "통화이력이 없습니다." : {
+    "en" : "There is no call history.",
+    "ja" : "通話履歴がありません。",
+    "vi" : "Không có lịch sử cuộc gọi.",
+    "zh" : "没有通话历史记录。"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "통화예약할 전화번호를 선택해주세요." : {
+    "en" : "Please select the number you wish to make a call reservation.",
+    "ja" : "通話予約をする電話番号を選択してください。",
+    "vi" : "Vui lòng chọn số điện thoại muốn hẹn cuộc gọi.",
+    "zh" : "请选择预约通话的电话号码。"
+  },
+  "사용자 설정" : {
+    "en" : "User Settings",
+    "ja" : "ユーザー設定",
+    "vi" : "Thiết lập người dùng",
+    "zh" : "设定使用者"
+  },
+  "취소" : {
+    "en" : "cancel",
+    "ja" : "取り消し",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "부적합한 전화번호 유형입니다." : {
+    "en" : "This is an invalid phone number.",
+    "ja" : "不適切な電話番号の類型です。",
+    "vi" : "Số điện thoại không phù hợp.",
+    "zh" : "电话号码格式有误。"
+  },
+  "주소(집)" : {
+    "en" : "Address(home)",
+    "ja" : "住所(自宅)",
+    "vi" : "Địa chỉ (nhà riêng)",
+    "zh" : "地址（家）"
+  },
+  "부서 관리자만" : {
+    "en" : "Only the Department Administrator",
+    "ja" : "部署管理者のみ",
+    "vi" : "Chỉ người quản lý bộ phận",
+    "zh" : "只有部门管理者"
+  },
+  "호칭(한글)" : {
+    "en" : "Nickname(Korean)",
+    "ja" : "呼称(ハングル)",
+    "vi" : "Biệt danh (tiếng Hàn)",
+    "zh" : "称呼（韩文）"
+  },
+  "분류 이동" : {
+    "en" : "Move Classification",
+    "ja" : "分類の移行",
+    "vi" : "Di chuyển phân loại",
+    "zh" : "移动分类"
+  },
+  "전화번호는 숫자만 입력하여 주세요." : {
+    "en" : "Only enter numbers in the field 'Phone Number'..",
+    "ja" : "電話番号は数字のみで入力してください。",
+    "vi" : "Số điện thoại chỉ được chứa chữ số",
+    "zh" : "电话号码只能输入数字。"
+  },
+  "집 전화번호" : {
+    "en" : "Home phone number",
+    "ja" : "自宅電話番号",
+    "vi" : "Số điện thoại nhà riêng",
+    "zh" : "家电话号码"
+  },
+  "그룹 수정" : {
+    "en" : "Edit Group",
+    "ja" : "[グループの編集]",
+    "vi" : "Chỉnh sửa nhóm",
+    "zh" : "修改群组"
+  },
+  "선택 발송" : {
+    "en" : "Select and Send",
+    "ja" : "選択送信",
+    "vi" : "Gửi lựa chọn",
+    "zh" : "选择发送"
+  },
+  "주소록가져오기" : {
+    "en" : "Import contacts",
+    "ja" : "アドレス帳のインポート",
+    "vi" : "Nhập sổ địa chỉ",
+    "zh" : "拿来地址录"
+  },
+  "그룹 추가" : {
+    "en" : "Add Group",
+    "ja" : "[グループの追加]",
+    "vi" : "Thêm nhóm",
+    "zh" : "添加群组"
+  },
+  "현재 등록된 그룹으로는 이동할수 없습니다" : {
+    "en" : "Cannot be moved to the current registered group",
+    "ja" : "現在登録されているグループへの移動はできません",
+    "vi" : "Bạn không thể di chuyển đến nhóm hiện đã đăng ký.",
+    "zh" : "不可移动到现在登录的文小组。"
+  },
+  "중요 연락처" : {
+    "en" : "Important Contacts",
+    "ja" : "重要連絡先",
+    "vi" : "Địa chỉ liên lạc quan trọng",
+    "zh" : "重要联络处"
+  },
+  "구/군/시(집)" : {
+    "en" : "gu/gun/si(home)",
+    "ja" : "区/郡/市(自宅)",
+    "vi" : "Phường/ Quận/ Thành phố (nhà riêng)",
+    "zh" : "区/郡/市（家）"
+  },
+  "대한민국" : {
+    "en" : "South Korea",
+    "ja" : "大韓民国",
+    "vi" : "Hàn Quốc",
+    "zh" : "韩国"
+  },
+  "상세정보" : {
+    "en" : "Details",
+    "ja" : "詳細情報",
+    "vi" : "Thông tin chi tiết",
+    "zh" : "详细信息"
+  },
+  "통화메모" : {
+    "en" : "Call Memo",
+    "ja" : "通話メモ",
+    "vi" : "Ghi chú cuộc gọi",
+    "zh" : "通话备注"
+  },
+  "스페이스를 체크하세요" : {
+    "en" : "Please check Space.",
+    "ja" : "スペースをチェックしてください。",
+    "vi" : "Hãy check không gian trống",
+    "zh" : "请确认空间"
+  },
+  "부서주소록 관리" : {
+    "en" : "Manage Department Contacts",
+    "ja" : "部署アドレス帳管理",
+    "vi" : "Quản lý địa chỉ bộ phận",
+    "zh" : "管理部门地址录"
+  },
+  "에 새로운 그룹을 추가합니다." : {
+    "en" : "adda new group to (  )",
+    "ja" : "に新しいグループを追加します。",
+    "vi" : "Thêm Nhóm mới vào",
+    "zh" : "上追加新的小组。"
+  },
+  "검색어를 입력하세요" : {
+    "en" : "Enter your search keyword.",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ khóa tìm kiếm",
+    "zh" : "请输入关键词。"
+  },
+  "CardDAV 연동 설정" : {
+    "en" : "CardDAV Linkage Settings",
+    "ja" : "CardDAV 連動設定",
+    "vi" : "Cài đặt kết nối CardDAV",
+    "zh" : "CardDAV联动设置"
+  },
+  "수정" : {
+    "en" : "modify",
+    "ja" : "修正",
+    "vi" : "Sửa",
+    "zh" : "修改"
+  },
+  "회사 대표 전화" : {
+    "en" : "Company Representative Number",
+    "ja" : "会社代表電話",
+    "vi" : "Số điện thoại công ty đại diện",
+    "zh" : "公司代表电话号码"
+  },
+  "연락처 복사" : {
+    "en" : "Copy Contact(s)",
+    "ja" : "連絡先をコピーする",
+    "vi" : "Sao chép thông tin liên lạc",
+    "zh" : "复制联系人"
+  },
+  "등록 가능한 연락처입니다." : {
+    "en" : "This contact information can be registered.",
+    "ja" : "登録可能な連絡先です。",
+    "vi" : "Thông tin liên lạc này có thể đăng ký.",
+    "zh" : "可以登录的联系人。"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "스팸 목록이 존재하지 않아 동기화 할 수 없습니다." : {
+    "en" : "Spam cannot be synced because a spam list does not exist.",
+    "ja" : "スパムリストが存在しないため同期できません。",
+    "vi" : "Không thể đồng bộ hóa do danh sách spam không tồn tại.",
+    "zh" : "黑名单目录不存在，无法进行同步。"
+  },
+  "어제" : {
+    "en" : "Yesterday",
+    "ja" : "昨日",
+    "vi" : "Hôm qua",
+    "zh" : "昨天"
+  },
+  "스팸 동기화에 실패하였습니다." : {
+    "en" : "Failed to sync spam.",
+    "ja" : "スパムの同期に失敗しました。",
+    "vi" : "Đồng bộ hóa spam thất bại.",
+    "zh" : "黑名单同步失败。"
+  },
+  "분류관리" : {
+    "en" : "Manage Classifications",
+    "ja" : "分類管理",
+    "vi" : "Quản lý phân loại",
+    "zh" : "分类管理"
+  },
+  "문자메세지를 입력하세요." : {
+    "en" : "Enter your message.",
+    "ja" : "テキストメッセージを入力してください。",
+    "vi" : "Hãy nhập tin nhắn.",
+    "zh" : "请输入短信"
+  },
+  "별표하기" : {
+    "en" : "Mark 'Star'",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "选星号"
+  },
+  "기념일" : {
+    "en" : "anniversary",
+    "ja" : "記念日",
+    "vi" : "ngày kỷ niệm",
+    "zh" : "纪念日"
+  },
+  "본인이 등록한 연락처만 삭제됩니다" : {
+    "en" : "Only the contacts you have registered will be deleted",
+    "ja" : "本人が登録した連絡先のみ削除されます",
+    "vi" : "Chỉ xóa địa chỉ do chính bản thân đăng ký",
+    "zh" : "只有自己登录的联络处会被删除。"
+  },
+  "스페이스에서 등록 된 관리자와 중복 사용자가 존재하여 해당 사용자는 제외처리 합니다." : {
+    "en" : "Duplicate users with the manager status on Space are excluded.",
+    "ja" : "スペースに登録された管理者と重複するユーザが存在するため、当該のユーザは除外します。",
+    "vi" : "Tồn tại người dùng trùng lặp với người quản lý được thêm trong không gian trống, người dùng này sẽ được loại bỏ.",
+    "zh" : "用户与空间登录管理者重复，该用户将进行排除处理。"
+  },
+  "아버지" : {
+    "en" : "Father",
+    "ja" : "父",
+    "vi" : "Bố",
+    "zh" : "父亲"
+  },
+  "집 전화번호 입력값 초과" : {
+    "en" : "Exceeded home phone number input value",
+    "ja" : "自宅電話番号の入力値超過",
+    "vi" : "Nhập vượt quá giá trị số điện thoại nhà riêng",
+    "zh" : "超过了家庭电话号码输入价"
+  },
+  "나온콜 설치 후 사용가능" : {
+    "en" : "Can be used after installing Naon Call.",
+    "ja" : "NAONCALLを設置してから使用可能",
+    "vi" : "Có thể dùng sau khi cài đặt Naon Call",
+    "zh" : "可在设置Naon Call后使用。"
+  },
+  "전화번호는 구분자 없이 숫자만 입력해주세요." : {
+    "en" : "Please enter phone number without spaces.",
+    "ja" : "電話番号はハイフン無しで数字のみ入力してください。",
+    "vi" : "Vui lòng nhập số điện thoại chỉ bao gồm số.",
+    "zh" : "载入电话号码时请仅输入数字。"
+  },
+  "정상적으로 가져온 연락처 리스트" : {
+    "en" : "List of contacts imported normally",
+    "ja" : "正常にインポートした連絡先リスト",
+    "vi" : "Danh sách liên hệ đã nhập theo cách thông thường",
+    "zh" : "正常拿来的联系地址录"
+  },
+  "회사 입력값 초과" : {
+    "en" : "Exceeded company input value",
+    "ja" : "会社の入力値超過",
+    "vi" : "Nhập vượt quá các giá trị của công ty",
+    "zh" : "超过了公司输入价"
+  },
+  "중간 이름" : {
+    "en" : "Middle Name",
+    "ja" : "ミドルネーム",
+    "vi" : "Tên đệm",
+    "zh" : "中间名字"
+  },
+  "발송 할 메일이 없습니다." : {
+    "en" : "There is no mail to send.",
+    "ja" : "送信するメールがありません。",
+    "vi" : "Không có thư gửi",
+    "zh" : "没有发送的邮件。"
+  },
+  "메모 입력값 초과" : {
+    "en" : "Exceeded memo input value",
+    "ja" : "メモの入力値超過",
+    "vi" : "Nhập vượt quá giá trị ghi nhớ",
+    "zh" : "超过了便条输入价"
+  },
+  "애칭" : {
+    "en" : "Nickname",
+    "ja" : "ニックネーム",
+    "vi" : "Biệt danh",
+    "zh" : "爱称"
+  },
+  "동일 부서로는 이동할수 없습니다" : {
+    "en" : "Cannot move to the same department.",
+    "ja" : "同じ部署への移動はできません",
+    "vi" : "Không thể di chuyển sang bộ phận tương tự",
+    "zh" : "不可移动到同一个部门。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "이메일" : {
+    "en" : "E-mail",
+    "ja" : "メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "이메일 형식 오류" : {
+    "en" : "Email format error",
+    "ja" : "メールの形式エラー",
+    "vi" : "Lỗi đinh dạng Email",
+    "zh" : "邮件形式错误"
+  },
+  "명함촬영" : {
+    "en" : "Take a Picture of the Busines Card(s)",
+    "ja" : "名刺撮影",
+    "vi" : "Chụp ảnh danh thiếp",
+    "zh" : "拍摄名片"
+  },
+  "주소록그룹명은 한글 30자 이내, 영어50자 이내로 입력하세요." : {
+    "en" : "Contact group name must be no more than 30 Korean characters or 50 English letters.",
+    "ja" : "アドレス帳のグループ名は、ハングル30文字以内、英字50文字以内で入力してください。",
+    "vi" : "Hãy nhập tên sổ địa chỉ nhóm trong khoảng 30 chữ tiếng Hàn hoặc 50 chữ tiếng Anh",
+    "zh" : "地址录小组名请输入韩文30字，英文50字以内。"
+  },
+  "문자 메세지 전송" : {
+    "en" : "Text Message Sent",
+    "ja" : "テキストメッセージを送信する",
+    "vi" : "Gửi tin nhắn",
+    "zh" : "发送短信"
+  },
+  "가져오기 결과" : {
+    "en" : "Import Results",
+    "ja" : "インポート結果",
+    "vi" : "Nhập kết quả",
+    "zh" : "拿来结果"
+  },
+  "이름을 입력하세요" : {
+    "en" : "Please enter your name",
+    "ja" : "名前を入力してください",
+    "vi" : "Hãy nhập tên",
+    "zh" : "请输入名字。"
+  },
+  "동일 스페이스로는 이동할수 없습니다" : {
+    "en" : "Cannot be moved to the same Sapce.",
+    "ja" : "同じスペースへは移動できません。",
+    "vi" : "Không thể di chuyển cùng không gian trống.",
+    "zh" : "无法移动为同一空间。"
+  },
+  "마이리스트 편집" : {
+    "en" : "Edit My List",
+    "ja" : "Myリスト編集",
+    "vi" : "Biên tập danh sách của tôi",
+    "zh" : "编辑我的列表"
+  },
+  "발신자 표기 정보를 입력하려면 클릭하세요." : {
+    "en" : "Please click to enter Caller Display information.",
+    "ja" : "クリックうすると、発信者の表記情報が入力できます。",
+    "vi" : "Hãy nhấn vào để nhập thông tin biểu thị người gửi.",
+    "zh" : "请点击以输入发信者标记信息。"
+  },
+  "회사 전화번호 형식 오류" : {
+    "en" : "Work phone number format error",
+    "ja" : "会社の電話番号の形式エラー",
+    "vi" : "Lỗi định dạng số điện thoại công ty",
+    "zh" : "公司电话号码形式错误"
+  },
+  "전체" : {
+    "en" : "Total",
+    "ja" : "全体",
+    "vi" : "Toàn bộ",
+    "zh" : "全部"
+  },
+  "모든 사용자" : {
+    "en" : "All users",
+    "ja" : "すべてのユーザー",
+    "vi" : "Tất cả người dùng",
+    "zh" : "所有使用者"
+  },
+  "생일 입력 형식 오류" : {
+    "en" : "Birthday input format error",
+    "ja" : "誕生日の入力形式エラー",
+    "vi" : "Lỗi định dạng ngày sinh",
+    "zh" : "生日输入形式错误"
+  },
+  "결혼 기념일 입력 형식 오류" : {
+    "en" : "Wedding anniversary input format error",
+    "ja" : "結婚記念日の入力形式エラー",
+    "vi" : "Lỗi định dạng ngày kỷ niệm kết hôn",
+    "zh" : "结婚几纪念日输入形式错误"
+  },
+  "사용자 입력값 초과" : {
+    "en" : "Exceeded user input value",
+    "ja" : "ユーザーの入力値超過",
+    "vi" : "Nhập vượt quá các giá trị của người dùng",
+    "zh" : "超过了使用者输入价"
+  },
+  "성" : {
+    "en" : "Last name",
+    "ja" : "性",
+    "vi" : "Họ",
+    "zh" : "姓"
+  },
+  "집 번지" : {
+    "en" : "Home address (street)",
+    "ja" : "自宅番地",
+    "vi" : "Số nhà",
+    "zh" : "家门牌号"
+  },
+  "주소록 관리자만" : {
+    "en" : "Only the Contacts Administrator",
+    "ja" : "アドレス帳の管理者のみ",
+    "vi" : "Chỉ người quản lý sổ địa chỉ",
+    "zh" : "只有地址录管理者"
+  },
+  "우편번호(집)" : {
+    "en" : "Zip code(home)",
+    "ja" : "郵便番号(自宅)",
+    "vi" : "Số hộp thư (nhà riêng)",
+    "zh" : "邮政编码（家）"
+  },
+  "사무실" : {
+    "en" : "Office",
+    "ja" : "オフィス",
+    "vi" : "Văn phòng",
+    "zh" : "办公室"
+  },
+  "날짜가 올바르지 않습니다." : {
+    "en" : "Incorrect date.",
+    "ja" : "日付が正しくありません。",
+    "vi" : "Ngày tháng không đúng.",
+    "zh" : "日期错误。"
+  },
+  "딸" : {
+    "en" : "Daughter",
+    "ja" : "娘",
+    "vi" : "Con gái",
+    "zh" : "女儿"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录人"
+  },
+  "지난 시간은 예약할 수 없습니다." : {
+    "en" : "Reservations cannot be made for past dates.",
+    "ja" : "過ぎた時間は予約できません。",
+    "vi" : "Không thể đặt hẹn thời gian đã qua.",
+    "zh" : "无法预约已过日期。"
+  },
+  "스팸 등록에 실패하였습니다." : {
+    "en" : "Failed to register it as spam.",
+    "ja" : "スパム登録に失敗しました。",
+    "vi" : "Đăng ký spam thất bại.",
+    "zh" : "拉黑失败。"
+  },
+  "파일첨부" : {
+    "en" : "Attach Files",
+    "ja" : "ファイル添付",
+    "vi" : "Đính kèm",
+    "zh" : "附加文档"
+  },
+  "이름,직함,회사,부서,전자 메일 주소,휴대폰,회사 전화,회사 팩스,집 전화,주소(회사),주소(집),메모" : {
+    "en" : "name, title, company, department, e-mail address, mobile, company number, company fax, home number, address(company), address(home), memo",
+    "ja" : "氏名,肩書き,会社,部署,メールアドレス,携帯電話,会社電話,会社FAX,自宅電話,住所(会社),住所(自宅),メモ",
+    "vi" : "Họ Tên, Chức vụ, Công ty, Phòng ban, Địa chỉ Email, Số điện thoại di động, Số điện thoại công ty, Số fax công ty, Số điện thoại nhà, Địa chỉ (công ty), Địa chỉ (nhà riêng), Ghi nhớ",
+    "zh" : "名,职位,公司,部门,电子邮件地址,手机号码,公司电话号码,公司传真号码,家庭电话号码,地址（公司）,地址（家）,记录"
+  },
+  "주소록의 모든 연락처와 함께 삭제됩니다.\\n단 최상위 부서는 연락처만 삭제됩니다.\\n삭제하시겠습니까?" : {
+    "en" : "Will be deleted along with all the contacts in the address book . \\n However, in the case of top-level (parent) departments, only the selected contact will be deleted. \\n Are you sure you want to delete ?",
+    "ja" : "アドレス帳のすべての連絡先が一緒に削除されます。\\nただし、最上位部署は、連絡先だけが削除されます。\\n削除しますか？",
+    "vi" : "Tất cả địa chỉ trong sổ địa chỉ sẽ bị xóa cùng. Tuy nhiên, sẽ chỉ xóa địa chỉ liên lạc của bộ phận cao. Bạn có đồng ý xóa không?",
+    "zh" : "跟地址录的所有联络处一起都被删除。\\n但是最上位部门只被删除联络处。\\n要删除吗？"
+  },
+  "경칭" : {
+    "en" : "Honorific",
+    "ja" : "敬称",
+    "vi" : "Kính ngữ",
+    "zh" : "尊敬"
+  },
+  "주소록" : {
+    "en" : "Contacts",
+    "ja" : "アドレス帳",
+    "vi" : "Sổ địa chỉ",
+    "zh" : "通讯录"
+  },
+  "홍길순,과장,나온소프트,연구소,kshong@naonsoft.com,010-3322-3232,070-7500-7500,02-538-3838,02-502-2233,역삼동 823-31,강남구,서울시,11258,대한민국,역삼동 822-2,강남구,서울시,12355,대한민국,www.naonsoft.com,1999-01-03" : {
+    "en" : "Gil-sun Hong,Manager,Naon Soft,R&D Center,kshong@naonsoft.com,010-3322-3232,070-7500-7500,02-538-3838,02-502-2233,823-31 Yeoksam-dong,Gangnam-gu,Seoul-si,11258,Republic of Korea,822-2 Yeoksam-dong,Gangnam-gu,Seoul-si,12355,Republic of Korea,www.naonsoft.com,1999-01-03",
+    "ja" : "ホンギルスン,課長,ナオンソフト,研究所,kshong@naonsoft.com,010-3322-3232,070-7500-7500,02-538-3838,02-502-2233,駅三洞823-31,江南区,ソウル市,11258,大韓民国,駅三洞822-2,江南区,ソウル市,12355,大韓民国,www.naonsoft.com,1999-01-03",
+    "vi" : "Gil-sun Hong,Giám đốc,Naon Soft,Trung tâm R&D,kshong@naonsoft.com,010-3322-3232,070-7500-7500,02-538-3838,02-502-2233,823-31 Yeoksam-dong,Kangnam-gu,Seoul,11258,Hàn Quốc,822-2 Yeoksam-dong,Kangnam-gu,Seoul,12355,Hàn Quốc,www.naonsoft.com,1999-01-03",
+    "zh" : "洪吉纯,科长,naonsoft,研究所,kshong@naonsoft.com,010-3322-3232,070-7500-7500,02-538-3838,02-502-2233,驿三洞 823-31,江南区 ,首尔市,11258,大韩民国,驿三洞 822-2,江南区,首尔市,12355,大韩民国,www.naonsoft.com,1999-01-03"
+  },
+  "웹주소 입력 형식 오류" : {
+    "en" : "Website address input format error",
+    "ja" : "ウェブアドレス入力形式エラー",
+    "vi" : "Lỗi hình thức nhập địa chỉ web",
+    "zh" : "网站地址输入形式有错误"
+  },
+  "전자 메일 주소" : {
+    "en" : "E-mail address",
+    "ja" : "電子メールアドレス",
+    "vi" : "Địa chỉ Email",
+    "zh" : "电子邮件地址"
+  },
+  "명함 OCR" : {
+    "en" : "OCR Business Card",
+    "ja" : "名刺OCR",
+    "vi" : "OCR danh thiếp",
+    "zh" : "名片 OCR"
+  },
+  "등록된 그룹이 없습니다." : {
+    "en" : "There are no registered groups.",
+    "ja" : "登録されたグループがありません。",
+    "vi" : "Không có nhóm được đăng ký",
+    "zh" : "没有登录的组织。"
+  },
+  "인쇄" : {
+    "en" : "print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "중복된 연락처가 이미 존재하여 등록상태로 전환되었습니다." : {
+    "en" : "Duplicate contact already exists and status has been changed to registered.",
+    "ja" : "重複する連絡先が既に存在していいて、登録状態に切換えられました。",
+    "vi" : "Thông tin liên lạc trùng lặp đã tồn tại từ trước và được chuyển sang trạng thái đăng ký.",
+    "zh" : "已存在重复电话号码，转换为登录状态。"
+  },
+  "형식오류" : {
+    "en" : "Format Error",
+    "ja" : "形式エラー件",
+    "vi" : "Lỗi định dạng",
+    "zh" : "形式错误的有"
+  },
+  "등록된 데이터가 없습니다." : {
+    "en" : "No data registered.",
+    "ja" : "登録されたデータがありません。",
+    "vi" : "Không có dữ liệu.",
+    "zh" : "无注册的数据。"
+  },
+  "집 전화 2" : {
+    "en" : "Home Phone Number 2",
+    "ja" : "自宅電話 2",
+    "vi" : "Số điện thoại nhà riêng 2",
+    "zh" : "家庭电话号码2"
+  },
+  "미등록" : {
+    "en" : "Unregistered",
+    "ja" : "未登録",
+    "vi" : "Chưa đăng ký",
+    "zh" : "未登录"
+  },
+  "내일" : {
+    "en" : "Tomorrow",
+    "ja" : "明日",
+    "vi" : "Ngày mai",
+    "zh" : "明天"
+  },
+  "국가코드가 공백이면 아래 전화번호들은 등록되지않습니다." : {
+    "en" : "Phone numbers without country codes will not be registered.",
+    "ja" : "国名コードがブランクであれば、下記の電話番号は登録されません。",
+    "vi" : "Các số điện thoại dưới sẽ không được thêm nếu mã quốc gia trống.",
+    "zh" : "若国家代码为空白，无法载入下列电话号码。"
+  },
+  "연락처를 체크하세요" : {
+    "en" : "Check your contacts",
+    "ja" : "連絡先をチェックしてください。",
+    "vi" : "Hãy kiểm tra địa chỉ liên lạc",
+    "zh" : "请选择联系处。"
+  },
+  "휴대전화의 연락처는 그룹웨어에 반영되지 않습니다." : {
+    "en" : "Cell phone numbers are not reflected on the Groupware.",
+    "ja" : "携帯電話の連絡帳はグループウェアに反映されません。",
+    "vi" : "Số điện thoại di động không được phản ánh trên Groupware.",
+    "zh" : "手机的联系方式不反映在群件上。"
+  },
+  "그룹웨어 주소록 CSV파일 샘플" : {
+    "en" : "Groupware Contacts CSV File Sample",
+    "ja" : "グループウェアのアドレス帳CSVファイルサンプル",
+    "vi" : "Mẫu file CSV sổ địa chỉ Groupware",
+    "zh" : "群件地址录 CSV文件样本"
+  },
+  "국가(회사)" : {
+    "en" : "Nation(company)",
+    "ja" : "国家(会社)",
+    "vi" : "Quốc gia (Công ty)",
+    "zh" : "国家（公司）"
+  },
+  "등록된 전화번호가 없어 통화예약을 할 수 없습니다." : {
+    "en" : "Unable to make a call reservation because there is no registered number.",
+    "ja" : "登録された電話番号がないため、通話予約ができません。",
+    "vi" : "Không thể hẹn trước cuộc gọi vì không có dữ liệu số điện thoại.",
+    "zh" : "无已登录电话号码，无法进行通话预约。"
+  },
+  "부서 상태" : {
+    "en" : "Department Status",
+    "ja" : "部署の状態",
+    "vi" : "Trạng thái bộ phận",
+    "zh" : "部门状态"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Vị trí",
+    "zh" : "职位"
+  },
+  "통화내용" : {
+    "en" : "Call Details",
+    "ja" : "通話内容",
+    "vi" : "Nội dung cuộc gọi",
+    "zh" : "通话内容"
+  },
+  "부서 주소록" : {
+    "en" : "Department Contacts",
+    "ja" : "部署アドレス帳",
+    "vi" : "Sổ địa chỉ bộ phận",
+    "zh" : "部门地址录"
+  },
+  "내가 등록한 연락처가 존재하지 않아 삭제할 수 없습니다." : {
+    "en" : "It cannot be deleted because the contact information registered by you does not exist.",
+    "ja" : "登録した連絡先が存在しないため、削除できません。",
+    "vi" : "Không thể xóa vì không tồn tại thông tin liên lạc do bạn đăng ký.",
+    "zh" : "我登录的联系人不存在，无法删除。"
+  },
+  "싫어요" : {
+    "en" : "Hate",
+    "ja" : "よくないね",
+    "vi" : "Không thích",
+    "zh" : "踩"
+  },
+  "파일내 중복된 정보가 존재하여 등록할 수 없습니다." : {
+    "en" : "There is a duplicate in the file and cannot be registered.",
+    "ja" : "ファイル内に重複する情報が存在するために登録できません。",
+    "vi" : "Tồn tại thông tin trùng lặp trong tệp tin và không thể thêm.",
+    "zh" : "文件内存在重复信息，无法载入。"
+  },
+  "그룹을 추가, 수정, 삭제 할 수 있습니다." : {
+    "en" : "You can Add/Modify/Delete a group.",
+    "ja" : "グループを追加、修正、削除することができます。",
+    "vi" : "Có thể thêm, sửa, xóa nhóm",
+    "zh" : "可以把小组追加，修改，删除。"
+  },
+  "폴더명을 수정합니다." : {
+    "en" : "Rename a folder",
+    "ja" : "フォルダ名を修正します。",
+    "vi" : "Sửa tên folder.",
+    "zh" : "修改文件夹名。"
+  },
+  "엑셀 등록기능은 그룹웨어관리자 또는 주소록관리자만 이용 가능합니다." : {
+    "en" : "Excel registration function is availble only to Groupware managers and Address Book managers.",
+    "ja" : "エクセルの登録機能はグループウェア管理者またはアドレス帳の管理者のみ利用可能です。",
+    "vi" : "Tính năng thêm excel chỉ có người quản lý groupware hoặc người quản lý sổ liên lạc mới có thể sử dụng.",
+    "zh" : "Excel列入功能仅限于组件管理者或联系人管理者使用。"
+  },
+  "전체복사" : {
+    "en" : "Copy (All)",
+    "ja" : "全体コピー",
+    "vi" : "Sao chép toàn bộ",
+    "zh" : "全体拷贝"
+  },
+  "회사 우편 번호 입력값 초과" : {
+    "en" : "Exceeded work address (zip code) input value",
+    "ja" : "会社郵便番号入力値超過",
+    "vi" : "Nhập vượt quá giá trị địa chỉ công ty",
+    "zh" : "超过了公司邮政编码输入价"
+  },
+  "연락처 추가" : {
+    "en" : "Add Phone Number",
+    "ja" : "連絡先を追加する",
+    "vi" : "Thêm thông tin liên lạc",
+    "zh" : "添加联系人"
+  },
+  "그룹 선택" : {
+    "en" : "Select group",
+    "ja" : "グループ選択",
+    "vi" : "Chọn nhóm",
+    "zh" : "选择组织"
+  },
+  "내 스팸목록 동기화" : {
+    "en" : "Sync my spam list",
+    "ja" : "自分のスパムリストを同期する",
+    "vi" : "Đồng bộ hóa danh sách spam của tôi",
+    "zh" : "同步到我的黑名单列表。"
+  },
+  "결혼기념일을 다시 입력하세요" : {
+    "en" : "Please enter your wedding anniversary again.",
+    "ja" : "結婚記念日を再入力してください",
+    "vi" : "Hãy nhập lại ngày kỷ niệm kết hôn",
+    "zh" : "请再输入结婚纪念日。"
+  },
+  "선택이동" : {
+    "en" : "Move (Select)",
+    "ja" : "選択移動",
+    "vi" : "Di chuyển lựa chọn",
+    "zh" : "选择移动"
+  },
+  "핸드폰의 연락처가 그룹웨어로 올라가지 않습니다." : {
+    "en" : "The contacts in your mobile phone will not be uploaded to the Groupware.",
+    "ja" : "携帯電話の連絡先がグループウェアに登録しません。",
+    "vi" : "Liên lạc ở điện thoại không đăng lên Groupware.",
+    "zh" : "手机的联系处不可上到群件。"
+  },
+  "내보내기" : {
+    "en" : "Export",
+    "ja" : "書き出し",
+    "vi" : "Gửi",
+    "zh" : "导出"
+  },
+  "내 주소록에서 모두 삭제" : {
+    "en" : "Delete all from my address book",
+    "ja" : "自分のアドレス帳から全て削除する",
+    "vi" : "Xóa tất cả trong danh bạ của tôi",
+    "zh" : "从我的通讯录中全部删除"
+  },
+  "사용자 레이블명을 입력해주세요." : {
+    "en" : "Please add a user label name.",
+    "ja" : "ユーザーのラベル名を入力してください。",
+    "vi" : "Hãy nhập tên nhãn người dùng",
+    "zh" : "请输入使用者标号名"
+  },
+  "폴더 선택" : {
+    "en" : "Select Folder",
+    "ja" : "フォルダ選択",
+    "vi" : "Chọn folder",
+    "zh" : "选择文件夹"
+  },
+  "연락처 수정" : {
+    "en" : "Modify contact",
+    "ja" : "連絡先修正",
+    "vi" : "Sửa địa chỉ liên lạc",
+    "zh" : "修改联系地址"
+  },
+  "전화번호 형식 오류" : {
+    "en" : "Phone number format error",
+    "ja" : "電話番号の形式エラー",
+    "vi" : "Lỗi kiểu số điện thoại",
+    "zh" : "电话号码形式错误"
+  },
+  "조직도" : {
+    "en" : "Organization Chart",
+    "ja" : "組織図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "호칭(영문)" : {
+    "en" : "Nickname(English)",
+    "ja" : "呼称(英文)",
+    "vi" : "Tên gọi (Tiếng anh)",
+    "zh" : "称呼（英文）"
+  },
+  "연락처 삭제" : {
+    "en" : "Delete Contact",
+    "ja" : "連絡先の削除",
+    "vi" : "Xóa địa chỉ liên lạc",
+    "zh" : "删除联络处"
+  },
+  "국가/지역" : {
+    "en" : "Country/Region",
+    "ja" : "国/地域",
+    "vi" : "Quốc gia/ khu vực",
+    "zh" : "国家/地区"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete content",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa đầu vào",
+    "zh" : "删除输入内容"
+  },
+  "자음" : {
+    "en" : "Consonant",
+    "ja" : "子音",
+    "vi" : "Phụ âm",
+    "zh" : "字音"
+  },
+  "회사 팩스 번호 형식 오류" : {
+    "en" : "Work fax number format error",
+    "ja" : "会社FAX番号の形式エラー",
+    "vi" : "Lỗi định dạng số fax của công ty",
+    "zh" : "公司传真号码形式错误"
+  },
+  "연락처 수정에 실패하였습니다." : {
+    "en" : "Failed to edit the contact information",
+    "ja" : "連絡先の修正に失敗しました。",
+    "vi" : "Chỉnh sửa thông tin liên lạc thất bại.",
+    "zh" : "联系人修改失败。"
+  },
+  "주소록 사용설정" : {
+    "en" : "Contacts settings",
+    "ja" : "アドレス帳の使用設定",
+    "vi" : "Cài đặt sử dụng sổ địa chỉ",
+    "zh" : "地址录使用设定"
+  },
+  "회사 시/도 입력값 초과" : {
+    "en" : "Exceeded work address (city/province) input value",
+    "ja" : "会社時/入力値超過",
+    "vi" : "Nhập vượt quá giá trị tỉnh/ thành phố công ty",
+    "zh" : "超过了公司市/道输入价"
+  },
+  "중복된 연락처가 이미 존재합니다." : {
+    "en" : "Duplicate phone number already exists.",
+    "ja" : "重複する連絡先が既に存在します。",
+    "vi" : "Thông tin liên lạc trùng lặp đã tồn tại từ trước.",
+    "zh" : "已存在重复电话号码。"
+  },
+  "{0}건의 연락처가 등록되었습니다." : {
+    "en" : "{0} phone numbers have been registered.",
+    "ja" : "{0}件の連絡先が登録されました。",
+    "vi" : "{0} thông tin liên lạc đã được thêm.",
+    "zh" : "已载入{0}个联系人。"
+  },
+  "연동설정" : {
+    "en" : "Connection (Linkage) Settings",
+    "ja" : "連動修正",
+    "vi" : "Cài đặt kết nối",
+    "zh" : "联动设定"
+  },
+  "기념일을 다시 입력하세요" : {
+    "en" : "Please enter your anniversary again",
+    "ja" : "結婚記念日を再入力してください",
+    "vi" : "Vui lòng nhập lại ngày kỷ niệm của bạn",
+    "zh" : "请再输入结婚纪念日。"
+  },
+  "스페이스를 선택하세요." : {
+    "en" : "Please select Space.",
+    "ja" : "スペースを選択してください。",
+    "vi" : "Hãy chọn không gian trống",
+    "zh" : "请选择空间。"
+  },
+  "등록된 폴더가 없습니다." : {
+    "en" : "No folder",
+    "ja" : "登録されたフォルダがありません。",
+    "vi" : "Không có folder đã đăng ký",
+    "zh" : "没有登录的文件夹。"
+  },
+  "파일을 첨부하세요" : {
+    "en" : "Please attach files",
+    "ja" : "ファイルを添付してください",
+    "vi" : "Hãy đính kèm File",
+    "zh" : "请附加文档。"
+  },
+  "위로" : {
+    "en" : "up",
+    "ja" : "上へ",
+    "vi" : "Phía trên",
+    "zh" : "往上边"
+  },
+  "집 전화 번호" : {
+    "en" : "Home Phone Number",
+    "ja" : "自宅電話番号",
+    "vi" : "Số điện thoại nhà riêng",
+    "zh" : "家庭电话号码"
+  },
+  "전화번호는 공용으로 등록되는 정보입니다." : {
+    "en" : "Phone number is a common registration information.",
+    "ja" : "電話番号は共用で登録される情報です。",
+    "vi" : "Số điện thoại là thông tin được thêm chung.",
+    "zh" : "电话号码为共同载入信息。"
+  },
+  "[주소록]" : {
+    "en" : "[Contacts]",
+    "ja" : "[アドレス帳]",
+    "vi" : "[Sổ địa chỉ]",
+    "zh" : "[地址录]"
+  },
+  "내 주소록" : {
+    "en" : "My Contacts",
+    "ja" : "Myアドレス帳",
+    "vi" : "Sổ địa chỉ của tôi",
+    "zh" : "我的地址薄"
+  },
+  "배우자" : {
+    "en" : "Spouse",
+    "ja" : "配偶者",
+    "vi" : "Vợ/chồng",
+    "zh" : "伴侣"
+  },
+  "매니저" : {
+    "en" : "Manager",
+    "ja" : "マネジャー",
+    "vi" : "Cán bộ quản lý",
+    "zh" : "经理"
+  },
+  "부서 폴더생성 권한" : {
+    "en" : "Department Folder creation permission",
+    "ja" : "部署フォルダの作成権限",
+    "vi" : "Quyền tạo thư mục bộ phận",
+    "zh" : "部门文件生成权限"
+  },
+  "집 주소 우편 번호 입력값 초과" : {
+    "en" : "Exceeded home address (zip code) input value",
+    "ja" : "自宅住所郵便番号入力値超過",
+    "vi" : "Nhập vượt quá giá trị địa chỉ nhà riêng",
+    "zh" : "超过了家邮政编码输入价"
+  },
+  "등록된 전화번호가 없습니다." : {
+    "en" : "There is no registered number.",
+    "ja" : "登録された電話番号がありません。",
+    "vi" : "Không có dữ liệu số điện thoại.",
+    "zh" : "无已登录电话号码。"
+  },
+  "집" : {
+    "en" : "Home",
+    "ja" : "自宅",
+    "vi" : "Nhà",
+    "zh" : "家"
+  },
+  "회사명" : {
+    "en" : "Company name",
+    "ja" : "会社名",
+    "vi" : "Tên công ty",
+    "zh" : "公司名"
+  },
+  "옵션" : {
+    "en" : "option",
+    "ja" : "オプション",
+    "vi" : "Lựa chọn",
+    "zh" : "选项"
+  },
+  "시간이 올바르지 않습니다." : {
+    "en" : "Incorrect time.",
+    "ja" : "時間が正しくありません。",
+    "vi" : "Thời gian không đúng.",
+    "zh" : "时间错误。"
+  },
+  "모바일단말기에서 이용 가능합니다." : {
+    "en" : "You can use it on your mobile device.",
+    "ja" : "モバイル端末機で利用可能です。",
+    "vi" : "Có thể sử dụng trên thiết bị điện thoại",
+    "zh" : "在移动通信终端机可以使用。"
+  },
+  "CardDav 연동항목을 선택하여 주시기 바랍니다." : {
+    "en" : "Please select your CardDav linked item.",
+    "ja" : "CardDav 連動項目を選んでください。",
+    "vi" : "Vui lòng chọn mục đồng bộ hóa CardDAV",
+    "zh" : "CardDav 请选择联动项目。"
+  },
+  "직장 전화번호" : {
+    "en" : "Phone Number (Work)",
+    "ja" : "勤務先電話番号",
+    "vi" : "Số điện thoại công ty",
+    "zh" : "公司电话号码"
+  },
+  "폴더가 추가되었습니다." : {
+    "en" : "A folder has been added.",
+    "ja" : "フォルダが追加されました。",
+    "vi" : "Thư mục này đã được thêm vào.",
+    "zh" : "追加了文件夹。"
+  },
+  "직장 우편 번호" : {
+    "en" : "Work address (zip code)",
+    "ja" : "勤務先郵便番号",
+    "vi" : "Mã bưu điện công ty",
+    "zh" : "公司邮政编码"
+  },
+  "_주소록(아웃룩).csv" : {
+    "en" : "_Contacts(outlook).csv",
+    "ja" : "_アドレス帳(outlook).csv",
+    "vi" : "_Sổ địa chỉ(outlook).csv",
+    "zh" : "_地址录(outlook).csv"
+  },
+  "사용자 이름 없음" : {
+    "en" : "No user name",
+    "ja" : "ユーザー名なし",
+    "vi" : "Không có tên người dùng",
+    "zh" : "没有使用者名字"
+  },
+  "근무지 팩스" : {
+    "en" : "Workplace Fax",
+    "ja" : "勤務先FAX",
+    "vi" : "Điện thoại nhà riêng",
+    "zh" : "工作处传真号码"
+  },
+  "스팸목록을 동기화 하시겠습니까?" : {
+    "en" : "Do you want to sync your spam list?",
+    "ja" : "スパムリストを同期しますか？",
+    "vi" : "Bạn chắc chắn muốn đồng bộ hóa danh sách spam chứ?",
+    "zh" : "是否将黑名单进行同步？"
+  },
+  "그룹전체 발송" : {
+    "en" : "Send to all group",
+    "ja" : "グループ全体送信",
+    "vi" : "Gửi cho toàn bộ nhóm",
+    "zh" : "小组全体发送"
+  },
+  "폴더" : {
+    "en" : "folder",
+    "ja" : "フォルダ",
+    "vi" : "Folder",
+    "zh" : "文件夹"
+  },
+  "회사 전화번호 입력값 초과" : {
+    "en" : "Exceeded work phone number input value",
+    "ja" : "会社の電話番号を入力値超過",
+    "vi" : "Nhập vượt quá giá số điện thoại công ty",
+    "zh" : "超过了公司电话号码输入价"
+  },
+  "기타 전화" : {
+    "en" : "Etc number",
+    "ja" : "その他電話",
+    "vi" : "Số điện thoại khác",
+    "zh" : "其他电话号码"
+  },
+  "분류 선택" : {
+    "en" : "Select Classification",
+    "ja" : "分類を選択",
+    "vi" : "Chọn phân loại",
+    "zh" : "分类选择"
+  },
+  "그룹이 수정되었습니다." : {
+    "en" : "Group has been edited.",
+    "ja" : "グループが修正されました。",
+    "vi" : "Nhóm đã được chỉnh sửa.",
+    "zh" : "群组已修改。"
+  },
+  "이미지는 한개만 등록할수있습니다" : {
+    "en" : "You can only register a single image.",
+    "ja" : "画像は一つのみ登録できます",
+    "vi" : "Chỉ có thể đăng ký được 1 ảnh",
+    "zh" : "图像只能登录一个。"
+  },
+  "그룹명" : {
+    "en" : "Group Name",
+    "ja" : "グループ名",
+    "vi" : "Tên Nhóm",
+    "zh" : "组织名"
+  },
+  "메일주소" : {
+    "en" : "Mail address",
+    "ja" : "メールアドレス",
+    "vi" : "Địa chỉ Email",
+    "zh" : "邮件地址。"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước bản in",
+    "zh" : "预览打印"
+  },
+  "회사전화" : {
+    "en" : "Compnay number",
+    "ja" : "会社電話",
+    "vi" : "Số điện thoại công ty",
+    "zh" : "公司电话号码"
+  },
+  "음양력" : {
+    "en" : "Lunar/Solar Date",
+    "ja" : "陽暦・旧暦",
+    "vi" : "âm lịch",
+    "zh" : "阴阳历"
+  },
+  "업무는 한글 300자 이하, 영문/숫자 900자 이하로 입력하세요." : {
+    "en" : "Tasks must be less than 300 Korean characters or 900 English characters/numbers.",
+    "ja" : "業務は300字以下、英字／数字900字以下で入力してください。",
+    "vi" : "Danh sách trách nhiệm phải chứa ít hơn 300 ký tự tiếng Hàn hoặc 900 ký tự/chữ số tiếng Anh.",
+    "zh" : "业务为韩文300字以下，英文/数字900字以下输入。"
+  },
+  "중복된 그룹 이름 입니다." : {
+    "en" : "The group name is already being used.",
+    "ja" : "重複したグループ名です。",
+    "vi" : "Tên Nhóm bị trùng",
+    "zh" : "重复的小组名字。"
+  },
+  "개인설정" : {
+    "en" : "Personal Settings",
+    "ja" : "個人設定",
+    "vi" : "Cài đặt cá nhân",
+    "zh" : "个人设置"
+  },
+  "우선항목" : {
+    "en" : "First item",
+    "ja" : "優先項目",
+    "vi" : "Mục ưu tiên",
+    "zh" : "优先项目"
+  },
+  "국가코드" : {
+    "en" : "Country Code",
+    "ja" : "国名コード",
+    "vi" : "Mã quốc gia",
+    "zh" : "国家代码"
+  },
+  "전체이동" : {
+    "en" : "Move (All)",
+    "ja" : "全体移動",
+    "vi" : "Di chuyển toàn bộ",
+    "zh" : "全体移动"
+  },
+  "회사 팩스" : {
+    "en" : "Company fax",
+    "ja" : "会社FAX",
+    "vi" : "Số fax công ty",
+    "zh" : "公司传真号码"
+  },
+  "연락처 정보" : {
+    "en" : "Contact Information",
+    "ja" : "連絡先情報",
+    "vi" : "Thông tin địa chỉ liên lạc",
+    "zh" : "联系地址信息"
+  },
+  "{0}개의 연락처가 삭제되며 해당 연락처의 표시정보도 같이 삭제됩니다. 삭제 하시겠습니까?" : {
+    "en" : "{0} contact(s) will be deleted, and the display information of the corresponding contacts will also be deleted. Are you sure you want to delete?",
+    "ja" : "{0}件の連絡先が削除されます。同時にこの連絡先の表示情報も削除されます。削除してもよろしいでしょうか？",
+    "vi" : "{0} thông tin liên lạc sẽ được xóa (bao gồm cả thông tin hiển thị tương ứng). Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "将删除{0}个联系人，该联系人的标识信息也将一并删除。是否确认删除？"
+  },
+  "그룹" : {
+    "en" : "Group",
+    "ja" : "グループ",
+    "vi" : "Nhóm",
+    "zh" : "组织"
+  },
+  "형식 오류" : {
+    "en" : "Format error",
+    "ja" : "形式エラー",
+    "vi" : "Lỗi định dạng",
+    "zh" : "形式错误"
+  },
+  "업무" : {
+    "en" : "Task",
+    "ja" : "業務",
+    "vi" : "Công việc",
+    "zh" : "业务"
+  },
+  "모든 부서원" : {
+    "en" : "All department members",
+    "ja" : "すべての部署員",
+    "vi" : "Tất cả nhân viên bộ phận",
+    "zh" : "所有部门员"
+  },
+  "표시" : {
+    "en" : "Mark",
+    "ja" : "目印",
+    "vi" : "Biểu thị",
+    "zh" : "标出"
+  },
+  "존재하지 않은 연락처입니다." : {
+    "en" : "The contact doesn't exist.",
+    "ja" : "存在していない連絡先です。",
+    "vi" : "Thông tin liên hệ này không tồn tại.",
+    "zh" : "不存在的联系处。"
+  },
+  "그룹명을 수정합니다." : {
+    "en" : "Modify the group name.",
+    "ja" : "グループ名を変更します。",
+    "vi" : "Sửa tên nhóm",
+    "zh" : "修改小组名。"
+  },
+  "직장" : {
+    "en" : "company",
+    "ja" : "会社",
+    "vi" : "công ty",
+    "zh" : "公司"
+  },
+  "주소록 가져오기" : {
+    "en" : "Import Contacts",
+    "ja" : "アドレス帳インポート",
+    "vi" : "Nhập sổ địa chỉ",
+    "zh" : "拿出地址录"
+  },
+  "부서 주소록에서 모두 삭제" : {
+    "en" : "Delete all from department address book",
+    "ja" : "部署のアドレス帳から全て削除する",
+    "vi" : "Xóa tất cả trong danh bạ của bộ phận",
+    "zh" : "从部门通讯录中全部删除"
+  },
+  "우편번호(회사)" : {
+    "en" : "Zip code(company)",
+    "ja" : "郵便番号(会社)",
+    "vi" : "Số hộp thư (công ty)",
+    "zh" : "邮政编码（公司）"
+  },
+  "부서를 선택하세요" : {
+    "en" : "Select a folder",
+    "ja" : "部署を選択してください",
+    "vi" : "Hãy chọn bộ phận",
+    "zh" : "请选择部门。"
+  },
+  "해당 부서에는 기본그룹이 없어 작업을 계속할수없습니다" : {
+    "en" : "You cannot continue the task because the selected department does not have a Default Group.",
+    "ja" : "当該部署には基本グループがないため、作業を続けることができません。",
+    "vi" : "Không thể tiếp tục thao tác cho không có nhóm mặc định trên bộ phận tương ứng.",
+    "zh" : "有关部门没有基本小组而不可继续进行工作。"
+  },
+  "시간이 입력되지 않았습니다." : {
+    "en" : "No time entered.",
+    "ja" : "時間が入力されていません。",
+    "vi" : "Thời gian chưa được nhập.",
+    "zh" : "未输入时间。"
+  },
+  "생일" : {
+    "en" : "Birthday",
+    "ja" : "誕生日",
+    "vi" : "Ngày sinh",
+    "zh" : "生日"
+  },
+  "주소록 그룹" : {
+    "en" : "Contacts (Group)",
+    "ja" : "アドレス帳グループ",
+    "vi" : "Địa chỉ nhóm",
+    "zh" : "地址录小组"
+  },
+  "현재 그룹에서만 삭제" : {
+    "en" : "Delete only from the current group",
+    "ja" : "現在グループでのみ削除",
+    "vi" : "Chỉ xóa ở Nhóm hiện tại",
+    "zh" : "只在现在组织上进行删除"
+  },
+  "선택한 그룹을 삭제합니다." : {
+    "en" : "Delete the selected group.",
+    "ja" : "選択したグループを削除します。",
+    "vi" : "Xóa nhóm đã chọn.",
+    "zh" : "删除已选群组。"
+  },
+  "휴대전화 형식 오류" : {
+    "en" : "Mobile phone format error",
+    "ja" : "携帯電話の形式エラー",
+    "vi" : "Lỗi định dạng điện thoại",
+    "zh" : "手机形式错误"
+  },
+  "그룹을 삭제" : {
+    "en" : "Delete a group",
+    "ja" : "グループを削除",
+    "vi" : "Xóa nhóm",
+    "zh" : "删除小组"
+  },
+  "선택한 부서의 등록된 연락처가 없습니다." : {
+    "en" : "No contact information found for the selected department.",
+    "ja" : "妨害禁止時間帯設定の際に受けたメッセージお知らせを設定します。",
+    "vi" : "Không tìm thấy thông tin liên lạc cho các bộ phận được lựa chọn.",
+    "zh" : "所选部门中没有已登记的联系方式。"
+  },
+  "근무지 주소 번지" : {
+    "en" : "Work place Street Number",
+    "ja" : "勤務先住所番地",
+    "vi" : "Địa chỉ nơi làm việc",
+    "zh" : "工作处地址编号"
+  },
+  "주소록에서 모두 삭제" : {
+    "en" : "Delete all from Contacts (Address Book)",
+    "ja" : "アドレス帳から全て削除",
+    "vi" : "Xóa ở tất cả danh sách địa chỉ",
+    "zh" : "地址录上全部进行删除"
+  },
+  "전화번호 조회" : {
+    "en" : "Look up phone numbers",
+    "ja" : "電話番号を照会",
+    "vi" : "Kiểm tra số điện thoại",
+    "zh" : "查询电话号码"
+  },
+  "연락처가 이동되었습니다." : {
+    "en" : "Your contact has been moved.",
+    "ja" : "連絡先が移動されました。",
+    "vi" : "Đã chuyển thông tin liên lạc.",
+    "zh" : "已转移通讯录。"
+  },
+  "초기화" : {
+    "en" : "initialization",
+    "ja" : "初期化",
+    "vi" : "Khởi tạo",
+    "zh" : "韩语"
+  },
+  "우편번호" : {
+    "en" : "Zip code",
+    "ja" : "郵便番号",
+    "vi" : "Mã số bưu điện",
+    "zh" : "邮政编码"
+  },
+  "부재" : {
+    "en" : "Away",
+    "ja" : "不在",
+    "vi" : "Vắng mặt",
+    "zh" : "未接电话"
+  },
+  "전체 이름" : {
+    "en" : "Full name",
+    "ja" : "フルネーム",
+    "vi" : "Tên đầy đủ",
+    "zh" : "全体名字"
+  },
+  "등록된 메일 주소가 없습니다." : {
+    "en" : "No registered e-mail address.",
+    "ja" : "登録されたメールアドレスがありません。",
+    "vi" : "Không có địa chỉ e-mail",
+    "zh" : "没有登录的邮件地址。"
+  },
+  "복사" : {
+    "en" : "copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "拷贝"
+  },
+  "스페이스 주소록" : {
+    "en" : "Space Address Book",
+    "ja" : "スペースのアドレス帳",
+    "vi" : "Sổ liên lạc trống",
+    "zh" : "空间联系人"
+  },
+  "음력" : {
+    "en" : "Lunar Calendar",
+    "ja" : "陰暦",
+    "vi" : "Âm lịch",
+    "zh" : "阴历"
+  },
+  "국가선택" : {
+    "en" : "Select country",
+    "ja" : "国名を選択する",
+    "vi" : "Chọn quốc gia",
+    "zh" : "选择国家"
+  },
+  "내 스팸차단" : {
+    "en" : "Spam List",
+    "ja" : "スパムをブロック",
+    "vi" : "Số chặn spam",
+    "zh" : "我的黑名单"
+  },
+  "별표해제" : {
+    "en" : "Unstar",
+    "ja" : "スターを解除する",
+    "vi" : "Bỏ đánh dấu sao",
+    "zh" : "解除点星"
+  },
+  "집 주소 우편 번호" : {
+    "en" : "Zip Code (Home Address)",
+    "ja" : "自宅住所郵便番号",
+    "vi" : "Mã bưu điện địa chỉ nhà riêng",
+    "zh" : "家地址邮政编码"
+  },
+  "그룹 정보" : {
+    "en" : "Group Info",
+    "ja" : "グループ情報",
+    "vi" : "Thông tin nhóm",
+    "zh" : "小组信息"
+  },
+  "연락처 삭제 안함" : {
+    "en" : "Do not delete contact",
+    "ja" : "連絡先を削除しない",
+    "vi" : "Không xóa địa chỉ liên lạc",
+    "zh" : "不删除联络处"
+  },
+  "결과조회" : {
+    "en" : "View results",
+    "ja" : "結果照会",
+    "vi" : "Xem Kết quả",
+    "zh" : "查询结果"
+  },
+  "음력 형식 오류" : {
+    "en" : "Lunar calendar format error",
+    "ja" : "陰暦形式エラー",
+    "vi" : "Lỗi định dạng âm lịch",
+    "zh" : "阴历形式错误"
+  },
+  "선택하신 연락처를 삭제 하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the selected contact?",
+    "ja" : "選択した連絡先を削除しますか？",
+    "vi" : "Bạn có chắc chắn muốn xóa danh bạ đã chọn không?",
+    "zh" : "您确定要删除所选的联系人吗？"
+  },
+  "{0}로 전화" : {
+    "en" : "Call {0}.",
+    "ja" : "{0}で電話する",
+    "vi" : "Cuộc gọi đến {0}",
+    "zh" : "用{0}打电话"
+  },
+  "선택하신 연락처를 삭제하시겠습니까?" : {
+    "en" : "Are you sure you want to delete the selected contacts?",
+    "ja" : "選択した連絡先を削除しますか?",
+    "vi" : "Bạn có đồng ý xóa địa chỉ liên lạc đã chọn?",
+    "zh" : "要删除您选择的联络处吗？"
+  },
+  "연락처 '{0}'을(를) 삭제하시겠습니까?" : {
+    "en" : "Do you wish to delete {0}'s phone number?",
+    "ja" : "連絡先「{0}」を削除しますか。",
+    "vi" : "Bạn chắc chắn muốn xóa thông tin liên lạc '{0}' chứ?",
+    "zh" : "确认删除联系人‘{0}’？"
+  },
+  "현재 등록된 그룹으로는 복사할수 없습니다" : {
+    "en" : "Cannot be copied to the current registered group",
+    "ja" : "現在登録されているグループへのコピーはできません",
+    "vi" : "Bạn không thể sao chép vào nhóm hiện đã đăng ký.",
+    "zh" : "不可拷贝到现在登录的文小组。"
+  },
+  "집 주소 구/군/시 입력값 초과" : {
+    "en" : "Exceeded home address (gu/gun/si) input value",
+    "ja" : "自宅住所区/郡/市入力値超過",
+    "vi" : "Nhập vượt quá giá trị quận/ huyện/ thành phố địa chỉ nhà riêng",
+    "zh" : "超过了家区/县/市输入价"
+  },
+  "연락처 보기" : {
+    "en" : "View Contacts",
+    "ja" : "連絡先表示",
+    "vi" : "Xem danh bạ",
+    "zh" : "查看联系人"
+  },
+  "연락처 선택" : {
+    "en" : "Select Contacts",
+    "ja" : "連絡先選択",
+    "vi" : "Chọn danh bạ",
+    "zh" : "选择联系人"
+  },
+  "기타 전화번호 입력값 초과" : {
+    "en" : "Exceeded other phone number input value",
+    "ja" : "その他の電話番号入力値超過",
+    "vi" : "Nhập vượt quá giá trị số điện thoại khác",
+    "zh" : "超过了其他电话号码输入价"
+  },
+  "메일을 가진 사용자가 없습니다." : {
+    "en" : "There is no user with the e-mail.",
+    "ja" : "メールをお持ちのユーザーがいません。",
+    "vi" : "Không có người dùng có email.",
+    "zh" : "没有保有邮件的用户。"
+  },
+  "동일한 그룹으로는 이동할 수 없습니다." : {
+    "en" : "Cannot move to the same group.",
+    "ja" : "同一のグループへの移動はできません。",
+    "vi" : "Không thể di chuyển vào cùng nhóm.",
+    "zh" : "无法移动到同一组。"
+  },
+  "내용을 입력해주세요." : {
+    "en" : "Please enter the details.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Vui lòng nhập nội dung.",
+    "zh" : "请输入内容。"
+  },
+  "웹주소 입력값 초과" : {
+    "en" : "Exceeded website address input value",
+    "ja" : "Webアドレス入力値超過",
+    "vi" : "Nhập vượt quá giá trị địa chỉ web",
+    "zh" : "超过了网站地址输入价"
+  },
+  "사용자레이블" : {
+    "en" : "User label",
+    "ja" : "ユーザーラベル",
+    "vi" : "Nhãn người dùng",
+    "zh" : "使用者标号"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "ファックス番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "스팸 동기화가 완료되었습니다." : {
+    "en" : "Spam sync has been completed.",
+    "ja" : "スパムの同期が完了しました。",
+    "vi" : "Đồng bộ hóa spam hoàn tất.",
+    "zh" : "已完成黑名单同步。"
+  },
+  "문자 전송에 실패하였습니다." : {
+    "en" : "Text failed to send",
+    "ja" : "メッセージの送信に失敗しました。",
+    "vi" : "Gửi tin nhắn thất bại.",
+    "zh" : "信息发送失败。"
+  },
+  "{0}개의 연락처를 스팸에서 해제하였습니다." : {
+    "en" : "You have removed {0} contact(s) from spam.",
+    "ja" : "{0}件の連絡先をスパムから解除しました。",
+    "vi" : "Đã gỡ {0} thông tin liên lạc khỏi spam.",
+    "zh" : "已将{0}个联系人从黑名单中移除。"
+  },
+  "전화번호부 등록" : {
+    "en" : "Register Phone Book",
+    "ja" : "電話帳を登録する",
+    "vi" : "Thêm danh bạ điện thoại",
+    "zh" : "载入通讯录"
+  },
+  "동일한 그룹으로는 복사할 수 없습니다." : {
+    "en" : "Cannot copy to the same group.",
+    "ja" : "同一のグループへのコピーはできません。",
+    "vi" : "Không thể sao chép vào cùng nhóm.",
+    "zh" : "无法复制到同一组。"
+  },
+  "마이리스트" : {
+    "en" : "My List",
+    "ja" : "Myリスト",
+    "vi" : "Danh sách của tôi",
+    "zh" : "我的列表"
+  },
+  "통화 이력이 없습니다." : {
+    "en" : "No call history.",
+    "ja" : "通話履歴はありません。",
+    "vi" : "Không có lịch sử cuộc gọi.",
+    "zh" : "没有通话记录。"
+  },
+  "분류명" : {
+    "en" : "Category name",
+    "ja" : "カテゴリ名",
+    "vi" : "Tên hạng mục",
+    "zh" : "分类名"
+  },
+  "동기화할 정보를 선택하세요." : {
+    "en" : "Please select the information that  you want to synchronize.",
+    "ja" : "同期化する情報を選択してください。",
+    "vi" : "Vui lòng chọn thông tin mà bạn muốn đồng bộ hóa.",
+    "zh" : "请选择要同步化的信息。"
+  },
+  "전화번호 중복체크" : {
+    "en" : "Phone Number Duplicate Check",
+    "ja" : "電話番号重複確認",
+    "vi" : "Kiểm tra trùng lặp số điện thoại",
+    "zh" : "检查电话号码重复"
+  },
+  "선택한 연락처" : {
+    "en" : "Selected Contacts",
+    "ja" : "選択した連絡先",
+    "vi" : "Danh bạ đã chọn",
+    "zh" : "选择的联系人"
+  },
+  "기념일 입력 형식 오류" : {
+    "en" : "Anniversary input format error",
+    "ja" : "記念日入力形式エラー",
+    "vi" : "Lỗi định dạng ngày kỷ niệm",
+    "zh" : "纪念日输入形式有错误"
+  },
+  "휴대전화 연동" : {
+    "en" : "Sync Cell Phone",
+    "ja" : "携帯電話を連携する",
+    "vi" : "Liên kết điện thoại di động",
+    "zh" : "与手机联动"
+  },
+  "샘플 파일을 다운로드하여 등록해 주세요." : {
+    "en" : "Please register using the sample file.",
+    "ja" : "サンプルファイルをダウンロードして登録してください。",
+    "vi" : "Hãy tải xuống và thêm tệp tin mẫu.",
+    "zh" : "请下载样本文件并载入。"
+  },
+  "연락처를 저장할 그룹을 선택" : {
+    "en" : "Select group to save contacts",
+    "ja" : "連絡先を保存するグループを選択する",
+    "vi" : "Chọn nhóm để lưu thông tin liên hệ",
+    "zh" : "选择要保存联系处的小组"
+  },
+  "회사 폴더생성 권한" : {
+    "en" : "Company Folder creation permission",
+    "ja" : "会社フォルダの作成権限",
+    "vi" : "Quyền tạo thư mục công ty",
+    "zh" : "公司文件生成权限"
+  },
+  "사진" : {
+    "en" : "Photo",
+    "ja" : "写真",
+    "vi" : "Hình ảnh",
+    "zh" : "照片"
+  },
+  "주소록 환경" : {
+    "en" : "Contacts preferences",
+    "ja" : "アドレス帳の環境",
+    "vi" : "Môi trường sổ địa chỉ",
+    "zh" : "地址录环境"
+  },
+  "직장 시/도" : {
+    "en" : "Work address (city/province)",
+    "ja" : "勤務先区/郡/市",
+    "vi" : "Tỉnh/ thành phố công ty",
+    "zh" : "公司市/道"
+  },
+  "폴더 관리" : {
+    "en" : "Manage folders",
+    "ja" : "フォルダ管理",
+    "vi" : "Quản lý folder",
+    "zh" : "管理文件夹"
+  },
+  "홍길동,부장,나온소프트,연구소,kdhong@naonsoft.com,010-5200-4252,070-7500-7500,02-538-3838,02-502-2222,역삼동 823-30,강남구,서울시,11258,대한민국,역삼동 822-2,강남구,서울시,12355,대한민국,www.naonsoft.com,1999-01-02" : {
+    "en" : "Gil-dong Hong,Director,Naon Soft,R&D Center,kdhong@naonsoft.com,010-5200-4252,070-7500-7500,02-538-3838,02-502-2222,823-30 Yeoksam-dong,Gangnam-gu,Seoul-si,11258,Republic of Korea,822-2 Yeoksam-dong,Gangnam-gu,Seoul-si,12355,Republic of Korea,www.naonsoft.com,1999-01-02",
+    "ja" : "ホン・ギルドン,部長,ナオンソフト,研究所,kdhong@naonsoft.com,010-5200-4252,070-7500-7500,02-538-3838,02-502-2222,駅三洞823-30,江南区,ソウル市,11258,大韓民国,駅三洞822-2,江南区,ソウル市,12355,大韓民国,www.naonsoft.com,1999-01-02",
+    "vi" : "Gil-Dong Hong,Director,Naon Soft,Trung tâm R&D,kdhong@naonsoft.com,010-5200-4252,070-7500-7500,02-538-3838,02-502-2222,823-30 Yeoksam-dong,Kangnam-gu,Seoul,11258,Hàn Quốc,822-2 Yeoksam-dong,Kangnam-gu,Seoul,12355,Hàn Quốc,www.naonsoft.com,1999-01-02",
+    "zh" : "洪吉童,部长,naonsoft,研究所,kdhong@naonsoft.com,010-5200-4252,070-7500-7500,02-538-3838,02-502-2222,驿三洞 823-30,江南区 ,首尔市,11258,大韩民国,驿三洞 822-2,江南区,首尔市,12355,大韩民国,www.naonsoft.com,1999-01-02"
+  },
+  "친구" : {
+    "en" : "Friend",
+    "ja" : "友達",
+    "vi" : "Bạn",
+    "zh" : "朋友"
+  },
+  "집 주소 국가/지역 입력값 초과" : {
+    "en" : "Exceeded home address (country/region) input value",
+    "ja" : "自宅住所の国/地域入力値超過",
+    "vi" : "Nhập vượt quá giá trị",
+    "zh" : "超过了家国家/地区输入价"
+  },
+  "주소(회사)" : {
+    "en" : "Address(company)",
+    "ja" : "住所(会社)",
+    "vi" : "Địa chỉ (công ty)",
+    "zh" : "地址（公司）"
+  },
+  "중요연락처" : {
+    "en" : "Important Contacts",
+    "ja" : "重要連絡先",
+    "vi" : "Địa chỉ liên lạc quan trọng",
+    "zh" : "重要联络处"
+  },
+  "{0}으로 복사합니다." : {
+    "en" : "Copy as {0}.",
+    "ja" : "{0}にコピーします。",
+    "vi" : "Sao chép đến {0}.",
+    "zh" : "将复制为{0}。"
+  },
+  "그룹웨어 주소록(CSV)" : {
+    "en" : "Groupware Contacts (CSV)",
+    "ja" : "グループウェアのアドレス帳（CSV）",
+    "vi" : "Sổ địa chỉ Groupware (CSV)",
+    "zh" : "群件地址录(CSV)"
+  },
+  "부서를 체크하세요" : {
+    "en" : "Check the department",
+    "ja" : "部署をチェックしてください",
+    "vi" : "Hãy kiểm tra bộ phận",
+    "zh" : "请选择部门。"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "이름,직위,회사,부서,이메일,휴대전화,직장 전화번호,팩스 번호,집 전화번호,직장 주소 번지,직장 구/군/시,직장 시/도,직장 우편 번호,직장 국가/지역,집 번지,집 주소 구/군/시,집 주소 시/도,집 주소 우편 번호,집 주소 국가/지역,웹 주소,생일" : {
+    "en" : "Name, Title, Company, Department, E-mail, Mobile phone, Work phone, Fax number, Home phone, Work address (street), Work address (gu/gun/si), Work address (city/province), Work address (zip code), Work address (country/region), Home address (street), Home address (gu/gun/si), Home address (city/province), Home address (zip code)",
+    "ja" : "名前、役職、会社、部門、電子メール、携帯電話、勤務先電話番号、FAX番号、自宅電話番号、勤務先住所番地、勤務先区/郡/市、仕事先区/郡/市、勤務先郵便番号、勤務先国/地域、家番地、住所区/郡/市、自宅住所区/郡/市、自宅住所郵便番号、住所、国/地域、Webアドレス、誕生日",
+    "vi" : "Họ tên, Cấp bậc, Tên công ty, Địa chỉ Email, Số điện thoại di động, Số fax, Số điện thoại nhà riêng, Địa chỉ công ty, Địa chỉ nhà riêng, Ngày sinh, Âm lịch/ Dương lịch, Ngày kỷ niệm kết hôn, Ghi nhớ",
+    "zh" : "名字，职位，公司，部门，邮件，手机公司电话，公司传真，家电话号码，公司地址门牌号，公司区/县/市，公司市/道，公司邮政编码，公司国家/地区，家门牌号，家地址区/县/市，家地址市/道，家地址邮政编码，家地址国家/地区，网页，生日"
+  },
+  "집 팩스" : {
+    "en" : "Home fax",
+    "ja" : "自宅FAX",
+    "vi" : "Số fax nhà riêng",
+    "zh" : "家庭传真号码"
+  },
+  "건의 연락처 중" : {
+    "en" : "Among () contacts",
+    "ja" : "件の連絡先のうち",
+    "vi" : "Trong số () thông tin liên lạc",
+    "zh" : "件的联系处中"
+  },
+  "스팸해제" : {
+    "en" : "Unmark as Spam",
+    "ja" : "スパムを解除する",
+    "vi" : "Xóa thông tin spam",
+    "zh" : "解除黑名单"
+  },
+  "공용 주소록에서 모두 삭제" : {
+    "en" : "Delete all from company address book",
+    "ja" : "共用アドレス帳から全て削除する",
+    "vi" : "Xóa tất cả trong danh bạ chung",
+    "zh" : "从共有通讯录中全部删除"
+  },
+  "등록된 스팸 연락처가 없습니다." : {
+    "en" : "No spam contacts found",
+    "ja" : "登録されたスパムの連絡先がありません。",
+    "vi" : "Không có dữ liệu thông tin liên lạc spam.",
+    "zh" : "没有列为黑名单的联系人。"
+  },
+  "정상 상태의 주소록은 삭제할 수 없습니다." : {
+    "en" : "Cannot delete Address Book(s) in regular status.",
+    "ja" : "正常のアドレス帳は削除できません。",
+    "vi" : "Không thể xóa sổ liên lạc ở trạng thái bình thường.",
+    "zh" : "无法删除正常状态的联系人。"
+  },
+  "이메일 또는 전화번호가 중복된 연락처를 찾아 정리할 수 있습니다." : {
+    "en" : "You can organize and clean up duplicate contacts with the same email or phone number.",
+    "ja" : "メールアドレスまたは電話番号が重複した連絡先を見つけて整理できます。",
+    "vi" : "Bạn có thể sắp xếp và làm sạch danh bạ trùng lặp địa chỉ email hoặc số điện thoại.",
+    "zh" : "您可以查找和整理具有重复电子邮件或电话号码的联系人。"
+  },
+  "나온콜 주소록" : {
+    "en" : "Naver Contacts",
+    "ja" : "ナオンコール 住所録",
+    "vi" : "Danh bạ NAON CALL",
+    "zh" : "NAON CALL地址簿"
+  },
+  "등록된 전화번호가 없어 불가능합니다." : {
+    "en" : "Cannot complete request because there is no registered number.",
+    "ja" : "登録された電話番号がないため、不可です。",
+    "vi" : "Không thể vì không có dữ liệu số điện thoại",
+    "zh" : "无已登录电话号码，无法进行。"
+  },
+  "그룹명을 입력하세요" : {
+    "en" : "Please enter the group name",
+    "ja" : "グループ名を入力してください",
+    "vi" : "Hãy nhập tên Nhóm",
+    "zh" : "请输入小组名。"
+  },
+  "전화번호가 너무 짧습니다. 8자리 이상 입력해주세요." : {
+    "en" : "Phone number is too short. Please enter at least 8 numbers.",
+    "ja" : "電話番号が短すぎます。8文字以上入力してください。",
+    "vi" : "Số điện thoại quá ngắn. Vui lòng nhập trên 8 số.",
+    "zh" : "电话号码过短，请输入8字以上。"
+  },
+  "분류 삭제" : {
+    "en" : "Delete category",
+    "ja" : "か削除",
+    "vi" : "Xóa danh mục",
+    "zh" : "删除分类"
+  },
+  "스팸추가" : {
+    "en" : "Mark as Spam",
+    "ja" : "スパムを追加する",
+    "vi" : "Thêm thông tin spam",
+    "zh" : "添加黑名单"
+  },
+  "집주소" : {
+    "en" : "Home Address",
+    "ja" : "自宅注所",
+    "vi" : "Địa chỉ nhà riêng",
+    "zh" : "家庭地址"
+  },
+  "공유자 추가" : {
+    "en" : "Add Sharer",
+    "ja" : "共有者追加",
+    "vi" : "Thêm người chia sẻ",
+    "zh" : "添加共享人"
+  },
+  "집 전화번호 형식 오류" : {
+    "en" : "Home phone number format error",
+    "ja" : "自宅電話番号の形式エラー",
+    "vi" : "Lỗi định dạng số điện thoại nhà riêng",
+    "zh" : "家庭电话号码形式错误"
+  },
+  "첨부개수" : {
+    "en" : "Number of Attachments",
+    "ja" : "添付個数",
+    "vi" : "Số tập tin đính kèm",
+    "zh" : "附件数"
+  },
+  "동일한 분류로는 이동할 수 없습니다." : {
+    "en" : "You cannot move to the same classification.",
+    "ja" : "同一の分類には移動できません。",
+    "vi" : "Không thể di chuyển sang nhóm phân loại trùng lặp.",
+    "zh" : "无法移动至相同分类。"
+  },
+  "공용 주소록" : {
+    "en" : "Public Contacts",
+    "ja" : "共用アドレス帳",
+    "vi" : "Sổ địa chỉ dùng chung",
+    "zh" : "公用地址录"
+  },
+  "클립보드 저장" : {
+    "en" : "Save in Clipboard",
+    "ja" : "クリップボード保存",
+    "vi" : "Lưu Bộ nhớ đệm",
+    "zh" : "剪贴板保存"
+  },
+  "스페이스 선택" : {
+    "en" : "Select Space",
+    "ja" : "スペースを選択する",
+    "vi" : "Chọn không gian trống",
+    "zh" : "选择空间"
+  },
+  "등록된 연락처가 없습니다." : {
+    "en" : "There are no registered contacts.",
+    "ja" : "登録された連絡先がありません。",
+    "vi" : "Không có địa chỉ liên lạc đã đăng ký",
+    "zh" : "没有登录的联系地址。"
+  },
+  "중복 체크" : {
+    "en" : "Duplicate check",
+    "ja" : "重複チェック",
+    "vi" : "Kiểm tra trùng lặp",
+    "zh" : "选择重复"
+  },
+  "어머니" : {
+    "en" : "Mother",
+    "ja" : "母",
+    "vi" : "Mẹ",
+    "zh" : "母亲"
+  },
+  "가져올 주소록 형식을 선택하고 파일을 첨부하세요." : {
+    "en" : "Select the format of contacts that you want to import and add attachments.",
+    "ja" : "インポートするアドレス帳の形式を選択してファイルを添付してください。",
+    "vi" : "Vui lòng chọn định dạng bạn muốn nhập danh bạ và file đính kèm.",
+    "zh" : "选择要拿来的地址录形式后附加文档。"
+  },
+  "휴대전화 입력값 초과" : {
+    "en" : "Exceeded mobile phone input value",
+    "ja" : "携帯電話の入力値超過",
+    "vi" : "Nhập vượt quá các giá trị của điện thoại",
+    "zh" : "超过了手机输入价"
+  },
+  "연락처등록" : {
+    "en" : "Register Contact",
+    "ja" : "連絡先登録",
+    "vi" : "Đăng ký địa chỉ liên lạc",
+    "zh" : "登录联络处"
+  },
+  "분류 수정" : {
+    "en" : "Change classification",
+    "ja" : "分類を変更する",
+    "vi" : "Chỉnh sửa phân loại",
+    "zh" : "修改分类"
+  },
+  "연락처가 수정되었습니다." : {
+    "en" : "Contact has been edited.",
+    "ja" : "連絡先が修正されました。",
+    "vi" : "Thông tin liên lạc đã được chỉnh sửa.",
+    "zh" : "联系人已修改。"
+  },
+  "분류 추가" : {
+    "en" : "Add classification",
+    "ja" : "分類を追加する",
+    "vi" : "Thêm phân loại",
+    "zh" : "添加分类"
+  },
+  "폴더를 선택하세요" : {
+    "en" : "Select a folder",
+    "ja" : "フォルダを選択してください",
+    "vi" : "Hãy chọn Thư mục",
+    "zh" : "请选择文件夹。"
+  },
+  "일괄 수정" : {
+    "en" : "Bulk Edit",
+    "ja" : "一括修正",
+    "vi" : "Chỉnh sửa hàng loạt",
+    "zh" : "批量编辑"
+  },
+  "메모" : {
+    "en" : "Memo",
+    "ja" : "メモ",
+    "vi" : "Ghi chú",
+    "zh" : "便签"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Mục lục",
+    "zh" : "目录"
+  },
+  "회사 국가/지역 입력값 초과" : {
+    "en" : "Exceeded work address (country/region) input value",
+    "ja" : "会社国/地域入力値超過",
+    "vi" : "Nhập vượt quá giá trị quốc gia/ khu vực công ty",
+    "zh" : "超过了公司国家/地区输入价"
+  },
+  "개인" : {
+    "en" : "Personal",
+    "ja" : "個人",
+    "vi" : "Cá nhân",
+    "zh" : "个人"
+  },
+  "전화" : {
+    "en" : "phone",
+    "ja" : "電話",
+    "vi" : "điện thoại",
+    "zh" : "电话"
+  },
+  "아래" : {
+    "en" : "down",
+    "ja" : "下へ",
+    "vi" : "Phía dưới",
+    "zh" : "往下边"
+  },
+  "결혼기념일" : {
+    "en" : "Wedding Anniversary",
+    "ja" : "結婚記念日",
+    "vi" : "Kỷ niệm ngày cưới",
+    "zh" : "结婚纪念日"
+  },
+  "기존 이미지 삭제" : {
+    "en" : "Delete Existing Image",
+    "ja" : "既存の画像を削除",
+    "vi" : "Xóa hình ảnh có sẵn",
+    "zh" : "删除现有图象"
+  },
+  "전화번호 선택" : {
+    "en" : "Phone number selection",
+    "ja" : "電話番号の選択",
+    "vi" : "Lựa chọn số điện thoại",
+    "zh" : "选择电话号码"
+  },
+  "그룹을 선택하세요" : {
+    "en" : "Select a group",
+    "ja" : "グループを選択してください",
+    "vi" : "Hãy chọn Nhóm",
+    "zh" : "请选择小组。"
+  },
+  "등록된 번호가 없습니다." : {
+    "en" : "There is no registered number.",
+    "ja" : "登録された番号がありません。",
+    "vi" : "Không có số được thêm.",
+    "zh" : "没有已登录号码。"
+  },
+  "현재 폴더에서만 삭제" : {
+    "en" : "Delete only from the current folder",
+    "ja" : "現在のフォルダから削除",
+    "vi" : "Chỉ xóa ở Thư mục hiện tại",
+    "zh" : "只在现在文件夹上删除"
+  },
+  "주소록내보내기" : {
+    "en" : "Export Contacts",
+    "ja" : "アドレス帳のエクスポート",
+    "vi" : "Xuất ra khỏi sổ địa chỉ",
+    "zh" : "发出地址录"
+  },
+  "기타 전화번호 형식 오류" : {
+    "en" : "Other phone number format error",
+    "ja" : "その他の電話番号形式エラー",
+    "vi" : "Lỗi định dạng số điện thoại khác",
+    "zh" : "其他电话号码形式有错误"
+  },
+  "전화번호부" : {
+    "en" : "Phonebook",
+    "ja" : "電話帳",
+    "vi" : "Sổ danh bạ",
+    "zh" : "电话簿"
+  },
+  "신규" : {
+    "en" : "New",
+    "ja" : "新規",
+    "vi" : "Mới",
+    "zh" : "新增"
+  },
+  "근무지 구/군/시" : {
+    "en" : "Work place gu/gun/si",
+    "ja" : "勤務先区/郡/市",
+    "vi" : "Nơi làm việc phường/ quận/ thành phố",
+    "zh" : "工作处区/郡/市"
+  },
+  "드롭박스에서 국가를 선택해주세요." : {
+    "en" : "Please select country from the dropbox.",
+    "ja" : "ドロップボックスから国名を選択してください。",
+    "vi" : "Vui lòng chọn quốc gia trong Dropbox.",
+    "zh" : "请于选项中选择国家。"
+  },
+  "모든폴더에서 삭제" : {
+    "en" : "Deleted from all folders",
+    "ja" : "すべてのフォルダから削除",
+    "vi" : "Xóa từ tất cả thư mục",
+    "zh" : "在所有文件夹上删除"
+  },
+  "연락처가 등록되었습니다." : {
+    "en" : "Phone Number has been added.",
+    "ja" : "連絡先が登録されました。",
+    "vi" : "Thông tin liên lạc đã được thêm.",
+    "zh" : "已登录联系人"
+  },
+  "통화이력 설정" : {
+    "en" : "Call History Setting",
+    "ja" : "通話履歴を設定する",
+    "vi" : "Cài đặt lịch sử cuộc gọi",
+    "zh" : "设置通话历史记录"
+  },
+  "데이터 형식의 오류로 {0}건의 연락처가 등록되지 못했습니다." : {
+    "en" : "Due to data format error, {0} numbers have not been added.",
+    "ja" : "データ形式のエラーで{0}件の連絡先が登録されませんでした。",
+    "vi" : "{0} thông tin liên lạc không thể thêm do lỗi định dạng dữ liệu.",
+    "zh" : "由于数据错误{0}个联系人列入通讯录未成功。"
+  },
+  "스페이스명" : {
+    "en" : "Space Name",
+    "ja" : "スペース名",
+    "vi" : "Tên Space",
+    "zh" : "空格名"
+  },
+  "레이블명" : {
+    "en" : "Label name",
+    "ja" : "ラベル名",
+    "vi" : "Tên nhãn",
+    "zh" : "标号名"
+  },
+  "동일한 분류로는 복사할 수 없습니다." : {
+    "en" : "You cannot make copy under the same classification.",
+    "ja" : "同一の分類にはコピーできません。",
+    "vi" : "Không thể sao chép sang nhóm phân loại trùng lặp.",
+    "zh" : "无法复制至相同分类。"
+  },
+  "그룹 선택 시 가져올 연락처의 메일주소와 동일한 메일주소의 연락처가 그룹내에 존재할 경우 해당 연락처는 그룹으로 저장되지 않습니다." : {
+    "en" : "If there already exists a contact within the group that has the same mail address as the mail address of a contact that you are importing when you select a group, that contact will not be saved as a group.",
+    "ja" : "グループ選択時、インポートするメールアドレスと同じメールアドレスの連絡先がグループ内に存在する場合、その連絡先はグループに保存されません。",
+    "vi" : "Nếu địa chỉ e-mail liên lạc của nhóm được lựa chọn đã tồn tại trong nhóm khác rồi, thông tin liên hệ này sẽ không được thêm cho nhóm này. nữa",
+    "zh" : "选择小组时要叫来的联系处的邮件地址同样的邮件地址存在在小组的话有关联系处不可保存在小组上。"
+  },
+  "집 주소 번지 입력값 초과" : {
+    "en" : "Exceeded home address (street) input value",
+    "ja" : "自宅住所番地入力値超過",
+    "vi" : "Nhập vượt quá giá trị số địa chỉ nhà",
+    "zh" : "超过了家地址门牌号输入价"
+  },
+  "자신이 등록한 연락처만 삭제 가능합니다." : {
+    "en" : "Only contacts you registered can be deleted.",
+    "ja" : "自分が登録した連絡先のみ削除することができます。",
+    "vi" : "Bạn chỉ có thể xóa thông tin liên lạc mà mình đã thêm.",
+    "zh" : "仅可以删除已列入联系人。"
+  },
+  "에 새로운 분류를 추가합니다." : {
+    "en" : "Add a new classification to .",
+    "ja" : "に新しい分類を追加します。",
+    "vi" : "Thêm phân loại mới vào (...).",
+    "zh" : "在{}里添加新分类。"
+  },
+  "이메일, 전화번호가 중복된 연락처를 찾아내 정리할 수 있습니다." : {
+    "en" : "You can find contacts with overlapping e-mail addresses / phone numbers and organize them.",
+    "ja" : "電子メール、電話番号が重複した連絡先を探して整理することができます。",
+    "vi" : "Tìm kiếm địa chỉ liên lạc đăng ký bị trùng lặp và sắp xếp lại",
+    "zh" : "邮件，电话号码可以找出重复的联系处而整理。"
+  },
+  "이동" : {
+    "en" : "move",
+    "ja" : "移動",
+    "vi" : "Di chuyển",
+    "zh" : "移动"
+  },
+  "집 주소 시/도" : {
+    "en" : "si/do (Home Address)",
+    "ja" : "自宅住所都道府県/",
+    "vi" : "Tỉnh/ thành phố địa chỉ nhà riêng",
+    "zh" : "家地址市/道"
+  },
+  "메모는 한글 600자 이하, 영문/숫자 1800자 이하로 입력하세요." : {
+    "en" : "A memo must be less than 600 Korean characters or 1,800 English characters/numbers.",
+    "ja" : "メモは600子以下、英字／数字1800字以下で入力してください。",
+    "vi" : "Ghi nhớ phải chứa ít hơn 600 ký tự tiếng Hàn hoặc 1.800 ký tự/chữ số tiếng Anh.",
+    "zh" : "便条为韩文600字以下，英文/数字1800字以下输入。"
+  },
+  "변경할 연락처를 선택해주세요" : {
+    "en" : "Please select the contact to be changed.",
+    "ja" : "変更する連絡先を選択してください。",
+    "vi" : "Vui lòng chọn danh bạ để thay đổi.",
+    "zh" : "请选择要更改的联系人"
+  },
+  "문자 전송에 성공하였습니다." : {
+    "en" : "Text was sent successfully",
+    "ja" : "メッセージの送信に成功しました。",
+    "vi" : "Gửi tin nhắn thành công.",
+    "zh" : "已成功发送信息。"
+  },
+  "맨위로" : {
+    "en" : "To the Top",
+    "ja" : "Topへ",
+    "vi" : "Trên cùng",
+    "zh" : "最上边"
+  },
+  "목록형" : {
+    "en" : "List type",
+    "ja" : "リスト形",
+    "vi" : "Hình thức mục lục",
+    "zh" : "目录形"
+  },
+  "동일 스페이스로는 복사할수 없습니다" : {
+    "en" : "Cannot be copied to the same Space.",
+    "ja" : "同じスペースへはコピーできません。",
+    "vi" : "Không thể sao chép cùng không gian trống",
+    "zh" : "无法复制为同一空间。"
+  },
+  "생일을 다시 입력하세요" : {
+    "en" : "Please enter your birthday again.",
+    "ja" : "誕生日を再入力してください",
+    "vi" : "Hãy nhập lại ngày sinh",
+    "zh" : "请再输入您的生日。"
+  },
+  "회사 그룹 생성 권한" : {
+    "en" : "Company Group creation permission",
+    "ja" : "会社グループの作成権限",
+    "vi" : "Quyền tạo nhóm công ty",
+    "zh" : "生成公司群权限"
+  },
+  "첨부할 파일을 선택하세요." : {
+    "en" : "Please select files to attach.",
+    "ja" : "添付するファイルを選択してください。",
+    "vi" : "Hãy chọn tập tin đính kèm.",
+    "zh" : "请选择附件。"
+  },
+  "그룹으로 조회" : {
+    "en" : "View by group",
+    "ja" : "グループで照会",
+    "vi" : "Tìm theo nhóm",
+    "zh" : "查询为组织"
+  },
+  "주소록 개인" : {
+    "en" : "Contacts (Individual)",
+    "ja" : "アドレス帳個人",
+    "vi" : "Sổ địa chỉ (Cá nhân)",
+    "zh" : "通讯录个人"
+  },
+  "동일 부서로는 복사할수 없습니다" : {
+    "en" : "Cannot be copied to the same department.",
+    "ja" : "同じ部署へのコピーはできません",
+    "vi" : "Không thể sao chép vào cùng một bộ phận",
+    "zh" : "不可拷贝到同一个部门。"
+  },
+  "통화 이력" : {
+    "en" : "Call History",
+    "ja" : "通話履歴",
+    "vi" : "Lịch sử cuộc gọi",
+    "zh" : "通话历史记录"
+  },
+  "사용자 레이블" : {
+    "en" : "User label",
+    "ja" : "ユーザーラベル",
+    "vi" : "Nhãn người dùng",
+    "zh" : "使用者标号"
+  },
+  "파일 선택" : {
+    "en" : "Select File",
+    "ja" : "ファイル選択",
+    "vi" : "Chọn File",
+    "zh" : "选择文档"
+  },
+  "그룹이 {0}으로 저장 되었습니다." : {
+    "en" : "Group is saved as {0}.",
+    "ja" : "グループが{0}で保存されました。",
+    "vi" : "Nhóm đã được lưu là {0}.",
+    "zh" : "群组已保存为{0}。"
+  },
+  "맵핑 정보를 작성합니다. 2개 이상의 항목을 합쳐서 저장할 경우에는 & 혹은 &_ 를 사용합니다." : {
+    "en" : "Create a mapping information. If you are trying to save by combining two or more items , use the & or & _ .",
+    "ja" : "マッピング情報を作成します。2個以上の項目を合わせて保存する場合は&あるいは&_を使用します。",
+    "vi" : "Nhập thông tin bản đồ. Trường hợp gộp lại và lưu trên 2 mục hãy sử dụng kí hiệu & hoặc &_",
+    "zh" : "写地址映射信息。2个以上的项目合上后存储的话使用& 或 &_ 。"
+  },
+  "호칭" : {
+    "en" : "Name/Title",
+    "ja" : "呼称",
+    "vi" : "Vị trí",
+    "zh" : "职位"
+  },
+  "이미 등록된 번호입니다." : {
+    "en" : "This number is already registered.",
+    "ja" : "すでに登録された番号です。",
+    "vi" : "Số này đã được thêm trước.",
+    "zh" : "已登录号码。"
+  },
+  "그룹삭제" : {
+    "en" : "Delete Group",
+    "ja" : "グループ削除",
+    "vi" : "Xóa nhóm",
+    "zh" : "删除组织"
+  },
+  "회사메일" : {
+    "en" : "Company mail",
+    "ja" : "会社メール",
+    "vi" : "Hòm thư công ty",
+    "zh" : "公司邮件"
+  },
+  "분류 순서" : {
+    "en" : "Category Order",
+    "ja" : "カテゴリの順序",
+    "vi" : "Thứ tự phân loại",
+    "zh" : "分类顺序"
+  },
+  "직장 구/군/시" : {
+    "en" : "Work address (gu/gun/si)",
+    "ja" : "勤務先区/郡/市",
+    "vi" : "Quận/ Huyện/ Thành phố công ty",
+    "zh" : "公司区/县/市"
+  },
+  "합니다." : {
+    "en" : "the.",
+    "ja" : "します。",
+    "vi" : "Làm",
+    "zh" : "进行"
+  },
+  "폴더 추가" : {
+    "en" : "Add folder",
+    "ja" : "フォルダ追加",
+    "vi" : "Thêm folder",
+    "zh" : "追加文件夹"
+  },
+  "통화 내용을 입력하려면 클릭하세요." : {
+    "en" : "Please click to enter the content of the call.",
+    "ja" : "クリックすると、通話内容が入力できます。",
+    "vi" : "Hãy nhấn vào để nhập nội dung cuộc gọi.",
+    "zh" : "若想输入通话内容，请点击。"
+  },
+  "스페이스주소록 관리" : {
+    "en" : "Manage Space Address Book",
+    "ja" : "スペースアドレス帳を管理する",
+    "vi" : "Quản lý sổ liên lạc trống",
+    "zh" : "管理空间联系人。"
+  },
+  "필수항목을 입력하세요" : {
+    "en" : "Please enter the required fields",
+    "ja" : "必須項目を入力してください",
+    "vi" : "Hãy nhập hạng mục cần thiết",
+    "zh" : "解除星号"
+  },
+  "_주소록(아웃룩Ex).csv" : {
+    "en" : "_Contacts(outlookEx).csv",
+    "ja" : "_アドレス帳(outlookEx).csv",
+    "vi" : "_Địa chỉ(outlook Ex).csv",
+    "zh" : "_地址录(outlookEx).csv"
+  },
+  "아웃룩 익스프레스 항목" : {
+    "en" : "Outlook Express Items",
+    "ja" : "Outlook Express項目",
+    "vi" : "Danh mục Outlook express",
+    "zh" : "outlook express项目"
+  },
+  "그룹 순서" : {
+    "en" : "Group order.",
+    "ja" : "グループ順番",
+    "vi" : "Thứ tự nhóm.",
+    "zh" : "群组顺序"
+  },
+  "그룹이 추가되었습니다." : {
+    "en" : "A group has been added.",
+    "ja" : "グループが追加されました。",
+    "vi" : "Đã thêm nhóm.",
+    "zh" : "组织追加完了。"
+  },
+  "시/도(회사)" : {
+    "en" : "si/do(company)",
+    "ja" : "市/道(会社)",
+    "vi" : "Thành phố/ Tỉnh (công ty)",
+    "zh" : "市/道（公司）"
+  },
+  "비서" : {
+    "en" : "Secretary",
+    "ja" : "秘書",
+    "vi" : "Thư ký",
+    "zh" : "秘书"
+  },
+  "입력 항목중 * 표시는 필수입력 항목입니다." : {
+    "en" : "The asterisk means that you MUST enter that item.",
+    "ja" : "入力項目のうち、* 表示は必須入力項目です。",
+    "vi" : "Những hạng mục đánh dấu * là hạng mục phải nhập",
+    "zh" : "输入项目中 * 表示是必须输入项目。"
+  },
+  "지금 요청을 완료할 수 없습니다. 나중에 다시 시도하세요." : {
+    "en" : "Your request cannot be completed now. Please try again later.",
+    "ja" : "現在要請を完了できません。後で再度お試しください。",
+    "vi" : "Yêu cầu của bạn không thể hoàn thành được ngay lúc này. Vui lòng thử lại sau.",
+    "zh" : "现在不可完了邀请。请下次再试试。"
+  },
+  "피드백 없음" : {
+    "en" : "No Feedback",
+    "ja" : "フィードバックなし",
+    "vi" : "Không có feedback",
+    "zh" : "无反馈"
+  },
+  "{0}개의 연락처를 스팸으로 등록하시겠습니까?" : {
+    "en" : "Are you sure you want to register {0} contact(s) as spam?",
+    "ja" : "{0}件の連絡先をスパムとして登録しますか？",
+    "vi" : "Bạn chắc chắn muốn đăng ký {0} thông tin liên lạc thành spam chứ?",
+    "zh" : "是否将{0}个联系人拉入黑名单？"
+  },
+  "근무지 우편 번호" : {
+    "en" : "Zip Code (Workplace)",
+    "ja" : "勤務先郵便番号",
+    "vi" : "Số hộp thư nơi làm việc",
+    "zh" : "工作处邮政编码"
+  },
+  "구/군/시(회사)" : {
+    "en" : "gu/gun/si (company)",
+    "ja" : "区/郡/市(会社)",
+    "vi" : "Phường/ Quận/ Thành phố (công ty)",
+    "zh" : "区/郡/市（公司）"
+  },
+  "폴더 수정" : {
+    "en" : "Modify folder",
+    "ja" : "フォルダ修正",
+    "vi" : "Sửa folder",
+    "zh" : "修改文件夹"
+  },
+  "부서 그룹 생성 권한" : {
+    "en" : "Department Group creation permission",
+    "ja" : "部署グループの作成権限",
+    "vi" : "Quyền tạo nhóm bộ phận",
+    "zh" : "生成部门群权限"
+  },
+  "크기" : {
+    "en" : "size",
+    "ja" : "サイズ",
+    "vi" : "Độ lớn",
+    "zh" : "大小"
+  },
+  "그룹수정" : {
+    "en" : "Modify Group",
+    "ja" : "グループ修正",
+    "vi" : "Sửa nhóm",
+    "zh" : "修改组织"
+  },
+  "선택한 연락처를 일괄 수정합니다." : {
+    "en" : "Bulk edit the selected contacts.",
+    "ja" : "選択した連絡先を一括で修正します。",
+    "vi" : "Chỉnh sửa hàng loạt các danh bạ đã chọn.",
+    "zh" : "批量编辑所选的联系人。"
+  },
+  "국가번호 또는 전화번호가 변경되었습니다.\\n다시 중복확인을 수행해 주세요." : {
+    "en" : "The country code or phone number has been changed.\\nPlease double-check it again.",
+    "ja" : "国家番号もしくは電話番号が変更されました。\\nもう一度重複確認を行ってください。",
+    "vi" : "Mã quốc gia hoặc số điện thoại đã thay đổi.\\nVui lòng kiểm tra trùng lặp lại.",
+    "zh" : "国家代码或电话号码已更改。\\n请重新进行重复确认。"
+  },
+  "사용" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "스팸을 등록하였습니다." : {
+    "en" : "You have registered it as spam.",
+    "ja" : "スパムリストに登録しました。",
+    "vi" : "Đã thêm vào spam.",
+    "zh" : "已拉黑。"
+  },
+  "IOS는 통화이력 기능 미제공" : {
+    "en" : "The call history function is not available on iOS.",
+    "ja" : "IOSは通話履歴機能を提供しない",
+    "vi" : "IOS không cung cấp tính năng lịch sử cuộc gọi",
+    "zh" : "IOS未提供通话历史功能"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Thiết lập",
+    "zh" : "设定"
+  },
+  "전화번호는 12자를 넘을 수 없습니다." : {
+    "en" : "Phone number cannot exceed 12 digits.",
+    "ja" : "電話番号は12文字を超えることはできません。",
+    "vi" : "Số điện thoại không thể quá 12 số.",
+    "zh" : "电话号码不可超过12位数字。"
+  },
+  "음력 입력값 초과" : {
+    "en" : "Exceeded lunar calendar input value",
+    "ja" : "旧暦の入力値超過",
+    "vi" : "Nhập vượt quá giá trị  âm lịch",
+    "zh" : "超过了阴历输入价"
+  },
+  "집전화" : {
+    "en" : "Home number",
+    "ja" : "自宅電話",
+    "vi" : "Số fax nơi làm việc",
+    "zh" : "家电话"
+  },
+  "성&이름 → 홍길동, 성&_길동 → 홍 길동" : {
+    "en" : "Last Name & First Name → Gil-dong Hong, Last Name&_Gil-dong → Gil-dong Hong",
+    "ja" : "姓&名前 → ホンギルドン、姓&_ギルドン → ホン ギルドン",
+    "vi" : "Họ& Tên→ HongGilDong, Họ&_GilDong→ Hong GilDong",
+    "zh" : "姓&名字 → 洪吉童, 姓&_吉童 → 洪吉童"
+  },
+  "호출기" : {
+    "en" : "Pager",
+    "ja" : "ポケベル",
+    "vi" : "Máy nhắn tin",
+    "zh" : "呼出机"
+  },
+  "직위/직책" : {
+    "en" : "Job Position/Duty",
+    "ja" : "職位/役職",
+    "vi" : "Chức danh",
+    "zh" : "职位/职责"
+  },
+  "{0} 전화 예약 알람" : {
+    "en" : "{0} call reservation alarm",
+    "ja" : "{0}電話予約のアラーム",
+    "vi" : "Thông báo hẹn cuộc gọi {0}",
+    "zh" : "{0}电话预约提醒"
+  },
+  "직장 주소 번지" : {
+    "en" : "Work address (street)",
+    "ja" : "勤務先住所番地",
+    "vi" : "Địa chỉ công ty",
+    "zh" : "公司地址门牌号"
+  },
+  "엑셀파일 사용자의 정보를 확인해주세요." : {
+    "en" : "Please check Excel file user information.",
+    "ja" : "Excelファイルユーザーの情報を確認してください。",
+    "vi" : "Hãy kiểm tra thông tin người dùng trong file excel",
+    "zh" : "请确认一下Excel文档使用者的信息。"
+  },
+  "연락처 이동" : {
+    "en" : "Move Contact(s)",
+    "ja" : "連絡先を移動する",
+    "vi" : "Di chuyển thông tin liên lạc",
+    "zh" : "移动联系人"
+  },
+  "일" : {
+    "en" : "day",
+    "ja" : "日",
+    "vi" : "Ngày",
+    "zh" : "星期日"
+  },
+  "이름 항목의 경우 성이 홍 이고 이름이 길동 일 경우." : {
+    "en" : "If the last name is Hong and the first name is Gil-dong,",
+    "ja" : "名前項目の場合、性がホンで名前がギルドンの場合",
+    "vi" : "Nếu họ là Hong và tên đầu tiên là Gil-dong.",
+    "zh" : "名字项目的话姓是洪名字是吉童的话"
+  },
+  "보이스피싱 (예제데이터입니다. 해당 열을 지우고 사용해주세요.)" : {
+    "en" : "Voice Fishing (Example data. Please delete this column before use.)",
+    "ja" : "振り込め詐欺（予題データです。該当する列を消して使用してください。）",
+    "vi" : "Lừa đảo bằng giọng nói (Đây là dữ liệu ví dụ. Vui lòng xóa hàng này và sử dụng.)",
+    "zh" : "电信诈骗（预载信息。使用前请将此列删除）"
+  },
+  "표시 이름" : {
+    "en" : "Display name",
+    "ja" : "表示名",
+    "vi" : "Tên biểu thị",
+    "zh" : "表示名字"
+  },
+  "환경설정" : {
+    "en" : "Preferences",
+    "ja" : "環境設定",
+    "vi" : "Cài đặt môi trường",
+    "zh" : "环境设置"
+  },
+  "홈페이지" : {
+    "en" : "HomePage",
+    "ja" : "ホームページ",
+    "vi" : "Trang chủ",
+    "zh" : "主页"
+  },
+  "{0}개의 연락처가 삭제되었습니다." : {
+    "en" : "{0} contact(s) deleted",
+    "ja" : "{0}件の連絡先が削除されました。",
+    "vi" : "{0} thông tin liệc lạc đã được xóa.",
+    "zh" : "已删除{0}个联系人。"
+  },
+  "그룹웨어의 주소록의 연락처를 핸드폰으로 동기화하여 등록/수정/삭제를 할 수 있는 기능입니다." : {
+    "en" : "You can add, edit, and delete the contacts of Groupware by synchronizing it with your mobile phone.",
+    "ja" : "グループウェアのアドレス帳の連絡先を携帯電話に同期して、登録/修正/削除できる機能です。",
+    "vi" : "Đây là chức năng có thể đồng bộ hóa và đăng ký/sửa/xóa sổ địa chỉ ở Groupware lên điện thoại di động.",
+    "zh" : "把群件地址录的联系处同步到手机而可以登录/修改/删除的功能。"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "스페이스 책임자" : {
+    "en" : "Space Manager",
+    "ja" : "スペースのホスト",
+    "vi" : "Người phụ trách không gian trống",
+    "zh" : "空间负责人"
+  },
+  "그룹관리" : {
+    "en" : "Manage Group",
+    "ja" : "グループ管理",
+    "vi" : "Quản lý Group",
+    "zh" : "组织管理"
+  },
+  "종일" : {
+    "en" : "All Day",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "一天"
+  },
+  "도시" : {
+    "en" : "City",
+    "ja" : "都市",
+    "vi" : "thành phố",
+    "zh" : "城市"
+  },
+  "그룹에 속한 연락처의 삭제 범위를 선택하세요." : {
+    "en" : "Please select the Delete range of contacts in the group.",
+    "ja" : "グループに属している連絡先の削除範囲を選択してください。",
+    "vi" : "Hãy chọn phạm vi để xóa địa chỉ liên lạc trong nhóm",
+    "zh" : "请选择属于小组的联络处删除范围。"
+  },
+  "명함" : {
+    "en" : "Business Card",
+    "ja" : "名刺",
+    "vi" : "Danh thiếp",
+    "zh" : "名片"
+  },
+  "내보낼 주소록 형식을 선택하세요." : {
+    "en" : "Please select the format that you wish to use when exporting the contacts.",
+    "ja" : "エクスポートするアドレス帳の形式を選択してください。",
+    "vi" : "Hãy chọn định dạng xuất sổ địa chỉ",
+    "zh" : "请选择要发送的地址录形式。"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên folder",
+    "zh" : "文件名"
+  },
+  "웹 페이지" : {
+    "en" : "Webpage",
+    "ja" : "Webページ",
+    "vi" : "Trang web",
+    "zh" : "网页"
+  },
+  "근무처 전화" : {
+    "en" : "Company number",
+    "ja" : "勤務先電話",
+    "vi" : "Số điện thoại nơi làm việc",
+    "zh" : "工作处电话号码"
+  },
+  "연락처를 선택하세요" : {
+    "en" : "Select your Contacts.",
+    "ja" : "連絡先を選択してください",
+    "vi" : "Hãy chọn địa chỉ liên lạc",
+    "zh" : "请选择联络处。"
+  },
+  "연동 범위" : {
+    "en" : "Connection (Linkage) Range",
+    "ja" : "選択範囲",
+    "vi" : "Phạm vi lựa chọn",
+    "zh" : "选择范围"
+  },
+  "표시항목" : {
+    "en" : "Displayed Items",
+    "ja" : "表示項目",
+    "vi" : "Mục biểu thị",
+    "zh" : "显示器类型"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "전화번호는 8자 보다 작을 수 없습니다." : {
+    "en" : "Phone number cannot be less than 8 digits.",
+    "ja" : "電話番号は8文字より小さいことはできません。",
+    "vi" : "Số điện thoại không thể ít hơn 8 số.",
+    "zh" : "电话号码不可少于8位数字。"
+  },
+  "국가(집)" : {
+    "en" : "Nation(home)",
+    "ja" : "国家(自宅)",
+    "vi" : "Quốc gia (nhà riêng)",
+    "zh" : "国家（家）"
+  },
+  "선택한 부서 주소록을 삭제하시겠습니까?.\\n  단, 다른 주소록으로 복사한 주소는 삭제되지 않습니다. " : {
+    "en" : "Are you sure you want to delete the contacts of the selected department?\\n However, contacts that are copied to another address book will not be deleted. ",
+    "ja" : "選択した部署のアドレス帳を削除しますか?.\\n  但し、他のアドレス帳でコピーした住所は削除されません。 ",
+    "vi" : "Bạn có chắc chắn muốn xóa sổ địa chỉ bộ phận đã chọn? \\n Tuy nhiên, địa chỉ được sao chép vào sổ địa chỉ khác sẽ không bị xóa. ",
+    "zh" : "确定要删除选择的部门地址录吗?\\n但用其他地址录复制的地址不能删除。 "
+  },
+  "선택한 스페이스 주소록을 삭제하시겠습니까?\\n  단, 다른 주소록으로 복사한 주소는 삭제되지 않습니다." : {
+    "en" : "Do you wish to delete the selected Space address book? \\n Addresses copied to other Address Book(s) will not be deleted.",
+    "ja" : "選択したスペースのアドレス帳を削除しますか。\\n但し、他のアドレス帳にコピーしたアドレスは削除できません。",
+    "vi" : "Bạn muốn xóa sổ liên lạc trống đã chọn?\\n  Tuy nhiên, địa chỉ được sao chép làm sổ liên lạc khác sẽ không bị xóa.",
+    "zh" : "确认删除空间联系人吗？"
+  },
+  "등록된 전화번호가 없어 통화이력을 가져올 수 없습니다." : {
+    "en" : "Unable to retrieve call history because there is no registered number.",
+    "ja" : "登録された電話番号がないため、通話履歴を読み込むことができません。",
+    "vi" : "Không thể tải lịch sử cuộc gọi vì không có dữ liệu số điện thoại.",
+    "zh" : "无已登录电话号码，无法加载通话记录。"
+  },
+  "전화번호" : {
+    "en" : "Phone Number",
+    "ja" : "電話番号",
+    "vi" : "Số điện thoại",
+    "zh" : "电话号码"
+  },
+  "전화번호를 입력해주세요." : {
+    "en" : "Please enter your phone number.",
+    "ja" : "電話番号を入力してください。",
+    "vi" : "Vui lòng nhập số điện thoại.",
+    "zh" : "请输入电话号码。"
+  },
+  "자녀" : {
+    "en" : "Children",
+    "ja" : "子供",
+    "vi" : "Con",
+    "zh" : "子女"
+  },
+  "회사 구/군/시 입력값 초과" : {
+    "en" : "Exceeded work address (gu/gun/si) input value",
+    "ja" : "会社市/区/時入力値超過",
+    "vi" : "Nhập vượt quá giá trị quận/ huyện/ thành phố công ty",
+    "zh" : "超过了公司区/县/市输入价"
+  },
+  "부서 관리자" : {
+    "en" : "Department Administrator",
+    "ja" : "部署管理者",
+    "vi" : "Quản lý phòng ban/bộ phận",
+    "zh" : "部门管理者"
+  },
+  "으로 그룹의 상하 위치를 변경할 수 있습니다." : {
+    "en" : "change the order (up/down) of the group via (  )",
+    "ja" : "でグループの上下位置を変更することができます。",
+    "vi" : "Có thể thay đổi vị trí nhóm",
+    "zh" : "通过  可以变更小组的上下位置。"
+  },
+  "기타 팩스" : {
+    "en" : "etc. Fax",
+    "ja" : "その他FAX",
+    "vi" : "Số fax khác",
+    "zh" : "其他传真号码"
+  },
+  "회사" : {
+    "en" : "Company",
+    "ja" : "会社",
+    "vi" : "Công ty",
+    "zh" : "公司"
+  },
+  "전화번호의 내용은 20자를 넘을 수 없습니다." : {
+    "en" : "Phone number content cannot exceed 20 characters.",
+    "ja" : "電話番号の内容は20文字を超えることはできません。",
+    "vi" : "Nội dung số điện thoại không thể quá 20 chữ.",
+    "zh" : "电话号码内容不可多于20字。"
+  },
+  "저장" : {
+    "en" : "Save",
+    "ja" : "保存",
+    "vi" : "Lưu",
+    "zh" : "存储"
+  },
+  "그룹 등록" : {
+    "en" : "Add a group",
+    "ja" : "グループの登録",
+    "vi" : "Thêm nhóm",
+    "zh" : "小组登录"
+  },
+  "url 형식 오류" : {
+    "en" : "URL format error",
+    "ja" : "url 形式エラー",
+    "vi" : "Định dạng URL không đúng",
+    "zh" : "url 形式错误"
+  },
+  "중복연락처 체크" : {
+    "en" : "Check duplicate contacts",
+    "ja" : "重複する連絡先チェック",
+    "vi" : "Kiểm tra địa chỉ liên lạc trùng lặp",
+    "zh" : "选择重复联络处"
+  },
+  "현재 등록된 폴더로는 이동할수 없습니다" : {
+    "en" : "Cannot be moved to the current registered folder",
+    "ja" : "現在登録されているフォルダへの移動はできません",
+    "vi" : "Bây giờ không thể di chuyển sang Thư mục đã đăng ký",
+    "zh" : "不可移动到现在登录的文件夹。"
+  },
+  "문자 발송" : {
+    "en" : "Send Text Message",
+    "ja" : "メッセージを送信する",
+    "vi" : "Gửi tin nhắn",
+    "zh" : "发送信息"
+  },
+  "클립보드에 저장할 연락처를 선택하세요." : {
+    "en" : "Please select a contact to save to Clipboard.",
+    "ja" : "クリップボードに保存する連絡先を選択してください。",
+    "vi" : "Vui lòng chọn thông tin liên lạc để lưu vào Bộ nhớ đệm.",
+    "zh" : "请选择在剪贴板上要保存的联系处。"
+  },
+  "회사주소" : {
+    "en" : "Company address",
+    "ja" : "会社住所",
+    "vi" : "Địa chỉ công ty",
+    "zh" : "公司地址"
+  },
+  "도" : {
+    "en" : "Province",
+    "ja" : "都",
+    "vi" : "Tỉnh",
+    "zh" : "道"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "휴대폰으로 전달하였습니다." : {
+    "en" : "Sent to phone.",
+    "ja" : "携帯電話に送信しました。",
+    "vi" : "Đã gửi tới điện thoại.",
+    "zh" : "已传达到手机"
+  },
+  "선택한" : {
+    "en" : "Selected",
+    "ja" : "選択された",
+    "vi" : "Lựa chọn",
+    "zh" : "选择的"
+  },
+  "등록이 완료되었습니다." : {
+    "en" : "Registration Complete.",
+    "ja" : "登録が完了しました。",
+    "vi" : "Đã thêm thành công.",
+    "zh" : "已完成登录。"
+  },
+  "관계" : {
+    "en" : "Relation",
+    "ja" : "関係",
+    "vi" : "Liên quan",
+    "zh" : "关系"
+  },
+  "의 그룹정보를 수정합니다." : {
+    "en" : "Modify group info",
+    "ja" : "のグループ情報を変更します。",
+    "vi" : "Chỉnh sửa thông tin nhóm (...)",
+    "zh" : "修改“”的小组信息。"
+  },
+  "선택한 연락처로 변경" : {
+    "en" : "Change to selected contacts",
+    "ja" : "選択した連絡先へ変更",
+    "vi" : "Chuyển thành danh bạ đã chọn",
+    "zh" : "更改为所选的联系人"
+  },
+  "피드백 필요" : {
+    "en" : "Needs Feedback",
+    "ja" : "要フィードバック",
+    "vi" : "Cần feedback",
+    "zh" : "需要反馈"
+  },
+  "확인" : {
+    "en" : "confirm",
+    "ja" : "確認",
+    "vi" : "Xác nhận",
+    "zh" : "确认"
+  },
+  "직위 입력값 초과" : {
+    "en" : "Exceeded position input value",
+    "ja" : "職位の入力値超過",
+    "vi" : "Nhập vượt quá các giá trị của chức vụ",
+    "zh" : "超过了职位输入价"
+  },
+  "등록된 주소록이 없습니다." : {
+    "en" : "No address Book found.",
+    "ja" : "登録されたアドレス帳がありません。",
+    "vi" : "Không có dữ liệu sổ liên lạc.",
+    "zh" : "无已载入地址。"
+  },
+  "중복된 전화번호는 등록되지 않습니다." : {
+    "en" : "Duplicate phone numbers will not be registered.",
+    "ja" : "重複する電話番号は登録されません。",
+    "vi" : "Số điện thoại trùng lặp sẽ không được thêm.",
+    "zh" : "无法载入重复电话号码。"
+  },
+  "직함" : {
+    "en" : "Title",
+    "ja" : "肩書き",
+    "vi" : "Chức danh",
+    "zh" : "职责"
+  },
+  "폴더를 추가, 수정, 삭제 할 수 있습니다." : {
+    "en" : "You can add,modify and delete folders.",
+    "ja" : "フォルダを追加、修正、削除することができます。",
+    "vi" : "Có thể thêm, sửa, xóa folder.",
+    "zh" : "可以追加，修改，删除文件夹。"
+  },
+  "개인으로 조회" : {
+    "en" : "View by individual",
+    "ja" : "個人で照会",
+    "vi" : "Tìm theo cá nhân",
+    "zh" : "查询为个人"
+  },
+  "가져온 연락처 중 중복으로 등록된 연락처는 한 건만 저장됩니다." : {
+    "en" : "If there are duplicate contacts in the imported contact group, only one contact will be saved among the duplicate contacts.",
+    "ja" : "インポートされた連絡先の中で重複して登録された連絡先は一件のみ保存されます。",
+    "vi" : "Trong những địa chỉ chuyển tới nếu có, địa chỉ bị trùng thì chỉ có thể lưu được một địa chỉ",
+    "zh" : "拿来的联络处中重复登录的联络处只能存储一件。"
+  },
+  "자세히" : {
+    "en" : "Details",
+    "ja" : "詳細",
+    "vi" : "Thông tin chi tiết",
+    "zh" : "详细"
+  },
+  "받는사람 추가" : {
+    "en" : "Add Recipients",
+    "ja" : "宛先を追加する",
+    "vi" : "Thêm người nhận",
+    "zh" : "添加收件人"
+  },
+  "이(가) 공백이기 때문에 등록할수 없습니다." : {
+    "en" : "Cannot register because () is empty.",
+    "ja" : "がブラックのため登録できません。",
+    "vi" : "(...) là khoảng trắng nên không thể thêm.",
+    "zh" : "由于“”空白，无法载入。"
+  },
+  "근무처 전화2" : {
+    "en" : "Workplace Phone Number 2",
+    "ja" : "勤務先電話2",
+    "vi" : "Số điện thoại nơi làm việc 2",
+    "zh" : "工作地电话2"
+  },
+  "가져오기" : {
+    "en" : "Import",
+    "ja" : "取り込み",
+    "vi" : "Tải lên",
+    "zh" : "导入"
+  },
+  "빠른등록" : {
+    "en" : "Quick Add",
+    "ja" : "クィック登録",
+    "vi" : "Đăng ký nhanh",
+    "zh" : "快速登录"
+  },
+  "집 주소 시/도 입력값 초과" : {
+    "en" : "Exceeded home address (city/province) input value",
+    "ja" : "自宅住所都道府県/入力値超過",
+    "vi" : "Nhập vượt quá giá trị thành phố/tỉnh địa chỉ nhà",
+    "zh" : "超过了家市/道输入价"
+  }
+}

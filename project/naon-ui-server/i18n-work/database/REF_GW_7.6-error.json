@@ -1,0 +1,1508 @@
+{
+  "선택하신 폴더나 파일(하위폴더 포함)의 쓰기권한이 없습니다." : {
+    "en" : "You don't have permission to write for the selected folder or file (including sub folders).",
+    "ja" : "選択したフォルダやファイル(下位フォルダを含む)の書き込み権限がありません。",
+    "vi" : "Không có quyền hạn viết lên file hoặc thư mục đã chọn (bao gồm thư mục dưới).",
+    "zh" : "选择的文件夹或文件（包括下位文件夹）您没有写权限。"
+  },
+  "연차촉진통보 기간이 아닙니다." : {
+    "en" : "This is not the annual leave encouragement notification period.",
+    "ja" : "年休促進通知期間ではありません。",
+    "vi" : "Đây không phải là thời điểm thông báo đốc thúc nghỉ phép năm .",
+    "zh" : "不是年假促进通知期间。"
+  },
+  "문서를  제출할 수 있는 상태가 아닙니다." : {
+    "en" : "Not in the status to submit the document",
+    "ja" : "文書を提出できる状態ではありません。",
+    "vi" : "Không phải trạng thái có thể nộp hồ sơ.",
+    "zh" : "无法提交文件。"
+  },
+  "이미 등록된 IP 입니다." : {
+    "en" : "IP address is already registered.",
+    "ja" : "既に登録されているIPです。",
+    "vi" : "Địa chỉ IP đã được đăng ký trước đó.",
+    "zh" : "该IP地址已注册。"
+  },
+  "생성 되어있는 부서스페이스가 없습니다." : {
+    "en" : "There are no existing department spaces.",
+    "ja" : "作成された部署スペースはありません。",
+    "vi" : "Không có không gian bộ phận nào đã được tạo.",
+    "zh" : "不存在已创建的部门空间。"
+  },
+  "등록되지 않았습니다." : {
+    "en" : "Not registered yet.",
+    "ja" : "登録されていません。",
+    "vi" : "Chưa được thêm vào",
+    "zh" : "没有登录成功。"
+  },
+  "중복되는 코드가 있습니다." : {
+    "en" : "There is a duplicate code.",
+    "ja" : "重複するコードがあります。",
+    "vi" : "Có mã trùng lặp.",
+    "zh" : "存在重复的代码。"
+  },
+  "인증서버에 연결할 수 없습니다." : {
+    "en" : "Unable to connect to the authentication server.",
+    "ja" : "証明サーバーに接続できません。",
+    "vi" : "Không thể kết nối với máy chủ xác thực.",
+    "zh" : "无法连接到认证服务器。"
+  },
+  "기록물철 상태가 변경되었습니다. 다시 시도해 주세요." : {
+    "en" : "The status of the record binder has been modified. Please try again.",
+    "ja" : "記録バインダーの状態が変更されました。再度お試しください。",
+    "vi" : "Trạng thái hồ sơ đã được thay đổi",
+    "zh" : "档案册状态已变更。请再试。"
+  },
+  "양식 정보 파일이 없습니다." : {
+    "en" : "There's no file regarding format.",
+    "ja" : "様式情報ファイルがありません。",
+    "vi" : "Không có tệp thông tin mẫu.",
+    "zh" : "无格式信息文件。"
+  },
+  "파라미터를 확인해 주세요." : {
+    "en" : "Please check the parameters.",
+    "ja" : "パラメータを確認してください。",
+    "vi" : "Vui lòng kiểm tra các tham số.",
+    "zh" : "请确认参数。"
+  },
+  "사용중인 메일함명입니다." : {
+    "en" : "That mailbox name is already in use.",
+    "ja" : "使用中のメールBox名です。",
+    "vi" : "Đây là tên hộp thư đang được sử dụng.",
+    "zh" : "已经使用中的邮件箱名。"
+  },
+  "스마트워크 업무 상태를 확인해주세요." : {
+    "en" : "Please check Smartwork Task Status.",
+    "ja" : "スマートワーク業務の状態を確認してください。",
+    "vi" : "Vui lòng kiểm tra trạng thái công việc smart work.",
+    "zh" : "请确认智能工作业务状态。"
+  },
+  "diskId에 해당하는 디스크를 찾을 수 없습니다. {0}" : {
+    "en" : "Cannot find the disk corresponding to diskId. {0}",
+    "ja" : "diskIdに対応するディスクが見つかりません。{0}",
+    "vi" : "Không thể tìm thấy ổ đĩa tương ứng với diskId. {0}",
+    "zh" : "找不到与diskId相关的磁盘。 {0}"
+  },
+  "동일한 이름이 존재합니다." : {
+    "en" : "The same name already exists.",
+    "ja" : "同じ名前が存在します。",
+    "vi" : "Tồn tại tên giống nhau",
+    "zh" : "存在相同的名字。"
+  },
+  "다운로드 할 수 없는 파일입니다." : {
+    "en" : "Unable to download the file.",
+    "ja" : "ダウンロードできないファイルです。",
+    "vi" : "Không thể tải xuống tệp.",
+    "zh" : "无法下载的文件。"
+  },
+  "해당 일감이 존재하지 않습니다. 화면을 새로고침 해주세요." : {
+    "en" : "The work does not exist. Please refresh your browser window.",
+    "ja" : "当該ワークが存在しません。画面をリロードしてください。",
+    "vi" : "Không tồn tại công việc tương ứng. Hãy làm mới màn hình.",
+    "zh" : "不存在有关工作。请刷新画面。"
+  },
+  "폴더 아이디에 맞지 않는 메일이 포함되어 있습니다." : {
+    "en" : "Contains mail that does not match the folder ID.",
+    "ja" : "フォルダIDに合わないメールが含まれています。",
+    "vi" : "Chứa email không khớp với ID thư mục.",
+    "zh" : "文件夹ID中包含不匹配的邮件。"
+  },
+  "이미 등록된 사용자 입니다." : {
+    "en" : "The user is already registered.",
+    "ja" : "既に登録されている利用者です。",
+    "vi" : "Người dùng đã được thêm",
+    "zh" : "已经登录的使用者。"
+  },
+  "{0} 양식은 지원하지 않는 버전입니다.\n(업로드한 버전: {1}, 사용가능한 버전: {2})" : {
+    "en" : "{0} is not supported in this version. \n (Uploaded Version: {1}, Available Version: {2})",
+    "ja" : "{0} フォーマットはサポートされていないバージョンです。（アップロードされたバージョン: {1}、使用可能なバージョン: {2}）",
+    "vi" : "{0} không được hỗ trợ trong phiên bản này. \n (Phiên bản tải lên: {1}, Phiên bản có sẵn: {2})",
+    "zh" : "{0} 表单为不支持的版本。\n（已上传版本：{1}，可用版本：{2}）"
+  },
+  "사용중인 양식입니다." : {
+    "en" : "This form is in use.",
+    "ja" : "使用中のフォームです。",
+    "vi" : "Hình thức này đang được sử dụng.",
+    "zh" : "正在使用的样式。"
+  },
+  "시스템 프로세스는 삭제할 수 없습니다." : {
+    "en" : "System process cannot be deleted.",
+    "ja" : "システムプロセスは削除できません。",
+    "vi" : "Không thể xóa quy trình của hệ thống",
+    "zh" : "系统程序不可删除。"
+  },
+  "양식 정보가 없습니다." : {
+    "en" : "There's no information regarding format.",
+    "ja" : "様式情報がありません。",
+    "vi" : "Không có thông tin mẫu.",
+    "zh" : "无格式信息。"
+  },
+  "학습단어로 등록되지 않았습니다." : {
+    "en" : "Not registered as a learning word.",
+    "ja" : "学習単語として登録されていません。",
+    "vi" : "Không được đăng ký làm từ vựng để học.",
+    "zh" : "学习词汇未注册。"
+  },
+  "이미 처리된 내역입니다." : {
+    "en" : "This is already processed.",
+    "ja" : "すでに処理されている履歴です。",
+    "vi" : "Đã xử lý trước đó.",
+    "zh" : "已处理过的记录。"
+  },
+  "해당 문서함은 사용할 수 없습니다." : {
+    "en" : "The document box cannot be used.",
+    "ja" : "該当文書は使用できません。",
+    "vi" : "Không thể sử dụng tài liệu này.",
+    "zh" : "不可使用相关文件箱。"
+  },
+  "{0} 유형에 {1} 유형의 양식을 업로드할 수 없습니다." : {
+    "en" : "{1} format type cannot be uploaded in {0} type.",
+    "ja" : "{0}タイプに{1}タイプの様式をアップロードすることはできません。",
+    "vi" : "Không thể tải lên mẫu của loại hình {1} trong loại hình {0}.",
+    "zh" : "无法在{0}类型上传{1}类型的格式。"
+  },
+  "입력값을 확인하여 주세요." : {
+    "en" : "Please check the input value.",
+    "ja" : "入力値を確認してください。",
+    "vi" : "Vui lòng kiểm tra giá trị nhập",
+    "zh" : "请确认一下输入价."
+  },
+  "통합검색 관리자 권한이 없습니다." : {
+    "en" : "No integrated search administrator privileges.",
+    "ja" : "統合検索の管理者権限がありません。",
+    "vi" : "Không có quyền quản trị viên tìm kiếm tích hợp.",
+    "zh" : "没有综合搜索管理员权限。"
+  },
+  "하위 기능분류가 존재하여 삭제할 수 없습니다." : {
+    "en" : "It cannot be deleted. A function category exists below.",
+    "ja" : "下位機能カテゴリが存在しているため、削除できません。",
+    "vi" : "Tồn tại phân loại chức năng dưới nên không thể xóa",
+    "zh" : "存在下级功能分类，无法删除。"
+  },
+  "이동할 수 없는 분류입니다." : {
+    "en" : "It is a category that cannot be moved.",
+    "ja" : "移動できないカテゴリです。",
+    "vi" : "Đây là một phân loại không thể di chuyển.",
+    "zh" : "无法移动的分类。"
+  },
+  "레벨 3이상이 되어 이동할 수 없습니다." : {
+    "en" : "You cannot move. You are over level 3",
+    "ja" : "レベル３以上になったため移動できません。",
+    "vi" : "ở cấp độ 3 trở lên và không thể di chuyển.",
+    "zh" : "等级为3以上，无法移动。"
+  },
+  "SignonType 은 필수 값입니다." : {
+    "en" : "SignonType is a required value.",
+    "ja" : "SignonTypeは必須です。",
+    "vi" : "SignonType là một giá trị bắt buộc.",
+    "zh" : "SignonType是必填项。"
+  },
+  "기록물철 업데이트에 실패했습니다. 다시 시도해 주세요." : {
+    "en" : "Failed to update record file cabinet. Please try again.",
+    "ja" : "記録物綴じの更新に失敗しました。もう一度お試しください。",
+    "vi" : "Không thể cập nhật tủ tập tin hồ sơ. Vui lòng thử lại.",
+    "zh" : "更新文件夹失败， 请再试一次 。"
+  },
+  "값이 비어있습니다." : {
+    "en" : "Value is empty.",
+    "ja" : "値が空です。",
+    "vi" : "Giá trị trống.",
+    "zh" : "值为空。"
+  },
+  "읽기 권한이 없습니다." : {
+    "en" : "You have no permission to read.",
+    "ja" : "読み込み権限がありません。",
+    "vi" : "Bạn không có quyền đọc.",
+    "zh" : "没有权限读。"
+  },
+  "수신된 문서를 분석하는 도중 오류가 발생되었습니다 : {0}" : {
+    "en" : "An error occurred while analyzing the received document: {0}.",
+    "ja" : "受信した文書を分析中にエラーが発生しました：{0}",
+    "vi" : "Đã xảy ra lỗi khi phân tích tài liệu đã nhận: {0}.",
+    "zh" : "在分析收到的文件时发生错误：{0}"
+  },
+  "접근 권한이 없습니다." : {
+    "en" : "You don't have any permission to access.",
+    "ja" : "アクセス権限がありません。",
+    "vi" : "Không có quyền truy cập",
+    "zh" : "没有权限接近。"
+  },
+  "이미 접수완료 및 접수중인 문서입니다." : {
+    "en" : "This document is either already registered or in the process of getting registered.",
+    "ja" : "すでに受付完了・受付中の文書です。",
+    "vi" : "Đây là tài liệu đã hoàn thành tiếp nhận hoặc đang trong quá trình tiếp nhận.",
+    "zh" : "本文件已受理或受理中。"
+  },
+  "문서유통 PACK 파일 등록 중 오류가 발생하였습니다 : {0}" : {
+    "en" : "An error occurred while registering the document distribution PACK file: {0}.",
+    "ja" : "文書流通PACKファイルの登録中にエラーが発生しました：{0}",
+    "vi" : "Đã xảy ra lỗi trong quá trình đăng ký tệp PACK phân phối tài liệu: {0}.",
+    "zh" : "注册文档分发PACK文件时发生错误：{0}"
+  },
+  "{0}에 해당하는 메일을 찾을 수 없습니다." : {
+    "en" : "Cannot find the email corresponding to {0}.",
+    "ja" : "{0}に該当するメールが見つかりません。",
+    "vi" : "Không thể tìm thấy email tương ứng với {0}.",
+    "zh" : "找不到与 {0} 相关的邮件。"
+  },
+  "오류가 발생하여 QR코드를 생성하지 못했습니다.\n잠시후에 다시 시도해주세요." : {
+    "en" : "QR code is not generated due to an error.\nPlease try again at a later time.",
+    "ja" : "エラーが発生したためQRコードを作成できませんでした。\nしばらくしてからもう一度お試しください。",
+    "vi" : "Đã xảy ra lỗi và không thể tạo mã QR. Xin thử lại sau ít phút.",
+    "zh" : "发生错误，无法生成二维码。\n请稍后再尝试。"
+  },
+  "대분류 까지 선택해주세요." : {
+    "en" : "Select up to the large category.",
+    "ja" : "大カテゴリまで選択してください。",
+    "vi" : "Vui lòng chọn đến phân loại lớn",
+    "zh" : "请选择大分类。"
+  },
+  "업로드할 수 없는 확장자입니다." : {
+    "en" : "A file with this extension cannot be uploaded.",
+    "ja" : "アップロードできない拡張子です。",
+    "vi" : "Đây là phần mở rộng không thể tải lên.",
+    "zh" : "不可上载的扩展名。"
+  },
+  "이메일 주소 형식이 올바르지 않습니다." : {
+    "en" : "The e-mail address format is invalid.",
+    "ja" : "このメールアドレスの形式が正しくありません。",
+    "vi" : "Định dạng địa chỉ mail không đúng",
+    "zh" : "邮件地址形式有错误。"
+  },
+  "저장이 완료된 상태입니다. 새로 조회 후 이용하세요." : {
+    "en" : "Saved successfully. Please refresh and try again.",
+    "ja" : "保存が完了しました。再度検索してご利用ください。",
+    "vi" : "Dữ liệu đã được lưu. Vui lòng tải lại trang để tiếp tục sử dụng.",
+    "zh" : "保存已完成。请重新查询后使用。"
+  },
+  "엑셀 내용을 다시 확인해주세요." : {
+    "en" : "Please review the Excel contents again.",
+    "ja" : "Excelの内容をもう一度確認してください。",
+    "vi" : "Vui lòng xem lại nội dung Excel một lần nữa.",
+    "zh" : "请重新确认一下Excel内容。"
+  },
+  "계산시 오류가 발생했습니다." : {
+    "en" : "An error occurred in the calculation.",
+    "ja" : "計算時にエラーが発生しました。",
+    "vi" : "Phát sinh lỗi khi quyết toán.",
+    "zh" : "计算出错"
+  },
+  "연차촉진 대상자가 아닙니다." : {
+    "en" : "You are not a target of annual leave promotion notification.",
+    "ja" : "年休促進対象者ではありません。",
+    "vi" : "Bạn không phải đối tượng được hối thúc nghỉ phép năm",
+    "zh" : "不是年假促进对象。"
+  },
+  "진행중인 작업이 있어 잠시 후 시도 해주시길 바랍니다." : {
+    "en" : "There's a program running in progress. Please retry again later.",
+    "ja" : "進行中の作業があるため、しばらくしてからやり直してください。",
+    "vi" : "Có tác vụ đang được tiến hành. Vui lòng thử lại sau ít phút.",
+    "zh" : "已有作业运行，请稍后重试。"
+  },
+  "오류가 발생하여 이동이 이루어 지지 않았습니다. 관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "Failed to move due to an error. Please contact the administrator.",
+    "ja" : "エラーが発生して移動が行われていません。管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi nên không thể di chuyển. Hãy liên hệ với người quản lý.",
+    "zh" : "由于发生错误而无移动。请向管理者询查。"
+  },
+  "삭제된 폴더입니다." : {
+    "en" : "It is a deleted folder.",
+    "ja" : "削除されたフォルダです。",
+    "vi" : "Đây là thư mục đã bị xóa.",
+    "zh" : "已经删除的文件夹。"
+  },
+  "한글양식을 사용할 수 없습니다." : {
+    "en" : "Cannot use hangul (Korean) format.",
+    "ja" : "ハングル様式を使用できません。",
+    "vi" : "Không thể sử dụng mẫu tiếng Hàn.",
+    "zh" : "无法使用韩语格式。"
+  },
+  "인증키 오류" : {
+    "en" : "Authentication key error.",
+    "ja" : "認証キーエラー",
+    "vi" : "Lỗi khóa xác thực.",
+    "zh" : "认证密钥错误"
+  },
+  "클라이언트 오류, 잘못된 문법등으로 서버가 요청을 수행할 수 없는 상태입니다." : {
+    "en" : "Request error",
+    "ja" : "間違ったリクエストです。",
+    "vi" : "Yêu cầu không đúng.",
+    "zh" : "请求错误。"
+  },
+  "fldId에 해당하는 폴더를 찾을 수 없습니다. {0}" : {
+    "en" : "Cannot find the folder corresponding to fldId. {0}",
+    "ja" : "fldIdに対応するフォルダが見つかりません。{0}",
+    "vi" : "Không thể tìm thấy thư mục tương ứng với fldId. {0}",
+    "zh" : "找不到与fldId相关的文件夹。 {0}"
+  },
+  "위치 변경시 오류가 발생 하였습니다. 관리자에게 문의 하여 주시기 바랍니다." : {
+    "en" : "An error occurred while reordering. Please contact the administrator.",
+    "ja" : "位置の変更時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Đã phát sinh lỗi khi thay đổi vị trí. Hãy liên hệ với người quản lý.",
+    "zh" : "变更位置时发生了错误。请向管理者询查。"
+  },
+  "현재 외부폴더 공유자가 외부폴더를 사용할 수 없는 상태입니다.<br>관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "Currently, the external folder sharer cannot use the external folder.<br> Please contact the administrator.",
+    "ja" : "現在、外部フォルダの共有者が外部フォルダの使用ができない状態です。<br>管理者にお問い合わせください。",
+    "vi" : "Hiện tại người chia sẻ thư mục bên ngoài không thể sử dụng thư mục bên ngòai. <br> Xin hãy liên hệ với người quản lý.",
+    "zh" : "现在是外部文件夹共有者不可使用外部文件夹的状态。"
+  },
+  "{0}에 해당하는 사용자를 찾을 수 없습니다." : {
+    "en" : "Cannot find the user corresponding to {0}.",
+    "ja" : "{0}に該当するユーザーが見つかりません。",
+    "vi" : "Không thể tìm thấy người dùng tương ứng với {0}.",
+    "zh" : "找不到与 {0} 相关的用户。"
+  },
+  "지원하지 않는 유형입니다." : {
+    "en" : "Unsupported type.",
+    "ja" : "対応しない形式です。",
+    "vi" : "Loại không được hỗ trợ.",
+    "zh" : "不支持的类型。"
+  },
+  "첨부파일 처리 중 오류가 발생했습니다." : {
+    "en" : "Error occurred while processing attachments.",
+    "ja" : "添付ファイルの処理中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi trong quá trình xử lý tệp đính kèm.",
+    "zh" : "附件处理中发生错误。"
+  },
+  "삭제 권한이 없습니다." : {
+    "en" : "You don't have permission to delete.",
+    "ja" : "削除権限がありません。",
+    "vi" : "Bạn không có quyền xóa.",
+    "zh" : "没有权限删除。"
+  },
+  "삭제된 문서입니다." : {
+    "en" : "It is a deleted document.",
+    "ja" : "削除された文書です。",
+    "vi" : "Đây là tài liệu đã bị xóa.",
+    "zh" : "已经被删除的文件。"
+  },
+  "공유 받은 사용자가 아닙니다." : {
+    "en" : "You are not a shared user.",
+    "ja" : "共有されたユーザーではありません。",
+    "vi" : "Bạn không phải là người dùng được chia sẻ.",
+    "zh" : "不是共享接收者。"
+  },
+  "수정이 완료된 페이지입니다." : {
+    "en" : "The page has been edited.",
+    "ja" : "修正が完了したページです。",
+    "vi" : "Trang đã được chỉnh sửa hoàn tất.",
+    "zh" : "页面修改已完成。"
+  },
+  "오류가 발생하여 복사가 이루어 지지 않았습니다. 관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "Failed to copy due to an error. Please contact the administrator.",
+    "ja" : "エラーが発生してコピーが行われていません。管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi nên không thể sao chép. Xin hãy liên hệ với người quản lý.",
+    "zh" : "由于发生错误而没有拷贝完。请向管理者询查。"
+  },
+  "메모 용량이 초과되어 메모를 작성할 수 없습니다. \n\n메모 용량을 확보하기 위해 \n필요없는 메모를 삭제 또는 백업후 삭제하세요." : {
+    "en" : "Space for memo is full so that you can't create memos. \n\n To get more space for memo, \n delete memos that you don't need or back up memos you don't need before deleting them.",
+    "ja" : "メモ容量を超えているメモは作成することができません。\n\nメモ容量を確保するために、\n不要なメモを削除またはバックアップ後に削除してください。",
+    "vi" : "Dung lượng lưu trữ cho các bản ghi nhớ đã hết, bạn không thể tạo thêm ghi nhớ nữa.\n\nĐể có thêm dung lượng lưu trữ ghi nhớ, \nhãy xóa thẳng các ghi nhớ bạn không cần tới hoặc tiến hành sao lưu trước khi xóa chúng.",
+    "zh" : "超过了留言用量而不能写留言。为了确保\n\n留言用量请把不需要的留言删除或者备份后进行删除。"
+  },
+  "대상폴더의 소유자가 외부폴더 사용 권한이 없습니다." : {
+    "en" : "The target folder's owner has no permission to use the external folders.",
+    "ja" : "対象フォルダの所有者は外部フォルダの使用権限を持っていません。",
+    "vi" : "Người sở hữu thư mục đích không có quyền hạn sử dụng thư mục bên ngoài.",
+    "zh" : "对象文件夹的所有者没有外部文件夹使用权限。"
+  },
+  "UUID에 해당하는 PC를 찾을 수 없습니다. {0}" : {
+    "en" : "Cannot find the PC corresponding to the UUID. {0}",
+    "ja" : "UUIDに対応するPCが見つかりません。{0}",
+    "vi" : "Không thể tìm thấy PC tương ứng với UUID. {0}",
+    "zh" : "找不到与UUID相关的PC。 {0}"
+  },
+  "연차지정통보 대상자가 아닙니다." : {
+    "en" : "You are not subject to the annual leave designation notification.",
+    "ja" : "年休促進通知対象者ではありません。",
+    "vi" : "Không phải đối tượng thông báo chỉ định phép năm.",
+    "zh" : "不属于年假指定通知对象。"
+  },
+  "파일함 전체 용량이 부족합니다." : {
+    "en" : "Not enough space in the filebox.",
+    "ja" : "ファイルの全体容量が不足しています。",
+    "vi" : "Hộp file không còn nhiều dung lượng.",
+    "zh" : "文件箱的全体用量不够。"
+  },
+  "회사폴더 남은 용량이 부족합니다." : {
+    "en" : "There is not enough space in the public folder.",
+    "ja" : "共用フォルダの残り容量が不足しています。",
+    "vi" : "Dung lượng còn lại của thư mục chung bị thiếu.",
+    "zh" : "公用文件夹剩下的用量不够。"
+  },
+  "검색엔진 서버와 연결 중 오류가 발생했습니다." : {
+    "en" : "An error occurred while connecting to the search engine server.",
+    "ja" : "検索エンジンサーバーとの接続中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi khi kết nối đến máy chủ công cụ tìm kiếm.",
+    "zh" : "连接到搜索引擎服务器时发生错误。"
+  },
+  "연차촉진통보 양식이 없습니다." : {
+    "en" : "No format for annual leave promotion notification",
+    "ja" : "年休促進通知ォームがありません。",
+    "vi" : "Không có bản mẫu thông báo hối thúc sử dụng phép năm.",
+    "zh" : "没有年假促进通知格式。"
+  },
+  "하위에 단위업무가 존재하여 삭제할 수 없습니다." : {
+    "en" : "It cannot be deleted. A unit task exists below.",
+    "ja" : "下位に単位業務が存在しているため、削除できません。",
+    "vi" : "Tồn tại tác vụ đơn vị dưới nên không thể xóa",
+    "zh" : "下级存在单位业务，无法删除。"
+  },
+  "잘못된 형식파일 입니다." : {
+    "en" : "Wrong file format.",
+    "ja" : "形式ファイルが正しくありません。",
+    "vi" : "Sai định dạng file.",
+    "zh" : "有错误的形式文件。"
+  },
+  "같은 이름의 라벨이 존재합니다." : {
+    "en" : "There is a label with the same name.",
+    "ja" : "同じ名前のラベルが存在します。",
+    "vi" : "Tồn tại nhãn có tên giống nhau.",
+    "zh" : "已经存在同一个名字的标签。"
+  },
+  "보관함 개수가 일치하지 않습니다" : {
+    "en" : "The number of mailboxes does not match.",
+    "ja" : "ライブラリの数が一致しません",
+    "vi" : "Số lượng hộp thư không khớp.",
+    "zh" : "保管箱数量不匹配"
+  },
+  "이력 페이지는 수정할 수 없습니다." : {
+    "en" : "History page cannot be modified.",
+    "ja" : "履歴ページは変更できません。",
+    "vi" : "Trang lịch sử không thể chỉnh sửa.",
+    "zh" : "历史页面无法修改。"
+  },
+  "권한 목록이 없습니다." : {
+    "en" : "No permission list available.",
+    "ja" : "権限リストがありません。",
+    "vi" : "Không có danh sách quyền truy cập.",
+    "zh" : "没有权限列表。"
+  },
+  "벡터서버 통신의 오류가 발생했습니다." : {
+    "en" : "An error occurred in vector server communication.",
+    "ja" : "ベクターサーバーとの通信エラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi giao tiếp máy chủ vectơ.",
+    "zh" : "向量服务器通信发生错误。"
+  },
+  "입력한 아이디는 사용 중인 아이디입니다.\n새로운 아이디를 입력하세요." : {
+    "en" : "The entered ID is already in use.\nPlease enter a new ID.",
+    "ja" : "入力したIDは使用中のIDです。<br><br>新しいIDを入力してください。",
+    "vi" : "ID đã nhập bị trùng lặp. Hãy nhập ID mới <br><br>",
+    "zh" : "您输入的用户名是使用中的用户名。请输入<br><br>新的用户名."
+  },
+  "삭제된 포스트입니다." : {
+    "en" : "This post has been deleted.",
+    "ja" : "削除された投稿です。",
+    "vi" : "Bài đăng này đã được xóa.",
+    "zh" : "已删除的POST。"
+  },
+  "사용하고 있는 접속 정보입니다." : {
+    "en" : "Access information in use.",
+    "ja" : "使用している接続情報です。",
+    "vi" : "Thông tin truy cập đang được sử dụng.",
+    "zh" : "您正在使用的连接信息。"
+  },
+  "&#39;{0}&#39; 확장자는 업로드하실 수 없습니다." : {
+    "en" : "Files with the extension &#39;{0}&#39; cannot be uploaded.",
+    "ja" : "&#39;{0}&#39;拡張子はアップロードできません。",
+    "vi" : "Không thể tải lên phần mở rộng {0}",
+    "zh" : "&#39;{0}&#39;文件扩展名不可上载。"
+  },
+  "입력하신 폴더(파일)명은 존재합니다." : {
+    "en" : "The folder (file) name that you entered already exists.",
+    "ja" : "入力したフォルダ(ファイル)名が存在します。",
+    "vi" : "Tồn tại tên thư mục (file) đã nhập.",
+    "zh" : "您输入的文件夹（文件）名已经存在。"
+  },
+  "삭제된 댓글입니다." : {
+    "en" : "This comment has been deleted.",
+    "ja" : "削除されたコメントです。",
+    "vi" : "Bình luận này đã được xóa.",
+    "zh" : "已删除的评论。"
+  },
+  "등록 시 오류가 발생하였습니다. 관리자에게 문의 하여주시기 바랍니다." : {
+    "en" : "An error occurred during registration. Please contact the administrator.",
+    "ja" : "フォルダの登録時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi khi thêm thư mục. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "登录文件夹时发生了错误。请向管理者查询"
+  },
+  "관리되지 않은 토큰입니다." : {
+    "en" : "Unmanaged token.",
+    "ja" : "管理されていないトークンです。",
+    "vi" : "Mã thông báo chưa được quản lý.",
+    "zh" : "未受管理的令牌。"
+  },
+  "삭제권한이 없습니다." : {
+    "en" : "You don't have permission to delete.",
+    "ja" : "削除権限がありません。",
+    "vi" : "Không có quyền xóa.",
+    "zh" : "没有权限删除。"
+  },
+  "이미 수신된 문서입니다 : {0}" : {
+    "en" : "The document has already been received: {0}.",
+    "ja" : "すでに受け取った文書です：{0}",
+    "vi" : "Tài liệu đã được nhận trước đó: {0}.",
+    "zh" : "已接收的文件：{0}"
+  },
+  "읽기권한이 없습니다." : {
+    "en" : "You don't have permission to read.",
+    "ja" : "読み込み権限がありません。",
+    "vi" : "Không có quyền đọc.",
+    "zh" : "没有权限读。"
+  },
+  "삭제할 권한이 없습니다." : {
+    "en" : "You don't have permission to delete.",
+    "ja" : "削除する権限がありません。",
+    "vi" : "Bạn không có quyền xóa.",
+    "zh" : "没有删除的权限。"
+  },
+  "결재유형 설정이 잘못되어 있습니다." : {
+    "en" : "The approval type is set incorrectly.",
+    "ja" : "決裁パターンの設定が間違っています。",
+    "vi" : "Thiết lập loại hình phê duyệt không chính xác.",
+    "zh" : "批准类型设定有错误。"
+  },
+  "변경할 폴더 {0} 를 찾을 수 없습니다." : {
+    "en" : "Cannot find the folder to be changed {0}.",
+    "ja" : "変更するフォルダ{0}が見つかりません。",
+    "vi" : "Không thể tìm thấy thư mục để thay đổi {0}.",
+    "zh" : "找不到要更改的文件夹 {0}。"
+  },
+  "데이터가 없습니다." : {
+    "en" : "No data.",
+    "ja" : "データがありません。",
+    "vi" : "Không có dữ liệu.",
+    "zh" : "不存在数据。"
+  },
+  "현재 결재처리할 권한이 없습니다. 문서의 결재진행을 확인을 해주세요." : {
+    "en" : "Currently you don't have permission to approve the document. Please check the approval process of the document.",
+    "ja" : "現在決裁処理をする権限がありません。文書の決裁進行を確認してください。",
+    "vi" : "Hiện tại bạn không có quyền để phê duyệt tài liệu này. Vui lòng kiểm tra quy trình phê duyệt của tài liệu này.",
+    "zh" : "现在无进行审批处理的权限。请确认文件的审批进行。"
+  },
+  "비밀번호가 일치하지 않습니다." : {
+    "en" : "The password you entered does not match.",
+    "ja" : "パスワードが一致しません。",
+    "vi" : "Mật khẩu không đúng",
+    "zh" : "密码不一致。"
+  },
+  "존재하지 않는 결재함입니다.{0}" : {
+    "en" : "The approval box doesn't exist.{0}",
+    "ja" : "存在しない決裁Boxです。{0}",
+    "vi" : "Hộp phê duyệt không tồn tại.{0}",
+    "zh" : "不存在的批准箱。{0}"
+  },
+  "연차지정통보 기간이 아닙니다." : {
+    "en" : "It is not the annual designation notification period.",
+    "ja" : "年休促進通知期間ではありません。",
+    "vi" : "Không phải là thời điểm thông báo chỉ định phép năm",
+    "zh" : "非年假指定通知期间。"
+  },
+  "유효하지 않은 날짜 입니다. 시작일 또는 완료기한을 다시 입력 해주세요." : {
+    "en" : "The date is not available. Please re-enter a start date or a due date.",
+    "ja" : "日付は無効です。開始日または完了期限を再入力してください。",
+    "vi" : "Đây là ngày không có hiệu lực. Hãy nhập lại ngày bắt đầu hoặc kỳ hạn hoàn thành.",
+    "zh" : "没有效的日子。请再输入开始日或完了期限。"
+  },
+  "{0} 파일은 지원하지 않는 버전입니다.\n(업로드한 버전: {1}, 사용가능한 버전: {2})" : {
+    "en" : "The {0} file is an unsupported version.\n(Uploaded version: {1}, Available version: {2})",
+    "ja" : "{0}ファイルは対応できないバージョンです。\n(アップロードしたバージョン: {1}, 利用可能なバージョン: {2})",
+    "vi" : "Tệp {0} không hỗ trợ phiên bản này.\n(Phiên bản tải lên: {1}, Phiên bản có thể sử dụng: {2})",
+    "zh" : "{0} 文件是不支持的版本。\n(上传版本: {1}, 可用版本: {2})"
+  },
+  "이동대상폴더의 용량이 부족합니다. <br>관리자에게 문의하여 주십시오." : {
+    "en" : "The target folder to move doesn't have enough space left. <br> Please, contact the administrator.",
+    "ja" : "移動対象フォルダの容量が不足しています。 管理者にお問い合わせください。",
+    "vi" : "Thư mục đích để di chuyển không có nhiều dung lượng. <br> Vui lòng liên hệ với quản trị viên.",
+    "zh" : "移动对象文件夹的容量不够。 <br>请向管理者询问。"
+  },
+  "문서 내용이 비어있습니다." : {
+    "en" : "The document is empty.",
+    "ja" : "文書の内容が空です。",
+    "vi" : "Tài liệu trống.",
+    "zh" : "文档内容为空。"
+  },
+  "에러가 발생했습니다." : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi.",
+    "zh" : "发生了错误。"
+  },
+  "백업 사용자가 존재 하지 않습니다." : {
+    "en" : "Back-up users don't exist.",
+    "ja" : "バックアップユーザーが存在しません。",
+    "vi" : "Không tồn tại người dùng sao lưu",
+    "zh" : "不存在备份使用者。"
+  },
+  "업무보고 총용량이 초과하였습니다. 관리자에게 문의하세요." : {
+    "en" : "Task Report storage is already full. Please contact the administrator.",
+    "ja" : "業務報告の総容量を超えました。管理者にお問い合わせください。",
+    "vi" : "Tổng dung lượng lưu trữ cho các báo cáo công tác đã gần đầy. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "超过了业务报告总用量。请向管理者咨询。"
+  },
+  "작성 권한이 없습니다." : {
+    "en" : "You don't have permission to write.",
+    "ja" : "作成権限がありません。",
+    "vi" : "Bạn không có quyền viết vào.",
+    "zh" : "没有制作权限。"
+  },
+  "편집자에게 초대를 받아야 됩니다." : {
+    "en" : "You must be invited by the editor.",
+    "ja" : "編集者に招待を受けなければなりません。",
+    "vi" : "Bạn cần được người chỉnh sửa mời.",
+    "zh" : "需要收到编辑的邀请。"
+  },
+  "존재하지 않는 할일입니다." : {
+    "en" : "Task Does Not Exist.",
+    "ja" : "存在しないタスクです。",
+    "vi" : "Nhiệm vụ không tồn tại.",
+    "zh" : "任务不存在。"
+  },
+  "자신의 하위폴더로 이동할 수 없습니다." : {
+    "en" : "You cannot move it to your sub-folder.",
+    "ja" : "自分の下位フォルダに移動できません。",
+    "vi" : "Không thể di chuyển đến thư mục con.",
+    "zh" : "不可移动到自己的下位文件夹。"
+  },
+  "선택하신 폴더나 파일의 쓰기권한이 없습니다.<BR>확인후 다시 시도하여주십시오." : {
+    "en" : "You don't have permission to write for the selected folder or file.<BR> Please, check and try again.",
+    "ja" : "選択したフォルダやファイルの書き込み権限がありません。<BR>ご確認後、もう一度お試しください。",
+    "vi" : "Không có quyền viết file hoặc thư mục đã chọn",
+    "zh" : "选择的文件夹或文件您没有写权限。请<BR>确认后再试试。"
+  },
+  "사용자 정보를 찾을 수 없습니다." : {
+    "en" : "user information cannot be found.",
+    "ja" : "ユーザー情報が見つかりません。",
+    "vi" : "Không thể tìm thấy thông tin người dùng.",
+    "zh" : "不可寻找使用者信息。"
+  },
+  "선택된 단위업무가 없습니다. 다시 시도해 주세요." : {
+    "en" : "No selected unit tasks. Please try again.",
+    "ja" : "選択した単位業務はありません。もう一度お試しください。",
+    "vi" : "Không có công việc đơn vị đã chọn. Vui lòng thử lại.",
+    "zh" : "无已选的单位任务。请重试。"
+  },
+  "IP를 추가해주세요." : {
+    "en" : "Please add an IP address.",
+    "ja" : "IPを追加してください。",
+    "vi" : "Vui lòng thêm địa chỉ IP.",
+    "zh" : "请追加IP。"
+  },
+  "복원된 메일 입니다." : {
+    "en" : "This is a restored mail.",
+    "ja" : "復元されたメールです。",
+    "vi" : "Đây là mail được khôi phục.",
+    "zh" : "复原的邮件。"
+  },
+  "존재하지 않는 보드입니다." : {
+    "en" : "Board Does Not Exist.",
+    "ja" : "存在しないボードです。",
+    "vi" : "Bảng không tồn tại.",
+    "zh" : "看板不存在。"
+  },
+  "관련 일감은 이미 선택된 겁니다." : {
+    "en" : "The related work has already been selected.",
+    "ja" : "関連ワークはすでに選択されています。",
+    "vi" : "Công việc liên quan đã được chọn.",
+    "zh" : "有关工作已经被选择了。"
+  },
+  "존재하지 않는 전자서명 요청입니다." : {
+    "en" : "The e-signature request doesn't exist.",
+    "ja" : "存在しない電子署名リクエストです。改めてリクエストを行ってください。",
+    "vi" : "Đây là yêu cầu chữ ký điện tử không tồn tại Vui lòng lập yêu cầu mới.",
+    "zh" : "不存在的电子签名邀请。请再邀请。"
+  },
+  "접속 아이디와 패스워드를 확인하여주십시오." : {
+    "en" : "Please check your ID and password.",
+    "ja" : "IDとパスワードを確認してください。",
+    "vi" : "Xin hãy kiểm tra ID và mật khẩu tiếp cận.",
+    "zh" : "请确认连接用户名和密码。"
+  },
+  "입력하신 폴더명은 존재합니다." : {
+    "en" : "The folder name that you entered already exists.",
+    "ja" : "入力したフォルダ名が存在しません。",
+    "vi" : "Tồn tại tên thư mục đã nhập.",
+    "zh" : "您输入的文件夹名已经存在。"
+  },
+  "고정 조회자 추가 중 오류가 발생했습니다." : {
+    "en" : "Error occurred while adding fixed viewers.",
+    "ja" : "固定照会者の追加中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi trong quá trình thêm người xem cố định.",
+    "zh" : "添加固定浏览者时发生错误。"
+  },
+  "수정 시 오류가 발생하였습니다. 관리자에게 문의 하여주시기 바랍니다." : {
+    "en" : "An error occurred while modifying the folder. Please contact the administrator.",
+    "ja" : "フォルダの修正時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Phát sinh lỗi khi sửa đổi thư mục. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "文件夹修改完了"
+  },
+  "미완성 글자는 등록할 수 없습니다." : {
+    "en" : "Incomplete words cannot be registered.",
+    "ja" : "未完成の文字は登録できません。",
+    "vi" : "Không thể thêm từ chưa hoàn thành.",
+    "zh" : "无法注册未完成的字。"
+  },
+  "시스템 결재함은 삭제할 수 없습니다." : {
+    "en" : "System approval box cannot be deleted.",
+    "ja" : "システム決裁Boxは削除できません。",
+    "vi" : "Hộp phê duyệt của hệ thống không thể bị xóa.",
+    "zh" : "系统批准箱不可删除。"
+  },
+  "복원할 수 있는 상태가 아닙니다." : {
+    "en" : "Cannot Restore in the Current State.",
+    "ja" : "復元できるステータスではありません。",
+    "vi" : "Không thể khôi phục trong trạng thái này.",
+    "zh" : "无法恢复。"
+  },
+  "결재중인 문서는 처리할 수 없습니다." : {
+    "en" : "Documents that are currently being approved cannot be processed.",
+    "ja" : "決裁中の文書は処理できません。",
+    "vi" : "Không thể xử lý hồ sơ đang phê duyệt.",
+    "zh" : "正在审批的文件不能处理。"
+  },
+  "하위에 기록물철이 존재합니다." : {
+    "en" : "There are record folders under it.",
+    "ja" : "下位に記録ファイルが存在します。",
+    "vi" : "Có thư mục ghi chép con.",
+    "zh" : "存在子文件夹。"
+  },
+  "공유자가 공유를 제한한 상태입니다." : {
+    "en" : "The sharer has restricted sharing.",
+    "ja" : "共有者が共有を制限しています。",
+    "vi" : "Người chia sẻ hạn chế chia sẻ.",
+    "zh" : "共有者制限共有的状态。"
+  },
+  "해당하는 스페이스 폴더가 없습니다." : {
+    "en" : "The corresponding space folder does not exist.",
+    "ja" : "該当するスペースフォルダーがありません。",
+    "vi" : "Không có thư mục không gian tương ứng.",
+    "zh" : "找不到相应的空间文件夹。"
+  },
+  "보드가 잠금상태입니다. 잠금상태에서는 조회만 가능합니다." : {
+    "en" : "The Board is Locked. It can only be viewed while locked.",
+    "ja" : "ボードがロック状態です。ロック状態では照会のみ可能です。",
+    "vi" : "Bảng đang trong trạng thái khóa. Chỉ có thể xem trong trạng thái này.",
+    "zh" : "看板处于锁定状态。在锁定状态下，只能进行查询。"
+  },
+  "수정 요청중인 페이지입니다." : {
+    "en" : "The page is being edited.",
+    "ja" : "修正リクエストしているページです。",
+    "vi" : "Trang đang được chỉnh sửa.",
+    "zh" : "页面正在等待修改。"
+  },
+  "쪽지 발송자의 정보가 올바르지 않습니다." : {
+    "en" : "Incorrect information of the message sender.",
+    "ja" : "メッセージ送信者の情報が正しくありません。",
+    "vi" : "Thông tin người gửi tin nhắn không chính xác.",
+    "zh" : "发送消息的发送者信息错误。"
+  },
+  "파일이 없습니다.<br><br>관리자에게 문의하여 주시기 바랍니다." : {
+    "en" : "There is no file.<br><br> Please, contact the administrator.",
+    "ja" : "ファイルがありません。<br><br>管理者にお問い合わせください。",
+    "vi" : "Không có file. <br><br> Xin hãy liên hệ với người quản lý.",
+    "zh" : "没有文件。请给<br><br>管理者询问。"
+  },
+  "전자결재에서 관련문서로 등록되어 완결된 문서는 삭제할 수 없습니다." : {
+    "en" : "Approved documents which is registered as a related document in e-Approval cannot be deleted.",
+    "ja" : "電子決裁において関連文書に登録されて完結された文書は削除できません。",
+    "vi" : "Không thể xóa tài liệu đã được phê duyệt dưới tư cách là tài liệu có liên quan đã đăng ký trong Phê duyệt điện tử.",
+    "zh" : "在电子批准上登录为有关文件而完结的文件不可删除。"
+  },
+  "디스크와 PC가 일치하지 않습니다." : {
+    "en" : "Disk and PC do not match.",
+    "ja" : "ディスクとPCが一致しません。",
+    "vi" : "Đĩa và PC không khớp.",
+    "zh" : "磁盘与PC不匹配。"
+  },
+  "권한 항목구분 값을 찾을 수 없습니다." : {
+    "en" : "Cannot find the permission item classification value.",
+    "ja" : "権限項目区切り値が見つかりません。",
+    "vi" : "Không thể tìm thấy giá trị phân loại quyền.",
+    "zh" : "找不到权限项目区分值"
+  },
+  "삭제할 수 있는 권한이 없습니다." : {
+    "en" : "The document box cannot be found.",
+    "ja" : "削除権限がありません。",
+    "vi" : "Bạn không có quyền xóa.",
+    "zh" : "没有权限删除。"
+  },
+  "스토어 등록정보를 먼저 입력하세요." : {
+    "en" : "Please enter the store registration information first.",
+    "ja" : "ストアの登録情報を先に入力してください。",
+    "vi" : "Vui lòng nhập thông tin đăng ký cửa hàng trước.",
+    "zh" : "请先输入商店登录信息。"
+  },
+  "대상폴더가 없습니다." : {
+    "en" : "No target folder.",
+    "ja" : "対象フォルダがありません。",
+    "vi" : "Không có thư mục đích",
+    "zh" : "没有对象文件夹。"
+  },
+  "해당 게시판을 찾을 수 없습니다." : {
+    "en" : "The board cannot be found.",
+    "ja" : "該当掲示板が見つかりません。",
+    "vi" : "Không thể tìm thấy bảng tin tương ứng.",
+    "zh" : "不可找相关布告栏。"
+  },
+  "파일을 찾을 수 없습니다." : {
+    "en" : "Unable to find the file.",
+    "ja" : "ファイルが見つかりません。",
+    "vi" : "Không thể tìm thấy file.",
+    "zh" : "不可找文档。"
+  },
+  "이미 등록된 앱이 존재합니다." : {
+    "en" : "There is already a registered app in use.",
+    "ja" : "すでに登録されているアプリが存在します。",
+    "vi" : "Ứng dụng tương tự đã được sử dụng rồi.",
+    "zh" : "存在已经登录的APP。"
+  },
+  "올바르지 않은 토큰입니다." : {
+    "en" : "Invalid token.",
+    "ja" : "無効なトークンです。",
+    "vi" : "Mã thông báo không hợp lệ.",
+    "zh" : "错误的令牌。"
+  },
+  "소분류 까지 선택해주세요." : {
+    "en" : "Select up to the small category.",
+    "ja" : "小カテゴリまで選択してください。",
+    "vi" : "Vui lòng chọn đến phân loại nhỏ",
+    "zh" : "请选择小分类。"
+  },
+  "사용 할 수 없는 주소입니다." : {
+    "en" : "You can't use this address.",
+    "ja" : "使用不可能なアドレスです。",
+    "vi" : "Đây là địa chỉ không thể sử dụng.",
+    "zh" : "不可使用的地址"
+  },
+  "연차지정통보 문서를 이미 확인하였습니다." : {
+    "en" : "The annual leave designation notification document has already been confirmed",
+    "ja" : "年休指定通知文書をすでに確認しました。",
+    "vi" : "Đã xác nhận tài liệu thông báo chỉ định nghỉ phép hàng năm trước đó.",
+    "zh" : "已确认年假指定通知文书。"
+  },
+  "관리자에 의해 수정모드가 취소되었습니다." : {
+    "en" : "The edit mode has been cancelled by the administrator.",
+    "ja" : "管理者によって修正モードがキャンセルされました。",
+    "vi" : "Quản trị viên đã hủy chế độ chỉnh sửa.",
+    "zh" : "管理员已取消编辑模式。"
+  },
+  "결재의 문서분류 설정이 결재분류가 아닙니다." : {
+    "en" : "The document classification setting for approval is not an approval classification.",
+    "ja" : "決裁の文書分類設定が決裁分類ではありません。",
+    "vi" : "Thiết lập phân loại văn bản phê duyệt không phải là loại phê duyệt.",
+    "zh" : "审批文档分类设置不是审批分类。"
+  },
+  "협업공간에 접근 권한이 없습니다." : {
+    "en" : "No access permission to the collaboration space.",
+    "ja" : "コラボレーションスペースにアクセス権がありません。",
+    "vi" : "Không có quyền truy cập vào không gian cộng tác.",
+    "zh" : "没有访问协作空间的权限。"
+  },
+  "연차사용시기 지정통보 일정과 중복되어 제출 할 수 없습니다." : {
+    "en" : "Cannot be submitted as it overlaps the schedule for annual leave usage period designation notification",
+    "ja" : "年休使用時期指定通知日程と重なるので提出できません。",
+    "vi" : "Không thể nộp do trùng với lịch trình thông báo chỉ định thời điểm sử dụng phép năm",
+    "zh" : "因与年假使用时间指定通知日程重复,故不能提交。"
+  },
+  "사용자의 개인폴더 남은 용량이 부족합니다." : {
+    "en" : "There is not enough space in the user's personal folder.",
+    "ja" : "ユーザーの個人フォルダの残り容量が不足しています。",
+    "vi" : "Thư mục cá nhân của người dùng không còn nhiều dung lượng.",
+    "zh" : "使用者的个人文件夹剩下的用量不够。"
+  },
+  "쓰기 권한이 없습니다." : {
+    "en" : "You have no permission to write.",
+    "ja" : "書き込み権限がありません。",
+    "vi" : "Bạn không có quyền ghi thêm.",
+    "zh" : "没有权限写。"
+  },
+  "사전 파일이 없습니다." : {
+    "en" : "No dictionary files found.",
+    "ja" : "辞書ファイルがありません。",
+    "vi" : "Không tìm thấy tệp từ điển.",
+    "zh" : "没有预定义文件。"
+  },
+  "분류코드가 존재하지 않습니다." : {
+    "en" : "Classification code does not exist.",
+    "ja" : "分類コードが存在しません。",
+    "vi" : "Mã phân loại không tồn tại.",
+    "zh" : "分类代码不存在。"
+  },
+  "EML 파일 중 관리되지 않은 예외가 발생함" : {
+    "en" : "Unmanaged exception occurred in the EML file.",
+    "ja" : "EMLファイル中に管理されていない例外が発生",
+    "vi" : "Xảy ra ngoại lệ không được quản lý trong tệp EML.",
+    "zh" : "在EML文件中出现未管理的例外"
+  },
+  "하위에 업무가 존재합니다. 다시 확인해주세요." : {
+    "en" : "A task exists in a sub-folder. Please check again.",
+    "ja" : "下位に業務が存在します。再度ご確認ください。",
+    "vi" : "Có tác vụ tồn tại bên trong. Hãy kiểm tra lại.",
+    "zh" : "存在下级业务。 请重新确认。"
+  },
+  "하위에 주제가 존재하여 삭제 할 수 없습니다." : {
+    "en" : "There are subtopics, so deletion is not possible.",
+    "ja" : "下位にトピックが存在するため削除できません。",
+    "vi" : "Không thể xóa do có chủ đề con.",
+    "zh" : "存在子主题，无法删除。"
+  },
+  "스페이스 할당용량보다 값이 클 수 없습니다." : {
+    "en" : "The value cannot be larger than the Space capacity.",
+    "ja" : "スペースの割当て容量より値を大きくすることはできません。",
+    "vi" : "Giá trị không thể lớn hơn dung lượng Space được phân phối.",
+    "zh" : "数值不可比空间文件容量大。"
+  },
+  "상태가 변경되어 처리할 수 없습니다." : {
+    "en" : "The status has changed and cannot be processed.",
+    "ja" : "状態が変更されているため処理できません。",
+    "vi" : "Không thể xử lý do trạng thái đã thay đổi.",
+    "zh" : "状态变更,无法处理。"
+  },
+  "메일이 존재하지 않습니다. 새로 고침후 다시 시도해주세요." : {
+    "en" : "The mail doesn't exist. Please refresh the page and try again.",
+    "ja" : "メールが存在しません。ページを更新してから再試行してください",
+    "vi" : "Không tồn tại mail. Làm mới và thử lại.",
+    "zh" : "不存在邮件。请刷新后再试试。"
+  },
+  "권한항목 고유번호가 없습니다." : {
+    "en" : "There is no unique permission item number.",
+    "ja" : "特権項目固有番号はありません。",
+    "vi" : "Không có số mục quyền duy nhất.",
+    "zh" : "不存在权限项固有编号。"
+  },
+  "올바르지 않은 보관함 ID가 포함되어 있습니다." : {
+    "en" : "Contains an invalid mailbox ID.",
+    "ja" : "無効なライブラリIDが含まれています。",
+    "vi" : "Chứa một ID hộp thư không hợp lệ.",
+    "zh" : "存在无效的保管箱ID。"
+  },
+  "스페이스가 존재하지 않습니다." : {
+    "en" : "The space does not exist.",
+    "ja" : "スペースが存在しません。",
+    "vi" : "Không tồn tại không gian.",
+    "zh" : "不存在空间。"
+  },
+  "연차사용계획 제출 기간이 아닙니다." : {
+    "en" : "This is not the annual leave usage plan submission period.",
+    "ja" : "年休使用計画提出期間ではありません。",
+    "vi" : "Đây không phải là thời gian nộp kế hoạch nghỉ phép hàng năm.",
+    "zh" : "非年假使用计划提交期间。"
+  },
+  "결재문서는 삭제할 수 없습니다." : {
+    "en" : "Approval documents cannot be deleted.",
+    "ja" : "決裁文書は削除できません。",
+    "vi" : "Không thể xóa tài liệu cần phê duyệt.",
+    "zh" : "批准文件不可删除."
+  },
+  "삭제시 오류가 발생 하였습니다. 관리자에게 문의 하여 주시기 바랍니다." : {
+    "en" : "An error occurred while deleting. Please contact the administrator.",
+    "ja" : "削除時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Đã xảy ra lỗi khi xóa. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "删除时发生了错误。请向管理者询查。"
+  },
+  "업로드할 eml파일이 없습니다." : {
+    "en" : "There is no eml file to upload.",
+    "ja" : "アップロードするemlファイルがありません。",
+    "vi" : "Không có file EML để upload.",
+    "zh" : "没有要上载的eml文档。"
+  },
+  "동일한 이름의 분류가 존재합니다." : {
+    "en" : "A category with the same name already exists.",
+    "ja" : "同じ名前のカテゴリが存在します。",
+    "vi" : "Có các phân loại cùng tên.",
+    "zh" : "存在相同名字的分类。"
+  },
+  "알 수 없는 주소 형식" : {
+    "en" : "Unknown address format.",
+    "ja" : "不明なアドレス形式",
+    "vi" : "Định dạng địa chỉ không xác định.",
+    "zh" : "未知的地址格式"
+  },
+  "문서함이 잠금상태입니다.\n문서 신규 등록을 할 수 없습니다." : {
+    "en" : "The documents is locked.\nYou can't add new documents.",
+    "ja" : "文書がロック状態です。\n文書の新規登録ができません。",
+    "vi" : "Tài liệu là khóa.\nBạn không thể thêm tài liệu mới.",
+    "zh" : "文件箱被锁定的状态。\n不可新登录文件"
+  },
+  "상태를 다시 확인해주세요." : {
+    "en" : "Please check the status again.",
+    "ja" : "状態を改めて確認してください。",
+    "vi" : "Vui lòng kiểm tra lại trạng thái.",
+    "zh" : "请再次确认状态。"
+  },
+  "연동 인터페이스 호출중 오류가 발생했습니다." : {
+    "en" : "An error occurred during the interface call for integration.",
+    "ja" : "連動インターフェースの呼び出し中にエラーが発生しました。",
+    "vi" : "Có lỗi xảy ra khi tải giao diện liên kết.",
+    "zh" : "调用集成接口时发生错误。"
+  },
+  "단위업무고유번호 목록이 존재하지 않습니다." : {
+    "en" : "No list of unique unit task numbers.",
+    "ja" : "単位業務固有番号のリストは存在しません。",
+    "vi" : "Không có danh sách số công việc đơn vị duy nhất.",
+    "zh" : "不存在单位任务的固有编号列表。"
+  },
+  "해당 게시판은 사용할 수 없습니다." : {
+    "en" : "The board cannot be used.",
+    "ja" : "該当掲示板は使用できません。",
+    "vi" : "Không thể sử dụng bảng tin hiện tại.",
+    "zh" : "不可使用相关布告栏。"
+  },
+  "RSS URL 체크에 실패하였습니다." : {
+    "en" : "Failed to check RSS URL.",
+    "ja" : "RSS URLチェックに失敗しました。",
+    "vi" : "Không thể kiểm tra URL RSS.",
+    "zh" : "RSS URL检查失败。"
+  },
+  "전자결재에서 관련문서로 등록되어 결재중인 문서는 삭제할 수 없습니다." : {
+    "en" : "The document which is under approval as a related document registered in e-Approval cannot be deleted.",
+    "ja" : "電子決裁において関連文書に登録されて決裁中の文書は削除できません。",
+    "vi" : "Không thể xóa tài liệu đang trong quá trình phê duyệt dưới tư cách là tài liệu có liên quan đã đăng ký trong Phê duyệt điện tử.",
+    "zh" : "在电子批准上登录为有关文件而批准中的文件不可删除。"
+  },
+  "데이터를 가지고 올때 오류가 발생 하였습니다. 관리자에게 문의 하여 주시기 바랍니다." : {
+    "en" : "An error occurred while importing data. Please contact the administrator.",
+    "ja" : "データのロード時にエラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Đã xảy ra lỗi khi tải dữ liệu. Vui lòng liên hệ với quản trị viên.",
+    "zh" : "拿来数据的时候发生了错误。请向管理者查询。"
+  },
+  "스페이스 폴더 남은 용량이 부족합니다." : {
+    "en" : "There is not enough capacity remaining in the space folder.",
+    "ja" : "スペースフォルダの空き容量が足りません。",
+    "vi" : "Dung lượng còn lại của thư mục Space không đủ.",
+    "zh" : "空间文件夹剩余容量不足。"
+  },
+  "이미 등록된 단어입니다." : {
+    "en" : "This word is already registered.",
+    "ja" : "すでに登録済みの単語です。",
+    "vi" : "Từ này đã được thêm.",
+    "zh" : "该单词已被注册。"
+  },
+  "이미 수정중인 페이지입니다." : {
+    "en" : "The page is already being edited.",
+    "ja" : "既に修正中のページです。",
+    "vi" : "Trang đã được chỉnh sửa trước đó.",
+    "zh" : "页面已在修改中。"
+  },
+  "토큰이 만료되었습니다." : {
+    "en" : "The token has expired.",
+    "ja" : "トークンの有効期限が切れました。",
+    "vi" : "Mã thông báo đã hết hạn.",
+    "zh" : "令牌已过期。"
+  },
+  "엑셀을 다시 확인해주세요. {0}" : {
+    "en" : "Please review the Excel again. {0}",
+    "ja" : "Excelをもう一度確認してください。{0}",
+    "vi" : "Vui lòng xem lại Excel một lần nữa. {0}",
+    "zh" : "请重新确认一下Excel。 {0}"
+  },
+  "{0} 회사에서 발송되었습니다. 해당 회사로 로그인하여 확인해주세요." : {
+    "en" : "It was sent by company {0}. Log in to the company to check.",
+    "ja" : "{0}会社から発送されました。該当会社にログインして確認してください。",
+    "vi" : "Đã gửi đến công ty {0}. Đăng nhập công ty tương ứng để kiểm tra.",
+    "zh" : "从{0}公司发送了。请在有关公司登录后确认一下。"
+  },
+  "지난 일자를 선택할 수 없습니다." : {
+    "en" : "You cannot select a date that has already passed.",
+    "ja" : "過去の日付は選択できません。",
+    "vi" : "Không thể chọn ngày đã qua",
+    "zh" : "不可选择已经过去的日子。"
+  },
+  "폴더와 PC가 일치하지 않습니다." : {
+    "en" : "Folder and PC do not match.",
+    "ja" : "フォルダとPCが一致しません。",
+    "vi" : "Thư mục và PC không khớp.",
+    "zh" : "文件夹与PC不匹配。"
+  },
+  "대상 회차가 존재하지 않습니다." : {
+    "en" : "Target round does not exist.",
+    "ja" : "対象次数が存在しません。",
+    "vi" : "Không tồn tại số lượt của đối tượng.",
+    "zh" : "对象顺序不存在。"
+  },
+  "띄어쓰기가 포함된 단어는 등록할 수 없습니다." : {
+    "en" : "Words containing spaces cannot be registered.",
+    "ja" : "スペースを含む単語は登録できません。",
+    "vi" : "Không thể thêm từ có chứa khoảng trắng.",
+    "zh" : "无法注册包含空格的单词。"
+  },
+  "템플릿에 등록된 문서가 아닙니다." : {
+    "en" : "This document is not registered to Templates.",
+    "ja" : "テンプレートに登録された文書がありません。",
+    "vi" : "Tài liệu này không được thêm vào mẫu.",
+    "zh" : "不在模板上登录的文件。"
+  },
+  "수정한 사용자가 아닙니다." : {
+    "en" : "Not the user who made the modifications.",
+    "ja" : "修正したユーザーではありません。",
+    "vi" : "Không phải là người dùng đã chỉnh sửa.",
+    "zh" : "不是修改的用户。"
+  },
+  "해당 게시물을 사용할 수 없습니다." : {
+    "en" : "The post cannot be found.",
+    "ja" : "該当 掲示物が見つかりません。",
+    "vi" : "Không thể tìm thấy bài viết tương ứng.",
+    "zh" : "不可找有关布告内容。"
+  },
+  "보존기간이 만료되어 조회할 수 없습니다." : {
+    "en" : "The retention period has expired and cannot be viewed.",
+    "ja" : "保存期間の有効期限の満了のため、照会することができません。",
+    "vi" : "Không thể xem do đã quá thời gian truy cập.",
+    "zh" : "保存期限已满，不能查询。"
+  },
+  "복사할 수 없는 분류입니다." : {
+    "en" : "It is a category that cannot be copied.",
+    "ja" : "コピーできないカテゴリです。",
+    "vi" : "Không thể sao chép phân loại này.",
+    "zh" : "无法复制的分类。"
+  },
+  "그룹에 할일이 존재하여 삭제 할 수 없습니다." : {
+    "en" : "Tasks Exist in the Group, So Deletion Is Not Possible.",
+    "ja" : "グループにタスクが存在するため、削除できません。",
+    "vi" : "Không thể xóa vì có nhiệm vụ trong nhóm.",
+    "zh" : "团队有进行中的任务，无法删除。"
+  },
+  "존재하지 않는 메일함입니다." : {
+    "en" : "he mailbox doesn't exist.",
+    "ja" : "存在しないメールBoxです。",
+    "vi" : "Đây là hộp thư không tồn tại.",
+    "zh" : "不存在的邮件箱。"
+  },
+  "기초 데이터가 존재합니다." : {
+    "en" : "Basic data exists.",
+    "ja" : "基本データが存在します。",
+    "vi" : "Dữ liệu cơ bản tồn tại.",
+    "zh" : "基础数据已存在。"
+  },
+  "비전자문서 등록 형식이 잘못되었습니다. 결재자 정보를 확인하세요." : {
+    "en" : "Incorrect non-electronic document registration format. Please check the approver's information.",
+    "ja" : "非電子文書の登録形式が正しくありません。決裁者情報を確認してください。",
+    "vi" : "Định dạng đăng ký tài liệu phi điện tử không chính xác. Vui lòng kiểm tra thông tin người phê duyệt.",
+    "zh" : "非电子文档注册格式错误，请检查审批者信息。"
+  },
+  "결재를 취소할 수 없습니다. 문서의 결재진행현황을 확인해주세요." : {
+    "en" : "Unable to cancel the approval. Please check the approval progress status of the document.",
+    "ja" : "決裁をキャンセルできません。文書の決裁進行状況を確認してください。",
+    "vi" : "Không thể hủy bỏ phê duyệt. Vui lòng kiểm tra trạng thái phê duyệt của tài liệu.",
+    "zh" : "不可取消批准。请确认一下文件的批准进行现况。"
+  },
+  "이전 폴더 {0} 를 찾을 수 없습니다." : {
+    "en" : "Cannot find the previous folder {0}.",
+    "ja" : "以前のフォルダー{0}が見つかりません。",
+    "vi" : "Không thể tìm thấy thư mục trước đó {0}.",
+    "zh" : "找不到之前的文件夹 {0}。"
+  },
+  "해당 분류에 속한 문서들이 존재합니다. 삭제할 수 없습니다." : {
+    "en" : "There are documents that belong to the category. You can’t delete it.",
+    "ja" : "該当カテゴリに属した文書が存在します。削除できません。",
+    "vi" : "Tồn tại các tài liệu thuộc về danh mục này. Bạn không thể tiến hành xóa bỏ chúng.",
+    "zh" : "存在属于相关分类的文件。不可删除。"
+  },
+  "다운로드할 파일이 없습니다." : {
+    "en" : "There is no file to download.",
+    "ja" : "ダウンロードするファイルがありません。",
+    "vi" : "Không có file để tải về.",
+    "zh" : "没有文件下载。"
+  },
+  "{0}자 이상 입력해주세요." : {
+    "en" : "Please enter at least {0} characters.",
+    "ja" : "{0}文字以上入力してください。",
+    "vi" : "Vui lòng nhập ít nhất {0} ký tự.",
+    "zh" : "请输入至少 {0} 个字符。"
+  },
+  "{0} 수신처리 중 오류가 발생하였습니다." : {
+    "en" : "An error occurred while processing {0} recipient.",
+    "ja" : "{0}受信処理中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi trong quá trình xử lý người nhận {0}.",
+    "zh" : "处理 {0} 接收中发生错误。"
+  },
+  "{0}에 대한 PC를 찾을 수 없습니다." : {
+    "en" : "Cannot find the PC for {0}.",
+    "ja" : "{0}に対するPCが見つかりません。",
+    "vi" : "Không thể tìm thấy máy tính cho {0}.",
+    "zh" : "找不到与 {0} 相关的PC。"
+  },
+  "조회권한이 없습니다." : {
+    "en" : "You don't have permission to read.",
+    "ja" : "読み込み権限がありません。",
+    "vi" : "Bạn không có quyền được đọc.",
+    "zh" : "没有权限读。"
+  },
+  "관리되지 않은 이름 형식입니다." : {
+    "en" : "Unmanaged name format.",
+    "ja" : "管理されていない名前の形式です。",
+    "vi" : "Định dạng tên không được quản lý.",
+    "zh" : "未受管理的名称格式。"
+  },
+  "인증정보가 등록되어 있지 않습니다." : {
+    "en" : "No registered authentication information.",
+    "ja" : "認証情報が登録されていません。",
+    "vi" : "Không có thông tin xác thực đã đăng ký.",
+    "zh" : "认证信息未注册。"
+  },
+  "검색엔진에 질의 중 오류가 발생했습니다." : {
+    "en" : "An error occurred while querying the search engine.",
+    "ja" : "検索エンジンへのクエリ中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi khi truy vấn máy chủ công cụ tìm kiếm.",
+    "zh" : "在查询搜索引擎时发生错误。"
+  },
+  "그룹웨어 모바일앱 설치 후 앱의 Push 알림설정을 ON으로 설정해주세요." : {
+    "en" : "Set the push notification of the APP to On after installing the groupware mobile APP.",
+    "ja" : "グループウェアのモバイルアプリをインストールした後、アプリのPush通知設定をONに設定してください。",
+    "vi" : "Sau khi cài đặt ứng dụng groupware trên điện thoại, hãy cài đặt thông báo đẩy của ứng dụng bằng cách chuyển sang chế độ BẬT.",
+    "zh" : "安装组件移动应用程序后，请将应用程序的Push提示设置为ON。"
+  },
+  "대상폴더에 쓰기권한이 없습니다." : {
+    "en" : "You don't have permission to write in the target folder.",
+    "ja" : "対象フォルダの書き込み権限がありません。",
+    "vi" : "Không có quyền ghi lên thư mục đích.",
+    "zh" : "对象文件夹您没有写权限。"
+  },
+  "RTC 라이선스가 존재하지 않는 사용자입니다." : {
+    "en" : "This user does not have an RTC license.",
+    "ja" : "RTCライセンスが存在しないユーザーです。",
+    "vi" : "Đây là người dùng không có giấy phép RTC.",
+    "zh" : "RTC许可证不存在的用户。"
+  },
+  "{0} 연동에 실패하였습니다." : {
+    "en" : "Failed to link {0}.",
+    "ja" : "{0}連携に失敗しました。",
+    "vi" : "Không thể liên kết {0}.",
+    "zh" : "{0} 联动失败。"
+  },
+  "기초 데이터가 존재하지 않습니다." : {
+    "en" : "No basic data exists.",
+    "ja" : "基本データが存在しません。",
+    "vi" : "Không có dữ liệu cơ bản tồn tại.",
+    "zh" : "不存在基础数据。"
+  },
+  "퇴근시간은 출근시간 보다 커야합니다." : {
+    "en" : "The clock-out time must be larger than the clock-in time.",
+    "ja" : "退勤時間は出勤時間より後に設定してください。",
+    "vi" : "Thời gian tan sở phải lớn hơn thời gian đi làm.",
+    "zh" : "下班时间要大于上班时间。"
+  },
+  "동일한 편지함 이름[{0}]이 존재합니다." : {
+    "en" : "A postbox of the same name exists",
+    "ja" : "同じメールBox名[{0}]が存在します。",
+    "vi" : "Đã tồn tại hộp thư có tên tương tự.",
+    "zh" : "存在同一个信箱名字[{0}]。"
+  },
+  "커뮤니티에 접근 권한이 없습니다." : {
+    "en" : "No access permission to the community.",
+    "ja" : "コミュニティにアクセスできません。",
+    "vi" : "Không có quyền truy cập vào cộng đồng.",
+    "zh" : "没有访问社区的权限。"
+  },
+  "완전삭제할 수 있는 상태가 아닙니다." : {
+    "en" : "Cannot Permanently Delete in the Current State.",
+    "ja" : "完全に削除できるステータスではありません。",
+    "vi" : "Không thể xóa hoàn toàn trong trạng thái này.",
+    "zh" : "无法完全删除。"
+  },
+  "RSS 템플릿이 올바르지 않습니다." : {
+    "en" : "Invalid RSS template.",
+    "ja" : "RSSテンプレートが正しくありません。",
+    "vi" : "Mẫu RSS không hợp lệ.",
+    "zh" : "RSS模板错误。"
+  },
+  "통보 기준일이 없습니다." : {
+    "en" : "No standard date for notification",
+    "ja" : "通知基準日がありません。",
+    "vi" : "Không có ngày chuẩn thông báo",
+    "zh" : "没有通知基准日。"
+  },
+  "{0}에 해당하는 메일함을 찾을 수 없습니다." : {
+    "en" : "Cannot find the mailbox corresponding to {0}.",
+    "ja" : "{0}に該当するメールボックスが見つかりません。",
+    "vi" : "Không thể tìm thấy hộp thư tương ứng với {0}.",
+    "zh" : "找不到与 {0} 相关的邮箱。"
+  },
+  "선택하신 상위 일감은 순환 의존관계를 만들 수 있습니다." : {
+    "en" : "You can create a circular dependency for the upper work you have selected. ",
+    "ja" : "選択した上位ワークは、循環依存関係を作ることができます。",
+    "vi" : "Công việc trên dưới đã chọn có thể tạo quan hệ tồn tại tuần hoàn.",
+    "zh" : "您选择的上位工作可以做循环依赖关系。"
+  },
+  "이미 등록된 앱 이름입니다." : {
+    "en" : "The app name is already taken.",
+    "ja" : "すでに登録されているアプリ名です。",
+    "vi" : "Tên ứng dụng đã được sử dụng.",
+    "zh" : "已经登录的APP名字。"
+  },
+  "아카이브할 수 있는 상태가 아닙니다." : {
+    "en" : "Cannot Archive in the Current State.",
+    "ja" : "アーカイブできるステータスではありません。",
+    "vi" : "Không thể lưu trữ trong trạng thái này.",
+    "zh" : "无法存档。"
+  },
+  "{0}에 해당하는 보관함을 찾을 수 없습니다." : {
+    "en" : "Cannot find the mailbox corresponding to {0}.",
+    "ja" : "{0}に対応するライブラリが見つかりません。",
+    "vi" : "Không thể tìm thấy hộp thư tương ứng với {0}.",
+    "zh" : "找不到与 {0} 相关的文件夹。"
+  },
+  "대상폴더가 공유가 해제되었습니다." : {
+    "en" : "The target folder is no longer being shared",
+    "ja" : "対象フォルダの共有が解除されました。",
+    "vi" : "Đã hủy chọn chia sẻ thư mục đích",
+    "zh" : "对象文件夹的共有被解除了。"
+  },
+  "해당 문서함을 찾을 수 없습니다." : {
+    "en" : "The documents cannot be found.",
+    "ja" : "該当文書が見つかりません。",
+    "vi" : "Không thể tìm thấy tài liệu này.",
+    "zh" : "=不可找相关文件箱。"
+  },
+  "지정한 적용기간에 이미 등록된 업무계획이 있습니다." : {
+    "en" : "There is already a work plan registered for the specified application period.",
+    "ja" : "指定した適用期間にすでに登録された業務計画があります。",
+    "vi" : "Đã có một kế hoạch làm việc được đăng ký vào thời điểm áp dụng được chỉ định.",
+    "zh" : "在指定的适用期间内已有登记的业务计划。"
+  },
+  "결재자를 삭제할 수 없습니다." : {
+    "en" : "Unable to delete the approver.",
+    "ja" : "決裁者を削除することはできません。",
+    "vi" : "Không thể xóa người phê duyệt.",
+    "zh" : "不可删除批准人。"
+  },
+  "삭제되었습니다." : {
+    "en" : "Deleted successfully.",
+    "ja" : "削除されました。",
+    "vi" : "ĐÃ xóa",
+    "zh" : "已删除。"
+  },
+  "선택하신 일감은 유효 하지 않습니다." : {
+    "en" : "The work you have selected is not available.",
+    "ja" : "選択したワークは無効です。",
+    "vi" : "Công việc đã chọn không có hiệu lực.",
+    "zh" : "您选择的工作没有效。"
+  },
+  "대상 유형을 지정하세요." : {
+    "en" : "Specify the target type.",
+    "ja" : "ターゲットタイプを指定してください。",
+    "vi" : "Vui lòng chỉ định loại mục tiêu.",
+    "zh" : "请指定目标类型。"
+  },
+  "검색어에 [{0}] 단어가 포함되어 검색할 수 없습니다." : {
+    "en" : "You cannot search because the search term contains the word [{0}].",
+    "ja" : "検索語に [{0}] 単語が含まれているため、検索できません。",
+    "vi" : "Không thể tìm kiếm với từ khóa chứa từ [{0}]. ",
+    "zh" : "您不能搜索,因为搜索词包含单词[{0}]。"
+  },
+  "적용기간이 중복되는 근무계획이 있습니다. 다른 적용기간을 선택해주세요." : {
+    "en" : "There are working plans with overlapping application periods. Please select a different application period.",
+    "ja" : "適用時間が重複している勤務計画があります。他の適用期間を選択してください。",
+    "vi" : "Có kế hoạch làm việc với thời gian áp dụng trùng lặp. Vui lòng chọn thời hạn áp dụng khác.",
+    "zh" : "有适用期限重复的工作计划。请选择其他适用期限。"
+  },
+  "숫자로 이루어진 단어는 등록할 수 없습니다." : {
+    "en" : "Words consisting of numbers cannot be registered.",
+    "ja" : "数字のみで構成された単語は登録できません。",
+    "vi" : "Không thể thêm từ có chứa số.",
+    "zh" : "无法注册由数字组成的单词。"
+  },
+  "최종결재자를 취소할 수 있는 상태가 아닙니다. 다시확인해주세요." : {
+    "en" : "Unable to cancel the final approver. Please check again.",
+    "ja" : "最終決裁者をキャンセルできる状態ではありません。再度ご確認ください。",
+    "vi" : "Bạn không được phép hủy bỏ người phê duyệt cuối cùng. Xin vui lòng chọn lại.",
+    "zh" : "不可取消最终批准状态。请再确认一下。"
+  },
+  "게시판 용량이 부족합니다." : {
+    "en" : "Insufficient bulletin board capacity (storage space).",
+    "ja" : "掲示板容量が不足します。",
+    "vi" : "Thiếu dung lượng bảng tin",
+    "zh" : "布告栏容量不足。"
+  },
+  "쪽지가 존재하지 않습니다. 새로 고침후 다시 시도해주세요." : {
+    "en" : "The message does not exist. Please refresh and try again.",
+    "ja" : "メッセージが存在しません。リロードしてから再度お試しください。",
+    "vi" : "Không tồn tại lời nhắn. Hãy làm mới và thử lại.",
+    "zh" : "该消息不存在。请刷新，然后再试一次。"
+  },
+  "차트가 존재하지 않습니다." : {
+    "en" : "No chart exists.",
+    "ja" : "チャートが存在しません。",
+    "vi" : "Không có biểu đồ.",
+    "zh" : "不存在图表。"
+  },
+  "레벨 3이상이 되어 복사할 수 없습니다." : {
+    "en" : "You cannot copy. You are over level 3",
+    "ja" : "レベル３以上になったためコピーできません。",
+    "vi" : "ở cấp độ 3 trở lên và không thể sao chép.",
+    "zh" : "等级为3以上，无法复制。"
+  },
+  "인증서버 연결에 실패하였습니다. 관리자에게 문의하세요." : {
+    "en" : "Failed to connect to the authentication server. Please contact the administrator.",
+    "ja" : "証明サーバーの接続に失敗しました。管理者に連絡してください。",
+    "vi" : "Không thể kết nối với máy chủ xác thực. Vui lòng liên hệ với quản trị viên.",
+    "zh" : "认证服务器连接失败，请联系管理员。"
+  },
+  "삭제할 수 없습니다." : {
+    "en" : "Unable to delete.",
+    "ja" : "削除することができません。",
+    "vi" : "Không thể xóa.",
+    "zh" : "不可删除。"
+  },
+  "전자우편 총 용량이 부족합니다." : {
+    "en" : "Total email capacity is insufficient.",
+    "ja" : "電子メールの合計容量が不足しています。",
+    "vi" : "Dung lượng email tổng đã hết.",
+    "zh" : "电子邮件总容量不足。"
+  },
+  "중분류 까지 선택해주세요." : {
+    "en" : "Select up to the medium category.",
+    "ja" : "中カテゴリまで選択してください。",
+    "vi" : "Vui lòng chọn lên đến loại vừa",
+    "zh" : "请选择中分类。"
+  },
+  "삭제할 수 있는 상태가 아닙니다." : {
+    "en" : "Cannot Delete in the Current State.",
+    "ja" : "削除できるステータスではありません。",
+    "vi" : "Không thể xóa trong trạng thái này.",
+    "zh" : "无法删除。"
+  },
+  "파일을 확인하세요." : {
+    "en" : "Please check the file.",
+    "ja" : "ファイルを確認してください。",
+    "vi" : "Hãy chọn file.",
+    "zh" : "请确认一下文档。"
+  },
+  "삭제된 게시물입니다." : {
+    "en" : "The post has already been deleted.",
+    "ja" : "削除された記事です。",
+    "vi" : "Đây là bài viết đã bị xóa",
+    "zh" : "被删除的布告内容。"
+  },
+  "조회 권한이 없습니다." : {
+    "en" : "You don't have permission to view.",
+    "ja" : "照会権限がありません。",
+    "vi" : "Bạn không có quyền xem khảo sát.",
+    "zh" : "没有查询权限。"
+  },
+  "연관 단어 등록 중 오류가 발생하였습니다." : {
+    "en" : "An error occurred while registering related words.",
+    "ja" : "関連語登録中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi khi đăng ký từ liên quan.",
+    "zh" : "注册相关单词时发生错误。"
+  },
+  "오류가 발생했습니다." : {
+    "en" : "An error has occurred.",
+    "ja" : "エラーが発生しました。",
+    "vi" : "Đã phát sinh lỗi.",
+    "zh" : "发生错误。"
+  },
+  "연차계획이 존재하지 않습니다." : {
+    "en" : "Annual leave plan does not exist.",
+    "ja" : "年休計画が存在しません。",
+    "vi" : "Kế hoạch nghỉ phép hàng năm không tồn tại",
+    "zh" : "年假计划不存在。"
+  },
+  "정의 되지 않은 Publish Event Type 입니다." : {
+    "en" : "Undefined Publish Event Type.",
+    "ja" : "未定義の Publish Event Type です。",
+    "vi" : "Publish Event Type chưa được xác định.",
+    "zh" : "未定义的Publish Event Type。"
+  }
+}

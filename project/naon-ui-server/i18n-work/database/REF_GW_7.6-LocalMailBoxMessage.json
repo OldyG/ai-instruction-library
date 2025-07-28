@@ -1,0 +1,38 @@
+{
+  "예약메일함" : {
+    "en" : "Scheduled",
+    "ja" : "予約メールBox",
+    "vi" : "Hộp mail đặt trước",
+    "zh" : "预定邮件箱"
+  },
+  "스팸메일함" : {
+    "en" : "Spam",
+    "ja" : "スパムメールBox",
+    "vi" : "Hộp thư rác",
+    "zh" : "垃圾邮箱"
+  },
+  "삭제함" : {
+    "en" : "Deleted",
+    "ja" : "削除Box",
+    "vi" : "Hộp xóa",
+    "zh" : "删除箱"
+  },
+  "보낸메일함" : {
+    "en" : "Sent",
+    "ja" : "送信メールBox",
+    "vi" : "Hộp mail đi",
+    "zh" : "发件箱"
+  },
+  "임시보관함" : {
+    "en" : "Drafts",
+    "ja" : "一時保存",
+    "vi" : "Hộp lưu giữ tạm thời",
+    "zh" : "草稿箱"
+  },
+  "받은메일함" : {
+    "en" : "Inbox",
+    "ja" : "受信メールBox",
+    "vi" : "Hộp thư đến",
+    "zh" : "收件箱"
+  }
+}

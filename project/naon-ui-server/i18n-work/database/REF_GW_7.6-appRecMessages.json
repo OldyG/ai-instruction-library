@@ -1,0 +1,4436 @@
+{
+  "제목을 입력해주세요" : {
+    "en" : "Please enter the title",
+    "ja" : "タイトルを入力してください",
+    "vi" : "Vui lòng nhập tiêu đề",
+    "zh" : "请输入标题"
+  },
+  "다운로드" : {
+    "en" : "Download",
+    "ja" : "ダウンロード",
+    "vi" : "Tải xuống",
+    "zh" : "下载"
+  },
+  "수신자(발신자)" : {
+    "en" : "Recipient (Sender)",
+    "ja" : "受信者(送信者)",
+    "vi" : "Người nhận (Người gửi)",
+    "zh" : "收信人(发信人)"
+  },
+  "결재권자" : {
+    "en" : "Approver",
+    "ja" : "決裁権者",
+    "vi" : "Người có quyền phê duyệt",
+    "zh" : "有审批权的人"
+  },
+  "엑셀에 (*) 표기된 필드는 필수 값입니다." : {
+    "en" : "Fields marked with (*) in Excel are required values.",
+    "ja" : "Excelで (*) が付いているフィールドは必須項目です。",
+    "vi" : "Các mục được đánh dấu (*) trong Excel là bắt buộc.",
+    "zh" : "Excel 中标有 (*) 的字段为必填项。"
+  },
+  "선택한 분류는 최대 뎁스를 초과하여 이동할 수 없습니다." : {
+    "en" : "The selected category cannot move while exceeding the maximum depth.",
+    "ja" : "選択したカテゴリは最大depthを超過しているため移動できません。",
+    "vi" : "Không thể di chuyển phân loại đã chọn vượt quá depth tối đa.",
+    "zh" : "所选择的分类超过最多Depth, 无法移动。"
+  },
+  "비밀번호 확인" : {
+    "en" : "Confirm password",
+    "ja" : "パスワード確認",
+    "vi" : "Xác nhận mật khẩu",
+    "zh" : "确认密码"
+  },
+  "검색식명" : {
+    "en" : "Search Formula Name",
+    "ja" : "検索式名",
+    "vi" : "Tên cách thức tìm kiếm",
+    "zh" : "搜索式名"
+  },
+  "기록물철 상태가 변경되었습니다. 다시 시도해 주세요." : {
+    "en" : "The status of the record binder has been modified. Please try again.",
+    "ja" : "記録バインダーの状態が変更されました。再度お試しください。",
+    "vi" : "Trạng thái hồ sơ  đã được thay đổi",
+    "zh" : "档案册状态已变更。请再试。"
+  },
+  "기록물철 일괄 복사" : {
+    "en" : "Batch copy of record files",
+    "ja" : "記録物ファイル 一括コピー",
+    "vi" : "Sao chép hàng loạt hồ sơ",
+    "zh" : "统一复制记录文件夹"
+  },
+  "기록물을 수정 후 저장하세요." : {
+    "en" : "Please modify and save the record.",
+    "ja" : "記録物を修正して保存してください。",
+    "vi" : "Vui lòng sửa đổi và lưu bản ghi.",
+    "zh" : "请修改记录后再保存。"
+  },
+  "처리" : {
+    "en" : "Process",
+    "ja" : "処理",
+    "vi" : "Xử lý",
+    "zh" : "处理"
+  },
+  "생산연도" : {
+    "en" : "Year of Production",
+    "ja" : "生産年度",
+    "vi" : "Năm sản xuất",
+    "zh" : "生产年度"
+  },
+  "비밀번호 확인이 입력되지 않았습니다." : {
+    "en" : "You haven't confirmed your password.",
+    "ja" : "パスワード確認が入力されていません。",
+    "vi" : "Chưa nhập xác nhận mật khẩu",
+    "zh" : "未输入密码确认。"
+  },
+  "관인날인대장 등록" : {
+    "en" : "Register at an official seal record book",
+    "ja" : "官印捺印台帳登録",
+    "vi" : "Đăng ký sổ kế toán đóng dấu",
+    "zh" : "官印印章登记"
+  },
+  "분류기준표 일괄 등록 체크" : {
+    "en" : "Check bulk registration of classification criteria",
+    "ja" : "分類基準表一括登録チェック",
+    "vi" : "Kiểm tra việc thêm hàng loạt các tiêu chí phân loại",
+    "zh" : "批量注册检查分类表"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "기록물철 등록/수정" : {
+    "en" : "Register/Modify Record Binder",
+    "ja" : "記録バインダー登録/修正",
+    "vi" : "Đăng ký / sửa đổi hồ sơ",
+    "zh" : "档案册登记/修改"
+  },
+  "이관" : {
+    "en" : "Transfer",
+    "ja" : "移管",
+    "vi" : "Chuyển giao",
+    "zh" : "移交"
+  },
+  "전자" : {
+    "en" : "Electronic",
+    "ja" : "電子",
+    "vi" : "Điện tử",
+    "zh" : "电子"
+  },
+  "접수일자" : {
+    "en" : "Date accepted",
+    "ja" : "受付日",
+    "vi" : "Ngày tiếp nhận",
+    "zh" : "接受日子"
+  },
+  "시행일" : {
+    "en" : "Effective Date (Enforcement Date)",
+    "ja" : "施行日",
+    "vi" : "Ngày có hiệu lực",
+    "zh" : "执行日期"
+  },
+  "아래 기록물철은 오류가 있어 등록되지 않습니다." : {
+    "en" : "The following record files will not be registered due to errors.",
+    "ja" : "下記 記録物ファイルはエラーがあり登録されません。",
+    "vi" : "Các hồ sơ sau đây có lỗi và sẽ không được đăng ký.",
+    "zh" : "以下记录文件夹有错误，无法注册。"
+  },
+  "(처리기관코드 : {0},   조회연도 : {1})" : {
+    "en" : "(Processing Institution Code: {0}, Year Viewed: {1))",
+    "ja" : "(処理機関コード : {0}, 照会年度 : {1})",
+    "vi" : "(Mã code cơ quan xử lý: {0}, Năm xem: {1})",
+    "zh" : "(处理机构编码: {0},   查询年度 : {1})"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "공개여부" : {
+    "en" : "Open to Public?",
+    "ja" : "公開可否",
+    "vi" : "Công khai hay không",
+    "zh" : "是否公开"
+  },
+  "복사할 분류를 선택해 주세요." : {
+    "en" : "Select the category to copy.",
+    "ja" : "コピーするカテゴリを選択してください。",
+    "vi" : "Hãy chọn phân loại sẽ sao chép",
+    "zh" : "请选择要复制的分类。"
+  },
+  "기록물철" : {
+    "en" : "Record binder",
+    "ja" : "記録バインダー",
+    "vi" : "Kho lưu trữ",
+    "zh" : "档案册"
+  },
+  "공개제한부분" : {
+    "en" : "Restricted Part (Disclosure Restriction)",
+    "ja" : "公開制限部分",
+    "vi" : "Bộ phận giới hạn công khai",
+    "zh" : "公开限制部分"
+  },
+  "저장할 정보가 없습니다." : {
+    "en" : "No information to save.",
+    "ja" : "保存する情報がありません。",
+    "vi" : "Không có thông báo sẽ lưu",
+    "zh" : "不存在可保存的信息。"
+  },
+  "파일을 첨부하세요." : {
+    "en" : "Please attach files.",
+    "ja" : "ファイルを添付してください。",
+    "vi" : "Đính kèm file.",
+    "zh" : "请附加文档。"
+  },
+  "등록번호" : {
+    "en" : "Registration number",
+    "ja" : "登録番号",
+    "vi" : "Số đăng ký",
+    "zh" : "登录号码"
+  },
+  "원본" : {
+    "en" : "Original",
+    "ja" : "原本",
+    "vi" : "Bản gốc",
+    "zh" : "原件"
+  },
+  "단위업무 추가" : {
+    "en" : "Add Unit Task",
+    "ja" : "単位業務追加",
+    "vi" : "Thêm tác vụ đơn vị",
+    "zh" : "追加单位业务"
+  },
+  "전자기록물여부" : {
+    "en" : "Electronic Record Status",
+    "ja" : "電子記録可否",
+    "vi" : "Hồ sơ điện tử",
+    "zh" : "电子档案与否"
+  },
+  "기록물철 관리" : {
+    "en" : "Manage Record Binders",
+    "ja" : "記録バインダー管理",
+    "vi" : "Quản lý kho lưu trữ",
+    "zh" : "档案册管理"
+  },
+  "추가 문자" : {
+    "en" : "Add Characters",
+    "ja" : "追加文字",
+    "vi" : "Thêm ký tự",
+    "zh" : "添加文字"
+  },
+  "수정 시 엑셀에 없는 정보는 기존정보를 유지 합니다." : {
+    "en" : "When modifying, information not in the Excel file will be retained.",
+    "ja" : "修正時にエクセルにない情報は既存情報を保持します。",
+    "vi" : "Khi sửa đổi, thông tin không có trong tệp Excel sẽ được giữ nguyên.",
+    "zh" : "修改时，将保留 Excel 中没有的信息。"
+  },
+  "하위 기능분류가 존재하여 삭제할 수 없습니다." : {
+    "en" : "It cannot be deleted. A function category exists below.",
+    "ja" : "下位機能カテゴリが存在しているため、削除できません。",
+    "vi" : "Tồn tại phân loại chức năng dưới nên không thể xóa",
+    "zh" : "存在下级功能分类，无法删除。"
+  },
+  "정상적으로 수정되었습니다." : {
+    "en" : "Successfully modified.",
+    "ja" : "正常に修正しました。",
+    "vi" : "Đã chỉnh sửa thành công.",
+    "zh" : "已正常修改。"
+  },
+  "다국어 입력" : {
+    "en" : "Enter Multiple Languages",
+    "ja" : "多言語入力",
+    "vi" : "Nhập đa ngôn ngữ",
+    "zh" : "输入多国语"
+  },
+  "기록물철 분리" : {
+    "en" : "Separate Record Binder",
+    "ja" : "記録バインダー分離",
+    "vi" : "Phân loại kho lưu trữ",
+    "zh" : "档案册拆分"
+  },
+  "소분류를 입력해주세요" : {
+    "en" : "Please enter the minor category",
+    "ja" : "小分類を入力してください",
+    "vi" : "Vui lòng nhập danh mục nhỏ",
+    "zh" : "请输入小分类。"
+  },
+  "데이터가 존재하지 않습니다." : {
+    "en" : "Data does not exist.",
+    "ja" : "データが存在しません。",
+    "vi" : "Dữ liệu không tồn tại.",
+    "zh" : "数据不存在。"
+  },
+  "접수" : {
+    "en" : "Submission",
+    "ja" : "受付",
+    "vi" : "Tiếp nhận",
+    "zh" : "受理"
+  },
+  "기록물철 복원" : {
+    "en" : "Restore Record Binder",
+    "ja" : "記録バインダー復元",
+    "vi" : "Khôi phục kho lưu trữ",
+    "zh" : "档案册复原"
+  },
+  "발송구분을 선택하세요." : {
+    "en" : "Select the dispatch to be classified.",
+    "ja" : "発送区分を入力してください。",
+    "vi" : "Hãy chọn phân loại gửi đi.",
+    "zh" : "请选择发送区分。"
+  },
+  "프로세스명" : {
+    "en" : "Process Name",
+    "ja" : "プロセス名",
+    "vi" : "Tên quy trình",
+    "zh" : "流程名"
+  },
+  "분류" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "分类"
+  },
+  "기록물이 없습니다." : {
+    "en" : "No records found.",
+    "ja" : "記録はありません。",
+    "vi" : "Không tìm thấy hồ sơ nào.",
+    "zh" : "无记录。"
+  },
+  "연도는 미래 연도로 설정할 수 없습니다." : {
+    "en" : "The year cannot be set to a future year.",
+    "ja" : "年度は将来年度に設定できません。",
+    "vi" : "Không thể đặt năm là thời gian trong tương lai.",
+    "zh" : "年份不能设置为未来年份。"
+  },
+  "권한 대상을 입력해주세요" : {
+    "en" : "Please enter the target of authority",
+    "ja" : "権限の対象を入力してください",
+    "vi" : "Vui lòng nhập đối tượng của quyền hạn.",
+    "zh" : "请输入权限对象"
+  },
+  "변경 이력" : {
+    "en" : "Modification History",
+    "ja" : "変更内訳",
+    "vi" : "Lịch sử thay đổi",
+    "zh" : "变更明细"
+  },
+  "낮음" : {
+    "en" : "Low",
+    "ja" : "低い",
+    "vi" : "Thấp",
+    "zh" : "低"
+  },
+  "기록물철 순서변경" : {
+    "en" : "Record Binder Order Change",
+    "ja" : "記録バインダーの順序を変更",
+    "vi" : "Thay đổi thứ tự kho lưu trữ",
+    "zh" : "档案册顺序变更"
+  },
+  "의견" : {
+    "en" : "Opinion",
+    "ja" : "意見",
+    "vi" : "Ý kiến",
+    "zh" : "意见"
+  },
+  "중기능" : {
+    "en" : "Medium Function",
+    "ja" : "中機能",
+    "vi" : "Chức năng vừa",
+    "zh" : "中功能"
+  },
+  "사이" : {
+    "en" : "Between",
+    "ja" : "間",
+    "vi" : "Giữa",
+    "zh" : "之间"
+  },
+  "보존방법이 잘못된 문구입니다." : {
+    "en" : "Invalid preservation method.",
+    "ja" : "保存方法が間違った文句です。",
+    "vi" : "Phương pháp bảo tồn không hợp lệ.",
+    "zh" : "保存方法错误的句子。"
+  },
+  "대분류 까지 선택해주세요." : {
+    "en" : "Please select up to the large category.",
+    "ja" : "大カテゴリまで選択してください。",
+    "vi" : "Hãy chọn đến phân loại lớn",
+    "zh" : "请选择大分类。"
+  },
+  "선택된 목록이 없습니다." : {
+    "en" : "There are no selected list.",
+    "ja" : "選択したリストがありません。",
+    "vi" : "Không có danh sách được chọn",
+    "zh" : "已选择的目录不存在。"
+  },
+  "선택한 철에 “copy” 문구를 추가하여 복사하시겠습니까?" : {
+    "en" : "Do you want to add the word \\\"copy\\\" to the selected item and copy it?",
+    "ja" : "選択したファイルに“コピー“フレーズを追加してコピーしますか。",
+    "vi" : "Bạn có muốn thêm cụm từ \\\"copy\\\" vào cụm đã chọn để sao chép không?",
+    "zh" : "要在所选的年份后添加“copy”文字吗？"
+  },
+  "생산(접수)등록일" : {
+    "en" : "Production (Submission) Registration Date",
+    "ja" : "生産(受付)登録日",
+    "vi" : "Ngày đăng ký sản xuất (tiếp nhận)",
+    "zh" : "生产（接收）登记日"
+  },
+  "제2특수목록" : {
+    "en" : "2nd Special List",
+    "ja" : "第２特殊リスト",
+    "vi" : "Danh sách đặc biệt thứ 2",
+    "zh" : "第2特殊目录"
+  },
+  "{0}가 초과된 기록물 총 {1}건 중 {2}건 존재합니다. 제외하고 다운로드 됩니다." : {
+    "en" : "Out of {1} that has exceeded {0}, {2} have been found. They'll be excluded from the download list.",
+    "ja" : "{0}が超過した記録の全{1}件中、{2}件存在します。除いてダウンロードされます。",
+    "vi" : "Có {2} trong tổng số {1} tài liệu ghi chép vượt quá {0}. Tài liệu được tải xuống sẽ không bao gồm các tài liệu này.",
+    "zh" : "超过{0}的{1}项记录中，现有{2}项。将下载此外文件。"
+  },
+  "생산현황 통계" : {
+    "en" : "Statistics (Production Status)",
+    "ja" : "生産状況の統計",
+    "vi" : "Thống kê tình trạng sản xuất",
+    "zh" : "生产现况统计"
+  },
+  "처리과 선택" : {
+    "en" : "Select Processing Department",
+    "ja" : "処理課選択",
+    "vi" : "Chọn phòng ban xử lý",
+    "zh" : "选择处理科"
+  },
+  "기록물철 정보 조회" : {
+    "en" : "View Record Binder Information",
+    "ja" : "記録バインダー情報を照会",
+    "vi" : "Xem thông tin kho lưu trữ",
+    "zh" : "档案册信息查询"
+  },
+  "기록물건" : {
+    "en" : "Record Case",
+    "ja" : "記録物件",
+    "vi" : "Số hồ sơ",
+    "zh" : "档案物件"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "기록물 등록대장" : {
+    "en" : "Record Registration Ledger",
+    "ja" : "記録物登録対象",
+    "vi" : "Sổ sách đăng ký hồ sơ",
+    "zh" : "档案登记账本"
+  },
+  "단위업무를 입력해주세요" : {
+    "en" : "Please enter the unit task",
+    "ja" : "単位業務を入力してください",
+    "vi" : "Vui lòng nhập công việc đơn vị",
+    "zh" : "请输入单位业务。"
+  },
+  "협조" : {
+    "en" : "Collaborate",
+    "ja" : "協調",
+    "vi" : "Hợp tác",
+    "zh" : "协助"
+  },
+  "관인이미지 없음" : {
+    "en" : "No signature image",
+    "ja" : "官印画像なし",
+    "vi" : "Không có hình ảnh chữ ký",
+    "zh" : "无官印图像"
+  },
+  "보존장소" : {
+    "en" : "Retention Location",
+    "ja" : "保存場所",
+    "vi" : "Nơi lưu giữ",
+    "zh" : "保存场所"
+  },
+  "기록물철 일괄 등록 샘플 파일" : {
+    "en" : "Batch registration sample file for record files",
+    "ja" : "記録物ファイル一括登録サンプルファイル",
+    "vi" : "Tệp mẫu đăng ký hàng loạt hồ sơ",
+    "zh" : "记录文件夹批量注册样本文件"
+  },
+  "복원" : {
+    "en" : "Restore",
+    "ja" : "復元",
+    "vi" : "khôi phục lại",
+    "zh" : "复原"
+  },
+  "기능분류" : {
+    "en" : "Function Category",
+    "ja" : "機能分類",
+    "vi" : "Phân loại kỹ năng",
+    "zh" : "职能分类"
+  },
+  "조회 확인" : {
+    "en" : "Check View Status",
+    "ja" : "照会確認",
+    "vi" : "Xác nhận xem",
+    "zh" : "查询确认"
+  },
+  "맨아래" : {
+    "en" : "Bottom",
+    "ja" : "一番下へ",
+    "vi" : "Dưới cùng",
+    "zh" : "最下边"
+  },
+  "단위업무에는 기능분류를 추가할 수 없습니다." : {
+    "en" : "You cannot add a function category in a unit task.",
+    "ja" : "単位業務には機能カテゴリを追加できません。",
+    "vi" : "Không thể thêm phân loại kỹ năng ở tác vụ đơn vị",
+    "zh" : "单位业务中无法添加功能分类。"
+  },
+  "추가기능" : {
+    "en" : "Additional Function",
+    "ja" : "追加機能",
+    "vi" : "Kỹ năng thêm",
+    "zh" : "追加技能"
+  },
+  "미참여" : {
+    "en" : "Participate",
+    "ja" : "未参加",
+    "vi" : "Không tham gia",
+    "zh" : "未参与"
+  },
+  "처리 의견" : {
+    "en" : "Processing Opinion",
+    "ja" : "処理意見",
+    "vi" : "Ý kiến xử lý",
+    "zh" : "处理意见"
+  },
+  "품의서" : {
+    "en" : "Request Form",
+    "ja" : "稟議書",
+    "vi" : "Phiếu trình",
+    "zh" : "审批书"
+  },
+  "부서 기록물" : {
+    "en" : "Department Records",
+    "ja" : "部署記録物",
+    "vi" : "Hồ sơ bộ phận",
+    "zh" : "部门档案"
+  },
+  "단위업무" : {
+    "en" : "Unit work",
+    "ja" : "単位業務",
+    "vi" : "Công việc đơn  vị",
+    "zh" : "单位业务"
+  },
+  "일괄 추가 설정" : {
+    "en" : "Batch addition settings",
+    "ja" : "一括追加設定",
+    "vi" : "Cài đặt bổ sung đồng loạt",
+    "zh" : "设置批量添加"
+  },
+  "열람제한 설정" : {
+    "en" : "Settings (Access Restriction)",
+    "ja" : "閲覧制限設定",
+    "vi" : "Thiết lập giới hạn xem",
+    "zh" : "设置阅览限制"
+  },
+  "처리과" : {
+    "en" : "Department",
+    "ja" : "処理課",
+    "vi" : "Bộ phận xử lý",
+    "zh" : "处理科"
+  },
+  "연번" : {
+    "en" : "Serial number",
+    "ja" : "連番",
+    "vi" : "Số seri",
+    "zh" : "年号"
+  },
+  "사이드 메뉴 열기" : {
+    "en" : "Open the side menu",
+    "ja" : "サイドメニューを開く",
+    "vi" : "Mở side menu",
+    "zh" : "打开边线菜单"
+  },
+  "단위업무 추가/수정" : {
+    "en" : "Add/Modify Unit Task",
+    "ja" : "単位業務追加/修正",
+    "vi" : "Thêm/sửa tác vụ đơn vị",
+    "zh" : "单位业务添加/修改"
+  },
+  "기능 분류는 최대 3뎁스까지 가능합니다." : {
+    "en" : "Function category can handle up to 3 Depth.",
+    "ja" : "機能カテゴリは最大３depthまで可能です。",
+    "vi" : "Phân loại chức năng có thể lên đến 3 depth",
+    "zh" : "功能分类最多可以达到3Depth。"
+  },
+  "사진,필름류 시청각기록물" : {
+    "en" : "Photo, Film-type (Audiovisual Records)",
+    "ja" : "写真、フィルム類の視聴覚記録物",
+    "vi" : "Ảnh, phim, hồ sơ nghe nhìn",
+    "zh" : "照片，滤镜类视听性档案"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "업무 기록물" : {
+    "en" : "Task Reports",
+    "ja" : "業務記録物",
+    "vi" : "Hồ sơ tác vụ",
+    "zh" : "业务档案"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "소분류를 100자 이하로 입력해주세요" : {
+    "en" : "Please enter the minor category in 100 characters or less",
+    "ja" : "小分類を100文字以下で入力してください",
+    "vi" : "Vui lòng nhập danh mục nhỏ trong khoảng 100 ký tự",
+    "zh" : "请输入100字以下的小分类。"
+  },
+  "연도 및 권한 관리" : {
+    "en" : "Year and authority management",
+    "ja" : "年度及び権限の管理",
+    "vi" : "Quản lý năm và quyền hạn",
+    "zh" : "年度和权限管理"
+  },
+  "내용 요약" : {
+    "en" : "Summary",
+    "ja" : "内容要約",
+    "vi" : "tóm tắt nội dung",
+    "zh" : "内容摘要"
+  },
+  "특수목록위치" : {
+    "en" : "Special List Location",
+    "ja" : "特殊リストの位置",
+    "vi" : "Vị trí danh sách đặc biệt",
+    "zh" : "特殊目录位置"
+  },
+  "관인날인대장 수정" : {
+    "en" : "Edit an official seal record book",
+    "ja" : "官印捺印台帳修正",
+    "vi" : "Chỉnh sửa sổ kế toán đóng dấu",
+    "zh" : "官印印章修改"
+  },
+  "비밀번호가 입력되지 않았습니다." : {
+    "en" : "You haven't entered a password.",
+    "ja" : "パスワードが入力されていません。",
+    "vi" : "Chưa nhập mật khẩu",
+    "zh" : "未输入密码。"
+  },
+  "상세" : {
+    "en" : "Detail",
+    "ja" : "詳細",
+    "vi" : "Chi tiết",
+    "zh" : "详细"
+  },
+  "기본등록사항" : {
+    "en" : "Basic Registration Items",
+    "ja" : "基本登録事項",
+    "vi" : "Hạng muc đăng ký cơ bản",
+    "zh" : "基本登记事项"
+  },
+  "연별 초기화" : {
+    "en" : "Reset (by year)",
+    "ja" : "年別初期化",
+    "vi" : "Cài lại theo năm",
+    "zh" : "按年初始化"
+  },
+  "하위에 단위업무가 존재하여 삭제할 수 없습니다." : {
+    "en" : "It cannot be deleted. A unit task exists below.",
+    "ja" : "下位に単位業務が存在しているため、削除できません。",
+    "vi" : "Tồn tại tác vụ đơn vị dưới nên không thể xóa",
+    "zh" : "下级存在单位业务，无法删除。"
+  },
+  "검색조건을 선택하세요." : {
+    "en" : "Please select search conditions.",
+    "ja" : "検索条件を選択してください。",
+    "vi" : "Hãy lựa chọn điều kiện tìm kiếm",
+    "zh" : "请选择搜索条件。"
+  },
+  "분류기준표 일괄 등록" : {
+    "en" : "Bulk registration of classification criteria",
+    "ja" : "分類基準表の一括登録",
+    "vi" : "Thêm tiêu chí phân loại hàng loạt",
+    "zh" : "批量登记分类表"
+  },
+  "인계반송" : {
+    "en" : "Transfer Returned",
+    "ja" : "引継ぎ返送",
+    "vi" : "Hoàn trả bàn giao",
+    "zh" : "移交送回"
+  },
+  "선택한 분류의 상하 위치를 변경합니다." : {
+    "en" : "Change the order (up/down) of the selected category.",
+    "ja" : "選択したカテゴリの上下位置を変更します。",
+    "vi" : "Thay đổi vị trí trên cùng và dưới cùng của phân loại đã chọn.",
+    "zh" : "改变所选择的分类的上下位置。"
+  },
+  "기안부서" : {
+    "en" : "Drafting Department",
+    "ja" : "起案部署",
+    "vi" : "Bộ phận đề án",
+    "zh" : "起案部门"
+  },
+  "반송" : {
+    "en" : "Return",
+    "ja" : "返送",
+    "vi" : "Trả về",
+    "zh" : "送回"
+  },
+  "더 이상 추가할 수 없습니다." : {
+    "en" : "Cannot add anymore.",
+    "ja" : "これ以上追加できません。",
+    "vi" : "Không thể thêm được nữa",
+    "zh" : "无法添加跟多。"
+  },
+  "철" : {
+    "en" : "Iron",
+    "ja" : "綴じ",
+    "vi" : "Tủ",
+    "zh" : "文件夹"
+  },
+  "대분류를 입력해주세요" : {
+    "en" : "Please enter the major category",
+    "ja" : "大分類を入力してください",
+    "vi" : "Vui lòng nhập danh mục chính",
+    "zh" : "请输入分类标准"
+  },
+  "선택 문서" : {
+    "en" : "Selected document",
+    "ja" : "選択文書",
+    "vi" : "Tài liệu đã chọn",
+    "zh" : "选择文件"
+  },
+  "더보기" : {
+    "en" : "View more",
+    "ja" : "もっと見る",
+    "vi" : "Xem thêm",
+    "zh" : "看更多"
+  },
+  "선택 추가" : {
+    "en" : "Add Selection",
+    "ja" : "選択追加",
+    "vi" : "Thêm tùy chọn",
+    "zh" : "选择添加"
+  },
+  "기록물철 제목, 비치사유 : 100자 까지 입력" : {
+    "en" : "Record file title, reason for placement: Enter up to 100 characters",
+    "ja" : "記録物ファイル題名、配置事由 : 100文字まで入力",
+    "vi" : "Tiêu đề hồ sơ, Lý do lưu trữ: Nhập tối đa 100 ký tự",
+    "zh" : "记录物册标题、保管原因：最多输入 100 个字符"
+  },
+  "기록물철등록번호" : {
+    "en" : "Record Binder Registration Number",
+    "ja" : "記録バインダー登録番号",
+    "vi" : "Số đăng ký kho lưu trữ",
+    "zh" : "文档册登记编号"
+  },
+  "단위업무코드가 기존 등록된 정보에 없으면 신규로 등록하며, 존재하면 수정 처리 합니다." : {
+    "en" : "If the unit task code is not in the existing registered information, it will be registered as new, otherwise it will be processed as modification.",
+    "ja" : "単位業務コードが既存の登録情報にない場合は新規に登録し、存在する場合は修正処理します。",
+    "vi" : "Nếu mã công việc đơn vị không có trong thông tin đã đăng ký hiện có, nó sẽ được thêm mới, nếu đã có nó sẽ được coi là sửa đổi.",
+    "zh" : "如果单位业务代码不存在，则将添加该代码；如果存在，则将修改该代码。"
+  },
+  "참여" : {
+    "en" : "Participate",
+    "ja" : "参加",
+    "vi" : "Tham gia",
+    "zh" : "参与"
+  },
+  "{0} 외 {1}개" : {
+    "en" : "{1} item(s) added to {0}",
+    "ja" : "{0}以外{1}個",
+    "vi" : "{1} ngoại trừ {0}",
+    "zh" : "{0} 外 {1}个"
+  },
+  "선택옵션" : {
+    "en" : "Select Options",
+    "ja" : "選択オプション",
+    "vi" : "tùy chọn",
+    "zh" : "选择选项"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "đóng",
+    "zh" : "关闭"
+  },
+  "수정하였습니다." : {
+    "en" : "Modified successfully.",
+    "ja" : "修正しました。",
+    "vi" : "Đã sửa",
+    "zh" : "已修改。"
+  },
+  "결재자" : {
+    "en" : "Approver",
+    "ja" : "決裁者",
+    "vi" : "Người phê duyệt",
+    "zh" : "决裁者"
+  },
+  "상위로" : {
+    "en" : "To the top",
+    "ja" : "TOPへ",
+    "vi" : "Về đầu trang",
+    "zh" : "向上位"
+  },
+  "기록물철 변경이력" : {
+    "en" : "Record Binder Transfer History",
+    "ja" : "記録バインダー変更履歴",
+    "vi" : "Lịch sử thay đổi kho lưu trữ",
+    "zh" : "输入档案册变更"
+  },
+  "처리툴 박스" : {
+    "en" : "Processing Toolbox",
+    "ja" : "処理ツールBox",
+    "vi" : "Hộp công cụ xử lý",
+    "zh" : "处理工具箱"
+  },
+  "비밀번호" : {
+    "en" : "Password",
+    "ja" : "パスワード",
+    "vi" : "Mật khẩu",
+    "zh" : "密码"
+  },
+  "편철량 : 100~999999999 입력" : {
+    "en" : "Filing volume: Enter between 100 and 999999999",
+    "ja" : "編綴量 : 100~999999999 入力",
+    "vi" : "Số lượng hồ sơ: Nhập từ 100 đến 999999999",
+    "zh" : "装订量：请输入 100~999999999 之间"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "キャンセル",
+    "vi" : "hủy bỏ",
+    "zh" : "取消"
+  },
+  "변경후" : {
+    "en" : "After Change",
+    "ja" : "変更後",
+    "vi" : "sau khi thay đổi",
+    "zh" : "变更后"
+  },
+  "인계취소" : {
+    "en" : "Cancel Transfer",
+    "ja" : "引継ぎキャンセル",
+    "vi" : "Hủy bàn giao",
+    "zh" : "移交取消"
+  },
+  "분리" : {
+    "en" : "Separate",
+    "ja" : "分離",
+    "vi" : "Phân loại",
+    "zh" : "分开"
+  },
+  "기록물철 수정" : {
+    "en" : "Modify Record Binding",
+    "ja" : "記録バインダー修正",
+    "vi" : "Sửa kho lưu trữ",
+    "zh" : "档案册修改"
+  },
+  "분리등록" : {
+    "en" : "Separate Registration",
+    "ja" : "分離登録",
+    "vi" : "Đăng ký phân loại",
+    "zh" : "拆分登记"
+  },
+  "한글 2007이상 설치되어 있지 않습니다. 설치 해주세요." : {
+    "en" : "Hangeul 2007 or later isn't installed. Please install it first.",
+    "ja" : "ハングル2007バージョン以上がインストールされていません。インストールしてください。",
+    "vi" : "Bạn chưa cài đặt Hancom phiên bản 2007 trở lên. Vui lòng cài đặt.",
+    "zh" : "本设备未安装韩文2007程序。请进行安装。"
+  },
+  "기록물철제목" : {
+    "en" : "Record Binder Title",
+    "ja" : "記録バインダーのタイトル",
+    "vi" : "Tên kho lưu trữ",
+    "zh" : "文档册标题"
+  },
+  "권한 시작 날짜를 입력해주세요" : {
+    "en" : "Please enter the start date of authority",
+    "ja" : "権限開始日を入力してください",
+    "vi" : "Vui lòng nhập ngày bắt đầu của quyền hạn",
+    "zh" : "请输入权限起始日期"
+  },
+  "다운로드 할 수 있는 문서가 존재하지 않습니다." : {
+    "en" : "No download document available.",
+    "ja" : "ダウンロードできる文書が存在しません。",
+    "vi" : "Không có tài liệu nào có thể tải xuống.",
+    "zh" : "无可下载文件。"
+  },
+  "비치종결일자 : 1900-01-01 ~ 9999-12-31 입력" : {
+    "en" : "Placement completion date: Enter between 1900-01-01 and 9999-12-31",
+    "ja" : "配置終了日付 : 1900-01-01 ~ 9999-12-31 入力",
+    "vi" : "Ngày kết thúc lưu trữ: Nhập từ 1900-01-01 đến 9999-12-31",
+    "zh" : "保管截止日期：请输入 1900-01-01 ~ 9999-12-31 之间"
+  },
+  "분류 이동" : {
+    "en" : "Move Category",
+    "ja" : "カテゴリ移動",
+    "vi" : "Di chuyển phân loại",
+    "zh" : "分类移动"
+  },
+  "미개발된 기능입니다." : {
+    "en" : "This function is not developed yet.",
+    "ja" : "未開発の機能です。",
+    "vi" : "Đây là một tính năng chưa được phát triển.",
+    "zh" : "未开发的功能。"
+  },
+  "기록물이 이동되었습니다." : {
+    "en" : "The record has been moved.",
+    "ja" : "記録物が移動されました。",
+    "vi" : "Hồ sơ  đã được di chuyển",
+    "zh" : "档案已移动。"
+  },
+  "열람 제한 설정" : {
+    "en" : "Access Restriction Settings",
+    "ja" : "閲覧制限設定",
+    "vi" : "Đặt hạn chế xem",
+    "zh" : "设置阅览限制"
+  },
+  "철 복사" : {
+    "en" : "Copy File",
+    "ja" : "ファイルコピー",
+    "vi" : "Sao chép hồ sơ",
+    "zh" : "文件夹复制"
+  },
+  "변경 내역" : {
+    "en" : "Modification History (Details)",
+    "ja" : "変更内訳",
+    "vi" : "Lịch sử thay đổi",
+    "zh" : "变更明细"
+  },
+  "종료연도를 입력하세요." : {
+    "en" : "Please enter end year.",
+    "ja" : "終了年度を入力してください。",
+    "vi" : "Hãy nhập năm kết thúc",
+    "zh" : "请输入结束年度。"
+  },
+  "기록물철이 없습니다." : {
+    "en" : "There are no folders.",
+    "ja" : "記録バインダーがありません。",
+    "vi" : "Không có kho lưu trữ",
+    "zh" : "没有档案夹 。"
+  },
+  "이미 존재하는 분류입니다." : {
+    "en" : "The category already exists.",
+    "ja" : "既に存在するカテゴリです。",
+    "vi" : "Phân loại đã tồn tại từ trước",
+    "zh" : "已存在的分类。"
+  },
+  "선택 기록물철을" : {
+    "en" : "The selected record binder",
+    "ja" : "選択した記録バインダーを",
+    "vi" : "Chịn kho lưu trữ",
+    "zh" : "选择档案册"
+  },
+  "대분류를 100자 이하로 입력해주세요" : {
+    "en" : "Please enter the major category in 100 characters or less",
+    "ja" : "大分類を100文字以下で入力してください",
+    "vi" : "Vui lòng nhập danh mục chính trong khoảng 100 ký tự",
+    "zh" : "请输入 100 字以内的分类标准"
+  },
+  "비밀번호가 일치하지 않습니다." : {
+    "en" : "The password does not match.",
+    "ja" : "パスワードが一致しません。",
+    "vi" : "Mật khẩu không đúng",
+    "zh" : "密码不一致。"
+  },
+  "기록물철 관리 결재선 탭에 설정한 연도부터 올해까지 출력됩니다." : {
+    "en" : "Documents filed management approval line tab will display from the year set in the record filing management authorization tab until the current year.",
+    "ja" : "記録物綴りの管理決裁線タブに設定した年から今年まで出力されます。",
+    "vi" : "Hiển thị thông tin từ năm được cài đặt trong trang phê duyệt quản lý hồ sơ tài liệu cho đến năm hiện tại.",
+    "zh" : "档案管理审批线标签设定的年度至今年打印。"
+  },
+  "고정조회자가 삭제되었습니다." : {
+    "en" : "A regular viewer has been deleted.",
+    "ja" : "固定照会者が削除されました。",
+    "vi" : "Đã xóa người xem cố định",
+    "zh" : "已删除固定查询人。"
+  },
+  "기록관" : {
+    "en" : "Archive",
+    "ja" : "記録館",
+    "vi" : "Kho ghi chép",
+    "zh" : "记录馆"
+  },
+  "인쇄 할 기록물을 선택하세요." : {
+    "en" : "Select the record that you wish to print.",
+    "ja" : "印刷する記録物を選択してください。",
+    "vi" : "Hãy chọn hồ sơ sẽ in",
+    "zh" : "请选择要打印的档案。"
+  },
+  "제1특수목록" : {
+    "en" : "1st Special List",
+    "ja" : "第１特殊リスト",
+    "vi" : "Danh sách đặc biệt 1",
+    "zh" : "第1特殊目录"
+  },
+  "생산부서" : {
+    "en" : "Production Department",
+    "ja" : "生産部署",
+    "vi" : "Bộ phận sản xuất",
+    "zh" : "生产部门"
+  },
+  "기록물관리" : {
+    "en" : "Manage Records",
+    "ja" : "記録物管理",
+    "vi" : "Quản lý hồ sơ",
+    "zh" : "档案管理"
+  },
+  "편철확정처리" : {
+    "en" : "Confirm Binding",
+    "ja" : "ファイリング確定処理",
+    "vi" : "Xử lý xác nhận",
+    "zh" : "编册确定处理"
+  },
+  "단위업무명을 입력하세요." : {
+    "en" : "Please enter unit task name.",
+    "ja" : "単位業務名を入力してください。",
+    "vi" : "Hãy nhập tên tác vụ đơn vị",
+    "zh" : "请输入单位业务名。"
+  },
+  "생산등록번호" : {
+    "en" : "Production Registration Number",
+    "ja" : "生産登録番号",
+    "vi" : "Số đăng ký sản xuất",
+    "zh" : "生产登录号码"
+  },
+  "기록물철 뒷 문자 설정에 삭제 문자에 '2024' 입력, 추가문자에 '2025' 입력" : {
+    "en" : "Enter '2024' in the delete character field for the record file's ending character setting, and enter '2025' in the add character field.",
+    "ja" : "記録物ファイル後ろ文字設定で削除文字に '2024' 入力、追加文字に '2025' 入力",
+    "vi" : "Trong cài đặt ký tự sau hồ sơ, nhập '2024' vào xóa ký tự và '2025' vào thêm ký tự.",
+    "zh" : "在记录文件夹后的文字设置中，在删除文字中输入“2024”，在其他文字中输入“2025”"
+  },
+  "콤마(,)로 구분하여 입력하세요." : {
+    "en" : "Enter by using a comma (,) to separate.",
+    "ja" : "コンマ(，)で区分して入力してください。",
+    "vi" : "Nhập và phân loại bằng dấu phẩy.",
+    "zh" : "请用逗号（，）分开输入。"
+  },
+  "공유" : {
+    "en" : "Share",
+    "ja" : "共有する",
+    "vi" : "Chia sẻ",
+    "zh" : "共有"
+  },
+  "발송현황" : {
+    "en" : "Send Status",
+    "ja" : "発送状況",
+    "vi" : "Tình trạng gửi",
+    "zh" : "发送现况"
+  },
+  "오류 내용" : {
+    "en" : "Error details",
+    "ja" : "エラー内容",
+    "vi" : "Nội dung lỗi",
+    "zh" : "错误内容"
+  },
+  "단위업무에 속한 기록물철의 순서를 변경합니다." : {
+    "en" : "Change the order of record binders that belong to the unit task.",
+    "ja" : "単位業務に属する記録バインダーの順序を変更します。",
+    "vi" : "Thay đổi thứ tự kho lưu trữ thuộc tác vụ đơn vị",
+    "zh" : "变更属于单位业务的档案册顺序。"
+  },
+  "생성일" : {
+    "en" : "Creation Date",
+    "ja" : "生成日",
+    "vi" : "Ngày sản xuất",
+    "zh" : "生成日期"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa đổi",
+    "zh" : "修改"
+  },
+  "분리 등록번호" : {
+    "en" : "Separate Registration Number",
+    "ja" : "分離登録番号",
+    "vi" : "Số đăng ký phân loại",
+    "zh" : "拆分登记编号"
+  },
+  "결재" : {
+    "en" : "Approval",
+    "ja" : "決裁",
+    "vi" : "Phê duyệt",
+    "zh" : "审批"
+  },
+  "{0}처리" : {
+    "en" : "{0} Process",
+    "ja" : "{0}処理",
+    "vi" : "Xử lý {0}",
+    "zh" : "{0} 处理"
+  },
+  "단위업무를 선택하세요." : {
+    "en" : "Select unit task.",
+    "ja" : "単独業務を選択してください。",
+    "vi" : "Hãy chọn tác vụ đơn vị",
+    "zh" : "请选择单位业务。"
+  },
+  "이번주" : {
+    "en" : "This week",
+    "ja" : "今週",
+    "vi" : "Tuần này",
+    "zh" : "这个星期"
+  },
+  "선택한 단위업무를 삭제하시겠습니까?" : {
+    "en" : "Would you like to delete the selected unit task?",
+    "ja" : "選択した単位業務を削除しますか？",
+    "vi" : "Bạn có muốn xóa tác vụ đơn vị đã chọn",
+    "zh" : "要删除已选单位业务吗?"
+  },
+  "선택된 단위업무가 없습니다. 다시 시도해 주세요." : {
+    "en" : "There is no selected unit task. Please try again.",
+    "ja" : "選択した単位業務がありません。再度お試しください。",
+    "vi" : "Không có tác vụ đơn vị được chọn. Hãy thử lại",
+    "zh" : "无选择的单位业务。 请再试。"
+  },
+  "처리과 코드" : {
+    "en" : "Processing Department Code",
+    "ja" : "処理課コード",
+    "vi" : "Mã code và xử lý",
+    "zh" : "处理科代码"
+  },
+  "날인수" : {
+    "en" : "Seal count",
+    "ja" : "捺印数",
+    "vi" : "Số đóng dấu",
+    "zh" : "盖章数"
+  },
+  "곳" : {
+    "en" : "Location",
+    "ja" : "場所",
+    "vi" : "Địa điểm",
+    "zh" : "处"
+  },
+  "특수목록 위치를 입력해주세요." : {
+    "en" : "Please input the location of the special list.",
+    "ja" : "特殊リストの場所を入力してください。",
+    "vi" : "Vui lòng nhập vị trí của danh sách đặc biệt.",
+    "zh" : "请输入特殊目录位置。"
+  },
+  "기록물철 추가" : {
+    "en" : "Add record binder",
+    "ja" : "記録バインダー追加",
+    "vi" : "Them khô lưu trữ",
+    "zh" : "追加纪录物束"
+  },
+  "기능분류만 순서 변경이 가능합니다." : {
+    "en" : "You can only change the order of function categories.",
+    "ja" : "機能カテゴリのみ順序変更できます。",
+    "vi" : "Chỉ có thể thay đổi thứ tự phân loại kỹ năng",
+    "zh" : "只有功能分类可变更顺序。"
+  },
+  "기록물철 일괄 등록 실패 파일" : {
+    "en" : "Batch registration failure file for record files",
+    "ja" : "記録物ファイル 一括登録失敗ファイル",
+    "vi" : "Tệp đăng ký hàng loạt hồ sơ không thành công",
+    "zh" : "记录文件夹批量注册失败文件"
+  },
+  "단위업무코드를 입력하세요." : {
+    "en" : "Please enter unit task code.",
+    "ja" : "単位業務コードを入力してください。",
+    "vi" : "Hãy nhập mã code tác vụ đơn vị",
+    "zh" : "请输入单位业务编码。"
+  },
+  "발송기관" : {
+    "en" : "Sender (Institution)",
+    "ja" : "発送機関",
+    "vi" : "Cơ quan gửi",
+    "zh" : "发送机构"
+  },
+  "해당사항 없음" : {
+    "en" : "N/A",
+    "ja" : "該当事項なし",
+    "vi" : "Không có hạng mục",
+    "zh" : "无有关事项"
+  },
+  "고정 조회자가 없습니다." : {
+    "en" : "There are no regular viewers.",
+    "ja" : "固定照会者がいません。",
+    "vi" : "Không có người xem cố định.",
+    "zh" : "无固定查询者。"
+  },
+  "이관취소" : {
+    "en" : "Cancel Transfer",
+    "ja" : "移管キャンセル",
+    "vi" : "Hủy chuyển giao",
+    "zh" : "取消移管"
+  },
+  "결재선 탭에서 보여지는 초기 연도 설정" : {
+    "en" : "Initial year setting displayed in the approval line tab.",
+    "ja" : "結線タブで表示される初期年の設定",
+    "vi" : "Cài đặt năm ban đầu hiển thị trong trang phê duyệt.",
+    "zh" : "在审批线标签中显示的初始年份设置"
+  },
+  "기록물철 선택" : {
+    "en" : "Select Record Binder.",
+    "ja" : "記録バインダー選択",
+    "vi" : "Chọn kho lưu trữ",
+    "zh" : "选择档案册"
+  },
+  "생산문서" : {
+    "en" : "Production Document",
+    "ja" : "生産文書",
+    "vi" : "Tài liệu sản xuất",
+    "zh" : "生产文件"
+  },
+  "기록물철 위치를 수정하시겠습니까?" : {
+    "en" : "Would you like to modify the location of the record binder?",
+    "ja" : "記録バインダーの位置を修正しますか？",
+    "vi" : "Bạn có muốn sửa vị trí kho lưu trữ",
+    "zh" : "要修改档案册位置吗?"
+  },
+  "열람 권한이 없습니다." : {
+    "en" : "You are not authorized to review it.",
+    "ja" : "閲覧権限がありません。",
+    "vi" : "Không có quyền hạn đọc.",
+    "zh" : "没有阅览权限"
+  },
+  "등록 구분" : {
+    "en" : "Registration Classification",
+    "ja" : "登録区分",
+    "vi" : "Phân loại đăng ký",
+    "zh" : "登记分类"
+  },
+  "한글 실행기가 설치되지 않았거나 한글 실행기 호출 시 오류가 발생하였습니다." : {
+    "en" : "Hangul launcher is not installed or there was an error while loading Hangul launcher.",
+    "ja" : "ハングルフォントがインストールされていないか、ハングルフォントを読み込む時にエラーが発生しました。",
+    "vi" : "Ứng dụng kích hoạt tiếng Hàn chưa được cài đặt hoặc có lỗi khi kích hoạt ứng dụng tiếng Hàn.",
+    "zh" : "没有设置韩语实行器或实行韩语实行器时产生错误。"
+  },
+  "올바른 생산연도를 입력하세요." : {
+    "en" : "Enter the correct start year.",
+    "ja" : "正確な生産年度を入力してください。",
+    "vi" : "Hãy nhập năm sản xuất chính xác.",
+    "zh" : "请输入正确的生产年份。"
+  },
+  "결재선" : {
+    "en" : "Line of Approval",
+    "ja" : "決裁ライン",
+    "vi" : "Luồng phê duyệt",
+    "zh" : "决裁线"
+  },
+  "기록물철 단위업무 이동" : {
+    "en" : "Record Binder Unit Task Move",
+    "ja" : "記録バインダーを単位業務に移動",
+    "vi" : "Chuyển tác vuh đơn vị kho lưu trữ",
+    "zh" : "转移档案册文件单位业务"
+  },
+  "검색결과" : {
+    "en" : "search results",
+    "ja" : "検索結果",
+    "vi" : "Kết quả tìm kiếm",
+    "zh" : "搜索结果"
+  },
+  "편철량을 입력하세요." : {
+    "en" : "Please enter binded amount.",
+    "ja" : "ファイリング量を入力してください。",
+    "vi" : "Nhập số lượng mảnh.",
+    "zh" : "请输入编册量。"
+  },
+  "중간" : {
+    "en" : "Medium",
+    "ja" : "中間",
+    "vi" : "Giữa",
+    "zh" : "中"
+  },
+  "해지일" : {
+    "en" : "Date of Cancellation",
+    "ja" : "解除日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "解除日期"
+  },
+  "관리자 설정" : {
+    "en" : "Administrator settings",
+    "ja" : "管理者設定",
+    "vi" : "Cài đặt quản trị viên",
+    "zh" : "设定管理者"
+  },
+  "단위업무를 입력하세요." : {
+    "en" : "Enter unit task.",
+    "ja" : "単位業務を入力してください。",
+    "vi" : "Nhập tác vụ đơn vị",
+    "zh" : "请输入单位业务。"
+  },
+  "대장출력" : {
+    "en" : "Print Ledger",
+    "ja" : "台帳出力",
+    "vi" : "In sổ sách",
+    "zh" : "账本打印"
+  },
+  "날인일" : {
+    "en" : "Date sealed",
+    "ja" : "捺印日",
+    "vi" : "Ngày đóng dấu",
+    "zh" : "盖章日期"
+  },
+  "소관부서" : {
+    "en" : "Responsible Department",
+    "ja" : "所管部署",
+    "vi" : "Bộ phận phụ trách",
+    "zh" : "所管部门"
+  },
+  "기안" : {
+    "en" : "Draft",
+    "ja" : "起案",
+    "vi" : "soạn thảo",
+    "zh" : "起草"
+  },
+  "기록물 형태를 선택하세요." : {
+    "en" : "Select record type.",
+    "ja" : "記録物タイプを選択してください。",
+    "vi" : "Hãy chọn loại hình hồ sơ",
+    "zh" : "请选择档案形态。"
+  },
+  "사용자 선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "발송" : {
+    "en" : "Send",
+    "ja" : "発送",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "원문보기" : {
+    "en" : "View original text",
+    "ja" : "原文表示",
+    "vi" : "Xem bản gốc",
+    "zh" : "看原文"
+  },
+  "내용을 입력하세요." : {
+    "en" : "Please enter content.",
+    "ja" : "内容を入力してください。",
+    "vi" : "Hãy nhập nội dung",
+    "zh" : "请输入内容。"
+  },
+  "기관명" : {
+    "en" : "Institution name",
+    "ja" : "機関名",
+    "vi" : "Tên tổ chức",
+    "zh" : "企管名"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "날인자" : {
+    "en" : "Sealer",
+    "ja" : "捺印者",
+    "vi" : "Người đóng dấu",
+    "zh" : "盖章人"
+  },
+  "기본검색" : {
+    "en" : "Search",
+    "ja" : "基本検索",
+    "vi" : "Tìm kiếm cơ bản",
+    "zh" : "基本搜索"
+  },
+  "검색 조건을 추가해주세요." : {
+    "en" : "Please add a search condition.",
+    "ja" : "検索条件を追加してください。",
+    "vi" : "Hãy thêm điều kiện tìm kiếm",
+    "zh" : "请添加搜索条件。"
+  },
+  "안읽은 문서" : {
+    "en" : "Unread document",
+    "ja" : "未読文書",
+    "vi" : "Tài liệu chưa đọc",
+    "zh" : "没读的文件"
+  },
+  "인계완료" : {
+    "en" : "Transfer (Handover) Complete",
+    "ja" : "引継ぎ完了",
+    "vi" : "Hoành thành bàn giao",
+    "zh" : "移交完成"
+  },
+  "검색어를 입력하세요." : {
+    "en" : "Enter search keyword.",
+    "ja" : "検索ワードを入力してください。",
+    "vi" : "Hãy nhập từ tìm kiếm",
+    "zh" : "请输入关键词。"
+  },
+  "기록물철명을 입력하세요." : {
+    "en" : "Enter Record Binder Name.",
+    "ja" : "記録バインダー名を入力してください。",
+    "vi" : "Hãy nhập tên kho lưu trữ",
+    "zh" : "请输入档案册名。"
+  },
+  "붙임" : {
+    "en" : "Attach",
+    "ja" : "貼り付け",
+    "vi" : "Dán",
+    "zh" : "贴上"
+  },
+  "삭제하였습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đã xóa",
+    "zh" : "删除完了。"
+  },
+  "단위업무명" : {
+    "en" : "Unit Task Name",
+    "ja" : "単位業務名",
+    "vi" : "Tên tác vụ đơn vị",
+    "zh" : "单位业务名"
+  },
+  "사유를 입력하세요." : {
+    "en" : "Please enter the same reason.",
+    "ja" : "事由を入力してください。",
+    "vi" : "Vui lòng nhập lý do.",
+    "zh" : "请输入理由。"
+  },
+  "인계 의견" : {
+    "en" : "Transfer Opinion",
+    "ja" : "引継ぎ意見",
+    "vi" : "Ý kiến bản giao",
+    "zh" : "移交意见"
+  },
+  "검색식" : {
+    "en" : "Search Formula",
+    "ja" : "検索式",
+    "vi" : "Cách thức tìm kiếm",
+    "zh" : "搜索式"
+  },
+  "단위업무 코드" : {
+    "en" : "Unit Task Code",
+    "ja" : "単位業務コード",
+    "vi" : "Mã code tác vụ đơn vị",
+    "zh" : "单位业务编码"
+  },
+  "등록구분" : {
+    "en" : "Registration Classification",
+    "ja" : "登録区分",
+    "vi" : "Phân loại đăng ký",
+    "zh" : "登记分类"
+  },
+  "생산연도에 종료연도 같거나 작은 값을 입력하세요." : {
+    "en" : "Enter a value equal to or less than the end year for the start year.",
+    "ja" : "生産年度には終了年度と同一か、または小さい値を入力してください。",
+    "vi" : "Hãy nhập năm sản xuất nhỏ hơn hoặc bằng năm kết thúc.",
+    "zh" : "在输入生产年份时，数值需大于或等于终结年份。"
+  },
+  "소분류 까지 선택해주세요." : {
+    "en" : "Please select up to the small category.",
+    "ja" : "小カテゴリまで選択してください。",
+    "vi" : "Hãy chọn đến phân loại nhỏ",
+    "zh" : "请选择小分类。"
+  },
+  "권한 대상을 선택해주세요" : {
+    "en" : "Please select the target of authority",
+    "ja" : "権限の対象を選択してください",
+    "vi" : "Vui lòng chọn đối tượng của quyền hạn.",
+    "zh" : "请选择权限对象"
+  },
+  "발송구분" : {
+    "en" : "Classify a dispatch",
+    "ja" : "送信区分",
+    "vi" : "Phân loại gửi đi",
+    "zh" : "发送区分"
+  },
+  "{0}의 시작일자를 선택해 주세요." : {
+    "en" : "Select the start date of {0}.",
+    "ja" : "{0}の開始日を選択してください。",
+    "vi" : "Vui lòng chọn ngày bắt đầu của {0}",
+    "zh" : "请选择{0}的起始日期。"
+  },
+  "비치여부" : {
+    "en" : "Furnished?",
+    "ja" : "備置可否",
+    "vi" : "Cung cấp hay không",
+    "zh" : "是否备份"
+  },
+  "검토" : {
+    "en" : "Review",
+    "ja" : "検討",
+    "vi" : "Kiểm tra",
+    "zh" : "检讨"
+  },
+  "인수완료" : {
+    "en" : "Takeover (Complete)",
+    "ja" : "引受け完了",
+    "vi" : "Hoàn thành tiếp nhận",
+    "zh" : "移交完成"
+  },
+  "기록물등록대장" : {
+    "en" : "Record Registration Ledger",
+    "ja" : "記録物登録対象",
+    "vi" : "Sổ sách Đăng ky hồ sơ",
+    "zh" : "档案登录账本"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người thêm",
+    "zh" : "登录者"
+  },
+  "비치기록물 여부가 잘못된 문구입니다." : {
+    "en" : "Invalid entry for whether it's an archived record.",
+    "ja" : "ビーチ記録物かどうかが間違った文句です。",
+    "vi" : "Mục nhập không hợp lệ cho việc xác nhận hồ sơ lưu trữ.",
+    "zh" : "是否是透记录物是错误的句子。"
+  },
+  "보존기간" : {
+    "en" : "Retention Period",
+    "ja" : "保存期間",
+    "vi" : "Thời gian lưu giữ",
+    "zh" : "保存期限"
+  },
+  "기록물철 뒤 문자 설정" : {
+    "en" : "Set characters after record file",
+    "ja" : "記録物ファイル後ろ文字設定",
+    "vi" : "Cài đặt ký tự sau của hồ sơ",
+    "zh" : "记录文件夹后文字设置"
+  },
+  "처리과 미선택 시 모든 처리과에 일괄로 등록합니다." : {
+    "en" : "If no processing department is selected, it will be registered in bulk to all processing departments.",
+    "ja" : "処理課未選択時、すべての処理課に一括で登録します。",
+    "vi" : "Nếu không chọn bộ phận xử lý, sẽ đăng ký hàng loạt vào tất cả các bộ phận xử lý.",
+    "zh" : "如果未选择处理科，则批量注册到所有处理科。"
+  },
+  "기록물철 정보" : {
+    "en" : "Record Binder Information",
+    "ja" : "記録バインダー情報",
+    "vi" : "Thông tin kho lưu trữ",
+    "zh" : "档案册信息"
+  },
+  "기록물철 등록부" : {
+    "en" : "Record Binder Registration Document",
+    "ja" : "記録バインダーの登録部",
+    "vi" : "Sổ đăng ký hồ sơ",
+    "zh" : "档案册登记簿"
+  },
+  "처리과의 기록물철을 엑셀로 일괄 등록합니다." : {
+    "en" : "Batch register the record files of the processing department into Excel.",
+    "ja" : "処理課の記録物ファイルをExcelで一括登録します。",
+    "vi" : "Thêm hàng loạt hồ sơ của bộ phận xử lý vào Excel.",
+    "zh" : "用Excel 格式批量注册处理科的记录文件夹。"
+  },
+  "모든기록물" : {
+    "en" : "All Records",
+    "ja" : "全ての記録物",
+    "vi" : "Tất cả hồ sơ",
+    "zh" : "全部档案"
+  },
+  "인계중" : {
+    "en" : "Transfer in Progress",
+    "ja" : "引継ぎ中",
+    "vi" : "Đang bàn giao",
+    "zh" : "移交中"
+  },
+  "기본 정보" : {
+    "en" : "Basic Information",
+    "ja" : "基本情報",
+    "vi" : "Thông tin cơ bản",
+    "zh" : "基本信息"
+  },
+  "접수사항" : {
+    "en" : "Submitted",
+    "ja" : "受付事項",
+    "vi" : "Thông tin ứng dụng",
+    "zh" : "接收事项"
+  },
+  "인수대기" : {
+    "en" : "Takeover (Waiting)",
+    "ja" : "引受け待機",
+    "vi" : "Đang chờ tiếp nhận",
+    "zh" : "移交等待中"
+  },
+  "기록물 분리등록" : {
+    "en" : "Separate Registration (Records)",
+    "ja" : "記録物分離登録",
+    "vi" : "Đăng ký phân loại hồ sơ",
+    "zh" : "档案拆分登记"
+  },
+  "모두펼침" : {
+    "en" : "Expand all",
+    "ja" : "全て開く",
+    "vi" : "Mở tất cả",
+    "zh" : "全部打开"
+  },
+  "추가설정" : {
+    "en" : "Additional settings",
+    "ja" : "追加設定",
+    "vi" : "Cài đặt bổ sung",
+    "zh" : "附加设置"
+  },
+  "샘플 파일을 작성해서 업로드 해주세요." : {
+    "en" : "Please create and upload a sample file.",
+    "ja" : "サンプルファイルを作成してアップロードしてください。",
+    "vi" : "Vui lòng tạo và tải lên một tệp mẫu.",
+    "zh" : "请创建样本文件并上传。"
+  },
+  "시행일자" : {
+    "en" : "Effective Date (Enforcement Date)",
+    "ja" : "施行日付",
+    "vi" : "Ngày có hiệu lực",
+    "zh" : "实行日子"
+  },
+  "기록물철 상태가 변경되었습니다." : {
+    "en" : "The status of the record binder has been changed.",
+    "ja" : "記録バインダーの状態が変更されました。",
+    "vi" : "Trạng thái hồ sơ  đã được thay đổi",
+    "zh" : "档案册状态已变更。"
+  },
+  "열람정보" : {
+    "en" : "Viewing information",
+    "ja" : "閲覧情報",
+    "vi" : "Thông tin xem",
+    "zh" : "阅读信息"
+  },
+  "인쇄" : {
+    "en" : "Print",
+    "ja" : "印刷",
+    "vi" : "in",
+    "zh" : "打印"
+  },
+  "이관 부서" : {
+    "en" : "Transferred Department",
+    "ja" : "移管部署",
+    "vi" : "Bộ phận chuyển giao",
+    "zh" : "移管部门"
+  },
+  "업무부서" : {
+    "en" : "Task Department",
+    "ja" : "業務部署",
+    "vi" : "Bộ phận tác vụ",
+    "zh" : "业务部门"
+  },
+  "* 이미 추가된 사용자 입니다." : {
+    "en" : "* The user has already been added.",
+    "ja" : "*既に追加されているユーザーです。",
+    "vi" : "* Người dùng đã được thêm từ trước.",
+    "zh" : "* 已添加的用户 。"
+  },
+  "본문" : {
+    "en" : "Body",
+    "ja" : "本文",
+    "vi" : "Nội dung chính",
+    "zh" : "正文"
+  },
+  "변경내용" : {
+    "en" : "Changes made",
+    "ja" : "変更理由",
+    "vi" : "Nội dung thay đổi",
+    "zh" : "变更内容"
+  },
+  "복사했습니다." : {
+    "en" : "Copied.",
+    "ja" : "コピーしました",
+    "vi" : "Đã sao chép",
+    "zh" : "已复制。"
+  },
+  "검색조건" : {
+    "en" : "Search Conditions",
+    "ja" : "検索条件",
+    "vi" : "Điều kiện tìm kiếm",
+    "zh" : "搜索条件"
+  },
+  "목록 전체 PC저장" : {
+    "en" : "All List Save to PC",
+    "ja" : "リスト全体をPCに保存",
+    "vi" : "Lưu vào PC toàn bộ danh sách",
+    "zh" : "将全体目录保存于PC"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "기안부서를 입력하세요." : {
+    "en" : "Enter the department of the drafter.",
+    "ja" : "起案部署を入力してください。",
+    "vi" : "Hãy nhập bộ phận phác thảo.",
+    "zh" : "请输入起案单位。"
+  },
+  "보존방법이 빈 값입니다." : {
+    "en" : "Preservation method is empty.",
+    "ja" : "保存方法は空の値です。",
+    "vi" : "Phương pháp bảo tồn trống.",
+    "zh" : "保存方法为空值。"
+  },
+  "고유번호" : {
+    "en" : "Unique number",
+    "ja" : "固有番号",
+    "vi" : "Số riêng",
+    "zh" : "固有编号"
+  },
+  "종류" : {
+    "en" : "Type",
+    "ja" : "種類",
+    "vi" : "Các loại",
+    "zh" : "种类"
+  },
+  "검색식명을 입력하세요." : {
+    "en" : "Enter a search formula name.",
+    "ja" : "検索式名を入力してください。",
+    "vi" : "Hãy nhập tên cách tìm kiếm",
+    "zh" : "请输入搜索式名。"
+  },
+  "영문, 한글, 숫자만을 입력하세요." : {
+    "en" : "Only enter English, Korean, and numbers.",
+    "ja" : "英語、ハングル、数字のみ入力してください。",
+    "vi" : "Chỉ nhập tiếng Anh, tiếng Hàn, chữ số",
+    "zh" : "请只输入英文，韩文或数字。"
+  },
+  "반려여부" : {
+    "en" : "Rejection Status",
+    "ja" : "差戻し可否",
+    "vi" : "Người trả lại",
+    "zh" : "是否退回"
+  },
+  "정보수정" : {
+    "en" : "Modify Information",
+    "ja" : "情報修正",
+    "vi" : "Sửa thông tin",
+    "zh" : "信息修改"
+  },
+  "공개 기록물" : {
+    "en" : "Public (Open) Records",
+    "ja" : "公開記録物",
+    "vi" : "Hồ sơ công khai",
+    "zh" : "公共档案"
+  },
+  "기록물 조회" : {
+    "en" : "Record retrieval",
+    "ja" : "記録物照会",
+    "vi" : "Truy xuất hồ sơ",
+    "zh" : "档案查询"
+  },
+  "하위에 기록물이 존재하는 기록물철이 있습니다." : {
+    "en" : "There is a record binder with a record under it.",
+    "ja" : "下位に記録物が存在する記録バインダーがあります。",
+    "vi" : "Có kho lưu trữ tồn tại hồ sơ ở dưới",
+    "zh" : "下位的档案有已存在的档案册。"
+  },
+  "기록물철을 이동할 단위업무를 선택하세요." : {
+    "en" : "Select the unit task where the record binders will be moved.",
+    "ja" : "記録バインダーを移動する単位業務を選択してください。",
+    "vi" : "Chọn tác vụ đơn vị để di chuyển kho lưu trữ.",
+    "zh" : "请选择将移动的档案册的单位业务。"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "결재 정보" : {
+    "en" : "Approval Information",
+    "ja" : "決裁情報",
+    "vi" : "Thông tin phê duyệt",
+    "zh" : "审批信息"
+  },
+  "변경전" : {
+    "en" : "Before Change",
+    "ja" : "変更前",
+    "vi" : "Trước khi thay đổi",
+    "zh" : "变更前"
+  },
+  "형태" : {
+    "en" : "Form",
+    "ja" : "形態",
+    "vi" : "Hình thức",
+    "zh" : "形态"
+  },
+  "기록물철을 선택하세요." : {
+    "en" : "Please select a record binder.",
+    "ja" : "記録バインダーを選択してください。",
+    "vi" : "Hãy chọn kho lưu trữ",
+    "zh" : "请选择档案册。"
+  },
+  "분류명, 단위업무명" : {
+    "en" : "Category Name, Unit Task Name",
+    "ja" : "カテゴリ名、単位業務名",
+    "vi" : "Tên tác vụ đơn vị, tên phân loại",
+    "zh" : "分类名, 单位业务名"
+  },
+  "조회된 내용이 없습니다." : {
+    "en" : "No content has been browsed.",
+    "ja" : "照会された内容がありません。",
+    "vi" : "Không có nội dung được xem",
+    "zh" : "查询的内容不存在。"
+  },
+  "특수기록물" : {
+    "en" : "Special Record",
+    "ja" : "特殊記録物",
+    "vi" : "Hồ sơ đặc biệt",
+    "zh" : "特殊档案"
+  },
+  "이관중" : {
+    "en" : "Transfer (In Progress)",
+    "ja" : "移管中",
+    "vi" : "Đang chuyển giao",
+    "zh" : "移交中"
+  },
+  "열람 정보" : {
+    "en" : "Browsing (View) Information)",
+    "ja" : "閲覧情報",
+    "vi" : "Thông tin xem",
+    "zh" : "阅览信息"
+  },
+  "담당자 선택" : {
+    "en" : "Select person in charge",
+    "ja" : "担当者選択",
+    "vi" : "Chọn người phụ trách",
+    "zh" : "选择负责人"
+  },
+  "미리보기 화면은 원본과 다를 수 있으며, 원문보기 버튼으로 확인해주세요." : {
+    "en" : "The preview screen may be different from the orginal. Please view using the \\\"View Original\\\" button.",
+    "ja" : "プレビュー画面は原本と異なる場合があり、「原文を見る」ボタンをクリックし確認してください。",
+    "vi" : "Màn hình xem trước có thể khác so với bản gốc, vui lòng kiểm tra bằng nút xem bản gốc.",
+    "zh" : "预览页面可能与原本不同，请通过查看原本进行确认。"
+  },
+  "수신처 하나의 길이는 30자 이내입니다." : {
+    "en" : "The length of one recipient is within 30 characters.",
+    "ja" : "宛先1つの長さは30文字以内です。",
+    "vi" : "Độ dài của địa chỉ nhận dưới 30 ký tự.",
+    "zh" : "一个收件人的长度在30字以内。"
+  },
+  "의견을 입력하세요." : {
+    "en" : "Please enter your opinion.",
+    "ja" : "意見を入力してください。",
+    "vi" : "Hãy nhập ý kiến",
+    "zh" : "请输入意见。"
+  },
+  "단위업무코드, 단위업무명 : 등록된 단위업무만 선택이 가능, 단위업무명이 중복되는 경우 코드 시트에서 복사하여 단위업무코드를 직접 넣어주세요." : {
+    "en" : "Unit Task Code, Unit Task Name: Only registered unit tasks can be selected. If unit task names are duplicated, copy from the code sheet and enter the unit task code directly.",
+    "ja" : "単位業務コード、単位業務名 : 登録された単位業務のみ選択可能、単位業務名が重複する場合はコードシートからコピーして単位業務コードを直接入力してください。",
+    "vi" : "Mã đơn vị công việc, Tên đơn vị công việc: Chỉ có thể chọn đơn vị công việc đã đăng ký. Nếu tên đơn vị công việc trùng lặp, hãy sao chép từ trang tính mã và nhập trực tiếp mã đơn vị công việc.",
+    "zh" : "单位业务代码，单位业务名称：只能选择已注册的单位业务，如果单位业务名称重复，请从代码表中复制并直接填写单位业务代码。"
+  },
+  "보존장소가 잘못된 문구입니다." : {
+    "en" : "Invalid preservation location.",
+    "ja" : "保存場所が間違った文句です。",
+    "vi" : "Địa điểm bảo tồn không hợp lệ.",
+    "zh" : "保存场所错误的句子。"
+  },
+  "수정여부" : {
+    "en" : "Modification Status",
+    "ja" : "修正可否",
+    "vi" : "Sửa hay không",
+    "zh" : "修改与否"
+  },
+  "원본과 보존매체를 함께 보존하는 방법" : {
+    "en" : "Preserve the original and preserved medium at the same time.",
+    "ja" : "原本と保存媒体を一緒に保存する方法",
+    "vi" : "Phương pháp lưu giữ văn bản gốc và phương tiện lưu trữ cùng nhau",
+    "zh" : "原件和保存媒介同时保存的方法"
+  },
+  "등록" : {
+    "en" : "Register",
+    "ja" : "登録",
+    "vi" : "Đăng ký",
+    "zh" : "登录"
+  },
+  "조직도" : {
+    "en" : "Organizational chart",
+    "ja" : "組職図",
+    "vi" : "Sơ đồ tổ chức",
+    "zh" : "组织图"
+  },
+  "[{0}]은(는) 이미 존재합니다." : {
+    "en" : "[{0}] already exists.",
+    "ja" : "[{0}]は既に存在します。",
+    "vi" : "[{0}] đã tồn tại.",
+    "zh" : "[{0}]已存在。"
+  },
+  "결재함명" : {
+    "en" : "Approval Box Name",
+    "ja" : "決裁Box名",
+    "vi" : "tên hộp phê duyệt",
+    "zh" : "审批箱名"
+  },
+  "수정안함" : {
+    "en" : "Don't Modify",
+    "ja" : "修正しない",
+    "vi" : "Không sửa",
+    "zh" : "不修改"
+  },
+  "비전자기록물" : {
+    "en" : "Non-electronic Record",
+    "ja" : "非電子記録物",
+    "vi" : "Hồ sơ phi điện tử",
+    "zh" : "非电子档案"
+  },
+  "비밀번호를 동일하게 입력해주세요." : {
+    "en" : "You must enter the same password in 'Password' and 'Confirm PW'.",
+    "ja" : "パスワードを同一に入力してください。",
+    "vi" : "Hãy nhập thống nhất mật khẩu",
+    "zh" : "请输入相同的密码。"
+  },
+  "기록물 수정 사유를 입력하세요." : {
+    "en" : "Enter the reason for record modification.",
+    "ja" : "記録物修正理由を入力してください。",
+    "vi" : "Hãy nhập lý do sửa hồ sơ",
+    "zh" : "请输入档案修改理由。"
+  },
+  "관인날인대장 조회" : {
+    "en" : "Review an official seal record book",
+    "ja" : "官印捺印台帳照会",
+    "vi" : "Kiểm tra sổ kế toán đóng dấu",
+    "zh" : "官印印章查询"
+  },
+  "처리과 목록" : {
+    "en" : "Processing Department List",
+    "ja" : "処理課リスト",
+    "vi" : "Danh sách và xử lý",
+    "zh" : "处理科列表"
+  },
+  "대내" : {
+    "en" : "In-house",
+    "ja" : "対内",
+    "vi" : "Nội bộ",
+    "zh" : "对内"
+  },
+  "드롭박스에서 단위업무를 선택해주세요." : {
+    "en" : "Please select a unit task from the dropdown.",
+    "ja" : "ドロップボックスから単位業務を選択してください。",
+    "vi" : "Vui lòng chọn đơn vị công việc từ Dropbox.",
+    "zh" : "请从下拉框中选择单位业务。"
+  },
+  "저장 중입니다." : {
+    "en" : "Saving…",
+    "ja" : "保存中です。",
+    "vi" : "Đang lưu",
+    "zh" : "保存中。"
+  },
+  "파일명" : {
+    "en" : "File Name",
+    "ja" : "ファイル名",
+    "vi" : "Tên Tệp",
+    "zh" : "文件名"
+  },
+  "같은 기록물철을 선택할 수 없습니다." : {
+    "en" : "You cannot select the same record binder.",
+    "ja" : "同じ記録バインダーを選択することはできません。",
+    "vi" : "Không thể chọn cùng 1 kho lưu trữ",
+    "zh" : "无法选择相同的档案册。"
+  },
+  "관인명을 입력하세요." : {
+    "en" : "Enter the title of an official seal.",
+    "ja" : "官印名を入力してください。",
+    "vi" : "Hãy nhập tên con dấu",
+    "zh" : "请输入官印名。"
+  },
+  "{0}으로 이관" : {
+    "en" : "Transfer to {0}",
+    "ja" : "{0}に移管",
+    "vi" : "Được chuyển đến {0}",
+    "zh" : "移交至{0}"
+  },
+  "상세검색" : {
+    "en" : "Advanced search",
+    "ja" : "詳細検索",
+    "vi" : "Tìm kiếm chi tiết",
+    "zh" : "详细搜索"
+  },
+  "편철여부" : {
+    "en" : "Binded?",
+    "ja" : "ファイリング可否",
+    "vi" : "Gom lại hay không",
+    "zh" : "编册与否"
+  },
+  "복사할 수 없는 분류입니다." : {
+    "en" : "The category cannot be copied.",
+    "ja" : "コピーできないカテゴリです。",
+    "vi" : "Phân loại không thể sao chép",
+    "zh" : "无法复制的分类。"
+  },
+  "엑셀저장" : {
+    "en" : "Save as excel",
+    "ja" : "Excel保存",
+    "vi" : "Lưu Excel",
+    "zh" : "excel保存"
+  },
+  "분리번호" : {
+    "en" : "Separation Number",
+    "ja" : "分離番号",
+    "vi" : "Số phân loại",
+    "zh" : "拆分编号"
+  },
+  "관인명" : {
+    "en" : "Title of an official seal",
+    "ja" : "官印名",
+    "vi" : "Tên con dấu",
+    "zh" : "印章名"
+  },
+  "인수" : {
+    "en" : "Takeover",
+    "ja" : "引受け",
+    "vi" : "Tiếp nhận",
+    "zh" : "交接"
+  },
+  "일괄 복사" : {
+    "en" : "Batch copy",
+    "ja" : "一括コピー",
+    "vi" : "Sao chép hàng loạt",
+    "zh" : "批量复制"
+  },
+  "최종 확인" : {
+    "en" : "Last Confirmed",
+    "ja" : "最終確認",
+    "vi" : "Xác nhận cuối cùng",
+    "zh" : "最终确认"
+  },
+  "단위업무 복원" : {
+    "en" : "Restore Unit Task",
+    "ja" : "単位業務を復元",
+    "vi" : "Khôi phục tác vụ đơn vị",
+    "zh" : "单位业务复原"
+  },
+  "변경여부" : {
+    "en" : "Modification Status",
+    "ja" : "変更可否",
+    "vi" : "Có thay đổi không",
+    "zh" : "是否变更"
+  },
+  "위로" : {
+    "en" : "Up",
+    "ja" : "上へ",
+    "vi" : "Trên",
+    "zh" : "往上边"
+  },
+  "이동할 분류를 선택해 주세요." : {
+    "en" : "Select the category to move.",
+    "ja" : "移動するカテゴリを選択してください。",
+    "vi" : "Hãy chọn phân loại sẽ di chuyển",
+    "zh" : "请选择要移动的分类。"
+  },
+  "부서상태" : {
+    "en" : "Department Status",
+    "ja" : "部署状態",
+    "vi" : "Tình trạng bộ phận",
+    "zh" : "部门状态"
+  },
+  "부분공개" : {
+    "en" : "Partially Open",
+    "ja" : "部分公開",
+    "vi" : "Công khai một phần",
+    "zh" : "部分公开"
+  },
+  "필요" : {
+    "en" : "Required",
+    "ja" : "必要",
+    "vi" : "Cần thiết",
+    "zh" : "需要"
+  },
+  "기능분류만 삭제 가능합니다." : {
+    "en" : "Only select the function category.",
+    "ja" : "機能カテゴリのみ削除できます。",
+    "vi" : "Chỉ có thể xóa phân loại kỹ năng",
+    "zh" : "只有功能分类可删除。"
+  },
+  "등록일" : {
+    "en" : "Registration date",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng kí",
+    "zh" : "登录日"
+  },
+  "기능유형" : {
+    "en" : "Function Type",
+    "ja" : "機能タイプ",
+    "vi" : "Loại chức năng",
+    "zh" : "功能类型"
+  },
+  "공개" : {
+    "en" : "Show all",
+    "ja" : "公開",
+    "vi" : "Công khai",
+    "zh" : "公开"
+  },
+  "보안등급" : {
+    "en" : "Security level",
+    "ja" : "保安レベル",
+    "vi" : "Cấp độ bảo mật",
+    "zh" : "安保等级"
+  },
+  "최대 글자수를 초과 하였습니다." : {
+    "en" : "Exceeded maximum character limit.",
+    "ja" : "最大文字数を超過しました。",
+    "vi" : "Đã vượt quá số ký tự tối đa.",
+    "zh" : "超过了最多字数。"
+  },
+  "분류를 선택하세요." : {
+    "en" : "Select a category.",
+    "ja" : "カテゴリを選択してください。",
+    "vi" : "Hãy chọn danh mục",
+    "zh" : "请选择分类"
+  },
+  "비공개" : {
+    "en" : "Private",
+    "ja" : "非公開",
+    "vi" : "Không công khai",
+    "zh" : "非公开"
+  },
+  "종료 연도를 기준으로 기록물철을 복사합니다." : {
+    "en" : "Copy record files based on the end year.",
+    "ja" : "終了年度を基準に記録物ファイルをコピーします。",
+    "vi" : "Sao chép hồ sơ dựa trên năm kết thúc",
+    "zh" : "根据结束年份复制记录文件夹。"
+  },
+  "기록물철 이관" : {
+    "en" : "Transfer Record Binding",
+    "ja" : "記録バインダー移管",
+    "vi" : "Chuyển giao kho lưu trữ",
+    "zh" : "档案册移交"
+  },
+  "변경할 연도를 입력 해주세요. 입력한 값이 생산연도 미만인 철은 변경 되지 않습니다." : {
+    "en" : "Please enter the year to be changed. The production year will not be changed if the entered value is less than the production year.",
+    "ja" : "変更する年を入力してください。入力した値が生産年度未満のファイルは変更されません。",
+    "vi" : "Vui lòng nhập năm muốn thay đổi. Cụm có năm sản xuất dưới giá trị đã nhập sẽ không thay đổi.",
+    "zh" : "请输入要更改的年份。输入的值小于生产年份时不会更改。"
+  },
+  "일괄등록" : {
+    "en" : "Batch registration",
+    "ja" : "一括登録",
+    "vi" : "Thêm hàng loạt",
+    "zh" : "批量注册"
+  },
+  "편철취소" : {
+    "en" : "Cancel Binding",
+    "ja" : "ファイリングキャンセル",
+    "vi" : "Hủy gom lại",
+    "zh" : "编册取消"
+  },
+  "옵션" : {
+    "en" : "Option",
+    "ja" : "オプション",
+    "vi" : "Lựa chọn",
+    "zh" : "选项"
+  },
+  "최대 {0}건까지만 가능합니다. 검색기간을 지정해서 문서 건수를 줄여주세요." : {
+    "en" : "Only up to a maximum of {0} is possible. Please assign a range and lower the document count.",
+    "ja" : "最大{0}件まで可能です。検索期間を指定して文書件数を減らしてください。",
+    "vi" : "Chỉ có thể chọn tối đa {0} tài liệu. Vui lòng chọn khoảng thời gian tìm kiếm để giảm số lượng tài liệu.",
+    "zh" : "最多可进行{0}项。请指定搜索时间减少文件数量。"
+  },
+  "{0}의 종료일자를 선택해 주세요." : {
+    "en" : "Select the end date of {0}.",
+    "ja" : "{0}の終了日を選択してください。",
+    "vi" : "Vui lòng chọn ngày kết thúc của {0}",
+    "zh" : "请选择{0}的结束日期。"
+  },
+  "기록물철 앞 문자 설정에 삭제 문자에 '24' 입력, 추가문자에 '25' 입력" : {
+    "en" : "Enter '24' in the delete character field for the record file's starting character setting, and enter '25' in the add character field.",
+    "ja" : "記録物ファイル前 文字設定で削除文字に '24' 入力、追加文字に '25' 入力",
+    "vi" : "Trong cài đặt ký tự trước hồ sơ, nhập '24' vào xóa ký tự và '25' vào thêm ký tự.",
+    "zh" : "在记录文件夹前的文字设置中，在删除文字中输入“24”，在其他文字中输入“25”"
+  },
+  "{0} 기록물이 없습니다." : {
+    "en" : "{0} record has not been found.",
+    "ja" : "{0} 記録物がありません。",
+    "vi" : "Không có hồ sơ {0}",
+    "zh" : "不存在{0} 档案。"
+  },
+  "인수 의견" : {
+    "en" : "Takeover Opinion",
+    "ja" : "引受け意見",
+    "vi" : "Ý kiến tiếp nhận",
+    "zh" : "移交意见"
+  },
+  "기록물철 앞 문자 설정" : {
+    "en" : "Set characters before record file",
+    "ja" : "記録物ファイル前文字設定",
+    "vi" : "Cài đặt ký tự trước của hồ sơ",
+    "zh" : "记录文件夹前文字设置"
+  },
+  "기록물 분리" : {
+    "en" : "Separate Records",
+    "ja" : "記録物分離",
+    "vi" : "Phân loại hồ sơ",
+    "zh" : "档案拆分"
+  },
+  "기관명을 입력하세요." : {
+    "en" : "Enter an organization name.",
+    "ja" : "機関名を入力してください。",
+    "vi" : "Hãy nhập tên cơ quan.",
+    "zh" : "请输入机关名。"
+  },
+  "설정한 기간의 시행일 문서만 조회 합니다." : {
+    "en" : "Only documents with effective dates within the set period will be retrieved.",
+    "ja" : "設定した期間の施行日文書のみを照会します。",
+    "vi" : "Chỉ truy xuất các tài liệu có ngày hiệu lực trong khoảng thời gian đã thiết lập.",
+    "zh" : "仅查询设定期间的执行日期文件。"
+  },
+  "추가하였습니다." : {
+    "en" : "Added successfully.",
+    "ja" : "追加しました。",
+    "vi" : "Đã thêm",
+    "zh" : "已添加。"
+  },
+  "기록물 관리" : {
+    "en" : "Manage records",
+    "ja" : "記録管理",
+    "vi" : "Quản lý hồ sơ",
+    "zh" : "管理纪录物"
+  },
+  "이다" : {
+    "en" : "is",
+    "ja" : "である",
+    "vi" : "Là",
+    "zh" : "是"
+  },
+  "변경자" : {
+    "en" : "Modifier",
+    "ja" : "変更者",
+    "vi" : "Người thay đổi",
+    "zh" : "变更人"
+  },
+  "단위업무 관리" : {
+    "en" : "Unit Task Management",
+    "ja" : "単独業務管理",
+    "vi" : "Quản lý tác vụ đơn vị",
+    "zh" : "单位业务管理"
+  },
+  "기록물 분류 기준 등록" : {
+    "en" : "Registration of record classification criteria",
+    "ja" : "記録物分類基準登録",
+    "vi" : "Thêm tiêu chí phân loại hồ sơ",
+    "zh" : "登记档案分类标准"
+  },
+  "단위업무를 100자 이하로 입력해주세요" : {
+    "en" : "Please enter the unit task in 100 characters or less",
+    "ja" : "単位業務を100文字以下で入力してください",
+    "vi" : "Vui lòng nhập công việc đơn vị trong khoảng 100 ký tự",
+    "zh" : "请输入100字以下的单位业务。"
+  },
+  "기록물철 위치" : {
+    "en" : "Record Binder Location",
+    "ja" : "記録バインダーの位置",
+    "vi" : "Vị trí kho lưu trữ",
+    "zh" : "档案册 位置"
+  },
+  "고정 조회자" : {
+    "en" : "Regular Viewer",
+    "ja" : "固定照会者",
+    "vi" : "Người xem cố địn",
+    "zh" : "固定查询人"
+  },
+  "발송자" : {
+    "en" : "Sender",
+    "ja" : "送信者",
+    "vi" : "Người gửi",
+    "zh" : "发送者"
+  },
+  "대내외" : {
+    "en" : "Internal and external",
+    "ja" : "対内外",
+    "vi" : "Đối nội - đối ngoại",
+    "zh" : "对内外"
+  },
+  "비치기록물 여부" : {
+    "en" : "Furnished Record Status",
+    "ja" : "備置記録物可否",
+    "vi" : "có kho lưu trữ cung cấp hay không",
+    "zh" : "备份档案与否"
+  },
+  "등록번호를 입력하세요." : {
+    "en" : "Enter registration number.",
+    "ja" : "登録番号を入力してください。",
+    "vi" : "Hãy nhập số đăng ký.",
+    "zh" : "请输入登录号码。"
+  },
+  "검색된 결과가 없습니다." : {
+    "en" : "No search results found",
+    "ja" : "検索された結果がありません。",
+    "vi" : "Không tìm thấy kết quả.",
+    "zh" : "没有搜索的结果。"
+  },
+  "문서제목" : {
+    "en" : "Document subject",
+    "ja" : "文書タイトル",
+    "vi" : "Chủ đề tài liệu",
+    "zh" : "文件题目"
+  },
+  "설명" : {
+    "en" : "Description",
+    "ja" : "説明",
+    "vi" : "Giải thích",
+    "zh" : "说明"
+  },
+  "보존기간 정책 사유" : {
+    "en" : "Retention Period Policy Reason",
+    "ja" : "保存期間政策理由",
+    "vi" : "Lý do cho chính sách thời gian lưu giữ",
+    "zh" : "保存期政策理由"
+  },
+  "{0}건 이상은 분할하여 추가합니다." : {
+    "en" : "Numbers exceeding {0} will be added in increments.",
+    "ja" : "{0}件以上は分割して追加します。",
+    "vi" : "Phân loại và thêm đối với nhiều hơn {0} tài liệu.",
+    "zh" : "{0}项以上将分开添加。"
+  },
+  "배부사항" : {
+    "en" : "Distributed",
+    "ja" : "配布事項",
+    "vi" : "Vấn đề phân phối",
+    "zh" : "分配事项"
+  },
+  "기록물철 일괄 등록" : {
+    "en" : "Batch registration of record files",
+    "ja" : "記録物ファイル 一括登録",
+    "vi" : "Đăng ký hàng loạt hồ sơ",
+    "zh" : "统一登记记录文件夹"
+  },
+  "반대" : {
+    "en" : "Disagree",
+    "ja" : "反対",
+    "vi" : "Phản đối",
+    "zh" : "反对"
+  },
+  "체크된 항목에 대해서만 검색이 됩니다." : {
+    "en" : "Only checked items can be searched.",
+    "ja" : "チェックした項目についてのみ検索されます。",
+    "vi" : "Chỉ những mục đã chọn mới được tìm kiếm.",
+    "zh" : "只搜索已确认的项目。"
+  },
+  "제한설정" : {
+    "en" : "Restriction settings",
+    "ja" : "制限設定",
+    "vi" : "Cài đặt hạn chế",
+    "zh" : "设置限制"
+  },
+  "최초 확인" : {
+    "en" : "First Confirmed",
+    "ja" : "最初確認",
+    "vi" : "Xác nhận đầu tiên",
+    "zh" : "首次确认"
+  },
+  "기록물" : {
+    "en" : "Record",
+    "ja" : "記録",
+    "vi" : "Tài liệu ghi chép",
+    "zh" : "记录"
+  },
+  "기타 명칭을 입력하세요." : {
+    "en" : "Enter the 'Other' name.",
+    "ja" : "その他の名称を入力してください。",
+    "vi" : "Hãy nhập tên khác",
+    "zh" : "请输入其他名称。"
+  },
+  "모든 부서 또는 특정부서의 모든 문서를 조회 할 수 있는 권한" : {
+    "en" : "Authority to view all documents of all departments or specific departments",
+    "ja" : "すべての部門または特定の部署のすべての文書を照会する権限",
+    "vi" : "Quyền xem tất cả tài liệu của tất cả các phòng ban hoặc các phòng ban cụ thể",
+    "zh" : "查询所有部门或特定部门所有文档的权限"
+  },
+  "단위업무코드 중복확인하세요." : {
+    "en" : "Please go through a duplicate check on the unit task code.",
+    "ja" : "単独業務コードの重複確認してください。",
+    "vi" : "Hãy xác nhận trùng lặp mã code tác vụ đơn vị",
+    "zh" : "请重复确认单位业务编码。"
+  },
+  "올바른 종료연도를 입력하세요." : {
+    "en" : "Enter a proper End Year.",
+    "ja" : "正しい終了年度を入力してください。",
+    "vi" : "Vui lòng nhập một năm kết thúc hợp lệ.",
+    "zh" : "请输入正确的终止年度。"
+  },
+  "기록물 조회 설정" : {
+    "en" : "Record retrieval settings",
+    "ja" : "記録物照会設定",
+    "vi" : "Cài đặt truy xuất hồ sơ",
+    "zh" : "配置档案查询"
+  },
+  "종료연도를 확인하세요." : {
+    "en" : "Check the end year.",
+    "ja" : "終了年度を確認してください。",
+    "vi" : "Hãy xác nhận năm kết thúc.",
+    "zh" : "请确认终结年份"
+  },
+  "대상을 선택해주세요" : {
+    "en" : "Please select the target",
+    "ja" : "ターゲットを選択してください",
+    "vi" : "Vui lòng chọn đối tượng.",
+    "zh" : "请选择对象"
+  },
+  "동일한 이름이 존재합니다." : {
+    "en" : "The same name already exists.",
+    "ja" : "同じ名前が存在します。",
+    "vi" : "Tồn tại tên giống nhau",
+    "zh" : "存在相同的名字。"
+  },
+  "비치사유" : {
+    "en" : "Reason for Furnishing",
+    "ja" : "備置理由",
+    "vi" : "Lý do cung cấp",
+    "zh" : "备份理由"
+  },
+  "제목" : {
+    "en" : "Subject",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "형" : {
+    "en" : "Form",
+    "ja" : "形態",
+    "vi" : "Hình thức",
+    "zh" : "形态"
+  },
+  "업무코드를 입력해주세요" : {
+    "en" : "Please enter the task code",
+    "ja" : "仕事コードを入力してください",
+    "vi" : "Vui lòng nhập mã công việc",
+    "zh" : "请输入业务代码。"
+  },
+  "업무" : {
+    "en" : "Work",
+    "ja" : "業務",
+    "vi" : "Công việc",
+    "zh" : "业务"
+  },
+  "원본을 그대로 보존하는 방법" : {
+    "en" : "Preserve the original",
+    "ja" : "原本をそのまま保存する方法",
+    "vi" : "Phương pháp lưu giữ văn bản gốc",
+    "zh" : "复原原件保存方法"
+  },
+  "문서 정보" : {
+    "en" : "Document Information",
+    "ja" : "文書情報",
+    "vi" : "Thông tin tài liệu",
+    "zh" : "文件信息"
+  },
+  "붙임문서" : {
+    "en" : "Attached Document",
+    "ja" : "貼り付け文書",
+    "vi" : "Tài liệu đính kèm",
+    "zh" : "附加文件"
+  },
+  "같은 분류로 이동 할 수 없습니다." : {
+    "en" : "Cannot be moved to the same category.",
+    "ja" : "同じカテゴリに移動できません。",
+    "vi" : "Không thể di chuyển sang cùng phân loại",
+    "zh" : "无法移动 至相同分类。"
+  },
+  "열람제한" : {
+    "en" : "Restrict Access",
+    "ja" : "閲覧制限",
+    "vi" : "Giới hạn xem",
+    "zh" : "限制阅览"
+  },
+  "사진/필름류" : {
+    "en" : "Photo/Films",
+    "ja" : "写真/フィルム類",
+    "vi" : "Loại Ảnh/phim",
+    "zh" : "照片/胶卷类"
+  },
+  "기록물 형태" : {
+    "en" : "Record Type",
+    "ja" : "記録物のタイプ",
+    "vi" : "Loại hồ sơ",
+    "zh" : "档案形态"
+  },
+  "공개구분번호" : {
+    "en" : "Classification number",
+    "ja" : "公開区分番号",
+    "vi" : "Số phân loại công khai",
+    "zh" : "公开区分号码"
+  },
+  "등록연번" : {
+    "en" : "Registration Serial Number",
+    "ja" : "登録連番",
+    "vi" : "Số sê ri đăng ký",
+    "zh" : "登录年号"
+  },
+  "저장하시겠습니까?" : {
+    "en" : "Do you want to save it?",
+    "ja" : "保存しますか？",
+    "vi" : "Bạn có muốn lưu không?",
+    "zh" : "要保存吗？"
+  },
+  "기타위치" : {
+    "en" : "Other Location",
+    "ja" : "その他の位置",
+    "vi" : "Vị trí khác",
+    "zh" : "其他位置"
+  },
+  "기능 분류" : {
+    "en" : "Function Category",
+    "ja" : "機能カテゴリ",
+    "vi" : "Phân loại chức năng",
+    "zh" : "职能分类"
+  },
+  "펼침" : {
+    "en" : "Unfold",
+    "ja" : "広げる",
+    "vi" : "Mở ra",
+    "zh" : "展开"
+  },
+  "정상부서" : {
+    "en" : "Department (Normal)",
+    "ja" : "正常部署",
+    "vi" : "Bộ phận bình thường",
+    "zh" : "正常部门"
+  },
+  "오름차순" : {
+    "en" : "Ascending",
+    "ja" : "昇順",
+    "vi" : "theo thứ tự tăng lên",
+    "zh" : "升幂"
+  },
+  "수신자" : {
+    "en" : "Recipient",
+    "ja" : "受信者",
+    "vi" : "Người nhận",
+    "zh" : "收信者"
+  },
+  "포함하지 않는" : {
+    "en" : "Not including",
+    "ja" : "含まない",
+    "vi" : "Không bao gồm",
+    "zh" : "不包括"
+  },
+  "이동할 수 없는 분류입니다." : {
+    "en" : "The category cannot be moved.",
+    "ja" : "移動できないカテゴリです。",
+    "vi" : "Phân loại không thể di chuyển",
+    "zh" : "无法移动的分类。"
+  },
+  "원문공개 현황" : {
+    "en" : "Original Text Disclosure Status",
+    "ja" : "原文公開状況",
+    "vi" : "Trạng thái tiết lộ văn bản gốc",
+    "zh" : "原文公开现况"
+  },
+  "비치기록물 여부를 입력해주세요." : {
+    "en" : "Please input whether it's an archived record.",
+    "ja" : "ビーチ記録物かどうかを入力してください。",
+    "vi" : "Vui lòng nhập rằng đó có phải là một hồ sơ lưu trữ hay không.",
+    "zh" : "请输入是否是备置记录物。"
+  },
+  "결재문서 상신 시 생산/종료 연도를 가지고 선택을 제한합니다." : {
+    "en" : "When submitting a document for approval, limit the selection with the start/end year.",
+    "ja" : "決裁文書の上申時は、生産および終了年度に応じて選択を制限します。",
+    "vi" : "Hạn chế lựa chọn với năm sản xuất / kết thúc khi đề đạt văn bản phê duyệt.",
+    "zh" : "在上报审批文件时以生产年份，终结年份为标准进行选择。"
+  },
+  "초기화" : {
+    "en" : "Initialize",
+    "ja" : "初期化",
+    "vi" : "Cài đặt lại",
+    "zh" : "初始化"
+  },
+  "레벨 3이상이 되어 이동할 수 없습니다." : {
+    "en" : "Cannot move (over Level 3)",
+    "ja" : "レベル３以上になっているため移動できません。",
+    "vi" : "ở cấp độ 3 trở lên và không thể di chuyển.",
+    "zh" : "已到达等级3以上，无法移动。"
+  },
+  "삭제 문자" : {
+    "en" : "Delete Characters",
+    "ja" : "削除文字",
+    "vi" : "Xóa ký tự",
+    "zh" : "删除文字"
+  },
+  "작성 시 유의사항" : {
+    "en" : "Precautions when writing",
+    "ja" : "作成時の注意事項",
+    "vi" : "Lưu ý khi tạo tệp mẫu",
+    "zh" : "创建时注意事项"
+  },
+  "문서제목을 입력하세요" : {
+    "en" : "Enter the subject of the document.",
+    "ja" : "文書のタイトルを入力してください。",
+    "vi" : "Hãy nhập đề mục tài liệu",
+    "zh" : "请输入文件名。"
+  },
+  "단위업무를 선택해주세요." : {
+    "en" : "Select a unit task.",
+    "ja" : "単独業務を選択してください。",
+    "vi" : "Vui lòng chọn tác vụ đơn vị",
+    "zh" : "请选择单位业务。"
+  },
+  "자료관" : {
+    "en" : "Data Archive",
+    "ja" : "資料館",
+    "vi" : "Kho tài liệu",
+    "zh" : "资料馆"
+  },
+  "복사" : {
+    "en" : "Copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "拷贝"
+  },
+  "수신처를 입력하세요." : {
+    "en" : "Enter a recipient.",
+    "ja" : "宛先を入力してください。",
+    "vi" : "Hãy nhập nơi nhận.",
+    "zh" : "请输入收信人"
+  },
+  "문서과배부번호" : {
+    "en" : "Document Distribution Number",
+    "ja" : "文書課配布番号",
+    "vi" : "Số tài liệu và phân phối",
+    "zh" : "文件分配编号"
+  },
+  "수신부서" : {
+    "en" : "Recipient (Department)",
+    "ja" : "受信部署",
+    "vi" : "Bộ phận tiếp nhận",
+    "zh" : "收信部门"
+  },
+  "전체기간(통합검색)" : {
+    "en" : "Full period (integrated search).",
+    "ja" : "全体期間（統合検索）",
+    "vi" : "Toàn bộ thời gian (tìm kiếm tích hợp).",
+    "zh" : "整个期间（综合搜索）"
+  },
+  "통합" : {
+    "en" : "Integrated",
+    "ja" : "統合",
+    "vi" : "Tổng hợp",
+    "zh" : "联合"
+  },
+  "붙임기안" : {
+    "en" : "Attached Draft",
+    "ja" : "貼り付け起案",
+    "vi" : "Soạn thảo đính kèm",
+    "zh" : "附加草案"
+  },
+  "(처리기관코드 : {0}, 조회연도 : {1})" : {
+    "en" : "(Processing Institution Code: {0}, Year Viewed: {1))",
+    "ja" : "(処理機関コード : {0}, 照会年度 : {1})",
+    "vi" : "(Mã code cơ quan xử lý: {0}, năm xem: {1})",
+    "zh" : "(处理机构代码 : {0}, 查询年度 : {1})"
+  },
+  "공통 단위업무의 기록물철만 선택한 처리과에 일괄로 등록합니다." : {
+    "en" : "Only record files of common unit tasks are registered in bulk to the selected processing department.",
+    "ja" : "共通単位業務の記録物ファイルだけ選択した処理課に一括で登録します。",
+    "vi" : "Chỉ đăng ký hàng loạt các hồ sơ của đơn vị công việc chung vào bộ phận xử lý đã chọn.",
+    "zh" : "仅将属于共同单位业务的记录文件夹批量注册到选定的处理科。"
+  },
+  "분리등록된 내역이 없습니다." : {
+    "en" : "No Separate Registration history.",
+    "ja" : "分離登録された内訳がありません。",
+    "vi" : "Không có nội dung đăng ký phân loại",
+    "zh" : "无拆分登记的明细。"
+  },
+  "삭제할 기능분류를 선택하세요." : {
+    "en" : "Select the function category that you wish to delete.",
+    "ja" : "削除する機能カテゴリを選択してください。",
+    "vi" : "Chọn phân loại kỹ năng sẽ xóa",
+    "zh" : "请选择要删除的分类。"
+  },
+  "없음" : {
+    "en" : "None",
+    "ja" : "なし",
+    "vi" : "Không có",
+    "zh" : "没有"
+  },
+  "진행중인 결재문서가 있습니다." : {
+    "en" : "There is an approval document in progress.",
+    "ja" : "進行中の決裁文書があります。",
+    "vi" : "Có tài liệu phê duyệt khi đang tiến hành",
+    "zh" : "有正在进行的审批文件。"
+  },
+  "전체 추가" : {
+    "en" : "Add All",
+    "ja" : "全体追加",
+    "vi" : "Thêm toàn bộ",
+    "zh" : "全部添加"
+  },
+  "처리과를 선택하세요." : {
+    "en" : "Please select the processing department.",
+    "ja" : "処理課を選択してください。",
+    "vi" : "Hãy chọn khoa xử lý",
+    "zh" : "请选择处理科。"
+  },
+  "- 소분류 -" : {
+    "en" : "- Small Category -",
+    "ja" : "小カテゴリ",
+    "vi" : "Phân loại nhỏ",
+    "zh" : "- 小分类 -"
+  },
+  "양식명" : {
+    "en" : "Form name",
+    "ja" : "フォーム名",
+    "vi" : "Tên bản mẫu",
+    "zh" : "样式名"
+  },
+  "완전삭제" : {
+    "en" : "Delete Permanently",
+    "ja" : "完全削除",
+    "vi" : "Xóa hoàn toàn",
+    "zh" : "完全删除"
+  },
+  "기능분류만 복사 가능합니다." : {
+    "en" : "Only function categories can be copied.",
+    "ja" : "機能カテゴリのみコピーできます。",
+    "vi" : "Chỉ có thể sao chép phân loại kỹ năng",
+    "zh" : "只有功能分类可复制 。"
+  },
+  "배부번호" : {
+    "en" : "Distribution Number",
+    "ja" : "配布番号",
+    "vi" : "Số phân phối",
+    "zh" : "分配编号"
+  },
+  "비치종결일자" : {
+    "en" : "End Date (Furnished Records)",
+    "ja" : "備置終結日時",
+    "vi" : "Ngày kết thúc cung cấp",
+    "zh" : "备份结束日期"
+  },
+  "검색된" : {
+    "en" : "Searched",
+    "ja" : "検索された",
+    "vi" : "Được tìm kiếm",
+    "zh" : "已搜索的"
+  },
+  "카드류" : {
+    "en" : "Cards",
+    "ja" : "カード類",
+    "vi" : "Loại thẻ",
+    "zh" : "卡类"
+  },
+  "기록물철 통합" : {
+    "en" : "Integrate Record Binder",
+    "ja" : "記録バインダー統合",
+    "vi" : "Tổng hợp hồ sơ",
+    "zh" : "档案册统合"
+  },
+  "영구 또는 해지일을 선택하세요." : {
+    "en" : "Select the Permanent or Cancellation Date.",
+    "ja" : "永久または解除日を選択してください。",
+    "vi" : "Hãy chọn ngày hủy bỏ hoặc vĩnh viễn",
+    "zh" : "请选择永久或终止日期。"
+  },
+  "분류명" : {
+    "en" : "Category name",
+    "ja" : "カテゴリ名",
+    "vi" : "Tên danh mục",
+    "zh" : "分类"
+  },
+  "기록물철 위치를 변경하였습니다." : {
+    "en" : "You have successfully modified the location of the record binder.",
+    "ja" : "記録バインダーの位置を変更しますか？",
+    "vi" : "Đã thay đổi vị trí kho lưu ttrữ",
+    "zh" : "档案册位置已变更。"
+  },
+  "적용 기준일" : {
+    "en" : "Implementation Date (Base Date)",
+    "ja" : "適用基準日",
+    "vi" : "Ngày tiêu chuẩn áp dụng",
+    "zh" : "适用基准日"
+  },
+  "부서별" : {
+    "en" : "by department",
+    "ja" : "部署別",
+    "vi" : "Theo bộ phận",
+    "zh" : "各个部门"
+  },
+  "조회수" : {
+    "en" : "Total Views",
+    "ja" : "照会数",
+    "vi" : "lượt xem",
+    "zh" : "点击率"
+  },
+  "삭제부서" : {
+    "en" : "Department (Deleted)",
+    "ja" : "削除部署",
+    "vi" : "Bộ phận bị xóa",
+    "zh" : "删除部门"
+  },
+  "내부결재" : {
+    "en" : "In-house Approval",
+    "ja" : "内部決裁",
+    "vi" : "Phê duyệt nội bộ",
+    "zh" : "内部审批"
+  },
+  "외" : {
+    "en" : "and",
+    "ja" : "他",
+    "vi" : "Ngoài",
+    "zh" : "外"
+  },
+  "날인자를 입력하세요." : {
+    "en" : "Enter a sealer.",
+    "ja" : "捺印者を入力してください。",
+    "vi" : "Hãy nhập người đóng dấu.",
+    "zh" : "请输入盖章人。"
+  },
+  "등록된 단위업무가 없습니다." : {
+    "en" : "There are no registered unit tasks.",
+    "ja" : "登録された単位業務がありません。",
+    "vi" : "Không có tác vụ đơn vị đăng ký",
+    "zh" : "不存在已登记的单位业务。"
+  },
+  "기능분류번호" : {
+    "en" : "Function Classification Number",
+    "ja" : "機能カテゴリ番号",
+    "vi" : "Số phân loại chức năng",
+    "zh" : "功能分类编号"
+  },
+  "기록물분류기준표" : {
+    "en" : "Record Classification Table",
+    "ja" : "記録物分類基準表",
+    "vi" : "Bảng tiêu chuẩn phân loại hồ sơ",
+    "zh" : "档案分类标准表"
+  },
+  "권한이 없는 문서는 제외되어 {0}건이 다운로드 됩니다. 다운로드 하시겠습니까?" : {
+    "en" : "All unauthorized documents have been ruled out, and {0} documents are downloadable. Do you want to proceed?",
+    "ja" : "権限のない文書は除外され、 {0}件がダウンロードされます。ダウンロードしますか？",
+    "vi" : "Tải xuống {0} tài liệu không bao gồm các tài liệu không có quyền tải. Bạn muốn tiếp tục tải xuống chứ?",
+    "zh" : "除超出权限的文件，将下载{0}个文件。是否确定下载？"
+  },
+  "날인자 선택" : {
+    "en" : "Select a sealer",
+    "ja" : "捺印者選択",
+    "vi" : "Lựa chọn người đóng dấu",
+    "zh" : "选择盖章人"
+  },
+  "중복확인" : {
+    "en" : "Duplicate Check",
+    "ja" : "重複確認",
+    "vi" : "Xác nhận trùng lặp",
+    "zh" : "重复确认"
+  },
+  "명" : {
+    "en" : "people",
+    "ja" : "人",
+    "vi" : "Người",
+    "zh" : "名"
+  },
+  "선택한 기록물철을 대상 단위업무로 이동합니다." : {
+    "en" : "Move the selected record binder to the target unit task",
+    "ja" : "選択した記録バインダーを対象単位業務に移動します。",
+    "vi" : "Kho lưu trữ đã chọn được chuyển đến  đối tượng tác vụ đơn vị",
+    "zh" : "选择的档案册转移为对象单位业务。"
+  },
+  "기록물철 문자 설정" : {
+    "en" : "Record file character setting",
+    "ja" : "記録物綴り 文字設定",
+    "vi" : "Cài đặt ký tự hồ sơ",
+    "zh" : "设置记录文件夹文字"
+  },
+  "비치 사유를 입력하세요." : {
+    "en" : "Please enter the reason for storage.",
+    "ja" : "配置理由を入力してください。",
+    "vi" : "Vui lòng nhập lý do lưu trữ.",
+    "zh" : "请输入保管原因。"
+  },
+  "기존 등록된 기록물철 등록부를 다운받아 수정 후 신규 등록이 가능합니다." : {
+    "en" : "You can download and modify the existing registered record file register and then register it again.",
+    "ja" : "既存に登録された記録物ファイル登録簿をダウンロードして修正後、新規登録が可能です。",
+    "vi" : "Bạn có thể tải xuống và sửa đổi sổ đăng ký hồ sơ hiện có, sau đó thêm mới.",
+    "zh" : "下载并修改现有注册的记录文件夹注册簿后可以新注册。"
+  },
+  "감사" : {
+    "en" : "Audit",
+    "ja" : "監査",
+    "vi" : "Kiếm sát",
+    "zh" : "检查"
+  },
+  "열람예상빈도" : {
+    "en" : "Expected Access (View) Frequency",
+    "ja" : "閲覧予想頻度",
+    "vi" : "Tần suất xem mong đợi",
+    "zh" : "预览预期频率"
+  },
+  "배부일자" : {
+    "en" : "Distribution Date",
+    "ja" : "配布日時",
+    "vi" : "Ngày phân phối",
+    "zh" : "分配日期"
+  },
+  "도면류" : {
+    "en" : "Blueprints",
+    "ja" : "図面類",
+    "vi" : "Bản vẽ",
+    "zh" : "图纸类"
+  },
+  "기록물철 인수인계 목록 인쇄" : {
+    "en" : "Print Record Binder Handover/Takeover List",
+    "ja" : "記録バインダー引受引継リストを印刷",
+    "vi" : "In danh sách  Bàn giao và tiếp nhận kho lưu trữ",
+    "zh" : "档案册交接移交目录打印"
+  },
+  "선택 목록" : {
+    "en" : "List (selected)",
+    "ja" : "選択リスト",
+    "vi" : "Danh sách chọn",
+    "zh" : "选择目录"
+  },
+  "한국어로만 등록이 가능 합니다." : {
+    "en" : "Registration is only possible in Korean.",
+    "ja" : "韓国語のみ登録が可能です。",
+    "vi" : "Chỉ có thể thêm bằng tiếng Hàn.",
+    "zh" : "只能用韩语注册。"
+  },
+  "복사대상" : {
+    "en" : "Copy target",
+    "ja" : "コピー対象",
+    "vi" : "Đối tượng sao chép",
+    "zh" : "复制对象"
+  },
+  "검색 시작 일자를 입력하세요." : {
+    "en" : "Enter a start date to search.",
+    "ja" : "検索開始日を入力してください。",
+    "vi" : "Nhập ngày bắt đầu tìm kiếm",
+    "zh" : "请输入搜索开始日子。"
+  },
+  "일련번호" : {
+    "en" : "Serial number",
+    "ja" : "シリアル番号",
+    "vi" : "Số sê-ri",
+    "zh" : "序列号"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "고정 조회자 추가" : {
+    "en" : "Look up Fixed User",
+    "ja" : "固定照会者追加",
+    "vi" : "Thêm người xem cố định",
+    "zh" : "添加固定访客"
+  },
+  "선택 기록물을" : {
+    "en" : "Selected items",
+    "ja" : "選択した記録を",
+    "vi" : "Tài liệu ghi chép đã chọn",
+    "zh" : "将选择记录"
+  },
+  "대>중>소>단위업무명" : {
+    "en" : "Large > Medium > Small > Unit Task Name",
+    "ja" : "大>中>小>単位業務名",
+    "vi" : "Lớn>Trung bình>Nhỏ>Tên đơn vị công việc",
+    "zh" : "大>中>小>单位业务名称"
+  },
+  "접수문서" : {
+    "en" : "Submission",
+    "ja" : "受付文書",
+    "vi" : "Tài liệu tiếp nhận",
+    "zh" : "接收文件"
+  },
+  "결재정보가 없습니다." : {
+    "en" : "No approval information",
+    "ja" : "決裁情報がありません。",
+    "vi" : "Không có thông tin phê duyệt",
+    "zh" : "无审批信息。"
+  },
+  "접근권한이 없습니다." : {
+    "en" : "You don't have access permission.",
+    "ja" : "アクセス権限がありません。",
+    "vi" : "Bạn không có quyền truy cập.",
+    "zh" : "没有权限接近。"
+  },
+  "그룹웨어 관리 : 권한 관리" : {
+    "en" : "Groupware Management: Permission Management",
+    "ja" : "グループウェア管理: 権限管理",
+    "vi" : "Quản lý Groupware: Quản lý quyền hạn",
+    "zh" : "Groupware管理：权限管理"
+  },
+  "등록된" : {
+    "en" : "Registered",
+    "ja" : "登録された",
+    "vi" : "Được đăng ký",
+    "zh" : "已登记的"
+  },
+  "기록물철 일괄 등록 체크" : {
+    "en" : "Record file batch registration check",
+    "ja" : "記録物ファイル一括登録 チェック",
+    "vi" : "Kiểm tra đăng ký hồ sơ hàng loạt",
+    "zh" : "统一登记检查记录文件夹"
+  },
+  "분류기준표 일괄 등록 확인" : {
+    "en" : "Confirmation of bulk registration of classification criteria",
+    "ja" : "分類基準表一括登録確認",
+    "vi" : "Xác nhận thêm hàng loạt các tiêu chí phân loại",
+    "zh" : "分类基准表统一登记确认"
+  },
+  "녹음/동영상류" : {
+    "en" : "Recordings/Videos",
+    "ja" : "録音/動画類",
+    "vi" : "Loại Ghi âm / video",
+    "zh" : "录音/视频类"
+  },
+  "날인수를 입력하세요." : {
+    "en" : "Enter the seal count",
+    "ja" : "捺印数を入力してください。",
+    "vi" : "Hãy nhập số con dấu.",
+    "zh" : "请输入盖章数"
+  },
+  "기록물 분류기준표" : {
+    "en" : "Record Classification Table",
+    "ja" : "記録物カテゴリ基準表",
+    "vi" : "Bản tiêu chí phân loại hồ sơ",
+    "zh" : "档案分类标准表"
+  },
+  "저장에 실패했습니다." : {
+    "en" : "Failed to save.",
+    "ja" : "保存に失敗しました。",
+    "vi" : "Lưu thất bại",
+    "zh" : "保存失败。"
+  },
+  "사용 불가능한 단위업무 코드입니다." : {
+    "en" : "It is a unit task code that cannot be used.",
+    "ja" : "使用できない単位業務コードです。",
+    "vi" : "Là mã code tác vụ đơn vị không có thể sử dụng",
+    "zh" : "无法使用的单位业务编码。"
+  },
+  "{0} 번 행 오류" : {
+    "en" : "Error in row {0}",
+    "ja" : "{0}回行エラー",
+    "vi" : "Lỗi trong hàng {0}",
+    "zh" : "第{0}行出错"
+  },
+  "검색조건 추가" : {
+    "en" : "Add Search Condition",
+    "ja" : "検索条件の追加",
+    "vi" : "Thêm điều kiện tìm kiếm",
+    "zh" : "追加搜索条件"
+  },
+  "메뉴" : {
+    "en" : "Menu",
+    "ja" : "メニュー",
+    "vi" : "thực đơn",
+    "zh" : "项目"
+  },
+  "부서별 채번" : {
+    "en" : "Numbering (by department)",
+    "ja" : "部署別採番",
+    "vi" : "Tạo theo bộ phận",
+    "zh" : "各部门编码"
+  },
+  "기록물 상세보기" : {
+    "en" : "See Details (Record)",
+    "ja" : "記録物詳細表示",
+    "vi" : "Xem chi tiết hồ sơ",
+    "zh" : "档案册详情"
+  },
+  "본문 작성" : {
+    "en" : "Write main text.",
+    "ja" : "本文を作成する",
+    "vi" : "Viết nội dung chính",
+    "zh" : "编辑本文"
+  },
+  "보존분류사항" : {
+    "en" : "Preservation Classification Items",
+    "ja" : "保存カテゴリ事項",
+    "vi" : "Hạng mục phân loại lưu giữ",
+    "zh" : "保存分类事项"
+  },
+  "제한 시작 날짜를 입력해주세요" : {
+    "en" : "Please enter the start date of limitation",
+    "ja" : "制限開始日を入力してください",
+    "vi" : "Vui lòng nhập ngày bắt đầu hạn chế.",
+    "zh" : "请输入限制起始日期。"
+  },
+  "이미 선택하셨습니다." : {
+    "en" : "You have already selected",
+    "ja" : "すでに選択しました。",
+    "vi" : "Đã chọn trước đó",
+    "zh" : "已经选择了。"
+  },
+  "모두" : {
+    "en" : "All",
+    "ja" : "すべて",
+    "vi" : "Tất cả",
+    "zh" : "全部"
+  },
+  "기본 단어" : {
+    "en" : "Basic words",
+    "ja" : "基本語彙",
+    "vi" : "Các từ cơ bản",
+    "zh" : "基本词汇"
+  },
+  "관인 선택" : {
+    "en" : "Select an official seal",
+    "ja" : "官印選択",
+    "vi" : "Lựa chọn con dấu",
+    "zh" : "选择官印"
+  },
+  "업무코드를 10자 이하로 입력해주세요" : {
+    "en" : "Please enter the task code in 10 characters or less",
+    "ja" : "業務コードを10文字以下で入力してください",
+    "vi" : "Vui lòng nhập mã công việc trong khoảng 10 ký tự",
+    "zh" : "请输入10字以下的业务代码。"
+  },
+  "기타 업무설정" : {
+    "en" : "Settings (Other tasks)",
+    "ja" : "その他の業務の設定",
+    "vi" : "Các cài đặt tác vụ khác",
+    "zh" : "其他业务设置"
+  },
+  "검색식 저장" : {
+    "en" : "Save Search Formula",
+    "ja" : "検索式の保存",
+    "vi" : "Lưu cách tìm kiếm",
+    "zh" : "存储搜索型式"
+  },
+  "샘플파일" : {
+    "en" : "Sample File",
+    "ja" : "サンプルファイル",
+    "vi" : "Tệp mẫu",
+    "zh" : "样本文件"
+  },
+  "발송유형" : {
+    "en" : "Send Type",
+    "ja" : "送信タイプ",
+    "vi" : "Loại hình gửi",
+    "zh" : "发送类型"
+  },
+  "전체부서" : {
+    "en" : "All department",
+    "ja" : "全体部署",
+    "vi" : "Tất cả bộ phận",
+    "zh" : "全体部门"
+  },
+  "기록물철 인수/인계" : {
+    "en" : "Record Binder Takeover/Handover",
+    "ja" : "記録バインダー 引受/引継",
+    "vi" : "Tiếp nhận/ Bàn giao kho lưu trữ",
+    "zh" : "档案档接管/移交"
+  },
+  "단위업무코드" : {
+    "en" : "Unit Task Code",
+    "ja" : "単位業務コード",
+    "vi" : "Mã đơn vị làm việc",
+    "zh" : "单位业务代码"
+  },
+  "아래" : {
+    "en" : "Down",
+    "ja" : "下へ",
+    "vi" : "dưới",
+    "zh" : "往下边"
+  },
+  "- 대분류 -" : {
+    "en" : "- Large Category -",
+    "ja" : "大カテゴリ",
+    "vi" : "Phân loại lớn",
+    "zh" : "- 大分类 -"
+  },
+  "기안자(업무담당자)" : {
+    "en" : "Drafter (Task Manager)",
+    "ja" : "起案者(業務担当者)",
+    "vi" : "Người soạn thảo (người phụ trách tác vụ)",
+    "zh" : "起草人（业务负责人）"
+  },
+  "문서유형" : {
+    "en" : "Document Type",
+    "ja" : "文書タイプ",
+    "vi" : "Loại tài liệu",
+    "zh" : "文件类型"
+  },
+  "전자기록물" : {
+    "en" : "Electronic Record",
+    "ja" : "電子記録物",
+    "vi" : "Hồ sơ điện tử",
+    "zh" : "电子档案"
+  },
+  "동일" : {
+    "en" : "Same",
+    "ja" : "同一",
+    "vi" : "Giống nhau",
+    "zh" : "相同"
+  },
+  "파일 첨부" : {
+    "en" : "Attach Files",
+    "ja" : "ファイル添付",
+    "vi" : "File đính kèm",
+    "zh" : "附加文件"
+  },
+  "전체 기록물" : {
+    "en" : "All Records",
+    "ja" : "全体記録物",
+    "vi" : "Toàn bộ hồ sơ",
+    "zh" : "全体档案"
+  },
+  "모두닫기" : {
+    "en" : "Close all",
+    "ja" : "全て閉じる",
+    "vi" : "Đóng tất cả",
+    "zh" : "全部关闭"
+  },
+  "제목이 없는 기록물철을 제외하고 복사되었습니다." : {
+    "en" : "Copied except for record files without titles.",
+    "ja" : "題名のない記録物ファイルを除いてコピーされました。",
+    "vi" : "Đã sao chép hồ sơ (ngoại trừ các hồ sơ không có tiêu đề).",
+    "zh" : "除了没有标题的记录文件夹之外，已复制。"
+  },
+  "비치기록물 이관 시기" : {
+    "en" : "Furnished Record Transfer Period",
+    "ja" : "備置記録物の移管時期",
+    "vi" : "Thời gian chuyển giao hồ sơ cung cấp",
+    "zh" : "备份档案移交时期"
+  },
+  "본문 조회" : {
+    "en" : "View main text.",
+    "ja" : "本文を照会する",
+    "vi" : "Xem nội dung chính",
+    "zh" : "查看本文"
+  },
+  "쪽수" : {
+    "en" : "Page No.",
+    "ja" : "ページ数",
+    "vi" : "Số trang",
+    "zh" : "页数"
+  },
+  "목록설정" : {
+    "en" : "List settings",
+    "ja" : "リスト設定",
+    "vi" : "Thiết lập danh sách",
+    "zh" : "目录设定"
+  },
+  "신규" : {
+    "en" : "New",
+    "ja" : "新規",
+    "vi" : "Mới",
+    "zh" : "新注册"
+  },
+  "생산연도를 입력하세요." : {
+    "en" : "Please enter the start year.",
+    "ja" : "生産年度を入力してください。",
+    "vi" : "Hãy nhập năm sản xuất.",
+    "zh" : "请输入生产年份。"
+  },
+  "생산기관등록번호" : {
+    "en" : "Production Institution Registration Number",
+    "ja" : "生産機関登録番号",
+    "vi" : "Số đăng ký cơ sở sản xuất",
+    "zh" : "生产机构登记号"
+  },
+  "기록물철 목록" : {
+    "en" : "Record Binder List",
+    "ja" : "記録バインダーリスト",
+    "vi" : "Danh sách các kho lưu trữ",
+    "zh" : "档案册目录"
+  },
+  "필수 값을 확인해주세요." : {
+    "en" : "Please check the required values.",
+    "ja" : "必須値を確認してください。",
+    "vi" : "Vui lòng kiểm tra các giá trị bắt buộc.",
+    "zh" : "请确认必填项。"
+  },
+  "분류기준표 엑셀 파일을 이용하여 일괄 등록 및 수정을 할 수 있습니다." : {
+    "en" : "You can batch register and modify using the classification criteria Excel file.",
+    "ja" : "分類基準表Excelファイルを使用して、一括登録および修正ができます。",
+    "vi" : "Bạn có thể thêm hàng loạt và sửa đổi bằng cách sử dụng tệp Excel tiêu chí phân loại.",
+    "zh" : "您可以使用分类表 excel 文件进行批量注册和编辑。"
+  },
+  "기록물 {0}건 분리" : {
+    "en" : "Separate {0} Records",
+    "ja" : "記録物 {0}件分離",
+    "vi" : "Phân loại hồ sơ  {0} cái",
+    "zh" : "档案{0}件拆分"
+  },
+  "단위업무명, 기록물철명" : {
+    "en" : "unit work name, Record binder name",
+    "ja" : "単位業務名, 記録バインダー名",
+    "vi" : "Tên kho lưu trữ, tên công việc đơn vị",
+    "zh" : "单位业务名, 纪录物束名"
+  },
+  "내용요약이 너무 깁니다." : {
+    "en" : "Summary is too long.",
+    "ja" : "内容要約が長すぎます。",
+    "vi" : "tóm tắt nội dung quá dài",
+    "zh" : "内容摘要太长了"
+  },
+  "분류번호" : {
+    "en" : "Category Number",
+    "ja" : "分類番号",
+    "vi" : "Số phân loại",
+    "zh" : "分类编号"
+  },
+  "수정사유" : {
+    "en" : "Reason for Modification",
+    "ja" : "修正理由",
+    "vi" : "Lý do sửa đổi",
+    "zh" : "修改理由"
+  },
+  "보존기간이 잘못된 문구입니다." : {
+    "en" : "Invalid retention period.",
+    "ja" : "保存期間が間違った文句です。",
+    "vi" : "Thời gian bảo tồn không hợp lệ.",
+    "zh" : "保存期限错误的句子。"
+  },
+  "인수자" : {
+    "en" : "Taken over by",
+    "ja" : "引受け者",
+    "vi" : "Người tiếp nhận",
+    "zh" : "接收人"
+  },
+  "기록물철 이동" : {
+    "en" : "Move Record Binder",
+    "ja" : "記録バインダー移動",
+    "vi" : "Di chuyển kho lưu trữ",
+    "zh" : "档案册移动"
+  },
+  "날인부서 선택" : {
+    "en" : "Select the department to affix seals",
+    "ja" : "捺印部署選択",
+    "vi" : "Lựa chọn bộ phận đóng dấu",
+    "zh" : "选择盖章单位"
+  },
+  "일시" : {
+    "en" : "Date",
+    "ja" : "日時",
+    "vi" : "Tạm ngừng",
+    "zh" : "时日"
+  },
+  "분류명을 입력하세요." : {
+    "en" : "Enter a category name.",
+    "ja" : "カテゴリ名を入力してください。",
+    "vi" : "Nhập tên danh mục",
+    "zh" : "请输入分类名。"
+  },
+  "수정함" : {
+    "en" : "Modify",
+    "ja" : "修正する",
+    "vi" : "Đã sửa",
+    "zh" : "修改"
+  },
+  "단위업무 선택" : {
+    "en" : "Select Unit Task",
+    "ja" : "単独業務選択",
+    "vi" : "Chọn tác vụ đơn vị",
+    "zh" : "单位业务选择"
+  },
+  "이동" : {
+    "en" : "Move",
+    "ja" : "移動",
+    "vi" : "di chuyển",
+    "zh" : "移动"
+  },
+  "처리일" : {
+    "en" : "Date (Processed)",
+    "ja" : "処理日",
+    "vi" : "Ngày xử lý",
+    "zh" : "处理日"
+  },
+  "수기" : {
+    "en" : "Hand-written",
+    "ja" : "手記",
+    "vi" : "Chữ viết tay",
+    "zh" : "手记"
+  },
+  "보존분류기준" : {
+    "en" : "Retention Classification Standards",
+    "ja" : "保存カテゴリ基準",
+    "vi" : "Tiêu chuẩn phân loại  lưu giữ",
+    "zh" : "保存分类标准"
+  },
+  "조회자만" : {
+    "en" : "Only Viewer",
+    "ja" : "照会者のみ",
+    "vi" : "Chỉ người xem",
+    "zh" : "只查询者"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Tất cả thời  gian",
+    "zh" : "全期间"
+  },
+  "보존장소가 빈 값입니다." : {
+    "en" : "Preservation location is empty.",
+    "ja" : "保存場所が空の値です。",
+    "vi" : "Địa điểm bảo tồn trống.",
+    "zh" : "保存场所为空值。"
+  },
+  "삭제중 오류가 발생하였습니다." : {
+    "en" : "An error occurred while deleting.",
+    "ja" : "削除中にエラーが発生しました。",
+    "vi" : "Đã xảy ra lỗi khi đang xóa",
+    "zh" : "删除中发生错误。"
+  },
+  "제한이 끝나는 날짜를 입력해주세요" : {
+    "en" : "Please enter the end date of the limitation.",
+    "ja" : "制限の終了日を入力してください",
+    "vi" : "Vui lòng nhập ngày kết thúc hạn chế.",
+    "zh" : "请输入限制结束日期。"
+  },
+  "미승인" : {
+    "en" : "Unapproved.",
+    "ja" : "未承認",
+    "vi" : "Chưa phê duyệt",
+    "zh" : "未批准"
+  },
+  "종료연도" : {
+    "en" : "End Year",
+    "ja" : "終了年度",
+    "vi" : "Kết thúc năm",
+    "zh" : "结束年度"
+  },
+  "비치기록물여부" : {
+    "en" : "Furnished Records (Status)",
+    "ja" : "備置記録物可否",
+    "vi" : "Có hồ sơ cung cấp",
+    "zh" : "备份文案与否"
+  },
+  "읽은 문서" : {
+    "en" : "Read document",
+    "ja" : "既読文書",
+    "vi" : "Tài liệu đã đọc",
+    "zh" : "已读的文件"
+  },
+  "기록물형태" : {
+    "en" : "Record Form",
+    "ja" : "記録タイプ",
+    "vi" : "Loại hình hồ sơ",
+    "zh" : "文案形态"
+  },
+  "삭제하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？",
+    "vi" : "Bạn có muốn xóa không?",
+    "zh" : "要删除吗？"
+  },
+  "원본은 폐기하고 보존매체만 보존하는 방법" : {
+    "en" : "Discard the original and only preserve the preserved medium",
+    "ja" : "原本は廃棄して保存媒体のみ保存する方法",
+    "vi" : "Phương pháp loại bỏ văn bản gốc và chỉ lưu giữ phương tiện lưu trữ",
+    "zh" : "报废原件，只储存保存媒体的方法"
+  },
+  "맨위로" : {
+    "en" : "To the top",
+    "ja" : "Topへ",
+    "vi" : "Trên cùng",
+    "zh" : "往最上边"
+  },
+  "복사 되었습니다. 철의 순서를 알맞게 변경 해주세요." : {
+    "en" : "Copied. Please rearrange the order of the item.",
+    "ja" : "コピーされました。ファイルの順番を適宜変更してください。",
+    "vi" : "Đã sao chép. Vui lòng sắp xếp lại thứ tự của cụm cho phù hợp.",
+    "zh" : "已复制。请正确更改顺序。"
+  },
+  "중분류를 100자 이하로 입력해주세요" : {
+    "en" : "Please enter the subcategory in 100 characters or less",
+    "ja" : "中分類を100文字以下で入力してください",
+    "vi" : "Vui lòng nhập danh mục phụ trong khoảng 100 ký tự",
+    "zh" : "请输入100字以下的中分类。"
+  },
+  "발신자" : {
+    "en" : "Sender",
+    "ja" : "発信者",
+    "vi" : "Người gửi",
+    "zh" : "发信人"
+  },
+  "통합검색" : {
+    "en" : "Unified search",
+    "ja" : "統合検索",
+    "vi" : "Tìm kiếm tổng hợp",
+    "zh" : "综合搜索"
+  },
+  "분리 등록" : {
+    "en" : "Register Separately",
+    "ja" : "分離登録",
+    "vi" : "Đăng ký phân loại",
+    "zh" : "拆分登记"
+  },
+  "반려" : {
+    "en" : "Reject",
+    "ja" : "差戻し",
+    "vi" : "Từ chối",
+    "zh" : "发还"
+  },
+  "담당자" : {
+    "en" : "Manager",
+    "ja" : "担当者",
+    "vi" : "Người phụ trách",
+    "zh" : "负责人"
+  },
+  "기타문서" : {
+    "en" : "Other Document",
+    "ja" : "その他の文書",
+    "vi" : "Các tài liệu khác",
+    "zh" : "其他文件"
+  },
+  "수신처" : {
+    "en" : "Recipient",
+    "ja" : "受信先",
+    "vi" : "Người nhận",
+    "zh" : "收信处"
+  },
+  "인계안함" : {
+    "en" : "Do not Transfer",
+    "ja" : "引継ぎしない",
+    "vi" : "Không tiếp quản",
+    "zh" : "不移交"
+  },
+  "비밀번호를 입력해 주세요." : {
+    "en" : "Please enter a password.",
+    "ja" : "パスワードを入力してください。",
+    "vi" : "Vui lòng nhập mật khẩu.",
+    "zh" : "请输入密码。"
+  },
+  "날인일자" : {
+    "en" : "Date sealed",
+    "ja" : "捺印日付",
+    "vi" : "Ngày đóng dấu",
+    "zh" : "盖章日期"
+  },
+  "제3특수목록" : {
+    "en" : "3rd Special List",
+    "ja" : "第３特殊リスト",
+    "vi" : "Danh sách đặc biệt thứ 3",
+    "zh" : "第3特殊目录"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "待机"
+  },
+  "기능분류 위치변경" : {
+    "en" : "Change Location (Function Category)",
+    "ja" : "機能カテゴリの位置変更",
+    "vi" : "Thay đổi vị trí phân loại chức năng",
+    "zh" : "职能分类位置变更"
+  },
+  "반려일" : {
+    "en" : "Date of Rejection",
+    "ja" : "差戻し日",
+    "vi" : "Ngày trả lại",
+    "zh" : "退回日"
+  },
+  "특수목록" : {
+    "en" : "Special List",
+    "ja" : "特殊リスト",
+    "vi" : "Danh sách đặc biệt",
+    "zh" : "特殊目录"
+  },
+  "등급" : {
+    "en" : "Level",
+    "ja" : "レベル",
+    "vi" : "Cấp độ",
+    "zh" : "等级"
+  },
+  "필수 데이터가 존재하지 않습니다." : {
+    "en" : "Required data does not exist.",
+    "ja" : "必須データが存在しません。",
+    "vi" : "Không tồn tại dữ liệu cần thiết",
+    "zh" : "必须数据不存在。"
+  },
+  "주요열람용도" : {
+    "en" : "Main Access Purpose",
+    "ja" : "重要閲覧用途",
+    "vi" : "Mục đích chính của việc xem",
+    "zh" : "主要阅览用途"
+  },
+  "기록물철을 복사하겠습니까?" : {
+    "en" : "Would you like to copy the record binder?",
+    "ja" : "記録バインダーをコピーしますか？",
+    "vi" : "Bạn có muốn sao chép kho lưu trữ?",
+    "zh" : "要复制档案册吗?"
+  },
+  "1년" : {
+    "en" : "1 year.",
+    "ja" : "1年",
+    "vi" : "1 năm.",
+    "zh" : "一年"
+  },
+  "등록된 붙임문서가 없습니다." : {
+    "en" : "There are no registered attached documents.",
+    "ja" : "登録された貼り付け文書がありません。",
+    "vi" : "Không có tài liệu đính kèm được đăng ký",
+    "zh" : "无已上传的附件。"
+  },
+  "대기 상태의 단위업무의 적용 기준일을 오늘로 변경하려고 합니다.\\n변경하시겠습니까?" : {
+    "en" : "We would like to change the effective date of the pending unit task to today.\\nWould you like to proceed with the change?",
+    "ja" : "待機状態の単位業務の適用基準日を今日に変更しようとしています。\\n変更しますか。",
+    "vi" : "Thay đổi ngày áp dụng của nhiệm vụ chờ xử lý thành hôm nay. Bạn có muốn tiếp tục với thay đổi này không?",
+    "zh" : "您正在尝试将待处理状态的单元任务的应用基准日期变更为今日。\\n确定变更吗？"
+  },
+  "편철취소처리" : {
+    "en" : "Cancel Binding",
+    "ja" : "ファイリングキャンセル処理",
+    "vi" : "Xử lý hủy gom lại",
+    "zh" : "取消编册处理"
+  },
+  "날인부서" : {
+    "en" : "Department to affix the seal.",
+    "ja" : "捺印部署",
+    "vi" : "Bộ phận đóng dấu",
+    "zh" : "盖章单位"
+  },
+  "하위 기록물철이 존재하는 단위업무는 삭제되지 않습니다." : {
+    "en" : "Unit tasks that have a child record binder will not be deleted.",
+    "ja" : "下位の記録バインダーが存在する単位業務は選択されません。",
+    "vi" : "Tác  vụ đơn vị  tồn tại  hồ sơ  dưới không bị xóa.",
+    "zh" : "无法删除下位档案册中存在的单位业务。"
+  },
+  "{0}개 기록물철이 복사됩니다." : {
+    "en" : "{0} record files will be copied.",
+    "ja" : "{0}個の記録物ファイルコピーされます。",
+    "vi" : "{0} hồ sơ sẽ được sao chép.",
+    "zh" : "{0}个记录文件夹将被复制。"
+  },
+  "생산연도, 종료연도 : 1900 ~ 9999 까지 숫자 입력" : {
+    "en" : "Production year, end year: Enter numbers from 1900 to 9999",
+    "ja" : "生産年度、終了年度 : 1900 ~ 9999まで数字入力",
+    "vi" : "Năm sản xuất, Năm kết thúc: Nhập số từ 1900 đến 9999",
+    "zh" : "生成年度、结束年度：请输入 1900 ~ 9999 之间的数字"
+  },
+  "복사 대상을 확인해주세요." : {
+    "en" : "Please check the copy target.",
+    "ja" : "コピー対象を確認してください。",
+    "vi" : "Vui lòng kiểm tra đối tượng sao chép.",
+    "zh" : "请确认复制对象。"
+  },
+  "부서기록물" : {
+    "en" : "Department Record",
+    "ja" : "部署記録物",
+    "vi" : "Hồ sơ bộ phận",
+    "zh" : "部门档案"
+  },
+  "기록물철 인수인계" : {
+    "en" : "Record Binder Handover/Takeover",
+    "ja" : "記録バインダー引受引継",
+    "vi" : "Bàn giao và tiếp nhận kho lưu trữ",
+    "zh" : "档案册 交接移交"
+  },
+  "단위업무 복사" : {
+    "en" : "Copy Unit Task",
+    "ja" : "単位業務をコピー",
+    "vi" : "Sao chép tác vụ đơn vị",
+    "zh" : "单位业务复制"
+  },
+  "정상적으로 등록되었습니다." : {
+    "en" : "Successfully registered.",
+    "ja" : "正常に登録しました。",
+    "vi" : "Đã đăng ký thành công.",
+    "zh" : "已正常登录。"
+  },
+  "편철량은 100보다 큰 수를 입력하세요." : {
+    "en" : "You must enter a value above 100 in 'Binder Amount' field.",
+    "ja" : "ファイリング量は１００以上で入力してください。",
+    "vi" : "Nhập một số lớn hơn 100 cho số lượng đường may.",
+    "zh" : "编册量需输入比100大的数。"
+  },
+  "위치변경" : {
+    "en" : "Change location",
+    "ja" : "位置変更",
+    "vi" : "Thay đổi vị trí",
+    "zh" : "变更位置"
+  },
+  "저장되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu",
+    "zh" : "保存完了."
+  },
+  "기록물을 선택하세요." : {
+    "en" : "Select a record.",
+    "ja" : "記録物を選択してください。",
+    "vi" : "Hãy chọn hồ sơ",
+    "zh" : "请选择档案。"
+  },
+  "이미 연번이 채번된 것에 대한 변화는 존재하지 않습니다. 단, 가장 최근번호를 삭제 후 다시 등록 시에는 삭제한 번호로 채번 됩니다." : {
+    "en" : "There is no change from the previous numbering of the serial number. However, if you register again after deleting the latest number, the deleted number will be the new number to be received.",
+    "ja" : "既に連番が採番されたことに対する変化は存在しません。 但し、最も直近の番号を削除した後に再登録する場合は、削除された番号で採番されます。",
+    "vi" : "Không tồn tại thay đổi về việc chuyển số seri. Đã được chuyển thành số đã xóa khi đăng ký lại sau khi xóa số gần nhất.",
+    "zh" : "已编年号，不会存在任何变化。但是，删除最近的号码后重新登录时，会使用删除的号码进行查号。"
+  },
+  "분리등록번호" : {
+    "en" : "Separation Registration Number",
+    "ja" : "分離登録番号",
+    "vi" : "Số đăng ký riêng",
+    "zh" : "拆分登记编号"
+  },
+  "소유부서" : {
+    "en" : "Owned department",
+    "ja" : "所有部署",
+    "vi" : "Bộ phận sở hữu",
+    "zh" : "所属部门"
+  },
+  "기록물을 분리하였습니다." : {
+    "en" : "The record has been separated.",
+    "ja" : "記録物を分離しました。",
+    "vi" : "Đã phân loại hồ sơ",
+    "zh" : "档案已拆分。"
+  },
+  "기록물철의 앞의 특정 글자를 삭제를 원할 경우 아래와 같이 입력하여 삭제가 가능합니다." : {
+    "en" : "If you want to delete specific characters at the beginning of the record file, you can delete them by entering them as follows.",
+    "ja" : "記録物ファイルの前の特定の文字を削除したい場合は、下記のように入力して削除できます。",
+    "vi" : "Nếu bạn muốn xóa các ký tự cụ thể ở đầu hồ sơ, bạn có thể xóa chúng bằng cách nhập như sau.",
+    "zh" : "如果希望删除记录文件夹的前一个特定字符，可以通过输入以下内容进行删除。"
+  },
+  "진행중인 결재문서" : {
+    "en" : "Approval Documents in Progress",
+    "ja" : "進行中の決裁文書",
+    "vi" : "Tài liệu phê duyệt đang được tiến hành",
+    "zh" : "正在进行的审批文件"
+  },
+  "분류 복사" : {
+    "en" : "Copy Category",
+    "ja" : "カテゴリコピー",
+    "vi" : "Sao chép phân loại",
+    "zh" : "分类复制"
+  },
+  "다운로드할 파일을 선택하세요" : {
+    "en" : "Select the file that you want to download.",
+    "ja" : "ダウンロードするファイルを選択してください。",
+    "vi" : "Chọn một file để tải xuống",
+    "zh" : "请选择欲下载的文件。"
+  },
+  "대상자" : {
+    "en" : "Subject",
+    "ja" : "対象者",
+    "vi" : "Đối tượng",
+    "zh" : "对象"
+  },
+  "기간선택의 시작일자가 종료일자보다 클 수 없습니다." : {
+    "en" : "The start date cannot be later than the finish date.",
+    "ja" : "期間選択の開始日は終了日より過去の日付を設定してください。",
+    "vi" : "Ngày bắt đầu không thể muộn hơn ngày kết thúc.",
+    "zh" : "期间选择的开始日子不可大于结束日子。"
+  },
+  "편철량은  100 보다 큰수를 입력하세요." : {
+    "en" : "You must enter a value above 100 in 'Binder Amount' field.",
+    "ja" : "ファイリング量は１００以上で入力してください。",
+    "vi" : "Nhập một số lớn hơn 100 cho số lượng đường may.",
+    "zh" : "编册量需输入比100大的数。"
+  },
+  "내림차순" : {
+    "en" : "Descending",
+    "ja" : "降順",
+    "vi" : "Theo thứ tự giảm xuống",
+    "zh" : "递减"
+  },
+  "기안자 선택" : {
+    "en" : "Select a drafter",
+    "ja" : "起案者選択",
+    "vi" : "Lựa chọn người phác thảo",
+    "zh" : "选择起案者"
+  },
+  "관인날인대장" : {
+    "en" : "Official seal record book",
+    "ja" : "官印捺印台帳",
+    "vi" : "Sổ kế toán đóng dấu",
+    "zh" : "官印印章"
+  },
+  "PC저장은 문서 개수가 최대 {0}개, 파일 용량은 최대  {1}까지만 가능합니다." : {
+    "en" : "Maximum number of documents that can be saved in PC is {0}, and the maximum file capacity is {1}.",
+    "ja" : "PC保存は文書数は最大 {0}個、ファイル容量は最大{1}まで可能です。",
+    "vi" : "Có thể lưu tối đa {0} tài liệu vào PC, dung lượng tệp tin tối đa {1}.",
+    "zh" : "PC保存文件数最多为{0}个，文件容量最多为{1}。"
+  },
+  "사용함" : {
+    "en" : "Use",
+    "ja" : "使用する",
+    "vi" : "Sử dụng",
+    "zh" : "使用"
+  },
+  "동일한 이름의 분류가 존재합니다." : {
+    "en" : "A category with the same name already exists.",
+    "ja" : "同じ名前のカテゴリが存在します。",
+    "vi" : "Có các phân loại cùng tên.",
+    "zh" : "存在相同名字的分类。"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "- 중분류 -" : {
+    "en" : "- Medium Category -",
+    "ja" : "中カテゴリ",
+    "vi" : "Phân loại vừa",
+    "zh" : "- 中分类 -"
+  },
+  "생산" : {
+    "en" : "Production",
+    "ja" : "生産",
+    "vi" : "Sản xuất",
+    "zh" : "生产"
+  },
+  "단위업무별" : {
+    "en" : "By unit task",
+    "ja" : "単位業務別",
+    "vi" : "Theo tác vụ đơn vị",
+    "zh" : "按单位业务"
+  },
+  "기록물 조회자" : {
+    "en" : "Record viewer",
+    "ja" : "記録の照会者",
+    "vi" : "Người xem kho lưu trữ",
+    "zh" : "纪录物查询者"
+  },
+  "미선택" : {
+    "en" : "Unselect",
+    "ja" : "未選択",
+    "vi" : "Không được chọn",
+    "zh" : "未选择"
+  },
+  "변경없음" : {
+    "en" : "No changes made",
+    "ja" : "変更なし",
+    "vi" : "Không thay đổi",
+    "zh" : "无变更"
+  },
+  "대외" : {
+    "en" : "External",
+    "ja" : "対外",
+    "vi" : "Ngoại bộ",
+    "zh" : "对外"
+  },
+  "날인부서를 입력하세요." : {
+    "en" : "Enter the department to affix seals.",
+    "ja" : "捺印部署を入力してください。",
+    "vi" : "Hãy nhập bộ phận đóng dấu.",
+    "zh" : "请输入盖章单位。"
+  },
+  "{0}과 통합처리" : {
+    "en" : "Integrate with {0}",
+    "ja" : "{0}課統合処理",
+    "vi" : "Xử lý tổng hợp với {0}",
+    "zh" : "{0}和统一处理"
+  },
+  "공통" : {
+    "en" : "Common",
+    "ja" : "共通",
+    "vi" : "Cộng đồng",
+    "zh" : "共同"
+  },
+  "기록물철을 이동하였습니다." : {
+    "en" : "Record Binder has been moved.",
+    "ja" : "記録バインダーを移動しました。",
+    "vi" : "Đã di chyển kho lưu  trữ",
+    "zh" : "档案册已移动。"
+  },
+  "다중선택" : {
+    "en" : "Multiple choice",
+    "ja" : "多重選択",
+    "vi" : "Nhiều lựa chọn",
+    "zh" : "选择多种"
+  },
+  "새로고침" : {
+    "en" : "Refresh",
+    "ja" : "リロード",
+    "vi" : "Làm mới",
+    "zh" : "更新"
+  },
+  "비치종결일자를 선택해주세요." : {
+    "en" : "Please select the storage completion date.",
+    "ja" : "配置終了日を選択してください。",
+    "vi" : "Vui lòng chọn ngày kết thúc lưu trữ.",
+    "zh" : "请选择保管截止日期。"
+  },
+  "기록물 배부대장" : {
+    "en" : "Record Distribution Ledger",
+    "ja" : "記録物配布対象",
+    "vi" : "Sổ sách phân phối hồ sơ",
+    "zh" : "档案分配账本"
+  },
+  "전체 기간" : {
+    "en" : "All periods",
+    "ja" : "全期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全部期间"
+  },
+  "날인일을 입력하세요." : {
+    "en" : "Enter the date to affix a seal.",
+    "ja" : "捺印日を入力してください。",
+    "vi" : "Hãy nhập ngày đóng dấu.",
+    "zh" : "请输入盖章日期。"
+  },
+  "처리 되었습니다.\\n변경 {0}개, 미 변경 {1}개" : {
+    "en" : "Processed.\\nChanged {0}, Not changed {1}.",
+    "ja" : "処理されました。/n変更{0}個、未変更{1}個",
+    "vi" : "Đã xử lý.\\nThay đổi {0} mục, không thay đổi {1} mục",
+    "zh" : "已处理。\\n变更 {0} 个，未变更 {1} 个"
+  },
+  "준영구" : {
+    "en" : "Semi-permanent",
+    "ja" : "準永久",
+    "vi" : "Bán vĩnh viễn",
+    "zh" : "准永久"
+  },
+  "변경이력" : {
+    "en" : "Document Modification History",
+    "ja" : "変更履歴",
+    "vi" : "Lịch sử thay đổi",
+    "zh" : "变更履历"
+  },
+  "기록물철 제목은 100자 이하로 입력해주세요." : {
+    "en" : "Please enter the record file title in 100 characters or less.",
+    "ja" : "記録物ファイル題名は100文字以内で入力してください。",
+    "vi" : "Tiêu đề hồ sơ phải có tối đa 100 ký tự.",
+    "zh" : "记录文件夹标题请限制在 100 个字符以内。"
+  },
+  "업무담당자" : {
+    "en" : "Task Manager (PIC)",
+    "ja" : "業務担当者",
+    "vi" : "Người phụ trách tác vụ",
+    "zh" : "业务负责人"
+  },
+  "비치사유는 100자 이하로 입력해주세요." : {
+    "en" : "Please enter the reason for placement in 100 characters or less.",
+    "ja" : "配置事由は100文字以内で入力してください。",
+    "vi" : "Lý do lưu trữ phải có tối đa 100 ký tự.",
+    "zh" : "保管原因请限制在 100 个字符以内。"
+  },
+  "기타 명칭" : {
+    "en" : "Other Name",
+    "ja" : "その他の名称",
+    "vi" : "Tên khác",
+    "zh" : "其他名称"
+  },
+  "기안자를 입력하세요." : {
+    "en" : "Enter the drafter.",
+    "ja" : "起案者を入力してください。",
+    "vi" : "Hãy nhập người phác thảo",
+    "zh" : "请输入起案者。"
+  },
+  "생산번호 위치" : {
+    "en" : "Production Number Location",
+    "ja" : "生産番号の位置",
+    "vi" : "Vị trí số sản xuất",
+    "zh" : "生产编号位置"
+  },
+  "일반문서" : {
+    "en" : "General Document",
+    "ja" : "一般文書",
+    "vi" : "Tài liệu thường",
+    "zh" : "一般文件"
+  },
+  "결재참여 문서" : {
+    "en" : "Approval Document (Participated)",
+    "ja" : "決裁参与文書",
+    "vi" : "Tài liệu tham gia phê duyệt",
+    "zh" : "参与审批文件"
+  },
+  "녹음,동영상류 시청각 기록물" : {
+    "en" : "Recording, Video-type (Audiovisual Records)",
+    "ja" : "録音、動画類の視聴覚記録物",
+    "vi" : "Hồ sơ nghe nhìn, loại video, ghi âm",
+    "zh" : "录音，视频类视听性档案"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Phòng ban",
+    "zh" : "部门"
+  },
+  "기록물철 복사대상" : {
+    "en" : "Record file copy target",
+    "ja" : "記録物ファイルコピー対象",
+    "vi" : "Đối tượng hồ sơ được sao chép",
+    "zh" : "要复制的记录文件夹"
+  },
+  "일자" : {
+    "en" : "Date",
+    "ja" : "日時",
+    "vi" : "Ngày",
+    "zh" : "日期"
+  },
+  "{0} 값을 입력해주세요." : {
+    "en" : "Please enter the {0} value.",
+    "ja" : "{0} 値を入力してください。",
+    "vi" : "Hãy nhập giá trị {0}",
+    "zh" : "请输入{0}值。"
+  },
+  "기록물 관리자" : {
+    "en" : "Record Administrator",
+    "ja" : "記録管理者",
+    "vi" : "Người quản lý hồ sơ",
+    "zh" : "档案管理者"
+  },
+  "본문파일" : {
+    "en" : "Body File",
+    "ja" : "本文ファイル",
+    "vi" : "File nội dung chính",
+    "zh" : "正文文件"
+  },
+  "기록물철명" : {
+    "en" : "Record Binder Name",
+    "ja" : "記録バインダー名",
+    "vi" : "Tên kho lưu trữ",
+    "zh" : "纪录物束名"
+  },
+  "인쇄선택" : {
+    "en" : "Select print",
+    "ja" : "印刷を選択する",
+    "vi" : "Lựa chọn in",
+    "zh" : "选择印刷"
+  },
+  "{0} (영구)" : {
+    "en" : "{0} (Permanent)",
+    "ja" : "{0}（永久）",
+    "vi" : "{0} (Vĩnh viễn)",
+    "zh" : "{0} (永久)"
+  },
+  "정상적으로 삭제되었습니다." : {
+    "en" : "Successfully deleted.",
+    "ja" : "正常に削除しました。",
+    "vi" : "Đã xóa thành công.",
+    "zh" : "已正常删除。"
+  },
+  "아니다" : {
+    "en" : "is not",
+    "ja" : "ではない",
+    "vi" : "Không là",
+    "zh" : "不是"
+  },
+  "배부대장" : {
+    "en" : "Distribution Ledger",
+    "ja" : "配布対象",
+    "vi" : "Sổ sách phân phối",
+    "zh" : "分配账本"
+  },
+  "분류변경" : {
+    "en" : "Change categories",
+    "ja" : "カテゴリを変更",
+    "vi" : "Thay đổi danh mục",
+    "zh" : "变更分类"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "중분류를 입력해주세요" : {
+    "en" : "Please enter the subcategory",
+    "ja" : "中分類を入力してください",
+    "vi" : "Vui lòng nhập danh mục phụ",
+    "zh" : "请输入中分类。"
+  },
+  "조회 권한이 유지되는 기간을 설정합니다." : {
+    "en" : "Set the duration for which the viewing permission is maintained.",
+    "ja" : "照会権限が維持される期間を設定します。",
+    "vi" : "Thiết lập thời gian duy trì quyền truy cập.",
+    "zh" : "设置查询权限的保留时间。"
+  },
+  "포함하는" : {
+    "en" : "Including",
+    "ja" : "含む",
+    "vi" : "Bao gồm",
+    "zh" : "包括"
+  },
+  "기록물 이동" : {
+    "en" : "Move Record",
+    "ja" : "記録物を移動",
+    "vi" : "Di chuyển hồ sơ",
+    "zh" : "档案"
+  },
+  "오류" : {
+    "en" : "Error",
+    "ja" : "エラー",
+    "vi" : "Lỗi",
+    "zh" : "错误"
+  },
+  "전문" : {
+    "en" : "Specialty",
+    "ja" : "専門",
+    "vi" : "Chuyên môn",
+    "zh" : "专门"
+  },
+  "검색 종료 일자를 입력하세요." : {
+    "en" : "Enter an end date to search.",
+    "ja" : "検索終了日を入力してください。",
+    "vi" : "Nhập ngày kết thúc tìm kiếm",
+    "zh" : "请输入搜索结束日子。"
+  },
+  "하위에 변경시킬 분류가 존재하지 않습니다." : {
+    "en" : "There are no sub-categories to modify.",
+    "ja" : "下位に変更させるカテゴリが存在しません。",
+    "vi" : "Không có danh mục để thay đổi bên dưới.",
+    "zh" : "下位不存在要变更的分类。"
+  },
+  "결재상태" : {
+    "en" : "Approval Status",
+    "ja" : "決裁状況",
+    "vi" : "Tình trạng phê duyệt",
+    "zh" : "审批状态"
+  },
+  "인계일" : {
+    "en" : "Date (Handed over)",
+    "ja" : "引継ぎ日",
+    "vi" : "Ngày bàn giao",
+    "zh" : "交接日"
+  },
+  "비전자" : {
+    "en" : "Non-electronic",
+    "ja" : "非電子",
+    "vi" : "Phi điện tử",
+    "zh" : "非电子"
+  },
+  "업무 담당자" : {
+    "en" : "Task Manager",
+    "ja" : "業務担当者",
+    "vi" : "Người quản lý tác vụ",
+    "zh" : "业务负责人"
+  },
+  "비치기록물 이관시기" : {
+    "en" : "Furnished Records Transfer Period",
+    "ja" : "備置記録物移管時期",
+    "vi" : "Ngày chuyển giao hồ sơ cung cấp",
+    "zh" : "备份文案移交时间"
+  },
+  "검색식을 저장하였습니다" : {
+    "en" : "Saved the search formula.",
+    "ja" : "検索式を保存しました。",
+    "vi" : "Đã lưu cách tìm kiếm",
+    "zh" : "已保存搜索式。"
+  },
+  "처리툴" : {
+    "en" : "Processing Tool",
+    "ja" : "処理ツール",
+    "vi" : "Công cụ xử lý",
+    "zh" : "处理工具"
+  },
+  "등록된 본문이 없습니다." : {
+    "en" : "There is no registered main text.",
+    "ja" : "登録された本文がありません。",
+    "vi" : "Không có nội dung.",
+    "zh" : "没有注册的正文。"
+  },
+  "적용기준일 형식을 다시 확인하세요." : {
+    "en" : "Please check the format of the application date.",
+    "ja" : "適用基準日の形式を再度確認してください。",
+    "vi" : "Hãy xác nhận lại hình thức ngày tiêu chuẩn áp dụng",
+    "zh" : "请重新确认适用基准日型式。"
+  },
+  "저장옵션을 선택하세요." : {
+    "en" : "Select save option.",
+    "ja" : "保存オプションを選択してください。",
+    "vi" : "Hãy chọn phương pháp lưu",
+    "zh" : "请选择保存选项。"
+  },
+  "대기능" : {
+    "en" : "Large Function",
+    "ja" : "大機能",
+    "vi" : "Chức năng lớn",
+    "zh" : "大功能"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời hạn",
+    "zh" : "期间"
+  },
+  "특수목록, 기록물형태, 보존기간, 보존방법, 보존장소 : 지정된 텍스트로 입력" : {
+    "en" : "Special list, record type, retention period, preservation method, preservation location: Enter with designated text",
+    "ja" : "特殊目録、記録物形態、保存期間、保存方法、保存場所 : 指定されたテキストで入力",
+    "vi" : "Danh mục đặc biệt, Loại hồ sơ, Thời gian lưu trữ, Phương pháp lưu trữ, Địa điểm lưu trữ: Nhập văn bản được chỉ định",
+    "zh" : "特殊列表、记录格式、保留期、保留方法、保留地点：输入指定文本"
+  },
+  "기록물관리자로 단위업무설정 등 전반적인 기록물 관리권한" : {
+    "en" : "Overall record management authority, including unit task settings as a record manager",
+    "ja" : "記録物管理者として単位業務設定など全般的な記録物管理権限",
+    "vi" : "Toàn bộ quyền quản lý hồ sơ bao gồm cài đặt nhiệm vụ nhỏ với tư cách người quản lý hồ sơ",
+    "zh" : "作为档案管理者,单位业务设定等整体档案管理权限"
+  },
+  "기록물철 제목을 입력하세요." : {
+    "en" : "Please enter the record file title.",
+    "ja" : "記録物ファイル題名を入力してください。",
+    "vi" : "Vui lòng nhập tiêu đề hồ sơ.",
+    "zh" : "请输入记录文件夹标题。"
+  },
+  "기능분류만 이동 가능합니다." : {
+    "en" : "Only function categories can be moved.",
+    "ja" : "機能カテゴリのみ移動できます。",
+    "vi" : "Chỉ có thể di chuyển phân loại kỹ năng",
+    "zh" : "只有功能分类可移动。"
+  },
+  "인계자" : {
+    "en" : "Handed over by",
+    "ja" : "引継ぎ者",
+    "vi" : "Người bàn giao",
+    "zh" : "交接人"
+  },
+  "승인" : {
+    "en" : "Approve",
+    "ja" : "承認",
+    "vi" : "Phê duyệt",
+    "zh" : "承认"
+  },
+  "사용안함" : {
+    "en" : "Don't Use",
+    "ja" : "使用しない",
+    "vi" : "Không sử dụng",
+    "zh" : "不使用"
+  },
+  "권호수" : {
+    "en" : "Issue No.",
+    "ja" : "ボリューム番号数",
+    "vi" : "Kwon Ho-su",
+    "zh" : "刊号数"
+  },
+  "내용요약" : {
+    "en" : "Summary",
+    "ja" : "内容要約",
+    "vi" : "tóm tắt nội dung",
+    "zh" : "内容简要"
+  },
+  "열람범위" : {
+    "en" : "Access Range",
+    "ja" : "閲覧範囲",
+    "vi" : "Phạm vi xem",
+    "zh" : "阅览范围"
+  },
+  "연도" : {
+    "en" : "Year",
+    "ja" : "年",
+    "vi" : "Năm",
+    "zh" : "年度"
+  },
+  "등록부 파일" : {
+    "en" : "Register File",
+    "ja" : "登録簿ファイル",
+    "vi" : "Tệp sổ đăng ký",
+    "zh" : "注册文件"
+  },
+  "생산(접수)등록번호" : {
+    "en" : "Production (Submission) Registration Number",
+    "ja" : "生産(受付)登録番号",
+    "vi" : "Số đăng ký sản xuất (tiếp nhận)",
+    "zh" : "生产（接收）登记编号"
+  },
+  "공통 단위업무를 선택하세요." : {
+    "en" : "Please select a common unit task.",
+    "ja" : "共通単位業務を選択してください。",
+    "vi" : "Vui lòng chọn đơn vị công việc chung.",
+    "zh" : "请选择共同单位业务。"
+  },
+  "고정조회자가 추가되었습니다." : {
+    "en" : "A regular viewer has been added.",
+    "ja" : "固定照会者が追加されました。",
+    "vi" : "Đã thêm người xem cố định",
+    "zh" : "已增加固定查询人。"
+  },
+  "처리과명" : {
+    "en" : "Processing Department Name",
+    "ja" : "処理課名",
+    "vi" : "Tên khoa xử lý",
+    "zh" : "处理科名"
+  },
+  "편철량" : {
+    "en" : "Binded Amount",
+    "ja" : "ファイリング量",
+    "vi" : "Số gom lại",
+    "zh" : "编册量"
+  },
+  "결재미참여 문서" : {
+    "en" : "Approval Document (Did not participate)",
+    "ja" : "決裁未参与文書",
+    "vi" : "Tài liệu không cần phê duyệt",
+    "zh" : "未参与审批文件"
+  },
+  "권한 관리" : {
+    "en" : "Manage permissions",
+    "ja" : "権限管理",
+    "vi" : "Quyền quản lý",
+    "zh" : "管理权限"
+  },
+  "생산연도에 종료연도 보다 같거나 작은 값을 입력하세요." : {
+    "en" : "Enter a value equal to or less than the end year for the start year.",
+    "ja" : "生産年度には終了年度と同一か、または小さい値を入力してください。",
+    "vi" : "Hãy nhập năm sản xuất nhỏ hơn hoặc bằng năm kết thúc.",
+    "zh" : "在输入生产年份时，数值需大于或等于终结年份。"
+  },
+  "확인" : {
+    "en" : "Confirm",
+    "ja" : "確認",
+    "vi" : "Xác nhận",
+    "zh" : "确认"
+  },
+  "기록물철 목록이 존재하지 않습니다." : {
+    "en" : "The record binder list does not exist.",
+    "ja" : "記録バインダーリストが存在しません。",
+    "vi" : "Danh sách các hồ sơ không tồn tại.",
+    "zh" : "不存在档案目录。"
+  },
+  "최근 3년 문서만 조회 가능" : {
+    "en" : "You can view only documents from the past 3 years.",
+    "ja" : "直近3年間の文書のみ照会可能",
+    "vi" : "Chỉ có thể tra cứu tài liệu của 3 năm gần đây",
+    "zh" : "仅可查询3年内文件"
+  },
+  "기안자" : {
+    "en" : "Drafted By",
+    "ja" : "起案者",
+    "vi" : "Người soạn thảo",
+    "zh" : "起草人"
+  },
+  "특수목록 위치" : {
+    "en" : "Special List Location",
+    "ja" : "特殊リストの位置",
+    "vi" : "Vị trí danh sách đặc biệt",
+    "zh" : "特殊目录位置"
+  },
+  "대장조회" : {
+    "en" : "View Ledger",
+    "ja" : "台長照会",
+    "vi" : "Xem sổ sách",
+    "zh" : "查询账本"
+  },
+  "검색된 기록물이 없습니다." : {
+    "en" : "No records have been searched.",
+    "ja" : "検索された記録物がありません。",
+    "vi" : "Không có hồ sơ nào được tìm thấy.",
+    "zh" : "没有搜索到的档案。"
+  },
+  "동일 년도내 기간을 선택 해주세요." : {
+    "en" : "Please select a period within the same year.",
+    "ja" : "同一年度内の期間を選択してください。",
+    "vi" : "Vui lòng chọn khoảng thời gian trong cùng một năm.",
+    "zh" : "请选择同一年内的期间范围。"
+  },
+  "이동했습니다." : {
+    "en" : "Successfully moved.",
+    "ja" : "移動しました。",
+    "vi" : "Đã chuyển",
+    "zh" : "移动了。"
+  },
+  "사용 가능한 단위업무 코드입니다." : {
+    "en" : "It is a unit task code that can be used.",
+    "ja" : "使用できる単位業務コードです。",
+    "vi" : "Là mã code tác vụ đơn vị có thể sử dụng",
+    "zh" : "可使用的单位业务编码。"
+  },
+  "특수목록 위치가 잘못된 문구입니다." : {
+    "en" : "Invalid entry for the location of the special list.",
+    "ja" : "特殊リストの場所が無効な文句です。",
+    "vi" : "Mục nhập không hợp lệ cho vị trí của danh sách đặc biệt.",
+    "zh" : "特殊列表位置错误的语句。"
+  },
+  "{0}은(는) 최대 {1}자까지 가능합니다." : {
+    "en" : "{0} is available up to {1} characters.",
+    "ja" : "{0}は最大{1}文字まで可能です。",
+    "vi" : "{0} tối đa {1} ký tự",
+    "zh" : "{0}最多可到达{1}。"
+  },
+  "레벨 3이상이 되어 복사할 수 없습니다." : {
+    "en" : "Cannot copy (over Level 3)",
+    "ja" : "レベル３以上になっているためコピーできません。",
+    "vi" : "Ở cấp độ 3 trở lên và không thể sao chép.",
+    "zh" : "已到达等级3以上，无法复制。"
+  },
+  "높음" : {
+    "en" : "High",
+    "ja" : "高い",
+    "vi" : "Cao",
+    "zh" : "高"
+  },
+  "검색어지정기준" : {
+    "en" : "Search Keyword Designation Standards",
+    "ja" : "検索ワード指定基準",
+    "vi" : "Tiêu chí chỉ định từ tìm kiếm",
+    "zh" : "检索语指定标准"
+  },
+  "해당 연도의 마지막 번호로 채번됩니다." : {
+    "en" : "The last number on the applicable year will be selected.",
+    "ja" : "該当年度の最後の番号で採番されます。",
+    "vi" : "Được lấy bằng số cuối cùng của năm tương ứng.",
+    "zh" : "按相应年度最后一个号码编排。"
+  },
+  "소기능" : {
+    "en" : "Small Function",
+    "ja" : "小機能",
+    "vi" : "Chức năng nhỏ",
+    "zh" : "小功能"
+  },
+  "기안부서 선택" : {
+    "en" : "Select a drafting department",
+    "ja" : "起案部署の選択",
+    "vi" : "Chọn phòng ban/bộ phận soạn bản thảo",
+    "zh" : "选择起案部门"
+  },
+  "중분류 까지 선택해주세요." : {
+    "en" : "Please select up to the medium category.",
+    "ja" : "中カテゴリまで選択してください。",
+    "vi" : "Hãy chọn đến phân loại vừa",
+    "zh" : "请选择中分类。"
+  },
+  "단위업무별 채번" : {
+    "en" : "Numbering (by unit task)",
+    "ja" : "単位業務別採番",
+    "vi" : "Tạo theo tác vụ đơn vị",
+    "zh" : "单位业务编码"
+  },
+  "편철" : {
+    "en" : "Bind",
+    "ja" : "ファイリング",
+    "vi" : "Gom lại",
+    "zh" : "编缀"
+  },
+  "전문관리기관" : {
+    "en" : "Specialized Management Institution",
+    "ja" : "専門資料機関",
+    "vi" : "Cơ quan quản lý chuyên môn",
+    "zh" : "专门管理机关"
+  },
+  "영구기록물관리기관" : {
+    "en" : "Permanent Record Management Institution",
+    "ja" : "永久記録物管理機関",
+    "vi" : "Cơ quan quản lý hồ sơ vĩnh viễn",
+    "zh" : "永久档案管理机构"
+  },
+  "모두선택" : {
+    "en" : "Select all",
+    "ja" : "全て選択",
+    "vi" : "Chọn tất cả",
+    "zh" : "选择全部"
+  },
+  "현재 기록물분류기준표 저장" : {
+    "en" : "Current record classification criteria saved",
+    "ja" : "現在の記録物分類基準表を保存",
+    "vi" : "Tiêu chí phân loại hiện tại đã được lưu",
+    "zh" : "保存当前分类表"
+  },
+  "생산번호" : {
+    "en" : "Production Number",
+    "ja" : "生産番号",
+    "vi" : "Số sản xuất",
+    "zh" : "生产编号"
+  },
+  "{0}월" : {
+    "en" : "{0}months",
+    "ja" : "{0}ヶ月",
+    "vi" : "{0} tháng",
+    "zh" : "{0}个月"
+  },
+  "등록구분을 선택하세요." : {
+    "en" : "Select Registration Category.",
+    "ja" : "老六区分を選択してください。",
+    "vi" : "Hãy chọn phân loại đăng ký",
+    "zh" : "请选择登记分类。"
+  },
+  "비밀번호를 입력하세요" : {
+    "en" : "Please enter a password",
+    "ja" : "パスワードを入力してください。",
+    "vi" : "Hãy nhập mật khẩu",
+    "zh" : "请输入密码。"
+  },
+  "기록물철이 존재하기 때문에 적용 기준일을 미래 날짜로 지정할 수 없습니다." : {
+    "en" : "Due to the existence of record files, the reference date cannot be set to a future date.",
+    "ja" : "記録ファイルが存在するため、適用基準日を将来の日付に指定することはできません。",
+    "vi" : "Không thể chỉ định ngày tiêu chuẩn áp dụng là ngày trong tương lai vì tồn tại bản ghi chép.",
+    "zh" : "由于存在记录文件夹，无法将应用基准日期指定为未来日期。"
+  },
+  "재인계" : {
+    "en" : "Re-transfer",
+    "ja" : "再引継ぎ",
+    "vi" : "Đảm nhận",
+    "zh" : "再移交"
+  },
+  "보존기간이 빈 값입니다." : {
+    "en" : "Retention period is empty.",
+    "ja" : "保存期間が空の値です。",
+    "vi" : "Thời gian bảo tồn trống.",
+    "zh" : "保存期限为空值。"
+  }
+}

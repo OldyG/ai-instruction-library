@@ -1,0 +1,314 @@
+{
+  "자세히 보기" : {
+    "en" : "View more",
+    "ja" : "詳しく見る",
+    "vi" : "Xem chi tiết",
+    "zh" : "仔细看"
+  },
+  "그룹웨어 메인" : {
+    "en" : "Groupware Home",
+    "ja" : "グループウェアメイン",
+    "vi" : "Trang chủ Groupware",
+    "zh" : "群件主页"
+  },
+  "일정" : {
+    "en" : "Calendar (Schedule)",
+    "ja" : "スケジュール",
+    "vi" : "Lịch trình",
+    "zh" : "日程"
+  },
+  "할일" : {
+    "en" : "Tasks to do",
+    "ja" : "タスク",
+    "vi" : "Việc sẽ làm",
+    "zh" : "该做的事"
+  },
+  "게시 의견" : {
+    "en" : "Opinions (Posted)",
+    "ja" : "掲示意見",
+    "vi" : "Ý kiến bài đăng",
+    "zh" : "布告意见"
+  },
+  "설문" : {
+    "en" : "Survey",
+    "ja" : "アンケート",
+    "vi" : "Khảo sát",
+    "zh" : "设问"
+  },
+  "목록 개수" : {
+    "en" : "Show per page",
+    "ja" : "リスト数",
+    "vi" : "Số danh sách",
+    "zh" : "目录个数"
+  },
+  "관심 문서" : {
+    "en" : "Interesting document",
+    "ja" : "お気に入り文書",
+    "vi" : "Tài liệu quan tâm",
+    "zh" : "关心文件"
+  },
+  "결재 공람" : {
+    "en" : "Approval Sharing",
+    "ja" : "決裁供覧",
+    "vi" : "Chia sẻ phê duyệt",
+    "zh" : "批准共览"
+  },
+  "완료하기" : {
+    "en" : "Complete",
+    "ja" : "完了する",
+    "vi" : "Hoàn thành",
+    "zh" : "完了"
+  },
+  "첫 화면" : {
+    "en" : "Home",
+    "ja" : "最初の画面",
+    "vi" : "Màn hình đầu tiên",
+    "zh" : "第一画面"
+  },
+  "결재할 문서" : {
+    "en" : "Documents to approve",
+    "ja" : "決裁するドキュメント",
+    "vi" : "Tài liệu để phê duyệt",
+    "zh" : "要批准的文件"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Từ khóa tìm kiếm",
+    "zh" : "关键词"
+  },
+  "문서 댓글" : {
+    "en" : "Comments (Document)",
+    "ja" : "文書のコメント",
+    "vi" : "Bình luận tài liệu",
+    "zh" : "文件回帖"
+  },
+  "관심 게시" : {
+    "en" : "Interesting Post",
+    "ja" : "お気に入り掲示",
+    "vi" : "Bài đăng quan tâm",
+    "zh" : "关心布告"
+  },
+  "상세보기" : {
+    "en" : "View details",
+    "ja" : "詳細表示",
+    "vi" : "Xem chi tiết",
+    "zh" : "详细看"
+  },
+  "결재 접수대기" : {
+    "en" : "Approval Waiting to accept",
+    "ja" : "決裁受付待機",
+    "vi" : "Chờ chấp nhận phê duyệt",
+    "zh" : "批准接收等待"
+  },
+  "선택 파일을" : {
+    "en" : "The selected file",
+    "ja" : "選択ファイルを",
+    "vi" : "File chọn",
+    "zh" : "把选择的文件"
+  },
+  "관련 포스트가 없습니다." : {
+    "en" : "No related posts.",
+    "ja" : "関連ポストがありません。",
+    "vi" : "Không có bài đăng liên quan",
+    "zh" : "没有相关的职位。"
+  },
+  "완료 표시" : {
+    "en" : "Mark as 'Complete'",
+    "ja" : "完了表示",
+    "vi" : "Đánh dấu hoàn thành",
+    "zh" : "表示完了"
+  },
+  "관심 포스트 해제" : {
+    "en" : "Unmark (Interesting Post)",
+    "ja" : "お気に入りポストを解除",
+    "vi" : "Hủy bỏ bài viết quan tâm",
+    "zh" : "解除关心信箱"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Chọn",
+    "zh" : "选择"
+  },
+  "포스트 선택" : {
+    "en" : "Select Post",
+    "ja" : "ポスト選択",
+    "vi" : "Chọn bài",
+    "zh" : "选择职位"
+  },
+  "결재 발송대기" : {
+    "en" : "Approval Waiting to send",
+    "ja" : "決裁送信待機",
+    "vi" : "Chờ gửi phê duyệt",
+    "zh" : "批准发送等待"
+  },
+  "포스트" : {
+    "en" : "Post",
+    "ja" : "ポスト",
+    "vi" : "Bài đăng",
+    "zh" : "信箱"
+  },
+  "간단히 보기" : {
+    "en" : "Quick view",
+    "ja" : "簡単に見る",
+    "vi" : "Xem qua",
+    "zh" : "简单看"
+  },
+  "게시 댓글" : {
+    "en" : "Comments (Posted)",
+    "ja" : "掲示コメント",
+    "vi" : "Bình luận bài đăng",
+    "zh" : "布告回帖"
+  },
+  "쪽지" : {
+    "en" : "Message",
+    "ja" : "メッセージ",
+    "vi" : "Lời nhắn",
+    "zh" : "纸条"
+  },
+  "포스트 간단히 보기" : {
+    "en" : "Quick view post",
+    "ja" : "ポストを簡単に見る",
+    "vi" : "Xem qua bài đăng",
+    "zh" : "仔细看信箱"
+  },
+  "파일첨부 포스트" : {
+    "en" : "Post with attachments",
+    "ja" : "ファイル添付ポスト",
+    "vi" : "Bài viết đính kèm file",
+    "zh" : "附件信箱"
+  },
+  "관심 포스트" : {
+    "en" : "Interesting post",
+    "ja" : "お気に入りポスト",
+    "vi" : "Bài đăng quan tâm",
+    "zh" : "关心信箱"
+  },
+  "첨부" : {
+    "en" : "Attach",
+    "ja" : "添付",
+    "vi" : "Đính kèm",
+    "zh" : "附加"
+  },
+  "게시" : {
+    "en" : "Post",
+    "ja" : "掲示",
+    "vi" : "đăng",
+    "zh" : "布告"
+  },
+  "별표해제" : {
+    "en" : "Unstar",
+    "ja" : "スターを解除する",
+    "vi" : "Hủy bỏ dấu sao",
+    "zh" : "解除点星"
+  },
+  "완료안된 포스트" : {
+    "en" : "Uncompleted post",
+    "ja" : "完了していないポスト",
+    "vi" : "Bài viết chưa hoàn thành",
+    "zh" : "没完了的信箱"
+  },
+  "작업" : {
+    "en" : "Task",
+    "ja" : "作業",
+    "vi" : "Thao tác",
+    "zh" : "项目"
+  },
+  "포스트 자세히 보기" : {
+    "en" : "View Post Details",
+    "ja" : "ポストを詳しく見る",
+    "vi" : "Xem chi tiết bài đăng",
+    "zh" : "简单看信箱"
+  },
+  "포스트로 제공받을 서비스를 선택합니다." : {
+    "en" : "Select a service to receive as a post.",
+    "ja" : "ポストに提供されるサービスを選択します。",
+    "vi" : "Chọn dịch vụ bạn muốn nhận dưới dạng bài đăng.",
+    "zh" : "选择由信箱接收提供的服务。"
+  },
+  "완료 표시 해제" : {
+    "en" : "Unmark (Complete)",
+    "ja" : "完了表示を解除",
+    "vi" : "Bỏ đánh dấu hoàn thành",
+    "zh" : "解除完了表示"
+  },
+  "모두 보기" : {
+    "en" : "View all",
+    "ja" : "すべて表示",
+    "vi" : "Xem tất cả",
+    "zh" : "全部看"
+  },
+  "선택 포스트를" : {
+    "en" : "The selected post",
+    "ja" : "選択したポストを",
+    "vi" : "Bài viết chọn",
+    "zh" : "把选择的信箱"
+  },
+  "결재 열람" : {
+    "en" : "Approval View",
+    "ja" : "決裁閲覧",
+    "vi" : "Xem phê duyệt",
+    "zh" : "批准预览"
+  },
+  "결재" : {
+    "en" : "Approval",
+    "ja" : "決裁",
+    "vi" : "Phê duyệt",
+    "zh" : "批准"
+  },
+  "공유 일정" : {
+    "en" : "Shared calendar",
+    "ja" : "共有スケジュール",
+    "vi" : "Lịch trình chia sẻ",
+    "zh" : "共有日程"
+  },
+  "완료된 포스트" : {
+    "en" : "Completed post",
+    "ja" : "完了したポスト",
+    "vi" : "Bài viết đã hoàn thành",
+    "zh" : "完了的信箱"
+  },
+  "포스트 설정" : {
+    "en" : "Post settings",
+    "ja" : "ポスト設定",
+    "vi" : "Cài đặt bài đăng",
+    "zh" : "设定信箱"
+  },
+  "결재 수신대기" : {
+    "en" : "Approval Waiting to receive",
+    "ja" : "決裁受信待機",
+    "vi" : "Chờ nhận phê duyệt",
+    "zh" : "批准收信等待"
+  },
+  "목록 필터" : {
+    "en" : "List filter",
+    "ja" : "リストフィルター",
+    "vi" : "Bộ lọc danh sách",
+    "zh" : "目录过滤"
+  },
+  "문서" : {
+    "en" : "Documents",
+    "ja" : "ドキュメント",
+    "vi" : "Tài liệu",
+    "zh" : "文件"
+  },
+  "별표하기" : {
+    "en" : "Mark 'Star'",
+    "ja" : "スターを付ける",
+    "vi" : "Đánh dấu sao",
+    "zh" : "点星"
+  },
+  "목록 형태" : {
+    "en" : "List Type",
+    "ja" : "リストタイプ",
+    "vi" : "Loại danh sách",
+    "zh" : "目录形式"
+  },
+  "공지" : {
+    "en" : "Notice",
+    "ja" : "お知らせ",
+    "vi" : "Thông báo",
+    "zh" : "通知"
+  }
+}

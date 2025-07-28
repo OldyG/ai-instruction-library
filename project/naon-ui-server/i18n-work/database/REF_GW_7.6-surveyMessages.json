@@ -1,0 +1,2360 @@
+{
+  "워드프레스\n레드마인\n게시판" : {
+    "en" : "WordPress\nRedmine\nNotice board",
+    "ja" : "ワードプレス\nレッドマイン\n掲示板",
+    "vi" : "WordPress\nNhắc tôi\nBảng thông báo",
+    "zh" : "WordPress\nRedmine\n布告栏"
+  },
+  "일간" : {
+    "en" : "Daily",
+    "ja" : "日間",
+    "vi" : "Ngày",
+    "zh" : "日间"
+  },
+  "점수" : {
+    "en" : "Score",
+    "ja" : "点数",
+    "vi" : "Điểm",
+    "zh" : "分数"
+  },
+  "검색어" : {
+    "en" : "Search Keyword",
+    "ja" : "検索ワード",
+    "vi" : "Tìm kiếm từ",
+    "zh" : "关键词"
+  },
+  "승인사용" : {
+    "en" : "Use Approvals",
+    "ja" : "承認使用",
+    "vi" : "Sử dụng công tác phê duyệt",
+    "zh" : "使用承认"
+  },
+  "본 설문은 아래 설문리스트에서 원하시는 설문과 답변항목이 선택되어 졌을 때 보여집니다." : {
+    "en" : "This survey appears when you have selected the desired questions and answers from the survey list below.",
+    "ja" : "本アンケートは下記のアンケートリストに希望のアンケート及び回答項目が選択された時に表示できます",
+    "vi" : "Khảo sát này xuất hiện khi bạn chọn khảo sát mong muốn và danh mục trả lời từ danh sách khảo sát dưới đây.",
+    "zh" : "本问卷是下边问卷上需要的问卷和回答项目被选择时可以给大家看。"
+  },
+  "작 성 일" : {
+    "en" : "Date created",
+    "ja" : "作成日",
+    "vi" : "Ngày tạo",
+    "zh" : "制作日"
+  },
+  "아래문항의 빈칸을 채우시오. 공공전자결재에서 결재유형에 대한 설명이다. 빈칸을 채우시오" : {
+    "en" : "Please fill in the blanks for the following question. It is a description of the approval type for public e-approval.",
+    "ja" : "次の質問の空欄を埋めてください。公共電子決裁の決裁タイプに関する説明です。空欄を埋めてください。",
+    "vi" : "Vui lòng điền vào chỗ trống trong các câu hỏi sau. Đây là phần mô tả của kiểu phê duyệt trong quy trình phê duyệt điện tử công khai.",
+    "zh" : "请填写下面空格。在公共电子批准对于批准类型的说明。请填写空格。"
+  },
+  "객관식" : {
+    "en" : "Multiple choice(single)",
+    "ja" : "選択問題",
+    "vi" : "Nhiều lựa chọn (chọn một)",
+    "zh" : "客观式"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "승인권자" : {
+    "en" : "Approver",
+    "ja" : "承認権者",
+    "vi" : "Người có quyền phê duyệt",
+    "zh" : "择承认有权人"
+  },
+  "{0}번 질문" : {
+    "en" : "Question No.{0}",
+    "ja" : "{0}番質問",
+    "vi" : "Câu hỏi số {0}",
+    "zh" : "{0}号问题"
+  },
+  "공개여부" : {
+    "en" : "Open to Public?",
+    "ja" : "公開可否",
+    "vi" : "Có công khai hay không",
+    "zh" : "是否公开"
+  },
+  "평가대기" : {
+    "en" : "Waiting for evaluation",
+    "ja" : "評価待ち",
+    "vi" : "Chờ đánh giá",
+    "zh" : "等待评价"
+  },
+  "즉시등록 선택시 설문/평가를 바로 등록할 수 있습니다." : {
+    "en" : "Select \"Upload Now\" to immediately post surveys/evaluations.",
+    "ja" : "「直ちに登録する」を選択すると、アンケート・評価をすぐに登録することができます。",
+    "vi" : "Bạn có thể thêm ngay khảo sát/đánh giá khi lựa chọn đăng ký ngay.",
+    "zh" : "若选择即时登录，即可马上登录提问/评价。"
+  },
+  "직원식당 만족도 조사입니다. 만족여부를 선택해주세요" : {
+    "en" : "This is a cafeteria satisfaction survey. Select the rating that best describes your level of satisfaction.",
+    "ja" : "社員食堂の満足度調査です。満足度を選んでください。",
+    "vi" : "Đây là khảo sát mức độ hài lòng của một quán ăn. Hãy thể hiện đúng nhất về mức độ hài lòng của bạn.",
+    "zh" : "这是职员食堂满意度调查。请选择是否满意。"
+  },
+  "구분선" : {
+    "en" : "Horizontal rule",
+    "ja" : "区分ライン",
+    "vi" : "Thước ngang",
+    "zh" : "区分线"
+  },
+  "반려의견" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻し意見",
+    "vi" : "Lý do từ chối",
+    "zh" : "发还意见"
+  },
+  "시작" : {
+    "en" : "Start",
+    "ja" : "開始",
+    "vi" : "Bắt đầu",
+    "zh" : "开始"
+  },
+  "뒤로" : {
+    "en" : "Back",
+    "ja" : "後ろに",
+    "vi" : "Quay lại",
+    "zh" : "往后"
+  },
+  "메일리스트 가져오기" : {
+    "en" : "Import mail list",
+    "ja" : "メールリストをインポート",
+    "vi" : "Xuất danh sách mail",
+    "zh" : "拿来邮件目录"
+  },
+  "목록에서 조회할 설문을 선택하세요." : {
+    "en" : "Please select a survey to view from the list.",
+    "ja" : "リストから照会するアンケートを選択してください。",
+    "vi" : "Hãy chọn khảo sát để xem ở danh sách.",
+    "zh" : "请在目录选择一下要查询的问卷。"
+  },
+  "종료된 설문" : {
+    "en" : "Finished Surveys",
+    "ja" : "終了したアンケート",
+    "vi" : "Khảo sát đã kết thúc",
+    "zh" : "管理问卷"
+  },
+  "실명" : {
+    "en" : "Real Name",
+    "ja" : "実名",
+    "vi" : "Tên thật",
+    "zh" : "实名"
+  },
+  "설문발송" : {
+    "en" : "Send survey",
+    "ja" : "アンケート発送",
+    "vi" : "Gửi khảo sát",
+    "zh" : "发送问卷"
+  },
+  "드롭박스에서 유형을 선택해주세요." : {
+    "en" : "Please select a type from the dropbox.",
+    "ja" : "ドロップBoxでタイプを選択してください。",
+    "vi" : "Vui lòng chọn một loại từ dropbox.",
+    "zh" : "请在吊盒选择类型。"
+  },
+  "업로드할 이미지를 선택하세요. 지원 형식은 gif, jpg, png입니다." : {
+    "en" : "Select the image to upload. .gif, .jpg, .png files only.",
+    "ja" : "アップロードする画像を選択してください。サポート形式は gif、jpg、pngです。",
+    "vi" : "Hãy chọn hình ảnh để upload. Loại file hỗ trợ là gif, jpg, png.",
+    "zh" : "请选择要上载的图象。支援形式是 gif, jpg, png。"
+  },
+  "설문댓글" : {
+    "en" : "Survey Comment",
+    "ja" : "アンケートのコメント",
+    "vi" : "Bình luận về khảo sát",
+    "zh" : "设问回帖"
+  },
+  "분류" : {
+    "en" : "Category",
+    "ja" : "カテゴリ",
+    "vi" : "Danh mục",
+    "zh" : "分类"
+  },
+  "승인등록 선택시 설문조사 승인권자의 승인이 필요합니다." : {
+    "en" : "If you select 'Approve & Add', you must obtain the approver's approval to add the survey.",
+    "ja" : "承認登録を選択すると、アンケート調査の承認権者の承認が必要になります。",
+    "vi" : "Khi chọn đăng ký phê duyệt, cần sự đồng ý của người phê duyệt khảo sát.",
+    "zh" : "选择承认登录时需要择承认有权人的承认。"
+  },
+  "엑셀파일은 아래와 같이 사용자명, 그룹웨어 아이디로 작성합니다." : {
+    "en" : "The Excel file should contain user names and groupware IDs as shown below.",
+    "ja" : "Excelファイルは下記のようにユーザー名、グループウェアのIDで作成します。",
+    "vi" : "File excel được viết bằng ID Groupware, tên người dùng như dưới đây.",
+    "zh" : "excel文件按照下边的使用者名、群件用户名制作。"
+  },
+  "설문필수" : {
+    "en" : "Compulsory survey",
+    "ja" : "アンケート必須",
+    "vi" : "Khảo sát bắt buộc",
+    "zh" : "必须设问"
+  },
+  "Author's email" : {
+    "en" : "Author's email",
+    "ja" : "作成者のメール",
+    "vi" : "Email của tác giả",
+    "zh" : "搂主邮件"
+  },
+  "한 문항에 추가할 수 있는 보기 개수를 설정합니다." : {
+    "en" : "Set the number of options that could be added to each question.",
+    "ja" : "一つの質問項目に追加できる選択肢の数を設定します。",
+    "vi" : "Cài đặt số lượt xem có thể được thêm vào mỗi câu hỏi.",
+    "zh" : "设置一个选项中可以追加的选项个数。"
+  },
+  "엑셀파일(.xls)로 작성된 그룹웨어 아이디 리스트를 가져옵니다." : {
+    "en" : "Import the Groupware ID list that was written in Excel (.xls).",
+    "ja" : "Excelファイル(.xls)に作成されたグループウエアのアイディーリストをインポートします。",
+    "vi" : "Nhập danh sách ID Groupware bằng file excel (.xls)",
+    "zh" : "拿来制作为excel文件(.xls)的群件用户名目录。"
+  },
+  "참여자의 실명 공개 여부를 설정합니다." : {
+    "en" : "You can set up whether to show the real names of participants or not.",
+    "ja" : "参加者の実名公開可否を設定します。",
+    "vi" : "Cài đặt có công khai tên thật của người tham dự hay không.",
+    "zh" : "设定是否公开参与者实名。"
+  },
+  "참여기간" : {
+    "en" : "Participation period",
+    "ja" : "参加期間",
+    "vi" : "Thời gian tham gia",
+    "zh" : "参与期间"
+  },
+  "검색" : {
+    "en" : "Search",
+    "ja" : "検索",
+    "vi" : "Tìm kiếm",
+    "zh" : "搜索"
+  },
+  "진행" : {
+    "en" : "Progress",
+    "ja" : "進行",
+    "vi" : "Tiến hành",
+    "zh" : "进行"
+  },
+  "문제수" : {
+    "en" : "Number of questions",
+    "ja" : "問題数",
+    "vi" : "Số lượng các câu hỏi",
+    "zh" : "问题数"
+  },
+  "객관식(복수)" : {
+    "en" : "Multiple Choice (Multiple Answers)",
+    "ja" : "選択問題(複数)",
+    "vi" : "Nhiều lựa chọn (chọn nhiều)",
+    "zh" : "客观式 （复数）"
+  },
+  "질문내용" : {
+    "en" : "Question",
+    "ja" : "質問内容",
+    "vi" : "Nội dung câu hỏi",
+    "zh" : "问题内容"
+  },
+  "회사 로고는 관리자페이지 포털관리, 배너관리에서 메인화면 로고 이미지(흰색 배경)를 사용합니다." : {
+    "en" : "The company logo will use the main screen logo image (white background) at admin page > portal management/banner management.",
+    "ja" : "会社のロゴは管理者ページのポータル管理、バナー管理でメイン画面ロゴイメージ(白い背景)を使います。",
+    "vi" : "Logo công ty sẽ sử dụng hình ảnh logo màn hình chính (nền trắng) tại trang quản trị> quản lý cổng thông tin / quản lý banner.",
+    "zh" : "公司标徽在管理者页面综合管理、横幅广告管理使用主页标徽图片（白色背景）。"
+  },
+  "참여요청 알림 발송" : {
+    "en" : "Notification of participation request sent.",
+    "ja" : "参加リクエスト通知発送",
+    "vi" : "Gửi thông báo yêu cầu tham gia.",
+    "zh" : "发送参与请求通知"
+  },
+  "맨아래" : {
+    "en" : "Bottom",
+    "ja" : "最下部",
+    "vi" : "Dưới cùng",
+    "zh" : "最下边"
+  },
+  "찬성\n반대\n모르겠다" : {
+    "en" : "Yes, I agree.\nNo, I don't agree.\nI don't know",
+    "ja" : "賛成\n反対\n分からない",
+    "vi" : "Vâng, tôi đồng ý.\nKhông, tôi không đồng ý.\nTôi không rõ",
+    "zh" : "赞成\n反对\n不知道。"
+  },
+  "순위" : {
+    "en" : "Ranking",
+    "ja" : "ランキング",
+    "vi" : "Xếp hạng",
+    "zh" : "顺序"
+  },
+  "작 성 자" : {
+    "en" : "Created by",
+    "ja" : "作成者",
+    "vi" : "Được tạo bởi",
+    "zh" : "制作人"
+  },
+  "미참여" : {
+    "en" : "Didn't Participate",
+    "ja" : "未参加",
+    "vi" : "Không tham gia",
+    "zh" : "未参与"
+  },
+  "평가완료" : {
+    "en" : "Evaluation complete",
+    "ja" : "評価完了",
+    "vi" : "Hoàn thành đánh giá",
+    "zh" : "评价完了"
+  },
+  "답변" : {
+    "en" : "Answer",
+    "ja" : "返事{0}",
+    "vi" : "Trả lời",
+    "zh" : "回答{0}"
+  },
+  "시험을 시작 합니다." : {
+    "en" : "The test begins now.",
+    "ja" : "試験を開始します。",
+    "vi" : "Kiểm tra bắt đầu",
+    "zh" : "开始考试。"
+  },
+  "미소" : {
+    "en" : "Smiley",
+    "ja" : "スマイル",
+    "vi" : "Cười",
+    "zh" : "微笑"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "메롱" : {
+    "en" : "Tongue sticking out",
+    "ja" : "小馬鹿にする",
+    "vi" : "Lè lưỡi",
+    "zh" : "逗弄"
+  },
+  "참여요청메일발송" : {
+    "en" : "Send Participation Request Mail",
+    "ja" : "参加要請メール送信",
+    "vi" : "Gửi mail yêu cầu tham dự",
+    "zh" : "发送参与邀请邮件"
+  },
+  "설문&nbsp;기간" : {
+    "en" : "Survey Period",
+    "ja" : "アンケート&nbsp;期間",
+    "vi" : "Thời gian khảo sát",
+    "zh" : "问卷&nbsp;期间"
+  },
+  "발송안함" : {
+    "en" : "Don't Send",
+    "ja" : "送信しない",
+    "vi" : "Không gửi",
+    "zh" : "不发送"
+  },
+  "서술" : {
+    "en" : "Description",
+    "ja" : "記述",
+    "vi" : "Mô tả",
+    "zh" : "叙述"
+  },
+  "설문안내" : {
+    "en" : "Survey guide",
+    "ja" : "アンケート案内",
+    "vi" : "Hướng dẫn khảo sát",
+    "zh" : "介绍问卷"
+  },
+  "설문 문항" : {
+    "en" : "Survey questions",
+    "ja" : "アンケート質問",
+    "vi" : "Câu hỏi khảo sát",
+    "zh" : "问卷问项"
+  },
+  "단일 입력" : {
+    "en" : "Multiple Choice (Single Answer)",
+    "ja" : "単一入力",
+    "vi" : "Câu trả lời duy nhất",
+    "zh" : "单一输入"
+  },
+  "입력형 문항의 답안은 평가자 채점시 참고용입니다." : {
+    "en" : "The answers to the input-type questions are used as a reference for the evaluators.",
+    "ja" : "入力型質問の回答は、評価者採点時の参考用です。",
+    "vi" : "Đáp án cho các câu hỏi kiểu cần nhập vào là để phục vụ công tác tham chiếu/tham khảo của người đánh giá.",
+    "zh" : "输入形问题的答案是评价人打分时参考用的。"
+  },
+  "설문내용" : {
+    "en" : "Survey content",
+    "ja" : "アンケート内容",
+    "vi" : "Nội dung khảo sát",
+    "zh" : "设问内容"
+  },
+  "참여" : {
+    "en" : "Participate",
+    "ja" : "参加",
+    "vi" : "Tham dự",
+    "zh" : "参与"
+  },
+  "공공전자결재의 시행일의 정의를 설명하세요" : {
+    "en" : "Describe the definition of 'Effective Date of Public e-Approval'.",
+    "ja" : "公共電子決裁の施行日の定義を説明しなさい。",
+    "vi" : "Mô tả định nghĩa về ngày có hiệu lực của quy trinh phê duyệt điện tử công khai.",
+    "zh" : "请说明公共电子批准的实施日定义。"
+  },
+  "첫번째의견\n두번째의견" : {
+    "en" : "First opinion\nSecond opinion",
+    "ja" : "一番目の意見\n二番目の意見",
+    "vi" : "Ý kiến đầu tiên\nÝ kiến thứ hai",
+    "zh" : "第一个意见\n第二个意见"
+  },
+  "유형선택" : {
+    "en" : "Select type",
+    "ja" : "タイプ選択",
+    "vi" : "Lựa chọn loại hình",
+    "zh" : "选择类型"
+  },
+  "닫기" : {
+    "en" : "Close",
+    "ja" : "閉じる",
+    "vi" : "Đóng",
+    "zh" : "关闭"
+  },
+  "문항추가" : {
+    "en" : "Add question",
+    "ja" : "問題項目を追加",
+    "vi" : "Thêm câu hỏi",
+    "zh" : "追加文项"
+  },
+  "부서명" : {
+    "en" : "Department name",
+    "ja" : "部署名",
+    "vi" : "Tên bộ phận",
+    "zh" : "部门名"
+  },
+  "종료되었습니다." : {
+    "en" : "It has been finished.",
+    "ja" : "終了しました。",
+    "vi" : "Khảo sát đã kết thúc.",
+    "zh" : "结束了。"
+  },
+  "평가타입" : {
+    "en" : "Rating type",
+    "ja" : "評価タイプ",
+    "vi" : "Loại đánh giá",
+    "zh" : "评价类型"
+  },
+  "[평가]평가 해주세요." : {
+    "en" : "[Evaluation] Please evaluate.",
+    "ja" : "[評価]評価してください。",
+    "vi" : "[Đánh giá] Vui lòng đưa ra đánh giá của bạn.",
+    "zh" : "请填写评价[评价]"
+  },
+  "취소" : {
+    "en" : "Cancel",
+    "ja" : "取り消し",
+    "vi" : "Hủy",
+    "zh" : "取消"
+  },
+  "#blank#은 중간결재자로 문서에 대한 승인 및 #blank#을 할 수 있다. \n #blank#은 결재문서가 끝나면 문서를 공유받는 사람이다." : {
+    "en" : "#blank# can approve and #blank# the document as a middle approver. \n After the document is approved, it is shared to #blank#.",
+    "ja" : "＃blank＃は、中間決裁者として文書の承認および＃blank＃をすることができる。\n＃blank＃は決裁文書が完了して文書を共有された者である。",
+    "vi" : "Với tư cách trung gian phê duyệt, #blank# có thẩm quyền phê duyệt và #blank# tài liệu này. \n #blank# có thể chia sẻ tài liệu sau khi chúng đã được phê duyệt.",
+    "zh" : "#blank#是中间批准人而可以承认及#blank#文件。\n #blank#是批准文件结束时接受共有文件的人。"
+  },
+  "등록을 반려했습니다." : {
+    "en" : "Registration has been rejected.",
+    "ja" : "登録を差戻しました。",
+    "vi" : "Bài viết đã bị từ chối.",
+    "zh" : "把登录退回了。"
+  },
+  "참여자의 답변 내용 공개 여부를 설정합니다." : {
+    "en" : "Set whether the participant’s answers will be shown or not.",
+    "ja" : "参加者の回答内容の公開可否を設定します。",
+    "vi" : "Thiết lập xem liệu câu trả lời của người tham gia có được hiển thị hay không.",
+    "zh" : "设定参与人的回答内容是否公开。"
+  },
+  "이미지 선택형" : {
+    "en" : "Image choices",
+    "ja" : "画像選択型",
+    "vi" : "Hình thức chọn hình ảnh",
+    "zh" : "图象选择型"
+  },
+  "승인대기" : {
+    "en" : "Waiting for approval",
+    "ja" : "承認待機",
+    "vi" : "Chờ phê duyệt",
+    "zh" : "待机承认"
+  },
+  "참여형식" : {
+    "en" : "Participation type",
+    "ja" : "参加形式",
+    "vi" : "Loại hình tham gia",
+    "zh" : "参与形式"
+  },
+  "참여안한 설문" : {
+    "en" : "Not Participated survey",
+    "ja" : "参加しなかったアンケート",
+    "vi" : "Khảo sát chưa tham dự",
+    "zh" : "不参与的问卷"
+  },
+  "화남" : {
+    "en" : "Angry",
+    "ja" : "怒る",
+    "vi" : "Tức giận",
+    "zh" : "生气"
+  },
+  "메뉴,청결/보통,불만족" : {
+    "en" : "Menu,Cleanliness /Neutral, Dissatisfied",
+    "ja" : "メニュー、清潔/普通、不満",
+    "vi" : "Menu, Sạch sẽ /Trung lập, Không hài lòng",
+    "zh" : "菜单，清洁 /一般，不满意"
+  },
+  "연결" : {
+    "en" : "Connect",
+    "ja" : "リンク",
+    "vi" : "Kết nối",
+    "zh" : "连接"
+  },
+  "[평가] 평가 등록 요청입니다." : {
+    "en" : "[Evaluation] A request to add (upload) your evaluation.",
+    "ja" : "[評価]評価の登録要請です。",
+    "vi" : "[Đánh giá] Bạn được yêu cầu thêm đánh giá.",
+    "zh" : "邀请登录评价[评价]。"
+  },
+  "참여한 설문" : {
+    "en" : "Participated Surveys",
+    "ja" : "参加したアンケート",
+    "vi" : "Khảo sát đã tham dự",
+    "zh" : "已参与的问卷"
+  },
+  "임시저장" : {
+    "en" : "Save draft",
+    "ja" : "一時保存",
+    "vi" : "Lưu tạm thời",
+    "zh" : "临时保存"
+  },
+  "참여요청쪽지발송" : {
+    "en" : "Send Participation Request Message",
+    "ja" : "参加要請メッセージ送信",
+    "vi" : "Gửi lời nhắn yêu cầu tham dự",
+    "zh" : "发送邀请参与纸条"
+  },
+  "설문관리" : {
+    "en" : "Manage surveys",
+    "ja" : "アンケート管理",
+    "vi" : "Quản lý khảo sát",
+    "zh" : "登录的问卷"
+  },
+  "질문을 입력하세요." : {
+    "en" : "Enter a question.",
+    "ja" : "質問を入力してください。",
+    "vi" : "Hãy nhập câu hỏi.",
+    "zh" : "请输入质问。"
+  },
+  "수정" : {
+    "en" : "Modify",
+    "ja" : "修正",
+    "vi" : "Sửa khảo sát",
+    "zh" : "修改问卷"
+  },
+  "쪽지알림" : {
+    "en" : "Message Notification",
+    "ja" : "メッセージ通知",
+    "vi" : "Thông báo lời nhắn",
+    "zh" : "提醒纸条"
+  },
+  "답안" : {
+    "en" : "Answer",
+    "ja" : "解答",
+    "vi" : "Trả lời",
+    "zh" : "答案"
+  },
+  "평가 유형" : {
+    "en" : "Evaluation Type",
+    "ja" : "評価タイプ",
+    "vi" : "Loại đánh giá",
+    "zh" : "评价类型"
+  },
+  "{0}님이 평가 등록을 반려 하였습니다." : {
+    "en" : "{0} has rejected the registration of the evaluation",
+    "ja" : "{0}さんが評価登録を差戻しました。",
+    "vi" : "{0} đã bác bỏ đánh giá chờ được thêm vào của bạn.",
+    "zh" : "{0}先生，女士退回了评价登录。"
+  },
+  "문항 추가" : {
+    "en" : "Add questions",
+    "ja" : "質問追加",
+    "vi" : "Thêm câu hỏi",
+    "zh" : "追加问项"
+  },
+  "등록된 평가" : {
+    "en" : "Added Reviews (Evalutations)",
+    "ja" : "登録された評価",
+    "vi" : "Đánh giá được thêm vào",
+    "zh" : "登录好的评价"
+  },
+  "진행중 설문" : {
+    "en" : "In progress (Survey)",
+    "ja" : "進行中アンケート",
+    "vi" : "Khảo sát đang tiến hành",
+    "zh" : "进行中问卷"
+  },
+  "설문참여" : {
+    "en" : "Surveys that I haven't participated in",
+    "ja" : "アンケート参加",
+    "vi" : "Tham dự khảo sát",
+    "zh" : "参与问卷"
+  },
+  "오늘" : {
+    "en" : "Today",
+    "ja" : "今日",
+    "vi" : "Hôm nay",
+    "zh" : "今天"
+  },
+  "결과가 공개되지 않습니다." : {
+    "en" : "Results will not be shown.",
+    "ja" : "結果が公開されていません。",
+    "vi" : "Khảo sát này là khảo sát không công khai kết quả.",
+    "zh" : "不会公开结果。"
+  },
+  "최근1주" : {
+    "en" : "Last 1 week",
+    "ja" : "最近1週間",
+    "vi" : "1 tuần gần đây",
+    "zh" : "最近1周"
+  },
+  "업무관리 사용법에 대해 서술하시오" : {
+    "en" : "Describe how to use Task Management.",
+    "ja" : "業務管理の操作方法について述べてください。",
+    "vi" : "Mô tả cách sử dụng mục Quản lý tác vụ",
+    "zh" : "请叙述业务管理的使用法。"
+  },
+  "종료" : {
+    "en" : "Finished",
+    "ja" : "終了",
+    "vi" : "Kết thúc",
+    "zh" : "完成"
+  },
+  "색상" : {
+    "en" : "Color",
+    "ja" : "カラー",
+    "vi" : "Màu",
+    "zh" : "颜色"
+  },
+  "설문제목" : {
+    "en" : "Survey Title",
+    "ja" : "アンケート件名",
+    "vi" : "Tiêu đề khảo sát",
+    "zh" : "问卷题目"
+  },
+  "재평가" : {
+    "en" : "Re-evaluate",
+    "ja" : "再評価",
+    "vi" : "Đánh giá lại",
+    "zh" : "再评价"
+  },
+  "설문 목록" : {
+    "en" : "Survey list",
+    "ja" : "アンケートリスト",
+    "vi" : "Danh sách khảo sát",
+    "zh" : "设问目录"
+  },
+  "반공개" : {
+    "en" : "Show partially",
+    "ja" : "半公開",
+    "vi" : "Công khai một phần",
+    "zh" : "半公开"
+  },
+  "문제은행" : {
+    "en" : "Question Bank",
+    "ja" : "問題銀行",
+    "vi" : "Ngân hàng câu hỏi",
+    "zh" : "问题银行"
+  },
+  "승인등록에서 즉시등록으로 변경 시 승인대기 중인 설문/평가는 즉시 등록됩니다." : {
+    "en" : "When changing from Approval Registration to Immediate Registration in the approval registration, surveys/evaluations pending approval will be immediately registered.",
+    "ja" : "承認登録から即時登録に変更すると、承認待ちのアンケート/評価が即座に登録されます。",
+    "vi" : "Khi chuyển từ Đăng ký phê duyệt sang Đăng ký ngay lập tức trong đăng ký phê duyệt, các cuộc khảo sát/đánh giá đang chờ phê duyệt sẽ được đăng ký ngay lập tức.",
+    "zh" : "更改为立即注册后，等待批准的调查/评估将立即注册。"
+  },
+  "발송" : {
+    "en" : "Send",
+    "ja" : "送信",
+    "vi" : "Gửi",
+    "zh" : "发送"
+  },
+  "사용자, 부서, 사용자그룹을 설문등록자로 선택할 수 있습니다." : {
+    "en" : "You can select users/departments/user groups as survey registrants.",
+    "ja" : "ユーザー、部署、ユーザーグループをアンケート登録者で選択することができます。",
+    "vi" : "Có thể chọn người dùng, bộ phận, nhóm người dùng như người đăng ký khảo sát.",
+    "zh" : "使用者、部门、使用者组织可以选择为设文登录者。"
+  },
+  "미참여 평가설문이 있습니다." : {
+    "en" : "There are evaluations that have not been participated in.",
+    "ja" : "未参加の評価アンケートがあります。",
+    "vi" : "Có các đánh giá mà bạn chưa tham gia.",
+    "zh" : "存在未参与的评估调查。"
+  },
+  "삭제" : {
+    "en" : "Delete",
+    "ja" : "削除",
+    "vi" : "Xóa",
+    "zh" : "删除"
+  },
+  "이메일" : {
+    "en" : "e-mail",
+    "ja" : "電子メール",
+    "vi" : "Email",
+    "zh" : "邮件"
+  },
+  "쿨쿨" : {
+    "en" : "zzz (Sleeping)",
+    "ja" : "寝る",
+    "vi" : "zzz (buồn ngủ)",
+    "zh" : "呼呼"
+  },
+  "평가설문등록 요청이 반려되었습니다." : {
+    "en" : "Evaluation survey registration request has been rejected.",
+    "ja" : "評価アンケート登録リクエストが却下されました。",
+    "vi" : "Yêu cầu đăng ký khảo sát đánh giá đã bị từ chối.",
+    "zh" : "评估调查注册请求已拒绝。"
+  },
+  "작&nbsp;&nbsp;성&nbsp;&nbsp;자" : {
+    "en" : "Author",
+    "ja" : "作&nbsp;&nbsp;成&nbsp;&nbsp;者",
+    "vi" : "Người viết",
+    "zh" : "制&nbsp;&nbsp;作&nbsp;&nbsp;者"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "삭제된 설문" : {
+    "en" : "Deleted Survey",
+    "ja" : "削除されたアンケート",
+    "vi" : "Khảo sát được xóa",
+    "zh" : "问卷登录者"
+  },
+  "순위 선택형" : {
+    "en" : "Ranking choices",
+    "ja" : "順位選択型",
+    "vi" : "Hình thức chọn thứ tự",
+    "zh" : "顺序选择型"
+  },
+  "{0}개" : {
+    "en" : "{0} examples",
+    "ja" : "{0}個",
+    "vi" : "{0} ví dụ",
+    "zh" : "{0}个"
+  },
+  "번 보기의 답안" : {
+    "en" : "Answer to Option {0}",
+    "ja" : "番選択肢の解答",
+    "vi" : "Đáp án cho Ví dụ {0}",
+    "zh" : "号例子的答案"
+  },
+  "문항 무작위 정렬" : {
+    "en" : "Arrange Questions in Random Order",
+    "ja" : "質問ランダムソート",
+    "vi" : "Sắp xếp các câu hỏi theo thứ tự ngẫu nhiên",
+    "zh" : "问项随机排列"
+  },
+  "등록된 평가가 없습니다." : {
+    "en" : "There are no registered evaluations.",
+    "ja" : "登録された評価がありません。",
+    "vi" : "Không có đánh giá.",
+    "zh" : "没有登录的评价。"
+  },
+  "등록된 목록이 없습니다." : {
+    "en" : "No lists registered.",
+    "ja" : "登録されたリストがありません。",
+    "vi" : "Không có khảo sát được đăng ký.",
+    "zh" : "没有登录的目录"
+  },
+  "엉엉" : {
+    "en" : "Sob",
+    "ja" : "泣く",
+    "vi" : "Khóc sướt mướt",
+    "zh" : "鸣鸣"
+  },
+  "단일 선택형(기타)" : {
+    "en" : "Single choice (other)",
+    "ja" : "単一選択型(その他)",
+    "vi" : "Hình thức chọn đơn lẻ (Khác)",
+    "zh" : "单一选择型（其他）"
+  },
+  "등록자" : {
+    "en" : "Registrant",
+    "ja" : "登録者",
+    "vi" : "Người đăng ký",
+    "zh" : "登录者"
+  },
+  "최대" : {
+    "en" : "Maximum",
+    "ja" : "最大",
+    "vi" : "Tối đa",
+    "zh" : "最多"
+  },
+  "파일첨부" : {
+    "en" : "Attachment",
+    "ja" : "ファイル添付",
+    "vi" : "File đính kèm",
+    "zh" : "附加文件"
+  },
+  "설문결과" : {
+    "en" : "Survey results",
+    "ja" : "アンケート結果",
+    "vi" : "Kết quả khảo sát",
+    "zh" : "问卷结果"
+  },
+  "[엑셀파일]을 다운로드하여 샘플과 같은 형식으로 작성하여 첨부하세요." : {
+    "en" : "Download [Excel File] and attach it in the same format as Sample.",
+    "ja" : "[Excelファイル]をダウンロードし、サンプルと同じ形式で作成して添付してください。",
+    "vi" : "Tải xuống [FIle Excel] và đính kèm file có cùng định dạng với bản mẫu.",
+    "zh" : "下载[Excel文件]，以与样本相同的形式制作并粘贴附件。"
+  },
+  "참여일시" : {
+    "en" : "Date of Participation",
+    "ja" : "参加日時",
+    "vi" : "Ngày tham dự",
+    "zh" : "参与日时"
+  },
+  "참여결과 엑셀저장" : {
+    "en" : "Save participation results in Excel",
+    "ja" : "参加結果をExcel保存",
+    "vi" : "Lưu kết quả tham dự dưới dạng excel",
+    "zh" : "把参与结果保存在excel"
+  },
+  "참여자 이름만 공개" : {
+    "en" : "Added Reviews (Evalutations)",
+    "ja" : "参加者名のみ公開",
+    "vi" : "Chỉ công khai tên người tham dự",
+    "zh" : "只公开参与者名字"
+  },
+  "평가 종료일" : {
+    "en" : "Evaluation end date",
+    "ja" : "評価終了日",
+    "vi" : "Ngày kết thúc đánh giá",
+    "zh" : "评估结束日"
+  },
+  "오답" : {
+    "en" : "Wrong answer",
+    "ja" : "誤答",
+    "vi" : "Trả lời sai",
+    "zh" : "误答"
+  },
+  "작&nbsp;&nbsp;성&nbsp;&nbsp;일" : {
+    "en" : "Date (Written)",
+    "ja" : "作&nbsp;&nbsp;成&nbsp;&nbsp;日",
+    "vi" : "Ngày viết",
+    "zh" : "制&nbsp;&nbsp;作&nbsp;&nbsp;日"
+  },
+  "미승인 설문" : {
+    "en" : "Unapproved Survey",
+    "ja" : "未承認アンケート",
+    "vi" : "Khảo sát chưa được phê duyệt",
+    "zh" : "未承认问卷"
+  },
+  "평가" : {
+    "en" : "Evaluation",
+    "ja" : "評価",
+    "vi" : "Đánh giá",
+    "zh" : "评价"
+  },
+  "필수" : {
+    "en" : "Required",
+    "ja" : "必須",
+    "vi" : "Yêu cầu",
+    "zh" : "必须"
+  },
+  "메일 전송에 실패했습니다. (서버오류)" : {
+    "en" : "Failed to send mail. (Server Error)",
+    "ja" : "メール送信に失敗しました。(サーバーエラー)",
+    "vi" : "Gửi mail thất bại (Lỗi máy chủ)",
+    "zh" : "失败了发送邮件（服务器错误）"
+  },
+  "문항삭제" : {
+    "en" : "Delete question",
+    "ja" : "問題項目を削除",
+    "vi" : "Xóa câu hỏi",
+    "zh" : "删除文项"
+  },
+  "분기설정" : {
+    "en" : "Branch settings",
+    "ja" : "分岐設定",
+    "vi" : "Cài đặt nhánh",
+    "zh" : "设定季度"
+  },
+  "평가설문등록 요청이 승인되었습니다." : {
+    "en" : "Evaluation survey registration request has been approved.",
+    "ja" : "評価アンケート登録リクエストが承認されました。",
+    "vi" : "Yêu cầu đăng ký khảo sát đánh giá đã được phê duyệt.",
+    "zh" : "评估调查注册请求已批准。"
+  },
+  "설문결과 조회" : {
+    "en" : "View survey results",
+    "ja" : "アンケート結果照会",
+    "vi" : "Xem kết quả khảo sát",
+    "zh" : "查询设文结果"
+  },
+  "인쇄" : {
+    "en" : "Print",
+    "ja" : "印刷",
+    "vi" : "In",
+    "zh" : "打印"
+  },
+  "시간선택" : {
+    "en" : "Select time",
+    "ja" : "時間選択",
+    "vi" : "Chọn thời gian",
+    "zh" : "选择时间"
+  },
+  "평가일정" : {
+    "en" : "Evaluation schedule",
+    "ja" : "評価スケジュール",
+    "vi" : "Lịch trình đánh giá",
+    "zh" : "评价日程"
+  },
+  "등록된 데이터가 없습니다." : {
+    "en" : "No registered data.",
+    "ja" : "登録したデータがありません。",
+    "vi" : "Không có dữ liệu được đăng ký.",
+    "zh" : "没有登录的数据"
+  },
+  "계속" : {
+    "en" : "Continue",
+    "ja" : "継続",
+    "vi" : "Tiếp tục",
+    "zh" : "继续"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "<li>종료일 <strong>{0}일</strong>을 </li><li><input name=\"newEndDate1\" id=\"newEndDate1\"  type=\"text\" style=\"width:120px;\" class=\"input_date\" value=\"{0}\"  readOnly />로 변경합니다.</li>" : {
+    "en" : "<li> the end date <strong>{0} day </strong>  </li><li><input name=\"newEndDate1\" id=\"newEndDate1\"  type=\"text\" style=\"width:120px;\" class=\"input_date\" value=\"{0}\"  readOnly /> change.</li>",
+    "ja" : "<li>終了日<strong>{0}</ strｎ日ong>を</ li><li><input name=\"newEndDate1\" id=\"newEndDate1\" type=\"text\" style=\"width：120px;\"class=\"input_date\" value=\"{0}\" readOnly/>に変更します。</ li>",
+    "vi" : "Thay đổi<li>ngày kết thúc khảo sát <strong>{0}ngày</strong>sang </li><li><input name=\"newEndDate1\" id=\"newEndDate1\" onfocus=\"this.blur()\" readonly=\"\" type=\"text\" style=\"width:120px;\" class=\"input_date\" value=\"{0}\" />.</li>",
+    "zh" : "<li>结束日 <strong>{0}日</strong> 变更为</li><li><input name=\"newEndDate1\" id=\"newEndDate1\"  type=\"text\" style=\"width:120px;\" class=\"input_date\" value=\"{0}\"  readOnly />.</li>"
+  },
+  "분기사용" : {
+    "en" : "Use branch",
+    "ja" : "分岐使用",
+    "vi" : "Sử dụng nhánh",
+    "zh" : "使用季度"
+  },
+  "모르겠습니다" : {
+    "en" : "I don't know",
+    "ja" : "分かりません",
+    "vi" : "Tôi không rõ",
+    "zh" : "不知道"
+  },
+  "설문조사등록 요청이 승인되었습니다." : {
+    "en" : "Survey registration request has been approved.",
+    "ja" : "アンケート登録リクエストが承認されました。",
+    "vi" : "Yêu cầu đăng ký khảo sát đã được phê duyệt.",
+    "zh" : "调查注册请求已批准。"
+  },
+  "세로 분할" : {
+    "en" : "Split vertically",
+    "ja" : "縦分割",
+    "vi" : "Phân chia dọc",
+    "zh" : "坚分割"
+  },
+  "엑셀파일이 아닙니다." : {
+    "en" : "It is not an Excel file.",
+    "ja" : "Excelファイルではありません。",
+    "vi" : "Không phải file excel.",
+    "zh" : "不是excel文件。"
+  },
+  "설문조사" : {
+    "en" : "Surveys",
+    "ja" : "アンケート調査",
+    "vi" : "Khảo sát",
+    "zh" : "问卷调查"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chức vụ",
+    "zh" : "职位"
+  },
+  "설문등록" : {
+    "en" : "Register a Survey",
+    "ja" : "アンケート登録",
+    "vi" : "Đăng ký khảo sát",
+    "zh" : "登录问卷"
+  },
+  "실명 조회자로 선택된 사용자는 익명의 설문의 실명을 조회할수 있습니다." : {
+    "en" : "Users who are added to the 'View in Real Name' list can also view the real names of anonymous participants who participated in the survey.",
+    "ja" : "実名照会者に選択されたユーザーは、匿名のアンケートの実名を照会することができます。",
+    "vi" : "Người dùng được thêm vào danh sách có thể xem tên thật trong các cuộc khảo sát giấu tên.",
+    "zh" : "选择为实名查询人的使用者可以查询匿名设问的实名。"
+  },
+  "평가 기간" : {
+    "en" : "Evaluation period",
+    "ja" : "評価期間",
+    "vi" : "Thời gian đánh giá",
+    "zh" : "评价期间"
+  },
+  "평가기간" : {
+    "en" : "Evaluation period",
+    "ja" : "評価期間",
+    "vi" : "Thời gian đánh giá",
+    "zh" : "评价期间"
+  },
+  "평가하기" : {
+    "en" : "Evaluate",
+    "ja" : "評価する",
+    "vi" : "Đánh giá",
+    "zh" : "进行评价"
+  },
+  "참여 정보" : {
+    "en" : "Participation information",
+    "ja" : "参加情報",
+    "vi" : "Thông tin tham gia",
+    "zh" : "参与信息"
+  },
+  "이미지{0}" : {
+    "en" : "Image{0}",
+    "ja" : "画像{0}",
+    "vi" : "Hình ảnh {0}",
+    "zh" : "图象{0}"
+  },
+  "보기 개수" : {
+    "en" : "Number of options.",
+    "ja" : "例個数",
+    "vi" : "Số lượng tùy chọn.",
+    "zh" : "预览数量"
+  },
+  "현재 회의실 자리를 휴게실로 개편하는 것에 찬성하십니까?" : {
+    "en" : "Do you agree on remodeling the current conference room into a lounge?",
+    "ja" : "現在の会議室を休憩室に変更することに賛成しますか？",
+    "vi" : "Bạn có đồng ý với việc tu sửa phòng hội nghị hiện tại để làm thành phòng chờ không?",
+    "zh" : "您赞成现在会议室位置改成为休息室吗？"
+  },
+  "복사할 문항을 선택하세요." : {
+    "en" : "Select a question to copy.",
+    "ja" : "コピーする問題項目を選択してください",
+    "vi" : "Hãy chọn câu hỏi để sao chép",
+    "zh" : "请选择要拷贝的问项。"
+  },
+  "정답" : {
+    "en" : "Correct answer",
+    "ja" : "正解",
+    "vi" : "Trả lời chính xác",
+    "zh" : "正确答案"
+  },
+  "등록" : {
+    "en" : "Add",
+    "ja" : "登録",
+    "vi" : "Thêm",
+    "zh" : "登录"
+  },
+  "참여설문" : {
+    "en" : "Surveys participated",
+    "ja" : "参加アンケート",
+    "vi" : "Khảo sát tham dự",
+    "zh" : "参与的问卷"
+  },
+  "평가설문이 등록되었습니다." : {
+    "en" : "Evaluation surveys have been registered.",
+    "ja" : "評価アンケートが登録されました。",
+    "vi" : "Các cuộc khảo sát đánh giá đã được đăng ký.",
+    "zh" : "评估调查已注册。"
+  },
+  "즉시등록 선택시 설문조사를 바로 등록할 수 있습니다." : {
+    "en" : "Click 'Add Now' to add your survey immediately.",
+    "ja" : "すぐに登録を選択すると、アンケート調査をすぐに登録することができます。",
+    "vi" : "Bạn có thể đăng ký ngay khảo sát khi chọn đăng ký ngay lập tức.",
+    "zh" : "选择立即登录时可以直接登录问卷调查。"
+  },
+  "입력내용 삭제" : {
+    "en" : "Delete content",
+    "ja" : "入力内容を削除",
+    "vi" : "Xóa đối tượng đầu vào",
+    "zh" : "删除输入内容"
+  },
+  "타이틀" : {
+    "en" : "Title",
+    "ja" : "タイトル",
+    "vi" : "Chức vụ",
+    "zh" : "标题"
+  },
+  "황당" : {
+    "en" : "Embarrassed",
+    "ja" : "困惑",
+    "vi" : "Hoang mang",
+    "zh" : "荒唐"
+  },
+  "평가중" : {
+    "en" : "Under evaluation",
+    "ja" : "評価中",
+    "vi" : "Theo đánh giá",
+    "zh" : "评价中"
+  },
+  "복수 입력" : {
+    "en" : "Multiple answer",
+    "ja" : "複数入力",
+    "vi" : "Nhiều đáp án",
+    "zh" : "复数输入"
+  },
+  "진행중 평가" : {
+    "en" : "Ongoing evaluations",
+    "ja" : "進行中の評価",
+    "vi" : "Đánh giá đang tiến hành",
+    "zh" : "进行中评价"
+  },
+  "즉시등록" : {
+    "en" : "Add now",
+    "ja" : "すぐに登録",
+    "vi" : "Đăng ký ngay lập tức",
+    "zh" : "立即登录"
+  },
+  "문제은행 분류" : {
+    "en" : "Question Bank category",
+    "ja" : "問題銀行のカテゴリ",
+    "vi" : "danh mục Ngân hàng câu hỏi",
+    "zh" : "分类问题银行"
+  },
+  "위로" : {
+    "en" : "Up",
+    "ja" : "上に",
+    "vi" : "Lên trên",
+    "zh" : "往上"
+  },
+  "이름 입력" : {
+    "en" : "Enter a name.",
+    "ja" : "名前入力",
+    "vi" : "Nhập tên",
+    "zh" : "输入名字"
+  },
+  "평가 점수" : {
+    "en" : "Evaluation score",
+    "ja" : "評価点数",
+    "vi" : "Điểm đánh giá",
+    "zh" : "评价分数"
+  },
+  "이미 참여하셨습니다." : {
+    "en" : "You have already participated.",
+    "ja" : "既に参加しています。",
+    "vi" : "Bạn đã tham gia khảo sát rồi.",
+    "zh" : "已经参加了。"
+  },
+  "참여결과" : {
+    "en" : "Participation results",
+    "ja" : "参加結果",
+    "vi" : "Kết quả tham gia",
+    "zh" : "参与结果"
+  },
+  "내부설문" : {
+    "en" : "Internal survey",
+    "ja" : "内部アンケート",
+    "vi" : "Khảo sát nội bộ",
+    "zh" : "内部问卷"
+  },
+  "공개" : {
+    "en" : "Show all",
+    "ja" : "公開",
+    "vi" : "Công khai",
+    "zh" : "公开"
+  },
+  "문항등록" : {
+    "en" : "Add questions",
+    "ja" : "質問登録",
+    "vi" : "Thêm câu hỏi",
+    "zh" : "登录问项"
+  },
+  "결재문서를 작성하는 유형입니다.\n결재 진행중 또는 결재 종료 후 결재선에 없더라도 조회할 수 있는 유형입니다." : {
+    "en" : "This is a type of creating an approval document.\nThis is a type that allows you to view the document even during or after the approval process.",
+    "ja" : "決裁文書を作成するタイプです。\n決裁進行中または決裁終了後に決裁ラインになくても照会できるタイプです。",
+    "vi" : "Đây là một hình thức tạo tài liệu cần phê duyệt.\nĐây là hình thức cho phép bạn xem các tài liệu trong hoặc sau quá trình phê duyệt.",
+    "zh" : "写批准文件的类型。\n进行批准中或者结束批准后没有批准线也可以查询的类型。"
+  },
+  "비공개" : {
+    "en" : "Private",
+    "ja" : "非公開",
+    "vi" : "Không khảo sát",
+    "zh" : "非公开"
+  },
+  "[엑셀파일]을 다운로드하여 아래와 같은 형식으로 작성하여 첨부하세요." : {
+    "en" : "Download [Excel file], fill in and attach in the following format.",
+    "ja" : "[Excelファイル]をダウンロードして、以下のような形式で作成して添付してください。",
+    "vi" : "Tải xuống [File Excel], điền đầy đủ thông tin và đính kèm tài liệu dưới định dạng sau.",
+    "zh" : "下载[excel文档]后通过下列形式制作而附加。"
+  },
+  "평가설문등록 요청을 했습니다." : {
+    "en" : "Evaluation survey registration request has been made.",
+    "ja" : "評価アンケート登録リクエストを送信しました。",
+    "vi" : "Yêu cầu đăng ký khảo sát đánh giá đã được thực hiện.",
+    "zh" : "已提交评估调查注册请求。"
+  },
+  "제한시간 사용" : {
+    "en" : "Use Time Limit",
+    "ja" : "制限時間を使用",
+    "vi" : "Sử dụng thời gian giới hạn",
+    "zh" : "使用时间限制"
+  },
+  "목록닫기" : {
+    "en" : "Close list",
+    "ja" : "リスト閉じる",
+    "vi" : "Đóng danh sách",
+    "zh" : "关闭目录"
+  },
+  "다음 중 그룹웨어에 없는 모듈을 선택하세요" : {
+    "en" : "Please select the module which is not a part of Groupware.",
+    "ja" : "次のうちグループウェアにないモジュールを選んでください。",
+    "vi" : "Vui lòng chọn các mô-đun không có trong Groupware",
+    "zh" : "下面请选择在群件没有的模块。"
+  },
+  "보기 개수를 설정 수정 시 이전 설문을 재사용 및 수정 할 수 없습니다." : {
+    "en" : "If you set or modify the number of options, you cannot reuse or modify the previous survey.",
+    "ja" : "選択肢の個数を設定修正の際、以前のアンケートを再使用及び修正できません。",
+    "vi" : "Nếu bạn đặt và sửa đổi số lượt xem, bạn sẽ không được sử dụng lại và sửa đổi khảo sát trước đó.",
+    "zh" : "设定并修改观看个数时,不能重新使用和修改以前的问卷。"
+  },
+  "삭제되었습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除されました。",
+    "vi" : "Khảo sát đã bị xóa.",
+    "zh" : "删除完了。"
+  },
+  "댓글 내용을 입력하세요." : {
+    "en" : "Enter a comment.",
+    "ja" : "コメント内容を入力してください。",
+    "vi" : "Hãy nhập nội dung bình luận.",
+    "zh" : "请输入回帖内容。"
+  },
+  "알림" : {
+    "en" : "Notification",
+    "ja" : "通知",
+    "vi" : "Thông báo",
+    "zh" : "提醒"
+  },
+  "승인사용 여부" : {
+    "en" : "Use Approvals",
+    "ja" : "承認使用可否",
+    "vi" : "Sử dụng công tác phê duyệt",
+    "zh" : "是否使用承认"
+  },
+  "평가설문이 완료 되었습니다." : {
+    "en" : "Evaluation surveys have been completed.",
+    "ja" : "評価アンケートが完了しました。",
+    "vi" : "Các cuộc khảo sát đánh giá đã hoàn thành.",
+    "zh" : "评估调查已完成。"
+  },
+  "등록자 설정" : {
+    "en" : "Participant settings",
+    "ja" : "登録者の設定",
+    "vi" : "Thiết lập người tham gia",
+    "zh" : "设定登录人"
+  },
+  "열" : {
+    "en" : "Column",
+    "ja" : "縦",
+    "vi" : "Cột",
+    "zh" : "竖"
+  },
+  "단일 선택형" : {
+    "en" : "Single choice",
+    "ja" : "単一選択型",
+    "vi" : "Hình thức chọn một",
+    "zh" : "单一选择型"
+  },
+  "[설문조사] 설문조사 등록 요청입니다." : {
+    "en" : "[Survey] A request to add a survey.",
+    "ja" : "[アンケート調査]アンケート調査の登録要請です。",
+    "vi" : "[Khảo sát] Đây là yêu cầu đăng ký khảo sát.",
+    "zh" : "[问卷调查]是登录问卷调查邀请。"
+  },
+  "배점" : {
+    "en" : "Marks allotted",
+    "ja" : "配点",
+    "vi" : "Đã đánh dấu",
+    "zh" : "按题分配分数"
+  },
+  "검색된 결과가 없습니다." : {
+    "en" : "No search results found",
+    "ja" : "検索された結果がありません。",
+    "vi" : "Không có khảo sát được tìm thấy",
+    "zh" : "没有搜索的结果。"
+  },
+  "관심" : {
+    "en" : "Favorite",
+    "ja" : "お気に入り",
+    "vi" : "Quan tâm",
+    "zh" : "关心"
+  },
+  "텍스트 입력형이라 결과를 조회할 수 없습니다." : {
+    "en" : "You can't view the results because the question is the Type-Text type.",
+    "ja" : "テキスト入力型なので結果照会ができません。",
+    "vi" : "Bạn không thể xem kết quả bởi vì hình thức nhập chữ",
+    "zh" : "因为文本输入型而无法查询结果。"
+  },
+  "설문 종료일" : {
+    "en" : "Survey end date",
+    "ja" : "アンケート終了日",
+    "vi" : "Ngày kết thúc khảo sát",
+    "zh" : "问卷结束日"
+  },
+  "설문등록자" : {
+    "en" : "Registrants",
+    "ja" : "アンケート登録者",
+    "vi" : "Người đăng ký khảo sát",
+    "zh" : "制作中设文"
+  },
+  "분류 선택" : {
+    "en" : "Select a category",
+    "ja" : "カテゴリ選択",
+    "vi" : "Chọn danh mục",
+    "zh" : "选择分类"
+  },
+  "인쇄 미리보기" : {
+    "en" : "Print preview",
+    "ja" : "印刷プレビュー",
+    "vi" : "Xem trước khi in",
+    "zh" : "预览打印"
+  },
+  "불러오기" : {
+    "en" : "Import",
+    "ja" : "インポート",
+    "vi" : "Nhập",
+    "zh" : "叫来"
+  },
+  "평가는 PC에서 참여하여 주세요." : {
+    "en" : "Please evaluate on PC",
+    "ja" : "PCから評価を行ってください。",
+    "vi" : "Vui lòng đánh giá trên máy tính",
+    "zh" : "评价请在 PC 参与。"
+  },
+  "번 보기의 답안을 선택하세요." : {
+    "en" : "Select answer to Option {0}",
+    "ja" : "番例の答案を選んでください。",
+    "vi" : "Chọn đáp án cho Ví dụ {0}",
+    "zh" : "请选择 号提干的答案。"
+  },
+  "참여자 이름 및 답변내용 모두 공개" : {
+    "en" : "Show all participant's name and answers.",
+    "ja" : "参加者名前及び返事内容全部公開",
+    "vi" : "Hiện tất cả tên người tham dự và nội dung trả lời.",
+    "zh" : "全部公开参与者名字及回答内容"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Tiêu đề",
+    "zh" : "题目"
+  },
+  "등록자로 선택된 사용자는 설문/평가를 등록할 수 있습니다." : {
+    "en" : "Users with posting permission can upload surveys/evaluations.",
+    "ja" : "登録者として選択されたユーザーはアンケート・評価を登録することができます。",
+    "vi" : "Người dùng được chọn làm người đăng có thể thêm khảo sát/đánh giá.",
+    "zh" : "被选为登录者的用户可登录提问/评价。"
+  },
+  "사용자리스트 가져오기" : {
+    "en" : "Import user list",
+    "ja" : "ユーザーリストをインポート",
+    "vi" : "Xuất danh sách người dùng",
+    "zh" : "拿来使用者目录"
+  },
+  "흐흐" : {
+    "en" : "Sly Smile",
+    "ja" : "フフ",
+    "vi" : "Khóc nức nở",
+    "zh" : "嘻嘻"
+  },
+  "최소/최대" : {
+    "en" : "Minimum/Maximum",
+    "ja" : "最小/最大",
+    "vi" : "Tối thiểu/Tối đa",
+    "zh" : "最小/最多"
+  },
+  "승인등록 선택 시 승인권자의 승인 후 등록됩니다." : {
+    "en" : "When selecting Approval Registration, it will be registered after approval by the approver.",
+    "ja" : "承認登録を選択すると、承認者の承認後に登録されます。",
+    "vi" : "Khi chọn Đăng ký phê duyệt, nó sẽ được đăng ký sau khi được phê duyệt bởi người phê duyệt.",
+    "zh" : "选择批准注册后，将由批准者批准后注册。"
+  },
+  "문항복사" : {
+    "en" : "Copy question",
+    "ja" : "問題項目をコピー",
+    "vi" : "Sao chép câu hỏi",
+    "zh" : "拷贝问项"
+  },
+  "드롭다운" : {
+    "en" : "Dropdown",
+    "ja" : "ドロップダウン",
+    "vi" : "Thả xuống",
+    "zh" : "下拉"
+  },
+  "설문 실명 조회자로 선택된 사용자는 익명인 설문의 실명을 조회할 수 있습니다." : {
+    "en" : "Users set as survey real-name reviewers can view the real names of the anonymous survey respondents.",
+    "ja" : "アンケートの実名照会者として選択されたユーザーは匿名のアンケートの実名を照会することができます。",
+    "vi" : "Người dùng được chọn làm người xem tên thật trong khảo sát sẽ có thể xem tên thật trong các khảo sát ẩn danh.",
+    "zh" : "被选为提问实名查询的用户可查询匿名提问的实名。"
+  },
+  "{0}님이 평가 등록 승인을 요청하였습니다." : {
+    "en" : "{0} has requested approval for the registration of his/her evaluation.",
+    "ja" : "{0}さんが評価登録承認を要請しました。",
+    "vi" : "{0} đã yêu cầu phê duyệt để bài đánh giá được thêm vào.",
+    "zh" : "{0}先生，女士邀请了承认评价登录。"
+  },
+  "보기 추가" : {
+    "en" : "Add Option",
+    "ja" : "選択肢追加",
+    "vi" : "Thêm ví dụ",
+    "zh" : "追加看"
+  },
+  "평가 문항" : {
+    "en" : "Questions for evaluation",
+    "ja" : "評価質問",
+    "vi" : "Câu hỏi để đánh giá",
+    "zh" : "评价问项"
+  },
+  "평가자" : {
+    "en" : "Evaluated by",
+    "ja" : "評価者",
+    "vi" : "Được đánh giá bởi",
+    "zh" : "评价人"
+  },
+  "승인등록" : {
+    "en" : "Add Upon Approval",
+    "ja" : "承認登録",
+    "vi" : "Đăng ký phê duyệt",
+    "zh" : "承认登录"
+  },
+  "평가일" : {
+    "en" : "Evaluation date",
+    "ja" : "評価日",
+    "vi" : "Ngày đánh giá",
+    "zh" : "评价日"
+  },
+  "수신자" : {
+    "en" : "Recipient",
+    "ja" : "受信者",
+    "vi" : "Người nhận",
+    "zh" : "收信人"
+  },
+  "초기화" : {
+    "en" : "Reset",
+    "ja" : "初期化",
+    "vi" : "Thiết lập lại",
+    "zh" : "初始化"
+  },
+  "아직 평가하지 않으셨습니다. 평가를 부탁드립니다." : {
+    "en" : "You haven't submitted your evaluation. Please participate in the evaluation process.",
+    "ja" : "まだ評価されていません。評価をお願いします。",
+    "vi" : "Bạn chưa nộp đánh giá của mình. Vui lòng đánh giá",
+    "zh" : "好没进行评价。请您进行评价。"
+  },
+  "복사" : {
+    "en" : "Copy",
+    "ja" : "コピー",
+    "vi" : "Sao chép",
+    "zh" : "拷贝"
+  },
+  "음력" : {
+    "en" : "Lunar Date",
+    "ja" : "旧暦",
+    "vi" : "Âm lịch",
+    "zh" : "阴历"
+  },
+  "이미지 업로드" : {
+    "en" : "Upload image",
+    "ja" : "画像アップロード",
+    "vi" : "Tải lên hình ảnh",
+    "zh" : "图象上载"
+  },
+  "결과조회" : {
+    "en" : "View results",
+    "ja" : "結果照会",
+    "vi" : "Xem kết quả",
+    "zh" : "查询结果"
+  },
+  "종일 여부" : {
+    "en" : "All day",
+    "ja" : "終日可否",
+    "vi" : "Cả ngày",
+    "zh" : "是否整天"
+  },
+  "참여자" : {
+    "en" : "Participants",
+    "ja" : "参加者",
+    "vi" : "Người tham dự",
+    "zh" : "参与者"
+  },
+  "메일주소 입력" : {
+    "en" : "Enter an e-mail address.",
+    "ja" : "メールアドレス入力",
+    "vi" : "Nhập địa chỉ mail",
+    "zh" : "输入邮件地址"
+  },
+  "아파" : {
+    "en" : "In pain",
+    "ja" : "痛い",
+    "vi" : "Đau",
+    "zh" : "疼"
+  },
+  "접기/펴기" : {
+    "en" : "Hide/Show",
+    "ja" : "閉じる/開く",
+    "vi" : "Ẩn/Hiện",
+    "zh" : "折叠/翻开"
+  },
+  "결과" : {
+    "en" : "Result",
+    "ja" : "結果",
+    "vi" : "Kết quả",
+    "zh" : "结果"
+  },
+  "설문 실명 조회자" : {
+    "en" : "Survey Real Name Review",
+    "ja" : "アンケートの実名検索者",
+    "vi" : "Người xem tên thật trong khảo sát",
+    "zh" : "提问实名查询者"
+  },
+  "반응형 레이아웃" : {
+    "en" : "Responsive layout",
+    "ja" : "反応型レイアウト",
+    "vi" : "Bố cục linh hoạt",
+    "zh" : "反映形布局"
+  },
+  "기안\n공유" : {
+    "en" : "Draft\nShare",
+    "ja" : "起案\n共有",
+    "vi" : "Bản thảo\nChia sẻ",
+    "zh" : "共有\n起案"
+  },
+  "설문조사등록 요청을 했습니다." : {
+    "en" : "Survey registration request has been made.",
+    "ja" : "アンケート登録リクエストを送信しました。",
+    "vi" : "Yêu cầu đăng ký khảo sát đã được thực hiện.",
+    "zh" : "已提交调查注册请求。"
+  },
+  "설문&nbsp;제목" : {
+    "en" : "Survey Title",
+    "ja" : "アンケート&nbsp;件名",
+    "vi" : "Tiêu đề khảo sát",
+    "zh" : "问卷&nbsp;题目"
+  },
+  "참여자가 없습니다." : {
+    "en" : "There are no participants.",
+    "ja" : "参加者がいません。",
+    "vi" : "Không có người tham dự khảo sát.",
+    "zh" : "没有参与人。"
+  },
+  "완전삭제" : {
+    "en" : "Delete Permanently",
+    "ja" : "完全削除",
+    "vi" : "Xóa toàn bộ",
+    "zh" : "完全删除"
+  },
+  "질문" : {
+    "en" : "Question",
+    "ja" : "質問",
+    "vi" : "Câu hỏi",
+    "zh" : "质问"
+  },
+  "[설문조사] 설문조사가 반려되었습니다." : {
+    "en" : "[Survey] Your survey has been rejected.",
+    "ja" : "【アンケート調査】アンケート調査が差戻しされました。",
+    "vi" : "[Khảo sát] Khảo sát của bạn đã bị từ chối.",
+    "zh" : "[问卷调查]问卷调查被退回了。"
+  },
+  "등록을 반려하시겠습니까?" : {
+    "en" : "Would you like to reject registration?",
+    "ja" : "登録を差戻しますか？",
+    "vi" : "Bạn có muốn từ chối bài đăng này không?",
+    "zh" : "要承认退回吗？"
+  },
+  "휴게시설공사 날짜\n휴게시설개편 날짜" : {
+    "en" : "Lounge construction date\nLounge renovation date",
+    "ja" : "休憩施設工事 日付\n休憩施設変更 日付",
+    "vi" : "Ngày xây dựng phòng chờ\nNgày cải tạo phòng chờ",
+    "zh" : "休息室工程日子\n休息室改编日子"
+  },
+  "작성중 설문" : {
+    "en" : "Ongoing survey",
+    "ja" : "作成中のアンケート",
+    "vi" : "Khảo sát đang viết",
+    "zh" : "完成的设文"
+  },
+  "진행중" : {
+    "en" : "In progress",
+    "ja" : "進行中",
+    "vi" : "Đang tiến hành",
+    "zh" : "进行中"
+  },
+  "답변 형태" : {
+    "en" : "Answer type",
+    "ja" : "回答の形態",
+    "vi" : "Hình thức trả lời",
+    "zh" : "回答形态"
+  },
+  "아직 평가에 참여하지 않으셨습니다. 참여 부탁드립니다." : {
+    "en" : "You have not participated in the survey yet. Please participate",
+    "ja" : "まだ評価に参加しておりません。参加お願いいたします。",
+    "vi" : "Bạn chưa tham gia khảo sát. Hãy khảo sát ngay",
+    "zh" : "您还没有参与评价。 请参与。"
+  },
+  "설문조사 리스트" : {
+    "en" : "List of surveys",
+    "ja" : "アンケート調査リスト",
+    "vi" : "Danh sách khảo sát",
+    "zh" : "问卷调查目录"
+  },
+  "보기 개수를 설정 수정 시 이전 설문/평가를 재사용 및 수정 할 수 없습니다." : {
+    "en" : "Previous surveys/evaluations cannot be edited if the view count setting is changed.",
+    "ja" : "表示数を設定または変更する時に、以前のアンケート・評価を再使用及び変更することはできません。",
+    "vi" : "Không thể chỉnh sửa và sử dụng lại khảo sát/đánh giá trước đó khi đã chỉnh sửa cài đặt số lượt xem.",
+    "zh" : "修改预览数设置时不可修改或重复使用原有提问/评价。"
+  },
+  "사진 첨부" : {
+    "en" : "Attach photos",
+    "ja" : "写真添付",
+    "vi" : "Đính kèm ảnh",
+    "zh" : "附加照片"
+  },
+  "설문조사보기" : {
+    "en" : "View survey",
+    "ja" : "アンケート調査を見る",
+    "vi" : "Xem khảo sát",
+    "zh" : "看问卷调查"
+  },
+  "엑셀파일(.xlsx)로 작성된 메일리스트(100개)를 가져옵니다." : {
+    "en" : "Import the e-mail list (100 e-mail addresses) that was written in Excel (.xlsx).",
+    "ja" : "Excelファイル(.xls)に作成されたメールリストをインポートします。",
+    "vi" : "Nhậpp danh sách mail bằng file excel (.xls)",
+    "zh" : "拿来制作为excel文件(.xls)的邮件目录。"
+  },
+  "설문" : {
+    "en" : "Survey",
+    "ja" : "アンケート",
+    "vi" : "Khảo sát",
+    "zh" : "设问"
+  },
+  "주간" : {
+    "en" : "Weekly",
+    "ja" : "週間",
+    "vi" : "Hàng tuần",
+    "zh" : "周间"
+  },
+  "순서" : {
+    "en" : "Order",
+    "ja" : "順序",
+    "vi" : "Thứ tự",
+    "zh" : "循序"
+  },
+  "평가현황" : {
+    "en" : "Evaluation status",
+    "ja" : "評価状況",
+    "vi" : "Tình trạng đánh giá",
+    "zh" : "评价线框"
+  },
+  "평가종료" : {
+    "en" : "Evaluation Complete",
+    "ja" : "評価終了",
+    "vi" : "Đánh giá",
+    "zh" : "评价结束"
+  },
+  "날짜선택" : {
+    "en" : "Select a date",
+    "ja" : "日付選択",
+    "vi" : "Chọn ngày",
+    "zh" : "选择日子"
+  },
+  "평가관리" : {
+    "en" : "Manage evaluations",
+    "ja" : "評価管理",
+    "vi" : "Quản lý đánh giá",
+    "zh" : "管理评价"
+  },
+  "변경합니다." : {
+    "en" : "Change",
+    "ja" : "変更します。",
+    "vi" : "Thay đổi",
+    "zh" : "进行变更。"
+  },
+  "참여대상" : {
+    "en" : "Survey target",
+    "ja" : "参加対象",
+    "vi" : "Đối tượng tham dự",
+    "zh" : "参与对象"
+  },
+  "[설문조사]설문에 참여해주세요." : {
+    "en" : "[Survey] Please, participate in the survey.",
+    "ja" : "[アンケート調査]アンケートに参加してください。",
+    "vi" : "Hãy tham dự khảo sát [Điều tra khảo sát].",
+    "zh" : "请参与[问卷调查]"
+  },
+  "설문상세보기" : {
+    "en" : "View survey details",
+    "ja" : "アンケートの詳細を見る",
+    "vi" : "Xem chi tiết khảo sát",
+    "zh" : "详细看设问"
+  },
+  "평가참여" : {
+    "en" : "Participate in evaluation",
+    "ja" : "評価参加",
+    "vi" : "Tham gia đánh giá",
+    "zh" : "参与评价"
+  },
+  "설문조사에 참여해주세요." : {
+    "en" : "Please, participate in the survey.",
+    "ja" : "アンケート調査に参加してください。",
+    "vi" : "Hãy tham dự khảo sát.",
+    "zh" : "请参与问卷。"
+  },
+  "등록자로 선택된 사용자는 평가를 등록할 수 있습니다." : {
+    "en" : "Users who are selected as registrants can submit their evaluation.",
+    "ja" : "登録者に選択されたユーザーは、評価を登録することができます。",
+    "vi" : "Đối tượng được chọn là người tham gia có thể gửi đánh giá.",
+    "zh" : "选择为登录人的使用者可以登录评价。"
+  },
+  "답변개수 선택" : {
+    "en" : "Select number of answers",
+    "ja" : "返信個数を選択",
+    "vi" : "Chọn số trả lời",
+    "zh" : "选择回答个数"
+  },
+  "분류 추가" : {
+    "en" : "Add category",
+    "ja" : "カテゴリ追加",
+    "vi" : "Thêm danh mục",
+    "zh" : "追加分类"
+  },
+  "목록" : {
+    "en" : "List",
+    "ja" : "リスト",
+    "vi" : "Danh sách",
+    "zh" : "目录"
+  },
+  "텍스트 입력형" : {
+    "en" : "Text-typing",
+    "ja" : "テキスト入力型",
+    "vi" : "Hình thức nhập chữ",
+    "zh" : "text输入型"
+  },
+  "단계" : {
+    "en" : "Level",
+    "ja" : "段階",
+    "vi" : "Cấp độ",
+    "zh" : "阶段"
+  },
+  "실명 조회자" : {
+    "en" : "View Real Names",
+    "ja" : "実名の照会者",
+    "vi" : "Xem Tên Thật",
+    "zh" : "实名查询人"
+  },
+  "부끄" : {
+    "en" : "Shy",
+    "ja" : "照れ",
+    "vi" : "Xấu hổ",
+    "zh" : "害羞"
+  },
+  "이미지 크기 최소 100*45 / 최대 300*150 사이즈, gif, jpg, png 형식" : {
+    "en" : "Image size min. 100*45 / max. 300*150 size, gif, jpg, png format",
+    "ja" : "画像の大きさ 最小 100*45 / 最大 300*150 サイズ、gif, jpg, png 形式",
+    "vi" : "Kích thước hình ảnh tối thiểu. 100 * 45 / tối đa. Kích thước 300 * 150, định dạng gif, jpg, png",
+    "zh" : "图片最小为100*45 / 最大为300*150规格, gif, jpg, png文件扩展名"
+  },
+  "삭제된 평가" : {
+    "en" : "Deleted evaluations",
+    "ja" : "削除された評価",
+    "vi" : "Đánh giá đã bị xóa",
+    "zh" : "被删除的评价"
+  },
+  "설문 유형" : {
+    "en" : "Survey type",
+    "ja" : "アンケートタイプ",
+    "vi" : "Loại hình khảo sát",
+    "zh" : "设问类型"
+  },
+  "답변 개수" : {
+    "en" : "Total answers",
+    "ja" : "回答数",
+    "vi" : "Số câu trả lời",
+    "zh" : "回答个数"
+  },
+  "미참여설문" : {
+    "en" : "Unparticipated Surveys",
+    "ja" : "未参加アンケート",
+    "vi" : "Khảo sát chưa tham dự",
+    "zh" : "未参与的问卷"
+  },
+  "전체선택" : {
+    "en" : "Select all",
+    "ja" : "全体選択",
+    "vi" : "Toàn bộ lựa chọn",
+    "zh" : "选择全体"
+  },
+  "처리자" : {
+    "en" : "Processed by",
+    "ja" : "処理者",
+    "vi" : "Người xử lý",
+    "zh" : "处理人"
+  },
+  "미참여자" : {
+    "en" : "Non-participant",
+    "ja" : "未参加者",
+    "vi" : "Người chưa tham dự",
+    "zh" : "未参与者"
+  },
+  "{0}님이 설문조사 등록을 반려 하였습니다." : {
+    "en" : "{0} has rejected your survey registration.",
+    "ja" : "{0}さんが調査の登録を差戻ししました。",
+    "vi" : "{0} đã từ chối đăng ký khảo sát của bạn.",
+    "zh" : "{0}先生，女士退回登录问卷调查了。"
+  },
+  "아래로" : {
+    "en" : "Down",
+    "ja" : "下へ",
+    "vi" : "Xuống dưới",
+    "zh" : "往下"
+  },
+  "평가 대상자가 없습니다." : {
+    "en" : "There are no people to be evaluated.",
+    "ja" : "評価対象者がいません。",
+    "vi" : "Không có người được đánh giá.",
+    "zh" : "没有评价对象人。"
+  },
+  "설문참여하기" : {
+    "en" : "Participate in survey",
+    "ja" : "アンケート参加",
+    "vi" : "Tham dự khảo sát",
+    "zh" : "参与问卷"
+  },
+  "설문타입" : {
+    "en" : "Survey type",
+    "ja" : "アンケートタイプ",
+    "vi" : "Loại hình khảo sát",
+    "zh" : "设问类型"
+  },
+  "분기 설정" : {
+    "en" : "Branch settings",
+    "ja" : "分岐設定",
+    "vi" : "Cài đặt nhánh",
+    "zh" : "设定季度"
+  },
+  "평가결과" : {
+    "en" : "Evaluation results",
+    "ja" : "評価結果",
+    "vi" : "Kết quả đánh giá",
+    "zh" : "评价结果"
+  },
+  "설문등록자를 저장하였습니다." : {
+    "en" : "The survey registrant has been saved.",
+    "ja" : "アンケート登録者を保存しました。",
+    "vi" : "Đã lưu người đăng ký khảo sát.",
+    "zh" : "保存了问卷登录者。"
+  },
+  "휴게실 공사 및 개편 시간은 언제가 좋을지 선택해주세요" : {
+    "en" : "Please select when do you think is the best time to build and remodel the lounge.",
+    "ja" : "休憩室の工事時間および変更時間を選んでください。",
+    "vi" : "Vui lòng chọn thời gian tốt nhất để xây dựng và sửa sang lại phòng chờ?",
+    "zh" : "请选择工程休息室及改编时间哪天好。"
+  },
+  "전체기간" : {
+    "en" : "Entire period",
+    "ja" : "全体期間",
+    "vi" : "Toàn bộ thời gian",
+    "zh" : "全体期间"
+  },
+  "종료된 평가" : {
+    "en" : "Finished evaluations",
+    "ja" : "終了した評価",
+    "vi" : "Đánh giá đã hoàn thành",
+    "zh" : "结束的评价"
+  },
+  "설문 환경설정" : {
+    "en" : "Survey Preferences",
+    "ja" : "アンケート 環境設定",
+    "vi" : "Cài đặt môi trường khảo sát ưa thích",
+    "zh" : "设问 设定环境"
+  },
+  "워드프레스\n전자결재\n설문관리" : {
+    "en" : "WordPress\nE-Approval\nSurvey Management",
+    "ja" : "ワードプレス\n電子決裁\n設問管理",
+    "vi" : "WordPress\nPhê duyệt điện tử\nQuản lý khảo sát",
+    "zh" : "WordPress\n电子批准\n设问管理"
+  },
+  "사용자, 부서, 사용자그룹을 등록자로 선택할 수 있습니다." : {
+    "en" : "You can select users, departments and user groups as a registrant.",
+    "ja" : "ユーザー、部署、ユーザーグループを登録者に選択することができます。",
+    "vi" : "Bạn có thể chọn người dùng, các phòng ban/bộ phện và các nhóm người dùng để làm đối tượng tham gia.",
+    "zh" : "使用者，部门，使用者小组可以选择为登录人。"
+  },
+  "문제분류" : {
+    "en" : "Question categories",
+    "ja" : "問題カテゴリ",
+    "vi" : "danh mục câu hỏi",
+    "zh" : "问题分类"
+  },
+  "미참여 설문조사가 있습니다." : {
+    "en" : "There are surveys that have not been participated in.",
+    "ja" : "未参加のアンケートがあります。",
+    "vi" : "Có các khảo sát mà bạn chưa tham gia.",
+    "zh" : "存在未参与的调查。"
+  },
+  "하하" : {
+    "en" : "Ha-ha (Laughing)",
+    "ja" : "ハハ",
+    "vi" : "Haha (Cười)",
+    "zh" : "哈哈"
+  },
+  "기간변경" : {
+    "en" : "Change Period",
+    "ja" : "期間変更",
+    "vi" : "Thay đổi khoảng thời gian",
+    "zh" : "延长期间"
+  },
+  "최근1달" : {
+    "en" : "Last 1 month",
+    "ja" : "最近1か月",
+    "vi" : "1 tháng gần đây",
+    "zh" : "最近1个月"
+  },
+  "최고" : {
+    "en" : "Best",
+    "ja" : "最高",
+    "vi" : "Tốt nhất",
+    "zh" : "最好"
+  },
+  "승인대기 설문" : {
+    "en" : "Waiting for Approval (Survey)",
+    "ja" : "承認待機   アンケート",
+    "vi" : "Chờ Khảo sát cần phê duyệt",
+    "zh" : "待机承认 设问"
+  },
+  "설문환경설정" : {
+    "en" : "Survey Preferences",
+    "ja" : "アンケート 環境設定",
+    "vi" : "Cài đặt môi trường khảo sát ưa thích",
+    "zh" : "设问  设定环境"
+  },
+  "대기" : {
+    "en" : "Waiting",
+    "ja" : "待機",
+    "vi" : "Chờ",
+    "zh" : "待机"
+  },
+  "복수 선택형(기타)" : {
+    "en" : "Multi-choices (other)",
+    "ja" : "複数選択型(その他)",
+    "vi" : "Hình thức nhiều lựa chọn (Khác)",
+    "zh" : "复数选择型（其他）"
+  },
+  "설문결과 엑셀저장" : {
+    "en" : "Save survey results in Excel",
+    "ja" : "アンケート結果をExcel保存",
+    "vi" : "Lưu kết quản khảo sát dưới dạng excel",
+    "zh" : "把设文结果保存在excel"
+  },
+  "보기{0}" : {
+    "en" : "Option {0}",
+    "ja" : "表示{0}",
+    "vi" : "Ví dụ {0}",
+    "zh" : "看{0}"
+  },
+  "등급" : {
+    "en" : "Level",
+    "ja" : "レベル",
+    "vi" : "Cấp độ",
+    "zh" : "等级"
+  },
+  "등록된 설문" : {
+    "en" : "Registered Survey",
+    "ja" : "登録されたアンケート",
+    "vi" : "Khảo sát được đăng ký",
+    "zh" : "删除的设文"
+  },
+  "미리보기" : {
+    "en" : "Preview",
+    "ja" : "プレビュー",
+    "vi" : "Xem trước",
+    "zh" : "预览"
+  },
+  "목록만 보기" : {
+    "en" : "View list only",
+    "ja" : "リストのみ表示",
+    "vi" : "chỉ xem danh sách",
+    "zh" : "只看目录"
+  },
+  "{0}님이 설문조사 등록 승인을 요청하였습니다." : {
+    "en" : "{0} has requested for approval to add the survey.",
+    "ja" : "{0}さんがアンケート調査の登録承認を要請しました。",
+    "vi" : "Anh/ chị {0} đã phê duyệt đăng khảo sát",
+    "zh" : "{0}先生，女士邀请了登录问卷调查承认。"
+  },
+  "목록열기" : {
+    "en" : "Open list",
+    "ja" : "リスト開く",
+    "vi" : "Mở danh sách",
+    "zh" : "打开目录"
+  },
+  "작성중 평가" : {
+    "en" : "Evaluation in progress",
+    "ja" : "作成中の評価",
+    "vi" : "Đánh giá đang được tạo",
+    "zh" : "制作中的评价"
+  },
+  "분류 순서" : {
+    "en" : "Order of categories",
+    "ja" : "カテゴリ順序",
+    "vi" : "Trình tự danh mục",
+    "zh" : "分类顺序"
+  },
+  "설문등록자로 선택된 사용자는 설문을 등록할 수 있습니다." : {
+    "en" : "Users who are selected as survey registrants can register surveys.",
+    "ja" : "アンケート登録者に選択されたユーザーはアンケート登録可能です。",
+    "vi" : "Người dùng được chọn là người đăng ký khảo sát có thể thêm khảo sát.",
+    "zh" : "被选择为设文登录者的使用者可以登录设文。"
+  },
+  "설문조사등록 요청이 반려되었습니다." : {
+    "en" : "Survey registration request has been rejected.",
+    "ja" : "アンケート登録リクエストが却下されました。",
+    "vi" : "Yêu cầu đăng ký khảo sát đã bị từ chối.",
+    "zh" : "调查注册请求已拒绝。"
+  },
+  "{0}명" : {
+    "en" : "{0} people",
+    "ja" : "{0}人",
+    "vi" : "{0} người",
+    "zh" : "{0}名"
+  },
+  "질려" : {
+    "en" : "I've had it.",
+    "ja" : "呆れる",
+    "vi" : "Tôi đã có được nó.",
+    "zh" : "腻"
+  },
+  "[평가]평가에 참여해주세요." : {
+    "en" : "[Assessment] Please participate in the evaluation.",
+    "ja" : "[評価]評価に参加してください。",
+    "vi" : "[Đánh giá] Hãy tham gia đánh giá.",
+    "zh" : "[点评]请参与评价。"
+  },
+  "엑셀파일은 아래와 같이 사용자명, 메일주소로 작성합니다." : {
+    "en" : "The Excel file should contain user names and e-mail addresses as shown below.",
+    "ja" : "Excelファイルは下記のようにユーザー名、メールアドレスで作成します。",
+    "vi" : "File excel có địa chỉ mail, tên người dùng như dưới đây.",
+    "zh" : "excel文件按照下边的使用者名、邮件地址制作。"
+  },
+  "제한시간" : {
+    "en" : "Time limit",
+    "ja" : "制限時間",
+    "vi" : "Giới hạn thời gian",
+    "zh" : "时间限制"
+  },
+  "휴게실 공사 및 개편날짜는 언제가 좋을지 선택해주세요" : {
+    "en" : "Please select when do you think is the best date to build and remodel the lounge.",
+    "ja" : "休憩室の工事日および変更日を選んでください。",
+    "vi" : "Vui lòng chọn ngày tốt nhất để xây dựng và sửa sang lại phòng chờ?",
+    "zh" : "请选择工程休息室及改编日子哪天好。"
+  },
+  "복수 선택형" : {
+    "en" : "Multi-choices",
+    "ja" : "複数選択型",
+    "vi" : "Hình thức nhiều lựa chọn",
+    "zh" : "复数选择型"
+  },
+  "기간선택" : {
+    "en" : "Select a period",
+    "ja" : "期間選択",
+    "vi" : "Lựa chọn thời gian",
+    "zh" : "选择期间"
+  },
+  "수신자가 없습니다." : {
+    "en" : "No recipients",
+    "ja" : "受信者がありません。",
+    "vi" : "Không có người nhận.",
+    "zh" : "没有收信人。"
+  },
+  "{0}번 보기" : {
+    "en" : "Option No. {0}",
+    "ja" : "{0}番表示",
+    "vi" : "Ví dụ số {0}",
+    "zh" : "看{0}号"
+  },
+  "설정" : {
+    "en" : "Settings",
+    "ja" : "設定",
+    "vi" : "Cài đặt",
+    "zh" : "设定"
+  },
+  "휴게시설공사 시간\n휴게시설개편 시간" : {
+    "en" : "Lounge construction time\nLounge renovation time",
+    "ja" : "休憩施設工事 時間\n休憩施設変更 時間",
+    "vi" : "Thời gian xây dựng phòng chờ\nThời gian tu sửa phòng chờ",
+    "zh" : "休息室工程时间\n休息室改编时间"
+  },
+  "순위{0}" : {
+    "en" : "Ranking no.{0}",
+    "ja" : "順位{0}",
+    "vi" : "Xếp hạng số {0}",
+    "zh" : "顺序{0}"
+  },
+  "직위/직책" : {
+    "en" : "Position/Title",
+    "ja" : "役職/役職",
+    "vi" : "Chức vụ.",
+    "zh" : "职位/职务"
+  },
+  "반려 사유 입력" : {
+    "en" : "Enter a reason for rejection.",
+    "ja" : "差戻しの理由を入力",
+    "vi" : "Nhập lý do từ chối",
+    "zh" : "输入退回原因"
+  },
+  "빈칸추가" : {
+    "en" : "Add blanks",
+    "ja" : "空欄を追加",
+    "vi" : "Thêm khoảng trống",
+    "zh" : "追加空格"
+  },
+  "엑셀등록" : {
+    "en" : "Register Excel",
+    "ja" : "Excel登録",
+    "vi" : "Nhập file excel",
+    "zh" : "登录为excel"
+  },
+  "평가 점수는 3자리까지 입력 가능합니다." : {
+    "en" : "Evaluation score can be up to three-digit numbers.",
+    "ja" : "評価点数は3桁まで入力が可能です。",
+    "vi" : "Điểm đánh giá có thể lên tới con số ba chữ số.",
+    "zh" : "评价分数可以输入到三个数字。"
+  },
+  "설문조사 환경설정을 설정할 수 있습니다." : {
+    "en" : "You can set Survey Preferences.",
+    "ja" : "アンケート調査の環境設定を設定することができます。",
+    "vi" : "Bạn có thể cài đặt môi trường khảo sát.",
+    "zh" : "可以设定问卷调查环境设定。"
+  },
+  "외부설문" : {
+    "en" : "External survey",
+    "ja" : "外部アンケート",
+    "vi" : "Khảo sát bên ngoài",
+    "zh" : "外部问卷"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Bộ phận",
+    "zh" : "部门"
+  },
+  "종일" : {
+    "en" : "All-day",
+    "ja" : "終日",
+    "vi" : "Cả ngày",
+    "zh" : "一整天"
+  },
+  "자" : {
+    "en" : "chars",
+    "ja" : "者",
+    "vi" : "chữ",
+    "zh" : "字"
+  },
+  "직원식당을 1주일에 평균 몇 회 이용하십니까?" : {
+    "en" : "How many times do you use the staff cafeteria in a week?",
+    "ja" : "週に平均何回、社員食堂を利用しますか？",
+    "vi" : "Bạn sử dụng nhà ăn nhân viên bao nhiêu lần trong một tuần?",
+    "zh" : "一个星期平均利用几次职员食堂？"
+  },
+  "답변형태 선택" : {
+    "en" : "Select answer type",
+    "ja" : "返信タイプを選択",
+    "vi" : "Chọn hình thức trả lời",
+    "zh" : "选择回答形态"
+  },
+  "평균점수" : {
+    "en" : "Average score",
+    "ja" : "平均点数",
+    "vi" : "Điểm trung bình",
+    "zh" : "平均分数"
+  },
+  "실명여부" : {
+    "en" : "Use Real Name?",
+    "ja" : "実名可否",
+    "vi" : "Có sử dụng tên thật hay không",
+    "zh" : "是否实名"
+  },
+  "불러올 목록이 없습니다." : {
+    "en" : "There is no list to import.",
+    "ja" : "インポートするリストがありません。",
+    "vi" : "Không có danh sách để nhập.",
+    "zh" : "没有可以拿来的目录。"
+  },
+  "설문에 아직 참여하지 않으셨습니다. 설문 참여를 부탁드립니다." : {
+    "en" : "You haven't participated in the survey yet. Please, participate in the survey.",
+    "ja" : "アンケートにまだ参加していません。アンケートの参加をお願い致します。",
+    "vi" : "Bạn vẫn chưa tham dự khảo sát. Hy vọng bạn sẽ tham dự khảo sát",
+    "zh" : "还没参与问卷。请参与问卷。"
+  },
+  "분류변경" : {
+    "en" : "Change Category",
+    "ja" : "カテゴリ変更",
+    "vi" : "Thay đổi danh mục",
+    "zh" : "变更分类"
+  },
+  "선택" : {
+    "en" : "Select",
+    "ja" : "選択",
+    "vi" : "Lựa chọn",
+    "zh" : "选择"
+  },
+  "설문등록자 설정" : {
+    "en" : "Survey registrants settings",
+    "ja" : "アンケート登録者設定",
+    "vi" : "Cài đặt người đăng ký khảo sát.",
+    "zh" : "设定设文登录者，"
+  },
+  "월간" : {
+    "en" : "Monthly",
+    "ja" : "月間",
+    "vi" : "Hàng tháng",
+    "zh" : "月间"
+  },
+  "최소" : {
+    "en" : "Minimum",
+    "ja" : "最小",
+    "vi" : "Tối thiểu",
+    "zh" : "取消"
+  },
+  "보기" : {
+    "en" : "Option",
+    "ja" : "例",
+    "vi" : "Ví dụ",
+    "zh" : "看"
+  },
+  "[평가] 평가가 반려되었습니다." : {
+    "en" : "[Evaluation] Your evaluation has been rejected.",
+    "ja" : "[評価]評価が差戻しされました。",
+    "vi" : "[Đánh giá] đánh giá của bạn đã bị từ chối.",
+    "zh" : "评价被退回了[评价]。"
+  },
+  "반려의견을 입력해 주세요." : {
+    "en" : "Please enter the reason (opinion) for rejection.",
+    "ja" : "差戻し意見を入力して+ G208：G216ください。",
+    "vi" : "Vui lòng nhập bình luận của bạn về việc từ chối",
+    "zh" : "请输入退回意见。"
+  },
+  "번 빈칸의 답안" : {
+    "en" : "Answer to Blank {0}",
+    "ja" : "番空欄の解答",
+    "vi" : "Câu trả lời cho Khung trống {0}",
+    "zh" : "号空格的答案"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời gian",
+    "zh" : "期间"
+  },
+  "{0}위" : {
+    "en" : "Rank #{0}",
+    "ja" : "{0}上",
+    "vi" : "Vị trí số {0}",
+    "zh" : "{0}位"
+  },
+  "설문기간" : {
+    "en" : "Survey period",
+    "ja" : "アンケート期間",
+    "vi" : "Thời gian khảo sát",
+    "zh" : "问卷期间"
+  },
+  "빈칸채우기" : {
+    "en" : "Fill in the blank",
+    "ja" : "空欄を埋める",
+    "vi" : "Điền vào chỗ trống",
+    "zh" : "填写空格"
+  },
+  "평가 제목" : {
+    "en" : "Evaluation title",
+    "ja" : "評価タイトル",
+    "vi" : "Đánh giá chức vụ",
+    "zh" : "评价题目"
+  },
+  "엑셀파일 샘플" : {
+    "en" : "Excel file sample",
+    "ja" : "Excelファイルのサンプル",
+    "vi" : "Mẫu file excel",
+    "zh" : "excel文档样本"
+  },
+  "이력보기" : {
+    "en" : "View history",
+    "ja" : "履歴を見る",
+    "vi" : "Xem lịch sử",
+    "zh" : "看履历"
+  },
+  "확인" : {
+    "en" : "OK",
+    "ja" : "確認",
+    "vi" : "Xác nhận",
+    "zh" : "确认"
+  },
+  "참여율" : {
+    "en" : "Participation rate",
+    "ja" : "参加率",
+    "vi" : "Tỷ lệ tham dự",
+    "zh" : "参与率"
+  },
+  "각 항목에 맞는 유형을 입력하세요" : {
+    "en" : "Please enter the proper type for each item.",
+    "ja" : "各項目に合ったタイプを入力しなさい。",
+    "vi" : "Vui lòng nhập kiểu phù hợp theo quy định cho từng mục.",
+    "zh" : "请输入搭配各个项目的类型。"
+  },
+  "참여자수" : {
+    "en" : "No. of Participants",
+    "ja" : "参加者数",
+    "vi" : "Số người tham dự",
+    "zh" : "参与者数"
+  },
+  "반려 사유" : {
+    "en" : "Reason for rejection",
+    "ja" : "差戻しの理由",
+    "vi" : "Lý do từ chối",
+    "zh" : "发还理由"
+  },
+  "시험 시간은" : {
+    "en" : "Test time is",
+    "ja" : "試験時間は",
+    "vi" : "Thời gian kiểm tra là",
+    "zh" : "开始时间是"
+  },
+  "참여자 이름 및 답변내용 모두 비공개" : {
+    "en" : "Don't Show participant's name and answers",
+    "ja" : "参加者名前及び返事内容全部非公開",
+    "vi" : "Không công khai tất cả tên người tham dự và nội dung trả lời.",
+    "zh" : "全部不公开参与者名字及回答内容"
+  },
+  "설문보기" : {
+    "en" : "View survey",
+    "ja" : "アンケートを見る",
+    "vi" : "Xem khảo sát",
+    "zh" : "看设问"
+  },
+  "조회 권한이 없습니다." : {
+    "en" : "You don't have permission to view.",
+    "ja" : "照会権限がありません。",
+    "vi" : "Bạn không có quyền xem khảo sát.",
+    "zh" : "没有查询权限。"
+  },
+  "검토\n반려\n공람" : {
+    "en" : "Review\nReject\nShare",
+    "ja" : "検討\n差戻し\n供覧",
+    "vi" : "Đánh giá\nTừ chối\nChia sẻ",
+    "zh" : "退回\n检讨\n供览"
+  },
+  "가져오기" : {
+    "en" : "Import",
+    "ja" : "インポート",
+    "vi" : "Nhập",
+    "zh" : "拿来"
+  }
+}

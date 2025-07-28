@@ -1,0 +1,1256 @@
+{
+  "메일주소" : {
+    "en" : "Mail Address",
+    "ja" : "メールアドレス",
+    "vi" : "địa chỉ e-mail",
+    "zh" : "邮件地址。"
+  },
+  "양식분류" : {
+    "en" : "Form categories",
+    "ja" : "フォームのカテゴリ",
+    "vi" : "Danh mục bản mẫu",
+    "zh" : "样式分类"
+  },
+  "회사전화" : {
+    "en" : "Company phone",
+    "ja" : "会社電話",
+    "vi" : "Số điện thoại công ty",
+    "zh" : "公司电话"
+  },
+  "계정 유형" : {
+    "en" : "Account Type",
+    "ja" : "アカウントタイプ",
+    "vi" : "Loại tài khoản",
+    "zh" : "账号类型"
+  },
+  "금" : {
+    "en" : "Fri",
+    "ja" : "金",
+    "vi" : "Thứ sáu",
+    "zh" : "星期五"
+  },
+  "기본용량 사용여부" : {
+    "en" : "Use Default Storage?",
+    "ja" : "基本容量の使用可否",
+    "vi" : "Có sử dụng dung lượng mặc định hay không",
+    "zh" : "是否使用基本用量"
+  },
+  "내부결재선" : {
+    "en" : "Internal Line of Approval",
+    "ja" : "内部決裁ライン",
+    "vi" : "Luồng phê duyệt nội bộ",
+    "zh" : "内部决批准"
+  },
+  "제목" : {
+    "en" : "Title",
+    "ja" : "件名",
+    "vi" : "Chủ đề",
+    "zh" : "题目"
+  },
+  "경유" : {
+    "en" : "via",
+    "ja" : "経由",
+    "vi" : "thông qua",
+    "zh" : "经由"
+  },
+  "접수일자" : {
+    "en" : "Date Submitted",
+    "ja" : "受付日",
+    "vi" : "Ngày tiếp nhận",
+    "zh" : "接受日子"
+  },
+  "수" : {
+    "en" : "Wed",
+    "ja" : "水",
+    "vi" : "Thứ tư",
+    "zh" : "星期三"
+  },
+  "감사부서" : {
+    "en" : "Auditing department",
+    "ja" : "監査部署",
+    "vi" : "Phòng ban kiểm toán",
+    "zh" : "感谢部门"
+  },
+  "회사번호" : {
+    "en" : "Company number",
+    "ja" : "会社番号",
+    "vi" : "Mã số công ty",
+    "zh" : "公司号码"
+  },
+  "상태" : {
+    "en" : "Status",
+    "ja" : "状態",
+    "vi" : "Trạng thái",
+    "zh" : "状态"
+  },
+  "내부/감사결재선" : {
+    "en" : "Internal/Audit Line of Approval",
+    "ja" : "内部/監査決裁ライン",
+    "vi" : "Nội bộ/Luồng phê duyệt_Kiểm toán",
+    "zh" : "内部/感谢批准线"
+  },
+  "시간형식이 잘못되었습니다." : {
+    "en" : "Invalid time format.",
+    "ja" : "時間の形式が正しくありません。",
+    "vi" : "Định dạng thời gian không chính xác",
+    "zh" : "时间形式有错误。"
+  },
+  "추출 key / value을 입력 하세요." : {
+    "en" : "Enter extraction key / value.",
+    "ja" : "抽出key / valueを入力してください。",
+    "vi" : "Nhập khóa / giá trị trích xuất.",
+    "zh" : "请输入提取的 key / value。"
+  },
+  "첨부 기본용량" : {
+    "en" : "Default Attachment Size",
+    "ja" : "添付の基本容量",
+    "vi" : "Dung lượng lưu trữ mặc định dành cho file đính kèm",
+    "zh" : "附加基本用量"
+  },
+  "공개구분번호" : {
+    "en" : "Public Classification Number",
+    "ja" : "公開区分番号",
+    "vi" : "Mã số phân loại công khai",
+    "zh" : "公开区分号码"
+  },
+  "자료실" : {
+    "en" : "Archive",
+    "ja" : "アーカイブ",
+    "vi" : "Phòng tài liệu",
+    "zh" : "资料室"
+  },
+  "문서내용시작" : {
+    "en" : "Document content start",
+    "ja" : "文書内容の最初",
+    "vi" : "Bắt đầu nội dung tài liệu",
+    "zh" : "文件内容开始"
+  },
+  "테이블 삽입" : {
+    "en" : "Insert table",
+    "ja" : "テーブル挿入",
+    "vi" : "Chèn bảng",
+    "zh" : "插入表"
+  },
+  "할당용량" : {
+    "en" : "Quota",
+    "ja" : "割当容量",
+    "vi" : "Dung lượng phân bổ",
+    "zh" : "分配用量"
+  },
+  "등록번호" : {
+    "en" : "Registration number",
+    "ja" : "登録番号",
+    "vi" : "Số đăng ký",
+    "zh" : "登录号码"
+  },
+  "수신처여부" : {
+    "en" : "Destination Status",
+    "ja" : "受信先可否",
+    "vi" : "Địa chỉ nhận",
+    "zh" : "是否收信处"
+  },
+  "전체결재선" : {
+    "en" : "Line of Approval (All)",
+    "ja" : "全体決裁ライン",
+    "vi" : "Tất cả luồng phê duyệt",
+    "zh" : "全体批准线"
+  },
+  "우편번호" : {
+    "en" : "Zip code",
+    "ja" : "郵便番号",
+    "vi" : "Mã Bưu Chính",
+    "zh" : "邮政编码"
+  },
+  "마일리지" : {
+    "en" : "Mileage",
+    "ja" : "マイレージ",
+    "vi" : "Sô điểm Mileage",
+    "zh" : "积分"
+  },
+  "테이블" : {
+    "en" : "Table",
+    "ja" : "テーブル",
+    "vi" : "Bảng",
+    "zh" : "表格"
+  },
+  "참조자" : {
+    "en" : "Referrer",
+    "ja" : "参照者",
+    "vi" : "Tham chiếu đến",
+    "zh" : "参照人"
+  },
+  "부가주소" : {
+    "en" : "Additional address",
+    "ja" : "付加アドレス",
+    "vi" : "Địa chỉ bổ sung",
+    "zh" : "附加地址"
+  },
+  "화" : {
+    "en" : "Tue",
+    "ja" : "火",
+    "vi" : "Thứ ba",
+    "zh" : "星期二"
+  },
+  "기안부서장" : {
+    "en" : "Head of Drafting Department",
+    "ja" : "起案部署長",
+    "vi" : "Trưởng bộ phận soạn thảo",
+    "zh" : "起案部门长"
+  },
+  "문서내용" : {
+    "en" : "Document content",
+    "ja" : "文書内容",
+    "vi" : "Nội dung tài liệu",
+    "zh" : "文件内容"
+  },
+  "직무명" : {
+    "en" : "Job name",
+    "ja" : "職務名",
+    "vi" : "Tên nhiệm vụ",
+    "zh" : "职务名"
+  },
+  "저장 되었습니다." : {
+    "en" : "It has been saved.",
+    "ja" : "保存されました。",
+    "vi" : "Đã lưu.",
+    "zh" : "保存完了。"
+  },
+  "이름(중국어)" : {
+    "en" : "Name (Chinese)",
+    "ja" : "名前（中国語）",
+    "vi" : "Tên (Tiếng Trung)",
+    "zh" : "姓名( 中文)"
+  },
+  "합계" : {
+    "en" : "Total",
+    "ja" : "合計",
+    "vi" : "Tổng cộng",
+    "zh" : "合计"
+  },
+  "운영자" : {
+    "en" : "Operator",
+    "ja" : "オペレータ",
+    "vi" : "Người vận hành",
+    "zh" : "运营人"
+  },
+  "워크스페이스명" : {
+    "en" : "Work space name",
+    "ja" : "ワークスペース名",
+    "vi" : "Tên Space làm việc",
+    "zh" : "工作空间名"
+  },
+  "선택해주세요." : {
+    "en" : "Please select.",
+    "ja" : "選択してください。",
+    "vi" : "Vui lòng chọn.",
+    "zh" : "请选择。"
+  },
+  "양식명" : {
+    "en" : "Form name",
+    "ja" : "フォーム名",
+    "vi" : "Tên bản mẫu",
+    "zh" : "様式名"
+  },
+  "팩스번호" : {
+    "en" : "Fax number",
+    "ja" : "FAX番号",
+    "vi" : "Số fax",
+    "zh" : "传真号码"
+  },
+  "셀렉트박스" : {
+    "en" : "Select box",
+    "ja" : "セレクトBox",
+    "vi" : "Chọn hộp",
+    "zh" : "选择箱"
+  },
+  "종료일이 시작일 보다 더 이전입니다. 날짜를 다시 확인해 주세요." : {
+    "en" : "The End date is earlier than the Start date. Please check the dates again.",
+    "ja" : "終了日が開始日より前の日付となっております。再度日付を確認してください。",
+    "vi" : "Ngày kết thúc sớm hơn ngày bắt đầu. Vui lòng kiểm tra lại ngày.",
+    "zh" : "结束日比开始日早。请再确认日期。"
+  },
+  "FAX번호" : {
+    "en" : "FAX Number",
+    "ja" : "FAX番号",
+    "vi" : "Số FAX",
+    "zh" : "传真号码"
+  },
+  "<li>양식은 다수의 폼릿(Formlet)으로 구성됩니다. <i class=\"ico ico_add\"><span>테이블 추가</span></i> 를 클릭하여 폼디자이너에서 폼릿에 넣을 양식을 작성하세요.</li><li>Drag &amp; Drop으로 폼릿의 상하 위치를 변경할 수 있습니다.</li><li><strong>연동 양식을 작성할 경우에는 먼저 [관리자설정&gt;연동API관리]에서 양식에 사용할 연동 인터페이스를 등록하세요.</strong></li>" : {
+    "en" : "<li> A form consists of many formlets <i class=\"ico ico_add\"><span> Click Add Table </span></i> to create forms that will be added to Formlets using Form Designer.</li><li>Drag &amp; Drop formlets to reorder its location.</li><li><strong> To create a linked form, add the linked interface that will be used in the form at [Admin Settings &gt; Manage Linked API].</strong></li>",
+    "ja" : "<li>フォームは、多数のフォームレット（Formlet）で構成されます。 <i class=\"ico ico_add\"><span>テーブルの追加</ span></ i>をクリックして、フォームデザイナでフォームレットに入れるフォームを作成してください。</ li><li> Drag＆amp; Dropでフォームレットの上下位置を変更することができます。</ li><li><strong>連動フォームを作成する場合は、まず[管理者設定＆gt;連動API管理]でフォームに使用する連動インターフェースを登録してください。</ strong ></ li>",
+    "vi" : "Mẫu <li> được cấu thành bởi nhiều Formlet. Nhấn vào </span></i> thêm bảng <i class=\"ico ico_add\"><span> và viết mẫu để vào formlet trên thiết kế mẫu. Bạn có thể thay đổi vị trí trên dưới của formlet sang </li><li>Kéo &amp; Thả. Trường hợp viết mẫu liên kết </li><li><strong>, đầu tiên hãy đăng ký giao diện liên kết trên mẫu ở [cài đặt người quản lý và gt; quản lý API liên kết].",
+    "zh" : "<li>样式构成为多数的(Formlet) <i class=\"ico ico_add\"><span>点击追加表格</span></i> 在形态设计写上放进Formlet的样式。通过</li><li>Drag &amp; Drop可以变更Formlet的上下位置。做</li><li><strong>联动样式的话先在 [管理者设定&gt;联动API管理] 登录在样式要使用的联动介面。</strong></li>"
+  },
+  "수신결재선" : {
+    "en" : "Receiving Line of Approval",
+    "ja" : "受信決裁ライン",
+    "vi" : "Tiếp nhận luồng phê duyệt",
+    "zh" : "收信审批线"
+  },
+  "연동시스템을 선택하세요." : {
+    "en" : "Select a linked system.",
+    "ja" : "連動システムを選択してください。",
+    "vi" : "Chọn hệ thống được liên kết.",
+    "zh" : "请选择联动系统"
+  },
+  "기타" : {
+    "en" : "Other",
+    "ja" : "その他",
+    "vi" : "Khác",
+    "zh" : "其他"
+  },
+  "열람자" : {
+    "en" : "Viewer",
+    "ja" : "閲覧者",
+    "vi" : "Người xem",
+    "zh" : "阅览者"
+  },
+  "텍스트박스" : {
+    "en" : "Text box",
+    "ja" : "テキストBox",
+    "vi" : "Hộp văn bản",
+    "zh" : "文本箱"
+  },
+  "이름" : {
+    "en" : "Name",
+    "ja" : "名前",
+    "vi" : "Tên",
+    "zh" : "名字"
+  },
+  "남은용량" : {
+    "en" : "Remaining space",
+    "ja" : "残り容量",
+    "vi" : "Dung lượng còn lại",
+    "zh" : "剩下的用量"
+  },
+  "휴대전화" : {
+    "en" : "Mobile phone",
+    "ja" : "携帯電話",
+    "vi" : "Điện thoại di động",
+    "zh" : "手机"
+  },
+  "게시글" : {
+    "en" : "Posts",
+    "ja" : "掲示物",
+    "vi" : "Bài viết",
+    "zh" : "布告文章"
+  },
+  "내부/합의/감사결재선" : {
+    "en" : "Internal/Consensus/Audit Line of Approval",
+    "ja" : "内部/合意/監査決裁ライン",
+    "vi" : "Nội bộ/Luồng phê duyệt_phê duyệt/Kiểm toán",
+    "zh" : "内部协议/感谢批准线"
+  },
+  "문서번호" : {
+    "en" : "Document number",
+    "ja" : "文書番号",
+    "vi" : "Số tài liệu",
+    "zh" : "文件号码"
+  },
+  "미분류" : {
+    "en" : "Uncategorized",
+    "ja" : "未分類",
+    "vi" : "Chưa được phân loại",
+    "zh" : "未分类"
+  },
+  "사용자코드" : {
+    "en" : "User code",
+    "ja" : "ユーザーコード",
+    "vi" : "Mã code người dùng",
+    "zh" : "使用者代码"
+  },
+  "전자결재 라이선스" : {
+    "en" : "E-Approval License",
+    "ja" : "電子決裁ライセンス",
+    "vi" : "Giấy phép phê duyệt điện tử",
+    "zh" : "电子审批资格"
+  },
+  "인터페이스를 선택하세요." : {
+    "en" : "Select an interface.",
+    "ja" : "インターフェースを選択してください。",
+    "vi" : "Chọn giao diện.",
+    "zh" : "请选择接口"
+  },
+  "장소" : {
+    "en" : "Where (Location)",
+    "ja" : "場所",
+    "vi" : "Địa điểm",
+    "zh" : "地点"
+  },
+  "합의결재선" : {
+    "en" : "Consensus Line of Approval",
+    "ja" : "合意決裁ライン",
+    "vi" : "Luồng phê duyệt cộng tác",
+    "zh" : "协助决批准"
+  },
+  "공개구분" : {
+    "en" : "Public Classification",
+    "ja" : "公開区分",
+    "vi" : "Phân loại công khai",
+    "zh" : "公开区分"
+  },
+  "번호" : {
+    "en" : "Number",
+    "ja" : "番号",
+    "vi" : "Số",
+    "zh" : "号码"
+  },
+  "목" : {
+    "en" : "Thu",
+    "ja" : "木",
+    "vi" : "Thứ năm",
+    "zh" : "星期四"
+  },
+  "합의/수신결재선" : {
+    "en" : "Approval line _ Consensus/Receive",
+    "ja" : "合意/受信決裁ライン",
+    "vi" : "Luồng phê duyêt _ Đồng ý/Nhận",
+    "zh" : "协议/收信批准线"
+  },
+  "버튼" : {
+    "en" : "Button",
+    "ja" : "ボタン",
+    "vi" : "Nút",
+    "zh" : "按钮"
+  },
+  "집주소" : {
+    "en" : "Home Address",
+    "ja" : "自宅注所",
+    "vi" : "Địa chỉ nhà",
+    "zh" : "家庭地址"
+  },
+  "시간" : {
+    "en" : "Time",
+    "ja" : "時間",
+    "vi" : "Thời gian",
+    "zh" : "时间"
+  },
+  "메일 라이선스" : {
+    "en" : "Mail License",
+    "ja" : "メールライセンス",
+    "vi" : "Giấy phép Mail",
+    "zh" : "邮件许可证"
+  },
+  "등록수" : {
+    "en" : "Total Registered",
+    "ja" : "登録数",
+    "vi" : "Tổng cộng",
+    "zh" : "登录数"
+  },
+  "포스트" : {
+    "en" : "Post",
+    "ja" : "ポスト",
+    "vi" : "Bài đăng",
+    "zh" : "信箱"
+  },
+  "부서명" : {
+    "en" : "Department Name",
+    "ja" : "部署名",
+    "vi" : "Tên phòng ban/bộ phận",
+    "zh" : "部门名"
+  },
+  "비밀번호" : {
+    "en" : "Password",
+    "ja" : "パスワード",
+    "vi" : "Mật khẩu",
+    "zh" : "密码"
+  },
+  "직책" : {
+    "en" : "Duty",
+    "ja" : "役職",
+    "vi" : "Chức vụ",
+    "zh" : "职责"
+  },
+  "회사인장" : {
+    "en" : "Company Seal",
+    "ja" : "会社印章",
+    "vi" : "Con dấu công ty",
+    "zh" : "公司印章"
+  },
+  "SAP IN DATA 명을 입력하세요" : {
+    "en" : "Enter SAP IN DATA name",
+    "ja" : "SAP IN DATA名を入力してください。",
+    "vi" : "Nhập tên SAP IN DATA",
+    "zh" : "请输入SAP IN DATA 名。"
+  },
+  "홍보로고" : {
+    "en" : "Promotional logo",
+    "ja" : "広報ロゴ",
+    "vi" : "Logo quảng cáo",
+    "zh" : "宣传标志"
+  },
+  "결혼기념일" : {
+    "en" : "Wedding anniversary",
+    "ja" : "結婚記念日",
+    "vi" : "Kỷ niệm ngày cưới",
+    "zh" : "结婚纪念日"
+  },
+  "기본주소" : {
+    "en" : "Main Address",
+    "ja" : "基本アドレス",
+    "vi" : "Địa chỉ cơ bản",
+    "zh" : "基本地址"
+  },
+  "월" : {
+    "en" : "Mon",
+    "ja" : "月",
+    "vi" : "Thứ hai",
+    "zh" : "星期一"
+  },
+  "사용자선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "참조결재선" : {
+    "en" : "Reference Line of Approval",
+    "ja" : "参照決裁ライン",
+    "vi" : "Luồng phê duyệt tham chiếu",
+    "zh" : "参照决裁线"
+  },
+  "오류가 발생 하였습니다. 관리자에게 문의하여 주세요." : {
+    "en" : "An error occurred. Please contact the administrator.",
+    "ja" : "エラーが発生しました。管理者にお問い合わせください。",
+    "vi" : "Có lỗi phát sinh. Vui lòng liên lạc với quản trị viên của bạn.",
+    "zh" : "发生了错误。请向管理者询查。"
+  },
+  "전자우편주소" : {
+    "en" : "E-mail address",
+    "ja" : "電子メールアドレス",
+    "vi" : "Địa chỉ e-mail",
+    "zh" : "电子邮件地址"
+  },
+  "Cloud 연동" : {
+    "en" : "Cloud Integration",
+    "ja" : "Cloud連携",
+    "vi" : "Liên kết Cloud",
+    "zh" : "云联动"
+  },
+  "결재" : {
+    "en" : "Approval",
+    "ja" : "決裁",
+    "vi" : "phê duyệt",
+    "zh" : "决裁"
+  },
+  "감사자" : {
+    "en" : "Auditor",
+    "ja" : "監査者",
+    "vi" : "Kiểm toán viên",
+    "zh" : "审计者"
+  },
+  "합의부서" : {
+    "en" : "Consensus Department",
+    "ja" : "合意部署",
+    "vi" : "Phòng ban/bộ phận cộng tác",
+    "zh" : "协助部门"
+  },
+  "영문명" : {
+    "en" : "English name",
+    "ja" : "英字名",
+    "vi" : "Tên tiêng Anh",
+    "zh" : "英文名"
+  },
+  "Cloud 메일주소" : {
+    "en" : "Cloud Mail Address",
+    "ja" : "Cloudメールアドレス",
+    "vi" : "Địa chỉ email Cloud",
+    "zh" : "云邮件地址"
+  },
+  "서명" : {
+    "en" : "Signature",
+    "ja" : "署名",
+    "vi" : "Chữ ký",
+    "zh" : "签名"
+  },
+  "빈 폼릿이 있습니다. 작성하지 않은 폼릿은 삭제 하시기 바랍니다." : {
+    "en" : "There is an empty formlet. Please delete the formlets that you're not using.",
+    "ja" : "空のフォームレットがあります。作成していないフォームレットは削除してください。",
+    "vi" : "Tôi có một formlet trống. Vui lòng xóa formlet bạn không dùng.",
+    "zh" : "有空的Formlet。请删除未编写的Formlet。"
+  },
+  "접수번호" : {
+    "en" : "Submission Number",
+    "ja" : "受付番号",
+    "vi" : "Số tiếp nhận",
+    "zh" : "接收号码"
+  },
+  "관인날인" : {
+    "en" : "Official seal",
+    "ja" : "官印捺印",
+    "vi" : "Con dấu chính thức",
+    "zh" : "公章盖章"
+  },
+  "접속수" : {
+    "en" : "Total No. of Accesses",
+    "ja" : "接続件数",
+    "vi" : "Số truy cập",
+    "zh" : "连接件数"
+  },
+  "결재선" : {
+    "en" : "Line of Approval",
+    "ja" : "決裁ライン",
+    "vi" : "Luồng phê duyệt",
+    "zh" : "决裁线"
+  },
+  "주민번호" : {
+    "en" : "Resident Registration Number",
+    "ja" : "住民番号",
+    "vi" : "Số đăng ký thường trú",
+    "zh" : "身份证号码"
+  },
+  "SAP OUT DATA 명을 입력하세요" : {
+    "en" : "Enter SAP OUT DATA name",
+    "ja" : "SAP OUT DATA名を入力してください。",
+    "vi" : "Nhập tên SAP OUT DATA",
+    "zh" : "请输入SAP OUT DATA 名。"
+  },
+  "실사용량" : {
+    "en" : "Used space",
+    "ja" : "実使用量",
+    "vi" : "Dung lượng đã sử dụng",
+    "zh" : "实际使用量"
+  },
+  "수신처제목" : {
+    "en" : "Destination Title",
+    "ja" : "受信先件名",
+    "vi" : "Tiêu đề địa chỉ nhận",
+    "zh" : "收信处题目"
+  },
+  "사용자 선택" : {
+    "en" : "Select user",
+    "ja" : "ユーザー選択",
+    "vi" : "Chọn người dùng",
+    "zh" : "选择使用者"
+  },
+  "사용횟수" : {
+    "en" : "Total times used",
+    "ja" : "使用回数",
+    "vi" : "Tổng số lần sử dụng",
+    "zh" : "使用次数"
+  },
+  "기관명" : {
+    "en" : "Institution name",
+    "ja" : "機関名",
+    "vi" : "Tên tổ chức",
+    "zh" : "机构名"
+  },
+  "연동 오류가 발생하였습니다. 새로 시도해주세요." : {
+    "en" : "A linkage error has occurred. Please try again.",
+    "ja" : "連動エラーが発生しました。再試行してください。",
+    "vi" : "Đã phát sinh lỗi liên kết. Vui lòng thử lại.",
+    "zh" : "发生了联动错误。请再试试。"
+  },
+  "기관로고" : {
+    "en" : "Institution logo",
+    "ja" : "機関ロゴ",
+    "vi" : "Logo tổ chức",
+    "zh" : "机构标志"
+  },
+  "붙임" : {
+    "en" : "Paste",
+    "ja" : "貼り付け",
+    "vi" : "Dán",
+    "zh" : "粘贴"
+  },
+  "수신처" : {
+    "en" : "Destination",
+    "ja" : "受信先",
+    "vi" : "Địa chỉ",
+    "zh" : "收信处"
+  },
+  "상세 집주소" : {
+    "en" : "Home Address (Detailed)",
+    "ja" : "詳細自宅住所",
+    "vi" : "Địa chỉ nhà chi tiết",
+    "zh" : "详细家地址"
+  },
+  "삭제하였습니다." : {
+    "en" : "It has been deleted.",
+    "ja" : "削除しました。",
+    "vi" : "Đã bị xóa.",
+    "zh" : "删除完了。"
+  },
+  "날짜" : {
+    "en" : "Date",
+    "ja" : "日付",
+    "vi" : "Ngày",
+    "zh" : "日子"
+  },
+  "등록일자" : {
+    "en" : "Registration Date",
+    "ja" : "登録日",
+    "vi" : "Ngày đăng ký",
+    "zh" : "登录日子"
+  },
+  "생년월일" : {
+    "en" : "Date of Birth",
+    "ja" : "生年月日",
+    "vi" : "Ngày sinh",
+    "zh" : "出生年月日"
+  },
+  "라디오버튼" : {
+    "en" : "Radio button",
+    "ja" : "ラジオボタン",
+    "vi" : "Nút radio",
+    "zh" : "广播按钮"
+  },
+  "메뉴명" : {
+    "en" : "Menu name",
+    "ja" : "メニュー名",
+    "vi" : "tên menu",
+    "zh" : "菜单名"
+  },
+  "수신처결재선" : {
+    "en" : "Destination Line of Approval",
+    "ja" : "受信先決裁ライン",
+    "vi" : "Người nhận luồng phê duyệt",
+    "zh" : "收信决批准"
+  },
+  "급수" : {
+    "en" : "Level",
+    "ja" : "レベル",
+    "vi" : "Cấp độ",
+    "zh" : "等级"
+  },
+  "히든박스" : {
+    "en" : "Hidden box",
+    "ja" : "隠しBox",
+    "vi" : "Hộp ẩn",
+    "zh" : "隐藏箱"
+  },
+  "정말 삭제 하시겠습니까?" : {
+    "en" : "Do you really want to delete it?",
+    "ja" : "本当に削除しますか？",
+    "vi" : "Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "真的要删除吗？"
+  },
+  "문서보존기간" : {
+    "en" : "Document Retention Period",
+    "ja" : "文書保存期間",
+    "vi" : "Thời hạn lưu giữ tài liệu",
+    "zh" : "保存文件期间"
+  },
+  "사번" : {
+    "en" : "Employee ID number",
+    "ja" : "社員番号",
+    "vi" : "Số ID nhân viên",
+    "zh" : "职员号码"
+  },
+  "담당업무" : {
+    "en" : "Duties",
+    "ja" : "担当業務",
+    "vi" : "Tác vụ phụ trách",
+    "zh" : "担当业务"
+  },
+  "발송명의" : {
+    "en" : "Name of Sender",
+    "ja" : "送信名義",
+    "vi" : "Tên người gửi",
+    "zh" : "发送名义"
+  },
+  "시행일자" : {
+    "en" : "Effective Date (Enforcement Date)",
+    "ja" : "施行日付",
+    "vi" : "Ngày thực thi",
+    "zh" : "实行日子"
+  },
+  "필수입력 항목입니다." : {
+    "en" : "You must fill in this item.",
+    "ja" : "必須入力項目です。",
+    "vi" : "Mục này là bắt buộc.",
+    "zh" : "必须输入的项目。"
+  },
+  "삭제 하시겠습니까?" : {
+    "en" : "Do you want to delete it?",
+    "ja" : "削除しますか？?",
+    "vi" : "Bạn chắc chắn muốn xóa chứ?",
+    "zh" : "要删除吗？"
+  },
+  "입력" : {
+    "en" : "Type",
+    "ja" : "入力",
+    "vi" : "Loại",
+    "zh" : "输入"
+  },
+  "합의자" : {
+    "en" : "Consensor",
+    "ja" : "合意者",
+    "vi" : "Cộng tác",
+    "zh" : "协助者"
+  },
+  "추가 할 항목이 없습니다." : {
+    "en" : "There is no item to add.",
+    "ja" : "追加する項目がありません。",
+    "vi" : "Không có mục để thêm",
+    "zh" : "没有可以追加的项目。"
+  },
+  "사용자" : {
+    "en" : "User",
+    "ja" : "ユーザー",
+    "vi" : "Người dùng",
+    "zh" : "使用者"
+  },
+  "내부/합의결재선" : {
+    "en" : "Internal/Consensus Line of Approval",
+    "ja" : "内部/合意決裁ライン",
+    "vi" : "Nội bộ/Luồng phê duyệt_phê duyệt",
+    "zh" : "内部/协议批准线"
+  },
+  "컨트롤을 선택하세요" : {
+    "en" : "Please select a control.",
+    "ja" : "コントロールを選択してください",
+    "vi" : "Vui lòng chọn mục kiểm soát.",
+    "zh" : "请选择控制。"
+  },
+  "이름(일본어)" : {
+    "en" : "Name (Japanese)",
+    "ja" : "名前（日本語）",
+    "vi" : "Tên (Tiếng Nhật)",
+    "zh" : "姓名( 日语)"
+  },
+  "우편번호 검색" : {
+    "en" : "Search Zip Code",
+    "ja" : "郵便番号検索",
+    "vi" : "Tìm kiếm Mã bưu chính",
+    "zh" : "搜索邮政编码"
+  },
+  "감사결재선" : {
+    "en" : "Audit Line of Approval",
+    "ja" : "監査決裁ライン",
+    "vi" : "Kiểm toán luồng phê chuẩn",
+    "zh" : "审计决裁线"
+  },
+  "개설일" : {
+    "en" : "Date Created",
+    "ja" : "開設日",
+    "vi" : "Ngày tạo",
+    "zh" : "开设日"
+  },
+  "문서정보" : {
+    "en" : "Document information",
+    "ja" : "ドキュメント情報",
+    "vi" : "Thông tin tài liệu",
+    "zh" : "文件信息"
+  },
+  "회사정보" : {
+    "en" : "Company Information",
+    "ja" : "会社情報",
+    "vi" : "Thông tin công ty",
+    "zh" : "公司信息"
+  },
+  "메신저 라이선스" : {
+    "en" : "Messenger License",
+    "ja" : "メッセンジャーライセンス",
+    "vi" : "Giấy phép Messenger",
+    "zh" : "聊天工具许可证"
+  },
+  "직책명" : {
+    "en" : "Duty name",
+    "ja" : "役職名",
+    "vi" : "Tên chức vụ",
+    "zh" : "职责名"
+  },
+  "집전화" : {
+    "en" : "Home number",
+    "ja" : "自宅電話",
+    "vi" : "Số điện thoại nhà",
+    "zh" : "住宅电话"
+  },
+  "요일" : {
+    "en" : "day",
+    "ja" : "曜日",
+    "vi" : "ngày",
+    "zh" : "星期"
+  },
+  "캘린더명" : {
+    "en" : "Calendar name",
+    "ja" : "カレンダー名",
+    "vi" : "Tên lịch",
+    "zh" : "日历名"
+  },
+  "직위" : {
+    "en" : "Position",
+    "ja" : "職位",
+    "vi" : "Chưức vụ",
+    "zh" : "职位"
+  },
+  "텍스트영역" : {
+    "en" : "Text area",
+    "ja" : "テキスト領域",
+    "vi" : "Vùng văn bản",
+    "zh" : "文本领域"
+  },
+  "일" : {
+    "en" : "Sun",
+    "ja" : "日",
+    "vi" : "Chủ nhật",
+    "zh" : "星期日"
+  },
+  "하단홍보문구" : {
+    "en" : "Promotional Phrase (Bottom)",
+    "ja" : "下段の広報フレーズ",
+    "vi" : "Cụm từ quảng cáo phía dưới",
+    "zh" : "下端宣传文句"
+  },
+  "합의/감사/수신결재선" : {
+    "en" : "Approval line _ Consensus/Audit/Receive",
+    "ja" : "合意/監査/受信決裁ライン",
+    "vi" : "Luồng phê duyêt _ Đồng ý/Kiểm toán/Nhận",
+    "zh" : "协议/感谢/收信批准线"
+  },
+  "홈페이지" : {
+    "en" : "Homepage",
+    "ja" : "ホームページ",
+    "vi" : "Trang chủ",
+    "zh" : "主页"
+  },
+  "결재 상태" : {
+    "en" : "Approval status",
+    "ja" : "決裁状態",
+    "vi" : "Tình trạng phê duyệt",
+    "zh" : "批准状态"
+  },
+  "부서" : {
+    "en" : "Department",
+    "ja" : "部署",
+    "vi" : "Phòng ban/bộ phận",
+    "zh" : "部门"
+  },
+  "모바일 메신저 라이선스" : {
+    "en" : "Mobile Messenger License",
+    "ja" : "モバイルメッセンジャーライセンス",
+    "vi" : "Giấy phép Messenger trên điện thoại",
+    "zh" : "移动通信聊天工具许可证"
+  },
+  "입사일" : {
+    "en" : "Date of Employment",
+    "ja" : "入社日",
+    "vi" : "Ngày gia nhập công ty",
+    "zh" : "加入公司日"
+  },
+  "종료날짜" : {
+    "en" : "End date",
+    "ja" : "終了日",
+    "vi" : "Ngày kết thúc",
+    "zh" : "结束日子"
+  },
+  "HTML에디터" : {
+    "en" : "HTML Editor",
+    "ja" : "HTMLエディタ",
+    "vi" : "Chỉnh sửa HTML",
+    "zh" : "HTML编辑器"
+  },
+  "등록된 인터페이스가 없습니다." : {
+    "en" : "No registered interface.",
+    "ja" : "登録されたインタフェースがありません。",
+    "vi" : "Không có giao diện nào được thêm vào.",
+    "zh" : "没有登录的接口。"
+  },
+  "폴더명" : {
+    "en" : "Folder name",
+    "ja" : "フォルダ名",
+    "vi" : "Tên thư mục",
+    "zh" : "文件夹名"
+  },
+  "공람자" : {
+    "en" : "Sharer (Public View)",
+    "ja" : "供覧者",
+    "vi" : "Người chia sẻ",
+    "zh" : "供览者"
+  },
+  "문서내용끝" : {
+    "en" : "Document content end",
+    "ja" : "文書内容の最後",
+    "vi" : "Nội dung tài liệu kết thúc",
+    "zh" : "文件内容结束"
+  },
+  "개인 이메일" : {
+    "en" : "Personal email.",
+    "ja" : "個人メール",
+    "vi" : "Email cá nhân.",
+    "zh" : "个人电子邮件"
+  },
+  "연동 오류가 발생하여 기안할 수 없습니다." : {
+    "en" : "Link error occurred. Cannot be drafted.",
+    "ja" : "連動エラーが発生して起案できません。",
+    "vi" : "Không thể gửi vì đã phát sinh lỗi liên kết.",
+    "zh" : "由于发送联动错误不可起案。"
+  },
+  "기관정보" : {
+    "en" : "Institution information",
+    "ja" : "機関情報",
+    "vi" : "Thông tin tổ chức",
+    "zh" : "机构信息"
+  },
+  "토" : {
+    "en" : "Sat",
+    "ja" : "土",
+    "vi" : "Thứ bảy",
+    "zh" : "星期六"
+  },
+  "내선번호" : {
+    "en" : "Extension number",
+    "ja" : "内線番号",
+    "vi" : "Số mở rộng",
+    "zh" : "内线号码"
+  },
+  "기안자정보" : {
+    "en" : "Drafter Information",
+    "ja" : "起案者情報",
+    "vi" : "Thông tin người nộp trình",
+    "zh" : "起案者信息"
+  },
+  "수신결재부서" : {
+    "en" : "Reception Approval Department",
+    "ja" : "受信決裁部署",
+    "vi" : "Phòng ban/bộ phận tiếp nhận phê duyệt",
+    "zh" : "收信批准部门"
+  },
+  "시작날짜" : {
+    "en" : "Start date",
+    "ja" : "開始日",
+    "vi" : "Ngày bắt đầu",
+    "zh" : "开始日子"
+  },
+  "전화번호" : {
+    "en" : "Phone number",
+    "ja" : "電話番号",
+    "vi" : "Số điện thoại",
+    "zh" : "电话号码"
+  },
+  "웹브라우저" : {
+    "en" : "Web Browser",
+    "ja" : "ブラウザ",
+    "vi" : "Trình duyệt",
+    "zh" : "浏览器"
+  },
+  "접속통계" : {
+    "en" : "Access statistics",
+    "ja" : "接続統計",
+    "vi" : "Thống kê truy cập",
+    "zh" : "连接统计"
+  },
+  "성별" : {
+    "en" : "Gender",
+    "ja" : "性別",
+    "vi" : "Giới tính",
+    "zh" : "性别"
+  },
+  "반복 추가 버튼" : {
+    "en" : "Repeat Add' Button",
+    "ja" : "繰り返し追加ボタン",
+    "vi" : "Thêm nút Lặp lại",
+    "zh" : "重复追加按钮"
+  },
+  "내역" : {
+    "en" : "Details",
+    "ja" : "内訳",
+    "vi" : "Thông tin chi tiết",
+    "zh" : "细目"
+  },
+  "상단홍보문구" : {
+    "en" : "Promotional Phrase (Top)",
+    "ja" : "上段の広報フレーズ",
+    "vi" : "Cụm từ quảng cáo hàng đầu",
+    "zh" : "上端宣传文句"
+  },
+  "문서공개여부" : {
+    "en" : "Document Disclosure Status",
+    "ja" : "ドキュメント公開可否",
+    "vi" : "Công khai tài liệu hay không",
+    "zh" : "是否公开文件"
+  },
+  "그룹웨어 라이선스" : {
+    "en" : "Groupware License",
+    "ja" : "グループウェアライセンス",
+    "vi" : "Giấy phép Groupware",
+    "zh" : "群件许可证"
+  },
+  "회사 이메일" : {
+    "en" : "Company E-mail",
+    "ja" : "会社のEmai",
+    "vi" : "Email công ty",
+    "zh" : "公司邮件"
+  },
+  "모바일앱 라이선스" : {
+    "en" : "Mobile App License",
+    "ja" : "モバイルアプリライセンス",
+    "vi" : "Giấy phép Ứng dụng điện thoại",
+    "zh" : "移动通信应用程序许可证"
+  },
+  "기간" : {
+    "en" : "Period",
+    "ja" : "期間",
+    "vi" : "Thời hạn",
+    "zh" : "期间"
+  },
+  "사원번호" : {
+    "en" : "Emp. NO",
+    "ja" : "社員番号",
+    "vi" : "Nhân viên Số",
+    "zh" : "员工序号"
+  },
+  "결재완료일" : {
+    "en" : "Date approved",
+    "ja" : "決裁完了日",
+    "vi" : "Ngày hoàn thành phê duyệt",
+    "zh" : "批准结束日"
+  },
+  "수신" : {
+    "en" : "Receive",
+    "ja" : "受信",
+    "vi" : "Nhận",
+    "zh" : "收信"
+  },
+  "문서함" : {
+    "en" : "Document Box",
+    "ja" : "文書",
+    "vi" : "Tài liệu",
+    "zh" : "文件箱"
+  },
+  "보안등급" : {
+    "en" : "Security level",
+    "ja" : "保安レベル",
+    "vi" : "Mức độ bảo mật",
+    "zh" : "安保等级"
+  },
+  "이름(베트남어)" : {
+    "en" : "Name (Vietnamese)",
+    "ja" : "名前（ベトナム語）",
+    "vi" : "Tên (Tiếng Việt)",
+    "zh" : "姓名( 越南语)"
+  },
+  "회사로고" : {
+    "en" : "Company logo",
+    "ja" : "会社ロゴ",
+    "vi" : "Logo công ty",
+    "zh" : "公司标志"
+  },
+  "결재의견" : {
+    "en" : "Approval opinion",
+    "ja" : "決裁意見",
+    "vi" : "Ý kiến phê duyệt",
+    "zh" : "决裁意见"
+  },
+  "회사명" : {
+    "en" : "Company name",
+    "ja" : "会社名",
+    "vi" : "Tên công ty",
+    "zh" : "公司名"
+  },
+  "반복 삭제 버튼" : {
+    "en" : "Repeat Delete' Button",
+    "ja" : "繰り返し削除ボタン",
+    "vi" : "Xóa nút Lặp lại",
+    "zh" : "重复删除按钮"
+  },
+  "등록된 연동 시스템이 없습니다." : {
+    "en" : "No registered linked system.",
+    "ja" : "登録された連動システムがありません。",
+    "vi" : "Không có hệ thống được liên kết.",
+    "zh" : "没有登录的联动系统没有登录的联动系统。"
+  },
+  "작성한 폼릿이 삭제됩니다. 계속 하시겠습니까?" : {
+    "en" : "The formlet will be deleted. Do you want to continue?",
+    "ja" : "作成したフォームレットが削除されます。続行しますか？",
+    "vi" : "Formet bạn tạo sẽ bị xóa. Bạn có muốn tiếp tục không?",
+    "zh" : "制作的 formlet将删除。要继续做吗？"
+  },
+  "접속비율" : {
+    "en" : "Access rate",
+    "ja" : "アクセス比率",
+    "vi" : "Tỷ lệ truy cập",
+    "zh" : "访问比例"
+  },
+  "게시판" : {
+    "en" : "Board",
+    "ja" : "掲示板",
+    "vi" : "Bảng tin",
+    "zh" : "公告栏"
+  },
+  "시스템" : {
+    "en" : "system",
+    "ja" : "システム",
+    "vi" : "hệ thống",
+    "zh" : "系统"
+  },
+  "추천일" : {
+    "en" : "Date recommended",
+    "ja" : "おすすめ日時",
+    "vi" : "Ngày khuyến nghị",
+    "zh" : "推存日"
+  },
+  "회원수" : {
+    "en" : "Total members",
+    "ja" : "会員数",
+    "vi" : "Tổng số thành viên",
+    "zh" : "会员数"
+  },
+  "날짜형식이 잘못되었습니다." : {
+    "en" : "Invalid date format.",
+    "ja" : "日付の形式が正しくありません。",
+    "vi" : "Định dạng ngày không đúng.",
+    "zh" : "日期形式有错误。"
+  },
+  "연동" : {
+    "en" : "Link with",
+    "ja" : "連動",
+    "vi" : "Liên kết với",
+    "zh" : "联动"
+  },
+  "오늘날짜" : {
+    "en" : "Today's date",
+    "ja" : "今日の日付",
+    "vi" : "Ngày hôm nay",
+    "zh" : "今天日子"
+  },
+  "URL 파라미터" : {
+    "en" : "URL parameter",
+    "ja" : "URLパラメータ",
+    "vi" : "URL Parameter",
+    "zh" : "URL 参数"
+  },
+  "생년월일 양/음력" : {
+    "en" : "Date of birth, solar/lunar",
+    "ja" : "生年月日 陽/旧暦",
+    "vi" : "Ngày tháng năm sinh, theo dương lịch/âm lịch",
+    "zh" : "出生年月日 阳历/阴历"
+  },
+  "문서제목" : {
+    "en" : "Document Title",
+    "ja" : "文書件名",
+    "vi" : "Tiêu đề tài liệu",
+    "zh" : "文件题目"
+  },
+  "대내공문인장" : {
+    "en" : "Internal Official Document Seal",
+    "ja" : "対内公文印章",
+    "vi" : "Con dấu chính thức sử dụng trong nội bộ",
+    "zh" : "对内公文印章"
+  },
+  "고정결재선" : {
+    "en" : "Fixed Line of Approval",
+    "ja" : "固定決裁ライン",
+    "vi" : "Cố định luồng phê duyệt",
+    "zh" : "固定决裁线"
+  },
+  "연결할 인터페이스 데이터를 선택 하세요." : {
+    "en" : "Please select the interface data to connect.",
+    "ja" : "接続するインタフェースデータを選択してください。",
+    "vi" : "Vui lòng chọn các dữ liệu giao diện để tiến hành kết nối.",
+    "zh" : "请选择要连接的接口数据。"
+  },
+  "결재상태를 선택하세요." : {
+    "en" : "Select approval status.",
+    "ja" : "決裁状態を選択してください。",
+    "vi" : "Chọn trạng thái phê duyệt.",
+    "zh" : "请选择批准状态。"
+  },
+  "수신처 결재선" : {
+    "en" : "Recipient approval line.",
+    "ja" : "宛先決裁ライン",
+    "vi" : "Dòng phê duyệt người nhận.",
+    "zh" : "收件人审批流程"
+  }
+}
