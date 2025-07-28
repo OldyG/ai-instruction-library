@@ -9,7 +9,7 @@
 
 ## 포함된 파일들
 - `coast-saver.mdc` - AI와의 상호작용을 비용 효율적으로 최적화하는 지침
-- `ai-interaction-manual.md` - AI와의 상호작용 가이드 (수동 참조)
+- `user-grasp-manual.md` - 작업 전 사용자 의도 파악 가이드 (수동 참조)
 - `using-playwright-view-the-same-screen-manual.md` - Playwright를 이용한 화면 같이보기 가이드 (수동 참조)`
 
 ## 파일명 패턴
