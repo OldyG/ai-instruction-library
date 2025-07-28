@@ -9,6 +9,7 @@
 
 ## 포함된 파일들
 - `ai-interaction-manual.md` - AI와의 상호작용 가이드 (수동 참조)
+- `using-playwright-view-the-same-screen-manual.md` - Playwright를 이용한 화면 같이보기 가이드 (수동 참조)`
 
 ## 파일명 패턴
 - `-manual`: 필요시 수동으로 참조하는 작업 방식 가이드
