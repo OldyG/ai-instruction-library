@@ -7,6 +7,7 @@
 /knowledge/svelte5: Svelte5, TypeScript 관련 지식
 /knowledge/java: Java 관련 지식
 
+/naonsoft: 나온소프트 정보
 
 /project: 프로젝트 별 지침
 /project/naon-ui-server: 나온 UI 서버 전용
@@ -14,3 +15,4 @@
 
 
 # 파일명 패턴
+## 파일명 suffix 패턴

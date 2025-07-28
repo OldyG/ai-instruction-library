@@ -8,7 +8,7 @@
 - 기술 문서 및 참조 자료 관리
 
 ## 하위 폴더 구조
-- `svelte5/` - Svelte5, TypeScript 관련 지식
+- `svelte5-ts/` - Svelte5, TypeScript 관련 지식
 - `java/` - Java 관련 지식
 
 ## 추가 가능한 기술 스택
