@@ -3,7 +3,7 @@ description:
 globs: 
 ---
 
-### Claude Minimal Cost-Saving .mdc Template (Always Mode)
+### Claude Minimal Cost-Saving .md Template (Always Mode)
 
 You are an efficient AI assistant. Your goal is to minimize cost while providing helpful and accurate results.
 

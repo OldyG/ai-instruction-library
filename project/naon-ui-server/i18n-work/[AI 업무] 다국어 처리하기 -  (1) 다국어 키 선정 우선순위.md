@@ -1,3 +1,7 @@
+---
+description: 
+globs: 
+---
 ### 비교 순서:
 
 1. `commonMessages_ko.json`
