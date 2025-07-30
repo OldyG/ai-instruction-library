@@ -1,5 +1,6 @@
 ---
-alwaysApply: true
+description:
+globs: 
 ---
 
 ### Claude Minimal Cost-Saving .mdc Template (Always Mode)

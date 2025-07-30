@@ -1,7 +1,6 @@
 ---
 description: 다국어(i18n) 파일 작업 시 사용하는 상세 규칙
 globs: *.svelte,*.ts,commonMessages_*.json,emlMessages_*.json
-alwaysApply: false
 ---
 
 # 다국어(i18n) 처리 규칙

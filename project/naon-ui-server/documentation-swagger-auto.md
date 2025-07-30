@@ -1,7 +1,6 @@
 ---
 description: 문서화 및 Swagger 사용 규칙
 globs: src/lib/api/**/*.ts,**/*.md,docs/**/*
-alwaysApply: false
 ---
 
 # 문서화 및 Swagger 규칙

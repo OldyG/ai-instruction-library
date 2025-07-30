@@ -1,7 +1,6 @@
 ---
 description: 
 globs: 
-alwaysApply: true
 ---
 
 # 나온 프로젝트 구조 및 목적

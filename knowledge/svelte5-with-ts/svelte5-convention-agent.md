@@ -1,7 +1,6 @@
 ---
 description: Svelte 5 컴포넌트 작업 시 상세 컨벤션 규칙
 globs: **/*.svelte
-alwaysApply: false
 ---
 
 # Svelte 5 컴포넌트 상세 컨벤션

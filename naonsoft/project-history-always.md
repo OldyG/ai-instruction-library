@@ -1,7 +1,6 @@
 ---
 description: 나온 프로젝트의 핵심 규칙 - 항상 적용됨
 globs: **/*
-alwaysApply: true
 ---
 
 # 프로젝트의 목적 역사

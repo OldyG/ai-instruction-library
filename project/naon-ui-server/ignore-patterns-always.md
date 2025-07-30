@@ -1,7 +1,6 @@
 ---
 description: 작업 시 무시해야 할 파일 및 디렉토리 패턴
 globs: **/*
-alwaysApply: true
 ---
 
 # 무시할 파일/디렉토리 패턴

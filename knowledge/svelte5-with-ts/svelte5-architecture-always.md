@@ -1,7 +1,6 @@
 ---
 description: Svelte 5 아키텍처 및 컴포넌트 작성 규칙
 globs: **/*.svelte,src/**/*.ts
-alwaysApply: true
 ---
 
 # Svelte 5 아키텍처 규칙

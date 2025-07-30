@@ -1,7 +1,6 @@
 ---
 description: API 개발 및 클라이언트 작성 규칙
 globs: src/lib/api/**/*.ts,src/lib/biz/**/*.ts
-alwaysApply: false
 ---
 
 # API 개발 규칙

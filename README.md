@@ -28,7 +28,6 @@
 각 지침 파일은 용도에 따른 suffix를 사용합니다:
 
 ### 적용 범위별
-- **`-always`** - 항상 자동 적용되는 핵심 규칙 (alwaysApply: true)
 - **`-manual`** - 필요시 수동으로 참조하는 지침
 
 ### 사용 목적별  
@@ -44,7 +43,6 @@
 ---
 description: 파일의 목적과 기능 설명
 globs: **/*.{ts,js,svelte}  # 적용될 파일 패턴
-alwaysApply: true|false     # 자동 적용 여부
 ---
 ```
 

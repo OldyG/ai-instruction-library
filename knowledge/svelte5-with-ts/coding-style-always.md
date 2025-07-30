@@ -1,7 +1,6 @@
 ---
 description: 코딩 스타일 규칙 - 네이밍, 포맷팅, ESLint 준수
 globs: **/*.{ts,js,tsx,jsx,svelte}
-alwaysApply: true
 ---
 # 📝 Svelte 5 + TS 코드 스타일 지침
 ---

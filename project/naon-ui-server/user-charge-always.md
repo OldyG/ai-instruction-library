@@ -1,7 +1,6 @@
 ---
 description: 
 globs: 
-alwaysApply: true
 ---
 # 사용자(정현) 담당
 

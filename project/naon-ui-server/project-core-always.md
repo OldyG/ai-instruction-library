@@ -1,7 +1,6 @@
 ---
 description: 프로젝트의 핵심 디렉토리 구조 및 경로 규칙을 항상 적용함. Fix this, Refactor this 명령 시 강제됨.
 globs: **/*
-alwaysApply: true
 ---
 
 # 📁 프로젝트 핵심 구조 규칙

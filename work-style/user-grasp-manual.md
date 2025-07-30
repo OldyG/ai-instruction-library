@@ -1,7 +1,6 @@
 ---
 description: AI와의 효과적인 상호작용을 위한 규칙. @ai-interaction으로 수동 호출 시 적용됩니다.
 globs: .cursor/**/*,.cursorrules
-alwaysApply: false
 ---
 
 # 🎯 AI 상호작용 실행 지침

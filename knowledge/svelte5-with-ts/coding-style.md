@@ -1,7 +1,6 @@
 ---
 description: 
 globs: *.svelte,*.ts
-alwaysApply: false
 ---
 
 
