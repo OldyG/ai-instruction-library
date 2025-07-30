@@ -6,9 +6,9 @@ globs: **/*.svelte
 # Svelte 5 컴포넌트 상세 컨벤션
 
 ## 📋 섹션 순서 (반드시 준수)
-- [svelte.code-snippets](mdc:.vscode/svelte.code-snippets) 참조
+- [svelte.code-snippets](.vscode/svelte.code-snippets) 참조
   - 개발자는 해당 기능을 사용하여 신규 파일 만들고 init 또는 init-2를 이용하여 컴포넌트 기본구성함
-  - [스벨트_정의_샘플.svelte](mdc:.cursor/스벨트_정의_샘플.svelte) 는 init-2 명령을 이용한 결과물 파일
+  - [스벨트_정의_샘플.svelte](.cursor/스벨트_정의_샘플.svelte) 는 init-2 명령을 이용한 결과물 파일
 
 
 2. **import Section**

@@ -12,13 +12,13 @@ globs: *.svelte,*.ts,commonMessages_*.json,emlMessages_*.json
 
 
 ## 🌍 기본 설정
-- **기본 경로**: [emlMessages_ko.json](mdc:packages/naon-webapp/static/resources/i18n/emlMessages_ko.json) 가 포함된 디렉토리
+- **기본 경로**: [emlMessages_ko.json](packages/naon-webapp/static/resources/i18n/emlMessages_ko.json) 가 포함된 디렉토리
 - **지원 언어**: ko(한국어), en(영어), ja(일본어), vi(베트남어), zh(중국어)
 - **파일 패턴**: `{namespace}Messages_{lang}.json`
 
 ## 🔍 우선순위 검색 순서 (절대 준수)
-1. [commonMessages_ko.json](mdc:packages/naon-webapp/static/resources/i18n/commonMessages_ko.json)
-2. [emlMessages_ko.json](mdc:packages/naon-webapp/static/resources/i18n/emlMessages_ko.json)
+1. [commonMessages_ko.json](packages/naon-webapp/static/resources/i18n/commonMessages_ko.json)
+2. [emlMessages_ko.json](packages/naon-webapp/static/resources/i18n/emlMessages_ko.json)
 
 
 
