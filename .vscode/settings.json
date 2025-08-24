@@ -1,0 +1,29 @@
+
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Users\\hokkk\\.jdks\\azul-17.0.15"
+        }
+    ],
+    "java.import.gradle.enabled": false,
+    "java.import.maven.enabled": false,
+    "java.build.workspace.enabled": false,
+    "java.server.launchMode": "Standard",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable",
+    "java.project.outputPath": ".cursor-classes",
+    "java.jdt.ls.lombokSupport.enabled": true,
+    "java.completion.enabled": true,
+    "java.signatureHelp.enabled": true,
+    "java.format.enabled": false,
+    "java.debug.settings.enableRunDebugCodeLens": false,
+    "java.test.editor.enableShortcuts": false,
+    "java.format.settings.url": "file:./eclipse-formatter 2024-11.xml",
+    "java.format.settings.profile": "naon-formatter",
+    "java.autobuild.enabled": false,
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-17",
+    "files.watcherExclude": { "**/target/**": true },
+    "search.exclude": { "**/target/**": true }
+}
